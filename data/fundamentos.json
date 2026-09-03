@@ -2309,6 +2309,1392 @@
       "subject": "Behaviorismo radical (Skinner)",
       "difficulty": "medio",
       "miniLesson": "Um profissional de recursos humanos, ao invés de aplicar advertências (punição) para funcionários que chegam atrasados, opta por reconhecer publicamente e reforçar os que cumprem os horários combinados, obtendo redução consistente dos atrasos sem aumento de conflitos interpessoais. Essa escolha está fundamentada, do ponto de vista do behaviorismo radical, no princípio de que: A escolha do profissional reflete o princípio skinneriano de que o reforçamento positivo tende a consolidar comportamentos desejados de forma duradoura, evitando os efeitos colaterais emocionais (ansiedade, esquiva) que frequentemente acompanham o uso da punição — fundamento central do OBM."
+    },
+    {
+      "id": "fund-obj-106",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental. Segundo Goodwin (2017), esse laboratório foi fundado por Wilhelm Wundt na universidade de:",
+      "options": {
+        "a": "Leipzig, na Alemanha",
+        "b": "Harvard, nos Estados Unidos",
+        "c": "Oxford, na Inglaterra",
+        "d": "Viena, na Áustria",
+        "e": "Genebra, na Suíça"
+      },
+      "correct": "a",
+      "explanation": "O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental na Universidade de Leipzig, na Alemanha, por Wilhelm Wundt.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental. Segundo Goodwin (2017), esse laboratório foi fundado por Wilhelm Wundt na universidade de: O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental na Universidade de Leipzig, na Alemanha, por Wilhelm Wundt."
+    },
+    {
+      "id": "fund-obj-107",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Wilhelm Wundt, com formação em medicina e fisiologia, propôs que a psicologia deveria ser uma ciência dedicada ao estudo de:",
+      "options": {
+        "a": "A experiência consciente imediata",
+        "b": "O comportamento observável exclusivamente",
+        "c": "O inconsciente e as pulsões",
+        "d": "As relações funcionais de contingências",
+        "e": "As leis universais da física mecânica"
+      },
+      "correct": "a",
+      "explanation": "Wundt propôs que a psicologia deveria ser uma ciência dedicada ao estudo da experiência consciente imediata — a experiência subjetiva tal como vivenciada pela pessoa, sem a interferência de interpretações ou conhecimentos prévios sobre o objeto.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Wilhelm Wundt, com formação em medicina e fisiologia, propôs que a psicologia deveria ser uma ciência dedicada ao estudo de: Wundt propôs que a psicologia deveria ser uma ciência dedicada ao estudo da experiência consciente imediata — a experiência subjetiva tal como vivenciada pela pessoa, sem a interferência de interpretações ou conhecimentos prévios sobre o objeto."
+    },
+    {
+      "id": "fund-obj-108",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, ao olhar para uma maçã, a 'experiência mediata' seria reconhecer o objeto como 'uma maçã', enquanto a 'experiência imediata', foco de estudo de Wundt, consistiria em relatar:",
+      "options": {
+        "a": "As sensações básicas de cor, forma e intensidade da luz",
+        "b": "Exclusivamente o nome do objeto observado",
+        "c": "A utilidade prática do objeto para a sobrevivência",
+        "d": "As associações inconscientes ligadas ao objeto",
+        "e": "O histórico de aprendizagem sobre frutas"
+      },
+      "correct": "a",
+      "explanation": "A experiência imediata consistiria em relatar as sensações básicas de cor (vermelho), forma (arredondada) e intensidade da luz — sem a interpretação mediata que reconhece o objeto como 'uma maçã'.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao olhar para uma maçã, a 'experiência mediata' seria reconhecer o objeto como 'uma maçã', enquanto a 'experiência imediata', foco de estudo de Wundt, consistiria em relatar: A experiência imediata consistiria em relatar as sensações básicas de cor (vermelho), forma (arredondada) e intensidade da luz — sem a interpretação mediata que reconhece o objeto como 'uma maçã'."
+    },
+    {
+      "id": "fund-obj-109",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, de forma análoga a:",
+      "options": {
+        "a": "Como a química decompõe as substâncias em seus elementos básicos",
+        "b": "Como a física mede a velocidade da luz",
+        "c": "Como a biologia classifica espécies em filos",
+        "d": "Como a matemática resolve equações diferenciais",
+        "e": "Como a geografia mapeia territórios"
+      },
+      "correct": "a",
+      "explanation": "O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, assim como a química decompõe as substâncias em seus elementos básicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, de forma análoga a: O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, assim como a química decompõe as substâncias em seus elementos básicos."
+    },
+    {
+      "id": "fund-obj-110",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Para alcançar seu objetivo de decompor a consciência, Wundt adaptou métodos da fisiologia e da psicofísica, utilizando instrumentos de precisão denominados:",
+      "options": {
+        "a": "Cronoscópios, para medir frações de segundo entre o estímulo e a resposta",
+        "b": "Eletroencefalógrafos",
+        "c": "Tomógrafos computadorizados",
+        "d": "Espectrômetros de massa",
+        "e": "Ressonadores magnéticos"
+      },
+      "correct": "a",
+      "explanation": "Wundt utilizava instrumentos de precisão, como cronoscópios, para medir frações de segundo entre a apresentação do estímulo e a resposta da pessoa participante, conferindo à sua psicologia o status de ciência natural.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Para alcançar seu objetivo de decompor a consciência, Wundt adaptou métodos da fisiologia e da psicofísica, utilizando instrumentos de precisão denominados: Wundt utilizava instrumentos de precisão, como cronoscópios, para medir frações de segundo entre a apresentação do estímulo e a resposta da pessoa participante, conferindo à sua psicologia o status de ciência natural."
+    },
+    {
+      "id": "fund-obj-111",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O principal método de investigação adotado no laboratório de Leipzig foi a introspecção experimental. Segundo o material, essa introspecção se diferenciava da introspecção filosófica porque:",
+      "options": {
+        "a": "Era um procedimento altamente controlado, ao contrário da reflexão livre da introspecção filosófica",
+        "b": "Não envolvia qualquer relato verbal dos participantes",
+        "c": "Era realizada exclusivamente em animais de laboratório",
+        "d": "Dispensava qualquer tipo de estímulo experimental",
+        "e": "Baseava-se unicamente em questionários padronizados"
+      },
+      "correct": "a",
+      "explanation": "Diferente da introspecção filosófica, que consistia em uma reflexão livre sobre os próprios pensamentos, a introspecção de Wundt era um procedimento altamente controlado, com participantes treinados exaustivamente para relatar sensações imediatas diante de estímulos específicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O principal método de investigação adotado no laboratório de Leipzig foi a introspecção experimental. Segundo o material, essa introspecção se diferenciava da introspecção filosófica porque: Diferente da introspecção filosófica, que consistia em uma reflexão livre sobre os próprios pensamentos, a introspecção de Wundt era um procedimento altamente controlado, com participantes treinados exaustivamente para relatar sensações imediatas diante de estímulos específicos."
+    },
+    {
+      "id": "fund-obj-112",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, os participantes dos experimentos de Wundt no laboratório de Leipzig eram, geralmente:",
+      "options": {
+        "a": "Estudantes de pós-graduação do próprio laboratório",
+        "b": "Pacientes psiquiátricos internados",
+        "c": "Crianças em idade pré-escolar",
+        "d": "Animais não-humanos treinados",
+        "e": "Voluntários recrutados aleatoriamente na cidade"
+      },
+      "correct": "a",
+      "explanation": "As pessoas participantes dos experimentos de Wundt eram geralmente estudantes de pós-graduação do próprio laboratório, que passavam por um treinamento exaustivo para relatar suas sensações imediatas diante de estímulos específicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os participantes dos experimentos de Wundt no laboratório de Leipzig eram, geralmente: As pessoas participantes dos experimentos de Wundt eram geralmente estudantes de pós-graduação do próprio laboratório, que passavam por um treinamento exaustivo para relatar suas sensações imediatas diante de estímulos específicos."
+    },
+    {
+      "id": "fund-obj-113",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O 'erro de estímulo', que os participantes do laboratório de Wundt deveriam evitar durante a introspecção, consistia em:",
+      "options": {
+        "a": "Descrever o objeto em si em vez da sensação provocada por ele",
+        "b": "Confundir estímulos visuais com estímulos auditivos",
+        "c": "Utilizar o cronoscópio de forma incorreta",
+        "d": "Relatar sensações que não correspondiam a nenhum estímulo real",
+        "e": "Recusar-se a participar do experimento"
+      },
+      "correct": "a",
+      "explanation": "O erro de estímulo consistia em descrever o objeto físico apresentado (por exemplo, 'vejo uma moeda') em vez de relatar os elementos sensoriais básicos da experiência consciente imediata (por exemplo, 'vejo um disco brilhante, de cor metálica e bordas arredondadas').",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O 'erro de estímulo', que os participantes do laboratório de Wundt deveriam evitar durante a introspecção, consistia em: O erro de estímulo consistia em descrever o objeto físico apresentado (por exemplo, 'vejo uma moeda') em vez de relatar os elementos sensoriais básicos da experiência consciente imediata (por exemplo, 'vejo um disco brilhante, de cor metálica e bordas arredondadas')."
+    },
+    {
+      "id": "fund-obj-114",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "No exemplo dado no material, após ouvir um som breve como um clique, um participante treinado do laboratório de Wundt relataria corretamente sua experiência imediata dizendo algo como:",
+      "options": {
+        "a": "'Som agudo', 'curto' ou 'leve desconforto'",
+        "b": "'Ouvi um clique de mouse de computador'",
+        "c": "'Foi um som produzido por um instrumento musical'",
+        "d": "'Não ouvi nenhum som'",
+        "e": "'O som veio da direção norte'"
+      },
+      "correct": "a",
+      "explanation": "Após ouvir um som breve, como um clique, os participantes treinados relatavam imediatamente elementos sensoriais como 'som agudo', 'curto' ou 'leve desconforto', evitando nomear ou identificar o objeto causador do som.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo dado no material, após ouvir um som breve como um clique, um participante treinado do laboratório de Wundt relataria corretamente sua experiência imediata dizendo algo como: Após ouvir um som breve, como um clique, os participantes treinados relatavam imediatamente elementos sensoriais como 'som agudo', 'curto' ou 'leve desconforto', evitando nomear ou identificar o objeto causador do som."
+    },
+    {
+      "id": "fund-obj-115",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Edward Bradford Titchener, estudante britânico de Wundt, levou a abordagem introspeccionista para os Estados Unidos e fundou a escola de pensamento conhecida como:",
+      "options": {
+        "a": "Estruturalismo",
+        "b": "Funcionalismo",
+        "c": "Pragmatismo",
+        "d": "Behaviorismo",
+        "e": "Gestalt"
+      },
+      "correct": "a",
+      "explanation": "Edward Bradford Titchener, um estudante britânico de Wundt, levou essa abordagem para os Estados Unidos e fundou a escola de pensamento conhecida como Estruturalismo (Schultz; Schultz, 2019).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "Edward Bradford Titchener, estudante britânico de Wundt, levou a abordagem introspeccionista para os Estados Unidos e fundou a escola de pensamento conhecida como: Edward Bradford Titchener, um estudante britânico de Wundt, levou essa abordagem para os Estados Unidos e fundou a escola de pensamento conhecida como Estruturalismo (Schultz; Schultz, 2019)."
+    },
+    {
+      "id": "fund-obj-116",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, Titchener radicalizou a proposta de Wundt, estabelecendo que o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos, que são:",
+      "options": {
+        "a": "Sensações, imagens e afetos",
+        "b": "Reforços, punições e extinções",
+        "c": "Pulsões, defesas e complexos",
+        "d": "Estímulos, respostas e reforçadores",
+        "e": "Esquemas, assimilação e acomodação"
+      },
+      "correct": "a",
+      "explanation": "Titchener estabeleceu que o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Titchener radicalizou a proposta de Wundt, estabelecendo que o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos, que são: Titchener estabeleceu que o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos."
+    },
+    {
+      "id": "fund-obj-117",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O estruturalismo de Titchener exigia um controle laboratorial extremo, com pessoas observadoras treinadas para fornecer relatos introspectivos detalhados. Titchener chegou a catalogar:",
+      "options": {
+        "a": "Milhares de sensações visuais e auditivas distintas",
+        "b": "Apenas cinco categorias universais de emoções",
+        "c": "Um único tipo de sensação tátil",
+        "d": "As etapas do desenvolvimento cognitivo infantil",
+        "e": "Os reflexos incondicionados de animais"
+      },
+      "correct": "a",
+      "explanation": "Titchener catalogou milhares de sensações visuais e auditivas distintas, em um esforço de mapear exaustivamente os elementos básicos da consciência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O estruturalismo de Titchener exigia um controle laboratorial extremo, com pessoas observadoras treinadas para fornecer relatos introspectivos detalhados. Titchener chegou a catalogar: Titchener catalogou milhares de sensações visuais e auditivas distintas, em um esforço de mapear exaustivamente os elementos básicos da consciência."
+    },
+    {
+      "id": "fund-obj-118",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, o principal problema epistemológico do método introspectivo de Titchener residia:",
+      "options": {
+        "a": "Na falta de concordância entre diferentes observadores diante do mesmo estímulo",
+        "b": "No custo excessivo dos equipamentos de laboratório",
+        "c": "Na impossibilidade de realizar qualquer experimento com seres humanos",
+        "d": "Na ausência completa de qualquer tipo de estímulo controlado",
+        "e": "Na proibição legal da prática da introspecção"
+      },
+      "correct": "a",
+      "explanation": "O principal problema do método introspectivo residia na falta de concordância entre diferentes observadores: se duas pessoas bem treinadas relatassem sensações diferentes diante do mesmo estímulo, não havia critério objetivo para determinar qual relato era verdadeiro, já que a experiência consciente é privada e inacessível à observação pública.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o principal problema epistemológico do método introspectivo de Titchener residia: O principal problema do método introspectivo residia na falta de concordância entre diferentes observadores: se duas pessoas bem treinadas relatassem sensações diferentes diante do mesmo estímulo, não havia critério objetivo para determinar qual relato era verdadeiro, já que a experiência consciente é privada e inacessível à observação pública."
+    },
+    {
+      "id": "fund-obj-119",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, o declínio do estruturalismo ocorreu, entre outros motivos, devido à:",
+      "options": {
+        "a": "Subjetividade inerente ao método introspectivo e à recusa da escola em estudar psicologia animal, infantil e aplicada",
+        "b": "Ausência total de qualquer laboratório de pesquisa disponível",
+        "c": "Proibição governamental das pesquisas psicológicas na Alemanha",
+        "d": "Total concordância entre todos os observadores treinados",
+        "e": "Falta de interesse de Titchener em fundar uma escola de pensamento"
+      },
+      "correct": "a",
+      "explanation": "O declínio do estruturalismo ocorreu devido à subjetividade inerente ao método da introspecção, à impossibilidade de replicação exata dos resultados experimentais e à recusa da escola em estudar a psicologia animal, infantil e aplicada, limitando severamente seu escopo de atuação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o declínio do estruturalismo ocorreu, entre outros motivos, devido à: O declínio do estruturalismo ocorreu devido à subjetividade inerente ao método da introspecção, à impossibilidade de replicação exata dos resultados experimentais e à recusa da escola em estudar a psicologia animal, infantil e aplicada, limitando severamente seu escopo de atuação."
+    },
+    {
+      "id": "fund-obj-120",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Apesar do declínio do estruturalismo, o legado do laboratório de Wundt para a psicologia foi estabelecer a exigência de que a disciplina deveria:",
+      "options": {
+        "a": "Basear suas conclusões em dados empíricos coletados sob condições controladas",
+        "b": "Abandonar completamente qualquer forma de investigação da consciência",
+        "c": "Restringir-se apenas ao estudo do comportamento animal",
+        "d": "Rejeitar toda forma de mensuração matemática de fenômenos psicológicos",
+        "e": "Priorizar exclusivamente estudos de caso qualitativos"
+      },
+      "correct": "a",
+      "explanation": "Apesar de seu declínio, o estruturalismo e o laboratório de Wundt deixaram um legado inegável: estabeleceram a exigência de que a psicologia deveria basear suas conclusões em dados empíricos coletados sob condições controladas, separando a disciplina da especulação filosófica pura.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Apesar do declínio do estruturalismo, o legado do laboratório de Wundt para a psicologia foi estabelecer a exigência de que a disciplina deveria: Apesar de seu declínio, o estruturalismo e o laboratório de Wundt deixaram um legado inegável: estabeleceram a exigência de que a psicologia deveria basear suas conclusões em dados empíricos coletados sob condições controladas, separando a disciplina da especulação filosófica pura."
+    },
+    {
+      "id": "fund-obj-121",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, na prática de pesquisa atual em psicologia cognitiva e neurociência, a herança do rigor metodológico de Wundt se manifesta, por exemplo, no uso de:",
+      "options": {
+        "a": "Equipamentos de rastreamento ocular (eye-tracking) e ressonância magnética funcional",
+        "b": "Exclusivamente entrevistas não estruturadas",
+        "c": "Apenas relatos de sonhos analisados por associação livre",
+        "d": "Testes de personalidade projetivos sem qualquer controle",
+        "e": "Observação naturalística sem qualquer instrumento de medição"
+      },
+      "correct": "a",
+      "explanation": "A herança do rigor metodológico de Wundt manifesta-se no uso de equipamentos de eye-tracking ou ressonância magnética funcional para mapear áreas do cérebro ativadas durante tarefas de percepção, substituindo a introspecção falha por tecnologias de medição fisiológica avançadas que garantem replicabilidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na prática de pesquisa atual em psicologia cognitiva e neurociência, a herança do rigor metodológico de Wundt se manifesta, por exemplo, no uso de: A herança do rigor metodológico de Wundt manifesta-se no uso de equipamentos de eye-tracking ou ressonância magnética funcional para mapear áreas do cérebro ativadas durante tarefas de percepção, substituindo a introspecção falha por tecnologias de medição fisiológica avançadas que garantem replicabilidade."
+    },
+    {
+      "id": "fund-obj-122",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Antes mesmo da fundação do laboratório de Wundt, pesquisadores como Hermann von Helmholtz contribuíram para a psicologia experimental ao estudar:",
+      "options": {
+        "a": "A velocidade do impulso nervoso, demonstrando que os processos fisiológicos requeriam tempo e poderiam ser medidos",
+        "b": "O funcionamento do inconsciente e dos sonhos",
+        "c": "As leis do condicionamento operante",
+        "d": "A evolução das espécies por seleção natural",
+        "e": "A estrutura gramatical das línguas humanas"
+      },
+      "correct": "a",
+      "explanation": "Pesquisadores como Hermann von Helmholtz estudaram a velocidade do impulso nervoso, demonstrando que os processos fisiológicos subjacentes à percepção requeriam tempo e, portanto, poderiam ser medidos — constatação que abalou a crença de que os processos mentais eram instantâneos e insuscetíveis de quantificação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Antes mesmo da fundação do laboratório de Wundt, pesquisadores como Hermann von Helmholtz contribuíram para a psicologia experimental ao estudar: Pesquisadores como Hermann von Helmholtz estudaram a velocidade do impulso nervoso, demonstrando que os processos fisiológicos subjacentes à percepção requeriam tempo e, portanto, poderiam ser medidos — constatação que abalou a crença de que os processos mentais eram instantâneos e insuscetíveis de quantificação."
+    },
+    {
+      "id": "fund-obj-123",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, para que uma disciplina como a nascente psicologia experimental fosse considerada científica sob a ótica dos critérios de cientificidade em formação no final do século XIX, ela precisava adotar métodos:",
+      "options": {
+        "a": "Objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica",
+        "b": "Baseados exclusivamente em revelações religiosas",
+        "c": "Restritos à especulação filosófica pura, sem qualquer experimentação",
+        "d": "Dependentes unicamente da autoridade pessoal do pesquisador",
+        "e": "Voltados apenas para o senso comum, sem qualquer rigor metodológico"
+      },
+      "correct": "a",
+      "explanation": "Para ser considerada científica, uma disciplina precisava adotar métodos objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica — exigência que impulsionou a fundação do laboratório de Wundt e a adoção da introspecção experimental controlada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para que uma disciplina como a nascente psicologia experimental fosse considerada científica sob a ótica dos critérios de cientificidade em formação no final do século XIX, ela precisava adotar métodos: Para ser considerada científica, uma disciplina precisava adotar métodos objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica — exigência que impulsionou a fundação do laboratório de Wundt e a adoção da introspecção experimental controlada."
+    },
+    {
+      "id": "fund-obj-124",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Um pesquisador contemporâneo, ao estudar a percepção visual, pede a um participante que descreva apenas as sensações de cor, forma e brilho de um objeto apresentado, sem nomeá-lo. Essa instrução busca evitar exatamente o problema identificado no laboratório de Wundt e Titchener conhecido como:",
+      "options": {
+        "a": "Erro de estímulo",
+        "b": "Viés de confirmação",
+        "c": "Efeito halo",
+        "d": "Dissonância cognitiva",
+        "e": "Reforçamento intermitente"
+      },
+      "correct": "a",
+      "explanation": "A instrução de descrever apenas os elementos sensoriais (cor, forma, brilho) sem nomear o objeto busca evitar o erro de estímulo, falha identificada no método introspectivo do laboratório de Leipzig e radicalizada pelo estruturalismo de Titchener.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Um pesquisador contemporâneo, ao estudar a percepção visual, pede a um participante que descreva apenas as sensações de cor, forma e brilho de um objeto apresentado, sem nomeá-lo. Essa instrução busca evitar exatamente o problema identificado no laboratório de Wundt e Titchener conhecido como: A instrução de descrever apenas os elementos sensoriais (cor, forma, brilho) sem nomear o objeto busca evitar o erro de estímulo, falha identificada no método introspectivo do laboratório de Leipzig e radicalizada pelo estruturalismo de Titchener."
+    },
+    {
+      "id": "fund-obj-125",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Wundt utilizava a apresentação rigorosamente controlada de estímulos visuais, auditivos ou táteis, medindo o tempo de reação da pessoa participante. Esse rigor metodológico e controle das variáveis experimentais conferiram à psicologia de Wundt o status de:",
+      "options": {
+        "a": "Ciência natural",
+        "b": "Arte especulativa",
+        "c": "Prática religiosa",
+        "d": "Doutrina filosófica pura",
+        "e": "Técnica artesanal"
+      },
+      "correct": "a",
+      "explanation": "O rigor metodológico e o controle das variáveis experimentais, incluindo a medição do tempo de reação com instrumentos de precisão, conferiram à psicologia de Wundt o status de ciência natural.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Wundt utilizava a apresentação rigorosamente controlada de estímulos visuais, auditivos ou táteis, medindo o tempo de reação da pessoa participante. Esse rigor metodológico e controle das variáveis experimentais conferiram à psicologia de Wundt o status de: O rigor metodológico e o controle das variáveis experimentais, incluindo a medição do tempo de reação com instrumentos de precisão, conferiram à psicologia de Wundt o status de ciência natural."
+    },
+    {
+      "id": "fund-obj-126",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, a escola estruturalista de Titchener tinha como foco descobrir a estrutura da mente, utilizando como método a introspecção experimental rigorosa, e como abordagem geral:",
+      "options": {
+        "a": "Uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas",
+        "b": "Uma ciência exclusivamente aplicada à indústria e à educação",
+        "c": "Uma abordagem voltada para a resolução de problemas clínicos imediatos",
+        "d": "Uma prática essencialmente terapêutica sem qualquer componente experimental",
+        "e": "Uma disciplina voltada apenas para a psicologia animal"
+      },
+      "correct": "a",
+      "explanation": "O estruturalismo tinha como foco descobrir a estrutura da mente, utilizava a introspecção experimental rigorosa como método e caracterizava-se como uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas — diferentemente do funcionalismo, voltado para a ciência aplicada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a escola estruturalista de Titchener tinha como foco descobrir a estrutura da mente, utilizando como método a introspecção experimental rigorosa, e como abordagem geral: O estruturalismo tinha como foco descobrir a estrutura da mente, utilizava a introspecção experimental rigorosa como método e caracterizava-se como uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas — diferentemente do funcionalismo, voltado para a ciência aplicada."
+    },
+    {
+      "id": "fund-obj-127",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "No exemplo do laboratório de Wundt, quando o mesmo tipo de som (um clique) era apresentado repetidas vezes aos participantes, Wundt observava padrões nos relatos, como a maioria descrevendo o som como 'agudo e rápido'. Esse procedimento demonstra que Wundt buscava:",
+      "options": {
+        "a": "Analisar regularidades nas sensações conscientes, em vez de relatos isolados",
+        "b": "Comprovar que cada participante teria uma percepção totalmente aleatória e sem padrão",
+        "c": "Eliminar por completo a repetição dos experimentos",
+        "d": "Estudar exclusivamente diferenças individuais sem qualquer busca por regularidades",
+        "e": "Validar teorias sobre o inconsciente coletivo"
+      },
+      "correct": "a",
+      "explanation": "Repetindo o experimento várias vezes com o mesmo tipo de estímulo, Wundt observava padrões nos relatos dos participantes, analisando regularidades nas sensações conscientes em vez de relatos isolados — método que buscava dar objetividade científica à introspecção.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo do laboratório de Wundt, quando o mesmo tipo de som (um clique) era apresentado repetidas vezes aos participantes, Wundt observava padrões nos relatos, como a maioria descrevendo o som como 'agudo e rápido'. Esse procedimento demonstra que Wundt buscava: Repetindo o experimento várias vezes com o mesmo tipo de estímulo, Wundt observava padrões nos relatos dos participantes, analisando regularidades nas sensações conscientes em vez de relatos isolados — método que buscava dar objetividade científica à introspecção."
+    },
+    {
+      "id": "fund-obj-128",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "A introspecção experimental do laboratório de Leipzig, mesmo controlada, apresentava uma limitação fundamental relacionada à natureza da experiência consciente, que é:",
+      "options": {
+        "a": "Privada e inacessível à observação pública direta",
+        "b": "Totalmente idêntica entre todos os seres humanos",
+        "c": "Completamente observável por instrumentos físicos externos, sem qualquer subjetividade",
+        "d": "Inexistente do ponto de vista biológico",
+        "e": "Mensurável com precisão absoluta, sem qualquer margem de erro"
+      },
+      "correct": "a",
+      "explanation": "A experiência consciente é privada e inacessível à observação pública, o que tornava impossível, quando dois observadores relatavam sensações diferentes diante do mesmo estímulo, determinar objetivamente qual relato era o verdadeiro.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "A introspecção experimental do laboratório de Leipzig, mesmo controlada, apresentava uma limitação fundamental relacionada à natureza da experiência consciente, que é: A experiência consciente é privada e inacessível à observação pública, o que tornava impossível, quando dois observadores relatavam sensações diferentes diante do mesmo estímulo, determinar objetivamente qual relato era o verdadeiro."
+    },
+    {
+      "id": "fund-obj-129",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Titchener, ao fundar o estruturalismo nos Estados Unidos, restringiu o escopo da psicologia, recusando-se a estudar determinados campos que, mais tarde, seriam desenvolvidos por outras escolas de pensamento. Segundo o material, esses campos eram a psicologia:",
+      "options": {
+        "a": "Animal, infantil e aplicada",
+        "b": "Cognitiva e neurociência",
+        "c": "Social e organizacional exclusivamente",
+        "d": "Clínica e psicanalítica",
+        "e": "Estatística e psicométrica"
+      },
+      "correct": "a",
+      "explanation": "A recusa da escola estruturalista em estudar a psicologia animal, infantil e aplicada limitou severamente seu escopo de atuação, sendo um dos motivos de seu declínio diante de escolas mais abertas a essas áreas, como o funcionalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Titchener, ao fundar o estruturalismo nos Estados Unidos, restringiu o escopo da psicologia, recusando-se a estudar determinados campos que, mais tarde, seriam desenvolvidos por outras escolas de pensamento. Segundo o material, esses campos eram a psicologia: A recusa da escola estruturalista em estudar a psicologia animal, infantil e aplicada limitou severamente seu escopo de atuação, sendo um dos motivos de seu declínio diante de escolas mais abertas a essas áreas, como o funcionalismo."
+    },
+    {
+      "id": "fund-obj-130",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O laboratório de Wundt em Leipzig é considerado o marco fundador da psicologia experimental porque, pela primeira vez, buscou-se:",
+      "options": {
+        "a": "Estudar a experiência consciente por meio de métodos controlados e mensuráveis, separando a psicologia da especulação filosófica pura",
+        "b": "Eliminar totalmente qualquer interesse pela consciência humana",
+        "c": "Substituir a psicologia pela fisiologia, sem qualquer distinção entre as duas disciplinas",
+        "d": "Aplicar exclusivamente testes de inteligência em larga escala",
+        "e": "Fundamentar a psicologia unicamente em preceitos religiosos"
+      },
+      "correct": "a",
+      "explanation": "O laboratório de Wundt buscou estudar a experiência consciente por meio de métodos controlados e mensuráveis (estímulos padronizados, cronoscópios, introspecção treinada), separando a disciplina da especulação filosófica pura e consolidando-a como ciência independente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O laboratório de Wundt em Leipzig é considerado o marco fundador da psicologia experimental porque, pela primeira vez, buscou-se: O laboratório de Wundt buscou estudar a experiência consciente por meio de métodos controlados e mensuráveis (estímulos padronizados, cronoscópios, introspecção treinada), separando a disciplina da especulação filosófica pura e consolidando-a como ciência independente."
+    },
+    {
+      "id": "fund-obj-131",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, quais eram os tipos de estímulos utilizados nos experimentos de Wundt para investigar a experiência consciente imediata?",
+      "options": {
+        "a": "Estímulos visuais, auditivos ou táteis, apresentados de forma rigorosamente controlada",
+        "b": "Exclusivamente estímulos olfativos",
+        "c": "Apenas estímulos gustativos",
+        "d": "Somente estímulos dolorosos intensos",
+        "e": "Estímulos exclusivamente verbais e escritos"
+      },
+      "correct": "a",
+      "explanation": "Os experimentos de Wundt envolviam a apresentação rigorosamente controlada de estímulos visuais, auditivos ou táteis, e a medição do tempo de reação da pessoa participante diante desses estímulos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, quais eram os tipos de estímulos utilizados nos experimentos de Wundt para investigar a experiência consciente imediata? Os experimentos de Wundt envolviam a apresentação rigorosamente controlada de estímulos visuais, auditivos ou táteis, e a medição do tempo de reação da pessoa participante diante desses estímulos."
+    },
+    {
+      "id": "fund-obj-132",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Diante da falta de concordância entre observadores treinados no método introspectivo, o principal desafio epistemológico enfrentado pelo estruturalismo era:",
+      "options": {
+        "a": "A ausência de um critério objetivo para determinar qual relato introspectivo era o verdadeiro",
+        "b": "A impossibilidade física de qualquer pessoa relatar suas próprias sensações",
+        "c": "A recusa unânime dos participantes em colaborar com os experimentos",
+        "d": "A total ausência de instrumentos de medição no laboratório",
+        "e": "A proibição legal de estudos sobre a consciência"
+      },
+      "correct": "a",
+      "explanation": "Se duas pessoas bem treinadas relatassem sensações diferentes diante do mesmo estímulo, não havia um critério objetivo para determinar qual relato era verdadeiro, uma vez que a experiência consciente é privada e inacessível à observação pública — esse era o principal desafio epistemológico do método.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "dificil",
+      "miniLesson": "Diante da falta de concordância entre observadores treinados no método introspectivo, o principal desafio epistemológico enfrentado pelo estruturalismo era: Se duas pessoas bem treinadas relatassem sensações diferentes diante do mesmo estímulo, não havia um critério objetivo para determinar qual relato era verdadeiro, uma vez que a experiência consciente é privada e inacessível à observação pública — esse era o principal desafio epistemológico do método."
+    },
+    {
+      "id": "fund-obj-133",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Wundt buscava decompor a consciência em seus elementos mais simples. Titchener foi além, estabelecendo que esse deveria ser o único objetivo válido da psicologia. Essa radicalização da proposta de Wundt por Titchener caracteriza:",
+      "options": {
+        "a": "A fundação de uma escola de pensamento mais restritiva quanto ao escopo e ao método da psicologia",
+        "b": "Uma ruptura completa com qualquer influência de Wundt",
+        "c": "A criação do behaviorismo radical",
+        "d": "O abandono total do método introspectivo",
+        "e": "A incorporação de métodos qualitativos e fenomenológicos"
+      },
+      "correct": "a",
+      "explanation": "Titchener radicalizou a proposta de Wundt, fundando uma escola de pensamento — o estruturalismo — mais restritiva quanto ao escopo (apenas os elementos básicos da consciência) e ao método (introspecção experimental extremamente controlada) da psicologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Wundt buscava decompor a consciência em seus elementos mais simples. Titchener foi além, estabelecendo que esse deveria ser o único objetivo válido da psicologia. Essa radicalização da proposta de Wundt por Titchener caracteriza: Titchener radicalizou a proposta de Wundt, fundando uma escola de pensamento — o estruturalismo — mais restritiva quanto ao escopo (apenas os elementos básicos da consciência) e ao método (introspecção experimental extremamente controlada) da psicologia."
+    },
+    {
+      "id": "fund-obj-134",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Segundo o material, um exemplo de aplicação contemporânea que continua 'o projeto original de Leipzig' de buscar correlatos objetivos e mensuráveis para processos mentais internos é o uso de:",
+      "options": {
+        "a": "Ressonância magnética funcional para mapear áreas cerebrais ativadas durante tarefas de percepção",
+        "b": "Testes projetivos baseados exclusivamente na interpretação subjetiva do terapeuta",
+        "c": "Análise exclusivamente qualitativa de entrevistas não padronizadas",
+        "d": "Leitura de mãos e outras práticas não científicas",
+        "e": "Observação informal sem qualquer registro sistemático"
+      },
+      "correct": "a",
+      "explanation": "O uso de ressonância magnética funcional (ou eye-tracking) para mapear áreas do cérebro ativadas durante tarefas de percepção continua o projeto original de Leipzig, substituindo a introspecção falha por tecnologias de medição fisiológica avançadas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um exemplo de aplicação contemporânea que continua 'o projeto original de Leipzig' de buscar correlatos objetivos e mensuráveis para processos mentais internos é o uso de: O uso de ressonância magnética funcional (ou eye-tracking) para mapear áreas do cérebro ativadas durante tarefas de percepção continua o projeto original de Leipzig, substituindo a introspecção falha por tecnologias de medição fisiológica avançadas."
+    },
+    {
+      "id": "fund-obj-135",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Os elementos básicos da consciência que, segundo Titchener, deveriam ser descobertos pela análise estrutural da mente eram:",
+      "options": {
+        "a": "Sensações, imagens e afetos",
+        "b": "Estímulo, resposta e reforço",
+        "c": "Id, ego e superego",
+        "d": "Assimilação, acomodação e equilibração",
+        "e": "Percepção, memória e linguagem exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Segundo Titchener, o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Os elementos básicos da consciência que, segundo Titchener, deveriam ser descobertos pela análise estrutural da mente eram: Segundo Titchener, o único objetivo da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos."
+    },
+    {
+      "id": "fund-obj-136",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Sobre a fundação da psicologia experimental por Wundt, é correto afirmar que:",
+      "options": {
+        "a": "Ocorreu em 1879, na Universidade de Leipzig, marcando o início formal da psicologia como ciência independente",
+        "b": "Ocorreu no século XVIII, antes de qualquer influência da fisiologia",
+        "c": "Foi realizada por Titchener, e não por Wundt",
+        "d": "Não teve qualquer relação com a fisiologia ou a psicofísica",
+        "e": "Consolidou definitivamente a psicanálise como escola dominante"
+      },
+      "correct": "a",
+      "explanation": "A fundação da psicologia experimental ocorreu em 1879, na Universidade de Leipzig, na Alemanha, por Wilhelm Wundt, marcando o marco formal da psicologia como ciência independente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "Sobre a fundação da psicologia experimental por Wundt, é correto afirmar que: A fundação da psicologia experimental ocorreu em 1879, na Universidade de Leipzig, na Alemanha, por Wilhelm Wundt, marcando o marco formal da psicologia como ciência independente."
+    },
+    {
+      "id": "fund-obj-137",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O treinamento exaustivo dos participantes no laboratório de Leipzig visava, principalmente:",
+      "options": {
+        "a": "Eliminar a interpretação mediata para garantir a objetividade da análise estrutural da consciência",
+        "b": "Ensinar os participantes a memorizar listas de palavras sem qualquer relação com sensações",
+        "c": "Prepará-los para participar de competições esportivas",
+        "d": "Substituir totalmente a necessidade de qualquer estímulo experimental",
+        "e": "Habilitá-los a diagnosticar transtornos mentais em terceiros"
+      },
+      "correct": "a",
+      "explanation": "O treinamento exaustivo no laboratório de Leipzig visava eliminar a interpretação mediata (nomear o objeto) para garantir a objetividade da análise estrutural da consciência, evitando o erro de estímulo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "12-13"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O treinamento exaustivo dos participantes no laboratório de Leipzig visava, principalmente: O treinamento exaustivo no laboratório de Leipzig visava eliminar a interpretação mediata (nomear o objeto) para garantir a objetividade da análise estrutural da consciência, evitando o erro de estímulo."
+    },
+    {
+      "id": "fund-obj-138",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Comparando estruturalismo e funcionalismo quanto à pergunta central de investigação, é correto afirmar que o estruturalismo buscava responder:",
+      "options": {
+        "a": "'O que é a consciência?'",
+        "b": "'Para que serve a consciência?'",
+        "c": "'Como se aprende por reforço?'",
+        "d": "'Qual a origem do inconsciente?'",
+        "e": "'Como a cultura molda a linguagem?'"
+      },
+      "correct": "a",
+      "explanation": "O estruturalismo tinha como pergunta central 'O que é a consciência?', buscando descobrir sua estrutura por meio da introspecção experimental rigorosa — diferentemente do funcionalismo, cuja pergunta central era 'para que serve a consciência?'.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Comparando estruturalismo e funcionalismo quanto à pergunta central de investigação, é correto afirmar que o estruturalismo buscava responder: O estruturalismo tinha como pergunta central 'O que é a consciência?', buscando descobrir sua estrutura por meio da introspecção experimental rigorosa — diferentemente do funcionalismo, cuja pergunta central era 'para que serve a consciência?'."
+    },
+    {
+      "id": "fund-obj-139",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Enquanto o estruturalismo de Titchener buscava dissecar a mente em elementos estáticos em laboratórios isolados, um movimento distinto ganhava força nos Estados Unidos, marcado pelo espírito prático e pela expansão territorial. Esse movimento foi denominado:",
+      "options": {
+        "a": "Funcionalismo",
+        "b": "Estruturalismo",
+        "c": "Psicanálise",
+        "d": "Gestalt",
+        "e": "Behaviorismo metodológico"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo ganhou força nos Estados Unidos, em um ambiente intelectual marcado pelo espírito prático, pela expansão territorial e pelo valor atribuído à utilidade, mostrando-se hostil à rigidez da introspecção estruturalista.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "baixo",
+      "miniLesson": "Enquanto o estruturalismo de Titchener buscava dissecar a mente em elementos estáticos em laboratórios isolados, um movimento distinto ganhava força nos Estados Unidos, marcado pelo espírito prático e pela expansão territorial. Esse movimento foi denominado: O funcionalismo ganhou força nos Estados Unidos, em um ambiente intelectual marcado pelo espírito prático, pela expansão territorial e pelo valor atribuído à utilidade, mostrando-se hostil à rigidez da introspecção estruturalista."
+    },
+    {
+      "id": "fund-obj-140",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A influência da teoria da evolução de Charles Darwin mudou o foco das investigações psicológicas: a questão central deixou de ser 'qual é a estrutura da mente?' e passou a ser:",
+      "options": {
+        "a": "'Para que serve a mente?'",
+        "b": "'Qual a origem divina da mente?'",
+        "c": "'Como medir com exatidão a mente?'",
+        "d": "'Onde a mente está localizada fisicamente?'",
+        "e": "'A mente é uma tábula rasa?'"
+      },
+      "correct": "a",
+      "explanation": "A influência da teoria da evolução de Darwin mudou o foco das investigações biológicas e psicológicas: a questão central deixou de ser 'qual é a estrutura da mente?' e passou a ser 'para que serve a mente?'.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A influência da teoria da evolução de Charles Darwin mudou o foco das investigações psicológicas: a questão central deixou de ser 'qual é a estrutura da mente?' e passou a ser: A influência da teoria da evolução de Darwin mudou o foco das investigações biológicas e psicológicas: a questão central deixou de ser 'qual é a estrutura da mente?' e passou a ser 'para que serve a mente?'."
+    },
+    {
+      "id": "fund-obj-141",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A publicação de 'A Origem das Espécies' por Darwin, em 1859, teve um impacto profundo na psicologia porque sugeriu que, assim como a anatomia física evoluiu para cumprir funções adaptativas:",
+      "options": {
+        "a": "A consciência e os processos mentais também deveriam ter uma utilidade prática para a sobrevivência humana",
+        "b": "A mente humana seria completamente estática e imutável ao longo da vida",
+        "c": "Não haveria qualquer relação entre biologia e psicologia",
+        "d": "Os processos mentais seriam exclusivamente resultado da cultura, sem qualquer base biológica",
+        "e": "A introspecção seria o único método válido para estudar a mente"
+      },
+      "correct": "a",
+      "explanation": "Se a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter uma utilidade prática para a sobrevivência humana — essa ideia deu origem ao funcionalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A publicação de 'A Origem das Espécies' por Darwin, em 1859, teve um impacto profundo na psicologia porque sugeriu que, assim como a anatomia física evoluiu para cumprir funções adaptativas: Se a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter uma utilidade prática para a sobrevivência humana — essa ideia deu origem ao funcionalismo."
+    },
+    {
+      "id": "fund-obj-142",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O funcionalismo é descrito no material como a primeira escola de pensamento psicológico genuinamente americana, que não se preocupava em identificar os elementos básicos da consciência, mas sim em:",
+      "options": {
+        "a": "Compreender como a mente funciona em sua interação com o ambiente",
+        "b": "Catalogar milhares de sensações visuais e auditivas",
+        "c": "Investigar exclusivamente o inconsciente e as pulsões",
+        "d": "Medir o tempo de reação com cronoscópios de precisão",
+        "e": "Estabelecer leis universais sobre o condicionamento clássico"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo não se preocupava em identificar os elementos básicos da consciência, mas em compreender como a mente funciona em sua interação com o ambiente, sendo vista como uma ferramenta de adaptação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "O funcionalismo é descrito no material como a primeira escola de pensamento psicológico genuinamente americana, que não se preocupava em identificar os elementos básicos da consciência, mas sim em: O funcionalismo não se preocupava em identificar os elementos básicos da consciência, mas em compreender como a mente funciona em sua interação com o ambiente, sendo vista como uma ferramenta de adaptação."
+    },
+    {
+      "id": "fund-obj-143",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O desenvolvimento do funcionalismo esteve intimamente ligado à filosofia do pragmatismo, formulada por pensadores como Charles Sanders Peirce e William James. Segundo essa filosofia, a validade de uma ideia deve ser avaliada por:",
+      "options": {
+        "a": "Suas consequências práticas e sua utilidade",
+        "b": "Sua origem divina ou metafísica",
+        "c": "Sua coerência exclusivamente lógica e formal, independente da prática",
+        "d": "Sua popularidade entre o público em geral",
+        "e": "Sua antiguidade histórica"
+      },
+      "correct": "a",
+      "explanation": "O pragmatismo sustenta que a validade de uma ideia ou conceito deve ser avaliada por suas consequências práticas e sua utilidade; uma teoria é considerada verdadeira se funciona na prática e produz resultados úteis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "O desenvolvimento do funcionalismo esteve intimamente ligado à filosofia do pragmatismo, formulada por pensadores como Charles Sanders Peirce e William James. Segundo essa filosofia, a validade de uma ideia deve ser avaliada por: O pragmatismo sustenta que a validade de uma ideia ou conceito deve ser avaliada por suas consequências práticas e sua utilidade; uma teoria é considerada verdadeira se funciona na prática e produz resultados úteis."
+    },
+    {
+      "id": "fund-obj-144",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "William James é amplamente reconhecido como o precursor do funcionalismo. Em sua obra 'Princípios de Psicologia', publicada em 1890, James apresentou uma crítica contundente:",
+      "options": {
+        "a": "Ao estruturalismo de Wundt e Titchener, que tentava dividir a consciência em elementos estáticos",
+        "b": "Ao pragmatismo de Charles Sanders Peirce",
+        "c": "À teoria da evolução de Darwin",
+        "d": "À psicanálise de Sigmund Freud",
+        "e": "Ao positivismo de Auguste Comte"
+      },
+      "correct": "a",
+      "explanation": "Em 'Princípios de Psicologia' (1890), James apresentou uma crítica contundente ao estruturalismo de Wundt e Titchener, argumentando que a tentativa de dividir a consciência em elementos estáticos era artificial e distorcia a verdadeira natureza da experiência mental.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "William James é amplamente reconhecido como o precursor do funcionalismo. Em sua obra 'Princípios de Psicologia', publicada em 1890, James apresentou uma crítica contundente: Em 'Princípios de Psicologia' (1890), James apresentou uma crítica contundente ao estruturalismo de Wundt e Titchener, argumentando que a tentativa de dividir a consciência em elementos estáticos era artificial e distorcia a verdadeira natureza da experiência mental."
+    },
+    {
+      "id": "fund-obj-145",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "William James propôs o conceito de 'corrente da consciência' (stream of consciousness), segundo o qual a consciência é:",
+      "options": {
+        "a": "Um fluxo contínuo, dinâmico e indivisível, que se destrói ao ser interrompido para análise",
+        "b": "Composta por elementos estáticos e discretos, plenamente separáveis",
+        "c": "Idêntica em todos os seres humanos, sem qualquer variação individual",
+        "d": "Totalmente inacessível a qualquer forma de investigação científica",
+        "e": "Um fenômeno exclusivamente inconsciente, sem qualquer componente consciente"
+      },
+      "correct": "a",
+      "explanation": "James argumentou que a consciência é um fluxo contínuo, dinâmico e indivisível; qualquer tentativa de interromper esse fluxo para analisá-lo destrói a própria experiência que se tenta observar.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "William James propôs o conceito de 'corrente da consciência' (stream of consciousness), segundo o qual a consciência é: James argumentou que a consciência é um fluxo contínuo, dinâmico e indivisível; qualquer tentativa de interromper esse fluxo para analisá-lo destrói a própria experiência que se tenta observar."
+    },
+    {
+      "id": "fund-obj-146",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo William James, a consciência é pessoal, está em constante mudança, é contínua e, acima de tudo, é seletiva. Essa capacidade seletiva, de escolher estímulos relevantes e focar a atenção, seria, segundo James:",
+      "options": {
+        "a": "A principal função adaptativa da mente",
+        "b": "Um fenômeno sem qualquer relevância para a sobrevivência",
+        "c": "Uma característica exclusiva de indivíduos com treinamento estruturalista",
+        "d": "Um processo idêntico ao reflexo condicionado de Pavlov",
+        "e": "Uma ilusão perceptiva sem base real"
+      },
+      "correct": "a",
+      "explanation": "Para James, a capacidade de selecionar estímulos relevantes no ambiente e focar a atenção é a principal função adaptativa da mente, permitindo que o indivíduo faça escolhas e aja de forma eficaz.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo William James, a consciência é pessoal, está em constante mudança, é contínua e, acima de tudo, é seletiva. Essa capacidade seletiva, de escolher estímulos relevantes e focar a atenção, seria, segundo James: Para James, a capacidade de selecionar estímulos relevantes no ambiente e focar a atenção é a principal função adaptativa da mente, permitindo que o indivíduo faça escolhas e aja de forma eficaz."
+    },
+    {
+      "id": "fund-obj-147",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Além de William James, outro pensador contribuiu decisivamente para a consolidação do funcionalismo ao criticar, em seu artigo clássico sobre o 'conceito de arco reflexo na psicologia', a divisão artificial entre estímulo e resposta. Esse pensador foi:",
+      "options": {
+        "a": "John Dewey",
+        "b": "Charles Sanders Peirce",
+        "c": "Edward Titchener",
+        "d": "Gustav Fechner",
+        "e": "Francis Galton"
+      },
+      "correct": "a",
+      "explanation": "John Dewey contribuiu de forma decisiva para a consolidação do funcionalismo. Em seu artigo clássico sobre o 'conceito de arco reflexo na psicologia', criticou a divisão artificial entre estímulo e resposta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Além de William James, outro pensador contribuiu decisivamente para a consolidação do funcionalismo ao criticar, em seu artigo clássico sobre o 'conceito de arco reflexo na psicologia', a divisão artificial entre estímulo e resposta. Esse pensador foi: John Dewey contribuiu de forma decisiva para a consolidação do funcionalismo. Em seu artigo clássico sobre o 'conceito de arco reflexo na psicologia', criticou a divisão artificial entre estímulo e resposta."
+    },
+    {
+      "id": "fund-obj-148",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo Dewey, o comportamento não deve ser visto como uma sequência mecânica de eventos isolados (estímulo separado de resposta), mas como:",
+      "options": {
+        "a": "Um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao seu meio",
+        "b": "Um conjunto de reflexos totalmente independentes entre si",
+        "c": "Um fenômeno exclusivamente hereditário, sem qualquer influência ambiental",
+        "d": "Uma manifestação direta e não mediada do inconsciente",
+        "e": "Um processo estático, sem qualquer relação com o ambiente"
+      },
+      "correct": "a",
+      "explanation": "Dewey argumentou que o comportamento deve ser visto como um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao seu meio — a percepção de um estímulo e a resposta motora formam uma unidade funcional indivisível.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Dewey, o comportamento não deve ser visto como uma sequência mecânica de eventos isolados (estímulo separado de resposta), mas como: Dewey argumentou que o comportamento deve ser visto como um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao seu meio — a percepção de um estímulo e a resposta motora formam uma unidade funcional indivisível."
+    },
+    {
+      "id": "fund-obj-149",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Comparando estruturalismo e funcionalismo quanto ao método, o material indica que, enquanto o estruturalismo utilizava a introspecção experimental rigorosa, o funcionalismo utilizava:",
+      "options": {
+        "a": "Múltiplos métodos, como observação, testes e questionários",
+        "b": "Exclusivamente a associação livre de ideias",
+        "c": "Somente a análise de sonhos",
+        "d": "Apenas medições fisiológicas de reflexos",
+        "e": "Exclusivamente entrevistas clínicas não estruturadas"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo, diferentemente do estruturalismo (introspecção experimental rigorosa), utilizava múltiplos métodos — observação, testes, questionários — voltados para uma ciência aplicada, focada na adaptação, educação e resolução de problemas reais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Comparando estruturalismo e funcionalismo quanto ao método, o material indica que, enquanto o estruturalismo utilizava a introspecção experimental rigorosa, o funcionalismo utilizava: O funcionalismo, diferentemente do estruturalismo (introspecção experimental rigorosa), utilizava múltiplos métodos — observação, testes, questionários — voltados para uma ciência aplicada, focada na adaptação, educação e resolução de problemas reais."
+    },
+    {
+      "id": "fund-obj-150",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, a herança do funcionalismo e do pragmatismo é evidente na atuação profissional da psicologia atual, sendo citados como exemplos diretos dessa herança:",
+      "options": {
+        "a": "A psicologia escolar, a psicologia organizacional e a psicometria",
+        "b": "Exclusivamente a psicanálise clínica",
+        "c": "Apenas a neurociência cognitiva contemporânea",
+        "d": "Somente a psicologia social comunitária",
+        "e": "Exclusivamente a terapia de grupo"
+      },
+      "correct": "a",
+      "explanation": "A psicologia escolar, a psicologia organizacional e a psicometria (desenvolvimento de testes psicológicos) nasceram da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a herança do funcionalismo e do pragmatismo é evidente na atuação profissional da psicologia atual, sendo citados como exemplos diretos dessa herança: A psicologia escolar, a psicologia organizacional e a psicometria (desenvolvimento de testes psicológicos) nasceram da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho."
+    },
+    {
+      "id": "fund-obj-151",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Quando uma pessoa psicóloga aplica um teste de aptidão para orientação profissional ou desenvolve um programa de treinamento em uma empresa, ela opera, segundo o material, sob a premissa:",
+      "options": {
+        "a": "Pragmática, de que a psicologia deve fornecer ferramentas úteis para a adaptação humana",
+        "b": "Estruturalista, de decompor a mente em sensações e imagens",
+        "c": "Psicanalítica, de investigar exclusivamente o inconsciente do candidato",
+        "d": "Positivista radical, sem qualquer preocupação com aplicação prática",
+        "e": "Behaviorista metodológica, sem qualquer relação com o pragmatismo"
+      },
+      "correct": "a",
+      "explanation": "Ao aplicar testes de aptidão ou desenvolver programas de treinamento, a pessoa psicóloga opera sob a premissa pragmática de que a psicologia deve fornecer ferramentas úteis para a adaptação humana em contextos sociais e de trabalho.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Quando uma pessoa psicóloga aplica um teste de aptidão para orientação profissional ou desenvolve um programa de treinamento em uma empresa, ela opera, segundo o material, sob a premissa: Ao aplicar testes de aptidão ou desenvolver programas de treinamento, a pessoa psicóloga opera sob a premissa pragmática de que a psicologia deve fornecer ferramentas úteis para a adaptação humana em contextos sociais e de trabalho."
+    },
+    {
+      "id": "fund-obj-152",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Uma equipe de psicologia organizacional é contratada para reformular o recrutamento de uma empresa, decidindo implementar testes que avaliam como os candidatos resolvem problemas práticos e se ajustam a mudanças no ambiente de trabalho, em vez de focar em traços de personalidade estáticos. Essa abordagem alinha-se aos princípios de qual escola de pensamento?",
+      "options": {
+        "a": "Funcionalismo",
+        "b": "Estruturalismo",
+        "c": "Psicanálise clássica",
+        "d": "Gestalt",
+        "e": "Racionalismo cartesiano"
+      },
+      "correct": "a",
+      "explanation": "A intervenção descrita foca na resolução de problemas práticos, na tomada de decisão e no ajuste ao ambiente — pressupostos centrais do funcionalismo, escola americana que investiga para que serve a mente e como o comportamento auxilia a adaptação ao meio.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "18-19"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Uma equipe de psicologia organizacional é contratada para reformular o recrutamento de uma empresa, decidindo implementar testes que avaliam como os candidatos resolvem problemas práticos e se ajustam a mudanças no ambiente de trabalho, em vez de focar em traços de personalidade estáticos. Essa abordagem alinha-se aos princípios de qual escola de pensamento? A intervenção descrita foca na resolução de problemas práticos, na tomada de decisão e no ajuste ao ambiente — pressupostos centrais do funcionalismo, escola americana que investiga para que serve a mente e como o comportamento auxilia a adaptação ao meio."
+    },
+    {
+      "id": "fund-obj-153",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O funcionalismo, segundo o material, caracteriza-se como uma abordagem de:",
+      "options": {
+        "a": "Ciência aplicada, voltada para a adaptação, a educação e a resolução de problemas reais",
+        "b": "Ciência pura, restrita ao laboratório, sem qualquer interesse em aplicações práticas",
+        "c": "Doutrina exclusivamente filosófica, sem qualquer método empírico",
+        "d": "Prática religiosa institucionalizada",
+        "e": "Técnica artesanal sem qualquer fundamento teórico"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo caracteriza-se como uma ciência aplicada, voltada para a adaptação, a educação e a resolução de problemas reais — em contraste com o estruturalismo, ciência pura restrita ao laboratório.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "O funcionalismo, segundo o material, caracteriza-se como uma abordagem de: O funcionalismo caracteriza-se como uma ciência aplicada, voltada para a adaptação, a educação e a resolução de problemas reais — em contraste com o estruturalismo, ciência pura restrita ao laboratório."
+    },
+    {
+      "id": "fund-obj-154",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, o pragmatismo, filosofia base do funcionalismo, forneceu a justificativa para que a psicologia americana se tornasse uma ciência aplicada, voltada para a resolução de problemas reais em quais campos?",
+      "options": {
+        "a": "Educação, indústria e clínica",
+        "b": "Exclusivamente a astronomia",
+        "c": "Somente a arqueologia",
+        "d": "Apenas a física teórica",
+        "e": "Exclusivamente a matemática pura"
+      },
+      "correct": "a",
+      "explanation": "O pragmatismo forneceu a justificativa para que a psicologia americana se tornasse uma ciência aplicada, voltada para a resolução de problemas reais na educação, na indústria e na clínica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o pragmatismo, filosofia base do funcionalismo, forneceu a justificativa para que a psicologia americana se tornasse uma ciência aplicada, voltada para a resolução de problemas reais em quais campos? O pragmatismo forneceu a justificativa para que a psicologia americana se tornasse uma ciência aplicada, voltada para a resolução de problemas reais na educação, na indústria e na clínica."
+    },
+    {
+      "id": "fund-obj-155",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A ideia central de Dewey de que a percepção de um estímulo e a resposta motora formam 'uma unidade funcional indivisível' representa uma crítica direta a qual modelo?",
+      "options": {
+        "a": "O modelo mecânico do arco reflexo, que separava estímulo e resposta em eventos isolados",
+        "b": "O modelo psicanalítico do inconsciente",
+        "c": "O modelo estruturalista de elementos sensoriais",
+        "d": "O modelo evolutivo de seleção natural de Darwin",
+        "e": "O modelo pragmatista de utilidade prática"
+      },
+      "correct": "a",
+      "explanation": "Dewey criticou a divisão artificial entre estímulo e resposta do modelo mecânico do arco reflexo, argumentando que ambos formam um circuito contínuo e coordenado voltado para a adaptação do organismo ao meio.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "dificil",
+      "miniLesson": "A ideia central de Dewey de que a percepção de um estímulo e a resposta motora formam 'uma unidade funcional indivisível' representa uma crítica direta a qual modelo? Dewey criticou a divisão artificial entre estímulo e resposta do modelo mecânico do arco reflexo, argumentando que ambos formam um circuito contínuo e coordenado voltado para a adaptação do organismo ao meio."
+    },
+    {
+      "id": "fund-obj-156",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, qual foi o principal fator do ambiente intelectual americano que se mostrou hostil à rigidez da introspecção estruturalista, favorecendo o surgimento do funcionalismo?",
+      "options": {
+        "a": "O espírito prático, a expansão territorial e o valor atribuído à utilidade",
+        "b": "A ausência completa de qualquer universidade nos Estados Unidos",
+        "c": "A proibição legal de laboratórios de psicologia experimental",
+        "d": "A adesão unânime ao racionalismo cartesiano",
+        "e": "A inexistência de qualquer tradição filosófica britânica"
+      },
+      "correct": "a",
+      "explanation": "O ambiente intelectual americano, marcado pelo espírito prático, pela expansão territorial e pelo valor atribuído à utilidade, mostrou-se hostil à rigidez da introspecção estruturalista, favorecendo o funcionalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, qual foi o principal fator do ambiente intelectual americano que se mostrou hostil à rigidez da introspecção estruturalista, favorecendo o surgimento do funcionalismo? O ambiente intelectual americano, marcado pelo espírito prático, pela expansão territorial e pelo valor atribuído à utilidade, mostrou-se hostil à rigidez da introspecção estruturalista, favorecendo o funcionalismo."
+    },
+    {
+      "id": "fund-obj-157",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "No quadro comparativo apresentado no material, a pergunta central do funcionalismo é 'para que serve a consciência?', enquanto a pergunta central do estruturalismo é:",
+      "options": {
+        "a": "'O que é a consciência?'",
+        "b": "'Quem controla a consciência?'",
+        "c": "'Quando surge a consciência?'",
+        "d": "'Onde está localizada a consciência?'",
+        "e": "'Por que a consciência evolui?'"
+      },
+      "correct": "a",
+      "explanation": "Segundo o quadro comparativo, a pergunta central do estruturalismo é 'o que é a consciência?', enquanto a do funcionalismo é 'para que serve a consciência?' — refletindo o foco em estrutura versus função.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "No quadro comparativo apresentado no material, a pergunta central do funcionalismo é 'para que serve a consciência?', enquanto a pergunta central do estruturalismo é: Segundo o quadro comparativo, a pergunta central do estruturalismo é 'o que é a consciência?', enquanto a do funcionalismo é 'para que serve a consciência?' — refletindo o foco em estrutura versus função."
+    },
+    {
+      "id": "fund-obj-158",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A mente, segundo a perspectiva funcionalista, passou a ser vista como:",
+      "options": {
+        "a": "Uma ferramenta de adaptação, um processo dinâmico que permite ao organismo resolver problemas e ajustar-se a novas situações",
+        "b": "Uma estrutura estática, composta por elementos fixos e imutáveis",
+        "c": "Um fenômeno completamente independente do ambiente e da evolução",
+        "d": "Um sistema exclusivamente regido por reflexos condicionados",
+        "e": "Uma entidade metafísica inacessível a qualquer investigação científica"
+      },
+      "correct": "a",
+      "explanation": "Na perspectiva funcionalista, a mente passou a ser vista como uma ferramenta de adaptação, um processo dinâmico que permite ao organismo resolver problemas e ajustar-se a novas situações do ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A mente, segundo a perspectiva funcionalista, passou a ser vista como: Na perspectiva funcionalista, a mente passou a ser vista como uma ferramenta de adaptação, um processo dinâmico que permite ao organismo resolver problemas e ajustar-se a novas situações do ambiente."
+    },
+    {
+      "id": "fund-obj-159",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O pragmatismo americano, base filosófica do funcionalismo, foi formulado, entre outros, pelos pensadores:",
+      "options": {
+        "a": "Charles Sanders Peirce e William James",
+        "b": "René Descartes e John Locke",
+        "c": "Auguste Comte e Gustav Fechner",
+        "d": "Sigmund Freud e Carl Jung",
+        "e": "Wilhelm Wundt e Edward Titchener"
+      },
+      "correct": "a",
+      "explanation": "O desenvolvimento do funcionalismo esteve intimamente ligado à filosofia do pragmatismo, formulada por pensadores como Charles Sanders Peirce e William James.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "baixo",
+      "miniLesson": "O pragmatismo americano, base filosófica do funcionalismo, foi formulado, entre outros, pelos pensadores: O desenvolvimento do funcionalismo esteve intimamente ligado à filosofia do pragmatismo, formulada por pensadores como Charles Sanders Peirce e William James."
+    },
+    {
+      "id": "fund-obj-160",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o pragmatismo, uma teoria é considerada verdadeira quando:",
+      "options": {
+        "a": "Funciona na prática e produz resultados úteis",
+        "b": "É aceita por unanimidade entre todos os filósofos",
+        "c": "Deriva exclusivamente de princípios metafísicos inatos",
+        "d": "É comprovada apenas por meio de introspecção experimental",
+        "e": "Não pode ser refutada por nenhuma evidência empírica futura"
+      },
+      "correct": "a",
+      "explanation": "Segundo o pragmatismo, a validade de uma ideia ou conceito deve ser avaliada por suas consequências práticas e sua utilidade; uma teoria é considerada verdadeira se ela funciona na prática e produz resultados úteis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o pragmatismo, uma teoria é considerada verdadeira quando: Segundo o pragmatismo, a validade de uma ideia ou conceito deve ser avaliada por suas consequências práticas e sua utilidade; uma teoria é considerada verdadeira se ela funciona na prática e produz resultados úteis."
+    },
+    {
+      "id": "fund-obj-161",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A crítica de William James ao estruturalismo se baseava, principalmente, na ideia de que dividir a consciência em elementos estáticos era:",
+      "options": {
+        "a": "Artificial, distorcendo a verdadeira natureza contínua e dinâmica da experiência mental",
+        "b": "Cientificamente comprovada e definitiva",
+        "c": "Uma abordagem já amplamente aceita pelo próprio James",
+        "d": "Irrelevante para qualquer debate psicológico da época",
+        "e": "Uma proposta originalmente formulada pelo próprio James"
+      },
+      "correct": "a",
+      "explanation": "Para James, a tentativa de dividir a consciência em elementos estáticos, como propunha o estruturalismo, era artificial e distorcia a verdadeira natureza contínua e dinâmica da experiência mental — daí seu conceito de 'corrente da consciência'.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A crítica de William James ao estruturalismo se baseava, principalmente, na ideia de que dividir a consciência em elementos estáticos era: Para James, a tentativa de dividir a consciência em elementos estáticos, como propunha o estruturalismo, era artificial e distorcia a verdadeira natureza contínua e dinâmica da experiência mental — daí seu conceito de 'corrente da consciência'."
+    },
+    {
+      "id": "fund-obj-162",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Em sua obra 'Princípios de Psicologia' (1890), obra fundamental para o funcionalismo, William James:",
+      "options": {
+        "a": "Apresentou o conceito de corrente da consciência e criticou o estruturalismo de Wundt e Titchener",
+        "b": "Defendeu integralmente o método da introspecção experimental de Titchener",
+        "c": "Fundou formalmente o primeiro laboratório de psicologia experimental",
+        "d": "Propôs a Lei de Weber-Fechner para a psicofísica",
+        "e": "Estabeleceu os princípios do condicionamento clássico"
+      },
+      "correct": "a",
+      "explanation": "Em 'Princípios de Psicologia' (1890), James apresentou o conceito de corrente da consciência e uma crítica contundente ao estruturalismo de Wundt e Titchener, tornando-se o precursor do funcionalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Em sua obra 'Princípios de Psicologia' (1890), obra fundamental para o funcionalismo, William James: Em 'Princípios de Psicologia' (1890), James apresentou o conceito de corrente da consciência e uma crítica contundente ao estruturalismo de Wundt e Titchener, tornando-se o precursor do funcionalismo."
+    },
+    {
+      "id": "fund-obj-163",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "A psicometria, entendida como o desenvolvimento de testes psicológicos, nasceu, segundo o material, da necessidade:",
+      "options": {
+        "a": "Funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho",
+        "b": "Estruturalista de catalogar sensações visuais e auditivas",
+        "c": "Psicanalítica de investigar o inconsciente coletivo",
+        "d": "Behaviorista metodológica de eliminar qualquer processo mental do escopo da psicologia",
+        "e": "Gestaltista de estudar a percepção de formas"
+      },
+      "correct": "a",
+      "explanation": "A psicometria nasceu da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho, sendo um exemplo direto da herança do funcionalismo e do pragmatismo na prática atual.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A psicometria, entendida como o desenvolvimento de testes psicológicos, nasceu, segundo o material, da necessidade: A psicometria nasceu da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho, sendo um exemplo direto da herança do funcionalismo e do pragmatismo na prática atual."
+    },
+    {
+      "id": "fund-obj-164",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, o funcionalismo é descrito como a primeira escola de pensamento psicológico genuinamente:",
+      "options": {
+        "a": "Americana",
+        "b": "Alemã",
+        "c": "Francesa",
+        "d": "Britânica",
+        "e": "Austríaca"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo é apresentado no material como a primeira escola de pensamento psicológico genuinamente americana, surgida em contraste com o estruturalismo de origem alemã trazido por Titchener para os Estados Unidos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o funcionalismo é descrito como a primeira escola de pensamento psicológico genuinamente: O funcionalismo é apresentado no material como a primeira escola de pensamento psicológico genuinamente americana, surgida em contraste com o estruturalismo de origem alemã trazido por Titchener para os Estados Unidos."
+    },
+    {
+      "id": "fund-obj-165",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Sobre a diferença de abordagem entre estruturalismo e funcionalismo quanto ao interesse em aplicações práticas, é correto afirmar que:",
+      "options": {
+        "a": "O estruturalismo não tinha interesse em aplicações práticas, enquanto o funcionalismo era voltado para a ciência aplicada",
+        "b": "Ambas as escolas tinham exatamente o mesmo grau de interesse em aplicações práticas",
+        "c": "O estruturalismo era voltado exclusivamente para aplicações industriais",
+        "d": "O funcionalismo rejeitava completamente qualquer forma de aplicação prática",
+        "e": "Nenhuma das duas escolas se preocupava com qualquer tipo de ciência aplicada"
+      },
+      "correct": "a",
+      "explanation": "Segundo o quadro comparativo do material, o estruturalismo era uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas, enquanto o funcionalismo era uma ciência aplicada, voltada para adaptação, educação e resolução de problemas reais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Sobre a diferença de abordagem entre estruturalismo e funcionalismo quanto ao interesse em aplicações práticas, é correto afirmar que: Segundo o quadro comparativo do material, o estruturalismo era uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas, enquanto o funcionalismo era uma ciência aplicada, voltada para adaptação, educação e resolução de problemas reais."
+    },
+    {
+      "id": "fund-obj-166",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, o funcionalismo sustentava que, assim como a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter:",
+      "options": {
+        "a": "Uma utilidade prática para a sobrevivência humana",
+        "b": "Uma origem exclusivamente sobrenatural",
+        "c": "Uma estrutura fixa e imutável, independente do ambiente",
+        "d": "Nenhuma relação com a biologia evolutiva",
+        "e": "Um caráter puramente estético, sem função adaptativa"
+      },
+      "correct": "a",
+      "explanation": "Se a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter uma utilidade prática para a sobrevivência humana — premissa central que deu origem ao funcionalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o funcionalismo sustentava que, assim como a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter: Se a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter uma utilidade prática para a sobrevivência humana — premissa central que deu origem ao funcionalismo."
+    },
+    {
+      "id": "fund-obj-167",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "No exemplo do dilema apresentado no material, um estudante que pretende unir técnicas de associação livre da psicanálise a esquemas de reforçamento do behaviorismo, ignorando as diferenças entre pressupostos filosóficos, comete o chamado 'ecletismo ingênuo'. Esse conceito NÃO se aplica, segundo a lógica do funcionalismo, à combinação legítima de:",
+      "options": {
+        "a": "Múltiplos métodos (observação, testes, questionários) dentro de uma mesma matriz funcionalista coerente",
+        "b": "Psicanálise e behaviorismo radical sem qualquer distinção metodológica",
+        "c": "Estruturalismo e funcionalismo tratados como idênticos",
+        "d": "Positivismo e psicanálise sem qualquer diferenciação epistemológica",
+        "e": "Racionalismo cartesiano e empirismo britânico como sinônimos"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo, por ser uma ciência aplicada, legitimamente combinava múltiplos métodos (observação, testes, questionários) dentro de uma mesma matriz coerente voltada à adaptação — o que difere do ecletismo ingênuo, que mistura pressupostos filosóficos incompatíveis entre escolas distintas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "dificil",
+      "miniLesson": "No exemplo do dilema apresentado no material, um estudante que pretende unir técnicas de associação livre da psicanálise a esquemas de reforçamento do behaviorismo, ignorando as diferenças entre pressupostos filosóficos, comete o chamado 'ecletismo ingênuo'. Esse conceito NÃO se aplica, segundo a lógica do funcionalismo, à combinação legítima de: O funcionalismo, por ser uma ciência aplicada, legitimamente combinava múltiplos métodos (observação, testes, questionários) dentro de uma mesma matriz coerente voltada à adaptação — o que difere do ecletismo ingênuo, que mistura pressupostos filosóficos incompatíveis entre escolas distintas."
+    },
+    {
+      "id": "fund-obj-168",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo o material, o funcionalismo investigava como a mente e o comportamento auxiliam o organismo a se adaptar às demandas do meio. Esse pressuposto está diretamente relacionado a qual teoria biológica que influenciou a psicologia americana no final do século XIX?",
+      "options": {
+        "a": "A teoria da evolução por seleção natural, de Charles Darwin",
+        "b": "A teoria da relatividade, de Einstein",
+        "c": "A teoria da tabula rasa, de John Locke",
+        "d": "A teoria psicossexual, de Sigmund Freud",
+        "e": "A teoria dos paradigmas, de Thomas Kuhn"
+      },
+      "correct": "a",
+      "explanation": "O funcionalismo foi diretamente influenciado pela teoria da evolução por seleção natural de Charles Darwin, publicada em 'A Origem das Espécies' (1859), que sugeriu que a consciência e os processos mentais teriam utilidade adaptativa, assim como as características físicas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13-14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o funcionalismo investigava como a mente e o comportamento auxiliam o organismo a se adaptar às demandas do meio. Esse pressuposto está diretamente relacionado a qual teoria biológica que influenciou a psicologia americana no final do século XIX? O funcionalismo foi diretamente influenciado pela teoria da evolução por seleção natural de Charles Darwin, publicada em 'A Origem das Espécies' (1859), que sugeriu que a consciência e os processos mentais teriam utilidade adaptativa, assim como as características físicas."
     }
   ],
   "discursive": [
@@ -3919,6 +5305,897 @@
       },
       "subject": "Behaviorismo radical (Skinner)",
       "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-035",
+      "topic": "Fundação do laboratório de Wundt",
+      "question": "Explique o que motivou Wilhelm Wundt a fundar o primeiro laboratório de psicologia experimental em 1879 e qual era seu objeto de estudo central.",
+      "modelAnswer": "Wundt, com formação em medicina e fisiologia, fundou em 1879 o primeiro laboratório de psicologia experimental na Universidade de Leipzig, marco formal da psicologia como ciência independente. Ele propôs que a psicologia deveria ser uma ciência dedicada ao estudo da experiência consciente imediata — a experiência subjetiva tal como vivenciada, sem interferência de interpretações prévias. Seu objetivo era analisar a consciência em seus elementos constituintes mais simples, de forma análoga à decomposição química de substâncias, adaptando métodos da fisiologia e da psicofísica, com apresentação controlada de estímulos e medição do tempo de reação por meio de cronoscópios.",
+      "keyPoints": [
+        {
+          "text": "1879: fundação do laboratório em Leipzig, marco da psicologia como ciência independente",
+          "weight": 0.25,
+          "keywords": [
+            "1879",
+            "Leipzig",
+            "ciência independente"
+          ]
+        },
+        {
+          "text": "Objeto de estudo: experiência consciente imediata",
+          "weight": 0.35,
+          "keywords": [
+            "experiência consciente imediata",
+            "subjetiva"
+          ]
+        },
+        {
+          "text": "Objetivo: decompor a consciência em elementos simples (analogia com a química)",
+          "weight": 0.25,
+          "keywords": [
+            "decompor",
+            "elementos simples",
+            "química"
+          ]
+        },
+        {
+          "text": "Métodos: estímulos controlados e cronoscópios para medir tempo de reação",
+          "weight": 0.15,
+          "keywords": [
+            "cronoscópios",
+            "tempo de reação",
+            "estímulos controlados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-036",
+      "topic": "Introspecção experimental",
+      "question": "Diferencie a introspecção experimental de Wundt da introspecção filosófica tradicional, explicando como o procedimento era conduzido no laboratório de Leipzig.",
+      "modelAnswer": "Diferente da introspecção filosófica, que consistia em uma reflexão livre sobre os próprios pensamentos, a introspecção de Wundt era um procedimento altamente controlado. As pessoas participantes, geralmente estudantes de pós-graduação do próprio laboratório, passavam por um treinamento exaustivo para relatar suas sensações imediatas diante de estímulos específicos, evitando o 'erro de estímulo' — descrever o objeto em si em vez da sensação provocada por ele. Por exemplo, após ouvir um clique, relatavam 'som agudo', 'curto' ou 'leve desconforto'. Repetindo o experimento várias vezes, Wundt observava padrões nos relatos, analisando regularidades nas sensações conscientes em vez de relatos isolados.",
+      "keyPoints": [
+        {
+          "text": "Introspecção filosófica: reflexão livre; introspecção de Wundt: procedimento controlado",
+          "weight": 0.3,
+          "keywords": [
+            "reflexão livre",
+            "procedimento controlado"
+          ]
+        },
+        {
+          "text": "Participantes treinados exaustivamente (estudantes de pós-graduação)",
+          "weight": 0.2,
+          "keywords": [
+            "treinamento exaustivo",
+            "estudantes"
+          ]
+        },
+        {
+          "text": "Evitar o erro de estímulo: relatar sensação, não o objeto",
+          "weight": 0.3,
+          "keywords": [
+            "erro de estímulo",
+            "sensação",
+            "objeto"
+          ]
+        },
+        {
+          "text": "Repetição do experimento para identificar padrões/regularidades",
+          "weight": 0.2,
+          "keywords": [
+            "repetição",
+            "padrões",
+            "regularidades"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-037",
+      "topic": "Estruturalismo de Titchener",
+      "question": "Explique como Edward Titchener radicalizou a proposta de Wundt ao fundar o estruturalismo, indicando os elementos básicos da mente que buscava descobrir.",
+      "modelAnswer": "Titchener, estudante britânico de Wundt, levou a abordagem introspeccionista para os Estados Unidos e fundou o estruturalismo, radicalizando a proposta original de Wundt ao estabelecer que o único objetivo válido da psicologia deveria ser a descoberta da estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos. Para isso, exigia um controle laboratorial extremo, treinando observadores para fornecer relatos introspectivos detalhados sobre experiências sensoriais complexas, chegando a catalogar milhares de sensações visuais e auditivas distintas.",
+      "keyPoints": [
+        {
+          "text": "Titchener: estudante britânico de Wundt, leva a abordagem aos EUA",
+          "weight": 0.25,
+          "keywords": [
+            "Titchener",
+            "Estados Unidos",
+            "estudante"
+          ]
+        },
+        {
+          "text": "Radicalização: único objetivo válido é descobrir a estrutura da mente",
+          "weight": 0.3,
+          "keywords": [
+            "radicalizou",
+            "único objetivo",
+            "estrutura"
+          ]
+        },
+        {
+          "text": "Elementos básicos: sensações, imagens e afetos",
+          "weight": 0.3,
+          "keywords": [
+            "sensações",
+            "imagens",
+            "afetos"
+          ]
+        },
+        {
+          "text": "Catalogação de milhares de sensações visuais e auditivas",
+          "weight": 0.15,
+          "keywords": [
+            "catalogou",
+            "milhares",
+            "sensações"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-038",
+      "topic": "Erro de estímulo",
+      "question": "O que é o 'erro de estímulo' no método introspectivo estruturalista? Dê um exemplo.",
+      "modelAnswer": "O erro de estímulo é a falha cometida durante a introspecção quando a pessoa participante descreve o objeto físico apresentado (por exemplo, 'vejo uma moeda') em vez de relatar os elementos sensoriais básicos de sua experiência consciente imediata (por exemplo, 'vejo um disco brilhante, de cor metálica e bordas arredondadas'). O treinamento exaustivo no laboratório de Leipzig visava justamente eliminar essa interpretação mediata, garantindo a objetividade da análise estrutural da consciência, já que o objetivo era captar a sensação pura, e não o reconhecimento do objeto com base em conhecimento prévio.",
+      "keyPoints": [
+        {
+          "text": "Definição: descrever o objeto em si, não a sensação provocada por ele",
+          "weight": 0.4,
+          "keywords": [
+            "descrever o objeto",
+            "sensação",
+            "erro de estímulo"
+          ]
+        },
+        {
+          "text": "Exemplo: 'vejo uma moeda' vs. 'disco brilhante, metálico, bordas arredondadas'",
+          "weight": 0.3,
+          "keywords": [
+            "moeda",
+            "disco brilhante",
+            "exemplo"
+          ]
+        },
+        {
+          "text": "Objetivo do treinamento: eliminar interpretação mediata",
+          "weight": 0.3,
+          "keywords": [
+            "treinamento",
+            "interpretação mediata",
+            "objetividade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-039",
+      "topic": "Declínio do estruturalismo",
+      "question": "Explique os principais motivos que levaram ao declínio do estruturalismo como escola de pensamento psicológico.",
+      "modelAnswer": "O declínio do estruturalismo ocorreu devido a três fatores principais: a subjetividade inerente ao método da introspecção — já que a experiência consciente é privada e inacessível à observação pública, não havendo critério objetivo para determinar qual relato era verdadeiro quando dois observadores discordavam diante do mesmo estímulo; a impossibilidade de replicação exata dos resultados experimentais; e a recusa da escola em estudar a psicologia animal, infantil e aplicada, o que limitou severamente seu escopo de atuação diante de escolas mais abertas, como o funcionalismo.",
+      "keyPoints": [
+        {
+          "text": "Subjetividade da introspecção: falta de concordância entre observadores",
+          "weight": 0.35,
+          "keywords": [
+            "subjetividade",
+            "concordância",
+            "observadores"
+          ]
+        },
+        {
+          "text": "Impossibilidade de replicação exata dos resultados",
+          "weight": 0.3,
+          "keywords": [
+            "replicação",
+            "impossibilidade"
+          ]
+        },
+        {
+          "text": "Recusa em estudar psicologia animal, infantil e aplicada",
+          "weight": 0.35,
+          "keywords": [
+            "animal",
+            "infantil",
+            "aplicada",
+            "recusa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-040",
+      "topic": "Legado do laboratório de Wundt",
+      "question": "Apesar do declínio do estruturalismo, qual foi o legado deixado pelo laboratório de Wundt para a psicologia como ciência, e como esse legado se manifesta na pesquisa contemporânea?",
+      "modelAnswer": "Apesar de seu declínio, o estruturalismo e o laboratório de Wundt deixaram um legado inegável: estabeleceram a exigência de que a psicologia deveria basear suas conclusões em dados empíricos coletados sob condições controladas, separando a disciplina da especulação filosófica pura. Na pesquisa contemporânea, essa herança se manifesta no design de pesquisas em psicologia cognitiva e neurociência: quando profissionais utilizam equipamentos de rastreamento ocular (eye-tracking) ou ressonância magnética funcional para mapear áreas do cérebro ativadas durante tarefas de percepção, eles continuam o projeto original de Leipzig, buscando correlatos objetivos e mensuráveis para os processos mentais internos, substituindo a introspecção falha por tecnologias de medição fisiológica avançadas.",
+      "keyPoints": [
+        {
+          "text": "Legado: exigência de dados empíricos sob condições controladas",
+          "weight": 0.4,
+          "keywords": [
+            "dados empíricos",
+            "condições controladas",
+            "legado"
+          ]
+        },
+        {
+          "text": "Separação da especulação filosófica pura",
+          "weight": 0.2,
+          "keywords": [
+            "especulação filosófica"
+          ]
+        },
+        {
+          "text": "Manifestação atual: eye-tracking e ressonância magnética funcional",
+          "weight": 0.25,
+          "keywords": [
+            "eye-tracking",
+            "ressonância magnética"
+          ]
+        },
+        {
+          "text": "Busca por correlatos objetivos e mensuráveis dos processos mentais",
+          "weight": 0.15,
+          "keywords": [
+            "correlatos objetivos",
+            "mensuráveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-041",
+      "topic": "Contexto histórico anterior a Wundt",
+      "question": "Explique como os estudos de Hermann von Helmholtz sobre o impulso nervoso contribuíram para preparar o terreno da psicologia experimental.",
+      "modelAnswer": "Antes da fundação do laboratório de Wundt, pesquisadores como Hermann von Helmholtz estudaram a velocidade do impulso nervoso, demonstrando que os processos fisiológicos subjacentes à percepção requeriam tempo e, portanto, poderiam ser medidos. Essa constatação abalou a crença de que os processos mentais ocorriam de modo instantâneo e insuscetível à quantificação, fornecendo as ferramentas conceituais e metodológicas que permitiram a Wundt propor a medição do tempo de reação como método científico para investigar a experiência consciente.",
+      "keyPoints": [
+        {
+          "text": "Helmholtz estudou a velocidade do impulso nervoso",
+          "weight": 0.4,
+          "keywords": [
+            "Helmholtz",
+            "impulso nervoso",
+            "velocidade"
+          ]
+        },
+        {
+          "text": "Demonstrou que processos fisiológicos requerem tempo e podem ser medidos",
+          "weight": 0.35,
+          "keywords": [
+            "requerem tempo",
+            "medidos"
+          ]
+        },
+        {
+          "text": "Abalou a crença de processos mentais instantâneos",
+          "weight": 0.25,
+          "keywords": [
+            "instantâneos",
+            "abalou a crença"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-042",
+      "topic": "Elementos e métodos do estruturalismo",
+      "question": "Descreva os principais elementos que caracterizam o estruturalismo enquanto escola de pensamento: foco, método, pergunta central e abordagem geral.",
+      "modelAnswer": "O estruturalismo tinha como foco descobrir a estrutura da mente. Seu método era a introspecção experimental rigorosa, conduzida por observadores treinados exaustivamente para evitar o erro de estímulo. Sua pergunta central era 'o que é a consciência?'. Sua abordagem geral era de ciência pura, restrita ao laboratório, sem interesse em aplicações práticas — características que contrastam diretamente com o funcionalismo, cuja pergunta era 'para que serve a consciência?' e cuja abordagem era de ciência aplicada.",
+      "keyPoints": [
+        {
+          "text": "Foco: descobrir a estrutura da mente",
+          "weight": 0.25,
+          "keywords": [
+            "estrutura da mente",
+            "foco"
+          ]
+        },
+        {
+          "text": "Método: introspecção experimental rigorosa",
+          "weight": 0.25,
+          "keywords": [
+            "introspecção experimental",
+            "rigorosa"
+          ]
+        },
+        {
+          "text": "Pergunta central: 'o que é a consciência?'",
+          "weight": 0.25,
+          "keywords": [
+            "o que é a consciência"
+          ]
+        },
+        {
+          "text": "Abordagem: ciência pura, restrita ao laboratório, sem aplicações práticas",
+          "weight": 0.25,
+          "keywords": [
+            "ciência pura",
+            "laboratório",
+            "sem aplicações"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-043",
+      "topic": "Problema da concordância entre observadores",
+      "question": "Explique por que a falta de concordância entre observadores treinados representava um problema epistemológico grave para o método introspectivo do estruturalismo.",
+      "modelAnswer": "O principal problema epistemológico do estruturalismo residia na falta de concordância entre diferentes observadores: se duas pessoas bem treinadas relatassem sensações diferentes diante do mesmo estímulo, não havia um critério objetivo para determinar qual relato era verdadeiro, uma vez que a experiência consciente é privada e inacessível à observação pública. Isso comprometia a exigência científica de que os fenômenos investigados fossem observáveis por múltiplos pesquisadores e passíveis de verificação empírica, colocando em xeque a pretensão do estruturalismo de ser uma ciência objetiva baseada exclusivamente na introspecção.",
+      "keyPoints": [
+        {
+          "text": "Falta de critério objetivo para julgar relatos divergentes",
+          "weight": 0.4,
+          "keywords": [
+            "critério objetivo",
+            "relatos divergentes"
+          ]
+        },
+        {
+          "text": "Experiência consciente é privada e inacessível à observação pública",
+          "weight": 0.4,
+          "keywords": [
+            "privada",
+            "inacessível",
+            "observação pública"
+          ]
+        },
+        {
+          "text": "Compromete a exigência de verificação empírica multi-observador",
+          "weight": 0.2,
+          "keywords": [
+            "verificação empírica",
+            "múltiplos pesquisadores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-044",
+      "topic": "Wundt, Titchener e a psicologia atual",
+      "question": "Compare o objetivo original de Wundt (estudar a experiência consciente imediata) com a radicalização proposta por Titchener, e explique como essa trajetória histórica se conecta às tecnologias de medição usadas atualmente na neurociência cognitiva.",
+      "modelAnswer": "Wundt propôs estudar a experiência consciente imediata, buscando decompô-la em elementos simples por meio da introspecção experimental controlada, mas sem restringir totalmente o escopo da psicologia. Titchener radicalizou essa proposta, estabelecendo que o único objetivo válido da psicologia deveria ser descobrir a estrutura da mente (sensações, imagens, afetos), com um controle laboratorial ainda mais rigoroso e uma recusa a estudar áreas como psicologia animal, infantil e aplicada. Apesar do declínio dessa abordagem por sua subjetividade e falta de replicabilidade, o legado de buscar dados empíricos e mensuráveis sobre a mente permanece: hoje, tecnologias como o eye-tracking e a ressonância magnética funcional substituem a introspecção falha, mas continuam o mesmo projeto original de Leipzig — encontrar correlatos objetivos para os processos mentais internos.",
+      "keyPoints": [
+        {
+          "text": "Wundt: experiência consciente imediata, decomposição em elementos simples",
+          "weight": 0.3,
+          "keywords": [
+            "Wundt",
+            "experiência consciente imediata"
+          ]
+        },
+        {
+          "text": "Titchener: radicalização, único objetivo é a estrutura da mente, recusa de áreas aplicadas",
+          "weight": 0.3,
+          "keywords": [
+            "Titchener",
+            "radicalização",
+            "recusa"
+          ]
+        },
+        {
+          "text": "Declínio por subjetividade e falta de replicabilidade",
+          "weight": 0.2,
+          "keywords": [
+            "subjetividade",
+            "replicabilidade",
+            "declínio"
+          ]
+        },
+        {
+          "text": "Conexão atual: eye-tracking e fMRI continuam o projeto de correlatos objetivos",
+          "weight": 0.2,
+          "keywords": [
+            "eye-tracking",
+            "fMRI",
+            "correlatos objetivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-045",
+      "topic": "Origem do funcionalismo",
+      "question": "Explique como a teoria da evolução de Darwin influenciou o surgimento do funcionalismo como escola de pensamento psicológico.",
+      "modelAnswer": "A publicação de 'A Origem das Espécies' por Darwin, em 1859, alterou o paradigma científico ao propor que características físicas e comportamentais evoluem por seleção natural, favorecendo traços que garantem sobrevivência e adaptação. Esse impacto se estendeu à psicologia: se a anatomia física evoluiu para cumprir funções adaptativas, a consciência e os processos mentais também deveriam ter utilidade prática para a sobrevivência humana. Essa perspectiva deu origem ao funcionalismo, a primeira escola de pensamento psicológico genuinamente americana, que deslocou a questão central de 'qual é a estrutura da mente?' para 'para que serve a mente?', não mais interessada nos elementos básicos da consciência, mas em como a mente funciona na interação com o ambiente.",
+      "keyPoints": [
+        {
+          "text": "Darwin (1859): seleção natural favorece traços adaptativos",
+          "weight": 0.3,
+          "keywords": [
+            "Darwin",
+            "1859",
+            "seleção natural"
+          ]
+        },
+        {
+          "text": "Extensão à psicologia: consciência também teria utilidade adaptativa",
+          "weight": 0.3,
+          "keywords": [
+            "utilidade adaptativa",
+            "consciência"
+          ]
+        },
+        {
+          "text": "Mudança de pergunta: da estrutura para a função da mente",
+          "weight": 0.3,
+          "keywords": [
+            "estrutura",
+            "função",
+            "para que serve"
+          ]
+        },
+        {
+          "text": "Funcionalismo: primeira escola genuinamente americana",
+          "weight": 0.1,
+          "keywords": [
+            "primeira escola americana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13-14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-046",
+      "topic": "Pragmatismo e funcionalismo",
+      "question": "Explique o que é o pragmatismo americano e como essa filosofia fundamentou o funcionalismo como ciência aplicada.",
+      "modelAnswer": "O pragmatismo, formulado por pensadores como Charles Sanders Peirce e William James, sustenta que a validade de uma ideia ou conceito deve ser avaliada por suas consequências práticas e sua utilidade; uma teoria é considerada verdadeira se funciona na prática e produz resultados úteis. Essa postura filosófica forneceu a justificativa para que a psicologia americana se tornasse uma ciência aplicada, voltada para a resolução de problemas reais na educação, na indústria e na clínica, em contraste direto com o caráter puramente laboratorial e teórico do estruturalismo europeu.",
+      "keyPoints": [
+        {
+          "text": "Pragmatismo: validade avaliada pelas consequências práticas e utilidade",
+          "weight": 0.4,
+          "keywords": [
+            "consequências práticas",
+            "utilidade",
+            "validade"
+          ]
+        },
+        {
+          "text": "Formulado por Peirce e James",
+          "weight": 0.2,
+          "keywords": [
+            "Peirce",
+            "James"
+          ]
+        },
+        {
+          "text": "Fundamenta a psicologia aplicada (educação, indústria, clínica)",
+          "weight": 0.3,
+          "keywords": [
+            "educação",
+            "indústria",
+            "clínica",
+            "aplicada"
+          ]
+        },
+        {
+          "text": "Contraste com o caráter teórico/laboratorial do estruturalismo",
+          "weight": 0.1,
+          "keywords": [
+            "contraste",
+            "estruturalismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-047",
+      "topic": "William James e a corrente da consciência",
+      "question": "Explique o conceito de 'corrente da consciência' proposto por William James e sua crítica ao estruturalismo.",
+      "modelAnswer": "William James, em sua obra 'Princípios de Psicologia' (1890), criticou o estruturalismo de Wundt e Titchener, argumentando que a tentativa de dividir a consciência em elementos estáticos era artificial e distorcia a verdadeira natureza da experiência mental. Ele propôs o conceito de 'corrente da consciência' (stream of consciousness): a consciência seria um fluxo contínuo, dinâmico e indivisível, e qualquer tentativa de interromper esse fluxo para analisá-lo destruiria a própria experiência observada. A consciência é pessoal, está em constante mudança, é contínua e, acima de tudo, seletiva — sendo essa capacidade de selecionar estímulos relevantes e focar a atenção a principal função adaptativa da mente.",
+      "keyPoints": [
+        {
+          "text": "Crítica ao estruturalismo: dividir a consciência em elementos é artificial",
+          "weight": 0.3,
+          "keywords": [
+            "crítica",
+            "artificial",
+            "estruturalismo"
+          ]
+        },
+        {
+          "text": "Corrente da consciência: fluxo contínuo, dinâmico, indivisível",
+          "weight": 0.3,
+          "keywords": [
+            "corrente da consciência",
+            "fluxo contínuo"
+          ]
+        },
+        {
+          "text": "Consciência é pessoal, mutável, contínua e seletiva",
+          "weight": 0.2,
+          "keywords": [
+            "pessoal",
+            "seletiva",
+            "contínua"
+          ]
+        },
+        {
+          "text": "Seleção de estímulos = principal função adaptativa da mente",
+          "weight": 0.2,
+          "keywords": [
+            "seleção de estímulos",
+            "função adaptativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-048",
+      "topic": "Dewey e o arco reflexo",
+      "question": "Explique a crítica de John Dewey ao conceito de arco reflexo e sua contribuição para o funcionalismo.",
+      "modelAnswer": "John Dewey contribuiu decisivamente para a consolidação do funcionalismo. Em seu artigo clássico sobre o 'conceito de arco reflexo na psicologia', criticou a divisão artificial entre estímulo e resposta, característica do modelo mecânico tradicional. Ele argumentou que o comportamento não deve ser visto como uma sequência mecânica de eventos isolados, mas como um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao seu meio. Para Dewey, a percepção de um estímulo e a resposta motora formam uma unidade funcional indivisível, reforçando a visão funcionalista de que mente e comportamento devem ser compreendidos em termos de sua utilidade adaptativa, e não como elementos separados e estáticos.",
+      "keyPoints": [
+        {
+          "text": "Crítica à divisão artificial entre estímulo e resposta (arco reflexo)",
+          "weight": 0.35,
+          "keywords": [
+            "arco reflexo",
+            "estímulo e resposta",
+            "divisão artificial"
+          ]
+        },
+        {
+          "text": "Comportamento como circuito contínuo e coordenado",
+          "weight": 0.3,
+          "keywords": [
+            "circuito contínuo",
+            "coordenado"
+          ]
+        },
+        {
+          "text": "Objetivo: adaptação do organismo ao meio",
+          "weight": 0.2,
+          "keywords": [
+            "adaptação",
+            "organismo",
+            "meio"
+          ]
+        },
+        {
+          "text": "Unidade funcional indivisível entre percepção e resposta motora",
+          "weight": 0.15,
+          "keywords": [
+            "unidade funcional",
+            "indivisível"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-049",
+      "topic": "Funcionalismo x Estruturalismo",
+      "question": "Compare o estruturalismo e o funcionalismo quanto ao foco, método, pergunta central e abordagem, segundo o quadro comparativo do material.",
+      "modelAnswer": "O estruturalismo tinha como foco descobrir a estrutura da mente, utilizava o método da introspecção experimental rigorosa, formulava a pergunta central 'o que é a consciência?' e adotava uma abordagem de ciência pura, restrita ao laboratório, sem interesse em aplicações práticas. Já o funcionalismo tinha como foco compreender a função da mente e do comportamento, utilizava múltiplos métodos (observação, testes, questionários), formulava a pergunta central 'para que serve a consciência?' e adotava uma abordagem de ciência aplicada, voltada para a adaptação, a educação e a resolução de problemas reais.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: foco na estrutura, introspecção, 'o que é a consciência?', ciência pura",
+          "weight": 0.5,
+          "keywords": [
+            "estrutura",
+            "introspecção",
+            "ciência pura"
+          ]
+        },
+        {
+          "text": "Funcionalismo: foco na função, múltiplos métodos, 'para que serve?', ciência aplicada",
+          "weight": 0.5,
+          "keywords": [
+            "função",
+            "múltiplos métodos",
+            "ciência aplicada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-050",
+      "topic": "Herança do funcionalismo na prática atual",
+      "question": "Descreva como a herança do funcionalismo e do pragmatismo se manifesta na atuação profissional da psicologia contemporânea, citando exemplos do material.",
+      "modelAnswer": "A herança do funcionalismo e do pragmatismo é evidente na atuação profissional atual da psicologia: a psicologia escolar, a psicologia organizacional e a psicometria (desenvolvimento de testes psicológicos) nasceram da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho. Quando uma pessoa psicóloga aplica um teste de aptidão para orientação profissional ou desenvolve um programa de treinamento em uma empresa, ela opera sob a premissa pragmática de que a psicologia deve fornecer ferramentas úteis para a adaptação humana em contextos sociais e de trabalho.",
+      "keyPoints": [
+        {
+          "text": "Psicologia escolar, organizacional e psicometria como heranças diretas",
+          "weight": 0.4,
+          "keywords": [
+            "psicologia escolar",
+            "organizacional",
+            "psicometria"
+          ]
+        },
+        {
+          "text": "Necessidade funcionalista de classificar, melhorar aprendizado e otimizar desempenho",
+          "weight": 0.3,
+          "keywords": [
+            "classificar",
+            "aprendizado",
+            "desempenho"
+          ]
+        },
+        {
+          "text": "Exemplo: teste de aptidão e treinamento corporativo sob premissa pragmática",
+          "weight": 0.3,
+          "keywords": [
+            "teste de aptidão",
+            "treinamento",
+            "premissa pragmática"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-051",
+      "topic": "Contexto americano do funcionalismo",
+      "question": "Explique por que o funcionalismo surgiu especificamente nos Estados Unidos, e não na Europa, segundo o contexto apresentado no material.",
+      "modelAnswer": "Enquanto o estruturalismo de Titchener buscava dissecar a mente em elementos estáticos em laboratórios isolados na tradição europeia, um movimento distinto ganhou força nos Estados Unidos. O ambiente intelectual americano era marcado pelo espírito prático, pela expansão territorial e pelo valor atribuído à utilidade, mostrando-se hostil à rigidez da introspecção estruturalista. Esse contexto cultural, somado à influência da teoria da evolução de Darwin, favoreceu o surgimento do funcionalismo como a primeira escola de pensamento psicológico genuinamente americana, voltada para questões práticas de adaptação, e não para a análise estática e isolada da consciência.",
+      "keyPoints": [
+        {
+          "text": "Ambiente americano: espírito prático, expansão territorial, valor da utilidade",
+          "weight": 0.4,
+          "keywords": [
+            "espírito prático",
+            "expansão territorial",
+            "utilidade"
+          ]
+        },
+        {
+          "text": "Hostilidade à rigidez da introspecção estruturalista europeia",
+          "weight": 0.3,
+          "keywords": [
+            "hostilidade",
+            "rigidez",
+            "estruturalista"
+          ]
+        },
+        {
+          "text": "Combinação com a influência darwiniana",
+          "weight": 0.2,
+          "keywords": [
+            "Darwin",
+            "influência"
+          ]
+        },
+        {
+          "text": "Resultado: primeira escola genuinamente americana",
+          "weight": 0.1,
+          "keywords": [
+            "genuinamente americana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-052",
+      "topic": "A mente como ferramenta de adaptação",
+      "question": "Explique por que, na perspectiva funcionalista, a mente passou a ser vista como uma 'ferramenta de adaptação'.",
+      "modelAnswer": "Na perspectiva funcionalista, influenciada pela teoria da evolução de Darwin, a mente passou a ser vista como uma ferramenta de adaptação, um processo dinâmico que permite ao organismo resolver problemas e ajustar-se a novas situações do ambiente. Assim como características físicas evoluíram por seleção natural para garantir a sobrevivência, os processos mentais também teriam uma utilidade prática adaptativa. Por isso, o funcionalismo não se preocupava em identificar os elementos estáticos da consciência, como fazia o estruturalismo, mas em compreender como a mente funciona em sua interação constante com o ambiente, ajudando o indivíduo a se adaptar e sobreviver.",
+      "keyPoints": [
+        {
+          "text": "Mente como processo dinâmico de resolução de problemas e ajuste ao ambiente",
+          "weight": 0.4,
+          "keywords": [
+            "processo dinâmico",
+            "resolução de problemas",
+            "ajuste"
+          ]
+        },
+        {
+          "text": "Base na teoria da evolução: utilidade adaptativa dos processos mentais",
+          "weight": 0.35,
+          "keywords": [
+            "evolução",
+            "utilidade adaptativa"
+          ]
+        },
+        {
+          "text": "Contraste com o interesse estruturalista pelos elementos estáticos",
+          "weight": 0.25,
+          "keywords": [
+            "contraste",
+            "elementos estáticos",
+            "estruturalismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-053",
+      "topic": "Métodos do funcionalismo",
+      "question": "Diferencie os métodos utilizados pelo funcionalismo dos métodos do estruturalismo, e explique por que essa diferença reflete os objetivos de cada escola.",
+      "modelAnswer": "Enquanto o estruturalismo utilizava exclusivamente a introspecção experimental rigorosa para dissecar a mente em seus elementos básicos, o funcionalismo, por ter como objetivo compreender a função da mente e do comportamento em sua interação com o ambiente, adotava múltiplos métodos, como observação, testes e questionários. Essa diferença metodológica reflete diretamente os objetivos distintos de cada escola: o estruturalismo buscava uma análise estática e interna da consciência, restrita ao laboratório, enquanto o funcionalismo, orientado pelo pragmatismo, buscava compreender comportamentos e processos mentais em contextos reais e aplicados, exigindo uma pluralidade metodológica maior.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: introspecção experimental exclusiva",
+          "weight": 0.3,
+          "keywords": [
+            "introspecção exclusiva"
+          ]
+        },
+        {
+          "text": "Funcionalismo: múltiplos métodos (observação, testes, questionários)",
+          "weight": 0.35,
+          "keywords": [
+            "múltiplos métodos",
+            "observação",
+            "testes"
+          ]
+        },
+        {
+          "text": "Diferença reflete objetivos distintos: análise estática vs. compreensão funcional aplicada",
+          "weight": 0.35,
+          "keywords": [
+            "análise estática",
+            "compreensão funcional",
+            "aplicada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-054",
+      "topic": "Precursores do funcionalismo",
+      "question": "Identifique as contribuições de William James e John Dewey para a consolidação do funcionalismo, destacando o papel de cada um.",
+      "modelAnswer": "William James é amplamente reconhecido como o precursor do funcionalismo e a figura mais influente da psicologia americana em seus primórdios. Em 'Princípios de Psicologia' (1890), criticou o estruturalismo e propôs o conceito de 'corrente da consciência', destacando a natureza contínua, dinâmica e seletiva da mente como sua principal função adaptativa. John Dewey, por sua vez, contribuiu de forma decisiva ao criticar, em seu artigo sobre o 'conceito de arco reflexo na psicologia', a divisão artificial entre estímulo e resposta, propondo que o comportamento deve ser entendido como um circuito contínuo e coordenado voltado para a adaptação do organismo ao meio. Juntos, James e Dewey estabeleceram as bases filosóficas e metodológicas que consolidaram o funcionalismo como escola de pensamento genuinamente americana.",
+      "keyPoints": [
+        {
+          "text": "William James: precursor, corrente da consciência, crítica ao estruturalismo",
+          "weight": 0.5,
+          "keywords": [
+            "William James",
+            "corrente da consciência",
+            "precursor"
+          ]
+        },
+        {
+          "text": "John Dewey: crítica ao arco reflexo, comportamento como circuito adaptativo",
+          "weight": 0.5,
+          "keywords": [
+            "John Dewey",
+            "arco reflexo",
+            "circuito adaptativo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -5096,6 +7373,722 @@
       "subject": "Behaviorismo radical (Skinner)",
       "difficulty": "dificil",
       "miniLesson": "Qual a principal diferença entre o behaviorismo metodológico de Watson e o behaviorismo radical de Skinner? Watson excluía os eventos privados (pensamentos e sentimentos) da ciência, por não serem observáveis publicamente. Skinner os incluía, entendendo que pensar e sentir também são comportamentos, sujeitos às mesmas leis de aprendizagem dos comportamentos públicos."
+    },
+    {
+      "id": "fund-oral-035",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Por que 1879 é considerado o marco formal da psicologia como ciência independente?",
+      "modelAnswer": "Em 1879, Wilhelm Wundt fundou o primeiro laboratório de psicologia experimental na Universidade de Leipzig, na Alemanha. Com formação em medicina e fisiologia, Wundt propôs que a psicologia deveria estudar cientificamente a experiência consciente imediata, usando métodos controlados como estímulos padronizados e cronoscópios para medir tempo de reação, conferindo à psicologia o status de ciência natural, separada da filosofia especulativa.",
+      "keyPoints": [
+        {
+          "text": "1879: fundação do laboratório de Wundt em Leipzig",
+          "weight": 0.4,
+          "keywords": [
+            "1879",
+            "Wundt",
+            "Leipzig"
+          ]
+        },
+        {
+          "text": "Métodos controlados conferem status de ciência natural",
+          "weight": 0.3,
+          "keywords": [
+            "métodos controlados",
+            "ciência natural"
+          ]
+        },
+        {
+          "text": "Separação da filosofia especulativa",
+          "weight": 0.3,
+          "keywords": [
+            "separação",
+            "filosofia especulativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "Por que 1879 é considerado o marco formal da psicologia como ciência independente? Em 1879, Wilhelm Wundt fundou o primeiro laboratório de psicologia experimental na Universidade de Leipzig, na Alemanha. Com formação em medicina e fisiologia, Wundt propôs que a psicologia deveria estudar cientificamente a experiência consciente imediata, usando métodos controlados como estímulos padronizados e cronoscópios para medir tempo de reação, conferindo à psicologia o status de ciência natural, separada da filosofia especulativa."
+    },
+    {
+      "id": "fund-oral-036",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O que Wundt entendia por 'experiência imediata' versus 'experiência mediata'?",
+      "modelAnswer": "Para Wundt, a experiência mediata é o reconhecimento interpretado de um objeto — por exemplo, ao ver uma maçã, dizer 'é uma maçã'. Já a experiência imediata é a sensação pura e não interpretada, como relatar apenas a cor vermelha, a forma arredondada e a intensidade da luz. Wundt buscava estudar exatamente essa experiência imediata, decompondo-a em seus elementos mais simples.",
+      "keyPoints": [
+        {
+          "text": "Experiência mediata: reconhecimento interpretado do objeto",
+          "weight": 0.5,
+          "keywords": [
+            "mediata",
+            "reconhecimento",
+            "interpretado"
+          ]
+        },
+        {
+          "text": "Experiência imediata: sensações puras (cor, forma, intensidade)",
+          "weight": 0.5,
+          "keywords": [
+            "imediata",
+            "sensações puras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "O que Wundt entendia por 'experiência imediata' versus 'experiência mediata'? Para Wundt, a experiência mediata é o reconhecimento interpretado de um objeto — por exemplo, ao ver uma maçã, dizer 'é uma maçã'. Já a experiência imediata é a sensação pura e não interpretada, como relatar apenas a cor vermelha, a forma arredondada e a intensidade da luz. Wundt buscava estudar exatamente essa experiência imediata, decompondo-a em seus elementos mais simples."
+    },
+    {
+      "id": "fund-oral-037",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Descreva o método da introspecção experimental utilizado no laboratório de Leipzig.",
+      "modelAnswer": "A introspecção experimental era um procedimento altamente controlado, diferente da reflexão livre da introspecção filosófica. Os participantes, geralmente estudantes de pós-graduação do próprio laboratório, passavam por treinamento exaustivo para relatar suas sensações imediatas diante de estímulos visuais, auditivos ou táteis específicos, evitando o erro de estímulo — descrever o objeto em vez da sensação pura.",
+      "keyPoints": [
+        {
+          "text": "Procedimento controlado, diferente da reflexão filosófica livre",
+          "weight": 0.4,
+          "keywords": [
+            "controlado",
+            "reflexão livre"
+          ]
+        },
+        {
+          "text": "Participantes treinados exaustivamente",
+          "weight": 0.3,
+          "keywords": [
+            "treinamento",
+            "participantes"
+          ]
+        },
+        {
+          "text": "Evitar o erro de estímulo",
+          "weight": 0.3,
+          "keywords": [
+            "erro de estímulo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Descreva o método da introspecção experimental utilizado no laboratório de Leipzig. A introspecção experimental era um procedimento altamente controlado, diferente da reflexão livre da introspecção filosófica. Os participantes, geralmente estudantes de pós-graduação do próprio laboratório, passavam por treinamento exaustivo para relatar suas sensações imediatas diante de estímulos visuais, auditivos ou táteis específicos, evitando o erro de estímulo — descrever o objeto em vez da sensação pura."
+    },
+    {
+      "id": "fund-oral-038",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Quem foi Edward Titchener e qual foi sua principal contribuição para a psicologia?",
+      "modelAnswer": "Edward Bradford Titchener foi um estudante britânico de Wundt que levou a abordagem introspeccionista para os Estados Unidos, fundando a escola do estruturalismo. Ele radicalizou a proposta de Wundt, estabelecendo que o único objetivo válido da psicologia seria descobrir a estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos, chegando a catalogar milhares de sensações distintas.",
+      "keyPoints": [
+        {
+          "text": "Estudante britânico de Wundt, levou a abordagem aos EUA",
+          "weight": 0.3,
+          "keywords": [
+            "Titchener",
+            "britânico",
+            "EUA"
+          ]
+        },
+        {
+          "text": "Fundou o estruturalismo",
+          "weight": 0.3,
+          "keywords": [
+            "fundou",
+            "estruturalismo"
+          ]
+        },
+        {
+          "text": "Elementos básicos: sensações, imagens, afetos",
+          "weight": 0.4,
+          "keywords": [
+            "sensações",
+            "imagens",
+            "afetos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Quem foi Edward Titchener e qual foi sua principal contribuição para a psicologia? Edward Bradford Titchener foi um estudante britânico de Wundt que levou a abordagem introspeccionista para os Estados Unidos, fundando a escola do estruturalismo. Ele radicalizou a proposta de Wundt, estabelecendo que o único objetivo válido da psicologia seria descobrir a estrutura da mente por meio da análise de seus elementos básicos: sensações, imagens e afetos, chegando a catalogar milhares de sensações distintas."
+    },
+    {
+      "id": "fund-oral-039",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Explique com um exemplo prático o que é o 'erro de estímulo'.",
+      "modelAnswer": "O erro de estímulo ocorre quando o participante, ao invés de relatar a sensação consciente imediata provocada por um estímulo, descreve o objeto físico com base em seu conhecimento prévio. Por exemplo, ao ver uma moeda, o erro seria dizer 'vejo uma moeda' (reconhecimento/interpretação); o relato correto, sem esse erro, seria 'vejo um disco brilhante, de cor metálica e bordas arredondadas' (sensação pura).",
+      "keyPoints": [
+        {
+          "text": "Erro: descrever o objeto com base no conhecimento prévio",
+          "weight": 0.5,
+          "keywords": [
+            "conhecimento prévio",
+            "descrever o objeto"
+          ]
+        },
+        {
+          "text": "Exemplo: 'moeda' (errado) vs. 'disco brilhante metálico' (correto)",
+          "weight": 0.5,
+          "keywords": [
+            "moeda",
+            "disco brilhante"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Explique com um exemplo prático o que é o 'erro de estímulo'. O erro de estímulo ocorre quando o participante, ao invés de relatar a sensação consciente imediata provocada por um estímulo, descreve o objeto físico com base em seu conhecimento prévio. Por exemplo, ao ver uma moeda, o erro seria dizer 'vejo uma moeda' (reconhecimento/interpretação); o relato correto, sem esse erro, seria 'vejo um disco brilhante, de cor metálica e bordas arredondadas' (sensação pura)."
+    },
+    {
+      "id": "fund-oral-040",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Quais foram os principais motivos do declínio do estruturalismo?",
+      "modelAnswer": "O declínio do estruturalismo ocorreu por três motivos principais: a subjetividade inerente ao método da introspecção, já que não havia critério objetivo para julgar relatos divergentes entre observadores; a impossibilidade de replicação exata dos resultados experimentais; e a recusa da escola em estudar psicologia animal, infantil e aplicada, o que limitou severamente seu escopo de atuação.",
+      "keyPoints": [
+        {
+          "text": "Subjetividade da introspecção",
+          "weight": 0.35,
+          "keywords": [
+            "subjetividade"
+          ]
+        },
+        {
+          "text": "Impossibilidade de replicação",
+          "weight": 0.3,
+          "keywords": [
+            "replicação"
+          ]
+        },
+        {
+          "text": "Recusa em estudar áreas animal, infantil e aplicada",
+          "weight": 0.35,
+          "keywords": [
+            "animal",
+            "infantil",
+            "aplicada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Quais foram os principais motivos do declínio do estruturalismo? O declínio do estruturalismo ocorreu por três motivos principais: a subjetividade inerente ao método da introspecção, já que não havia critério objetivo para julgar relatos divergentes entre observadores; a impossibilidade de replicação exata dos resultados experimentais; e a recusa da escola em estudar psicologia animal, infantil e aplicada, o que limitou severamente seu escopo de atuação."
+    },
+    {
+      "id": "fund-oral-041",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Como os avanços fisiológicos de Hermann von Helmholtz contribuíram para o surgimento da psicologia experimental?",
+      "modelAnswer": "Helmholtz estudou a velocidade do impulso nervoso e demonstrou que os processos fisiológicos subjacentes à percepção requeriam tempo, ou seja, poderiam ser medidos. Essa descoberta abalou a crença de que os processos mentais eram instantâneos e não quantificáveis, abrindo caminho metodológico para que Wundt propusesse medir o tempo de reação como forma de investigar cientificamente a experiência consciente.",
+      "keyPoints": [
+        {
+          "text": "Demonstrou que a percepção requer tempo mensurável",
+          "weight": 0.5,
+          "keywords": [
+            "tempo mensurável",
+            "impulso nervoso"
+          ]
+        },
+        {
+          "text": "Abalou a crença em processos mentais instantâneos",
+          "weight": 0.3,
+          "keywords": [
+            "instantâneos",
+            "abalou"
+          ]
+        },
+        {
+          "text": "Abriu caminho metodológico para Wundt",
+          "weight": 0.2,
+          "keywords": [
+            "caminho metodológico",
+            "Wundt"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Como os avanços fisiológicos de Hermann von Helmholtz contribuíram para o surgimento da psicologia experimental? Helmholtz estudou a velocidade do impulso nervoso e demonstrou que os processos fisiológicos subjacentes à percepção requeriam tempo, ou seja, poderiam ser medidos. Essa descoberta abalou a crença de que os processos mentais eram instantâneos e não quantificáveis, abrindo caminho metodológico para que Wundt propusesse medir o tempo de reação como forma de investigar cientificamente a experiência consciente."
+    },
+    {
+      "id": "fund-oral-042",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Qual é o legado do laboratório de Wundt para a psicologia contemporânea, mesmo após o declínio do estruturalismo?",
+      "modelAnswer": "O legado inegável é a exigência de que a psicologia baseie suas conclusões em dados empíricos coletados sob condições controladas, separando-a da especulação filosófica pura. Hoje, esse legado se manifesta em tecnologias como eye-tracking e ressonância magnética funcional, que substituem a introspecção falha mas continuam o mesmo projeto original: buscar correlatos objetivos e mensuráveis para os processos mentais internos.",
+      "keyPoints": [
+        {
+          "text": "Exigência de dados empíricos sob condições controladas",
+          "weight": 0.5,
+          "keywords": [
+            "dados empíricos",
+            "condições controladas"
+          ]
+        },
+        {
+          "text": "Manifestação atual: eye-tracking e fMRI, correlatos objetivos",
+          "weight": 0.5,
+          "keywords": [
+            "eye-tracking",
+            "fMRI",
+            "correlatos objetivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "10"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o legado do laboratório de Wundt para a psicologia contemporânea, mesmo após o declínio do estruturalismo? O legado inegável é a exigência de que a psicologia baseie suas conclusões em dados empíricos coletados sob condições controladas, separando-a da especulação filosófica pura. Hoje, esse legado se manifesta em tecnologias como eye-tracking e ressonância magnética funcional, que substituem a introspecção falha mas continuam o mesmo projeto original: buscar correlatos objetivos e mensuráveis para os processos mentais internos."
+    },
+    {
+      "id": "fund-oral-043",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Qual era o objetivo de Wundt ao decompor a consciência em elementos simples, e a que ele comparava esse processo?",
+      "modelAnswer": "O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, assim como a química decompõe as substâncias em seus elementos básicos. Ele buscava, por meio de estímulos controlados e introspecção treinada, identificar as sensações elementares que compõem a experiência consciente imediata.",
+      "keyPoints": [
+        {
+          "text": "Objetivo: decompor a consciência em elementos simples",
+          "weight": 0.5,
+          "keywords": [
+            "decompor",
+            "elementos simples"
+          ]
+        },
+        {
+          "text": "Analogia com a química decompondo substâncias",
+          "weight": 0.5,
+          "keywords": [
+            "química",
+            "substâncias",
+            "analogia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "8"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio",
+      "miniLesson": "Qual era o objetivo de Wundt ao decompor a consciência em elementos simples, e a que ele comparava esse processo? O objetivo de Wundt era analisar a consciência em seus elementos constituintes mais simples, assim como a química decompõe as substâncias em seus elementos básicos. Ele buscava, por meio de estímulos controlados e introspecção treinada, identificar as sensações elementares que compõem a experiência consciente imediata."
+    },
+    {
+      "id": "fund-oral-044",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "Por que a experiência consciente é considerada, no contexto do estruturalismo, 'privada e inacessível à observação pública'?",
+      "modelAnswer": "Porque cada indivíduo tem acesso direto apenas à sua própria experiência subjetiva; um observador externo não pode verificar diretamente o que outra pessoa está sentindo ou percebendo. Isso significa que, quando dois participantes bem treinados relatavam sensações diferentes diante do mesmo estímulo, não havia como determinar objetivamente qual relato era o correto, minando a pretensão do estruturalismo de ser uma ciência plenamente objetiva.",
+      "keyPoints": [
+        {
+          "text": "Acesso direto apenas à própria experiência subjetiva",
+          "weight": 0.5,
+          "keywords": [
+            "acesso direto",
+            "subjetiva"
+          ]
+        },
+        {
+          "text": "Impossibilidade de verificar objetivamente relatos divergentes",
+          "weight": 0.5,
+          "keywords": [
+            "verificar objetivamente",
+            "relatos divergentes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "9"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "dificil",
+      "miniLesson": "Por que a experiência consciente é considerada, no contexto do estruturalismo, 'privada e inacessível à observação pública'? Porque cada indivíduo tem acesso direto apenas à sua própria experiência subjetiva; um observador externo não pode verificar diretamente o que outra pessoa está sentindo ou percebendo. Isso significa que, quando dois participantes bem treinados relatavam sensações diferentes diante do mesmo estímulo, não havia como determinar objetivamente qual relato era o correto, minando a pretensão do estruturalismo de ser uma ciência plenamente objetiva."
+    },
+    {
+      "id": "fund-oral-045",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Como a teoria de Darwin mudou a pergunta central da psicologia, dando origem ao funcionalismo?",
+      "modelAnswer": "A teoria da evolução de Darwin, ao propor que características evoluem por seleção natural para garantir sobrevivência e adaptação, sugeriu que a consciência e os processos mentais também deveriam ter utilidade prática. Isso mudou a pergunta central da psicologia de 'qual é a estrutura da mente?' para 'para que serve a mente?', dando origem ao funcionalismo, primeira escola de pensamento psicológico genuinamente americana.",
+      "keyPoints": [
+        {
+          "text": "Darwin: seleção natural favorece traços adaptativos",
+          "weight": 0.4,
+          "keywords": [
+            "Darwin",
+            "seleção natural"
+          ]
+        },
+        {
+          "text": "Mudança de pergunta: da estrutura para a função",
+          "weight": 0.4,
+          "keywords": [
+            "estrutura",
+            "função",
+            "pergunta"
+          ]
+        },
+        {
+          "text": "Origem do funcionalismo americano",
+          "weight": 0.2,
+          "keywords": [
+            "funcionalismo",
+            "americano"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13-14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Como a teoria de Darwin mudou a pergunta central da psicologia, dando origem ao funcionalismo? A teoria da evolução de Darwin, ao propor que características evoluem por seleção natural para garantir sobrevivência e adaptação, sugeriu que a consciência e os processos mentais também deveriam ter utilidade prática. Isso mudou a pergunta central da psicologia de 'qual é a estrutura da mente?' para 'para que serve a mente?', dando origem ao funcionalismo, primeira escola de pensamento psicológico genuinamente americana."
+    },
+    {
+      "id": "fund-oral-046",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O que sustenta a filosofia do pragmatismo e quem foram seus principais formuladores?",
+      "modelAnswer": "O pragmatismo, formulado por Charles Sanders Peirce e William James, sustenta que a validade de uma ideia deve ser avaliada por suas consequências práticas e sua utilidade — uma teoria é considerada verdadeira se funciona na prática e produz resultados úteis. Essa filosofia deu à psicologia americana a justificativa para se tornar uma ciência aplicada.",
+      "keyPoints": [
+        {
+          "text": "Validade avaliada por consequências práticas e utilidade",
+          "weight": 0.5,
+          "keywords": [
+            "consequências práticas",
+            "utilidade"
+          ]
+        },
+        {
+          "text": "Formuladores: Peirce e James",
+          "weight": 0.3,
+          "keywords": [
+            "Peirce",
+            "James"
+          ]
+        },
+        {
+          "text": "Base para a psicologia aplicada americana",
+          "weight": 0.2,
+          "keywords": [
+            "psicologia aplicada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "O que sustenta a filosofia do pragmatismo e quem foram seus principais formuladores? O pragmatismo, formulado por Charles Sanders Peirce e William James, sustenta que a validade de uma ideia deve ser avaliada por suas consequências práticas e sua utilidade — uma teoria é considerada verdadeira se funciona na prática e produz resultados úteis. Essa filosofia deu à psicologia americana a justificativa para se tornar uma ciência aplicada."
+    },
+    {
+      "id": "fund-oral-047",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "O que é a 'corrente da consciência' de William James?",
+      "modelAnswer": "É o conceito de que a consciência é um fluxo contínuo, dinâmico e indivisível, não podendo ser dividida em elementos estáticos sem que a própria experiência observada seja destruída no processo. Segundo James, a consciência é pessoal, muda constantemente, é contínua e, sobretudo, seletiva, focando a atenção nos estímulos relevantes do ambiente.",
+      "keyPoints": [
+        {
+          "text": "Fluxo contínuo, dinâmico e indivisível da consciência",
+          "weight": 0.5,
+          "keywords": [
+            "fluxo contínuo",
+            "indivisível"
+          ]
+        },
+        {
+          "text": "Consciência pessoal, mutável, contínua e seletiva",
+          "weight": 0.5,
+          "keywords": [
+            "pessoal",
+            "seletiva"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "O que é a 'corrente da consciência' de William James? É o conceito de que a consciência é um fluxo contínuo, dinâmico e indivisível, não podendo ser dividida em elementos estáticos sem que a própria experiência observada seja destruída no processo. Segundo James, a consciência é pessoal, muda constantemente, é contínua e, sobretudo, seletiva, focando a atenção nos estímulos relevantes do ambiente."
+    },
+    {
+      "id": "fund-oral-048",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Qual foi a contribuição de John Dewey para o funcionalismo?",
+      "modelAnswer": "John Dewey criticou, em seu artigo sobre o 'conceito de arco reflexo na psicologia', a divisão artificial entre estímulo e resposta. Ele defendeu que o comportamento deve ser visto como um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao ambiente, formando percepção e resposta motora uma unidade funcional indivisível.",
+      "keyPoints": [
+        {
+          "text": "Crítica à divisão artificial entre estímulo e resposta",
+          "weight": 0.4,
+          "keywords": [
+            "estímulo e resposta",
+            "divisão artificial"
+          ]
+        },
+        {
+          "text": "Comportamento como circuito contínuo e coordenado",
+          "weight": 0.4,
+          "keywords": [
+            "circuito contínuo"
+          ]
+        },
+        {
+          "text": "Adaptação do organismo ao ambiente",
+          "weight": 0.2,
+          "keywords": [
+            "adaptação",
+            "ambiente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Qual foi a contribuição de John Dewey para o funcionalismo? John Dewey criticou, em seu artigo sobre o 'conceito de arco reflexo na psicologia', a divisão artificial entre estímulo e resposta. Ele defendeu que o comportamento deve ser visto como um circuito contínuo e coordenado, cujo objetivo é a adaptação do organismo ao ambiente, formando percepção e resposta motora uma unidade funcional indivisível."
+    },
+    {
+      "id": "fund-oral-049",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Como o funcionalismo se diferenciava do estruturalismo quanto aos métodos de pesquisa?",
+      "modelAnswer": "Enquanto o estruturalismo se limitava à introspecção experimental rigorosa, o funcionalismo utilizava múltiplos métodos, como observação, testes e questionários, refletindo seu interesse em compreender a função da mente e do comportamento na adaptação a contextos reais, e não apenas em dissecar elementos estáticos de consciência em laboratório.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: apenas introspecção experimental",
+          "weight": 0.4,
+          "keywords": [
+            "introspecção",
+            "estruturalismo"
+          ]
+        },
+        {
+          "text": "Funcionalismo: múltiplos métodos (observação, testes, questionários)",
+          "weight": 0.6,
+          "keywords": [
+            "múltiplos métodos",
+            "observação",
+            "testes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Como o funcionalismo se diferenciava do estruturalismo quanto aos métodos de pesquisa? Enquanto o estruturalismo se limitava à introspecção experimental rigorosa, o funcionalismo utilizava múltiplos métodos, como observação, testes e questionários, refletindo seu interesse em compreender a função da mente e do comportamento na adaptação a contextos reais, e não apenas em dissecar elementos estáticos de consciência em laboratório."
+    },
+    {
+      "id": "fund-oral-050",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Dê um exemplo de como a herança funcionalista se manifesta na psicologia organizacional atual.",
+      "modelAnswer": "Quando uma pessoa psicóloga aplica testes de aptidão para orientação profissional ou desenvolve programas de treinamento em uma empresa, avaliando como candidatos resolvem problemas práticos e se adaptam a mudanças, ela opera sob a premissa pragmática funcionalista de que a psicologia deve fornecer ferramentas úteis para a adaptação humana em contextos de trabalho.",
+      "keyPoints": [
+        {
+          "text": "Exemplo: testes de aptidão / programas de treinamento corporativo",
+          "weight": 0.5,
+          "keywords": [
+            "testes de aptidão",
+            "treinamento"
+          ]
+        },
+        {
+          "text": "Premissa pragmática: ferramentas úteis para adaptação",
+          "weight": 0.5,
+          "keywords": [
+            "premissa pragmática",
+            "adaptação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Dê um exemplo de como a herança funcionalista se manifesta na psicologia organizacional atual. Quando uma pessoa psicóloga aplica testes de aptidão para orientação profissional ou desenvolve programas de treinamento em uma empresa, avaliando como candidatos resolvem problemas práticos e se adaptam a mudanças, ela opera sob a premissa pragmática funcionalista de que a psicologia deve fornecer ferramentas úteis para a adaptação humana em contextos de trabalho."
+    },
+    {
+      "id": "fund-oral-051",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Por que o funcionalismo é considerado uma 'ciência aplicada', em contraste com o estruturalismo?",
+      "modelAnswer": "Porque o funcionalismo se voltava para a adaptação, a educação e a resolução de problemas reais, buscando compreender a função da mente e do comportamento no ambiente cotidiano, enquanto o estruturalismo era uma ciência pura, restrita ao laboratório, sem qualquer interesse em aplicações práticas.",
+      "keyPoints": [
+        {
+          "text": "Funcionalismo: voltado à adaptação, educação e problemas reais",
+          "weight": 0.5,
+          "keywords": [
+            "adaptação",
+            "educação",
+            "problemas reais"
+          ]
+        },
+        {
+          "text": "Estruturalismo: ciência pura restrita ao laboratório",
+          "weight": 0.5,
+          "keywords": [
+            "ciência pura",
+            "laboratório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Por que o funcionalismo é considerado uma 'ciência aplicada', em contraste com o estruturalismo? Porque o funcionalismo se voltava para a adaptação, a educação e a resolução de problemas reais, buscando compreender a função da mente e do comportamento no ambiente cotidiano, enquanto o estruturalismo era uma ciência pura, restrita ao laboratório, sem qualquer interesse em aplicações práticas."
+    },
+    {
+      "id": "fund-oral-052",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Qual foi o papel de William James como precursor do funcionalismo?",
+      "modelAnswer": "William James é amplamente reconhecido como o precursor do funcionalismo e a figura mais influente da psicologia americana em seus primórdios. Em 'Princípios de Psicologia' (1890), criticou o estruturalismo e propôs o conceito de corrente da consciência, estabelecendo as bases filosóficas que orientariam o desenvolvimento do funcionalismo.",
+      "keyPoints": [
+        {
+          "text": "Precursor do funcionalismo, figura mais influente da psicologia americana inicial",
+          "weight": 0.5,
+          "keywords": [
+            "precursor",
+            "figura mais influente"
+          ]
+        },
+        {
+          "text": "'Princípios de Psicologia' (1890): crítica ao estruturalismo, corrente da consciência",
+          "weight": 0.5,
+          "keywords": [
+            "Princípios de Psicologia",
+            "1890",
+            "corrente da consciência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Qual foi o papel de William James como precursor do funcionalismo? William James é amplamente reconhecido como o precursor do funcionalismo e a figura mais influente da psicologia americana em seus primórdios. Em 'Princípios de Psicologia' (1890), criticou o estruturalismo e propôs o conceito de corrente da consciência, estabelecendo as bases filosóficas que orientariam o desenvolvimento do funcionalismo."
+    },
+    {
+      "id": "fund-oral-053",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Quais campos da psicologia aplicada nasceram, segundo o material, da herança funcionalista?",
+      "modelAnswer": "A psicologia escolar, a psicologia organizacional e a psicometria (desenvolvimento de testes psicológicos) nasceram da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho.",
+      "keyPoints": [
+        {
+          "text": "Psicologia escolar",
+          "weight": 0.34,
+          "keywords": [
+            "psicologia escolar"
+          ]
+        },
+        {
+          "text": "Psicologia organizacional",
+          "weight": 0.33,
+          "keywords": [
+            "psicologia organizacional"
+          ]
+        },
+        {
+          "text": "Psicometria",
+          "weight": 0.33,
+          "keywords": [
+            "psicometria",
+            "testes psicológicos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Quais campos da psicologia aplicada nasceram, segundo o material, da herança funcionalista? A psicologia escolar, a psicologia organizacional e a psicometria (desenvolvimento de testes psicológicos) nasceram da necessidade funcionalista de aplicar o conhecimento psicológico para classificar indivíduos, melhorar o aprendizado e otimizar o desempenho no trabalho."
+    },
+    {
+      "id": "fund-oral-054",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Segundo a mente funcionalista, qual é a principal função adaptativa relacionada à seletividade da consciência?",
+      "modelAnswer": "Segundo William James, a capacidade de selecionar estímulos relevantes no ambiente e focar a atenção é a principal função adaptativa da mente, permitindo que o indivíduo faça escolhas e aja de forma eficaz diante das demandas do ambiente.",
+      "keyPoints": [
+        {
+          "text": "Seleção de estímulos relevantes e foco de atenção",
+          "weight": 0.5,
+          "keywords": [
+            "seleção de estímulos",
+            "foco de atenção"
+          ]
+        },
+        {
+          "text": "Permite escolhas e ação eficaz no ambiente",
+          "weight": 0.5,
+          "keywords": [
+            "escolhas",
+            "ação eficaz"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "14-15"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo a mente funcionalista, qual é a principal função adaptativa relacionada à seletividade da consciência? Segundo William James, a capacidade de selecionar estímulos relevantes no ambiente e focar a atenção é a principal função adaptativa da mente, permitindo que o indivíduo faça escolhas e aja de forma eficaz diante das demandas do ambiente."
     }
   ]
 }
