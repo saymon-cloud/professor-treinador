@@ -722,6 +722,1326 @@
       },
       "subject": "Idade adulta e terceira idade",
       "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-035",
+      "topic": "Concepção e período pré-natal",
+      "question": "A concepção se traduz no ato de gerar uma nova vida, desencadeado por meio de uma relação sexual. Para que uma relação sexual seja capaz de gerar essa nova vida, é necessário que:",
+      "options": {
+        "a": "A mulher esteja no período fértil e/ou tenha liberado o óvulo, que homem e mulher estejam saudáveis e que não tenha sido usado método contraceptivo",
+        "b": "Apenas o homem esteja saudável, independentemente das condições da mulher",
+        "c": "A relação ocorra exclusivamente durante a menstruação da mulher",
+        "d": "Seja utilizado algum método contraceptivo para regular o processo",
+        "e": "O óvulo permita a união simultânea de vários espermatozoides"
+      },
+      "correct": "a",
+      "explanation": "Para que a concepção ocorra, é preciso que a mulher esteja no período fértil e/ou tenha liberado o óvulo, que o homem e a mulher estejam saudáveis, e que não tenha sido usado nenhum método contraceptivo que impeça o encontro entre espermatozoide e óvulo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "A concepção se traduz no ato de gerar uma nova vida, desencadeado por meio de uma relação sexual. Para que uma relação sexual seja capaz de gerar essa nova vida, é necessário que: Para que a concepção ocorra, é preciso que a mulher esteja no período fértil e/ou tenha liberado o óvulo, que o homem e a mulher estejam saudáveis, e que não tenha sido usado nenhum método contraceptivo que impeça o encontro entre espermatozoide e óvulo."
+    },
+    {
+      "id": "desenv-obj-036",
+      "topic": "Concepção e período pré-natal",
+      "question": "No momento da fecundação, diversas características genéticas já estão embutidas na estrutura do óvulo fecundado, sendo definidas nessa etapa, por exemplo:",
+      "options": {
+        "a": "A cor dos olhos, o sexo e a cor do cabelo, por meio de uma sequência determinada de forma hereditária, sem interferência de fatores externos",
+        "b": "Apenas características comportamentais, sem qualquer componente físico",
+        "c": "Exclusivamente o peso que o bebê terá ao nascer",
+        "d": "Características que podem ser completamente alteradas por fatores ambientais até o nascimento",
+        "e": "Somente a altura final que o indivíduo terá na vida adulta"
+      },
+      "correct": "a",
+      "explanation": "Já no momento da fecundação, características genéticas como a cor dos olhos, o sexo e a cor do cabelo são definidas, por meio de uma sequência hereditária determinada, sem interferência de fatores externos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "No momento da fecundação, diversas características genéticas já estão embutidas na estrutura do óvulo fecundado, sendo definidas nessa etapa, por exemplo: Já no momento da fecundação, características genéticas como a cor dos olhos, o sexo e a cor do cabelo são definidas, por meio de uma sequência hereditária determinada, sem interferência de fatores externos."
+    },
+    {
+      "id": "desenv-obj-037",
+      "topic": "Concepção e período pré-natal",
+      "question": "Após a fecundação, o novo organismo se divide e se implanta na parede do útero, dando início à fase embrionária. Durante essa fase, o embrião está envolto em uma substância líquida denominada:",
+      "options": {
+        "a": "Líquido amniótico",
+        "b": "Plasma sanguíneo",
+        "c": "Líquido cefalorraquidiano",
+        "d": "Muco cervical",
+        "e": "Fluido placentário"
+      },
+      "correct": "a",
+      "explanation": "Na fase embrionária, o embrião está envolto em uma substância líquida chamada líquido amniótico, por meio da qual, junto à corrente sanguínea, recebe os nutrientes absorvidos pela mãe.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Após a fecundação, o novo organismo se divide e se implanta na parede do útero, dando início à fase embrionária. Durante essa fase, o embrião está envolto em uma substância líquida denominada: Na fase embrionária, o embrião está envolto em uma substância líquida chamada líquido amniótico, por meio da qual, junto à corrente sanguínea, recebe os nutrientes absorvidos pela mãe."
+    },
+    {
+      "id": "desenv-obj-038",
+      "topic": "Concepção e período pré-natal",
+      "question": "Além de nutrientes como proteínas, açúcares e vitaminas, o embrião também pode absorver, pela corrente sanguínea materna, substâncias nocivas como álcool e outras drogas. Isso é especialmente preocupante na fase embrionária porque:",
+      "options": {
+        "a": "É nessa fase que o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente, tornando o embrião mais vulnerável a problemas de má formação",
+        "b": "O embrião, nessa fase, ainda não possui qualquer sistema orgânico em formação",
+        "c": "As substâncias nocivas são automaticamente filtradas pelo líquido amniótico, sem qualquer risco",
+        "d": "Essa fase corresponde exclusivamente ao último trimestre da gestação",
+        "e": "O embrião já nasceu, tornando essa exposição irrelevante para seu desenvolvimento"
+      },
+      "correct": "a",
+      "explanation": "A fase embrionária é crítica porque é justamente quando o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente; a ingestão de substâncias nocivas ou certos medicamentos sem supervisão médica pode levar a problemas de má formação, síndromes e deficiências físicas e mentais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Além de nutrientes como proteínas, açúcares e vitaminas, o embrião também pode absorver, pela corrente sanguínea materna, substâncias nocivas como álcool e outras drogas. Isso é especialmente preocupante na fase embrionária porque: A fase embrionária é crítica porque é justamente quando o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente; a ingestão de substâncias nocivas ou certos medicamentos sem supervisão médica pode levar a problemas de má formação, síndromes e deficiências físicas e mentais."
+    },
+    {
+      "id": "desenv-obj-039",
+      "topic": "Concepção e período pré-natal",
+      "question": "Ainda na fase embrionária, o embrião já apresenta formas humanas reconhecíveis. Segundo o material, nessa fase é possível distinguir:",
+      "options": {
+        "a": "Cabeça, braços, pernas, olhos, orelhas, nariz e dedos das mãos e dos pés, além de um pequeno coração com batimentos e sistema circulatório presente",
+        "b": "Apenas um aglomerado indiferenciado de células sem qualquer forma reconhecível",
+        "c": "Exclusivamente os órgãos sexuais, ainda antes de qualquer outra estrutura",
+        "d": "Somente o sistema digestivo, sem qualquer outro órgão",
+        "e": "Um esqueleto já totalmente ossificado e maduro"
+      },
+      "correct": "a",
+      "explanation": "Ainda na fase embrionária, já conseguimos distinguir a cabeça, os braços e as pernas, os olhos, as orelhas, o nariz e os dedos das mãos e dos pés do embrião; seu pequeno coração já apresenta batimentos e seu sistema circulatório está presente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Ainda na fase embrionária, o embrião já apresenta formas humanas reconhecíveis. Segundo o material, nessa fase é possível distinguir: Ainda na fase embrionária, já conseguimos distinguir a cabeça, os braços e as pernas, os olhos, as orelhas, o nariz e os dedos das mãos e dos pés do embrião; seu pequeno coração já apresenta batimentos e seu sistema circulatório está presente."
+    },
+    {
+      "id": "desenv-obj-040",
+      "topic": "Concepção e período pré-natal",
+      "question": "Por volta da oitava semana de gestação, o embrião passa a ser reconhecido como feto. Essa transição ocorre por um acontecimento específico:",
+      "options": {
+        "a": "O saco vitelino perde sua função, e os nutrientes da mãe passam a ser repassados pelo cordão umbilical",
+        "b": "O bebê nasce e passa a respirar pela primeira vez fora do útero",
+        "c": "Os órgãos sexuais tornam-se definitivamente visíveis em exames de imagem",
+        "d": "O líquido amniótico é totalmente reabsorvido pelo organismo materno",
+        "e": "A placenta é expelida, encerrando a gestação"
+      },
+      "correct": "a",
+      "explanation": "Por volta da oitava semana de gestação, o embrião passa a ser reconhecido como feto porque o saco vitelino perde sua função, e os nutrientes da mãe começam a ser repassados pelo cordão umbilical.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Por volta da oitava semana de gestação, o embrião passa a ser reconhecido como feto. Essa transição ocorre por um acontecimento específico: Por volta da oitava semana de gestação, o embrião passa a ser reconhecido como feto porque o saco vitelino perde sua função, e os nutrientes da mãe começam a ser repassados pelo cordão umbilical."
+    },
+    {
+      "id": "desenv-obj-041",
+      "topic": "Concepção e período pré-natal",
+      "question": "Comparando o crescimento físico do embrião com o do feto, o material destaca que:",
+      "options": {
+        "a": "Enquanto embrião, há inicialmente um superdesenvolvimento da cabeça; já o feto passa a se apresentar de maneira mais proporcional, considerando cabeça e corpo",
+        "b": "Não há qualquer diferença de proporção corporal entre as fases embrionária e fetal",
+        "c": "O feto apresenta cabeça desproporcionalmente maior do que o embrião, ao contrário do que ocorre na fase embrionária",
+        "d": "O crescimento do corpo antecede sempre o crescimento da cabeça em ambas as fases",
+        "e": "A maturação no período fetal ocorre em ritmo mais lento do que na fase embrionária"
+      },
+      "correct": "a",
+      "explanation": "Durante o período embrionário, percebe-se inicialmente um superdesenvolvimento da cabeça; já no período fetal, a maturação ocorre em ritmo acelerado e há uma maior simetria de crescimento, com o feto se apresentando de maneira mais proporcional entre cabeça e corpo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Comparando o crescimento físico do embrião com o do feto, o material destaca que: Durante o período embrionário, percebe-se inicialmente um superdesenvolvimento da cabeça; já no período fetal, a maturação ocorre em ritmo acelerado e há uma maior simetria de crescimento, com o feto se apresentando de maneira mais proporcional entre cabeça e corpo."
+    },
+    {
+      "id": "desenv-obj-042",
+      "topic": "Concepção e período pré-natal",
+      "question": "Por volta da 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto em sua barriga. Esses primeiros movimentos estão relacionados, principalmente, à capacidade de movimentação de:",
+      "options": {
+        "a": "Boca e mãos",
+        "b": "Pernas e pés exclusivamente",
+        "c": "Olhos apenas",
+        "d": "Órgãos sexuais",
+        "e": "Cordão umbilical"
+      },
+      "correct": "a",
+      "explanation": "Pela 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto, relacionados às capacidades de movimentação da boca e das mãos, por exemplo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Por volta da 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto em sua barriga. Esses primeiros movimentos estão relacionados, principalmente, à capacidade de movimentação de: Pela 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto, relacionados às capacidades de movimentação da boca e das mãos, por exemplo."
+    },
+    {
+      "id": "desenv-obj-043",
+      "topic": "Concepção e período pré-natal",
+      "question": "A habilidade de respirar, essencial para a existência da vida fora do útero, começa a se desenvolver por volta de qual momento da gestação, segundo o material?",
+      "options": {
+        "a": "12ª semana",
+        "b": "16ª semana",
+        "c": "24ª semana (equivalente a seis meses de gestação)",
+        "d": "30ª semana",
+        "e": "38ª semana"
+      },
+      "correct": "c",
+      "explanation": "Cabelos, olhos, glândulas sudoríparas e papilas gustativas se unem ao desenvolvimento da habilidade de respirar, que ocorre em torno da 24ª semana, o equivalente a seis meses de gestação — embora, mesmo com essa capacidade presente, um nascimento nesse período provavelmente seria mortal para o feto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5-6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "A habilidade de respirar, essencial para a existência da vida fora do útero, começa a se desenvolver por volta de qual momento da gestação, segundo o material? Cabelos, olhos, glândulas sudoríparas e papilas gustativas se unem ao desenvolvimento da habilidade de respirar, que ocorre em torno da 24ª semana, o equivalente a seis meses de gestação — embora, mesmo com essa capacidade presente, um nascimento nesse período provavelmente seria mortal para o feto."
+    },
+    {
+      "id": "desenv-obj-044",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, mesmo com a presença da capacidade de respirar por volta da 24ª semana de gestação, um nascimento nesse período específico provavelmente:",
+      "options": {
+        "a": "Seria mortal para o feto, pois os demais sistemas ainda não estão maduros o suficiente",
+        "b": "Não traria qualquer risco à saúde do bebê",
+        "c": "Seria idêntico, em termos de risco, a um nascimento na 40ª semana",
+        "d": "Garantiria desenvolvimento pulmonar completo e definitivo",
+        "e": "Seria recomendado pela equipe médica como o momento ideal para o parto"
+      },
+      "correct": "a",
+      "explanation": "Mesmo com a presença de uma capacidade fundamental para a existência da vida (respirar), um nascimento nesse período (24ª semana) provavelmente seria mortal para o feto, pois os demais sistemas ainda não estão maduros o suficiente para sustentar a vida fora do útero.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5-6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, mesmo com a presença da capacidade de respirar por volta da 24ª semana de gestação, um nascimento nesse período específico provavelmente: Mesmo com a presença de uma capacidade fundamental para a existência da vida (respirar), um nascimento nesse período (24ª semana) provavelmente seria mortal para o feto, pois os demais sistemas ainda não estão maduros o suficiente para sustentar a vida fora do útero."
+    },
+    {
+      "id": "desenv-obj-045",
+      "topic": "Concepção e período pré-natal",
+      "question": "A partir da 27ª até a 28ª semana de gestação, o feto já apresenta um marco de desenvolvimento comportamental específico. Segundo o material, esse marco é:",
+      "options": {
+        "a": "O feto já fecha os olhos para dormir e os abre quando acorda, pesando mais de 1kg e medindo cerca de 30cm",
+        "b": "O feto começa a sentir os primeiros movimentos de boca e mãos",
+        "c": "O feto passa a ser reconhecido como embrião novamente",
+        "d": "Os órgãos sexuais tornam-se visíveis pela primeira vez",
+        "e": "O feto perde definitivamente a capacidade de se mover dentro do útero"
+      },
+      "correct": "a",
+      "explanation": "A partir da 27ª até a 28ª semana, o feto já fecha os olhos para dormir e os abre quando acorda, pesando mais de 1kg e medindo cerca de 30cm — nesse momento, os sistemas nervoso, circulatório e respiratório estão maduros o suficiente para uma vida fora do útero, embora esse não seja o período ideal para o nascimento.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "A partir da 27ª até a 28ª semana de gestação, o feto já apresenta um marco de desenvolvimento comportamental específico. Segundo o material, esse marco é: A partir da 27ª até a 28ª semana, o feto já fecha os olhos para dormir e os abre quando acorda, pesando mais de 1kg e medindo cerca de 30cm — nesse momento, os sistemas nervoso, circulatório e respiratório estão maduros o suficiente para uma vida fora do útero, embora esse não seja o período ideal para o nascimento."
+    },
+    {
+      "id": "desenv-obj-046",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, nascimentos prematuros com alguma chance de sobrevivência (caso haja cuidados médicos apropriados) podem ocorrer, de forma geral, a partir de qual momento da gestação?",
+      "options": {
+        "a": "Após a 16ª semana",
+        "b": "Após a 20ª semana",
+        "c": "Após a 28ª semana",
+        "d": "Somente após a 38ª semana",
+        "e": "Apenas exatamente na 40ª semana"
+      },
+      "correct": "c",
+      "explanation": "Nascimentos prematuros, em que o bebê encontra alguma chance de sobreviver, se tiver cuidados médicos apropriados, podem ocorrer após a 28ª semana de gestação, quando os sistemas nervoso, circulatório e respiratório já estão relativamente maduros.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, nascimentos prematuros com alguma chance de sobrevivência (caso haja cuidados médicos apropriados) podem ocorrer, de forma geral, a partir de qual momento da gestação? Nascimentos prematuros, em que o bebê encontra alguma chance de sobreviver, se tiver cuidados médicos apropriados, podem ocorrer após a 28ª semana de gestação, quando os sistemas nervoso, circulatório e respiratório já estão relativamente maduros."
+    },
+    {
+      "id": "desenv-obj-047",
+      "topic": "Concepção e período pré-natal",
+      "question": "Um bebê que nasce prematuramente, mesmo com chances de sobrevivência a partir da 28ª semana com os devidos cuidados médicos, pode desenvolver, segundo o material, uma série de limitações. Essas limitações incluem:",
+      "options": {
+        "a": "Problemas de ordem física, como problemas respiratórios, e até mesmo psicológicos, como dificuldade de aprendizado em fases posteriores da vida",
+        "b": "Exclusivamente problemas relacionados à visão, sem qualquer outro impacto",
+        "c": "Nenhuma limitação relevante, pois o nascimento nesse período é considerado ideal",
+        "d": "Apenas alterações estéticas temporárias, sem qualquer risco à saúde",
+        "e": "Exclusivamente ganho de peso excessivo ao longo da infância"
+      },
+      "correct": "a",
+      "explanation": "Caso o bebê nasça no período em torno da 27ª-28ª semana, pode desenvolver limitações de ordem física, como problemas respiratórios, e até mesmo psicológicos, como dificuldade de aprendizado em fases posteriores da vida.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Um bebê que nasce prematuramente, mesmo com chances de sobrevivência a partir da 28ª semana com os devidos cuidados médicos, pode desenvolver, segundo o material, uma série de limitações. Essas limitações incluem: Caso o bebê nasça no período em torno da 27ª-28ª semana, pode desenvolver limitações de ordem física, como problemas respiratórios, e até mesmo psicológicos, como dificuldade de aprendizado em fases posteriores da vida."
+    },
+    {
+      "id": "desenv-obj-048",
+      "topic": "Concepção e período pré-natal",
+      "question": "Da 30ª até a 34ª semana de gestação, o feto passa por um desenvolvimento específico relacionado ao tecido adiposo. Ao final dessa fase, segundo o material, o feto:",
+      "options": {
+        "a": "Já é um bebezinho de mais de dois quilos e cerca de 40cm de comprimento, com pulmão já capaz de sintetizar substâncias necessárias à respiração fora do útero",
+        "b": "Perde completamente o tecido adiposo adquirido anteriormente",
+        "c": "Ainda pesa menos de 500 gramas",
+        "d": "Não apresenta qualquer desenvolvimento pulmonar até esse momento",
+        "e": "Já nasceu, encerrando o período gestacional nessa fase"
+      },
+      "correct": "a",
+      "explanation": "Da 30ª até a 34ª semana, o tecido adiposo vai se formando rapidamente; ao final dessa fase, o feto já é um bebezinho de mais de dois quilos e cerca de 40cm de comprimento, com pulmão já capaz de sintetizar as substâncias necessárias à respiração fora do útero.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Da 30ª até a 34ª semana de gestação, o feto passa por um desenvolvimento específico relacionado ao tecido adiposo. Ao final dessa fase, segundo o material, o feto: Da 30ª até a 34ª semana, o tecido adiposo vai se formando rapidamente; ao final dessa fase, o feto já é um bebezinho de mais de dois quilos e cerca de 40cm de comprimento, com pulmão já capaz de sintetizar as substâncias necessárias à respiração fora do útero."
+    },
+    {
+      "id": "desenv-obj-049",
+      "topic": "Concepção e período pré-natal",
+      "question": "Pela 37ª à 38ª semana de gestação, o bebê passa por uma mudança de posição dentro do útero que, embora possa incomodar a mamãe, é importante para o momento do parto. Para o parto, o bebê precisa estar encaixado em uma posição na qual:",
+      "options": {
+        "a": "Suas nádegas se voltam para a parte de cima do útero e sua cabeça fica bem próxima do canal vaginal",
+        "b": "Sua cabeça se volta para a parte de cima do útero, permanecendo distante do canal vaginal",
+        "c": "Ele fica na posição transversal, atravessado dentro do útero",
+        "d": "Seus pés ficam voltados diretamente para o canal vaginal",
+        "e": "Ele permanece completamente imóvel, sem qualquer mudança de posição"
+      },
+      "correct": "a",
+      "explanation": "Para o parto, o bebê precisa estar encaixado, em uma posição em que suas nádegas se voltam para a parte de cima do útero e sua cabeça fica bem próxima do canal vaginal — por isso é comum ouvir 'já estou vendo a cabeça' no momento do parto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Pela 37ª à 38ª semana de gestação, o bebê passa por uma mudança de posição dentro do útero que, embora possa incomodar a mamãe, é importante para o momento do parto. Para o parto, o bebê precisa estar encaixado em uma posição na qual: Para o parto, o bebê precisa estar encaixado, em uma posição em que suas nádegas se voltam para a parte de cima do útero e sua cabeça fica bem próxima do canal vaginal — por isso é comum ouvir 'já estou vendo a cabeça' no momento do parto."
+    },
+    {
+      "id": "desenv-obj-050",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, na 40ª semana de gestação, o bebê apresenta, em média:",
+      "options": {
+        "a": "Peso de 3,4kg e comprimento de 50cm",
+        "b": "Peso de 1kg e comprimento de 30cm",
+        "c": "Peso de 2kg e comprimento de 25cm",
+        "d": "Peso de 5kg e comprimento de 60cm",
+        "e": "Peso de 500g e comprimento de 20cm"
+      },
+      "correct": "a",
+      "explanation": "Com um peso médio de 3,4kg e comprimento de 50cm na 40ª semana, o bebê já não consegue se mexer muito, aguardando, na posição certa, a grande hora do nascimento.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, na 40ª semana de gestação, o bebê apresenta, em média: Com um peso médio de 3,4kg e comprimento de 50cm na 40ª semana, o bebê já não consegue se mexer muito, aguardando, na posição certa, a grande hora do nascimento."
+    },
+    {
+      "id": "desenv-obj-051",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, um bebê é considerado prematuro, dependendo de tratamentos especiais após o nascimento, quando seu peso for:",
+      "options": {
+        "a": "Inferior a 2,5kg",
+        "b": "Inferior a 4kg",
+        "c": "Superior a 3kg",
+        "d": "Exatamente igual a 3,4kg",
+        "e": "Superior a 5kg"
+      },
+      "correct": "a",
+      "explanation": "Um bebê só é considerado prematuro, dependendo de tratamentos especiais após o nascimento, quando seu peso for inferior a 2,5kg.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, um bebê é considerado prematuro, dependendo de tratamentos especiais após o nascimento, quando seu peso for: Um bebê só é considerado prematuro, dependendo de tratamentos especiais após o nascimento, quando seu peso for inferior a 2,5kg."
+    },
+    {
+      "id": "desenv-obj-052",
+      "topic": "Concepção e período pré-natal",
+      "question": "O peso e o comprimento dos bebês ao nascer podem variar bastante de um para o outro, dependendo de diversos fatores internos e externos. Entre os fatores citados pelo material, destacam-se:",
+      "options": {
+        "a": "A alimentação da mãe e o tempo de gestação",
+        "b": "Exclusivamente a cor dos olhos do bebê",
+        "c": "Apenas o horário do dia em que o parto ocorre",
+        "d": "Somente o tipo sanguíneo do pai",
+        "e": "Exclusivamente a estação do ano em que o bebê nasce"
+      },
+      "correct": "a",
+      "explanation": "O peso e o comprimento dos bebês podem variar muito de um para o outro, dependendo de vários fatores externos e internos, como a alimentação da mãe e o tempo de gestação, por exemplo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "O peso e o comprimento dos bebês ao nascer podem variar bastante de um para o outro, dependendo de diversos fatores internos e externos. Entre os fatores citados pelo material, destacam-se: O peso e o comprimento dos bebês podem variar muito de um para o outro, dependendo de vários fatores externos e internos, como a alimentação da mãe e o tempo de gestação, por exemplo."
+    },
+    {
+      "id": "desenv-obj-053",
+      "topic": "Concepção e período pré-natal",
+      "question": "Estudos psicanalíticos que investigam o desenvolvimento emocional de bebês ainda dentro do útero, utilizando recursos de ultrassonografia, permitiram identificar que o ambiente uterino:",
+      "options": {
+        "a": "É sempre idêntico entre todas as gestações, sem qualquer variação individual",
+        "b": "Pode ser de segurança e conforto, mas está sujeito a inúmeras variações individuais, sendo um mundo vivo, com ritmos, movimentos e sentidos em funcionamento",
+        "c": "É um ambiente completamente estático, sem qualquer atividade perceptível",
+        "d": "Não permite qualquer forma de resposta do feto às emoções da mãe",
+        "e": "É idêntico ao ambiente externo em todos os aspectos sensoriais"
+      },
+      "correct": "b",
+      "explanation": "Recursos de ultrassonografia permitiram identificar que o ambiente uterino pode ser de segurança e conforto, mas está sujeito a inúmeras variações individuais; o mundo do feto humano é vivo, com atividade, ritmos especiais, movimentos com objetivos, sentidos que começam a funcionar (visão, audição, paladar, tato) e respostas complexas às emoções e ações da mãe.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Estudos psicanalíticos que investigam o desenvolvimento emocional de bebês ainda dentro do útero, utilizando recursos de ultrassonografia, permitiram identificar que o ambiente uterino: Recursos de ultrassonografia permitiram identificar que o ambiente uterino pode ser de segurança e conforto, mas está sujeito a inúmeras variações individuais; o mundo do feto humano é vivo, com atividade, ritmos especiais, movimentos com objetivos, sentidos que começam a funcionar (visão, audição, paladar, tato) e respostas complexas às emoções e ações da mãe."
+    },
+    {
+      "id": "desenv-obj-054",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, a ultrassonografia é capaz de identificar, a partir de imagens das expressões faciais do feto:",
+      "options": {
+        "a": "O sorriso e o choro do bebê",
+        "b": "Exclusivamente batimentos cardíacos",
+        "c": "Apenas o peso exato do bebê",
+        "d": "Somente a cor dos olhos",
+        "e": "Unicamente o sexo do bebê"
+      },
+      "correct": "a",
+      "explanation": "A ultrassonografia é capaz, por exemplo, de identificar o sorriso e o choro do bebê, interpretados a partir de imagens das suas expressões faciais, demonstrando que o feto é sensível às influências externas e aos estados emocionais da mãe.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ultrassonografia é capaz de identificar, a partir de imagens das expressões faciais do feto: A ultrassonografia é capaz, por exemplo, de identificar o sorriso e o choro do bebê, interpretados a partir de imagens das suas expressões faciais, demonstrando que o feto é sensível às influências externas e aos estados emocionais da mãe."
+    },
+    {
+      "id": "desenv-obj-055",
+      "topic": "Concepção e período pré-natal",
+      "question": "As influências do período intrauterino não são os únicos fatores ambientais que o bebê encontrará ao longo do seu desenvolvimento. Após o parto, segundo o material, ele receberá:",
+      "options": {
+        "a": "Seu 'banho de cultura', relacionado ao ambiente sociocultural e ao modo de vida em que for inserido",
+        "b": "Exclusivamente influências biológicas, sem qualquer componente cultural",
+        "c": "Um desenvolvimento idêntico ao de todos os outros bebês do mundo, independentemente da cultura",
+        "d": "Apenas influências linguísticas, sem qualquer outro tipo de transmissão cultural",
+        "e": "Nenhuma influência relevante além daquelas já recebidas no período intrauterino"
+      },
+      "correct": "a",
+      "explanation": "Após o parto, o bebê receberá seu 'banho de cultura': tudo o que ele experimentará estará relacionado ao ambiente sociocultural e ao modo de vida em que for inserido, envolvendo linguagem, crenças, valores e modos de pensar e agir transmitidos pelas gerações.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "As influências do período intrauterino não são os únicos fatores ambientais que o bebê encontrará ao longo do seu desenvolvimento. Após o parto, segundo o material, ele receberá: Após o parto, o bebê receberá seu 'banho de cultura': tudo o que ele experimentará estará relacionado ao ambiente sociocultural e ao modo de vida em que for inserido, envolvendo linguagem, crenças, valores e modos de pensar e agir transmitidos pelas gerações."
+    },
+    {
+      "id": "desenv-obj-056",
+      "topic": "Concepção e período pré-natal",
+      "question": "O material utiliza o exemplo do 'chá de revelação' (celebração para descobrir o sexo do bebê) para ilustrar que:",
+      "options": {
+        "a": "A nossa cultura, além da nossa parte biológica, influencia no ciclo do nosso desenvolvimento",
+        "b": "Todas as culturas do mundo realizam exatamente a mesma celebração, sem qualquer variação",
+        "c": "A descoberta do sexo é um processo exclusivamente biológico, sem qualquer componente cultural",
+        "d": "Essa celebração é obrigatória em todas as gestações, independentemente do contexto cultural",
+        "e": "O sexo do bebê só pode ser determinado após o parto"
+      },
+      "correct": "a",
+      "explanation": "As festas de revelação de sexo mostram como a nossa cultura, além da nossa parte biológica, influencia no ciclo do nosso desenvolvimento — sendo uma manifestação cultural particular diante de um evento biológico comum a pessoas de todo o planeta.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "O material utiliza o exemplo do 'chá de revelação' (celebração para descobrir o sexo do bebê) para ilustrar que: As festas de revelação de sexo mostram como a nossa cultura, além da nossa parte biológica, influencia no ciclo do nosso desenvolvimento — sendo uma manifestação cultural particular diante de um evento biológico comum a pessoas de todo o planeta."
+    },
+    {
+      "id": "desenv-obj-057",
+      "topic": "Concepção e período pré-natal",
+      "question": "Um casal descobre, por meio de um exame de ultrassonografia, o sexo do bebê que está por vir. Considerando as informações do material sobre o desenvolvimento pré-natal, esse exame provavelmente foi realizado:",
+      "options": {
+        "a": "Durante a fase embrionária, antes da sétima semana de gestação",
+        "b": "A partir do período fetal, quando os órgãos sexuais já estão desenvolvidos o suficiente para serem identificados (por volta da 12ª semana)",
+        "c": "Apenas no momento exato do parto",
+        "d": "Antes mesmo da fecundação ter ocorrido",
+        "e": "Exclusivamente após a 38ª semana de gestação"
+      },
+      "correct": "b",
+      "explanation": "É a partir do período fetal, com os órgãos sexuais visíveis por volta da 12ª semana de gestação, que exames de imagem como a ultrassonografia conseguem identificar o sexo do bebê.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Um casal descobre, por meio de um exame de ultrassonografia, o sexo do bebê que está por vir. Considerando as informações do material sobre o desenvolvimento pré-natal, esse exame provavelmente foi realizado: É a partir do período fetal, com os órgãos sexuais visíveis por volta da 12ª semana de gestação, que exames de imagem como a ultrassonografia conseguem identificar o sexo do bebê."
+    },
+    {
+      "id": "desenv-obj-058",
+      "topic": "Concepção e período pré-natal",
+      "question": "Uma gestante relata ao seu obstetra que, pela primeira vez, sentiu 'chutinhos' e movimentos do bebê em sua barriga. Considerando os marcos gestacionais descritos no material, essa gestante provavelmente está, aproximadamente, em qual momento da gestação?",
+      "options": {
+        "a": "6ª semana",
+        "b": "16ª semana",
+        "c": "30ª semana",
+        "d": "38ª semana",
+        "e": "2ª semana"
+      },
+      "correct": "b",
+      "explanation": "Pela 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto em sua barriga, relacionados às capacidades de movimentação da boca e das mãos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Uma gestante relata ao seu obstetra que, pela primeira vez, sentiu 'chutinhos' e movimentos do bebê em sua barriga. Considerando os marcos gestacionais descritos no material, essa gestante provavelmente está, aproximadamente, em qual momento da gestação? Pela 16ª semana de gestação, a mulher deve começar a sentir os primeiros movimentos do feto em sua barriga, relacionados às capacidades de movimentação da boca e das mãos."
+    },
+    {
+      "id": "desenv-obj-059",
+      "topic": "Concepção e período pré-natal",
+      "question": "Uma mulher grávida faz uso recorrente de álcool durante o primeiro trimestre de gestação, período correspondente à fase embrionária. Com base no material estudado, essa exposição é particularmente preocupante porque:",
+      "options": {
+        "a": "É justamente nessa fase que o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente, e substâncias nocivas absorvidas pela corrente sanguínea podem causar má formação, síndromes e deficiências",
+        "b": "O álcool não atravessa a barreira placentária na fase embrionária",
+        "c": "Essa fase é a menos sensível a substâncias externas de toda a gestação",
+        "d": "O embrião ainda não possui qualquer sistema orgânico em formação nesse momento",
+        "e": "Os efeitos de substâncias nocivas só se manifestam exclusivamente após o parto, sem qualquer relação com a fase embrionária"
+      },
+      "correct": "a",
+      "explanation": "A fase embrionária é o período em que o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente, tornando o embrião especialmente vulnerável a substâncias nocivas como o álcool, que podem causar má formação, síndromes e deficiências físicas e mentais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "dificil",
+      "miniLesson": "Uma mulher grávida faz uso recorrente de álcool durante o primeiro trimestre de gestação, período correspondente à fase embrionária. Com base no material estudado, essa exposição é particularmente preocupante porque: A fase embrionária é o período em que o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente, tornando o embrião especialmente vulnerável a substâncias nocivas como o álcool, que podem causar má formação, síndromes e deficiências físicas e mentais."
+    },
+    {
+      "id": "desenv-obj-060",
+      "topic": "Concepção e período pré-natal",
+      "question": "Comparando uma tribo africana rural, baseada na agricultura de subsistência, com uma família brasileira de uma sociedade pós-industrializada e urbanizada, o material sugere que as celebrações relacionadas à gestação e ao nascimento entre essas duas culturas:",
+      "options": {
+        "a": "Serão inevitavelmente idênticas, pois o processo biológico de gestação é universal",
+        "b": "Apresentarão inúmeras diferenças, sem que isso represente algo melhor ou pior, certo ou errado, apenas diferente",
+        "c": "Não existirão em nenhuma das duas culturas, pois celebrações são exclusivas de sociedades urbanizadas",
+        "d": "Serão sempre superiores na sociedade pós-industrializada, por conta do acesso à tecnologia",
+        "e": "Dependerão exclusivamente do sexo biológico do bebê, sem qualquer influência cultural"
+      },
+      "correct": "b",
+      "explanation": "O material afirma que haverá inúmeras diferenças entre as celebrações dessas duas culturas diante de um evento biológico comum (o nascimento), sem que isso represente algo melhor ou pior, certo ou errado, apenas diferente — evidenciando a interação entre fatores biológicos e culturais no desenvolvimento humano.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Comparando uma tribo africana rural, baseada na agricultura de subsistência, com uma família brasileira de uma sociedade pós-industrializada e urbanizada, o material sugere que as celebrações relacionadas à gestação e ao nascimento entre essas duas culturas: O material afirma que haverá inúmeras diferenças entre as celebrações dessas duas culturas diante de um evento biológico comum (o nascimento), sem que isso represente algo melhor ou pior, certo ou errado, apenas diferente — evidenciando a interação entre fatores biológicos e culturais no desenvolvimento humano."
+    },
+    {
+      "id": "desenv-obj-061",
+      "topic": "Concepção e período pré-natal",
+      "question": "Após o nascimento, o cérebro do bebê está se desenvolvendo rapidamente e os sistemas neurais estão se adaptando às características do ambiente, como a linguagem. Segundo o material, essa adaptação:",
+      "options": {
+        "a": "Permite a transmissão do conhecimento do grupo e fornece um mecanismo de aprendizagem social e cultural",
+        "b": "Ocorre de forma isolada, sem qualquer relação com fatores culturais",
+        "c": "Está encerrada completamente já ao nascimento, sem qualquer desenvolvimento posterior",
+        "d": "Depende exclusivamente de fatores genéticos, sem influência do ambiente",
+        "e": "É idêntica em todos os bebês do mundo, independentemente do ambiente linguístico"
+      },
+      "correct": "a",
+      "explanation": "No período inicial após o nascimento, o cérebro do bebê se adapta rapidamente às características do ambiente, como a linguagem, o que permite a transmissão do conhecimento do grupo e fornece um mecanismo de aprendizagem social e cultural.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "8"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Após o nascimento, o cérebro do bebê está se desenvolvendo rapidamente e os sistemas neurais estão se adaptando às características do ambiente, como a linguagem. Segundo o material, essa adaptação: No período inicial após o nascimento, o cérebro do bebê se adapta rapidamente às características do ambiente, como a linguagem, o que permite a transmissão do conhecimento do grupo e fornece um mecanismo de aprendizagem social e cultural."
+    },
+    {
+      "id": "desenv-obj-062",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, o grupo familiar humano se diferencia de outros animais quanto à sua constituição, em parte devido a uma característica biológica específica de nossas ancestrais fêmeas. Essa característica é:",
+      "options": {
+        "a": "A ovulação oculta, que impedia os machos de saber quando as fêmeas estavam no período fértil, contribuindo para o vínculo entre o homem e a mulher",
+        "b": "A ausência completa de período fértil entre as fêmeas ancestrais",
+        "c": "A capacidade de gerar múltiplos filhotes simultaneamente em toda gestação",
+        "d": "A gestação extremamente curta, de poucos dias, entre nossas ancestrais",
+        "e": "A ausência de qualquer vínculo entre machos e fêmeas na espécie humana ancestral"
+      },
+      "correct": "a",
+      "explanation": "Como as fêmeas ancestrais tinham a ovulação oculta, os machos não conseguiam saber quando elas estavam no período fértil, o que ajudava a manter o homem junto à mulher e aos filhos, contribuindo para o vínculo protetivo entre o casal e a prole.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "3"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o grupo familiar humano se diferencia de outros animais quanto à sua constituição, em parte devido a uma característica biológica específica de nossas ancestrais fêmeas. Essa característica é: Como as fêmeas ancestrais tinham a ovulação oculta, os machos não conseguiam saber quando elas estavam no período fértil, o que ajudava a manter o homem junto à mulher e aos filhos, contribuindo para o vínculo protetivo entre o casal e a prole."
+    },
+    {
+      "id": "desenv-obj-063",
+      "topic": "Concepção e período pré-natal",
+      "question": "Segundo o material, o desenvolvimento humano inicial pode ser descrito como resultado de:",
+      "options": {
+        "a": "Uma dança constante que une fatores inatos e sua interação com o ambiente",
+        "b": "Fatores exclusivamente genéticos, sem qualquer influência ambiental",
+        "c": "Fatores exclusivamente ambientais, sem qualquer componente biológico herdado",
+        "d": "Um processo idêntico ao de todas as outras espécies de mamíferos, sem particularidades humanas",
+        "e": "Um processo totalmente aleatório, sem qualquer padrão identificável entre indivíduos"
+      },
+      "correct": "a",
+      "explanation": "O material descreve o desenvolvimento humano como uma 'dança constante' que une fatores inatos (biológicos, hereditários) e sua interação com o ambiente (cultural, social), explicando tanto as semelhanças universais quanto as diferenças individuais entre as pessoas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "3"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o desenvolvimento humano inicial pode ser descrito como resultado de: O material descreve o desenvolvimento humano como uma 'dança constante' que une fatores inatos (biológicos, hereditários) e sua interação com o ambiente (cultural, social), explicando tanto as semelhanças universais quanto as diferenças individuais entre as pessoas."
+    },
+    {
+      "id": "desenv-obj-064",
+      "topic": "Concepção e período pré-natal",
+      "question": "O óvulo, no momento da fecundação, admite a união de:",
+      "options": {
+        "a": "Apenas um espermatozoide, mesmo que muitos outros tentem se unir a ele",
+        "b": "Vários espermatozoides simultaneamente, sem qualquer limite",
+        "c": "Nenhum espermatozoide, sendo a fecundação um processo assexuado",
+        "d": "Exatamente dois espermatozoides, formando sempre gêmeos",
+        "e": "Um número variável de espermatozoides, dependendo da idade da mulher"
+      },
+      "correct": "a",
+      "explanation": "O óvulo admite que apenas um espermatozoide se una a ele, mesmo que muitos outros espermatozoides tentem alcançá-lo na 'corrida' desencadeada pela relação sexual.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "O óvulo, no momento da fecundação, admite a união de: O óvulo admite que apenas um espermatozoide se una a ele, mesmo que muitos outros espermatozoides tentem alcançá-lo na 'corrida' desencadeada pela relação sexual."
+    },
+    {
+      "id": "desenv-obj-065",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, o apego e o investimento parental, que começam a se manifestar já nas primeiras horas após o parto, constituem uma relação de proximidade estabelecida por meio de:",
+      "options": {
+        "a": "Sinais emitidos pelo bebê e da resposta dada por seus cuidadores a eles",
+        "b": "Exclusivamente exames médicos realizados logo após o nascimento",
+        "c": "Contratos legais formalizados entre pais e maternidade",
+        "d": "Testes genéticos de compatibilidade realizados após o parto",
+        "e": "Um processo que só se inicia a partir dos dois anos de idade da criança"
+      },
+      "correct": "a",
+      "explanation": "O apego e o investimento parental constituem uma relação de proximidade construída por meio dos sinais emitidos pelo bebê e da resposta dada por seus cuidadores a eles, manifestando comportamentos decisivos para a construção dos vínculos afetivos já nas primeiras horas após o parto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o apego e o investimento parental, que começam a se manifestar já nas primeiras horas após o parto, constituem uma relação de proximidade estabelecida por meio de: O apego e o investimento parental constituem uma relação de proximidade construída por meio dos sinais emitidos pelo bebê e da resposta dada por seus cuidadores a eles, manifestando comportamentos decisivos para a construção dos vínculos afetivos já nas primeiras horas após o parto."
+    },
+    {
+      "id": "desenv-obj-066",
+      "topic": "Parto e período perinatal",
+      "question": "Até o século XIX, segundo o material, era mais comum que o nascimento das crianças ocorresse:",
+      "options": {
+        "a": "Em suas casas, com o auxílio de parteiras, familiares e pessoas próximas à gestante",
+        "b": "Exclusivamente em hospitais, como ocorre atualmente",
+        "c": "Em ambientes de trabalho da gestante",
+        "d": "Sempre acompanhado por um médico obstetra especializado",
+        "e": "Apenas em maternidades públicas, sem qualquer assistência domiciliar"
+      },
+      "correct": "a",
+      "explanation": "Até o século XIX, era mais comum o nascimento de crianças em suas casas com o auxílio de parteiras, familiares e pessoas próximas à gestante; mais recentemente, sobretudo em zonas urbanizadas, procura-se por maternidades.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Até o século XIX, segundo o material, era mais comum que o nascimento das crianças ocorresse: Até o século XIX, era mais comum o nascimento de crianças em suas casas com o auxílio de parteiras, familiares e pessoas próximas à gestante; mais recentemente, sobretudo em zonas urbanizadas, procura-se por maternidades."
+    },
+    {
+      "id": "desenv-obj-067",
+      "topic": "Parto e período perinatal",
+      "question": "Há duas possibilidades principais de se realizar o parto, segundo o material. São elas:",
+      "options": {
+        "a": "O parto normal, em que o bebê passa pelo canal vaginal da mulher, e o parto cesariana, em que o médico retira o bebê por meio de um corte no abdômen",
+        "b": "O parto domiciliar e o parto hospitalar exclusivamente, sem qualquer outra distinção técnica",
+        "c": "O parto induzido e o parto espontâneo apenas",
+        "d": "O parto humanizado e o parto tradicional, sendo essas as únicas categorias possíveis",
+        "e": "O parto prematuro e o parto a termo, categorizados exclusivamente pela idade gestacional"
+      },
+      "correct": "a",
+      "explanation": "Há duas possibilidades de se realizar o parto: o parto normal, em que o bebê passa pelo canal vaginal da mulher, e o parto cesariana, em que o médico faz um pequeno corte no baixo ventre da mulher e retira o bebê pelo seu abdômen.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Há duas possibilidades principais de se realizar o parto, segundo o material. São elas: Há duas possibilidades de se realizar o parto: o parto normal, em que o bebê passa pelo canal vaginal da mulher, e o parto cesariana, em que o médico faz um pequeno corte no baixo ventre da mulher e retira o bebê pelo seu abdômen."
+    },
+    {
+      "id": "desenv-obj-068",
+      "topic": "Parto e período perinatal",
+      "question": "No parto normal, as cólicas fortes sentidas pela mulher, que se iniciam de maneira leve e vão se tornando menos espaçadas à medida que se aproxima o momento do nascimento, são chamadas de:",
+      "options": {
+        "a": "Contrações",
+        "b": "Dilatações",
+        "c": "Expulsões",
+        "d": "Encaixes",
+        "e": "Rupturas"
+      },
+      "correct": "a",
+      "explanation": "No parto normal, as cólicas fortes sentidas pela mulher são chamadas de contrações, que se iniciam de forma leve e vão se tornando menos espaçadas conforme se aproxima o momento do nascimento.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "No parto normal, as cólicas fortes sentidas pela mulher, que se iniciam de maneira leve e vão se tornando menos espaçadas à medida que se aproxima o momento do nascimento, são chamadas de: No parto normal, as cólicas fortes sentidas pela mulher são chamadas de contrações, que se iniciam de forma leve e vão se tornando menos espaçadas conforme se aproxima o momento do nascimento."
+    },
+    {
+      "id": "desenv-obj-069",
+      "topic": "Parto e período perinatal",
+      "question": "O material descreve cinco fases do parto normal. A fase marcada pela dilatação do colo do útero corresponde a qual etapa da sequência?",
+      "options": {
+        "a": "Primeira fase",
+        "b": "Segunda fase",
+        "c": "Terceira fase",
+        "d": "Quarta fase",
+        "e": "Quinta fase"
+      },
+      "correct": "c",
+      "explanation": "A terceira fase do parto normal é quando acontece a dilatação do colo do útero, seguindo a primeira fase (início das contrações) e a segunda fase (saída do líquido amniótico).",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O material descreve cinco fases do parto normal. A fase marcada pela dilatação do colo do útero corresponde a qual etapa da sequência? A terceira fase do parto normal é quando acontece a dilatação do colo do útero, seguindo a primeira fase (início das contrações) e a segunda fase (saída do líquido amniótico)."
+    },
+    {
+      "id": "desenv-obj-070",
+      "topic": "Parto e período perinatal",
+      "question": "Considerando as cinco fases do parto normal descritas no material, a ordem correta de ocorrência é:",
+      "options": {
+        "a": "Início das contrações → saída do líquido amniótico → dilatação do colo do útero → período expulsivo do feto → expulsão da placenta",
+        "b": "Expulsão da placenta → dilatação do colo do útero → início das contrações → saída do líquido amniótico → período expulsivo do feto",
+        "c": "Período expulsivo do feto → início das contrações → expulsão da placenta → dilatação do colo do útero → saída do líquido amniótico",
+        "d": "Saída do líquido amniótico → expulsão da placenta → início das contrações → período expulsivo do feto → dilatação do colo do útero",
+        "e": "Dilatação do colo do útero → período expulsivo do feto → início das contrações → saída do líquido amniótico → expulsão da placenta"
+      },
+      "correct": "a",
+      "explanation": "A sequência correta das cinco fases do parto normal é: primeira fase (início das contrações), segunda fase (saída do líquido amniótico), terceira fase (dilatação do colo do útero), quarta fase (período expulsivo do feto) e quinta fase (expulsão da placenta).",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Considerando as cinco fases do parto normal descritas no material, a ordem correta de ocorrência é: A sequência correta das cinco fases do parto normal é: primeira fase (início das contrações), segunda fase (saída do líquido amniótico), terceira fase (dilatação do colo do útero), quarta fase (período expulsivo do feto) e quinta fase (expulsão da placenta)."
+    },
+    {
+      "id": "desenv-obj-071",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, a duração do parto pode variar consideravelmente, principalmente se a mulher for primípara. O termo 'primípara' se refere a mulheres que:",
+      "options": {
+        "a": "Estão em sua primeira gestação",
+        "b": "Já tiveram mais de cinco filhos",
+        "c": "Estão grávidas de gêmeos",
+        "d": "Realizaram cesariana em gestação anterior",
+        "e": "Têm mais de 40 anos de idade"
+      },
+      "correct": "a",
+      "explanation": "A duração do parto pode variar, principalmente se a mulher for primípara, ou seja, estiver em sua primeira gestação.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a duração do parto pode variar consideravelmente, principalmente se a mulher for primípara. O termo 'primípara' se refere a mulheres que: A duração do parto pode variar, principalmente se a mulher for primípara, ou seja, estiver em sua primeira gestação."
+    },
+    {
+      "id": "desenv-obj-072",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, um dos medicamentos que pode ser utilizado pela equipe médica para induzir ou acelerar o trabalho de parto é:",
+      "options": {
+        "a": "A ocitocina",
+        "b": "A insulina",
+        "c": "O paracetamol",
+        "d": "A melatonina",
+        "e": "A adrenalina"
+      },
+      "correct": "a",
+      "explanation": "Alguns medicamentos podem ser utilizados pela equipe médica para induzir ou acelerar o trabalho de parto, como a ocitocina, bem como para diminuir a dor da mulher durante o processo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um dos medicamentos que pode ser utilizado pela equipe médica para induzir ou acelerar o trabalho de parto é: Alguns medicamentos podem ser utilizados pela equipe médica para induzir ou acelerar o trabalho de parto, como a ocitocina, bem como para diminuir a dor da mulher durante o processo."
+    },
+    {
+      "id": "desenv-obj-073",
+      "topic": "Parto e período perinatal",
+      "question": "O parto do tipo cesariana é descrito no material como:",
+      "options": {
+        "a": "Um procedimento cirúrgico, que pode ou não ser acompanhado de cólicas, podendo ser agendado ou indicado por dificuldades ou riscos ao parto natural",
+        "b": "Um processo idêntico ao parto normal, apenas com nomenclatura diferente",
+        "c": "Um procedimento que ocorre exclusivamente sem qualquer intervenção médica",
+        "d": "Um método que elimina completamente qualquer risco à mãe ou ao bebê",
+        "e": "Um procedimento obrigatório em todas as gestações consideradas de alto risco, sem exceção"
+      },
+      "correct": "a",
+      "explanation": "O parto do tipo cesariana é um procedimento cirúrgico que pode ou não ser acompanhado de cólicas; algumas mulheres o agendam com seus médicos, enquanto outras são encaminhadas para essa via em caso de dificuldade no parto natural ou risco para a mãe ou o bebê.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O parto do tipo cesariana é descrito no material como: O parto do tipo cesariana é um procedimento cirúrgico que pode ou não ser acompanhado de cólicas; algumas mulheres o agendam com seus médicos, enquanto outras são encaminhadas para essa via em caso de dificuldade no parto natural ou risco para a mãe ou o bebê."
+    },
+    {
+      "id": "desenv-obj-074",
+      "topic": "Parto e período perinatal",
+      "question": "Entre as condições médicas citadas no material que podem levar à indicação de um parto cesariana por representarem risco à mãe ou ao bebê, estão:",
+      "options": {
+        "a": "Eclampsia e placenta prévia",
+        "b": "Resfriado comum e enjoo matinal",
+        "c": "Ganho de peso normal da gestante",
+        "d": "Idade gestacional exatamente na 40ª semana",
+        "e": "Preferência estética da gestante, sem qualquer indicação médica"
+      },
+      "correct": "a",
+      "explanation": "Mulheres que desenvolvem eclampsia ou placenta prévia, entre outras condições de risco, podem ser encaminhadas para uma cesariana, procedimento indicado quando há risco de complicações ou morte para a mãe e/ou o bebê.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Entre as condições médicas citadas no material que podem levar à indicação de um parto cesariana por representarem risco à mãe ou ao bebê, estão: Mulheres que desenvolvem eclampsia ou placenta prévia, entre outras condições de risco, podem ser encaminhadas para uma cesariana, procedimento indicado quando há risco de complicações ou morte para a mãe e/ou o bebê."
+    },
+    {
+      "id": "desenv-obj-075",
+      "topic": "Parto e período perinatal",
+      "question": "O instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar seu nascimento durante um parto normal, mas cujo uso tem sido cada vez mais condenado atualmente, é denominado:",
+      "options": {
+        "a": "Ocitocina",
+        "b": "Fórceps",
+        "c": "Doula",
+        "d": "Incubadora",
+        "e": "Cordão umbilical"
+      },
+      "correct": "b",
+      "explanation": "Em alguns partos normais, pode ser utilizado o fórceps, instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar seu nascimento; contudo, esse e outros recursos têm sido cada vez mais condenados, dando lugar a uma política mais voltada para o parto humanizado.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar seu nascimento durante um parto normal, mas cujo uso tem sido cada vez mais condenado atualmente, é denominado: Em alguns partos normais, pode ser utilizado o fórceps, instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar seu nascimento; contudo, esse e outros recursos têm sido cada vez mais condenados, dando lugar a uma política mais voltada para o parto humanizado."
+    },
+    {
+      "id": "desenv-obj-076",
+      "topic": "Parto e período perinatal",
+      "question": "O parto humanizado, segundo o material, é caracterizado por:",
+      "options": {
+        "a": "Ser realizado com uma equipe médica preparada e sensível às demandas da mulher, sem medicações para induzir o trabalho de parto ou procedimentos que causem dor ou desconforto desnecessários",
+        "b": "Ser exclusivamente um parto normal, nunca podendo ocorrer via cesariana",
+        "c": "Exigir obrigatoriamente a realização em ambiente domiciliar, nunca em hospital",
+        "d": "Proibir totalmente a presença do pai ou de qualquer familiar durante o processo",
+        "e": "Ser um procedimento disponível apenas em países desenvolvidos"
+      },
+      "correct": "a",
+      "explanation": "O parto humanizado é realizado com uma equipe médica preparada e sensível às demandas da mulher, sem uso de medicações para induzir o trabalho de parto nem procedimentos que causem dor ou desconforto desnecessários; pode ser normal ou cesariana, em casa ou em ambiente hospitalar.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O parto humanizado, segundo o material, é caracterizado por: O parto humanizado é realizado com uma equipe médica preparada e sensível às demandas da mulher, sem uso de medicações para induzir o trabalho de parto nem procedimentos que causem dor ou desconforto desnecessários; pode ser normal ou cesariana, em casa ou em ambiente hospitalar."
+    },
+    {
+      "id": "desenv-obj-077",
+      "topic": "Parto e período perinatal",
+      "question": "No contexto do parto humanizado, a profissional preparada para dar apoio à mulher no alívio das dores e na regulação emocional durante a parturição é denominada:",
+      "options": {
+        "a": "Doula",
+        "b": "Puericultora",
+        "c": "Neonatologista exclusivamente",
+        "d": "Enfermeira obstetra apenas",
+        "e": "Anestesista"
+      },
+      "correct": "a",
+      "explanation": "No parto humanizado, respeita-se muito a participação do pai ou familiar, e a mulher pode ser acompanhada de uma doula, profissional preparada para dar apoio no alívio das dores e na regulação emocional da parturiente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "No contexto do parto humanizado, a profissional preparada para dar apoio à mulher no alívio das dores e na regulação emocional durante a parturição é denominada: No parto humanizado, respeita-se muito a participação do pai ou familiar, e a mulher pode ser acompanhada de uma doula, profissional preparada para dar apoio no alívio das dores e na regulação emocional da parturiente."
+    },
+    {
+      "id": "desenv-obj-078",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, mulheres que apresentam estresse ao longo da gravidez podem apresentar, na hora do parto:",
+      "options": {
+        "a": "Mais dificuldade, em decorrência da alta tensão",
+        "b": "Nenhuma diferença em relação a mulheres sem estresse",
+        "c": "Facilidade extra para o parto, devido à liberação de adrenalina",
+        "d": "Redução automática do tempo de trabalho de parto",
+        "e": "Imunidade a qualquer tipo de complicação obstétrica"
+      },
+      "correct": "a",
+      "explanation": "Mulheres que apresentam estresse ao longo da sua gravidez podem ter mais dificuldade na hora do parto em decorrência da alta tensão, sendo importante que a mulher tenha consciência do que está prestes a passar para que o parto seja uma experiência sem traumas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, mulheres que apresentam estresse ao longo da gravidez podem apresentar, na hora do parto: Mulheres que apresentam estresse ao longo da sua gravidez podem ter mais dificuldade na hora do parto em decorrência da alta tensão, sendo importante que a mulher tenha consciência do que está prestes a passar para que o parto seja uma experiência sem traumas."
+    },
+    {
+      "id": "desenv-obj-079",
+      "topic": "Parto e período perinatal",
+      "question": "Um bom acompanhamento pré-natal é fundamental, segundo o material, principalmente porque permite:",
+      "options": {
+        "a": "A identificação de muitas doenças que podem ser evitadas ou tratadas se forem precocemente detectadas",
+        "b": "Garantir, de forma absoluta, que o bebê nascerá sem qualquer tipo de complicação",
+        "c": "Eliminar totalmente a necessidade de qualquer cuidado após o nascimento",
+        "d": "Determinar exclusivamente o peso final do bebê ao nascer",
+        "e": "Substituir por completo a necessidade de exames de ultrassonografia"
+      },
+      "correct": "a",
+      "explanation": "Um bom pré-natal, acompanhado por um médico de confiança, é fundamental para a identificação de muitas doenças que podem ser evitadas ou tratadas se forem precocemente detectadas, já que o contato do feto com substâncias nocivas ou doenças da mãe pode alterar seus processos de maturação.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Um bom acompanhamento pré-natal é fundamental, segundo o material, principalmente porque permite: Um bom pré-natal, acompanhado por um médico de confiança, é fundamental para a identificação de muitas doenças que podem ser evitadas ou tratadas se forem precocemente detectadas, já que o contato do feto com substâncias nocivas ou doenças da mãe pode alterar seus processos de maturação."
+    },
+    {
+      "id": "desenv-obj-080",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, se a mulher contrair rubéola durante os três primeiros meses de gestação, essa doença pode fazer com que o bebê nasça com:",
+      "options": {
+        "a": "Surdez, cegueira ou alguma lesão cerebral",
+        "b": "Aumento de peso significativo, sem qualquer outro risco",
+        "c": "Imunidade reforçada contra outras doenças",
+        "d": "Desenvolvimento motor acelerado",
+        "e": "Nenhuma consequência, pois a rubéola não atravessa a placenta"
+      },
+      "correct": "a",
+      "explanation": "A literatura indica que, durante os três primeiros meses de gestação, se a mulher contrair rubéola, isso pode fazer com que o bebê nasça com surdez, cegueira ou alguma lesão cerebral.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, se a mulher contrair rubéola durante os três primeiros meses de gestação, essa doença pode fazer com que o bebê nasça com: A literatura indica que, durante os três primeiros meses de gestação, se a mulher contrair rubéola, isso pode fazer com que o bebê nasça com surdez, cegueira ou alguma lesão cerebral."
+    },
+    {
+      "id": "desenv-obj-081",
+      "topic": "Parto e período perinatal",
+      "question": "Além da rubéola, o material cita outras patologias maternas que podem prejudicar o desenvolvimento do feto. São elas:",
+      "options": {
+        "a": "Diabetes, hipertensão, anemia e sífilis",
+        "b": "Apenas resfriados comuns e gripes leves",
+        "c": "Exclusivamente enjoos matinais",
+        "d": "Somente alergias sazonais",
+        "e": "Apenas dores lombares ocasionais"
+      },
+      "correct": "a",
+      "explanation": "Outras patologias maternas, como diabetes, hipertensão, anemia e sífilis, também podem prejudicar o desenvolvimento do feto, além da rubéola contraída nos primeiros meses de gestação.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Além da rubéola, o material cita outras patologias maternas que podem prejudicar o desenvolvimento do feto. São elas: Outras patologias maternas, como diabetes, hipertensão, anemia e sífilis, também podem prejudicar o desenvolvimento do feto, além da rubéola contraída nos primeiros meses de gestação."
+    },
+    {
+      "id": "desenv-obj-082",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, mulheres com mais de 35 anos, quando primíparas, e com mais de 40 anos, a partir da segunda gestação, apresentam significativamente:",
+      "options": {
+        "a": "Mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança",
+        "b": "Menos riscos do que mulheres mais jovens, em qualquer circunstância",
+        "c": "Nenhuma diferença de risco em relação a outras faixas etárias",
+        "d": "Partos sempre mais rápidos e sem complicações",
+        "e": "Imunidade total a quaisquer comorbidades gestacionais"
+      },
+      "correct": "a",
+      "explanation": "A idade da mulher é um fator que influencia comorbidades: mulheres com mais de 35 anos (primíparas) e mais de 40 anos (a partir da segunda gestação) apresentam significativamente mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, mulheres com mais de 35 anos, quando primíparas, e com mais de 40 anos, a partir da segunda gestação, apresentam significativamente: A idade da mulher é um fator que influencia comorbidades: mulheres com mais de 35 anos (primíparas) e mais de 40 anos (a partir da segunda gestação) apresentam significativamente mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança."
+    },
+    {
+      "id": "desenv-obj-083",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, mulheres muito jovens, com menos de 18 anos, também podem enfrentar problemas relacionados a:",
+      "options": {
+        "a": "Má formação do bebê e dificuldade no momento do parto",
+        "b": "Nenhum risco adicional, pois a juventude é sempre um fator protetivo",
+        "c": "Exclusivamente ganho de peso excessivo",
+        "d": "Apenas questões estéticas, sem qualquer risco à saúde do bebê",
+        "e": "Redução do tempo de gestação para menos de seis meses"
+      },
+      "correct": "a",
+      "explanation": "As mulheres muito jovens, com menos de 18 anos, também podem enfrentar problemas relacionados à má formação do bebê e podem apresentar dificuldade no momento do parto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, mulheres muito jovens, com menos de 18 anos, também podem enfrentar problemas relacionados a: As mulheres muito jovens, com menos de 18 anos, também podem enfrentar problemas relacionados à má formação do bebê e podem apresentar dificuldade no momento do parto."
+    },
+    {
+      "id": "desenv-obj-084",
+      "topic": "Parto e período perinatal",
+      "question": "O material cita a pobreza como um fator de risco gestacional porque:",
+      "options": {
+        "a": "Expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê",
+        "b": "Impede completamente o acesso a qualquer tipo de acompanhamento médico",
+        "c": "Está relacionada exclusivamente a fatores genéticos hereditários",
+        "d": "Aumenta automaticamente o risco de gestação múltipla",
+        "e": "Não possui qualquer relação com o desenvolvimento do bebê, segundo o material"
+      },
+      "correct": "a",
+      "explanation": "A pobreza pode ser considerada um fator de risco, pois expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O material cita a pobreza como um fator de risco gestacional porque: A pobreza pode ser considerada um fator de risco, pois expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê."
+    },
+    {
+      "id": "desenv-obj-085",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, no geral, os problemas que podem afetar negativamente a gestação e/ou o parto estão relacionados a um conjunto de fatores. Entre eles, destacam-se:",
+      "options": {
+        "a": "Pobreza, má nutrição, idade da mãe, doenças preexistentes, estado emocional e uso de medicação, álcool ou drogas",
+        "b": "Exclusivamente o sexo do bebê",
+        "c": "Apenas a cor dos olhos dos pais",
+        "d": "Somente o tipo de parto escolhido pela família",
+        "e": "Unicamente o local geográfico de residência da gestante"
+      },
+      "correct": "a",
+      "explanation": "Problemas que podem afetar negativamente a gestação e/ou o parto estão relacionados à pobreza, à má nutrição, à idade, a doenças preexistentes na mãe, ao seu estado emocional e ao uso de medicação e outras substâncias como álcool e drogas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no geral, os problemas que podem afetar negativamente a gestação e/ou o parto estão relacionados a um conjunto de fatores. Entre eles, destacam-se: Problemas que podem afetar negativamente a gestação e/ou o parto estão relacionados à pobreza, à má nutrição, à idade, a doenças preexistentes na mãe, ao seu estado emocional e ao uso de medicação e outras substâncias como álcool e drogas."
+    },
+    {
+      "id": "desenv-obj-086",
+      "topic": "Parto e período perinatal",
+      "question": "O método complementar utilizado para o suporte a bebês nascidos prematuramente, que auxilia especialmente na regulação da temperatura corpórea, é denominado:",
+      "options": {
+        "a": "Incubadora",
+        "b": "Método canguru",
+        "c": "Fórceps",
+        "d": "Ocitocina sintética",
+        "e": "Doulagem"
+      },
+      "correct": "a",
+      "explanation": "A incubadora é um método complementar que auxilia, entre outras funções, na regulação da temperatura corpórea de bebês nascidos prematuramente, sendo decisiva, em alguns casos, entre a vida e a morte.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "O método complementar utilizado para o suporte a bebês nascidos prematuramente, que auxilia especialmente na regulação da temperatura corpórea, é denominado: A incubadora é um método complementar que auxilia, entre outras funções, na regulação da temperatura corpórea de bebês nascidos prematuramente, sendo decisiva, em alguns casos, entre a vida e a morte."
+    },
+    {
+      "id": "desenv-obj-087",
+      "topic": "Parto e período perinatal",
+      "question": "O método canguru, citado no material, segue os mesmos princípios do parto e tratamento humanizado, e consiste em:",
+      "options": {
+        "a": "A mãe colocar o bebê sobre o seu peito e segurá-lo nessa posição por algum tempo, favorecendo a troca de calor emocional e afetivo",
+        "b": "Manter o bebê isolado em uma incubadora, sem qualquer contato físico direto com a mãe",
+        "c": "Um procedimento cirúrgico complementar à cesariana",
+        "d": "Uma técnica exclusivamente utilizada em bebês nascidos a termo, sem qualquer aplicação em prematuros",
+        "e": "Uma medicação administrada por via intravenosa ao recém-nascido"
+      },
+      "correct": "a",
+      "explanation": "No método canguru, a mãe coloca o bebê sobre o seu peito e o segura nessa posição por algum tempo; a troca de calor emocional e afetivo entre mãe e bebê favorece o fortalecimento e a recuperação do bebê, especialmente útil para os que nasceram prematuros.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O método canguru, citado no material, segue os mesmos princípios do parto e tratamento humanizado, e consiste em: No método canguru, a mãe coloca o bebê sobre o seu peito e o segura nessa posição por algum tempo; a troca de calor emocional e afetivo entre mãe e bebê favorece o fortalecimento e a recuperação do bebê, especialmente útil para os que nasceram prematuros."
+    },
+    {
+      "id": "desenv-obj-088",
+      "topic": "Parto e período perinatal",
+      "question": "Entre as vantagens do método canguru citadas pelo material, em comparação a outras alternativas de cuidado, estão:",
+      "options": {
+        "a": "Boa aceitação por parte de pais e equipe médica, baixo custo financeiro e redução do tempo de internação",
+        "b": "Custo elevado e necessidade de equipamentos hospitalares sofisticados e exclusivos",
+        "c": "Necessidade de longos períodos de internação hospitalar, superiores aos métodos tradicionais",
+        "d": "Baixa aceitação por parte das equipes médicas em todo o mundo",
+        "e": "Aplicabilidade restrita exclusivamente a bebês nascidos a termo"
+      },
+      "correct": "a",
+      "explanation": "O método canguru tem boa aceitação por parte de pais e equipe médica, possui baixos custos financeiros e reduz o tempo de internação, tornando-se uma excelente alternativa para bebês que nasceram prematuros.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Entre as vantagens do método canguru citadas pelo material, em comparação a outras alternativas de cuidado, estão: O método canguru tem boa aceitação por parte de pais e equipe médica, possui baixos custos financeiros e reduz o tempo de internação, tornando-se uma excelente alternativa para bebês que nasceram prematuros."
+    },
+    {
+      "id": "desenv-obj-089",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo indicado pela literatura citada no material, um bebê humano dá preferência a:",
+      "options": {
+        "a": "Vozes e faces humanas em detrimento de outro som ou objeto qualquer",
+        "b": "Sons mecânicos e repetitivos, em vez de vozes humanas",
+        "c": "Ambientes completamente silenciosos, evitando qualquer estímulo sonoro",
+        "d": "Objetos coloridos, independentemente de qualquer estímulo social",
+        "e": "Nenhum estímulo específico, sendo indiferente a qualquer tipo de som ou imagem"
+      },
+      "correct": "a",
+      "explanation": "Como indicado pela literatura, um bebê humano dá preferência a vozes e faces humanas em detrimento de outro som ou objeto qualquer, o que pode fortalecê-lo emocionalmente e trazer benefícios para sua saúde de forma geral.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo indicado pela literatura citada no material, um bebê humano dá preferência a: Como indicado pela literatura, um bebê humano dá preferência a vozes e faces humanas em detrimento de outro som ou objeto qualquer, o que pode fortalecê-lo emocionalmente e trazer benefícios para sua saúde de forma geral."
+    },
+    {
+      "id": "desenv-obj-090",
+      "topic": "Parto e período perinatal",
+      "question": "Uma gestante de 42 anos, em sua terceira gestação, é informada pelo obstetra que seu caso requer acompanhamento mais cuidadoso devido a possíveis riscos associados à idade materna avançada. Com base no material estudado, esse acompanhamento adicional se justifica porque:",
+      "options": {
+        "a": "Mulheres com mais de 40 anos, a partir da segunda gestação, apresentam significativamente mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança",
+        "b": "A idade materna, segundo o material, nunca representa qualquer fator de risco gestacional",
+        "c": "Apenas a primeira gestação apresenta riscos relacionados à idade, independentemente de quão avançada ela seja",
+        "d": "O risco descrito no material se aplica exclusivamente a mulheres com menos de 18 anos",
+        "e": "Gestações após os 40 anos são sempre classificadas automaticamente como cesarianas eletivas"
+      },
+      "correct": "a",
+      "explanation": "O material indica que mulheres com mais de 40 anos, a partir da segunda gestação, apresentam significativamente mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança, justificando um acompanhamento pré-natal mais cuidadoso.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Uma gestante de 42 anos, em sua terceira gestação, é informada pelo obstetra que seu caso requer acompanhamento mais cuidadoso devido a possíveis riscos associados à idade materna avançada. Com base no material estudado, esse acompanhamento adicional se justifica porque: O material indica que mulheres com mais de 40 anos, a partir da segunda gestação, apresentam significativamente mais riscos, como parto mais longo ou riscos para o desenvolvimento da criança, justificando um acompanhamento pré-natal mais cuidadoso."
+    },
+    {
+      "id": "desenv-obj-091",
+      "topic": "Parto e período perinatal",
+      "question": "Uma gestante com diagnóstico de eclampsia é encaminhada pelo médico para a realização de um parto cesariana, em vez de aguardar o trabalho de parto normal. Com base no material, essa decisão médica se justifica por:",
+      "options": {
+        "a": "Representar risco de complicações ou morte para a mãe e/ou o bebê, uma das indicações centrais para a cesariana",
+        "b": "Ser uma escolha exclusivamente estética da gestante",
+        "c": "Não haver qualquer relação entre eclampsia e a via de parto recomendada",
+        "d": "A eclampsia ser incompatível apenas com o método canguru",
+        "e": "Tratar-se de uma exigência burocrática hospitalar, sem fundamento clínico"
+      },
+      "correct": "a",
+      "explanation": "A cesariana é indicada quando existe risco de complicações ou morte para a mãe e/ou o bebê, como no caso de mulheres que desenvolvem eclampsia ou placenta prévia, condições citadas explicitamente no material.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Uma gestante com diagnóstico de eclampsia é encaminhada pelo médico para a realização de um parto cesariana, em vez de aguardar o trabalho de parto normal. Com base no material, essa decisão médica se justifica por: A cesariana é indicada quando existe risco de complicações ou morte para a mãe e/ou o bebê, como no caso de mulheres que desenvolvem eclampsia ou placenta prévia, condições citadas explicitamente no material."
+    },
+    {
+      "id": "desenv-obj-092",
+      "topic": "Parto e período perinatal",
+      "question": "Um casal opta por um parto realizado em ambiente hospitalar, mas solicita que a equipe médica evite intervenções desnecessárias, respeite os tempos naturais do trabalho de parto e permita a presença de uma doula e do pai durante todo o processo. Segundo o material, essa opção caracteriza um parto:",
+      "options": {
+        "a": "Humanizado, independentemente de ser realizado em ambiente hospitalar",
+        "b": "Necessariamente domiciliar, pois o parto humanizado não pode ocorrer em hospitais",
+        "c": "Obrigatoriamente do tipo cesariana",
+        "d": "Classificado exclusivamente como parto de risco",
+        "e": "Incompatível com qualquer acompanhamento médico"
+      },
+      "correct": "a",
+      "explanation": "O parto humanizado pode ser normal ou cesariana, realizado em casa ou em ambiente hospitalar; o que o caracteriza é o cuidado e a sensibilidade da equipe às demandas da mulher, a ausência de intervenções desnecessárias e o respeito à participação de acompanhantes como o pai e a doula.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Um casal opta por um parto realizado em ambiente hospitalar, mas solicita que a equipe médica evite intervenções desnecessárias, respeite os tempos naturais do trabalho de parto e permita a presença de uma doula e do pai durante todo o processo. Segundo o material, essa opção caracteriza um parto: O parto humanizado pode ser normal ou cesariana, realizado em casa ou em ambiente hospitalar; o que o caracteriza é o cuidado e a sensibilidade da equipe às demandas da mulher, a ausência de intervenções desnecessárias e o respeito à participação de acompanhantes como o pai e a doula."
+    },
+    {
+      "id": "desenv-obj-093",
+      "topic": "Parto e período perinatal",
+      "question": "Um bebê nasce com 1,2 semanas de prematuridade e precisa de assistência médica especial logo após o nascimento, incluindo suporte para regulação de temperatura corpórea. Além da incubadora, um método complementar de baixo custo, boa aceitação e que favorece o vínculo afetivo mãe-bebê poderia ser indicado nesse caso. Esse método é:",
+      "options": {
+        "a": "O método canguru",
+        "b": "O fórceps",
+        "c": "A ocitocina sintética",
+        "d": "A cesariana eletiva",
+        "e": "A doulagem exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O método canguru é um recurso complementar à incubadora, de baixo custo, boa aceitação por pais e equipe médica, que reduz o tempo de internação e favorece o fortalecimento e a recuperação do bebê por meio da troca de calor emocional e afetivo com a mãe.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Um bebê nasce com 1,2 semanas de prematuridade e precisa de assistência médica especial logo após o nascimento, incluindo suporte para regulação de temperatura corpórea. Além da incubadora, um método complementar de baixo custo, boa aceitação e que favorece o vínculo afetivo mãe-bebê poderia ser indicado nesse caso. Esse método é: O método canguru é um recurso complementar à incubadora, de baixo custo, boa aceitação por pais e equipe médica, que reduz o tempo de internação e favorece o fortalecimento e a recuperação do bebê por meio da troca de calor emocional e afetivo com a mãe."
+    },
+    {
+      "id": "desenv-obj-094",
+      "topic": "Parto e período perinatal",
+      "question": "Segundo o material, ainda durante a gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno após o nascimento. Esse processo de aproximação, que continua nas primeiras horas após o parto, contribui diretamente para o desenvolvimento de qual fenômeno psicológico?",
+      "options": {
+        "a": "O apego",
+        "b": "A memória semântica",
+        "c": "O egocentrismo",
+        "d": "A extinção operante",
+        "e": "A conservação piagetiana"
+      },
+      "correct": "a",
+      "explanation": "Ainda na gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno; nas primeiras horas após o parto, há uma aproximação que contribuirá diretamente para o desenvolvimento do apego entre mãe e bebê.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, ainda durante a gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno após o nascimento. Esse processo de aproximação, que continua nas primeiras horas após o parto, contribui diretamente para o desenvolvimento de qual fenômeno psicológico? Ainda na gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno; nas primeiras horas após o parto, há uma aproximação que contribuirá diretamente para o desenvolvimento do apego entre mãe e bebê."
     }
   ],
   "discursive": [
@@ -1532,6 +2852,825 @@
       },
       "subject": "Idade adulta e terceira idade",
       "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-015",
+      "topic": "Condições necessárias para a concepção",
+      "question": "Explique quais condições são necessárias para que uma relação sexual resulte em concepção, e o que já fica geneticamente determinado nesse momento inicial.",
+      "modelAnswer": "Para que a concepção ocorra a partir de uma relação sexual, é necessário que a mulher esteja no período fértil e/ou tenha liberado o óvulo, que o homem e a mulher estejam saudáveis, e que não tenha sido usado nenhum método contraceptivo (como anticoncepcionais ou preservativos) que interrompa ou impeça o encontro entre o espermatozoide e o óvulo. O óvulo admite a união de apenas um espermatozoide, mesmo que muitos outros tentem alcançá-lo. Já nesse momento inicial, diversas características genéticas ficam embutidas na estrutura do óvulo fecundado: a cor dos olhos, o sexo e a cor do cabelo do futuro bebê são definidos por meio de uma sequência hereditária determinada, sem qualquer interferência de fatores externos ao processo biológico.",
+      "keyPoints": [
+        {
+          "text": "Explica as condições necessárias (período fértil, saúde de ambos, ausência de contraceptivo)",
+          "weight": 3,
+          "keywords": [
+            "período fértil",
+            "saudáveis",
+            "método contraceptivo"
+          ]
+        },
+        {
+          "text": "Menciona que apenas um espermatozoide se une ao óvulo",
+          "weight": 2,
+          "keywords": [
+            "um espermatozoide",
+            "óvulo"
+          ]
+        },
+        {
+          "text": "Explica o que já é determinado geneticamente (cor dos olhos, sexo, cabelo)",
+          "weight": 3,
+          "keywords": [
+            "cor dos olhos",
+            "sexo",
+            "hereditária"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-016",
+      "topic": "A fase embrionária e seus riscos",
+      "question": "Descreva a fase embrionária do desenvolvimento pré-natal (duração, características físicas do embrião) e explique por que ela é considerada especialmente crítica em relação à exposição a substâncias nocivas.",
+      "modelAnswer": "A fase embrionária tem início após a implantação do organismo na parede do útero e se estende do 14º dia até a sétima semana de gestação. Nela, o embrião está envolto no líquido amniótico e recebe, pela corrente sanguínea da mãe, nutrientes como proteínas, açúcares e vitaminas. Ao final dessa fase, o embrião já possui formas humanas reconhecíveis: cabeça, braços, pernas, olhos, orelhas, nariz e dedos das mãos e dos pés, além de um pequeno coração com batimentos e sistema circulatório presente, medindo entre três e cinco centímetros. Essa fase é considerada especialmente crítica porque é justamente quando o sistema nervoso, respiratório e alimentar se desenvolvem mais rapidamente; assim, substâncias nocivas absorvidas pela mesma via sanguínea que transporta os nutrientes — como álcool, outras drogas ou certos medicamentos usados sem supervisão médica — podem provocar problemas de má formação, síndromes e deficiências físicas e mentais no bebê.",
+      "keyPoints": [
+        {
+          "text": "Descreve a duração da fase embrionária (14 dias a 7 semanas)",
+          "weight": 2,
+          "keywords": [
+            "14 dias",
+            "sétima semana"
+          ]
+        },
+        {
+          "text": "Descreve as características físicas do embrião ao final da fase",
+          "weight": 3,
+          "keywords": [
+            "cabeça",
+            "braços",
+            "pernas",
+            "coração"
+          ]
+        },
+        {
+          "text": "Explica por que é crítica (desenvolvimento rápido do SN, respiratório, alimentar; substâncias nocivas)",
+          "weight": 4,
+          "keywords": [
+            "sistema nervoso",
+            "substâncias nocivas",
+            "má formação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-017",
+      "topic": "A transição de embrião para feto",
+      "question": "Explique o que caracteriza a transição do embrião para feto, por volta da oitava semana de gestação, e como se dá o desenvolvimento físico ao longo do período fetal.",
+      "modelAnswer": "Por volta da oitava semana de gestação, o embrião passa a ser reconhecido como feto, transição marcada por um acontecimento específico: o saco vitelino perde sua função, e os nutrientes da mãe passam a ser repassados ao organismo em desenvolvimento pelo cordão umbilical, permanecendo assim ao longo de todo o restante do período gestacional. Durante o período fetal, a maturação ocorre em ritmo acelerado, e há uma maior simetria no crescimento físico: enquanto na fase embrionária percebia-se inicialmente um superdesenvolvimento da cabeça, o feto passa a se apresentar de maneira mais proporcional, considerando cabeça e corpo. Esse período de aproximadamente sete meses restantes é marcado por um refinamento e aperfeiçoamento progressivo dos órgãos e sistemas vitais, essencial para a vida futura fora do útero.",
+      "keyPoints": [
+        {
+          "text": "Explica a transição (saco vitelino perde função, cordão umbilical assume)",
+          "weight": 4,
+          "keywords": [
+            "saco vitelino",
+            "cordão umbilical"
+          ]
+        },
+        {
+          "text": "Explica a maior simetria de crescimento no período fetal (vs. embrião)",
+          "weight": 3,
+          "keywords": [
+            "simetria",
+            "superdesenvolvimento da cabeça"
+          ]
+        },
+        {
+          "text": "Menciona o refinamento dos órgãos e sistemas vitais ao longo do período fetal",
+          "weight": 2,
+          "keywords": [
+            "refinamento",
+            "órgãos",
+            "sistemas vitais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-018",
+      "topic": "Marcos do desenvolvimento fetal por semana de gestação",
+      "question": "Descreva, de forma cronológica, os principais marcos do desenvolvimento fetal citados no material, desde a 12ª até a 40ª semana de gestação.",
+      "modelAnswer": "O desenvolvimento fetal apresenta diversos marcos ao longo das semanas. Por volta da 12ª semana, o feto chega a cerca de 7,5cm e seus órgãos sexuais começam a ficar visíveis, permitindo sua identificação por exames de imagem. Pela 16ª semana, a mulher começa a sentir os primeiros movimentos do feto, relacionados à movimentação da boca e das mãos. Por volta da 24ª semana (seis meses), desenvolve-se a habilidade de respirar, embora um nascimento nesse momento provavelmente ainda fosse mortal. Da 27ª à 28ª semana, o feto já fecha e abre os olhos, pesa mais de 1kg e mede cerca de 30cm, sendo esse o momento a partir do qual nascimentos prematuros passam a ter alguma chance de sobrevivência com cuidados médicos apropriados. Da 30ª à 34ª semana, o tecido adiposo se forma rapidamente, e o feto chega a mais de dois quilos e 40cm, com pulmões já capazes de sintetizar as substâncias necessárias à respiração. Pela 37ª-38ª semana, o bebê se reposiciona para o parto, com as nádegas voltadas para cima e a cabeça próxima ao canal vaginal, pesando mais de 2,5kg. Por fim, na 40ª semana, o bebê atinge, em média, 3,4kg e 50cm, estando pronto para nascer.",
+      "keyPoints": [
+        {
+          "text": "Cita o marco da 12ª semana (visibilidade dos órgãos sexuais)",
+          "weight": 2,
+          "keywords": [
+            "12ª semana",
+            "órgãos sexuais"
+          ]
+        },
+        {
+          "text": "Cita os marcos da 16ª e 24ª semana (movimentos, respiração)",
+          "weight": 3,
+          "keywords": [
+            "16ª semana",
+            "24ª semana",
+            "respirar"
+          ]
+        },
+        {
+          "text": "Cita os marcos da 27-28ª e 30-34ª semana (viabilidade, tecido adiposo)",
+          "weight": 3,
+          "keywords": [
+            "27ª",
+            "28ª",
+            "tecido adiposo"
+          ]
+        },
+        {
+          "text": "Cita os marcos da 37-38ª e 40ª semana (reposicionamento, nascimento)",
+          "weight": 2,
+          "keywords": [
+            "37ª",
+            "38ª",
+            "40ª semana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5-6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-019",
+      "topic": "Nascimento prematuro: riscos e viabilidade",
+      "question": "Explique a partir de que momento da gestação um nascimento prematuro passa a ter alguma chance de sobrevivência, segundo o material, e quais riscos um bebê nascido nesse período pode enfrentar.",
+      "modelAnswer": "Segundo o material, nascimentos prematuros com alguma chance de sobrevivência, desde que haja cuidados médicos apropriados, podem ocorrer a partir da 28ª semana de gestação — momento em que os sistemas nervoso, circulatório e respiratório já estão maduros o suficiente para sustentar uma vida fora do útero. É importante destacar, porém, que esse período não é o ideal para o nascimento: um bebê que nasce nessa fase pode desenvolver uma série de limitações, tanto de ordem física, como problemas respiratórios (já que os pulmões ainda não sintetizam plenamente as substâncias necessárias para a respiração, o que só ocorre entre a 30ª e a 34ª semana), quanto de ordem psicológica, como dificuldade de aprendizado em fases posteriores da vida. Isso reforça a importância de se buscar levar a gestação o mais próximo possível do termo completo (40 semanas), sempre que não houver indicação médica para antecipação do parto.",
+      "keyPoints": [
+        {
+          "text": "Identifica a 28ª semana como marco de viabilidade com cuidados médicos",
+          "weight": 3,
+          "keywords": [
+            "28ª semana",
+            "cuidados médicos",
+            "viabilidade"
+          ]
+        },
+        {
+          "text": "Explica a maturidade dos sistemas nervoso, circulatório e respiratório nesse momento",
+          "weight": 2,
+          "keywords": [
+            "sistema nervoso",
+            "circulatório",
+            "respiratório"
+          ]
+        },
+        {
+          "text": "Descreve os riscos físicos e psicológicos do nascimento prematuro",
+          "weight": 4,
+          "keywords": [
+            "problemas respiratórios",
+            "dificuldade de aprendizado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-020",
+      "topic": "O ambiente uterino como um mundo vivo",
+      "question": "Explique, com base nos estudos psicanalíticos e nos recursos de ultrassonografia citados no material, por que o ambiente uterino é descrito como 'um mundo vivo', e como isso se relaciona com a conexão emocional entre mãe e feto.",
+      "modelAnswer": "Estudos psicanalíticos que investigam o desenvolvimento emocional de bebês ainda dentro do útero, utilizando recursos de ultrassonografia, permitiram identificar que o ambiente uterino, embora possa ser de segurança e conforto, está sujeito a inúmeras variações individuais. O mundo do feto humano é descrito como vivo, com atividade, com ritmos especiais, com movimentos que têm objetivos, e com sentidos que estão começando a funcionar — visão, audição, paladar e sensação de ser tocado. Além disso, o feto apresenta respostas complexas às emoções e ações da mãe: a ultrassonografia é capaz de identificar, por exemplo, o sorriso e o choro do bebê a partir de imagens de suas expressões faciais. Essa conexão é uma via de mão dupla: estar conectado à sua mãe torna o feto sensível às influências externas e aos estados emocionais dela, enquanto a mãe, por sua vez, também sofre influência de suas próprias percepções e expectativas relacionadas à gravidez.",
+      "keyPoints": [
+        {
+          "text": "Explica que o ambiente uterino é vivo, com ritmos, movimentos e sentidos em funcionamento",
+          "weight": 3,
+          "keywords": [
+            "mundo vivo",
+            "ritmos",
+            "sentidos"
+          ]
+        },
+        {
+          "text": "Cita a identificação de sorriso e choro por ultrassonografia",
+          "weight": 3,
+          "keywords": [
+            "ultrassonografia",
+            "sorriso",
+            "choro"
+          ]
+        },
+        {
+          "text": "Explica a conexão emocional de mão dupla entre mãe e feto",
+          "weight": 3,
+          "keywords": [
+            "via de mão dupla",
+            "influências externas",
+            "estados emocionais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-021",
+      "topic": "Influências socioculturais no desenvolvimento pré e pós-natal",
+      "question": "Explique como fatores biológicos e culturais interagem no desenvolvimento humano inicial, utilizando o exemplo do 'chá de revelação' e da comparação entre diferentes culturas apresentada no material.",
+      "modelAnswer": "O material demonstra que o desenvolvimento humano resulta de uma interação constante entre fatores biológicos (inatos) e o ambiente, incluindo o ambiente sociocultural. Embora o processo biológico de concepção e gestação seja o mesmo para todos os seres humanos ao redor do mundo, a forma como cada cultura celebra e significa esse processo varia enormemente. O 'chá de revelação', celebração contemporânea para descobrir o sexo do bebê, exemplifica como a cultura, além da parte biológica, influencia o ciclo do desenvolvimento: pais, padrinhos, avós e amigos preparam formas festivas e criativas de revelar o sexo, uma prática tipicamente urbana e contemporânea. O material questiona se uma tribo africana rural, baseada na agricultura de subsistência, celebraria o nascimento exatamente da mesma forma que uma família brasileira de uma sociedade pós-industrializada e urbanizada — concluindo que haverá inúmeras diferenças, sem que isso represente algo melhor ou pior, certo ou errado, apenas diferente. Após o nascimento, o bebê recebe seu 'banho de cultura': linguagem, crenças, valores e modos de pensar e agir são transmitidos pelas gerações, moldando seu desenvolvimento de forma tão importante quanto os fatores biológicos.",
+      "keyPoints": [
+        {
+          "text": "Explica a interação entre fatores biológicos (inatos) e ambiente sociocultural",
+          "weight": 3,
+          "keywords": [
+            "fatores inatos",
+            "ambiente",
+            "interação"
+          ]
+        },
+        {
+          "text": "Usa o exemplo do chá de revelação",
+          "weight": 3,
+          "keywords": [
+            "chá de revelação",
+            "celebração"
+          ]
+        },
+        {
+          "text": "Usa a comparação entre culturas (tribo africana x sociedade urbanizada) e conclui sem juízo de valor",
+          "weight": 3,
+          "keywords": [
+            "tribo africana",
+            "diferente",
+            "não melhor ou pior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-022",
+      "topic": "O grupo familiar humano na perspectiva evolutiva",
+      "question": "Explique, segundo a perspectiva evolutiva apresentada no material, como a ovulação oculta das fêmeas ancestrais contribuiu para a constituição do grupo familiar humano.",
+      "modelAnswer": "O material explica que o grupo familiar humano se diferencia de outros animais quanto à sua constituição, em parte devido a uma característica biológica de nossas ancestrais fêmeas: a ovulação oculta. Como os machos ancestrais não conseguiam saber precisamente quando as fêmeas estavam no período fértil, essa incerteza ajudava a mantê-los junto à mulher e aos filhos, ao longo de todo o tempo, e não apenas durante um curto período fértil visível. Na época dos ancestrais caçadores-coletores, essas características contribuíram para que o homem se vinculasse à mulher, protegendo-a e auxiliando-a na alimentação dela e da prole, o que também evitava que outro macho viesse a engravidá-la. Esse mecanismo evolutivo é apontado pelo material como um dos fatores biológicos inatos que, combinados com a interação constante com o ambiente, moldaram a estrutura familiar humana ao longo da nossa história como espécie.",
+      "keyPoints": [
+        {
+          "text": "Define a ovulação oculta e sua consequência (incerteza dos machos sobre o período fértil)",
+          "weight": 3,
+          "keywords": [
+            "ovulação oculta",
+            "período fértil",
+            "incerteza"
+          ]
+        },
+        {
+          "text": "Explica como isso contribuiu para o vínculo do homem à mulher e à prole",
+          "weight": 4,
+          "keywords": [
+            "vínculo",
+            "proteção",
+            "prole"
+          ]
+        },
+        {
+          "text": "Relaciona ao contexto dos ancestrais caçadores-coletores",
+          "weight": 2,
+          "keywords": [
+            "caçadores-coletores",
+            "ancestrais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "3"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-023",
+      "topic": "Peso e comprimento ao nascer: definição de prematuridade",
+      "question": "Explique quais fatores influenciam o peso e o comprimento de um bebê ao nascer, e qual é o critério de peso utilizado para definir a prematuridade, segundo o material.",
+      "modelAnswer": "Segundo o material, o peso e o comprimento dos bebês ao nascer podem variar muito de um indivíduo para outro, a depender de diversos fatores externos e internos, sendo citados especificamente a alimentação da mãe ao longo da gestação e o tempo total de gestação (ou seja, a idade gestacional no momento do parto). O critério objetivo utilizado para definir a prematuridade, no que diz respeito à necessidade de tratamentos especiais após o nascimento, é o peso: um bebê é considerado prematuro, dependendo de cuidados especiais, quando seu peso ao nascer for inferior a 2,5kg. Esse critério se relaciona diretamente com os marcos de desenvolvimento fetal descritos ao longo da gestação — por exemplo, entre a 30ª e a 34ª semana, o feto ainda pesa cerca de dois quilos, ao passo que, na 40ª semana (termo completo), o peso médio já é de 3,4kg, evidenciando por que nascimentos antes do termo tendem a resultar em bebês de menor peso.",
+      "keyPoints": [
+        {
+          "text": "Cita os fatores que influenciam peso/comprimento (alimentação da mãe, tempo de gestação)",
+          "weight": 3,
+          "keywords": [
+            "alimentação da mãe",
+            "tempo de gestação"
+          ]
+        },
+        {
+          "text": "Define o critério de prematuridade (peso inferior a 2,5kg)",
+          "weight": 4,
+          "keywords": [
+            "2,5kg",
+            "prematuro"
+          ]
+        },
+        {
+          "text": "Relaciona ao peso esperado em diferentes semanas de gestação",
+          "weight": 2,
+          "keywords": [
+            "30ª",
+            "40ª semana",
+            "peso"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-024",
+      "topic": "Aplicação: aconselhamento a uma gestante sobre cuidados na fase embrionária",
+      "question": "Uma amiga recém-grávida, ainda no primeiro trimestre de gestação, pergunta por que o médico está sendo tão insistente sobre evitar álcool, certos medicamentos e substâncias durante essas primeiras semanas. Com base no material estudado, explique a ela, de forma clara, por que esse período exige cuidado redobrado.",
+      "modelAnswer": "As primeiras semanas de gestação correspondem à fase embrionária, que vai do 14º dia até a sétima semana. É justamente nesse período que os sistemas mais fundamentais do futuro bebê — o sistema nervoso, o sistema respiratório e o sistema alimentar — se desenvolvem em ritmo mais acelerado. O embrião recebe, pela corrente sanguínea da mãe, todos os nutrientes de que precisa (proteínas, açúcares, vitaminas), mas essa mesma via também transporta substâncias nocivas, como álcool e outras drogas, caso a mãe as consuma. Como os órgãos e sistemas vitais estão, nesse exato momento, em formação inicial, a exposição a substâncias prejudiciais ou a medicamentos usados sem supervisão médica pode interferir diretamente nesse processo, aumentando o risco de má formação, síndromes e deficiências físicas e mentais no bebê. Por isso, embora o cuidado com a saúde deva ser mantido ao longo de toda a gestação, esse cuidado redobrado nas primeiras semanas se justifica pela velocidade e pela importância crítica do que está sendo formado exatamente nesse momento.",
+      "keyPoints": [
+        {
+          "text": "Identifica corretamente a fase embrionária (14 dias a 7 semanas)",
+          "weight": 2,
+          "keywords": [
+            "fase embrionária",
+            "14 dias",
+            "sétima semana"
+          ]
+        },
+        {
+          "text": "Explica que sistema nervoso, respiratório e alimentar se formam mais rápido nessa fase",
+          "weight": 3,
+          "keywords": [
+            "sistema nervoso",
+            "respiratório",
+            "alimentar"
+          ]
+        },
+        {
+          "text": "Explica o mecanismo de transmissão de substâncias nocivas pela corrente sanguínea e o risco de má formação",
+          "weight": 4,
+          "keywords": [
+            "corrente sanguínea",
+            "substâncias nocivas",
+            "má formação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-025",
+      "topic": "As cinco fases do parto normal",
+      "question": "Descreva as cinco fases do parto normal, na ordem em que ocorrem, segundo o material.",
+      "modelAnswer": "O parto normal, segundo o material, se desenvolve em cinco fases sucessivas. A primeira fase é marcada pelo início das contrações, cólicas fortes que começam de maneira leve e vão se tornando menos espaçadas à medida que se aproxima o momento do nascimento. A segunda fase é marcada pela saída do líquido amniótico. Na terceira fase, acontece a dilatação do colo do útero, preparando o canal de passagem para o bebê. A quarta fase é caracterizada pelo período expulsivo do feto, quando o bebê efetivamente nasce. Por fim, a quinta fase é quando ocorre a expulsão da placenta, encerrando o processo do parto. A duração total dessas fases pode variar bastante, principalmente se a mulher for primípara (estiver em sua primeira gestação), podendo a equipe médica utilizar medicamentos como a ocitocina para induzir ou acelerar o processo, quando necessário.",
+      "keyPoints": [
+        {
+          "text": "Descreve as cinco fases na ordem correta",
+          "weight": 6,
+          "keywords": [
+            "contrações",
+            "líquido amniótico",
+            "dilatação",
+            "período expulsivo",
+            "expulsão da placenta"
+          ]
+        },
+        {
+          "text": "Menciona a variação de duração relacionada à primiparidade e o uso de ocitocina",
+          "weight": 3,
+          "keywords": [
+            "primípara",
+            "ocitocina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11-12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-026",
+      "topic": "Parto normal, cesariana e parto humanizado",
+      "question": "Compare o parto normal, o parto cesariana e o parto humanizado, explicando as características de cada um e destacando que o parto humanizado não é uma terceira via de nascimento, mas sim uma abordagem de cuidado.",
+      "modelAnswer": "O parto normal e o parto cesariana são as duas vias possíveis de nascimento: no parto normal, o bebê passa pelo canal vaginal da mulher, geralmente precedido pelas fases de contrações, saída do líquido amniótico, dilatação, período expulsivo e expulsão da placenta; já no parto cesariana, um procedimento cirúrgico, o médico faz um pequeno corte no baixo ventre da mulher e retira o bebê pelo abdômen — podendo ser agendado eletivamente ou indicado em situações de risco, como eclampsia ou placenta prévia. Já o parto humanizado não é uma terceira via de nascimento, mas sim uma abordagem de cuidado que pode ser aplicada tanto ao parto normal quanto à cesariana, realizado em casa ou em ambiente hospitalar: é caracterizado por uma equipe médica preparada e sensível às demandas da mulher, sem uso de medicações para induzir o trabalho de parto nem procedimentos que causem dor ou desconforto desnecessários (como o fórceps, cada vez mais condenado), respeitando a participação do pai ou de familiares e permitindo o acompanhamento de uma doula, profissional que auxilia no alívio das dores e na regulação emocional da parturiente.",
+      "keyPoints": [
+        {
+          "text": "Define parto normal (canal vaginal, fases)",
+          "weight": 3,
+          "keywords": [
+            "parto normal",
+            "canal vaginal"
+          ]
+        },
+        {
+          "text": "Define parto cesariana (procedimento cirúrgico, indicações)",
+          "weight": 3,
+          "keywords": [
+            "cesariana",
+            "procedimento cirúrgico",
+            "eclampsia"
+          ]
+        },
+        {
+          "text": "Explica que o humanizado é uma abordagem de cuidado, não uma terceira via",
+          "weight": 4,
+          "keywords": [
+            "parto humanizado",
+            "abordagem de cuidado",
+            "doula"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11-13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-027",
+      "topic": "Fatores de risco gestacionais relacionados à idade materna",
+      "question": "Explique os riscos associados à idade materna nos extremos (mulheres muito jovens e mulheres com idade mais avançada) durante a gestação, segundo o material.",
+      "modelAnswer": "O material indica que a idade da mulher é um fator relevante que influencia riscos gestacionais, especialmente nos dois extremos etários. Em relação à idade mais avançada, mulheres com mais de 35 anos, quando primíparas (em sua primeira gestação), e mulheres com mais de 40 anos, a partir da segunda gestação, apresentam significativamente mais riscos, como um parto mais longo e riscos ao desenvolvimento da criança. Já no outro extremo, mulheres muito jovens, com menos de 18 anos, também podem enfrentar problemas relacionados à má formação do bebê e apresentar maior dificuldade no momento do parto. Esses dados reforçam a importância do acompanhamento pré-natal individualizado, considerando o perfil de risco de cada gestante, para que intervenções preventivas ou preparatórias possam ser realizadas com antecedência quando necessário.",
+      "keyPoints": [
+        {
+          "text": "Explica o risco em mulheres com mais de 35/40 anos (parto mais longo, riscos ao desenvolvimento)",
+          "weight": 4,
+          "keywords": [
+            "mais de 35 anos",
+            "mais de 40 anos",
+            "parto mais longo"
+          ]
+        },
+        {
+          "text": "Explica o risco em mulheres com menos de 18 anos (má formação, dificuldade no parto)",
+          "weight": 4,
+          "keywords": [
+            "menos de 18 anos",
+            "má formação"
+          ]
+        },
+        {
+          "text": "Relaciona à importância do pré-natal individualizado",
+          "weight": 2,
+          "keywords": [
+            "pré-natal",
+            "acompanhamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-028",
+      "topic": "A importância do pré-natal na detecção precoce de doenças",
+      "question": "Explique a importância do acompanhamento pré-natal na detecção precoce de doenças, citando exemplos de patologias maternas que podem prejudicar o desenvolvimento do feto.",
+      "modelAnswer": "Um bom pré-natal, acompanhado por um médico de confiança, é fundamental para a identificação de muitas doenças que podem ser evitadas ou tratadas se forem precocemente detectadas, já que, se dentro do útero o feto tiver contato com substâncias nocivas ou com alguma doença contraída pela mãe, seus processos de maturação podem sofrer alterações significativas. O material cita exemplos concretos: se a mulher contrair rubéola durante os três primeiros meses de gestação, isso pode fazer com que o bebê nasça com surdez, cegueira ou alguma lesão cerebral. Outras patologias maternas, como diabetes, hipertensão, anemia e sífilis, também podem prejudicar o desenvolvimento do feto. Além disso, o uso de certos medicamentos durante o período gestacional pode causar fenda palatina ou membros incompletos ou ausentes. A identificação precoce dessas condições, por meio do pré-natal, favorece a realização de intervenções que contribuem para um desenvolvimento mais saudável da díade mãe-bebê, além de preparar psicologicamente a mulher caso o bebê apresente alguma das patologias mencionadas.",
+      "keyPoints": [
+        {
+          "text": "Explica a importância geral do pré-natal para detecção precoce",
+          "weight": 3,
+          "keywords": [
+            "pré-natal",
+            "detecção precoce"
+          ]
+        },
+        {
+          "text": "Cita o exemplo da rubéola (surdez, cegueira, lesão cerebral)",
+          "weight": 3,
+          "keywords": [
+            "rubéola",
+            "surdez",
+            "cegueira"
+          ]
+        },
+        {
+          "text": "Cita outras patologias (diabetes, hipertensão, anemia, sífilis) e a fenda palatina por medicamentos",
+          "weight": 3,
+          "keywords": [
+            "diabetes",
+            "hipertensão",
+            "sífilis",
+            "fenda palatina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13-14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-029",
+      "topic": "Método canguru e incubadora: comparação",
+      "question": "Compare o método canguru e a incubadora como recursos de suporte a bebês prematuros, explicando a função de cada um e as vantagens do método canguru destacadas no material.",
+      "modelAnswer": "Tanto a incubadora quanto o método canguru são recursos utilizados para dar suporte a bebês nascidos prematuramente, mas cumprem funções distintas e complementares. A incubadora é um equipamento médico que auxilia, principalmente, na regulação da temperatura corpórea do bebê prematuro, sendo, em alguns casos, decisiva entre a vida e a morte. Já o método canguru segue os mesmos princípios do parto e tratamento humanizado: a mãe coloca o bebê sobre o seu peito e o segura nessa posição por algum tempo, favorecendo a troca de calor emocional e afetivo entre os dois, o que contribui para o fortalecimento e a recuperação do bebê. Entre as vantagens do método canguru destacadas no material estão a boa aceitação por parte de pais e da equipe médica, o baixo custo financeiro e a redução do tempo de internação hospitalar, tornando-o uma excelente alternativa complementar (e não substitutiva) à incubadora para bebês que nasceram prematuros.",
+      "keyPoints": [
+        {
+          "text": "Explica a função da incubadora (regulação de temperatura)",
+          "weight": 3,
+          "keywords": [
+            "incubadora",
+            "temperatura corpórea"
+          ]
+        },
+        {
+          "text": "Explica o método canguru (contato pele a pele, calor emocional e afetivo)",
+          "weight": 3,
+          "keywords": [
+            "método canguru",
+            "peito",
+            "calor emocional"
+          ]
+        },
+        {
+          "text": "Cita as vantagens do método canguru (aceitação, custo, tempo de internação)",
+          "weight": 3,
+          "keywords": [
+            "baixo custo",
+            "redução do tempo de internação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-030",
+      "topic": "Evolução histórica das práticas de parto",
+      "question": "Descreva como as práticas envolvendo o trabalho de parto mudaram ao longo do tempo, segundo o material, e explique o que motivou parte dessas mudanças.",
+      "modelAnswer": "A experiência da mulher no trabalho de parto e as práticas que a envolvem sofreram muitas mudanças ao longo dos anos. Até o século XIX, era mais comum que o nascimento das crianças ocorresse em suas próprias casas, com o auxílio de parteiras, familiares e pessoas próximas à gestante. Mais recentemente, sobretudo entre mulheres que residem em zonas urbanizadas, tornou-se mais comum procurar maternidades para a realização do parto. O material aponta que, embora o parto seja um processo natural e próprio da nossa espécie, uma supervalorização dos saberes médicos nas últimas décadas fez com que muitos procedimentos fossem criados com finalidades variadas — o que favoreceu, por exemplo, o aumento do número de partos hospitalares do tipo cesariana, originalmente desenvolvida para reduzir a mortalidade materna e infantil, mas hoje utilizada, em alguns casos, para além de suas indicações originais de risco. Esse movimento também gerou, mais recentemente, um contramovimento em direção ao parto humanizado, buscando reequilibrar o protagonismo da mulher e reduzir intervenções desnecessárias no processo do nascimento.",
+      "keyPoints": [
+        {
+          "text": "Descreve o parto domiciliar até o século XIX com parteiras",
+          "weight": 3,
+          "keywords": [
+            "século XIX",
+            "parteiras",
+            "casa"
+          ]
+        },
+        {
+          "text": "Descreve a transição para maternidades em zonas urbanizadas",
+          "weight": 2,
+          "keywords": [
+            "maternidades",
+            "zonas urbanizadas"
+          ]
+        },
+        {
+          "text": "Explica a supervalorização dos saberes médicos e o aumento de cesarianas, e o contramovimento humanizado",
+          "weight": 4,
+          "keywords": [
+            "supervalorização",
+            "saberes médicos",
+            "parto humanizado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-031",
+      "topic": "Fatores de risco associados à pobreza na gestação",
+      "question": "Explique de que forma a pobreza pode representar um fator de risco durante a gestação, segundo o material estudado.",
+      "modelAnswer": "A pobreza é citada no material como um fator de risco gestacional relevante, principalmente por expor algumas mulheres à má nutrição durante a gravidez. Essa má nutrição materna pode levar a um baixo ganho de peso do bebê ao longo da gestação, comprometendo seu desenvolvimento e aumentando as chances de um nascimento com peso inferior ao esperado (podendo, inclusive, se aproximar do critério de prematuridade, definido como peso inferior a 2,5kg). De forma mais ampla, o material relaciona a pobreza a um conjunto maior de fatores que, combinados, podem afetar negativamente a gestação e o parto: má nutrição, dificuldades de acesso a acompanhamento pré-natal adequado, exposição a condições de estresse e, em alguns contextos, dificuldade de acesso a cuidados médicos especializados em caso de complicações. Assim, a pobreza não atua isoladamente, mas potencializa outros fatores de risco já discutidos, reforçando a importância de políticas públicas de saúde que garantam acesso equitativo ao pré-natal e à nutrição adequada durante a gestação.",
+      "keyPoints": [
+        {
+          "text": "Explica a relação entre pobreza e má nutrição materna",
+          "weight": 4,
+          "keywords": [
+            "pobreza",
+            "má nutrição"
+          ]
+        },
+        {
+          "text": "Explica a consequência (baixo ganho de peso do bebê)",
+          "weight": 3,
+          "keywords": [
+            "baixo ganho de peso",
+            "bebê"
+          ]
+        },
+        {
+          "text": "Relaciona a pobreza a outros fatores de risco combinados",
+          "weight": 3,
+          "keywords": [
+            "fatores de risco",
+            "combinados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-032",
+      "topic": "O apego e o investimento parental nas primeiras horas de vida",
+      "question": "Explique como o apego e o investimento parental começam a se constituir nas primeiras horas após o parto, segundo o material.",
+      "modelAnswer": "Segundo o material, ainda durante a gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno após o nascimento do filho. Já nas primeiras horas após o parto, ocorre uma aproximação entre mãe e bebê que contribui diretamente para o desenvolvimento do apego. Esse apego e o investimento parental constituem uma relação de proximidade construída por meio dos sinais emitidos pelo bebê (como o choro, os movimentos e, posteriormente, o sorriso) e da resposta dada por seus cuidadores a esses sinais — um processo de comunicação bidirecional em que comportamentos decisivos para a construção dos vínculos afetivos vão sendo manifestados desde os primeiros momentos de vida. Essa relação inicial de proximidade é considerada fundamental, pois lança as bases para o desenvolvimento emocional e social do bebê nos anos seguintes.",
+      "keyPoints": [
+        {
+          "text": "Explica que a relação começa a ser preparada ainda na gestação",
+          "weight": 2,
+          "keywords": [
+            "gestação",
+            "preparar"
+          ]
+        },
+        {
+          "text": "Explica a aproximação nas primeiras horas após o parto e sua contribuição para o apego",
+          "weight": 4,
+          "keywords": [
+            "primeiras horas",
+            "apego"
+          ]
+        },
+        {
+          "text": "Explica que o apego se constrói por sinais do bebê e respostas dos cuidadores",
+          "weight": 4,
+          "keywords": [
+            "sinais",
+            "resposta",
+            "cuidadores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-033",
+      "topic": "Aplicação: orientação a uma gestante ansiosa sobre o parto",
+      "question": "Uma gestante relata forte ansiedade em relação ao parto, com medo intenso da dor e das intervenções médicas. Com base no material estudado, explique quais orientações poderiam ajudá-la a viver essa experiência de forma mais positiva e segura.",
+      "modelAnswer": "Segundo o material, os estados emocionais da mulher e a percepção que ela tem acerca do parto podem afetá-la diretamente nesse momento; mulheres que apresentam estresse ao longo da gravidez podem, inclusive, ter mais dificuldade na hora do parto em decorrência da alta tensão. Para que o parto seja uma experiência mais positiva e sem traumas, o material sugere que é necessário que a mulher tenha consciência do que está prestes a passar — conversar com o médico responsável e com outras mulheres que estejam vivenciando ou já vivenciaram o mesmo momento pode ajudar a reduzir a ansiedade. O acompanhamento regular do bebê ao longo de toda a gestação, por meio do pré-natal, também traz mais segurança para o momento do parto. Além disso, a gestante pode considerar as opções relacionadas ao parto humanizado, que envolve uma equipe médica sensível às suas demandas, evita procedimentos desnecessários que possam causar dor ou desconforto adicional, e permite o acompanhamento de uma doula, profissional preparada especificamente para auxiliar no alívio das dores e na regulação emocional da parturiente durante todo o processo.",
+      "keyPoints": [
+        {
+          "text": "Explica a relação entre estresse/ansiedade e maior dificuldade no parto",
+          "weight": 3,
+          "keywords": [
+            "estresse",
+            "ansiedade",
+            "dificuldade"
+          ]
+        },
+        {
+          "text": "Sugere conversar com médico e outras gestantes, e o acompanhamento pré-natal",
+          "weight": 3,
+          "keywords": [
+            "conversar",
+            "pré-natal",
+            "consciência"
+          ]
+        },
+        {
+          "text": "Sugere considerar o parto humanizado e a doula como apoio",
+          "weight": 4,
+          "keywords": [
+            "parto humanizado",
+            "doula"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-034",
+      "topic": "Cesariana: indicações médicas versus escolha eletiva",
+      "question": "Diferencie as duas situações em que um parto cesariana pode ocorrer segundo o material: por agendamento eletivo e por indicação médica de risco, explicando exemplos de cada uma.",
+      "modelAnswer": "O material distingue duas circunstâncias principais em que um parto cesariana pode ocorrer. Na primeira, algumas mulheres agendam o procedimento diretamente com seus médicos, optando por essa via sem passar pelo processo natural do corpo que envolveria as contrações do trabalho de parto — trata-se, nesse caso, de uma escolha eletiva. Na segunda situação, outras mulheres são encaminhadas para uma cesariana porque encontram alguma dificuldade para ter o bebê de maneira natural, ou porque há chance de risco de complicações ou morte para a mãe ou para o bebê — como no caso de mulheres que desenvolvem eclampsia (uma complicação grave de pressão arterial na gestação) ou placenta prévia (quando a placenta se posiciona de forma a obstruir o canal de parto). Enquanto a primeira situação envolve uma decisão programada, sem urgência clínica direta, a segunda representa uma indicação médica necessária diante de um risco real identificado durante o acompanhamento da gestação ou do próprio trabalho de parto.",
+      "keyPoints": [
+        {
+          "text": "Explica a cesariana eletiva (agendada, sem passar pelas contrações)",
+          "weight": 3,
+          "keywords": [
+            "agendam",
+            "eletiva",
+            "sem contrações"
+          ]
+        },
+        {
+          "text": "Explica a cesariana por indicação de risco/dificuldade",
+          "weight": 3,
+          "keywords": [
+            "dificuldade",
+            "risco",
+            "encaminhadas"
+          ]
+        },
+        {
+          "text": "Cita exemplos de risco (eclampsia, placenta prévia) e explica cada um",
+          "weight": 4,
+          "keywords": [
+            "eclampsia",
+            "placenta prévia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -2136,6 +4275,601 @@
       },
       "subject": "Idade adulta e terceira idade",
       "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-016",
+      "topic": "Concepção e período pré-natal",
+      "question": "O que é necessário para que uma relação sexual resulte em concepção?",
+      "modelAnswer": "É preciso que a mulher esteja no período fértil ou tenha liberado o óvulo, que homem e mulher estejam saudáveis, e que não tenha sido usado nenhum método contraceptivo.",
+      "keyPoints": [
+        {
+          "text": "Cita o período fértil e a saúde de ambos",
+          "weight": 3,
+          "keywords": [
+            "período fértil",
+            "saudáveis"
+          ]
+        },
+        {
+          "text": "Cita a ausência de método contraceptivo",
+          "weight": 3,
+          "keywords": [
+            "método contraceptivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "O que é necessário para que uma relação sexual resulte em concepção? É preciso que a mulher esteja no período fértil ou tenha liberado o óvulo, que homem e mulher estejam saudáveis, e que não tenha sido usado nenhum método contraceptivo."
+    },
+    {
+      "id": "desenv-oral-017",
+      "topic": "Concepção e período pré-natal",
+      "question": "O que já fica determinado geneticamente no momento da fecundação?",
+      "modelAnswer": "A cor dos olhos, o sexo e a cor do cabelo, entre outras características, por uma sequência hereditária, sem interferência de fatores externos.",
+      "keyPoints": [
+        {
+          "text": "Cita exemplos corretos (cor dos olhos, sexo, cabelo)",
+          "weight": 3,
+          "keywords": [
+            "cor dos olhos",
+            "sexo"
+          ]
+        },
+        {
+          "text": "Menciona que é hereditário, sem influência externa",
+          "weight": 3,
+          "keywords": [
+            "hereditária",
+            "sem interferência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "O que já fica determinado geneticamente no momento da fecundação? A cor dos olhos, o sexo e a cor do cabelo, entre outras características, por uma sequência hereditária, sem interferência de fatores externos."
+    },
+    {
+      "id": "desenv-oral-018",
+      "topic": "Concepção e período pré-natal",
+      "question": "Quanto tempo dura a fase embrionária?",
+      "modelAnswer": "Do 14º dia até a sétima semana de gestação.",
+      "keyPoints": [
+        {
+          "text": "Indica corretamente o início (14º dia) e o fim (sétima semana)",
+          "weight": 6,
+          "keywords": [
+            "14º dia",
+            "sétima semana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Quanto tempo dura a fase embrionária? Do 14º dia até a sétima semana de gestação."
+    },
+    {
+      "id": "desenv-oral-019",
+      "topic": "Concepção e período pré-natal",
+      "question": "O que acontece por volta da oitava semana que marca a transição de embrião para feto?",
+      "modelAnswer": "O saco vitelino perde sua função, e os nutrientes da mãe passam a ser repassados pelo cordão umbilical.",
+      "keyPoints": [
+        {
+          "text": "Menciona o saco vitelino perdendo a função",
+          "weight": 3,
+          "keywords": [
+            "saco vitelino"
+          ]
+        },
+        {
+          "text": "Menciona o cordão umbilical assumindo a função",
+          "weight": 3,
+          "keywords": [
+            "cordão umbilical"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "O que acontece por volta da oitava semana que marca a transição de embrião para feto? O saco vitelino perde sua função, e os nutrientes da mãe passam a ser repassados pelo cordão umbilical."
+    },
+    {
+      "id": "desenv-oral-020",
+      "topic": "Concepção e período pré-natal",
+      "question": "A partir de qual semana os órgãos sexuais do feto começam a ficar visíveis?",
+      "modelAnswer": "Por volta da 12ª semana de gestação.",
+      "keyPoints": [
+        {
+          "text": "Indica a 12ª semana corretamente",
+          "weight": 6,
+          "keywords": [
+            "12ª semana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "A partir de qual semana os órgãos sexuais do feto começam a ficar visíveis? Por volta da 12ª semana de gestação."
+    },
+    {
+      "id": "desenv-oral-021",
+      "topic": "Concepção e período pré-natal",
+      "question": "A partir de qual semana de gestação um nascimento prematuro passa a ter alguma chance de sobrevivência com cuidados médicos?",
+      "modelAnswer": "A partir da 28ª semana de gestação, quando os sistemas nervoso, circulatório e respiratório já estão maduros o suficiente.",
+      "keyPoints": [
+        {
+          "text": "Indica a 28ª semana",
+          "weight": 3,
+          "keywords": [
+            "28ª semana"
+          ]
+        },
+        {
+          "text": "Menciona a maturidade dos sistemas nervoso, circulatório e respiratório",
+          "weight": 3,
+          "keywords": [
+            "sistema nervoso",
+            "circulatório",
+            "respiratório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "A partir de qual semana de gestação um nascimento prematuro passa a ter alguma chance de sobrevivência com cuidados médicos? A partir da 28ª semana de gestação, quando os sistemas nervoso, circulatório e respiratório já estão maduros o suficiente."
+    },
+    {
+      "id": "desenv-oral-022",
+      "topic": "Concepção e período pré-natal",
+      "question": "Qual o peso e comprimento médio de um bebê na 40ª semana de gestação?",
+      "modelAnswer": "Peso médio de 3,4kg e comprimento de 50cm.",
+      "keyPoints": [
+        {
+          "text": "Indica o peso corretamente (3,4kg)",
+          "weight": 3,
+          "keywords": [
+            "3,4kg"
+          ]
+        },
+        {
+          "text": "Indica o comprimento corretamente (50cm)",
+          "weight": 3,
+          "keywords": [
+            "50cm"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Qual o peso e comprimento médio de um bebê na 40ª semana de gestação? Peso médio de 3,4kg e comprimento de 50cm."
+    },
+    {
+      "id": "desenv-oral-023",
+      "topic": "Concepção e período pré-natal",
+      "question": "Qual o critério de peso utilizado para definir a prematuridade de um bebê?",
+      "modelAnswer": "Peso inferior a 2,5kg ao nascer, quando o bebê pode depender de tratamentos especiais.",
+      "keyPoints": [
+        {
+          "text": "Indica o valor correto (2,5kg)",
+          "weight": 6,
+          "keywords": [
+            "2,5kg"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "6"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo",
+      "miniLesson": "Qual o critério de peso utilizado para definir a prematuridade de um bebê? Peso inferior a 2,5kg ao nascer, quando o bebê pode depender de tratamentos especiais."
+    },
+    {
+      "id": "desenv-oral-024",
+      "topic": "Concepção e período pré-natal",
+      "question": "O que a ultrassonografia é capaz de identificar em relação às expressões do feto, segundo estudos citados no material?",
+      "modelAnswer": "É capaz de identificar o sorriso e o choro do bebê, a partir de imagens das suas expressões faciais.",
+      "keyPoints": [
+        {
+          "text": "Menciona o sorriso e o choro",
+          "weight": 3,
+          "keywords": [
+            "sorriso",
+            "choro"
+          ]
+        },
+        {
+          "text": "Menciona a origem via expressões faciais/ultrassonografia",
+          "weight": 3,
+          "keywords": [
+            "expressões faciais",
+            "ultrassonografia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "O que a ultrassonografia é capaz de identificar em relação às expressões do feto, segundo estudos citados no material? É capaz de identificar o sorriso e o choro do bebê, a partir de imagens das suas expressões faciais."
+    },
+    {
+      "id": "desenv-oral-025",
+      "topic": "Concepção e período pré-natal",
+      "question": "O que significa dizer que o bebê recebe um 'banho de cultura' após o nascimento?",
+      "modelAnswer": "Significa que tudo o que ele experimentará estará relacionado ao ambiente sociocultural e ao modo de vida em que for inserido, envolvendo linguagem, crenças e valores.",
+      "keyPoints": [
+        {
+          "text": "Explica a relação com o ambiente sociocultural",
+          "weight": 3,
+          "keywords": [
+            "ambiente sociocultural",
+            "modo de vida"
+          ]
+        },
+        {
+          "text": "Cita elementos transmitidos (linguagem, crenças, valores)",
+          "weight": 3,
+          "keywords": [
+            "linguagem",
+            "crenças",
+            "valores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "7"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "medio",
+      "miniLesson": "O que significa dizer que o bebê recebe um 'banho de cultura' após o nascimento? Significa que tudo o que ele experimentará estará relacionado ao ambiente sociocultural e ao modo de vida em que for inserido, envolvendo linguagem, crenças e valores."
+    },
+    {
+      "id": "desenv-oral-026",
+      "topic": "Parto e período perinatal",
+      "question": "Quais são as duas possibilidades de realização do parto?",
+      "modelAnswer": "O parto normal, em que o bebê passa pelo canal vaginal, e o parto cesariana, um procedimento cirúrgico em que o bebê é retirado por um corte no abdômen.",
+      "keyPoints": [
+        {
+          "text": "Cita o parto normal corretamente",
+          "weight": 3,
+          "keywords": [
+            "parto normal",
+            "canal vaginal"
+          ]
+        },
+        {
+          "text": "Cita o parto cesariana corretamente",
+          "weight": 3,
+          "keywords": [
+            "cesariana",
+            "cirúrgico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as duas possibilidades de realização do parto? O parto normal, em que o bebê passa pelo canal vaginal, e o parto cesariana, um procedimento cirúrgico em que o bebê é retirado por um corte no abdômen."
+    },
+    {
+      "id": "desenv-oral-027",
+      "topic": "Parto e período perinatal",
+      "question": "Quais são as cinco fases do parto normal?",
+      "modelAnswer": "Início das contrações, saída do líquido amniótico, dilatação do colo do útero, período expulsivo do feto e expulsão da placenta.",
+      "keyPoints": [
+        {
+          "text": "Nomeia as cinco fases corretamente e na ordem",
+          "weight": 6,
+          "keywords": [
+            "contrações",
+            "líquido amniótico",
+            "dilatação",
+            "expulsivo",
+            "placenta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as cinco fases do parto normal? Início das contrações, saída do líquido amniótico, dilatação do colo do útero, período expulsivo do feto e expulsão da placenta."
+    },
+    {
+      "id": "desenv-oral-028",
+      "topic": "Parto e período perinatal",
+      "question": "O que é a ocitocina e para que é usada no trabalho de parto?",
+      "modelAnswer": "É um medicamento que pode ser usado pela equipe médica para induzir ou acelerar o trabalho de parto.",
+      "keyPoints": [
+        {
+          "text": "Identifica a ocitocina como medicamento",
+          "weight": 3,
+          "keywords": [
+            "medicamento",
+            "ocitocina"
+          ]
+        },
+        {
+          "text": "Explica a função (induzir ou acelerar o parto)",
+          "weight": 3,
+          "keywords": [
+            "induzir",
+            "acelerar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "12"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a ocitocina e para que é usada no trabalho de parto? É um medicamento que pode ser usado pela equipe médica para induzir ou acelerar o trabalho de parto."
+    },
+    {
+      "id": "desenv-oral-029",
+      "topic": "Parto e período perinatal",
+      "question": "Em quais situações uma cesariana costuma ser indicada por risco médico?",
+      "modelAnswer": "Quando há risco de complicações ou morte para a mãe ou o bebê, como em casos de eclampsia ou placenta prévia.",
+      "keyPoints": [
+        {
+          "text": "Menciona o risco de complicações/morte",
+          "weight": 3,
+          "keywords": [
+            "risco",
+            "complicações"
+          ]
+        },
+        {
+          "text": "Cita exemplos (eclampsia, placenta prévia)",
+          "weight": 3,
+          "keywords": [
+            "eclampsia",
+            "placenta prévia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Em quais situações uma cesariana costuma ser indicada por risco médico? Quando há risco de complicações ou morte para a mãe ou o bebê, como em casos de eclampsia ou placenta prévia."
+    },
+    {
+      "id": "desenv-oral-030",
+      "topic": "Parto e período perinatal",
+      "question": "O que é o fórceps e qual a tendência atual em relação ao seu uso?",
+      "modelAnswer": "É um instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar o nascimento; seu uso tem sido cada vez mais condenado.",
+      "keyPoints": [
+        {
+          "text": "Define o fórceps corretamente",
+          "weight": 3,
+          "keywords": [
+            "instrumento",
+            "vagina",
+            "cabeça"
+          ]
+        },
+        {
+          "text": "Menciona que seu uso é cada vez mais condenado",
+          "weight": 3,
+          "keywords": [
+            "condenado",
+            "cada vez menos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "O que é o fórceps e qual a tendência atual em relação ao seu uso? É um instrumento introduzido na vagina e posicionado na cabeça do bebê para acelerar o nascimento; seu uso tem sido cada vez mais condenado."
+    },
+    {
+      "id": "desenv-oral-031",
+      "topic": "Parto e período perinatal",
+      "question": "O que é uma doula?",
+      "modelAnswer": "É uma profissional preparada para dar apoio à parturiente no alívio das dores e na regulação emocional durante o parto humanizado.",
+      "keyPoints": [
+        {
+          "text": "Define a função da doula (apoio no alívio das dores)",
+          "weight": 3,
+          "keywords": [
+            "apoio",
+            "dores"
+          ]
+        },
+        {
+          "text": "Menciona a regulação emocional da parturiente",
+          "weight": 3,
+          "keywords": [
+            "regulação emocional",
+            "parturiente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "O que é uma doula? É uma profissional preparada para dar apoio à parturiente no alívio das dores e na regulação emocional durante o parto humanizado."
+    },
+    {
+      "id": "desenv-oral-032",
+      "topic": "Parto e período perinatal",
+      "question": "Quais patologias maternas podem prejudicar o desenvolvimento do feto, segundo o material?",
+      "modelAnswer": "Rubéola (nos três primeiros meses), diabetes, hipertensão, anemia e sífilis.",
+      "keyPoints": [
+        {
+          "text": "Cita a rubéola",
+          "weight": 3,
+          "keywords": [
+            "rubéola"
+          ]
+        },
+        {
+          "text": "Cita ao menos duas outras patologias (diabetes, hipertensão, anemia, sífilis)",
+          "weight": 3,
+          "keywords": [
+            "diabetes",
+            "hipertensão",
+            "sífilis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Quais patologias maternas podem prejudicar o desenvolvimento do feto, segundo o material? Rubéola (nos três primeiros meses), diabetes, hipertensão, anemia e sífilis."
+    },
+    {
+      "id": "desenv-oral-033",
+      "topic": "Parto e período perinatal",
+      "question": "O que a incubadora auxilia a regular em bebês prematuros?",
+      "modelAnswer": "A temperatura corpórea do bebê nascido prematuramente.",
+      "keyPoints": [
+        {
+          "text": "Indica a regulação da temperatura corpórea",
+          "weight": 6,
+          "keywords": [
+            "temperatura corpórea"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "O que a incubadora auxilia a regular em bebês prematuros? A temperatura corpórea do bebê nascido prematuramente."
+    },
+    {
+      "id": "desenv-oral-034",
+      "topic": "Parto e período perinatal",
+      "question": "Em que consiste o método canguru?",
+      "modelAnswer": "A mãe coloca o bebê sobre o seu peito e o segura nessa posição, favorecendo a troca de calor emocional e afetivo entre os dois.",
+      "keyPoints": [
+        {
+          "text": "Descreve o contato pele a pele no peito da mãe",
+          "weight": 3,
+          "keywords": [
+            "peito",
+            "segura"
+          ]
+        },
+        {
+          "text": "Menciona a troca de calor emocional e afetivo",
+          "weight": 3,
+          "keywords": [
+            "calor emocional",
+            "afetivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo",
+      "miniLesson": "Em que consiste o método canguru? A mãe coloca o bebê sobre o seu peito e o segura nessa posição, favorecendo a troca de calor emocional e afetivo entre os dois."
+    },
+    {
+      "id": "desenv-oral-035",
+      "topic": "Parto e período perinatal",
+      "question": "Como a pobreza pode afetar negativamente a gestação?",
+      "modelAnswer": "Expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê.",
+      "keyPoints": [
+        {
+          "text": "Menciona a má nutrição",
+          "weight": 3,
+          "keywords": [
+            "má nutrição"
+          ]
+        },
+        {
+          "text": "Menciona o baixo ganho de peso do bebê",
+          "weight": 3,
+          "keywords": [
+            "baixo ganho de peso"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "14"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio",
+      "miniLesson": "Como a pobreza pode afetar negativamente a gestação? Expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê."
     }
   ]
 }
