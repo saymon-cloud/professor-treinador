@@ -1,0 +1,1806 @@
+{
+  "discipline": "As Teorias Cognitivo-Comportamentais",
+  "objective": [
+    {
+      "id": "tcc-obj-001",
+      "topic": "Propriedades dos reflexos",
+      "question": "Os reflexos apresentam muitas propriedades diferentes e, uma delas, é a do limiar do estímulo, que pode ser definida como",
+      "options": {
+        "a": "a capacidade de se gerar associações comportamentais.",
+        "b": "a intensidade mínima a partir da qual um dado estímulo elicia uma resposta.",
+        "c": "medida inversamente proporcional à intensidade do estímulo que elicia a resposta.",
+        "d": "consequência que aumenta as chances de uma resposta ocorrer novamente.",
+        "e": "quanto maior a intensidade do estímulo, maior será a magnitude da resposta."
+      },
+      "correct": "b",
+      "explanation": "Segundo a lei do limiar, todo reflexo depende de uma intensidade mínima do estímulo para que haja eliciação da resposta. Exemplo: para que a atenção de uma pessoa seja direcionada a um determinado som, é preciso que o estímulo sonoro seja gerado com uma frequência maior ou igual a 20Hz.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "12-13"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-002",
+      "topic": "Condicionamento respondente (Watson)",
+      "question": "O behaviorismo metodológico de John Watson preconiza que respostas emocionais, tais como o medo, são aprendidas ao longo da vida. João trabalhava num escritório no 21º andar e usava o elevador todos os dias. Certa vez, o elevador parou no meio do caminho, suas luzes se apagaram e ele caiu três andares, sentindo-se aterrorizado. Semanas depois, o evento traumático se repetiu, com o elevador lotado ficando desligado por quase uma hora, gerando reação de medo ainda mais intensa. Depois disso, ao entrar num elevador, João passou a ter respiração ofegante, coração acelerado, mãos suadas e pensamentos catastróficos. Com base no texto, é correto afirmar que:",
+      "options": {
+        "a": "O elevador é o estímulo incondicionado e as reações fisiológicas são o estímulo condicionado.",
+        "b": "O medo que João sentiu é irracional, portanto, não participa do condicionamento.",
+        "c": "As reações fisiológicas (sudorese, taquicardia, falta de ar e tremores) são o estímulo condicionado.",
+        "d": "O elevador é o estímulo neutro e as reações fisiológicas são a resposta incondicionada.",
+        "e": "O medo é o estímulo condicionado e o elevador é o estímulo incondicionado."
+      },
+      "correct": "d",
+      "explanation": "O elevador é o estímulo neutro, já que não é esperado gerar automática e naturalmente uma resposta de medo. Os acidentes (eventos traumáticos) representam os estímulos incondicionados, que disparam reações fisiológicas de medo (resposta incondicionada). Como todas as vezes que isso aconteceu João estava no elevador, houve um emparelhamento, tornando o elevador um estímulo condicionado e as reações fisiológicas, as respostas condicionadas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "13-14"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-003",
+      "topic": "Reforço e extinção operante",
+      "question": "Júlio sempre foi um jovem sedentário, preferindo jogar videogame a se exercitar. Após recomendação médica, matriculou-se numa academia e, já nos primeiros dias, sentiu-se muito bem com os exercícios, passando a frequentá-la todos os dias, com melhora de ânimo e bem-estar. Meses depois, recebeu uma proposta de trabalho distante de casa, o que fez com que reduzisse drasticamente as idas à academia, sentindo-se sempre cansado e com preguiça de sair. Com base no texto, assinale a alternativa correta.",
+      "options": {
+        "a": "A academia é o estímulo neutro e os exercícios são uma forma de reforço negativo.",
+        "b": "O bem-estar gerado pelos exercícios é o reforço positivo, e a redução da frequência de idas à academia é a extinção operante.",
+        "c": "A academia é o reforço negativo.",
+        "d": "Os resultados físicos do exercício atuam como a extinção operante.",
+        "e": "O trabalho é o reforço positivo para o hábito de fazer ginástica."
+      },
+      "correct": "b",
+      "explanation": "Júlio se sentiu bem fazendo os exercícios físicos, e isso o reforçou a aumentar a frequência desse comportamento. No entanto, ao assumir o novo trabalho, houve uma diminuição progressiva das idas à academia, o que consequentemente iniciou um processo de extinção operante.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "27-28"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-004",
+      "topic": "Punição negativa",
+      "question": "Marina conversou muito ao telefone e a conta chegou exorbitante. Por esse motivo, seu pai proibiu que ela jogasse videogame. Triste com a decisão do pai, Marina parou de ficar horas ao telefone. No que diz respeito ao comportamento de falar ao telefone, não poder jogar videogame funcionou como",
+      "options": {
+        "a": "punição positiva.",
+        "b": "reforçamento positivo.",
+        "c": "reforçamento negativo.",
+        "d": "punição negativa.",
+        "e": "reforçamento punitivo."
+      },
+      "correct": "d",
+      "explanation": "O pai retirou um reforçador importante do ambiente (o videogame) com o intuito de reduzir um determinado comportamento (falar muito ao telefone), o que caracteriza uma punição negativa.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "28-29"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-005",
+      "topic": "Bases filosóficas do behaviorismo",
+      "question": "Quanto aos postulados filosóficos que sustentam a cientifização da Psicologia, aquele que alega a existência de um único universo físico da matéria e da energia, onde tudo ocorre e que pode ser investigado pelas capacidades sensoriais humanas, diretas ou com auxílio de instrumentos, é o",
+      "options": {
+        "a": "monismo",
+        "b": "ambientalismo",
+        "c": "interacionismo",
+        "d": "selecionismo",
+        "e": "antimentalismo"
+      },
+      "correct": "a",
+      "explanation": "O próprio conceito de existência depende de propriedades físicas para ser localizado no tempo e espaço, portanto acessível para ser encontrado e afirmado. A alternativa b trata do que configura uma estimulação comportamental, enquanto c e d se referem aos processos pelos quais os comportamentos ocorrem, variam e são mantidos por seus efeitos. A alternativa e é a rejeição de construtos internos para explicar as atividades humanas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "13"
+      },
+      "subject": "Bases filosóficas do behaviorismo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-006",
+      "topic": "Filogênese, ontogênese e sociogênese",
+      "question": "Quando buscamos cientificamente os determinantes da variabilidade comportamental humana, há três possibilidades de campos investigativos. Assinale a alternativa correta.",
+      "options": {
+        "a": "A maturação cronológica; a maturação biológica; o surgimento de aptidões cognitivas superiores.",
+        "b": "O inconsciente; o dinamismo psíquico do id, ego e superego; forças arquetípicas do inconsciente coletivo.",
+        "c": "Base biológica da espécie derivada de sua herança genética, chamada de filogênese; a evolução do comportamento no nível individual, chamada de ontogênese; a evolução do comportamento no nível social, chamada de sociogênese.",
+        "d": "As fases do desenvolvimento de Piaget; as fases do desenvolvimento de Vygotsky; as fases do desenvolvimento de Wallon.",
+        "e": "As emoções; os pensamentos; as ações."
+      },
+      "correct": "c",
+      "explanation": "Somente na genética dos organismos e no seu histórico ambiental individual e coletivo podemos encontrar as origens dos comportamentos humanos. A opção a apela para falácias de emergência espontânea. A opção b apresenta mentalismos pré-científicos rejeitados pelo behaviorismo. A opção d refere-se a teorias do desenvolvimento. A opção e refere-se aos próprios processos comportamentais, não a determinantes causais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "13-14"
+      },
+      "subject": "Filogênese, ontogênese e sociogênese",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-007",
+      "topic": "Condicionamento respondente e memória",
+      "question": "Uma pessoa pode não lembrar ou não saber descrever quando ou como aprendeu um comportamento. Nesse caso, é correto afirmar que:",
+      "options": {
+        "a": "O fato de não lembrar pode suspender os efeitos do condicionamento.",
+        "b": "Ainda assim, somente novas experiências com esses estímulos poderão gerar modificações na relação condicionada.",
+        "c": "Especificamente os respondentes dependem das operações cognitivas conscientes.",
+        "d": "Se a pessoa não lembrar, o pareamento funcionará somente parcialmente com a passagem do tempo.",
+        "e": "Todas as experiências podem ser lembradas porque estão guardadas no subconsciente."
+      },
+      "correct": "b",
+      "explanation": "A pessoa não lembrar não anula a influência dos princípios sobre os comportamentos dela. Respondentes podem ser condicionados diretamente pela operação do pareamento, sem nenhum tipo de racionalização consciente. A opção e apela a mentalismos, sendo rejeitável pela ciência do comportamento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "24-25"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-008",
+      "topic": "Leis do comportamento respondente",
+      "question": "Sobre as leis que regem os comportamentos respondentes, é correto dizer:",
+      "options": {
+        "a": "A lei do limiar descreve que quanto maior a intensidade do estímulo, menor o intervalo de eliciação.",
+        "b": "A lei da intensidade-magnitude estabelece que um estímulo precisa alcançar uma intensidade mínima para que a resposta seja eliciada.",
+        "c": "A lei da latência descreve que a magnitude da resposta é proporcional à intensidade do estímulo.",
+        "d": "A lei da cognição emocional estabelece que a qualidade dos pensamentos é fundamental para um pareamento consistente.",
+        "e": "Habituação e sensibilização operam quando o organismo é exposto continuamente ao mesmo estímulo."
+      },
+      "correct": "e",
+      "explanation": "Quando um respondente é continuamente eliciado, sua resposta será potenciada (sensibilização) ou atenuada (habituação). A opção a descreve, na verdade, a lei da latência; a b define a lei do limiar; e a c caracteriza a lei da intensidade-magnitude. A opção d não corresponde a nenhum conceito teórico apresentado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "25-26"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-009",
+      "topic": "Modelagem e seleção por consequências",
+      "question": "O processo de desenvolvimento comportamental análogo à evolução biológica, no qual as variações de movimentos produzem efeitos que resultarão na seleção e manutenção daqueles que são favoráveis ao organismo em substituição aos desfavoráveis, em um contínuo de maior refinamento e expansão, corresponde ao conceito de",
+      "options": {
+        "a": "reforçamento positivo.",
+        "b": "reforçamento negativo.",
+        "c": "punição positiva.",
+        "d": "punição negativa.",
+        "e": "modelagem."
+      },
+      "correct": "e",
+      "explanation": "A aquisição gradual de um comportamento durante interações formativas é a modelagem, expressa corretamente na alternativa e. As demais alternativas retratam apenas as consequências sob as quais as variações e seleções ocorrem: adições ou subtrações favoráveis ao organismo (opções a e b), ou adições e subtrações desfavoráveis (opções c e d).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "35-36"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-010",
+      "topic": "Antecedentes do comportamento operante",
+      "question": "Quando mapeamos cientificamente os antecedentes que evocam comportamentos operantes, três variáveis principais podem ser identificadas:",
+      "options": {
+        "a": "Estímulos incondicionados; estímulos condicionados e estímulos neutros.",
+        "b": "Estímulos discriminativos; controle por regras; operações estabelecedoras.",
+        "c": "Reforçamentos; punições; frustrações.",
+        "d": "Modelagens naturais; modelagens artificiais; modelagens programadas.",
+        "e": "Esquemas de razão; esquemas de intervalo; esquemas de duração."
+      },
+      "correct": "b",
+      "explanation": "Somente a letra b apresenta antecedentes dos comportamentos operantes. Na alternativa a estão listados antecedentes dos respondentes, enquanto as opções c e e trazem variáveis consequentes. A alternativa d retrata o processo de evolução operante por intermédio da seleção por consequências, e não um antecedente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "36"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-011",
+      "topic": "Processos cognitivos básicos",
+      "question": "O processo cognitivo que ocorre de modo reflexo à estimulação ambiental é chamado de",
+      "options": {
+        "a": "sensação.",
+        "b": "atenção.",
+        "c": "percepção.",
+        "d": "memória.",
+        "e": "aprendizagem."
+      },
+      "correct": "a",
+      "explanation": "A porta de entrada para as experiências e interações humanas são as sensações do mundo ao redor. Por serem processos automáticos (reflexos) do corpo, não requerem maior complexidade e elaboração, sendo um dos poucos processos cognitivos que compartilhamos com outros animais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "7-8"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-012",
+      "topic": "Arquitetura cognitiva",
+      "question": "Quando reunimos várias informações que têm algum sentido comum, temos",
+      "options": {
+        "a": "um julgamento.",
+        "b": "uma arquitetura neural.",
+        "c": "uma informação.",
+        "d": "uma ideia.",
+        "e": "um esquema."
+      },
+      "correct": "d",
+      "explanation": "Uma informação é uma pequena unidade de conhecimento, e sua reunião forma uma ideia. O esquema, por sua vez, é a reunião de várias ideias sobre um assunto, sendo o conhecimento mais completo que o indivíduo possui sobre certa temática.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "8"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-013",
+      "topic": "Processos atencionais",
+      "question": "Basicamente, diversos fatores encadeados estruturam o funcionamento atencional, como",
+      "options": {
+        "a": "respondentes, pareamentos, estímulo neutro e condicionamento.",
+        "b": "grau de alerta, concentração, orientação, seleção e exploração.",
+        "c": "estágio sensório-motor, pré-operatório, operatório concreto e formal.",
+        "d": "informação, ideia e esquema.",
+        "e": "mesencéfalo, ponte e bulbo."
+      },
+      "correct": "b",
+      "explanation": "Para examinar a atenção, é preciso considerá-la como resultado do nível de alerta, do quanto a pessoa está concentrada, orientada, selecionando e explorando estímulos significativos. A opção a corresponde ao condicionamento respondente, a c aos estágios piagetianos, a d à arquitetura cognitiva e a e às estruturas do tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "14"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-014",
+      "topic": "Tipos de atenção",
+      "question": "As funções de um DJ requerem múltiplos pontos focais para decisões simultâneas e coordenação motora, como apertar os canais da mesa de som, usar o software no computador, escolher as músicas, controlar o volume e mixar áudios. Nesse caso, é natural que essa profissão use a",
+      "options": {
+        "a": "atenção seletiva.",
+        "b": "atenção coordenada.",
+        "c": "atenção concentrada.",
+        "d": "atenção alternada.",
+        "e": "atenção focada."
+      },
+      "correct": "d",
+      "explanation": "Para tarefas que combinam diferentes requisitos, em que precisamos alternar naturalmente diferentes pontos focais, desenvolvemos a atenção alternada. Atenção coordenada e focada não são conceitos teóricos válidos; a seletiva relaciona-se à distinção figura-fundo, e a concentrada corresponde ao estado de flow.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "14-15"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-015",
+      "topic": "Fases da memória",
+      "question": "Existem algumas fases no processamento da memória que correspondem à entrada, à conservação e à recuperação de conteúdos. Assinale a alternativa que nomeia corretamente cada uma dessas fases.",
+      "options": {
+        "a": "Extinção, pareamento e eliciação.",
+        "b": "Codificação, armazenamento e evocação.",
+        "c": "Paralisação, fuga e retraimento.",
+        "d": "Condensação, evaporação e sublimação.",
+        "e": "Evitação, compensação e resignação."
+      },
+      "correct": "b",
+      "explanation": "A codificação corresponde à entrada dos conteúdos na memória; o armazenamento é a fase de conservação desses conteúdos; e a evocação é a fase de recuperação. As demais alternativas trazem conceitos de outras áreas (condicionamento respondente, controle coercitivo, mudanças de estado físico da água e estilos de enfrentamento).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23-24"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-016",
+      "topic": "Fatores da memória",
+      "question": "A nossa capacidade de reter informações depende de alguns fatores psicológicos comuns, como o nível de consciência e a atenção no momento em que a memória está se formando, como também",
+      "options": {
+        "a": "do tipo sanguíneo.",
+        "b": "da altura da pessoa.",
+        "c": "da cor dos olhos.",
+        "d": "do estado emocional.",
+        "e": "do ano de nascimento."
+      },
+      "correct": "d",
+      "explanation": "O estado emocional é o background de emoções no momento da memorização. Memórias que têm vínculo forte com estados emocionais se formam e são evocadas com mais facilidade. As demais variáveis são aspectos morfológicos ou cronológicos sem relação demonstrada com capacidades cognitivas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "24-25"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-017",
+      "topic": "Vygotsky e zona de desenvolvimento proximal",
+      "question": "O conceito de zona de desenvolvimento proximal, trazido por Vygotsky, constitui",
+      "options": {
+        "a": "a acomodação de conhecimentos justapostos a conhecimentos anteriores.",
+        "b": "a distância entre o nível de desenvolvimento atual da criança e o nível de desenvolvimento potencial dela.",
+        "c": "a diferença entre o saber acumulado pela sociedade e o conhecimento individual.",
+        "d": "a diferença entre o imaginário da criança e o saber real.",
+        "e": "a diferença entre a representação mental e a realidade."
+      },
+      "correct": "b",
+      "explanation": "Sob efeito da observação de um modelo, instruções para a ação e consequências sociais valorativas ou corretivas, a criança consegue formar conhecimentos que solitariamente seriam impossíveis ou muito difíceis. O ponto intermediário em que o auxílio de outros se torna necessário é a zona de desenvolvimento proximal.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "34"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-018",
+      "topic": "Estágios de Piaget",
+      "question": "Aponte o estágio do desenvolvimento piagetiano em que se encontra a criança que pode agir por simulação, caracterizando a função simbólica, consegue substituir objetos ou acontecimentos por formas de representação, mas é egocêntrica, percebendo o mundo a partir da própria perspectiva, inclusive emitindo monólogos.",
+      "options": {
+        "a": "Estágio sensório-motor",
+        "b": "Estágio pré-operatório",
+        "c": "Estágio operatório concreto",
+        "d": "Estágio operatório formal",
+        "e": "Estágio formal-concreto"
+      },
+      "correct": "c",
+      "explanation": "Momento que compreende a faixa etária dos 7 aos 11 anos de idade, em que os efeitos dos processos de socialização já se evidenciam com a capacidade de representar conceitos, mas ainda limitada pelo déficit de adquirir a perspectiva alheia e de metacognição, ou seja, de refletir sobre o próprio pensamento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "34-35"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-019",
+      "topic": "Lobos cerebrais",
+      "question": "O cérebro consiste em dois hemisférios (direito e esquerdo), cada um dividido em lobos, que compõem a camada mais externa chamada de córtex cerebral. Cada lobo cerebral possui certas funções, tais como:",
+      "options": {
+        "a": "O lobo frontal, próximo à nuca, que processa estímulos visuais.",
+        "b": "O lobo neuronal, que é responsável pela liberação dos hormônios.",
+        "c": "O lobo parietal, que é responsável pelos movimentos motores, aprendizagem, pensamento, memória e fala.",
+        "d": "O lobo temporal, que processa estímulos auditivos.",
+        "e": "O lobo occipital, que coordena a percepção espacial, sensações de dor, calor e frio."
+      },
+      "correct": "d",
+      "explanation": "O lobo temporal fica localizado próximo às orelhas e permite reconhecer diferentes sons. Não existe lobo neuronal. A alternativa a descreve, na verdade, a função do lobo occipital; a c define a função do lobo frontal; e a e corresponde ao lobo parietal.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "20-21"
+      },
+      "subject": "Neurociência cognitiva: lobos cerebrais e neuroplasticidade",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-obj-020",
+      "topic": "Neuroplasticidade",
+      "question": "Os estudos sobre neuroplasticidade são fundamentais para a compreensão dos fenômenos da aprendizagem. A plasticidade cerebral refere-se à capacidade do sistema nervoso de modificar sua estrutura e função em decorrência dos padrões de experiência. Sobre esse atributo, é possível afirmar que:",
+      "options": {
+        "a": "Está relacionada à capacidade de adaptação propriamente da vida adulta.",
+        "b": "A neuroplasticidade é proporcional ao tamanho do cérebro.",
+        "c": "O sistema nervoso está preparado para se modificar em função de estimulações.",
+        "d": "Novas conexões entre células nervosas acontecem cerca de dez vezes por dia.",
+        "e": "Cada área cerebral é independente em sua plasticidade."
+      },
+      "correct": "c",
+      "explanation": "Aprendizagem é a mudança neurológica derivada da experiência. Essa correspondência é possível graças a uma neuroplasticidade que integra todas as regiões cerebrais harmoniosamente, operando durante toda a vida, dia e noite ininterruptamente, e também compensando lesões ou déficits cerebrais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "21-22"
+      },
+      "subject": "Neurociência cognitiva: lobos cerebrais e neuroplasticidade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-021",
+      "topic": "Modelo cognitivo da TCC",
+      "question": "A terapia cognitivo-comportamental é baseada teoricamente no modelo cognitivo, que equaciona basicamente as variáveis:",
+      "options": {
+        "a": "Filogênese, ontogênese e sociogênese.",
+        "b": "Comportamentos respondentes e operantes.",
+        "c": "Situação, cognição e reações emocionais e comportamentais.",
+        "d": "Descoberta guiada, questionamento socrático e exposição.",
+        "e": "Desamor, desvalor e desamparo."
+      },
+      "correct": "c",
+      "explanation": "O modelo cognitivo operacionaliza o funcionamento humano, que se expressa em emoções e ações determinadas pelas interpretações que temos de uma situação. A opção a cita níveis de evolução comportamental; a b refere-se aos dois tipos gerais de comportamento humano; a d cita técnicas da TCC; e a e são os esquemas básicos definidos por Beck.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "33-34"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-022",
+      "topic": "Características da TCC",
+      "question": "A TCC tem características claras e estruturadas, ao mesmo tempo flexíveis à realidade singular de cada paciente. Dentre elas, podemos citar:",
+      "options": {
+        "a": "As sessões não são estruturadas.",
+        "b": "O foco está nas reações emocionais.",
+        "c": "Não tem interesse no passado do paciente.",
+        "d": "A terapia é psicoeducativa.",
+        "e": "O desenvolvimento do paciente acontece apenas nas sessões."
+      },
+      "correct": "d",
+      "explanation": "O terapeuta esclarece o quadro do paciente, como funciona a terapia e os processos de mudança, capacitando-o para se tornar seu próprio terapeuta. As sessões são estruturadas em pautas flexíveis, com planos de ação entre as sessões. O foco está nas variáveis cognitivas e no presente, mas há abertura para trabalhar com a história do paciente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "34-35"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-023",
+      "topic": "Behaviorismo metodológico de Watson",
+      "question": "Segundo o material estudado, o behaviorismo metodológico de Watson caracteriza-se por:",
+      "options": {
+        "a": "aceitar a introspecção como método científico válido para estudar a mente.",
+        "b": "negar a existência da mente, mas considerar pensamentos e emoções como comportamentos passíveis de análise.",
+        "c": "não negar a existência da mente, mas afirmar que ela não pode ser estudada de forma objetiva e científica, concentrando-se no comportamento observável.",
+        "d": "postular a equação S-R-S, na qual a resposta do organismo também é considerada um estímulo.",
+        "e": "aceitar forças internas ocultas como explicação válida para o comportamento."
+      },
+      "correct": "c",
+      "explanation": "Watson não negava a existência da mente, mas afirmava que esta não poderia ser estudada de forma objetiva e científica, descartando de suas análises os eventos internos e pautando seus estudos em observações e experimentações do comportamento observável (equação S-R). As alternativas b e d descrevem, na verdade, características do behaviorismo radical de Skinner.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9-10",
+        "citation": "GRAHAM, 2010"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-024",
+      "topic": "Modelagem versus modelação",
+      "question": "De acordo com o material, a diferença entre modelagem e modelação é que:",
+      "options": {
+        "a": "modelagem e modelação são sinônimos usados por Skinner e Bandura, respectivamente, para o mesmo processo.",
+        "b": "modelagem é o processo de aprendizagem por aproximações sucessivas proposto por Skinner, enquanto modelação é um processo de aprendizagem proposto por Bandura que ocorre por observação e comparação com modelos.",
+        "c": "modelagem ocorre apenas em laboratório, enquanto modelação ocorre apenas no cotidiano.",
+        "d": "modelagem é um conceito cognitivista, enquanto modelação é um conceito behaviorista.",
+        "e": "modelagem refere-se à extinção de comportamentos, e modelação, ao reforçamento deles."
+      },
+      "correct": "b",
+      "explanation": "O material adverte que não se deve confundir modelagem, o processo de aprendizagem por aproximações sucessivas proposto por Skinner, com modelação, um processo de aprendizagem proposto por Albert Bandura que ocorre por observação e comparação com modelos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20-22",
+        "citation": "SKINNER, 1969"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-obj-025",
+      "topic": "Esquemas de reforçamento intermitente",
+      "question": "O esquema de reforçamento em que a quantidade de respostas necessárias para a liberação de cada reforço varia de forma imprevisível, como no exemplo da bonificação de motoristas de aplicativo que precisam completar um número diferente de viagens a cada dia para receber o bônus, é chamado de:",
+      "options": {
+        "a": "razão fixa",
+        "b": "intervalo fixo",
+        "c": "razão variável",
+        "d": "intervalo variável",
+        "e": "reforçamento contínuo"
+      },
+      "correct": "c",
+      "explanation": "A razão variável ocorre quando a quantidade de respostas para cada aplicação do reforço varia, como no exemplo dado da bonificação de motoristas de aplicativo, em que o número de viagens necessárias para o bônus muda a cada dia.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "23-24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-obj-026",
+      "topic": "Condicionamento clássico de Pavlov",
+      "question": "No experimento clássico de Pavlov, antes de qualquer associação com a comida, o som do sino não provocava salivação no cão. Nesse momento inicial, o sino é classificado como:",
+      "options": {
+        "a": "estímulo incondicionado",
+        "b": "resposta incondicionada",
+        "c": "estímulo neutro",
+        "d": "estímulo condicionado",
+        "e": "resposta condicionada"
+      },
+      "correct": "c",
+      "explanation": "O estímulo neutro é aquele que não possui relação com as respostas esperadas no organismo observado; inicialmente, não era esperado que o badalar do sino eliciasse salivação, o que só passou a ocorrer após o pareamento repetido com a comida.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-027",
+      "topic": "Memória de trabalho",
+      "question": "Segundo o modelo apresentado no material, o componente da memória de trabalho responsável por armazenar e processar informações codificadas verbalmente, sejam elas visuais ou auditivas, é:",
+      "options": {
+        "a": "o executivo central",
+        "b": "o esboço visuoespacial",
+        "c": "a alça fonológica",
+        "d": "o buffer episódico",
+        "e": "a memória semântica"
+      },
+      "correct": "c",
+      "explanation": "A alça fonológica armazena e processa as informações codificadas verbalmente, sejam elas apresentadas por vias auditivas ou visuais, enquanto o esboço visuoespacial processa e mantém informações visuais e espaciais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-028",
+      "topic": "Hierarquia cognitiva na TCC",
+      "question": "Sobre os níveis de processamento cognitivo na terapia cognitivo-comportamental, é correto afirmar que:",
+      "options": {
+        "a": "os pensamentos automáticos são o nível mais profundo e determinam as crenças centrais.",
+        "b": "as crenças centrais influenciam as crenças intermediárias, que por sua vez influenciam os pensamentos automáticos.",
+        "c": "as crenças intermediárias são formadas apenas na vida adulta, diferentemente das crenças centrais.",
+        "d": "modificar apenas os pensamentos automáticos sempre produz mudanças permanentes nas crenças centrais.",
+        "e": "as crenças centrais são conscientes e facilmente identificadas pelo paciente logo na primeira sessão."
+      },
+      "correct": "b",
+      "explanation": "Existe uma hierarquia cognitiva na qual as crenças centrais influenciam as crenças intermediárias, que por sua vez influenciam os pensamentos automáticos. Se as crenças centrais forem modificadas, ocorre uma intervenção mais profunda que interfere nos demais níveis; alterar apenas os pensamentos automáticos costuma gerar efeitos momentâneos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "26-27"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "medio"
+    }
+  ],
+  "discursive": [
+    {
+      "id": "tcc-disc-001",
+      "topic": "Behaviorismo metodológico x radical",
+      "question": "Compare o behaviorismo metodológico de Watson com o behaviorismo radical de Skinner, explicando as principais diferenças entre as duas correntes.",
+      "modelAnswer": "O behaviorismo metodológico, proposto por Watson, não nega a existência da mente, mas afirma que ela não pode ser estudada de forma objetiva e científica; por isso, Watson descartou de suas análises os eventos internos, como pensamentos e emoções, concentrando-se apenas no comportamento observável, numa relação simples entre estímulo e resposta (S-R). Já o behaviorismo radical de Skinner nega radicalmente a existência de uma mente separada do corpo, sendo monista, mas defende que os eventos internos, como pensamentos e emoções, também são comportamentos e podem ser analisados, sendo chamados de comportamentos encobertos ou privados. Enquanto o esquema de Watson é representado pela equação S-R, o de Skinner é representado por S-R-S, pois uma resposta do organismo pode gerar uma nova estimulação que realimenta o sistema. Skinner também aceita a introspecção, mas apenas como um tipo de comportamento verbal, e não como método privilegiado de acesso à mente. Por fim, Skinner ampliou o behaviorismo de Watson ao propor o condicionamento operante, que explica comportamentos complexos e voluntários por meio de suas consequências no ambiente, algo que o paradigma respondente de Watson não conseguia explicar sozinho.",
+      "keyPoints": [
+        {
+          "text": "Watson não nega a mente, mas a exclui do método científico",
+          "weight": 2,
+          "keywords": [
+            "não nega a mente",
+            "não pode ser estudada objetivamente",
+            "descartou eventos internos"
+          ]
+        },
+        {
+          "text": "Skinner nega radicalmente a existência da mente (monismo)",
+          "weight": 3,
+          "keywords": [
+            "nega a existência da mente",
+            "monista",
+            "behaviorismo radical"
+          ]
+        },
+        {
+          "text": "Skinner considera pensamentos e emoções comportamentos encobertos/privados",
+          "weight": 3,
+          "keywords": [
+            "comportamentos encobertos",
+            "comportamentos privados",
+            "pensamentos são comportamento"
+          ]
+        },
+        {
+          "text": "Diferença nas equações S-R (Watson) e S-R-S (Skinner)",
+          "weight": 2,
+          "keywords": [
+            "S-R",
+            "S-R-S",
+            "estímulo resposta"
+          ]
+        },
+        {
+          "text": "Skinner acrescenta o condicionamento operante ao paradigma respondente de Watson",
+          "weight": 2,
+          "keywords": [
+            "condicionamento operante",
+            "paradigma operante",
+            "comportamentos complexos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9-16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-002",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique o processo de condicionamento clássico de Pavlov, definindo os termos estímulo incondicionado, estímulo neutro, estímulo condicionado e as respectivas respostas.",
+      "modelAnswer": "O condicionamento clássico, ou respondente, é o processo pelo qual um organismo aprende a associar um estímulo antes neutro a uma resposta reflexa que originalmente era eliciada por outro estímulo. No experimento de Pavlov, a comida era o estímulo incondicionado, pois eliciava automaticamente a salivação, chamada de resposta incondicionada. O som do sino, antes de qualquer associação, era um estímulo neutro, já que não provocava salivação no cão. Ao apresentar repetidamente o sino junto com a comida, o sino passou a eliciar sozinho a salivação, tornando-se um estímulo condicionado, e a salivação provocada por ele passou a ser chamada de resposta condicionada. Esse processo de pareamento repetido entre o estímulo neutro e o incondicionado é o mecanismo central da aprendizagem respondente. É esse mesmo princípio que explica, por exemplo, como o medo pode ser condicionado a estímulos originalmente neutros, como demonstrou Watson no experimento do Pequeno Albert.",
+      "keyPoints": [
+        {
+          "text": "Estímulo incondicionado elicia resposta incondicionada automaticamente, sem aprendizagem",
+          "weight": 3,
+          "keywords": [
+            "estímulo incondicionado",
+            "resposta incondicionada",
+            "automático",
+            "inato"
+          ]
+        },
+        {
+          "text": "Estímulo neutro não elicia a resposta antes do condicionamento",
+          "weight": 2,
+          "keywords": [
+            "estímulo neutro",
+            "não eliciava",
+            "antes do pareamento"
+          ]
+        },
+        {
+          "text": "Pareamento repetido entre o estímulo neutro e o incondicionado",
+          "weight": 3,
+          "keywords": [
+            "pareamento",
+            "emparelhamento",
+            "repetição",
+            "associação"
+          ]
+        },
+        {
+          "text": "O estímulo neutro se torna estímulo condicionado, eliciando a resposta condicionada",
+          "weight": 3,
+          "keywords": [
+            "estímulo condicionado",
+            "resposta condicionada",
+            "aprendido"
+          ]
+        },
+        {
+          "text": "Exemplo do experimento de Pavlov com o sino e a comida",
+          "weight": 1,
+          "keywords": [
+            "Pavlov",
+            "sino",
+            "cão",
+            "salivação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-003",
+      "topic": "Reforço positivo e negativo",
+      "question": "Explique a diferença entre reforço positivo e reforço negativo, esclarecendo o equívoco comum de associar reforço negativo a algo ruim.",
+      "modelAnswer": "Reforço é qualquer consequência que aumenta a probabilidade de um comportamento se repetir, podendo ser classificado como positivo ou negativo conforme o tipo de mudança que provoca no ambiente, e não conforme seu valor moral. O reforço positivo ocorre quando a frequência de um comportamento aumenta pela adição de um estímulo, como um elogio, um sorriso ou uma recompensa material. Já o reforço negativo ocorre quando a frequência de um comportamento aumenta pela retirada ou pela evitação de um estímulo aversivo, como fugir de um cachorro que late ou faltar à escola para evitar uma prova. É um equívoco comum pensar que reforço negativo é o reforço de um comportamento ruim ou uma forma de punição, mas na verdade ele sempre aumenta a frequência do comportamento, assim como o positivo; a diferença está apenas em como o estímulo é manipulado, sendo adicionado ou retirado. O reforço negativo ainda pode ser dividido em fuga, quando o estímulo aversivo já está presente e o comportamento o remove, e evitação, quando o comportamento impede que o estímulo aversivo sequer apareça.",
+      "keyPoints": [
+        {
+          "text": "Reforço sempre aumenta a frequência do comportamento",
+          "weight": 3,
+          "keywords": [
+            "aumenta a frequência",
+            "aumenta a probabilidade",
+            "fortalece o comportamento"
+          ]
+        },
+        {
+          "text": "Reforço positivo: aumento pela adição de um estímulo",
+          "weight": 3,
+          "keywords": [
+            "adição de estímulo",
+            "reforço positivo",
+            "acréscimo"
+          ]
+        },
+        {
+          "text": "Reforço negativo: aumento pela retirada de um estímulo aversivo",
+          "weight": 3,
+          "keywords": [
+            "retirada de estímulo aversivo",
+            "subtração",
+            "reforço negativo"
+          ]
+        },
+        {
+          "text": "Reforço negativo não é punição nem algo ruim",
+          "weight": 2,
+          "keywords": [
+            "não é punição",
+            "equívoco comum",
+            "não é castigo"
+          ]
+        },
+        {
+          "text": "Subtipos fuga e evitação do reforço negativo",
+          "weight": 1,
+          "keywords": [
+            "fuga",
+            "evitação",
+            "esquiva"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18-19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-004",
+      "topic": "Punição e extinção operante",
+      "question": "Diferencie punição positiva de punição negativa e explique a diferença entre punição negativa e extinção operante.",
+      "modelAnswer": "A punição é uma consequência que diminui a probabilidade de um comportamento se repetir, dividindo-se também em positiva e negativa conforme a operação realizada no ambiente. A punição positiva diminui a frequência de um comportamento pela adição de um estímulo aversivo, como uma bronca, uma multa ou uma nota baixa. Já a punição negativa diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do indivíduo, como quando pais tiram o celular e o videogame de um filho para reduzir um comportamento inadequado. A punição negativa costuma ser confundida com a extinção, mas a diferença é que, na extinção, retira-se justamente o reforçador que mantinha aquele comportamento específico, fazendo sua frequência diminuir gradualmente até desaparecer; já na punição negativa, retira-se um reforçador de outro comportamento, não o que mantinha diretamente o comportamento indesejado. Por exemplo, se alguém para de frequentar um restaurante porque o prato favorito saiu do cardápio, isso é extinção; já se alguém perde o acesso ao videogame como consequência de ter gritado com a professora, isso é punição negativa.",
+      "keyPoints": [
+        {
+          "text": "Punição diminui a frequência do comportamento",
+          "weight": 2,
+          "keywords": [
+            "diminui a frequência",
+            "reduz a probabilidade"
+          ]
+        },
+        {
+          "text": "Punição positiva: adição de estímulo aversivo",
+          "weight": 3,
+          "keywords": [
+            "adição de estímulo aversivo",
+            "punição positiva"
+          ]
+        },
+        {
+          "text": "Punição negativa: retirada de reforçador de outros comportamentos",
+          "weight": 3,
+          "keywords": [
+            "retirada de reforçador",
+            "punição negativa"
+          ]
+        },
+        {
+          "text": "Extinção retira o reforçador que mantinha diretamente o comportamento-alvo",
+          "weight": 3,
+          "keywords": [
+            "extinção operante",
+            "retirada do reforçador principal",
+            "reforçador do próprio comportamento"
+          ]
+        },
+        {
+          "text": "Diferença central entre extinção e punição negativa quanto a qual reforçador é retirado",
+          "weight": 2,
+          "keywords": [
+            "diferença extinção punição negativa",
+            "reforçador de outra situação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "25-27"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-005",
+      "topic": "Esquemas de reforçamento",
+      "question": "Descreva os esquemas de reforçamento contínuo e intermitente, detalhando os quatro tipos de esquema intermitente.",
+      "modelAnswer": "O esquema de reforçamento contínuo ocorre quando toda vez que o comportamento é emitido, ele é reforçado; esse esquema é muito eficaz para o desenvolvimento de comportamentos novos, mas é também o mais vulnerável à extinção, pois basta que o reforço deixe de ocorrer para que o comportamento diminua rapidamente. Já o esquema de reforçamento intermitente ou parcial ocorre quando o reforço é liberado apenas em algumas ocasiões, o que torna o comportamento mais resistente à extinção. Esse esquema pode ser de quatro tipos: razão fixa, quando é necessária uma quantidade fixa de respostas antes de cada reforço, como ganhar uma estrelinha a cada cinco tarefas concluídas; razão variável, quando essa quantidade de respostas varia de forma imprevisível, como o número de viagens que um motorista de aplicativo precisa fazer para ganhar um bônus; intervalo fixo, quando o reforço depende da passagem de um tempo fixo, como um salário recebido todo mês; e intervalo variável, quando o tempo entre os reforços varia, como o recebimento de mensagens importantes no celular. Uma boa estratégia de ensino costuma usar reforçamento contínuo no início, para modelar o comportamento, seguido de reforçamento intermitente, para mantê-lo de forma duradoura.",
+      "keyPoints": [
+        {
+          "text": "Reforçamento contínuo: toda resposta é reforçada, eficaz para modelar mas vulnerável à extinção",
+          "weight": 3,
+          "keywords": [
+            "reforçamento contínuo",
+            "toda resposta reforçada",
+            "vulnerável à extinção"
+          ]
+        },
+        {
+          "text": "Reforçamento intermitente: reforço ocorre de forma irregular, mais resistente à extinção",
+          "weight": 2,
+          "keywords": [
+            "reforçamento intermitente",
+            "parcial",
+            "resistente à extinção"
+          ]
+        },
+        {
+          "text": "Razão fixa: quantidade fixa de respostas por reforço",
+          "weight": 2,
+          "keywords": [
+            "razão fixa",
+            "quantidade fixa de respostas"
+          ]
+        },
+        {
+          "text": "Razão variável: quantidade variável de respostas por reforço",
+          "weight": 2,
+          "keywords": [
+            "razão variável",
+            "quantidade variável"
+          ]
+        },
+        {
+          "text": "Intervalo fixo e intervalo variável baseados no tempo decorrido desde o último reforço",
+          "weight": 2,
+          "keywords": [
+            "intervalo fixo",
+            "intervalo variável",
+            "passagem de tempo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22-25",
+        "citation": "MOREIRA; MEDEIROS, 2007"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-006",
+      "topic": "Experimento do Pequeno Albert",
+      "question": "Descreva o experimento do Pequeno Albert conduzido por Watson e explique os fenômenos de generalização e extinção respondente que ele demonstrou.",
+      "modelAnswer": "No experimento do Pequeno Albert, Watson apresentou a um bebê de nove meses um rato branco, uma máscara, um cachorro e um papel em chamas, verificando que a criança não demonstrava medo diante deles, sendo portanto estímulos neutros. Em seguida, Watson passou a apresentar o rato branco associado a um som estridente e assustador, repetindo essa associação várias vezes, até que o simples aparecimento do rato, mesmo sem o barulho, já fosse suficiente para eliciar choro e medo na criança, demonstrando um condicionamento respondente do medo. Depois disso, observou-se que Albert também passou a temer outros objetos com textura semelhante ao rato, como um coelho, um ursinho de pelúcia e uma máscara de Papai Noel com barba branca, fenômeno chamado de generalização respondente, em que estímulos parecidos ao condicionado passam a eliciar a mesma resposta. Para reduzir essa resposta de medo, seria necessário apresentar repetidamente o estímulo condicionado sem o estímulo aversivo que o acompanhava originalmente, processo conhecido como extinção respondente. Esse experimento, hoje considerado antiético, foi importante para demonstrar que respostas emocionais como o medo podem ser aprendidas por condicionamento.",
+      "keyPoints": [
+        {
+          "text": "Antes do condicionamento, o rato e outros objetos eram estímulos neutros",
+          "weight": 2,
+          "keywords": [
+            "estímulos neutros",
+            "antes do condicionamento",
+            "sem reação"
+          ]
+        },
+        {
+          "text": "Pareamento do rato com som estridente condicionou o medo",
+          "weight": 3,
+          "keywords": [
+            "som estridente",
+            "pareamento",
+            "medo condicionado"
+          ]
+        },
+        {
+          "text": "Generalização respondente: o medo se estendeu a estímulos semelhantes",
+          "weight": 3,
+          "keywords": [
+            "generalização respondente",
+            "estímulos semelhantes",
+            "objetos felpudos"
+          ]
+        },
+        {
+          "text": "Extinção respondente: apresentar o estímulo condicionado sem o incondicionado reduz a resposta",
+          "weight": 2,
+          "keywords": [
+            "extinção respondente",
+            "sem o estímulo aversivo",
+            "redução da resposta"
+          ]
+        },
+        {
+          "text": "Demonstrou que respostas emocionais como o medo são comportamentos aprendidos",
+          "weight": 2,
+          "keywords": [
+            "medo aprendido",
+            "resposta emocional aprendida",
+            "behaviorismo metodológico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10-12",
+        "citation": "BISACCIONI; CARVALHO NETO, 2010"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-007",
+      "topic": "Bases filosóficas do behaviorismo",
+      "question": "Explique as bases filosóficas do behaviorismo apresentadas no material: monismo, pragmatismo, interacionismo, ambientalismo e antimentalismo.",
+      "modelAnswer": "O behaviorismo se sustenta em cinco bases filosóficas principais. O monismo é a concepção de que tudo o que existe ocorre em um único universo físico da matéria e da energia, investigável pelos sentidos ou por instrumentos, rejeitando a ideia de uma realidade espiritual separada do corpo. O pragmatismo estabelece que qualquer explicação científica precisa ser verificável e aplicável, ou seja, deve permitir a manipulação de variáveis para produzir efeitos práticos e úteis. O interacionismo afirma que os organismos estão em interação contínua com o ambiente ao longo de toda a vida, sendo afetados e afetando o mundo simultaneamente. O ambientalismo entende que tudo aquilo com que interagimos, incluindo eventos internos do próprio corpo, como sensações e pensamentos, é considerado ambiente, sendo nele que está a primazia do controle do comportamento. Por fim, o antimentalismo é a rejeição de explicações baseadas em agentes internos ocultos e não observáveis, como mente, alma ou inconsciente, por não serem passíveis de verificação científica, manipulação experimental, ou por caírem em raciocínio circular.",
+      "keyPoints": [
+        {
+          "text": "Monismo: um único universo físico da matéria e energia",
+          "weight": 2,
+          "keywords": [
+            "monismo",
+            "universo físico",
+            "matéria e energia"
+          ]
+        },
+        {
+          "text": "Pragmatismo: explicações precisam ser verificáveis e úteis ou aplicáveis",
+          "weight": 2,
+          "keywords": [
+            "pragmatismo",
+            "verificável",
+            "aplicável",
+            "gerar efeitos"
+          ]
+        },
+        {
+          "text": "Interacionismo: interação contínua entre organismo e ambiente",
+          "weight": 2,
+          "keywords": [
+            "interacionismo",
+            "interação contínua",
+            "afetar e ser afetado"
+          ]
+        },
+        {
+          "text": "Ambientalismo: tudo com que interagimos, inclusive eventos internos, é ambiente",
+          "weight": 2,
+          "keywords": [
+            "ambientalismo",
+            "eventos internos",
+            "primazia do controle"
+          ]
+        },
+        {
+          "text": "Antimentalismo: rejeição de agentes internos ocultos não verificáveis",
+          "weight": 3,
+          "keywords": [
+            "antimentalismo",
+            "rejeição do mentalismo",
+            "agentes internos ocultos",
+            "mente alma inconsciente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "5-6"
+      },
+      "subject": "Bases filosóficas do behaviorismo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-008",
+      "topic": "Operações estabelecedoras e controle discriminativo",
+      "question": "Explique o que são operações estabelecedoras e controle por estímulo discriminativo na análise do comportamento, dando um exemplo de cada.",
+      "modelAnswer": "As operações estabelecedoras são variáveis orgânicas relacionadas a estados de privação, como fome, sede ou carência afetiva, ou a estimulações aversivas presentes no organismo, que aumentam o valor de um reforçador e motivam o indivíduo a buscar contextos em que esse reforço possa ser obtido; por exemplo, quanto maior a privação de convívio com uma pessoa amada, maior a motivação para ligar ou visitá-la. Já o controle por estímulo discriminativo ocorre quando um determinado contexto passa a evocar um comportamento porque, historicamente, esse comportamento foi reforçado apenas naquela situação e frustrado ou punido em outras; por exemplo, uma criança pode obedecer a um dos pais e não ao outro, porque um deles aplica consequências de forma consistente enquanto o outro não. Diferentemente dos estímulos que eliciam reflexos de forma obrigatória, os estímulos discriminativos apenas aumentam a probabilidade de o comportamento ocorrer, numa relação histórica de consequenciação, e não de causalidade automática. Juntas, operações estabelecedoras, estímulos discriminativos e regras, ou instruções verbais, formam os três tipos de variáveis antecedentes que controlam o comportamento operante.",
+      "keyPoints": [
+        {
+          "text": "Operações estabelecedoras: privações ou estimulações aversivas que aumentam o valor do reforço",
+          "weight": 3,
+          "keywords": [
+            "operações estabelecedoras",
+            "privação",
+            "aumentam o valor do reforçador"
+          ]
+        },
+        {
+          "text": "Exemplo de operação estabelecedora, como fome, sede ou saudade",
+          "weight": 1,
+          "keywords": [
+            "fome",
+            "sede",
+            "saudade",
+            "carência afetiva"
+          ]
+        },
+        {
+          "text": "Controle por estímulo discriminativo: contexto que evoca comportamento por histórico de reforço",
+          "weight": 3,
+          "keywords": [
+            "estímulo discriminativo",
+            "controle discriminativo",
+            "contexto que evoca"
+          ]
+        },
+        {
+          "text": "Relação histórica e probabilística, não obrigatória como nos reflexos",
+          "weight": 2,
+          "keywords": [
+            "não obrigatória",
+            "relação histórica",
+            "consequenciação"
+          ]
+        },
+        {
+          "text": "Regras ou instruções verbais também são antecedentes do comportamento operante",
+          "weight": 1,
+          "keywords": [
+            "regras",
+            "instruções verbais",
+            "controle por regras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "32-34"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-009",
+      "topic": "Modelo cognitivo e crenças (TCC)",
+      "question": "Descreva o modelo cognitivo básico da terapia cognitivo-comportamental, envolvendo situação, cognição e reação, e a hierarquia entre crenças centrais, crenças intermediárias e pensamentos automáticos.",
+      "modelAnswer": "O modelo cognitivo básico da TCC, desenvolvido por Aaron Beck, propõe que não é a situação em si que determina nossas emoções e comportamentos, mas sim a forma como a interpretamos, ou seja, a cognição atua como uma variável mediadora entre a situação vivida e nossas reações emocionais, comportamentais e fisiológicas. Diante de uma mesma situação, como uma demissão do trabalho, duas pessoas podem reagir de formas opostas dependendo da interpretação que fazem dela. Esse processamento cognitivo ocorre em três níveis hierárquicos: no nível mais profundo estão as crenças centrais ou nucleares, interpretações globais e fixas sobre si mesmo, os outros e o mundo, formadas desde as primeiras experiências de vida; a partir delas derivam as crenças intermediárias, que são regras, premissas condicionais e posicionamentos sobre como o mundo funciona; e, por fim, aparecem os pensamentos automáticos, interpretações específicas e espontâneas de uma situação imediata. Como as crenças centrais influenciam as intermediárias, que por sua vez influenciam os pensamentos automáticos, modificar apenas os pensamentos automáticos costuma trazer alívio momentâneo, enquanto trabalhar as crenças centrais promove uma mudança mais profunda e duradoura.",
+      "keyPoints": [
+        {
+          "text": "A cognição é a variável mediadora entre situação e reação emocional ou comportamental",
+          "weight": 3,
+          "keywords": [
+            "cognição mediadora",
+            "situação cognição reação",
+            "hipótese da primazia da cognição"
+          ]
+        },
+        {
+          "text": "A mesma situação pode gerar reações diferentes conforme a interpretação",
+          "weight": 2,
+          "keywords": [
+            "interpretação diferente",
+            "reações distintas",
+            "mesma situação"
+          ]
+        },
+        {
+          "text": "Crenças centrais ou nucleares: nível mais profundo, verdades fixas e globais",
+          "weight": 3,
+          "keywords": [
+            "crenças centrais",
+            "crenças nucleares",
+            "verdades fixas e globais"
+          ]
+        },
+        {
+          "text": "Crenças intermediárias: regras e premissas condicionais derivadas das centrais",
+          "weight": 2,
+          "keywords": [
+            "crenças intermediárias",
+            "regras",
+            "premissas condicionais"
+          ]
+        },
+        {
+          "text": "Pensamentos automáticos: interpretações específicas e espontâneas do momento",
+          "weight": 2,
+          "keywords": [
+            "pensamentos automáticos",
+            "espontâneos",
+            "interpretação imediata"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "24-27"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-010",
+      "topic": "Tipos de memória",
+      "question": "Diferencie memória declarativa e não declarativa e, dentro da memória declarativa, diferencie memória episódica de memória semântica.",
+      "modelAnswer": "A memória de longo prazo se divide em memória declarativa, também chamada de explícita, e memória não declarativa, ou implícita. A memória declarativa é aquela cujo conteúdo pode ser acessado e relatado conscientemente, envolvendo eventos e conhecimentos verbalizáveis; já a memória não declarativa está relacionada a habilidades motoras, hábitos e padrões de comportamento que são executados sem que a pessoa consiga descrever verbalmente como os realiza, como andar de bicicleta ou dirigir. Dentro da memória declarativa, existem dois subtipos: a memória episódica, também chamada de autobiográfica, reúne experiências pessoais específicas datadas no tempo e no espaço, como lembrar o que se fez no último aniversário; e a memória semântica reúne conhecimentos gerais sobre o mundo, como significados de palavras e fatos objetivos, caracterizando-se justamente pela perda do contexto em que a informação foi originalmente aprendida, pois sabemos, por exemplo, o significado de uma palavra sem lembrar quando o aprendemos. Já as memórias não declarativas incluem as memórias procedurais, ligadas a habilidades motoras praticadas, e as memórias do tipo priming, evocadas por meio de dicas ou associações inconscientes.",
+      "keyPoints": [
+        {
+          "text": "Memória declarativa ou explícita tem acesso consciente e verbalizável",
+          "weight": 3,
+          "keywords": [
+            "memória declarativa",
+            "explícita",
+            "acesso consciente"
+          ]
+        },
+        {
+          "text": "Memória não declarativa ou implícita envolve habilidades e hábitos não verbalizáveis",
+          "weight": 3,
+          "keywords": [
+            "memória não declarativa",
+            "implícita",
+            "habilidades motoras",
+            "hábitos"
+          ]
+        },
+        {
+          "text": "Memória episódica: eventos pessoais datados no tempo e no espaço",
+          "weight": 2,
+          "keywords": [
+            "memória episódica",
+            "autobiográfica",
+            "eventos pessoais datados"
+          ]
+        },
+        {
+          "text": "Memória semântica: conhecimentos gerais sem contexto de aquisição",
+          "weight": 2,
+          "keywords": [
+            "memória semântica",
+            "conhecimentos gerais",
+            "perda do contexto"
+          ]
+        },
+        {
+          "text": "Exemplo de memória procedural, como dirigir ou tocar um instrumento",
+          "weight": 1,
+          "keywords": [
+            "memória procedural",
+            "habilidade motora",
+            "dirigir",
+            "tocar instrumento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "20-23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-011",
+      "topic": "Neuroplasticidade",
+      "question": "O que é neuroplasticidade e qual sua relação com os processos de aprendizagem e formação de memórias de longo prazo?",
+      "modelAnswer": "A neuroplasticidade é a capacidade do cérebro de se modificar estruturalmente e funcionalmente em resposta às estimulações e experiências vividas ao longo de toda a vida, criando, regenerando e reorganizando neurônios e circuitos neurais por meio de redes e trocas sinápticas. Quando aprendemos algo novo, conexões entre redes de neurônios são criadas ou desfeitas, aumentando a frequência de comunicação entre os neurônios envolvidos, processo conhecido como potenciação de longo prazo; quando esse aprendizado se consolida como uma memória de longo prazo, essas conexões ficam suficientemente fortalecidas para serem reativadas mais facilmente diante das condições ambientais associadas a elas. A rede de neurônios que codifica uma memória específica é chamada de engrama, e as mudanças plásticas incluem o crescimento de novos axônios, alterações na arborização dendrítica e a formação ou perda de sinapses. É por causa da neuroplasticidade que o cérebro consegue compensar lesões e traumas, sendo também ela que fundamenta o próprio efeito terapêutico da TCC, já que a reestruturação de crenças e comportamentos disfuncionais promove alterações concretas na atividade de circuitos neurais.",
+      "keyPoints": [
+        {
+          "text": "Neuroplasticidade é a capacidade do cérebro de se modificar estrutural e funcionalmente por experiência",
+          "weight": 3,
+          "keywords": [
+            "neuroplasticidade",
+            "modificar estrutura e função",
+            "capacidade de adaptação cerebral"
+          ]
+        },
+        {
+          "text": "Aprendizagem é definida como a mudança neurológica derivada da experiência",
+          "weight": 2,
+          "keywords": [
+            "aprendizagem é mudança neurológica",
+            "mudança derivada da experiência"
+          ]
+        },
+        {
+          "text": "Fortalecimento de conexões sinápticas, chamado de potenciação de longo prazo",
+          "weight": 2,
+          "keywords": [
+            "potenciação de longo prazo",
+            "fortalecimento de conexões",
+            "redes de neurônios"
+          ]
+        },
+        {
+          "text": "Engrama é a rede neural que codifica uma memória",
+          "weight": 1,
+          "keywords": [
+            "engrama",
+            "rede que codifica a memória"
+          ]
+        },
+        {
+          "text": "Relação com a eficácia da TCC, pois a mudança de crenças gera mudança neural",
+          "weight": 2,
+          "keywords": [
+            "TCC promove neuroplasticidade",
+            "mudança de crenças altera circuitos",
+            "eficácia da terapia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "17-19"
+      },
+      "subject": "Neurociência cognitiva: lobos cerebrais e neuroplasticidade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-012",
+      "topic": "Origem da terapia cognitivo-comportamental",
+      "question": "Explique o contexto histórico do surgimento da terapia cognitiva de Aaron Beck e como ela se diferenciou das primeiras abordagens comportamentalistas.",
+      "modelAnswer": "Antes do surgimento das terapias cognitivas, na década de 1960, existiam de um lado as abordagens psicodinâmicas e, de outro, as terapias comportamentais de primeira geração, que avançaram em técnicas como a dessensibilização sistemática, mas ficavam limitadas aos comportamentos públicos e observáveis, sem instrumentos para trabalhar diretamente os comportamentos privados, como os pensamentos. Nesse contexto, influenciados também pela metáfora da revolução computacional, na qual a mente seria como um software que processa e pode reestruturar informações, os cognitivistas passaram a teorizar sobre a identificação, o exame e a modificação de crenças, inaugurando a chamada revolução cognitiva. Aaron Beck, psiquiatra que havia passado pela psicanálise, observou em seus pacientes depressivos a presença de cadeias de pensamento espontâneas, os pensamentos automáticos, e percebeu que ajudá-los a avaliar esses pensamentos tornava-os capazes de pensar de forma mais realista e de se sentir e se comportar melhor. Posteriormente, ao constatar a eficácia das técnicas comportamentais de exposição para os transtornos de ansiedade, Beck agregou essas técnicas à sua terapia, dando origem à terapia cognitivo-comportamental, que integra intervenções sobre pensamentos e sobre comportamentos.",
+      "keyPoints": [
+        {
+          "text": "Terapias comportamentais de primeira geração focavam em comportamentos públicos e observáveis",
+          "weight": 2,
+          "keywords": [
+            "comportamentos públicos",
+            "primeira geração",
+            "dessensibilização sistemática"
+          ]
+        },
+        {
+          "text": "Havia uma lacuna para trabalhar comportamentos privados, como as cognições",
+          "weight": 2,
+          "keywords": [
+            "comportamentos privados",
+            "cognições",
+            "lacuna"
+          ]
+        },
+        {
+          "text": "Beck identificou pensamentos automáticos em pacientes depressivos",
+          "weight": 3,
+          "keywords": [
+            "Aaron Beck",
+            "pensamentos automáticos",
+            "pacientes depressivos"
+          ]
+        },
+        {
+          "text": "Revolução cognitiva como busca por compreender e intervir no processamento mental",
+          "weight": 2,
+          "keywords": [
+            "revolução cognitiva",
+            "processamento mental",
+            "reestruturação de crenças"
+          ]
+        },
+        {
+          "text": "Beck incorporou técnicas comportamentais de exposição, formando a TCC",
+          "weight": 2,
+          "keywords": [
+            "técnicas de exposição",
+            "terapia cognitivo-comportamental",
+            "integração cognição e comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "23-24"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "medio"
+    }
+  ],
+  "oral": [
+    {
+      "id": "tcc-oral-001",
+      "topic": "Behaviorismo metodológico x radical",
+      "question": "Diferencie, em poucas palavras, o behaviorismo metodológico de Watson do behaviorismo radical de Skinner.",
+      "modelAnswer": "O behaviorismo metodológico de Watson não nega a mente, mas a exclui do estudo científico por não poder ser observada objetivamente, concentrando-se apenas no comportamento observável numa relação estímulo-resposta. Já o behaviorismo radical de Skinner nega a existência de uma mente separada do corpo e considera que pensamentos e emoções também são comportamentos, chamados de encobertos ou privados, que podem e devem ser analisados.",
+      "keyPoints": [
+        {
+          "text": "Watson exclui a mente do método científico sem negá-la",
+          "weight": 3,
+          "keywords": [
+            "Watson não nega a mente",
+            "exclui do método científico"
+          ]
+        },
+        {
+          "text": "Skinner nega a mente e considera pensamentos comportamentos privados",
+          "weight": 3,
+          "keywords": [
+            "Skinner nega a mente",
+            "comportamentos privados",
+            "comportamentos encobertos"
+          ]
+        },
+        {
+          "text": "Watson usa a equação S-R; Skinner amplia com o condicionamento operante",
+          "weight": 1,
+          "keywords": [
+            "S-R",
+            "condicionamento operante"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9-16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-oral-002",
+      "topic": "Condicionamento clássico",
+      "question": "O que é condicionamento clássico? Dê um exemplo.",
+      "modelAnswer": "Condicionamento clássico é o processo de aprendizagem pelo qual um estímulo antes neutro passa a eliciar uma resposta reflexa, por ter sido repetidamente associado, ou pareado, a um estímulo que já provocava essa resposta naturalmente. No exemplo de Pavlov, o som do sino, que era um estímulo neutro, foi pareado repetidamente com a apresentação de comida, um estímulo incondicionado, até que o sino sozinho passou a provocar salivação no cão, sua resposta condicionada.",
+      "keyPoints": [
+        {
+          "text": "Aprendizagem por associação ou pareamento de estímulos",
+          "weight": 3,
+          "keywords": [
+            "pareamento",
+            "associação de estímulos",
+            "emparelhamento"
+          ]
+        },
+        {
+          "text": "O estímulo neutro passa a eliciar uma resposta antes exclusiva do incondicionado",
+          "weight": 3,
+          "keywords": [
+            "estímulo neutro vira condicionado",
+            "passa a eliciar a resposta"
+          ]
+        },
+        {
+          "text": "Exemplo de Pavlov com o sino e a comida",
+          "weight": 1,
+          "keywords": [
+            "Pavlov",
+            "sino",
+            "comida",
+            "salivação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-003",
+      "topic": "Reforço positivo e negativo",
+      "question": "Diferencie reforço positivo de reforço negativo, dando um exemplo de cada.",
+      "modelAnswer": "Reforço positivo é quando a frequência de um comportamento aumenta pela adição de um estímulo, como elogiar uma criança que ajuda em casa. Reforço negativo é quando a frequência de um comportamento aumenta pela retirada de um estímulo aversivo, como sair correndo de um cachorro que late para escapar do susto. Em ambos os casos, o comportamento se torna mais frequente.",
+      "keyPoints": [
+        {
+          "text": "Reforço positivo: adição de estímulo aumenta a frequência",
+          "weight": 3,
+          "keywords": [
+            "adição de estímulo",
+            "reforço positivo"
+          ]
+        },
+        {
+          "text": "Reforço negativo: retirada de estímulo aversivo aumenta a frequência",
+          "weight": 3,
+          "keywords": [
+            "retirada de estímulo aversivo",
+            "reforço negativo"
+          ]
+        },
+        {
+          "text": "Ambos aumentam a frequência do comportamento e não são punição",
+          "weight": 2,
+          "keywords": [
+            "aumentam a frequência",
+            "não é punição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18-19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-004",
+      "topic": "Punição positiva e negativa",
+      "question": "Diferencie punição positiva de punição negativa.",
+      "modelAnswer": "Punição positiva diminui a frequência de um comportamento pela adição de um estímulo aversivo, como uma bronca ou uma multa. Punição negativa diminui a frequência de um comportamento pela retirada de um reforçador, como tirar o celular de um adolescente que se comportou mal. Nos dois casos, o objetivo é reduzir a frequência do comportamento, mas a operação sobre o ambiente é oposta.",
+      "keyPoints": [
+        {
+          "text": "Punição positiva: adição de estímulo aversivo",
+          "weight": 3,
+          "keywords": [
+            "adição de estímulo aversivo",
+            "punição positiva"
+          ]
+        },
+        {
+          "text": "Punição negativa: retirada de reforçador",
+          "weight": 3,
+          "keywords": [
+            "retirada de reforçador",
+            "punição negativa"
+          ]
+        },
+        {
+          "text": "Ambas reduzem a frequência do comportamento",
+          "weight": 2,
+          "keywords": [
+            "reduzem a frequência",
+            "diminuem o comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "25-26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-005",
+      "topic": "Extinção operante x punição negativa",
+      "question": "O que é extinção operante e como ela se diferencia da punição negativa?",
+      "modelAnswer": "Extinção operante é a redução gradual da frequência de um comportamento porque o reforçador que o mantinha deixou de ser liberado, como quando um controle remoto para de funcionar e paramos de apertar seus botões. Ela se diferencia da punição negativa porque, na extinção, retira-se o próprio reforçador que sustentava aquele comportamento específico, enquanto na punição negativa retira-se um reforçador de outro comportamento do indivíduo, com o objetivo direto de puni-lo.",
+      "keyPoints": [
+        {
+          "text": "Extinção: retirada do reforçador que mantinha o próprio comportamento",
+          "weight": 3,
+          "keywords": [
+            "extinção operante",
+            "retirada do reforçador principal"
+          ]
+        },
+        {
+          "text": "Redução gradual da frequência até desaparecer",
+          "weight": 2,
+          "keywords": [
+            "redução gradual",
+            "frequência diminui"
+          ]
+        },
+        {
+          "text": "Punição negativa retira reforçador de outro comportamento",
+          "weight": 3,
+          "keywords": [
+            "punição negativa",
+            "reforçador de outro comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22-26",
+        "citation": "MOREIRA; MEDEIROS, 2007"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-006",
+      "topic": "Esquemas de reforçamento",
+      "question": "Cite os quatro esquemas de reforçamento intermitente e explique um deles com um exemplo.",
+      "modelAnswer": "Os quatro esquemas de reforçamento intermitente são razão fixa, razão variável, intervalo fixo e intervalo variável. No esquema de razão fixa, o reforço é liberado após uma quantidade fixa de respostas, como quando uma criança ganha uma estrelinha a cada cinco tarefas bem feitas, sempre a mesma quantidade de respostas antes do reforço.",
+      "keyPoints": [
+        {
+          "text": "Cita os quatro tipos: razão fixa, razão variável, intervalo fixo e intervalo variável",
+          "weight": 3,
+          "keywords": [
+            "razão fixa",
+            "razão variável",
+            "intervalo fixo",
+            "intervalo variável"
+          ]
+        },
+        {
+          "text": "Explica corretamente pelo menos um esquema com exemplo",
+          "weight": 3,
+          "keywords": [
+            "quantidade fixa de respostas",
+            "exemplo de esquema"
+          ]
+        },
+        {
+          "text": "Reforçamento intermitente é mais resistente à extinção",
+          "weight": 1,
+          "keywords": [
+            "resistente à extinção",
+            "reforço parcial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "23-24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-007",
+      "topic": "Behaviorismo radical",
+      "question": "O que Skinner quis dizer ao chamar sua abordagem de behaviorismo radical?",
+      "modelAnswer": "Skinner chamou sua abordagem de radical porque nega em absoluto a existência de qualquer coisa que não faça parte do mundo físico e não possa ser localizada ou medida no tempo e no espaço, como a mente, a alma ou a consciência. Além disso, é radical por considerar que toda e qualquer manifestação do organismo, inclusive pensamentos e emoções, que ele chama de comportamentos encobertos, é um comportamento passível de análise científica, e não apenas as ações externas e observáveis.",
+      "keyPoints": [
+        {
+          "text": "Nega em absoluto a existência de mente, alma ou consciência",
+          "weight": 3,
+          "keywords": [
+            "nega em absoluto",
+            "mente alma consciência",
+            "sem base física"
+          ]
+        },
+        {
+          "text": "Considera pensamentos e emoções comportamentos encobertos",
+          "weight": 3,
+          "keywords": [
+            "pensamentos são comportamento",
+            "comportamentos encobertos"
+          ]
+        },
+        {
+          "text": "Amplia a análise além do comportamento externo observável",
+          "weight": 1,
+          "keywords": [
+            "além do observável",
+            "comportamento privado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "15-16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-oral-008",
+      "topic": "Modelagem",
+      "question": "O que é modelagem por aproximações sucessivas?",
+      "modelAnswer": "Modelagem é o método de reforçamento de aproximações sucessivas em direção a um comportamento-alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento desejado é reforçado positivamente, de forma que, com o tempo, o repertório vai se aproximando cada vez mais do comportamento final, como quando uma criança aprende a andar de bicicleta ajustando seu equilíbrio a cada tentativa reforçada.",
+      "keyPoints": [
+        {
+          "text": "Reforçamento de aproximações sucessivas do comportamento-alvo",
+          "weight": 3,
+          "keywords": [
+            "aproximações sucessivas",
+            "comportamento alvo",
+            "comportamento terminal"
+          ]
+        },
+        {
+          "text": "Reforço positivo imediato de cada aproximação bem-sucedida",
+          "weight": 2,
+          "keywords": [
+            "reforço positivo imediato",
+            "reforçar cada acerto"
+          ]
+        },
+        {
+          "text": "Exemplo, como andar de bicicleta ou aprender a falar",
+          "weight": 1,
+          "keywords": [
+            "andar de bicicleta",
+            "aprender a falar",
+            "exemplo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20",
+        "citation": "SKINNER, 1969"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-oral-009",
+      "topic": "Operações estabelecedoras",
+      "question": "O que são operações estabelecedoras na análise do comportamento?",
+      "modelAnswer": "Operações estabelecedoras são estados orgânicos de privação, como fome ou sede, ou de exposição a estímulos aversivos, que aumentam temporariamente o valor de um reforçador específico e motivam o organismo a buscar contextos onde esse reforço possa ser obtido. Por exemplo, quanto maior a privação de contato com uma pessoa querida, maior a motivação para procurá-la.",
+      "keyPoints": [
+        {
+          "text": "Estados de privação ou aversão que aumentam o valor do reforçador",
+          "weight": 3,
+          "keywords": [
+            "privação",
+            "aversão",
+            "aumentam o valor do reforçador"
+          ]
+        },
+        {
+          "text": "Motivam a busca do contexto onde o reforço está disponível",
+          "weight": 2,
+          "keywords": [
+            "motivação",
+            "buscar o reforço",
+            "direcionam o comportamento"
+          ]
+        },
+        {
+          "text": "Exemplo, como fome, sede ou saudade",
+          "weight": 1,
+          "keywords": [
+            "fome",
+            "sede",
+            "saudade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Análise aplicada de contingências.pdf",
+        "page": "33-34"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-oral-010",
+      "topic": "Modelo cognitivo (Beck)",
+      "question": "Segundo o modelo cognitivo de Beck, qual a relação entre situação, cognição e emoção?",
+      "modelAnswer": "Segundo Beck, não é a situação em si que determina nossa emoção e comportamento, mas a interpretação cognitiva que fazemos dela; a cognição atua como uma variável mediadora entre o evento e nossa reação emocional, comportamental e fisiológica, de modo que pessoas diferentes podem reagir de formas opostas à mesma situação, dependendo dos pensamentos automáticos que ela dispara.",
+      "keyPoints": [
+        {
+          "text": "A cognição é mediadora entre a situação e a reação emocional ou comportamental",
+          "weight": 3,
+          "keywords": [
+            "cognição mediadora",
+            "interpretação determina a reação"
+          ]
+        },
+        {
+          "text": "Não é a situação em si, mas a interpretação, que gera a emoção",
+          "weight": 3,
+          "keywords": [
+            "não é a situação em si",
+            "interpretação da situação"
+          ]
+        },
+        {
+          "text": "A mesma situação pode gerar reações diferentes em pessoas diferentes",
+          "weight": 1,
+          "keywords": [
+            "reações diferentes",
+            "mesma situação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "24-25"
+      },
+      "subject": "Terapia Cognitivo-Comportamental (TCC)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-oral-011",
+      "topic": "Memória de curto prazo x memória de trabalho",
+      "question": "O que diferencia memória de curto prazo de memória de trabalho?",
+      "modelAnswer": "A memória de curto prazo é mais passiva, retendo brevemente uma quantidade limitada de informações, como guardar por alguns instantes o nome de alguém recém-apresentado. Já a memória de trabalho é um sistema ativo, que não apenas armazena, mas manipula e processa simultaneamente informações novas e antigas, como quando precisamos fazer um cálculo mental repetindo números na cabeça enquanto os invertemos.",
+      "keyPoints": [
+        {
+          "text": "Memória de curto prazo: armazenamento passivo e breve",
+          "weight": 3,
+          "keywords": [
+            "armazenamento passivo",
+            "curto prazo",
+            "retém brevemente"
+          ]
+        },
+        {
+          "text": "Memória de trabalho: processamento ativo e manipulação de informações",
+          "weight": 3,
+          "keywords": [
+            "memória de trabalho",
+            "processamento ativo",
+            "manipulação de informações"
+          ]
+        },
+        {
+          "text": "Exemplo de uso da memória de trabalho, como cálculo mental",
+          "weight": 1,
+          "keywords": [
+            "cálculo mental",
+            "manter e manipular",
+            "exemplo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19-20"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-012",
+      "topic": "Neuroplasticidade",
+      "question": "O que é neuroplasticidade, em termos simples?",
+      "modelAnswer": "Neuroplasticidade é a capacidade do sistema nervoso de se modificar estruturalmente e funcionalmente ao longo de toda a vida, em resposta às experiências e estimulações do ambiente, criando, fortalecendo ou eliminando conexões entre neurônios. É ela que torna possível a aprendizagem, a formação de memórias de longo prazo e até a recuperação de algumas lesões cerebrais.",
+      "keyPoints": [
+        {
+          "text": "Capacidade do cérebro de se modificar estrutural e funcionalmente",
+          "weight": 3,
+          "keywords": [
+            "capacidade de se modificar",
+            "estrutura e função"
+          ]
+        },
+        {
+          "text": "Ocorre em resposta a experiências e estimulações ao longo da vida",
+          "weight": 2,
+          "keywords": [
+            "resposta a experiências",
+            "ao longo da vida"
+          ]
+        },
+        {
+          "text": "É a base da aprendizagem e da memória de longo prazo",
+          "weight": 2,
+          "keywords": [
+            "base da aprendizagem",
+            "memória de longo prazo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Integrando cognição e comportamento.pdf",
+        "page": "17-21"
+      },
+      "subject": "Neurociência cognitiva: lobos cerebrais e neuroplasticidade",
+      "difficulty": "baixo"
+    }
+  ]
+}

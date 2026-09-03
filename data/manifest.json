@@ -1,0 +1,18 @@
+{
+  "semesters": [
+    {
+      "id": "1",
+      "label": "1º Semestre",
+      "available": true,
+      "disciplines": [
+        { "id": "fundamentos", "file": "data/fundamentos.json", "icon": "📜", "title": "Fundamentos Históricos e Epistemológicos da Psicologia" },
+        { "id": "neuro", "file": "data/neuro.json", "icon": "🧠", "title": "Neuroanatomofisiologia" },
+        { "id": "teorias_cc", "file": "data/teorias_cc.json", "icon": "🔄", "title": "As Teorias Cognitivo-Comportamentais" },
+        { "id": "desenvolvimento", "file": "data/desenvolvimento.json", "icon": "👶", "title": "O Estudo do Desenvolvimento Humano" }
+      ]
+    },
+    { "id": "2", "label": "2º Semestre", "available": false, "disciplines": [] },
+    { "id": "3", "label": "3º Semestre", "available": false, "disciplines": [] },
+    { "id": "4", "label": "4º Semestre", "available": false, "disciplines": [] }
+  ]
+}

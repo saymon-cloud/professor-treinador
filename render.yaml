@@ -1,0 +1,18 @@
+# Blueprint do Render (render.com/docs/blueprint-spec).
+# Ao conectar este repositório no Render como "Blueprint", ele já detecta
+# essas configurações sozinho. As variáveis com "sync: false" precisam ser
+# preenchidas manualmente no painel do Render (são segredos, não ficam no Git).
+services:
+  - type: web
+    name: professor-treinador
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: BASIC_AUTH_USER
+        sync: false
+      - key: BASIC_AUTH_PASS
+        sync: false

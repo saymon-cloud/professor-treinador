@@ -1,0 +1,2633 @@
+{
+  "discipline": "Neuroanatomofisiologia",
+  "objective": [
+    {
+      "id": "neuro-obj-001",
+      "topic": "Neurônios e neuroglia",
+      "question": "A estrutura especializada por meio da qual um neurônio se comunica com outro, liberando neurotransmissores no espaço entre as duas células, é denominada:",
+      "options": {
+        "a": "Dendrito",
+        "b": "Sinapse",
+        "c": "Bainha de mielina",
+        "d": "Corpo celular",
+        "e": "Axônio"
+      },
+      "correct": "b",
+      "explanation": "A sinapse é o ponto de comunicação entre dois neurônios (ou entre neurônio e célula efetora), onde ocorre a liberação de neurotransmissores na fenda sináptica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-002",
+      "topic": "Neurônios e neuroglia",
+      "question": "Dentre as células da neuroglia do Sistema Nervoso Central, aquela responsável principalmente por nutrir os neurônios, participar da barreira hematoencefálica e regular o ambiente químico extracelular é o(a):",
+      "options": {
+        "a": "Oligodendrócito",
+        "b": "Micróglia",
+        "c": "Célula ependimária",
+        "d": "Astrócito",
+        "e": "Célula de Schwann"
+      },
+      "correct": "d",
+      "explanation": "Os astrócitos desempenham funções de suporte metabólico e nutricional aos neurônios, além de participarem da formação da barreira hematoencefálica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-003",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Sobre a organização do sistema nervoso, assinale a alternativa correta:",
+      "options": {
+        "a": "O SNC é formado pelo encéfalo e pela medula espinhal, e o SNP pelos nervos e gânglios.",
+        "b": "O SNC é formado pelos nervos espinhais e cranianos, e o SNP pelo encéfalo.",
+        "c": "O SNP inclui a medula espinhal e os gânglios nervosos.",
+        "d": "O SNC e o SNP não apresentam nenhum tipo de conexão funcional.",
+        "e": "Os gânglios nervosos fazem parte exclusivamente do SNC."
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Central envolve a medula espinhal e as estruturas encefálicas; o Sistema Nervoso Periférico envolve nervos, gânglios e terminações nervosas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12-14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-004",
+      "topic": "Neurônios e neuroglia",
+      "question": "O potencial de ação, fenômeno elétrico que permite a propagação do impulso nervoso ao longo do axônio, é desencadeado principalmente pela:",
+      "options": {
+        "a": "Saída maciça de íons potássio da célula",
+        "b": "Entrada rápida de íons sódio através de canais voltagem-dependentes",
+        "c": "Liberação de neurotransmissores na fenda sináptica",
+        "d": "Produção de mielina pelos oligodendrócitos",
+        "e": "Contração dos microtúbulos do citoesqueleto"
+      },
+      "correct": "b",
+      "explanation": "A despolarização da membrana que gera o potencial de ação decorre da abertura de canais de sódio voltagem-dependentes e da consequente entrada rápida de Na+ na célula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-005",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O diencéfalo, uma das vesículas encefálicas secundárias formadas durante o desenvolvimento embrionário do sistema nervoso, dá origem, entre outras estruturas, ao:",
+      "options": {
+        "a": "Cerebelo",
+        "b": "Bulbo",
+        "c": "Hipotálamo",
+        "d": "Corpo caloso",
+        "e": "Giro pré-central"
+      },
+      "correct": "c",
+      "explanation": "O diencéfalo origina estruturas como tálamo, hipotálamo, epitálamo e subtálamo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22-31"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-006",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O ectoderma é o folheto embrionário que origina o tecido nervoso. Assinale a alternativa que apresenta um órgão que NÃO se origina do ectoderma:",
+      "options": {
+        "a": "Epiderme",
+        "b": "Sistema nervoso",
+        "c": "Retina",
+        "d": "Fígado",
+        "e": "Esmalte dentário"
+      },
+      "correct": "d",
+      "explanation": "O fígado é derivado do endoderma, enquanto o sistema nervoso, a epiderme, a retina e o esmalte dentário derivam do ectoderma.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22-31"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-007",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Em relação ao Sistema Nervoso Autônomo, a estimulação do sistema nervoso parassimpático sobre o coração provoca:",
+      "options": {
+        "a": "Aumento da frequência cardíaca (taquicardia)",
+        "b": "Diminuição da frequência cardíaca (bradicardia)",
+        "c": "Nenhum efeito sobre a frequência cardíaca",
+        "d": "Vasoconstrição coronariana intensa",
+        "e": "Liberação maciça de adrenalina"
+      },
+      "correct": "b",
+      "explanation": "O parassimpático (via nervo vago) reduz a frequência cardíaca, enquanto o simpático a aumenta (taquicardia).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-008",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Em situações de estresse ou perigo (reação de luta ou fuga), o sistema nervoso simpático promove a liberação, pela medula da glândula suprarrenal, principalmente de:",
+      "options": {
+        "a": "Insulina e glucagon",
+        "b": "Adrenalina e noradrenalina",
+        "c": "Cortisol e aldosterona",
+        "d": "Acetilcolina e dopamina",
+        "e": "Melatonina e serotonina"
+      },
+      "correct": "b",
+      "explanation": "A ativação simpática estimula a glândula suprarrenal a secretar adrenalina e noradrenalina, preparando o corpo para a reação de luta ou fuga.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-009",
+      "topic": "Medula espinhal",
+      "question": "Analisando secções da medula espinal, é possível observar regiões de coloração mais clara (substância branca) e locais mais escuros (substância cinzenta). A respeito dessas regiões, marque a alternativa incorreta:",
+      "options": {
+        "a": "A substância cinzenta é onde se localizam os corpos celulares dos neurônios.",
+        "b": "Na substância branca, encontram-se os axônios dos neurônios.",
+        "c": "A denominação em relação aos cornos ou às colunas se refere às porções da substância cinzenta.",
+        "d": "Na porção posterior da medula, as informações relacionadas à motricidade saem e se destinam ao sistema musculoesquelético.",
+        "e": "A substância branca é dividida em funículos anterior, lateral e posterior."
+      },
+      "correct": "d",
+      "explanation": "As informações motoras deixam a medula pela sua porção anterior; as sensoriais penetram pela porção posterior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4-15"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-010",
+      "topic": "Medula espinhal",
+      "question": "As fibras da substância branca formam os tratos ou fascículos e se dividem em vias ascendentes (aferentes) ou descendentes (eferentes). Em relação a essas vias, assinale a alternativa correta:",
+      "options": {
+        "a": "O trato córtico-espinhal lateral é responsável por transmitir informações motoras, realizando seu cruzamento na decussação das pirâmides bulbares.",
+        "b": "O trato espinotalâmico anterior é responsável por transmitir informações relacionadas à sensibilidade profunda, como propriocepção consciente e estereognosia.",
+        "c": "O fascículo grácil e cuneiforme é responsável por transmitir informações relacionadas ao tato e pressão.",
+        "d": "O trato espinotalâmico lateral é responsável por transmitir informações relacionadas à motricidade.",
+        "e": "O trato espinocerebelar posterior é responsável por transmitir informações de dor e temperatura."
+      },
+      "correct": "a",
+      "explanation": "O trato córtico-espinhal lateral (piramidal cruzado) transmite informações motoras e cruza o plano mediano na decussação das pirâmides bulbares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4-15"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-011",
+      "topic": "Cerebelo",
+      "question": "O cerebelo é uma estrutura responsável por funções relacionadas ao controle motor e à aprendizagem motora, sendo também conhecido como pequeno cérebro. Assinale a alternativa correta:",
+      "options": {
+        "a": "Seguindo a divisão filogenética, o cerebelo divide-se em arquicerebelo, paleocerebelo e neocerebelo, representados respectivamente pelo lobo flóculo-nodular, lobo anterior e lobo posterior.",
+        "b": "O órgão não possui substância cinzenta (córtex), sua principal diferença com o cérebro.",
+        "c": "As principais funções do cerebelo ocorrem em nível consciente e voluntário.",
+        "d": "O paleocerebelo corresponde ao lobo posterior e é importante para o planejamento e coordenação motora.",
+        "e": "Repousa sobre a fossa cerebelar do osso parietal, separado do lobo occipital pela tenda do cerebelo, formada pela pia-máter."
+      },
+      "correct": "a",
+      "explanation": "O arquicerebelo (lobo flóculo-nodular) relaciona-se ao equilíbrio; o paleocerebelo (lobo anterior) ao tônus/postura; o neocerebelo (lobo posterior) ao planejamento e coordenação motora fina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18-21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-012",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente que sofreu uma lesão encefálica apresenta os seguintes sinais clínicos: não movimenta voluntariamente o braço, alteração de sensibilidade no mesmo membro, além de fala difícil, lenta e com sons produzidos de forma incorreta, mantendo, porém, compreensão normal da linguagem oral e escrita. É correto afirmar que a lesão ocorreu:",
+      "options": {
+        "a": "No lobo occipital e temporal",
+        "b": "No hipotálamo e ponte",
+        "c": "Na área de Wernicke",
+        "d": "No córtex motor primário e na área de Broca",
+        "e": "No lobo parietal e insular"
+      },
+      "correct": "d",
+      "explanation": "O quadro descrito (déficit motor, sensitivo e fala não fluente com compreensão preservada) é compatível com lesão no córtex motor primário/secundário e na área de Broca.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26-34"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-013",
+      "topic": "Vascularização do SNC",
+      "question": "A vascularização do encéfalo é realizada em sua maior extensão pelo Polígono de Willis. A irrigação do encéfalo é proveniente das artérias __________ e das artérias __________. As artérias __________ são originárias das artérias __________.",
+      "options": {
+        "a": "Coronárias, comunicantes posteriores, cerebrais médias, carótidas internas",
+        "b": "Carótidas internas, comunicantes posteriores, cerebrais posteriores, basilar",
+        "c": "Carótidas internas, vertebrais, cerebrais médias, carótidas internas",
+        "d": "Carótidas internas, vertebrais, cerebrais anteriores, basilar",
+        "e": "Carótidas internas, vertebrais, cerebrais médias, basilar"
+      },
+      "correct": "c",
+      "explanation": "A irrigação encefálica se dá a partir das carótidas internas e vertebrais; as artérias cerebrais médias originam-se das carótidas internas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39-42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-014",
+      "topic": "Meninges e líquor",
+      "question": "Uma membrana serosa, delgada e transparente, que envolve o cérebro e a medula espinhal, situada entre duas outras membranas, apresentando como principal característica trabéculas delicadas que se ligam a uma membrana mais interna. Essa descrição corresponde à:",
+      "options": {
+        "a": "Pia-máter",
+        "b": "Dura-máter",
+        "c": "Aracnoide",
+        "d": "Foice do cérebro",
+        "e": "Tenda do cerebelo"
+      },
+      "correct": "c",
+      "explanation": "A aracnoide é justaposta à dura-máter e apresenta trabéculas aracnoides que se ligam à pia-máter.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35-39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-015",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Em relação ao plexo braquial, assinale a opção que completa corretamente as lacunas: As raízes de C8 e T1 formam o __________, e sua divisão __________ dá origem ao fascículo __________, que por sua vez origina o nervo __________.",
+      "options": {
+        "a": "Tronco inferior, posterior, medial, radial",
+        "b": "Tronco inferior, anterior, posterior, mediano",
+        "c": "Tronco médio, anterior, lateral, axilar",
+        "d": "Tronco inferior, anterior, medial, ulnar",
+        "e": "Tronco médio, posterior, posterior, axilar"
+      },
+      "correct": "d",
+      "explanation": "As raízes C8 e T1 formam o tronco inferior; sua divisão anterior origina o fascículo medial, que dá origem ao nervo ulnar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3-16"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-016",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Dentre as lesões do Sistema Nervoso Periférico, aquela com melhor prognóstico, em virtude de apresentar menor comprometimento funcional e caráter temporário, denomina-se:",
+      "options": {
+        "a": "Dispraxia",
+        "b": "Neurotmese",
+        "c": "Axonotmese",
+        "d": "Neuropraxia",
+        "e": "Apraxia"
+      },
+      "correct": "d",
+      "explanation": "A neuropraxia é o tipo de lesão nervosa periférica mais leve, com a estrutura do nervo intacta e apenas interrupção temporária da condução.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3-16"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-017",
+      "topic": "Nervos cranianos",
+      "question": "Dentre as diversas funções de um ou mais dos 12 pares de nervos encefálicos, podemos citar aquelas apresentadas a seguir, EXCETO:",
+      "options": {
+        "a": "Transmitir informações sensoriais especiais relacionadas com sensações visuais, auditivas, vestibulares, gustativas, olfativas e viscerais.",
+        "b": "Transmitir informações somatossensoriais da pele e dos músculos da face e da articulação temporomandibular.",
+        "c": "Suprir a inervação motora voluntária dos músculos do esqueleto apendicular e transmitir informações somatossensoriais do tronco, membros superiores e inferiores.",
+        "d": "Suprir a inervação motora dos músculos da face, dos olhos, da língua, do maxilar e dos músculos cervicais.",
+        "e": "Proporcionar a regulação parassimpática do tamanho da pupila, da curvatura do cristalino, da frequência cardíaca, da pressão arterial, da respiração e da digestão."
+      },
+      "correct": "c",
+      "explanation": "Os nervos encefálicos inervam estruturas da cabeça e pescoço; a inervação do esqueleto apendicular e do tronco/membros é função dos nervos espinhais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17-31"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-018",
+      "topic": "Nervos cranianos",
+      "question": "Em relação à paralisia facial periférica, assinale a opção correta:",
+      "options": {
+        "a": "A paralisia dos músculos acomete o quadrante inferior da hemiface contralateral à lesão.",
+        "b": "É definida como um quadro progressivo de perda de motricidade da face, com lesão acima do núcleo do nervo facial.",
+        "c": "Pode ser acompanhada de dificuldade na mímica facial de toda a hemiface homolateral à lesão.",
+        "d": "Está relacionada a alterações de sensibilidade em toda hemiface homolateral à lesão.",
+        "e": "Nesse tipo de lesão, os músculos mastigatórios podem ser comprometidos."
+      },
+      "correct": "c",
+      "explanation": "Na paralisia facial periférica há comprometimento de toda a musculatura da hemiface homolateral à lesão, sem alteração sensitiva ou dos músculos mastigatórios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17-31"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-019",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Assim como o Sistema Nervoso Somático, o Sistema Nervoso Visceral também apresenta componentes aferentes e eferentes. Acerca desse tema, assinale a alternativa correta:",
+      "options": {
+        "a": "A porção conhecida como Sistema Nervoso Autônomo representa o componente aferente do Sistema Nervoso Visceral.",
+        "b": "Os visceroceptores correspondem à porção eferente do Sistema Nervoso Visceral.",
+        "c": "A porção eferente do Sistema Nervoso Visceral leva impulso para glândulas, musculatura lisa e cardíaca.",
+        "d": "A porção simpática do Sistema Nervoso Autônomo representa a porção aferente desse sistema.",
+        "e": "A porção parassimpática do Sistema Nervoso Autônomo representa a porção aferente desse sistema."
+      },
+      "correct": "c",
+      "explanation": "A porção eferente do Sistema Nervoso Visceral, denominada Sistema Nervoso Autônomo, leva impulsos até glândulas, musculatura lisa e cardíaca.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-020",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Sabe-se que o Sistema Nervoso Autônomo apresenta uma porção conhecida como sistema simpático. De acordo com sua localização e estruturas, assinale a alternativa correta:",
+      "options": {
+        "a": "Sua localização está no tronco encefálico e nos segmentos sacrais da medula espinhal.",
+        "b": "Apresenta apenas os neurônios pré-ganglionares, localizados na medula sacral, sendo os pós-ganglionares do sistema parassimpático.",
+        "c": "O tronco simpático é formado pelos gânglios vertebrais, e o maior deles é o gânglio cervical superior.",
+        "d": "Apenas alguns nervos espinhais possuem fibras simpáticas pós-ganglionares, atingindo o músculo esquelético.",
+        "e": "A inervação simpática da pupila estabelece sinapse com neurônios pós-ganglionares e provoca a contração da pupila (miose)."
+      },
+      "correct": "c",
+      "explanation": "O tronco simpático é formado por gânglios vertebrais situados ao lado da coluna vertebral, sendo o gânglio cervical superior um dos maiores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-021",
+      "topic": "Sistema límbico",
+      "question": "Dentre as principais estruturas do sistema límbico, podemos destacar uma que é substancial e tem como função o armazenamento da memória, sendo que uma lesão desta região pode alterar severamente a memória do indivíduo. A estrutura descrita refere-se ao:",
+      "options": {
+        "a": "Hipocampo",
+        "b": "Hipotálamo",
+        "c": "Tálamo",
+        "d": "Subtálamo",
+        "e": "Epitálamo"
+      },
+      "correct": "a",
+      "explanation": "O hipocampo é considerado a principal sede da memória e importante componente do sistema límbico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-022",
+      "topic": "Sistema límbico",
+      "question": "Esta área não faz parte do sistema límbico, porém suas conexões estão diretamente ligadas a ele por estruturas como a amígdala e o tálamo. No caso de lesão desta região, o paciente apresenta redução na concentração e perda do senso das responsabilidades sociais. O enunciado refere-se:",
+      "options": {
+        "a": "À hipófise",
+        "b": "À área pré-frontal",
+        "c": "Ao tálamo",
+        "d": "À pineal",
+        "e": "Ao giro do cíngulo"
+      },
+      "correct": "b",
+      "explanation": "O córtex pré-frontal não faz parte do sistema límbico, mas possui conexões diretas com a amígdala e o tálamo, relacionando-se ao controle das emoções e comportamento social.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-023",
+      "topic": "Sistema límbico",
+      "question": "A doença de Alzheimer é a mais frequente forma de demência entre idosos. É caracterizada por um progressivo e irreversível declínio em certas funções:",
+      "options": {
+        "a": "Intelectuais",
+        "b": "Cardíacas",
+        "c": "Respiratórias",
+        "d": "Digestivas",
+        "e": "Endócrinas"
+      },
+      "correct": "a",
+      "explanation": "A doença de Alzheimer causa declínio progressivo e irreversível de funções intelectuais como memória, orientação, pensamento abstrato e linguagem.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-024",
+      "topic": "Sistema límbico",
+      "question": "O Transtorno de Deficit de Atenção e Hiperatividade (TDAH) é um dos transtornos mentais mais comuns da infância e adolescência. Considere: I. O TDAH é um distúrbio biopsicossocial caracterizado por problemas de atenção e impulsividade. II. Está associado a comprometimento acadêmico, social e profissional. III. O cérebro dessas pessoas apresenta mudanças na região frontal e nas conexões com o resto do cérebro. A resposta correta é:",
+      "options": {
+        "a": "I, II e III estão corretas.",
+        "b": "II e III estão corretas.",
+        "c": "I e III estão corretas.",
+        "d": "I e II estão corretas.",
+        "e": "Apenas a I está correta."
+      },
+      "correct": "a",
+      "explanation": "O TDAH é um transtorno neurobiológico com alterações na região frontal e em suas conexões, causando prejuízos atencionais, comportamentais e sociais/acadêmicos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-025",
+      "topic": "Plasticidade neural",
+      "question": "É a capacidade de o cérebro se adaptar a mudanças por meio do sistema nervoso, reorganizando neurônios e circuitos neurais, moldando-se estruturalmente por meio de aprendizagem e vivências. Essa descrição se refere à:",
+      "options": {
+        "a": "Neuroplasticidade",
+        "b": "Condução saltatória",
+        "c": "Condução contínua",
+        "d": "Polarização",
+        "e": "Memória"
+      },
+      "correct": "a",
+      "explanation": "A neuroplasticidade permite que os neurônios se reorganizem e formem novas conexões sinápticas ao longo da vida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-026",
+      "topic": "Plasticidade neural",
+      "question": "Mesmo durante a velhice, o cérebro continua se adaptando ativamente ao ambiente. Por uma série de estímulos sensoriais e bioquímicos, esse fenômeno promove seu crescimento a cada:",
+      "options": {
+        "a": "Novo déficit membranar neuronal",
+        "b": "Novo aprendizado",
+        "c": "Disfunção glial",
+        "d": "Estresse oxidativo",
+        "e": "Neurônio perdido"
+      },
+      "correct": "b",
+      "explanation": "A cada novo aprendizado, redes de neurônios são reorganizadas e novas sinapses são reforçadas, promovendo plasticidade ao longo de toda a vida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-027",
+      "topic": "Plasticidade neural",
+      "question": "As lesões do Sistema Nervoso Central decorrentes do AVC apresentam como principal consequência a:",
+      "options": {
+        "a": "Espasticidade",
+        "b": "Hipotensão",
+        "c": "Hipertensão",
+        "d": "Hiperglicemia",
+        "e": "Hipoglicemia"
+      },
+      "correct": "a",
+      "explanation": "As lesões do SNC decorrentes do AVC têm como principal consequência a espasticidade, uma das principais causas de perda funcional.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-028",
+      "topic": "Plasticidade neural",
+      "question": "Em doenças neurológicas, um programa de tratamento que incorpore o treino de atividades funcionais é essencial para maior independência dos pacientes. Acredita-se que esse treino:",
+      "options": {
+        "a": "Não exerce efeitos diretos no Sistema Nervoso Central.",
+        "b": "Interfere de forma benéfica na neuroplasticidade, estimulando-a.",
+        "c": "Não interfere na neuroplasticidade.",
+        "d": "Limita a neuroplasticidade.",
+        "e": "É eficiente somente em nível de Sistema Nervoso Periférico."
+      },
+      "correct": "b",
+      "explanation": "O treino de atividades funcionais estimula de forma benéfica a neuroplasticidade, favorecendo a recuperação funcional.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-029",
+      "topic": "Neurônios e neuroglia",
+      "question": "São consideradas as unidades funcionais do sistema nervoso, especializadas em receber, processar e transmitir informações por meio de impulsos elétricos e químicos:",
+      "options": {
+        "a": "Neuroglia",
+        "b": "Neurônios",
+        "c": "Astrócitos",
+        "d": "Oligodendrócitos",
+        "e": "Micróglia"
+      },
+      "correct": "b",
+      "explanation": "Os neurônios são as unidades funcionais especializadas em receber, processar e transmitir impulsos nervosos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-030",
+      "topic": "Neurônios e neuroglia",
+      "question": "Em relação à estrutura básica do neurônio, a sequência que representa corretamente o fluxo da informação nervosa é:",
+      "options": {
+        "a": "Axônio - corpo celular - dendrito",
+        "b": "Dendrito - corpo celular - axônio",
+        "c": "Corpo celular - axônio - dendrito",
+        "d": "Axônio - dendrito - corpo celular",
+        "e": "Dendrito - axônio - corpo celular"
+      },
+      "correct": "b",
+      "explanation": "A informação entra pelos dendritos, é integrada no corpo celular e conduzida para fora pelo axônio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-031",
+      "topic": "Neurônios e neuroglia",
+      "question": "Neurônios que possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no sistema nervoso central (como os neurônios motores da medula), são classificados como:",
+      "options": {
+        "a": "Multipolares",
+        "b": "Bipolares",
+        "c": "Unipolares",
+        "d": "Pseudounipolares",
+        "e": "Apolares"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-032",
+      "topic": "Neurônios e neuroglia",
+      "question": "As células gliais responsáveis pela produção da bainha de mielina no Sistema Nervoso Central são os:",
+      "options": {
+        "a": "Astrócitos",
+        "b": "Micróglia",
+        "c": "Células ependimárias",
+        "d": "Células de Schwann",
+        "e": "Oligodendrócitos"
+      },
+      "correct": "e",
+      "explanation": "Os oligodendrócitos produzem mielina no SNC, enquanto as células de Schwann exercem essa função no SNP.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-033",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "A estrutura embrionária, derivada do ectoderma, que dá origem a todo o sistema nervoso é denominada:",
+      "options": {
+        "a": "Notocorda",
+        "b": "Mesoderma",
+        "c": "Nêurula (placa/tubo neural)",
+        "d": "Endoderma",
+        "e": "Somito"
+      },
+      "correct": "c",
+      "explanation": "A nêurula, formada a partir da placa e do tubo neural (ectoderma), origina todo o sistema nervoso.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22-31"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-034",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Assinale a sequência correta de eventos do desenvolvimento embrionário do sistema nervoso:",
+      "options": {
+        "a": "Sulco neural - placa neural - pregas neurais - cristas neurais - tubo neural",
+        "b": "Placa neural - sulco neural - pregas neurais - tubo neural - cristas neurais",
+        "c": "Cristas neurais - placa neural - sulco neural - pregas neurais - tubo neural",
+        "d": "Tubo neural - placa neural - sulco neural - pregas neurais - cristas neurais",
+        "e": "Pregas neurais - placa neural - sulco neural - tubo neural - cristas neurais"
+      },
+      "correct": "b",
+      "explanation": "A neurulação segue a sequência: placa neural, sulco neural, pregas neurais, fechamento em tubo neural, com desprendimento das cristas neurais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22-31"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-035",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Assinale a alternativa que apresenta uma estrutura pertencente ao Sistema Nervoso Central, e não ao Sistema Nervoso Periférico:",
+      "options": {
+        "a": "Nervos espinhais",
+        "b": "Gânglios nervosos",
+        "c": "Terminações nervosas",
+        "d": "Nervos cranianos",
+        "e": "Tronco encefálico"
+      },
+      "correct": "e",
+      "explanation": "O tronco encefálico faz parte do encéfalo, portanto do SNC; nervos, gânglios e terminações nervosas pertencem ao SNP.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12-14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-036",
+      "topic": "Tronco encefálico",
+      "question": "Sobre o tronco encefálico, é correto afirmar que:",
+      "options": {
+        "a": "É formado apenas pelo cerebelo e pelo diencéfalo.",
+        "b": "Não apresenta relação com os nervos cranianos.",
+        "c": "É formado por bulbo, ponte e mesencéfalo, constituindo via de passagem das fibras entre a medula e estruturas encefálicas superiores, além de abrigar núcleos de nervos cranianos.",
+        "d": "É a estrutura responsável exclusivamente pela produção do líquor.",
+        "e": "Corresponde à porção mais superior do telencéfalo."
+      },
+      "correct": "c",
+      "explanation": "O tronco encefálico (bulbo, ponte e mesencéfalo) é via de passagem de fibras e contém núcleos de dez dos doze pares de nervos cranianos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16-18"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-037",
+      "topic": "Neurônios e neuroglia",
+      "question": "Relacione as estruturas às suas definições: 1) Axônio, 2) Dendrito, 3) Mielina, 4) Sinapse. (I) Fibra longa responsável pela condução do impulso nervoso para fora do corpo celular; (II) Fibra curta que recebe informações de outros neurônios; (III) Envoltório que acelera a condução do impulso nervoso; (IV) Junção onde o neurotransmissor é liberado entre dois neurônios. A sequência correta de associação (I, II, III, IV) é:",
+      "options": {
+        "a": "2, 4, 1, 3",
+        "b": "1, 2, 3, 4",
+        "c": "4, 3, 2, 1",
+        "d": "3, 1, 4, 2",
+        "e": "1, 3, 2, 4"
+      },
+      "correct": "b",
+      "explanation": "I=Axônio(1), II=Dendrito(2), III=Mielina(3), IV=Sinapse(4), resultando na sequência 1, 2, 3, 4.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-038",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Assinale a alternativa INCORRETA a respeito do Sistema Nervoso Central (SNC):",
+      "options": {
+        "a": "O SNC processa e integra informações sensoriais e motoras.",
+        "b": "O SNC é protegido pelo crânio e pela coluna vertebral.",
+        "c": "As mensagens captadas pelo SNC são provenientes apenas de fontes externas ao organismo.",
+        "d": "O SNC trabalha em conjunto com o sistema endócrino na regulação das funções corporais.",
+        "e": "O SNC é constituído pelo encéfalo e pela medula espinhal."
+      },
+      "correct": "c",
+      "explanation": "O SNC recebe informações tanto do meio externo (exteroceptores) quanto do meio interno do corpo (interoceptores e proprioceptores), e não apenas de fontes externas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12-14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-039",
+      "topic": "Medula espinhal",
+      "question": "A medula espinhal é uma estrutura que faz parte do:",
+      "options": {
+        "a": "Sistema nervoso periférico e está localizada fora da coluna vertebral",
+        "b": "Sistema nervoso periférico e está localizada dentro da coluna vertebral",
+        "c": "Sistema nervoso central e está localizada fora da coluna vertebral",
+        "d": "Sistema nervoso central e está localizada dentro do canal da coluna vertebral"
+      },
+      "correct": "d",
+      "explanation": "A medula espinhal pertence ao Sistema Nervoso Central e está alojada dentro do canal vertebral, protegida pela coluna.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4-15"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-040",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Quais plexos nervosos originam-se, respectivamente, da intumescência cervical e da intumescência lombar da medula espinhal?",
+      "options": {
+        "a": "Plexo braquial e plexo lombossacral",
+        "b": "Plexo cervical e plexo braquial",
+        "c": "Plexo lombar e plexo sacral",
+        "d": "Plexo cervical e plexo sacral"
+      },
+      "correct": "a",
+      "explanation": "A intumescência cervical origina o plexo braquial, destinado ao membro superior; a intumescência lombar origina os plexos lombar e sacral, destinados ao membro inferior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3-16"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-041",
+      "topic": "Cerebelo",
+      "question": "O cerebelo pode ser dividido filogeneticamente em arquicerebelo, paleocerebelo e neocerebelo. A correspondência anatômica e funcional correta é:",
+      "options": {
+        "a": "Arquicerebelo (lobo posterior) - coordenação motora fina",
+        "b": "Arquicerebelo (lobo flóculo-nodular) - equilíbrio, por meio de conexões vestibulares",
+        "c": "Paleocerebelo (lobo flóculo-nodular) - propriocepção",
+        "d": "Neocerebelo (lobo anterior) - tônus muscular e postura"
+      },
+      "correct": "b",
+      "explanation": "O arquicerebelo (cerebelo vestibular), correspondente ao lobo flóculo-nodular, é responsável pela manutenção do equilíbrio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18-21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-042",
+      "topic": "Cerebelo",
+      "question": "Os núcleos centrais mergulhados na substância branca do cerebelo, importantes na modulação da atividade motora, são conhecidos coletivamente como núcleos cerebelares profundos, dos quais o principal e mais lateral é o núcleo:",
+      "options": {
+        "a": "Caudado",
+        "b": "Rubro",
+        "c": "Vestibular",
+        "d": "Denteado"
+      },
+      "correct": "d",
+      "explanation": "O núcleo denteado é o maior e mais lateral dos núcleos cerebelares profundos, relacionado ao planejamento e à coordenação motora fina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18-21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-043",
+      "topic": "Nervos cranianos",
+      "question": "O nistagmo (movimento oscilatório involuntário dos olhos) observado após rotação do corpo é um sinal relacionado principalmente a alterações do:",
+      "options": {
+        "a": "Nervo óptico",
+        "b": "Nervo troclear",
+        "c": "Sistema vestibular (nervo vestibulococlear)",
+        "d": "Nervo hipoglosso"
+      },
+      "correct": "c",
+      "explanation": "O nistagmo pós-rotatório está relacionado à parte vestibular do nervo vestibulococlear (VIII par), responsável pelo equilíbrio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17-31"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-044",
+      "topic": "Cerebelo",
+      "question": "De acordo com o gabarito de uma das provas da disciplina, a principal via de entrada e saída de informações entre o cerebelo e o restante do tronco encefálico, por meio dos pedúnculos cerebelares, conecta-se principalmente ao(à):",
+      "options": {
+        "a": "Ponte",
+        "b": "Bulbo",
+        "c": "Mesencéfalo",
+        "d": "Nervo hipoglosso"
+      },
+      "correct": "b",
+      "explanation": "Segundo o gabarito da prova de referência, a via principal de entrada/saída de informações entre o cerebelo e o tronco encefálico ocorre através dos pedúnculos cerebelares inferiores, conectados ao bulbo, por onde trafegam vias proprioceptivas e vestibulares essenciais ao equilíbrio e à coordenação (observação: didaticamente, o pedúnculo cerebelar médio, ligado à ponte, é descrito como a maior via de entrada de informações corticais para o cerebelo).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18-21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-045",
+      "topic": "Neurônios e neuroglia",
+      "question": "Neurônios de axônio longo que saem da medula para constituir a raiz ventral são classificados, segundo a classificação de Golgi, como neurônios do tipo:",
+      "options": {
+        "a": "II de Golgi (axônio curto)",
+        "b": "I de Golgi (axônio longo), incluindo os neurônios radiculares",
+        "c": "Internunciais",
+        "d": "Amácrinos",
+        "e": "Bipolares"
+      },
+      "correct": "b",
+      "explanation": "Os neurônios radiculares, de axônio longo, pertencem ao tipo I de Golgi e saem da medula constituindo a raiz ventral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-046",
+      "topic": "Medula espinhal",
+      "question": "A célula de Renshaw, um tipo especial de neurônio de axônio curto (internuncial) encontrado na medula espinhal, atua principalmente:",
+      "options": {
+        "a": "Conduzindo impulsos motores diretamente aos músculos",
+        "b": "Modulando/inibindo a atividade dos neurônios motores em circuitos de retroalimentação, interpondo-se em arcos reflexos",
+        "c": "Produzindo mielina para os axônios da substância branca",
+        "d": "Formando a barreira hematoencefálica",
+        "e": "Secretando líquor no canal central da medula"
+      },
+      "correct": "b",
+      "explanation": "A célula de Renshaw é um neurônio internuncial que modula a atividade dos neurônios motores, participando de circuitos reflexos medulares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4-15"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-047",
+      "topic": "Medula espinhal",
+      "question": "O trato córtico-espinhal lateral, também chamado de piramidal cruzado, tem como principal característica:",
+      "options": {
+        "a": "Cruzar o plano mediano apenas ao término, próximo aos neurônios motores",
+        "b": "Localizar-se no funículo anterior da medula",
+        "c": "Cruzar o plano mediano na decussação das pirâmides bulbares e conduzir a maior parte (75 a 90%) das fibras córtico-espinhais",
+        "d": "Ser responsável exclusivamente pela sensibilidade dolorosa",
+        "e": "Não apresentar cruzamento em nenhum ponto do trajeto"
+      },
+      "correct": "c",
+      "explanation": "O trato córtico-espinhal lateral cruza na decussação das pirâmides bulbares e conduz de 75% a 90% das fibras do trato córtico-espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4-15"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-048",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "A tríade motora composta pelos núcleos caudado, putâmen e globo pálido é conhecida em conjunto como:",
+      "options": {
+        "a": "Corpo estriado",
+        "b": "Corpo caloso",
+        "c": "Complexo amigdaloide",
+        "d": "Substância negra",
+        "e": "Núcleo accumbens"
+      },
+      "correct": "a",
+      "explanation": "O corpo estriado é formado pelos núcleos caudado, putâmen e globo pálido, com importante papel no planejamento motor.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21-26"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-049",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "A degeneração dos neurônios produtores de dopamina localizados na substância negra do mesencéfalo está diretamente associada à fisiopatologia da:",
+      "options": {
+        "a": "Esclerose múltipla",
+        "b": "Doença de Alzheimer",
+        "c": "Doença de Parkinson",
+        "d": "Síndrome de Kluver-Bucy",
+        "e": "Epilepsia do lobo temporal"
+      },
+      "correct": "c",
+      "explanation": "A degeneração dos neurônios dopaminérgicos da substância negra é a base fisiopatológica da doença de Parkinson.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21-26"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-050",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "A área de Broca, localizada na porção opercular do lobo frontal (geralmente no hemisfério esquerdo), é responsável pelo(a):",
+      "options": {
+        "a": "Compreensão da linguagem falada e escrita",
+        "b": "Expressão motora da linguagem (fala e escrita)",
+        "c": "Processamento das informações visuais",
+        "d": "Audição",
+        "e": "Equilíbrio corporal"
+      },
+      "correct": "b",
+      "explanation": "A área de Broca é responsável pelo centro cortical da expressão da linguagem falada e escrita; sua lesão causa afasia motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26-34"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-051",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Lesões na área de Wernicke, localizada no giro temporal superior, geram um quadro de afasia caracterizado por:",
+      "options": {
+        "a": "Perda total da fala, mantendo compreensão íntegra",
+        "b": "Fala fluente, porém confusa e desconexa, com dificuldade de compreensão da linguagem",
+        "c": "Paralisia da musculatura facial",
+        "d": "Perda da audição bilateral",
+        "e": "Perda da visão periférica"
+      },
+      "correct": "b",
+      "explanation": "A lesão na área de Wernicke causa afasia sensitiva: o indivíduo fala, mas de forma confusa e desconexa, com dificuldade de compreensão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26-34"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-052",
+      "topic": "Meninges e líquor",
+      "question": "O líquido cefalorraquidiano (líquor) é produzido principalmente:",
+      "options": {
+        "a": "Pelas granulações aracnóideas",
+        "b": "Pelos plexos coroides, a partir das células ependimárias",
+        "c": "Pela pia-máter",
+        "d": "Pela dura-máter",
+        "e": "Pelo corpo caloso"
+      },
+      "correct": "b",
+      "explanation": "O líquor é produzido nos plexos coroides, a partir das células ependimárias localizadas nas paredes ventriculares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35-39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-053",
+      "topic": "Nervos cranianos",
+      "question": "O nervo trigêmeo (V par craniano) é responsável pela sensibilidade somática de grande parte da face e pela motricidade da mastigação, sendo constituído por três ramos, EXCETO:",
+      "options": {
+        "a": "Nervo oftálmico",
+        "b": "Nervo maxilar",
+        "c": "Nervo mandibular",
+        "d": "Nervo hipoglosso",
+        "e": "Nenhuma das alternativas"
+      },
+      "correct": "d",
+      "explanation": "O nervo trigêmeo é formado pelos ramos oftálmico, maxilar e mandibular; o nervo hipoglosso é o XII par craniano, responsável pela motricidade da língua.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17-31"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-054",
+      "topic": "Nervos cranianos",
+      "question": "O nervo vago (X par craniano), considerado o maior dos nervos encefálicos, é responsável principalmente pela:",
+      "options": {
+        "a": "Inervação motora dos músculos extrínsecos do olho",
+        "b": "Inervação sensitiva do olfato",
+        "c": "Inervação parassimpática das vísceras torácicas e abdominais, além da laringe e faringe",
+        "d": "Condução exclusiva de impulsos visuais",
+        "e": "Inervação motora da língua"
+      },
+      "correct": "c",
+      "explanation": "O nervo vago é responsável pela inervação da laringe e faringe e faz parte da formação dos plexos viscerais autônomos torácicos e abdominais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17-31"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-055",
+      "topic": "Nervos espinhais e plexos",
+      "question": "O nervo mediano, originado dos fascículos lateral e medial do plexo braquial, é responsável, entre outras funções, pela:",
+      "options": {
+        "a": "Extensão de cotovelo, punho e dedos",
+        "b": "Abdução do ombro",
+        "c": "Pronação do antebraço e flexão do punho e dos dedos",
+        "d": "Adução do quadril",
+        "e": "Flexão do joelho"
+      },
+      "correct": "c",
+      "explanation": "O nervo mediano inerva a maioria dos músculos flexores do antebraço, sendo responsável pela pronação, flexão de punho e dedos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3-16"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-056",
+      "topic": "Sistema nervoso autônomo",
+      "question": "O sistema nervoso parassimpático é também chamado de sistema craniossacral porque seus neurônios pré-ganglionares localizam-se:",
+      "options": {
+        "a": "Exclusivamente na medula torácica",
+        "b": "No tronco encefálico (associados a alguns nervos cranianos) e nos segmentos sacrais da medula (S2-S4)",
+        "c": "Exclusivamente nos gânglios paravertebrais",
+        "d": "No hipotálamo",
+        "e": "No cerebelo"
+      },
+      "correct": "b",
+      "explanation": "O parassimpático é chamado craniossacral por seus neurônios pré-ganglionares estarem no tronco encefálico e nos segmentos sacrais S2, S3 e S4.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-obj-057",
+      "topic": "Sistema límbico",
+      "question": "O circuito de Papez, proposto em 1937 como base anatômica das emoções, envolve principalmente as seguintes estruturas interconectadas:",
+      "options": {
+        "a": "Cerebelo, ponte e bulbo",
+        "b": "Hipotálamo, núcleo talâmico anterior, giro cingulado e hipocampo",
+        "c": "Lobo occipital, área visual primária e tálamo",
+        "d": "Nervo óptico, quiasma óptico e corpo geniculado lateral",
+        "e": "Medula espinhal e gânglios simpáticos"
+      },
+      "correct": "b",
+      "explanation": "James Papez propôs que hipotálamo, núcleo talâmico anterior, giro cingulado, hipocampo e suas interconexões formam o mecanismo central das emoções.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-obj-058",
+      "topic": "Sistema límbico",
+      "question": "A amígdala cerebral, importante componente do sistema límbico, está diretamente relacionada ao processamento de qual emoção, tendo papel central em sua aprendizagem e em respostas autonômicas associadas?",
+      "options": {
+        "a": "Alegria",
+        "b": "Medo",
+        "c": "Surpresa",
+        "d": "Nojo",
+        "e": "Tédio"
+      },
+      "correct": "b",
+      "explanation": "A amígdala tem papel central no processamento do medo, em sua aprendizagem e nas respostas autonômicas de luta ou fuga associadas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-059",
+      "topic": "Plasticidade neural",
+      "question": "A neurogênese no cérebro adulto humano, ou seja, a formação de novos neurônios, ocorre de forma mais evidente em duas regiões: a zona subventricular dos ventrículos laterais e:",
+      "options": {
+        "a": "O córtex occipital",
+        "b": "A camada subgranular do giro denteado do hipocampo",
+        "c": "O núcleo rubro do mesencéfalo",
+        "d": "A substância negra",
+        "e": "O corpo caloso"
+      },
+      "correct": "b",
+      "explanation": "As duas principais regiões de neurogênese no cérebro adulto são a zona subventricular e a camada subgranular do giro denteado do hipocampo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-060",
+      "topic": "Plasticidade neural",
+      "question": "A potenciação de longo prazo (PLP), fenômeno de plasticidade sináptica associado à consolidação da memória e ao aprendizado, caracteriza-se por:",
+      "options": {
+        "a": "Um enfraquecimento persistente e duradouro das sinapses menos utilizadas",
+        "b": "Um aumento persistente e duradouro na eficiência da transmissão sináptica após estimulação repetida",
+        "c": "A morte programada de neurônios não utilizados",
+        "d": "A produção de mielina por oligodendrócitos",
+        "e": "A formação de novos vasos sanguíneos no encéfalo"
+      },
+      "correct": "b",
+      "explanation": "A potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em aumento persistente da transmissão sináptica, associada à memória.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    }
+  ],
+  "discursive": [
+    {
+      "id": "neuro-disc-001",
+      "topic": "Neurônios e neuroglia",
+      "question": "Descreva a estrutura básica de um neurônio (corpo celular, dendritos e axônio) e explique como ocorre a transmissão do impulso nervoso de um neurônio para outro através da sinapse.",
+      "modelAnswer": "O neurônio é composto por corpo celular (soma), onde ficam o núcleo e as principais organelas; dendritos, prolongamentos curtos e ramificados que recebem informações de outros neurônios; e axônio, um prolongamento longo, geralmente revestido por bainha de mielina, que conduz o impulso nervoso para fora do corpo celular. A mielina, produzida por oligodendrócitos no SNC, permite a condução saltatória, tornando o impulso mais rápido. Quando o impulso elétrico chega à extremidade do axônio (botão sináptico), ocorre a abertura de canais de cálcio e a liberação de neurotransmissores na fenda sináptica. Esses neurotransmissores se ligam a receptores específicos na membrana do neurônio seguinte, podendo gerar um novo potencial de ação e dar continuidade à transmissão da informação.",
+      "keyPoints": [
+        {
+          "text": "Corpo celular (soma) contém núcleo e organelas",
+          "weight": 1,
+          "keywords": [
+            "corpo celular",
+            "soma",
+            "núcleo"
+          ]
+        },
+        {
+          "text": "Dendritos recebem informações de outros neurônios",
+          "weight": 2,
+          "keywords": [
+            "dendrito",
+            "recebe",
+            "entrada de informação"
+          ]
+        },
+        {
+          "text": "Axônio conduz o impulso para fora do corpo celular",
+          "weight": 2,
+          "keywords": [
+            "axônio",
+            "conduz",
+            "condução",
+            "saída do impulso"
+          ]
+        },
+        {
+          "text": "Sinapse libera neurotransmissores na fenda sináptica",
+          "weight": 3,
+          "keywords": [
+            "sinapse",
+            "neurotransmissor",
+            "fenda sináptica"
+          ]
+        },
+        {
+          "text": "Mielina acelera a condução do impulso (condução saltatória)",
+          "weight": 2,
+          "keywords": [
+            "mielina",
+            "condução saltatória",
+            "bainha de mielina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-002",
+      "topic": "Neurônios e neuroglia",
+      "question": "Compare os astrócitos, os oligodendrócitos e a micróglia quanto à sua função no Sistema Nervoso Central.",
+      "modelAnswer": "Os astrócitos são células gliais estreladas com função de nutrição e suporte metabólico aos neurônios, participação na formação da barreira hematoencefálica e regulação do ambiente químico extracelular, incluindo a captação de neurotransmissores. Os oligodendrócitos são responsáveis pela produção da bainha de mielina que envolve os axônios no Sistema Nervoso Central, permitindo a condução saltatória e mais rápida do impulso nervoso; cada oligodendrócito pode mielinizar segmentos de vários axônios diferentes. Já a micróglia constitui as células de defesa imunológica do SNC, atuando na fagocitose de resíduos celulares, patógenos e neurônios danificados, funcionando como o sistema imune residente do tecido nervoso. No Sistema Nervoso Periférico, a função equivalente à dos oligodendrócitos é exercida pelas células de Schwann.",
+      "keyPoints": [
+        {
+          "text": "Astrócitos: nutrição, suporte metabólico e barreira hematoencefálica",
+          "weight": 3,
+          "keywords": [
+            "astrócito",
+            "nutrição",
+            "barreira hematoencefálica",
+            "suporte"
+          ]
+        },
+        {
+          "text": "Oligodendrócitos: produção de mielina no SNC",
+          "weight": 3,
+          "keywords": [
+            "oligodendrócito",
+            "mielina",
+            "bainha de mielina",
+            "SNC"
+          ]
+        },
+        {
+          "text": "Micróglia: defesa imunológica e fagocitose",
+          "weight": 3,
+          "keywords": [
+            "micróglia",
+            "defesa",
+            "fagocitose",
+            "imunológica"
+          ]
+        },
+        {
+          "text": "Células de Schwann fazem função equivalente no SNP",
+          "weight": 1,
+          "keywords": [
+            "célula de schwann",
+            "sistema nervoso periférico",
+            "SNP"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-003",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique a diferença entre neurônios multipolares, bipolares e unipolares (pseudounipolares), dando um exemplo de localização de cada tipo.",
+      "modelAnswer": "Os neurônios são classificados morfologicamente de acordo com o número de prolongamentos que emergem do corpo celular. Os neurônios multipolares possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no Sistema Nervoso Central, como os motoneurônios da medula espinhal. Os neurônios bipolares apresentam apenas dois prolongamentos, um dendrito e um axônio, partindo de lados opostos do corpo celular; são encontrados, por exemplo, na retina e no epitélio olfatório. Já os neurônios pseudounipolares (ou unipolares) apresentam um único prolongamento que se bifurca em dois ramos, um periférico (que capta o estímulo sensitivo) e um central (que leva a informação até o SNC); esse tipo é típico dos neurônios sensitivos localizados nos gânglios das raízes dorsais dos nervos espinhais.",
+      "keyPoints": [
+        {
+          "text": "Multipolares: um axônio e vários dendritos, comuns no SNC (ex: motoneurônios)",
+          "weight": 3,
+          "keywords": [
+            "multipolar",
+            "vários dendritos",
+            "motoneurônio"
+          ]
+        },
+        {
+          "text": "Bipolares: um dendrito e um axônio, ex: retina e olfato",
+          "weight": 2,
+          "keywords": [
+            "bipolar",
+            "retina",
+            "olfato"
+          ]
+        },
+        {
+          "text": "Pseudounipolares: um prolongamento que se bifurca, típicos de gânglios sensitivos espinhais",
+          "weight": 3,
+          "keywords": [
+            "pseudounipolar",
+            "unipolar",
+            "gânglio espinhal",
+            "sensitivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-004",
+      "topic": "Sistema nervoso central",
+      "question": "Explique a organização da substância cinzenta e da substância branca na medula espinhal, relacionando cada uma às suas funções sensitivas e motoras.",
+      "modelAnswer": "Em um corte transversal da medula espinhal, observa-se a substância cinzenta disposta centralmente em formato de H, composta principalmente por corpos celulares de neurônios, e a substância branca disposta perifericamente, formada por axônios mielinizados organizados em tratos e fascículos. A substância cinzenta divide-se em colunas (ou cornos): a coluna posterior recebe as informações sensitivas provenientes da periferia através da raiz dorsal, sendo considerada a porção sensitiva; a coluna anterior contém os corpos dos neurônios motores, cujos axônios saem pela raiz ventral em direção à musculatura esquelética, sendo a porção motora. A substância branca é dividida em funículos anterior, lateral e posterior, contendo tratos ascendentes (levam informação sensitiva da periferia ao encéfalo) e descendentes (levam comandos motores do encéfalo à medula).",
+      "keyPoints": [
+        {
+          "text": "Substância cinzenta central em forma de H, com corpos celulares",
+          "weight": 2,
+          "keywords": [
+            "substância cinzenta",
+            "forma de h",
+            "corpos celulares"
+          ]
+        },
+        {
+          "text": "Substância branca periférica, com axônios mielinizados",
+          "weight": 2,
+          "keywords": [
+            "substância branca",
+            "axônios mielinizados",
+            "periférica"
+          ]
+        },
+        {
+          "text": "Coluna posterior é sensitiva, recebe informação pela raiz dorsal",
+          "weight": 3,
+          "keywords": [
+            "coluna posterior",
+            "sensitiva",
+            "raiz dorsal"
+          ]
+        },
+        {
+          "text": "Coluna anterior é motora, envia comandos pela raiz ventral",
+          "weight": 3,
+          "keywords": [
+            "coluna anterior",
+            "motora",
+            "raiz ventral"
+          ]
+        },
+        {
+          "text": "Substância branca dividida em funículos anterior, lateral e posterior",
+          "weight": 1,
+          "keywords": [
+            "funículo",
+            "anterior lateral posterior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-005",
+      "topic": "Sistema nervoso central",
+      "question": "Descreva as três meninges que envolvem o Sistema Nervoso Central e a função do líquido cefalorraquidiano (líquor).",
+      "modelAnswer": "O Sistema Nervoso Central é envolvido por três membranas conjuntivas chamadas meninges. A dura-máter é a mais externa e mais espessa, formada por tecido conjuntivo rico em fibras colágenas, e forma pregas como a foice do cérebro e a tenda do cerebelo. A aracnoide é uma membrana serosa, delgada e transparente, localizada entre a dura-máter e a pia-máter, apresentando trabéculas que lembram teias de aranha. A pia-máter é a meninge mais interna, aderida diretamente à superfície do encéfalo e da medula, acompanhando seus sulcos e relevos. Entre a aracnoide e a pia-máter existe o espaço subaracnóideo, preenchido por líquor. O líquor é produzido pelos plexos coroides a partir das células ependimárias e circula pelos ventrículos e pelo espaço subaracnóideo, sendo reabsorvido pelas granulações aracnóideas. Sua função principal é a proteção mecânica do SNC, formando um coxim líquido, além de contribuir para a proteção biológica contra agentes infecciosos.",
+      "keyPoints": [
+        {
+          "text": "Dura-máter: meninge mais externa e resistente",
+          "weight": 2,
+          "keywords": [
+            "dura-máter",
+            "externa",
+            "resistente"
+          ]
+        },
+        {
+          "text": "Aracnoide: membrana intermediária com trabéculas",
+          "weight": 1,
+          "keywords": [
+            "aracnoide",
+            "trabéculas",
+            "teia de aranha"
+          ]
+        },
+        {
+          "text": "Pia-máter: meninge mais interna, aderida ao tecido nervoso",
+          "weight": 2,
+          "keywords": [
+            "pia-máter",
+            "interna",
+            "aderida"
+          ]
+        },
+        {
+          "text": "Líquor produzido nos plexos coroides",
+          "weight": 2,
+          "keywords": [
+            "líquor",
+            "plexo coroide",
+            "produção"
+          ]
+        },
+        {
+          "text": "Função de proteção mecânica e biológica do SNC",
+          "weight": 2,
+          "keywords": [
+            "proteção mecânica",
+            "coxim líquido",
+            "proteção biológica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-006",
+      "topic": "Sistema nervoso central",
+      "question": "Explique o trajeto e o significado clínico da via córtico-espinhal (piramidal), incluindo a decussação das pirâmides.",
+      "modelAnswer": "A via córtico-espinhal, ou piramidal, origina-se principalmente no córtex motor primário (giro pré-central) do cérebro e desce em direção à medula espinhal, passando pelo tronco encefálico, especificamente pelas pirâmides bulbares, o que justifica seu nome. Na porção caudal do bulbo, na chamada decussação das pirâmides, cerca de 75% a 90% das fibras cruzam para o lado oposto, formando o trato córtico-espinhal lateral, que percorre toda a extensão da medula; o restante das fibras, de 10% a 20%, segue sem cruzar formando o trato córtico-espinhal anterior, que cruza apenas próximo ao seu término. Isso significa que a motricidade voluntária é predominantemente cruzada: o córtex de um hemisfério cerebral comanda a musculatura do lado oposto do corpo. Clinicamente, uma lesão nessa via acima do nível da decussação (por exemplo, um AVC no córtex motor) gera déficit motor (paresia ou plegia) no lado oposto do corpo, enquanto uma lesão abaixo da decussação afeta o mesmo lado da lesão.",
+      "keyPoints": [
+        {
+          "text": "Origem no córtex motor (giro pré-central)",
+          "weight": 2,
+          "keywords": [
+            "córtex motor",
+            "giro pré-central",
+            "origem"
+          ]
+        },
+        {
+          "text": "Passagem pelas pirâmides bulbares no tronco encefálico",
+          "weight": 1,
+          "keywords": [
+            "pirâmides bulbares",
+            "tronco encefálico"
+          ]
+        },
+        {
+          "text": "Decussação: cruzamento de 75-90% das fibras formando o trato lateral",
+          "weight": 3,
+          "keywords": [
+            "decussação",
+            "cruzamento",
+            "trato córtico-espinhal lateral"
+          ]
+        },
+        {
+          "text": "Motricidade voluntária é cruzada (contralateral)",
+          "weight": 3,
+          "keywords": [
+            "motricidade cruzada",
+            "contralateral",
+            "lado oposto"
+          ]
+        },
+        {
+          "text": "Lesão acima da decussação causa déficit no lado oposto do corpo",
+          "weight": 2,
+          "keywords": [
+            "lesão",
+            "déficit motor",
+            "hemiplegia contralateral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-007",
+      "topic": "Sistema nervoso periférico",
+      "question": "Diferencie os três tipos de lesão nervosa periférica (neuropraxia, axonotmese e neurotmese) quanto à gravidade e ao prognóstico.",
+      "modelAnswer": "As lesões nervosas periféricas podem ser classificadas em três tipos, de acordo com a gravidade do dano às estruturas do nervo. A neuropraxia é o tipo mais leve: a estrutura do nervo permanece intacta, ocorrendo apenas uma interrupção temporária da condução do impulso nervoso, o que confere bom prognóstico e recuperação geralmente completa. A axonotmese é um grau intermediário, no qual há lesão do axônio propriamente dito, mas as bainhas conjuntivas (endoneuro) permanecem íntegras, fornecendo um caminho anatômico adequado para a regeneração axonal, ainda com prognóstico relativamente favorável, embora mais lento. Já a neurotmese é o tipo mais grave, caracterizado pela secção completa do nervo, incluindo axônio e envoltórios conjuntivos; a distância entre os cotos nervosos dificulta muito a regeneração espontânea, sendo necessária, em muitos casos, intervenção cirúrgica, e o prognóstico é considerado ruim.",
+      "keyPoints": [
+        {
+          "text": "Neuropraxia: lesão leve, estrutura intacta, bom prognóstico",
+          "weight": 3,
+          "keywords": [
+            "neuropraxia",
+            "leve",
+            "bom prognóstico"
+          ]
+        },
+        {
+          "text": "Axonotmese: lesão do axônio, endoneuro preservado, prognóstico razoável",
+          "weight": 3,
+          "keywords": [
+            "axonotmese",
+            "endoneuro",
+            "axônio lesado"
+          ]
+        },
+        {
+          "text": "Neurotmese: secção total do nervo, prognóstico ruim",
+          "weight": 3,
+          "keywords": [
+            "neurotmese",
+            "secção total",
+            "prognóstico ruim"
+          ]
+        },
+        {
+          "text": "Diferenciação baseada na integridade das bainhas conjuntivas",
+          "weight": 1,
+          "keywords": [
+            "bainha conjuntiva",
+            "integridade",
+            "regeneração"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-008",
+      "topic": "Sistema nervoso periférico",
+      "question": "Explique o conceito de dermátomo e miótomo e sua importância clínica na avaliação de lesões nervosas.",
+      "modelAnswer": "Dermátomo é o território cutâneo inervado pelas fibras sensitivas de uma única raiz dorsal do nervo espinhal, recebendo o nome dessa raiz (por exemplo, dermátomo de C6). Já miótomo é o território muscular inervado por uma única raiz ventral (motora) de um nervo espinhal. Essas fibras podem chegar aos territórios de forma unissegmentar, como nos nervos intercostais, ou plurissegmentar, como nos nervos mediano, ulnar e radial, que recebem contribuições de várias raízes. O conhecimento do mapa de dermátomos e miótomos é fundamental na prática clínica: diante de um quadro de perda de sensibilidade ou de força muscular em determinado território, é possível inferir se a lesão está localizada em um nervo periférico específico, em uma raiz nervosa ou na própria medula espinhal, e também estimar o nível exato dessa lesão.",
+      "keyPoints": [
+        {
+          "text": "Dermátomo: território cutâneo de uma única raiz dorsal (sensitiva)",
+          "weight": 3,
+          "keywords": [
+            "dermátomo",
+            "território cutâneo",
+            "raiz dorsal"
+          ]
+        },
+        {
+          "text": "Miótomo: território muscular de uma única raiz ventral (motora)",
+          "weight": 3,
+          "keywords": [
+            "miótomo",
+            "território muscular",
+            "raiz ventral"
+          ]
+        },
+        {
+          "text": "Nervos unissegmentares (ex: intercostais) versus plurissegmentares",
+          "weight": 1,
+          "keywords": [
+            "unissegmentar",
+            "plurissegmentar",
+            "intercostal"
+          ]
+        },
+        {
+          "text": "Utilidade clínica para localizar o nível da lesão nervosa",
+          "weight": 2,
+          "keywords": [
+            "localizar lesão",
+            "nível da lesão",
+            "avaliação clínica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-009",
+      "topic": "Sistema nervoso periférico",
+      "question": "Explique as principais funções do sistema nervoso simpático e do parassimpático, destacando suas diferenças anatômicas e funcionais.",
+      "modelAnswer": "O Sistema Nervoso Autônomo divide-se em simpático e parassimpático, que apresentam diferenças anatômicas, funcionais e químicas. Anatomicamente, o sistema simpático é chamado toracolombar, pois seus neurônios pré-ganglionares originam-se na medula torácica e nos primeiros segmentos lombares, com gânglios situados próximos à coluna vertebral (tronco simpático) e, portanto, longe das vísceras-alvo. Já o parassimpático é chamado craniossacral, com neurônios pré-ganglionares localizados no tronco encefálico (associados aos nervos cranianos III, VII, IX e X) e nos segmentos sacrais S2 a S4, com gânglios situados próximos ou dentro das vísceras. Funcionalmente, os dois sistemas geralmente apresentam ações antagônicas sobre um mesmo órgão: por exemplo, o simpático acelera os batimentos cardíacos e dilata os brônquios (preparando o corpo para lutar ou fugir), enquanto o parassimpático reduz a frequência cardíaca e estimula a digestão (funções de repouso e digestão). Além disso, as ações simpáticas tendem a ser mais difusas, atingindo vários órgãos simultaneamente, enquanto as parassimpáticas são mais localizadas.",
+      "keyPoints": [
+        {
+          "text": "Simpático: toracolombar, gânglios próximos à coluna vertebral",
+          "weight": 2,
+          "keywords": [
+            "simpático",
+            "toracolombar",
+            "tronco simpático"
+          ]
+        },
+        {
+          "text": "Parassimpático: craniossacral, gânglios próximos às vísceras",
+          "weight": 2,
+          "keywords": [
+            "parassimpático",
+            "craniossacral",
+            "gânglios próximos"
+          ]
+        },
+        {
+          "text": "Ações geralmente antagônicas nos mesmos órgãos",
+          "weight": 3,
+          "keywords": [
+            "antagônicas",
+            "ações opostas",
+            "taquicardia bradicardia"
+          ]
+        },
+        {
+          "text": "Simpático de ação difusa, parassimpático de ação localizada",
+          "weight": 2,
+          "keywords": [
+            "ação difusa",
+            "ação localizada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-010",
+      "topic": "Sistema límbico",
+      "question": "Explique o papel do hipocampo e da amígdala no processamento das emoções e da memória.",
+      "modelAnswer": "O hipocampo e a amígdala são duas das principais estruturas do sistema límbico, com funções complementares. O hipocampo é considerado a principal sede da formação de memórias declarativas de longo prazo, sendo responsável por consolidar novas informações e também por integrar a experiência emocional com a cognição, além de participar da orientação espacial. Lesões no hipocampo, como as observadas na doença de Alzheimer ou na esclerose hipocampal, comprometem gravemente a capacidade de formar novas memórias. Já a amígdala tem papel central no processamento de informações emocionais, principalmente relacionadas ao medo, sendo responsável por atribuir significado emocional aos estímulos e por desencadear respostas autonômicas de defesa (como a reação de luta ou fuga). O hipocampo e a amígdala trabalham em conjunto, junto com o córtex pré-frontal, na consolidação e recuperação de memórias emocionais, explicando por que eventos com forte carga emocional tendem a ser mais bem lembrados.",
+      "keyPoints": [
+        {
+          "text": "Hipocampo: consolidação da memória declarativa de longo prazo",
+          "weight": 3,
+          "keywords": [
+            "hipocampo",
+            "memória",
+            "consolidação"
+          ]
+        },
+        {
+          "text": "Amígdala: processamento emocional, especialmente do medo",
+          "weight": 3,
+          "keywords": [
+            "amígdala",
+            "medo",
+            "processamento emocional"
+          ]
+        },
+        {
+          "text": "Ambas conectadas ao córtex pré-frontal na memória emocional",
+          "weight": 2,
+          "keywords": [
+            "córtex pré-frontal",
+            "memória emocional",
+            "conexões"
+          ]
+        },
+        {
+          "text": "Lesão do hipocampo prejudica a formação de novas memórias",
+          "weight": 2,
+          "keywords": [
+            "lesão hipocampo",
+            "amnésia",
+            "esclerose hipocampal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-011",
+      "topic": "Sistema límbico",
+      "question": "Descreva o circuito de Papez e sua relevância para a compreensão neurobiológica das emoções.",
+      "modelAnswer": "O circuito de Papez foi proposto em 1937 pelo médico americano James Papez, no artigo 'Um mecanismo proposto de emoção', constituindo um dos primeiros modelos anatômicos a explicar a base neural das emoções. Segundo esse modelo, o hipotálamo, o núcleo talâmico anterior, o giro cingulado e o hipocampo, juntamente com suas interconexões (principalmente por meio do fórnice), formam um mecanismo harmônico e circular capaz tanto de elaborar a experiência emocional central quanto de participar da expressão emocional observável. Esse circuito foi historicamente importante por consolidar a ideia de que a emoção possui um substrato anatômico específico no encéfalo, e não seria apenas um fenômeno puramente psíquico. Com o avanço das pesquisas, o circuito original foi ampliado para incluir outras estruturas, como a amígdala, o septo e o córtex pré-frontal, reconhecendo-se hoje uma rede límbica mais complexa e distribuída para o processamento das emoções.",
+      "keyPoints": [
+        {
+          "text": "Proposto por James Papez em 1937",
+          "weight": 1,
+          "keywords": [
+            "james papez",
+            "1937",
+            "circuito de papez"
+          ]
+        },
+        {
+          "text": "Envolve hipotálamo, núcleo talâmico anterior, giro cingulado e hipocampo",
+          "weight": 3,
+          "keywords": [
+            "hipotálamo",
+            "núcleo talâmico anterior",
+            "giro cingulado",
+            "hipocampo"
+          ]
+        },
+        {
+          "text": "Conexões via fórnice formando um circuito",
+          "weight": 1,
+          "keywords": [
+            "fórnice",
+            "circuito",
+            "interconexões"
+          ]
+        },
+        {
+          "text": "Base anatômica para a elaboração e expressão das emoções",
+          "weight": 2,
+          "keywords": [
+            "base anatômica",
+            "expressão emocional",
+            "processamento emocional"
+          ]
+        },
+        {
+          "text": "Elaborações posteriores incluíram amígdala e córtex pré-frontal",
+          "weight": 2,
+          "keywords": [
+            "amígdala",
+            "córtex pré-frontal",
+            "elaborações posteriores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-012",
+      "topic": "Sistema límbico",
+      "question": "Explique a relação entre disfunções do sistema límbico e quadros clínicos como depressão, TDAH e doença de Alzheimer.",
+      "modelAnswer": "Alterações estruturais e funcionais no sistema límbico estão associadas a diversos transtornos clínicos. Na depressão, observa-se hiperatividade da amígdala, associada a maior processamento de emoções negativas, além de redução do volume do hipocampo em quadros graves e recorrentes, possivelmente decorrente dos efeitos tóxicos de níveis elevados de glicocorticoides sobre os neurônios hipocampais; há também menor atividade do córtex pré-frontal esquerdo, relacionado ao estabelecimento de metas e sentimentos positivos. No TDAH (Transtorno do Deficit de Atenção e Hiperatividade), descrevem-se alterações na região frontal e em suas conexões com estruturas límbicas, incluindo conexões interrompidas entre a amígdala e o córtex orbitofrontal, o que pode contribuir para a desinibição comportamental e a impulsividade características do transtorno. Já na doença de Alzheimer, o hipocampo e a amígdala costumam estar gravemente envolvidos pelas placas senis e emaranhados neurofibrilares, o que explica o comprometimento precoce e progressivo da memória e, posteriormente, de outras funções intelectuais.",
+      "keyPoints": [
+        {
+          "text": "Depressão: hiperatividade da amígdala e redução do hipocampo",
+          "weight": 3,
+          "keywords": [
+            "depressão",
+            "amígdala hiperativa",
+            "redução hipocampo"
+          ]
+        },
+        {
+          "text": "TDAH: alterações na região frontal e nas conexões com estruturas límbicas",
+          "weight": 3,
+          "keywords": [
+            "tdah",
+            "córtex pré-frontal",
+            "conexões amígdala"
+          ]
+        },
+        {
+          "text": "Alzheimer: comprometimento do hipocampo e da amígdala",
+          "weight": 3,
+          "keywords": [
+            "alzheimer",
+            "hipocampo",
+            "amígdala",
+            "placas senis"
+          ]
+        },
+        {
+          "text": "Glicocorticoides elevados prejudicam neurônios hipocampais",
+          "weight": 1,
+          "keywords": [
+            "glicocorticoides",
+            "estresse crônico",
+            "atrofia hipocampal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-013",
+      "topic": "Plasticidade neural",
+      "question": "Defina neuroplasticidade e explique a diferença entre plasticidade neural expectante de experiência e dependente de experiência.",
+      "modelAnswer": "Neuroplasticidade é a capacidade do sistema nervoso de se reorganizar estrutural e funcionalmente ao longo de toda a vida, em resposta a demandas internas e externas, incluindo a formação de novas conexões sinápticas, o fortalecimento ou enfraquecimento de sinapses existentes e, em algumas regiões, a geração de novos neurônios. A literatura descreve dois tipos principais de plasticidade. A plasticidade neural expectante de experiência refere-se a mudanças que o organismo 'espera' vivenciar dentro de janelas de tempo específicas chamadas períodos críticos, como ocorre nos sistemas sensoriais (visão e audição), que estão prontos para funcionar ao nascimento, mas necessitam de estímulos ambientais (luz, som) para completar sua maturação; a privação sensorial nesse período crítico pode causar déficits permanentes. Já a plasticidade dependente de experiência é responsável por incorporar informações de vivências individuais, únicas e imprevisíveis de cada pessoa, relacionadas ao ambiente físico, social e cultural, como ocorre na aprendizagem motora ou no aprendizado de um novo idioma, podendo ocorrer ao longo de toda a vida.",
+      "keyPoints": [
+        {
+          "text": "Definição: capacidade de reorganização estrutural e funcional do SN",
+          "weight": 3,
+          "keywords": [
+            "neuroplasticidade",
+            "reorganização",
+            "definição"
+          ]
+        },
+        {
+          "text": "Plasticidade expectante de experiência: ligada a períodos críticos e estímulos esperados",
+          "weight": 3,
+          "keywords": [
+            "expectante de experiência",
+            "período crítico",
+            "visão audição"
+          ]
+        },
+        {
+          "text": "Plasticidade dependente de experiência: vivências individuais e imprevisíveis",
+          "weight": 3,
+          "keywords": [
+            "dependente de experiência",
+            "vivência individual",
+            "ambiente"
+          ]
+        },
+        {
+          "text": "Privação sensorial em período crítico causa déficits permanentes",
+          "weight": 1,
+          "keywords": [
+            "privação sensorial",
+            "déficit permanente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-014",
+      "topic": "Plasticidade neural",
+      "question": "Explique os mecanismos de plasticidade neural envolvidos na recuperação funcional após um AVC (acidente vascular cerebral).",
+      "modelAnswer": "Após um AVC, o cérebro utiliza diversos mecanismos de plasticidade neural para tentar compensar a área lesada e recuperar funções perdidas. Um dos principais mecanismos é a reorganização cortical, na qual áreas adjacentes à lesão, ou até mesmo o hemisfério cerebral intacto (contralesional), podem assumir parcialmente funções antes desempenhadas pela região danificada. Outro mecanismo importante é o brotamento axonal (sprouting), em que axônios não lesados desenvolvem novas terminações nervosas para formar conexões alternativas com neurônios que perderam suas conexões originais, criando novas vias funcionais. Também ocorre potencialização sináptica de longo prazo, fortalecendo conexões que antes eram pouco utilizadas. Esses processos são influenciados pela experiência: a reabilitação baseada em treino repetitivo, orientado por tarefas e com alta intensidade, é capaz de moldar e potencializar essa plasticidade adaptativa, embora as respostas variem entre os pacientes conforme a extensão da lesão, a idade e o tempo decorrido desde o evento.",
+      "keyPoints": [
+        {
+          "text": "Reorganização cortical: áreas adjacentes ou hemisfério intacto assumem funções",
+          "weight": 3,
+          "keywords": [
+            "reorganização cortical",
+            "hemisfério intacto",
+            "assume função"
+          ]
+        },
+        {
+          "text": "Brotamento axonal (sprouting) forma novas conexões",
+          "weight": 3,
+          "keywords": [
+            "brotamento axonal",
+            "sprouting",
+            "novas conexões"
+          ]
+        },
+        {
+          "text": "Potencialização sináptica de longo prazo fortalece vias pouco usadas",
+          "weight": 2,
+          "keywords": [
+            "potencialização sináptica",
+            "longo prazo",
+            "fortalecimento"
+          ]
+        },
+        {
+          "text": "Reabilitação intensiva e repetitiva potencializa a plasticidade adaptativa",
+          "weight": 2,
+          "keywords": [
+            "reabilitação",
+            "treino repetitivo",
+            "plasticidade adaptativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-015",
+      "topic": "Plasticidade neural",
+      "question": "Descreva o processo de neurogênese no cérebro adulto, indicando onde ocorre e sua relação com aprendizagem e memória.",
+      "modelAnswer": "Neurogênese é o processo pelo qual novos neurônios são formados a partir de células-tronco neurais, que se diferenciam em células progenitoras neurais e, posteriormente, em neurônios maduros funcionais. Embora, por muito tempo, tenha-se acreditado que o cérebro adulto fosse incapaz de gerar novos neurônios, hoje se sabe que existem, pelo menos, duas regiões de proliferação ativa e contínua ao longo da vida: a zona subependimária (ou subventricular) dos ventrículos laterais, cujos novos neurônios migram pela corrente migratória rostral até o bulbo olfatório, e a camada subgranular do giro denteado, localizado no hipocampo. A neurogênese hipocampal tem sido associada ao desempenho em tarefas de aprendizagem e memória, especialmente as dependentes do hipocampo, como a navegação espacial; estudos mostram que fatores como exercício físico voluntário e exposição a ambientes enriquecidos aumentam a neurogênese e melhoram o desempenho cognitivo, enquanto envelhecimento, estresse crônico e certas substâncias, como álcool e nicotina, tendem a prejudicá-la.",
+      "keyPoints": [
+        {
+          "text": "Definição: formação de novos neurônios a partir de células-tronco neurais",
+          "weight": 2,
+          "keywords": [
+            "neurogênese",
+            "células-tronco neurais",
+            "formação de neurônios"
+          ]
+        },
+        {
+          "text": "Ocorre na zona subventricular e no giro denteado do hipocampo",
+          "weight": 3,
+          "keywords": [
+            "zona subventricular",
+            "giro denteado",
+            "hipocampo"
+          ]
+        },
+        {
+          "text": "Migração via corrente migratória rostral até o bulbo olfatório",
+          "weight": 1,
+          "keywords": [
+            "corrente migratória rostral",
+            "bulbo olfatório"
+          ]
+        },
+        {
+          "text": "Relação com aprendizagem, memória, exercício físico e ambiente enriquecido",
+          "weight": 3,
+          "keywords": [
+            "aprendizagem",
+            "memória",
+            "exercício físico",
+            "ambiente enriquecido"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    }
+  ],
+  "oral": [
+    {
+      "id": "neuro-oral-001",
+      "topic": "Neurônios e neuroglia",
+      "question": "Descreva o trajeto do impulso nervoso no neurônio, da entrada até a saída do sinal.",
+      "modelAnswer": "O impulso entra pelos dendritos, que recebem a informação de outros neurônios. Essa informação é integrada no corpo celular e, se atingir o limiar necessário, gera um potencial de ação que percorre o axônio até sua extremidade. Ali, na sinapse, ocorre a liberação de neurotransmissores que vão estimular o próximo neurônio da cadeia.",
+      "keyPoints": [
+        {
+          "text": "Dendrito recebe a informação",
+          "weight": 2,
+          "keywords": [
+            "dendrito",
+            "recebe"
+          ]
+        },
+        {
+          "text": "Corpo celular integra o sinal",
+          "weight": 1,
+          "keywords": [
+            "corpo celular",
+            "integra",
+            "soma"
+          ]
+        },
+        {
+          "text": "Axônio conduz o impulso",
+          "weight": 2,
+          "keywords": [
+            "axônio",
+            "conduz"
+          ]
+        },
+        {
+          "text": "Sinapse libera neurotransmissor para o próximo neurônio",
+          "weight": 3,
+          "keywords": [
+            "sinapse",
+            "neurotransmissor",
+            "libera"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-002",
+      "topic": "Neurônios e neuroglia",
+      "question": "Quais são os principais tipos de células da glia e qual a função de cada uma?",
+      "modelAnswer": "Os principais tipos são os astrócitos, que nutrem e dão suporte aos neurônios; os oligodendrócitos, que produzem mielina no sistema nervoso central; a micróglia, que faz a defesa imunológica do tecido nervoso; e, no sistema nervoso periférico, as células de Schwann, que produzem mielina fora do SNC.",
+      "keyPoints": [
+        {
+          "text": "Astrócitos: nutrição e suporte aos neurônios",
+          "weight": 2,
+          "keywords": [
+            "astrócito",
+            "nutrição",
+            "suporte"
+          ]
+        },
+        {
+          "text": "Oligodendrócitos: produzem mielina no SNC",
+          "weight": 2,
+          "keywords": [
+            "oligodendrócito",
+            "mielina"
+          ]
+        },
+        {
+          "text": "Micróglia: defesa imunológica",
+          "weight": 2,
+          "keywords": [
+            "micróglia",
+            "defesa",
+            "imunológica"
+          ]
+        },
+        {
+          "text": "Células de Schwann: mielina no SNP",
+          "weight": 2,
+          "keywords": [
+            "schwann",
+            "sistema nervoso periférico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-003",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique com suas palavras o que é uma sinapse e por que ela é importante para o funcionamento do cérebro.",
+      "modelAnswer": "Sinapse é o ponto de comunicação entre dois neurônios, onde ocorre a liberação de neurotransmissores que passam a informação de uma célula para a outra. Ela é fundamental porque é através das sinapses que o cérebro processa, integra e transmite todas as informações, permitindo desde reflexos simples até funções cognitivas complexas.",
+      "keyPoints": [
+        {
+          "text": "Ponto de comunicação entre neurônios",
+          "weight": 3,
+          "keywords": [
+            "comunicação entre neurônios",
+            "ponto de contato"
+          ]
+        },
+        {
+          "text": "Liberação de neurotransmissores",
+          "weight": 2,
+          "keywords": [
+            "neurotransmissor",
+            "libera"
+          ]
+        },
+        {
+          "text": "Permite processamento e transmissão da informação nervosa",
+          "weight": 2,
+          "keywords": [
+            "processamento",
+            "transmissão da informação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-004",
+      "topic": "Sistema nervoso central",
+      "question": "Cite as três meninges que protegem o cérebro e a medula, da mais externa para a mais interna.",
+      "modelAnswer": "A mais externa é a dura-máter, depois vem a aracnoide, e a mais interna, aderida diretamente ao tecido nervoso, é a pia-máter.",
+      "keyPoints": [
+        {
+          "text": "Dura-máter é a mais externa",
+          "weight": 2,
+          "keywords": [
+            "dura-máter",
+            "externa"
+          ]
+        },
+        {
+          "text": "Aracnoide é a intermediária",
+          "weight": 2,
+          "keywords": [
+            "aracnoide",
+            "intermediária",
+            "meio"
+          ]
+        },
+        {
+          "text": "Pia-máter é a mais interna",
+          "weight": 2,
+          "keywords": [
+            "pia-máter",
+            "interna"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-005",
+      "topic": "Sistema nervoso central",
+      "question": "Explique, de forma simples, para que serve o cerebelo.",
+      "modelAnswer": "O cerebelo é responsável pela manutenção do equilíbrio e da postura, pelo controle do tônus muscular e pela coordenação dos movimentos, ajustando de forma fina e inconsciente as atividades motoras do corpo.",
+      "keyPoints": [
+        {
+          "text": "Equilíbrio e postura",
+          "weight": 2,
+          "keywords": [
+            "equilíbrio",
+            "postura"
+          ]
+        },
+        {
+          "text": "Coordenação motora e tônus muscular",
+          "weight": 2,
+          "keywords": [
+            "coordenação motora",
+            "tônus muscular"
+          ]
+        },
+        {
+          "text": "Ajuste fino dos movimentos em nível inconsciente",
+          "weight": 2,
+          "keywords": [
+            "ajuste fino",
+            "inconsciente",
+            "involuntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-006",
+      "topic": "Sistema nervoso central",
+      "question": "Onde fica localizada a substância cinzenta na medula espinhal e o que ela contém?",
+      "modelAnswer": "A substância cinzenta fica localizada na parte central da medula, com formato semelhante à letra H, e contém principalmente os corpos celulares dos neurônios.",
+      "keyPoints": [
+        {
+          "text": "Localização central, em formato de H",
+          "weight": 2,
+          "keywords": [
+            "central",
+            "forma de h"
+          ]
+        },
+        {
+          "text": "Contém os corpos celulares dos neurônios",
+          "weight": 3,
+          "keywords": [
+            "corpos celulares",
+            "neurônios"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "2-3"
+      },
+      "subject": "Sistema nervoso central (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-007",
+      "topic": "Sistema nervoso periférico",
+      "question": "O que é um plexo nervoso e cite um exemplo.",
+      "modelAnswer": "Um plexo nervoso é a união de várias raízes nervosas que se entrelaçam para formar os nervos terminais que vão inervar determinada região do corpo. Um exemplo é o plexo braquial, que inerva o membro superior.",
+      "keyPoints": [
+        {
+          "text": "União de raízes nervosas formando nervos terminais",
+          "weight": 3,
+          "keywords": [
+            "união de raízes",
+            "nervos terminais",
+            "entrelaçamento"
+          ]
+        },
+        {
+          "text": "Exemplo: plexo braquial ou lombossacral",
+          "weight": 2,
+          "keywords": [
+            "plexo braquial",
+            "plexo lombossacral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-008",
+      "topic": "Sistema nervoso periférico",
+      "question": "Qual a diferença entre a raiz dorsal e a raiz ventral de um nervo espinhal?",
+      "modelAnswer": "A raiz dorsal é sensitiva, responsável por levar as informações da periferia até a medula. A raiz ventral é motora, responsável por levar os comandos da medula até os músculos.",
+      "keyPoints": [
+        {
+          "text": "Raiz dorsal é sensitiva, entrada de informação",
+          "weight": 3,
+          "keywords": [
+            "raiz dorsal",
+            "sensitiva",
+            "entrada"
+          ]
+        },
+        {
+          "text": "Raiz ventral é motora, saída de informação",
+          "weight": 3,
+          "keywords": [
+            "raiz ventral",
+            "motora",
+            "saída"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-009",
+      "topic": "Sistema nervoso periférico",
+      "question": "Cite duas diferenças entre o sistema nervoso simpático e o parassimpático.",
+      "modelAnswer": "O simpático prepara o corpo para situações de luta ou fuga, aumentando a frequência cardíaca, enquanto o parassimpático promove relaxamento e digestão, diminuindo a frequência cardíaca. Além disso, o simpático tem origem toracolombar e o parassimpático tem origem craniossacral.",
+      "keyPoints": [
+        {
+          "text": "Simpático: luta ou fuga, aumenta frequência cardíaca",
+          "weight": 2,
+          "keywords": [
+            "luta ou fuga",
+            "aumenta frequência cardíaca",
+            "taquicardia"
+          ]
+        },
+        {
+          "text": "Parassimpático: repouso e digestão, diminui frequência cardíaca",
+          "weight": 2,
+          "keywords": [
+            "repouso",
+            "digestão",
+            "bradicardia"
+          ]
+        },
+        {
+          "text": "Origens diferentes: toracolombar versus craniossacral",
+          "weight": 2,
+          "keywords": [
+            "toracolombar",
+            "craniossacral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-010",
+      "topic": "Sistema límbico",
+      "question": "Qual estrutura do sistema límbico é considerada a principal responsável pela memória?",
+      "modelAnswer": "O hipocampo é a estrutura considerada a principal sede da memória dentro do sistema límbico, sendo também importante para a orientação espacial.",
+      "keyPoints": [
+        {
+          "text": "Hipocampo",
+          "weight": 3,
+          "keywords": [
+            "hipocampo"
+          ]
+        },
+        {
+          "text": "Também relacionado à orientação espacial",
+          "weight": 1,
+          "keywords": [
+            "orientação espacial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-011",
+      "topic": "Sistema límbico",
+      "question": "Explique brevemente qual é a função da amígdala cerebral.",
+      "modelAnswer": "A amígdala é a estrutura responsável pelo processamento das emoções, principalmente o medo, participando também da memória emocional e das respostas autonômicas relacionadas a situações de perigo.",
+      "keyPoints": [
+        {
+          "text": "Processamento de emoções, principalmente o medo",
+          "weight": 3,
+          "keywords": [
+            "medo",
+            "processamento emocional"
+          ]
+        },
+        {
+          "text": "Memória emocional e respostas autonômicas",
+          "weight": 2,
+          "keywords": [
+            "memória emocional",
+            "resposta autonômica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-012",
+      "topic": "Sistema límbico",
+      "question": "O que é o sistema límbico e quais são algumas de suas principais estruturas?",
+      "modelAnswer": "O sistema límbico é a área do cérebro mais relacionada à emoção e à memória. Suas principais estruturas incluem o hipotálamo, o tálamo, a amígdala e o hipocampo.",
+      "keyPoints": [
+        {
+          "text": "Área do cérebro relacionada à emoção e memória",
+          "weight": 2,
+          "keywords": [
+            "emoção",
+            "memória",
+            "área do cérebro"
+          ]
+        },
+        {
+          "text": "Estruturas: hipotálamo, tálamo, amígdala e hipocampo",
+          "weight": 3,
+          "keywords": [
+            "hipotálamo",
+            "tálamo",
+            "amígdala",
+            "hipocampo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-013",
+      "topic": "Plasticidade neural",
+      "question": "Explique com suas palavras o que é neuroplasticidade.",
+      "modelAnswer": "Neuroplasticidade é a capacidade do cérebro de se adaptar e se reorganizar ao longo da vida, formando novas conexões neurais em resposta à experiência, ao aprendizado ou a lesões.",
+      "keyPoints": [
+        {
+          "text": "Capacidade do cérebro de se adaptar e reorganizar",
+          "weight": 3,
+          "keywords": [
+            "adaptar",
+            "reorganizar",
+            "capacidade do cérebro"
+          ]
+        },
+        {
+          "text": "Formação de novas conexões neurais ao longo da vida",
+          "weight": 2,
+          "keywords": [
+            "novas conexões",
+            "ao longo da vida"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-014",
+      "topic": "Plasticidade neural",
+      "question": "O que é neurogênese e onde ela pode ocorrer no cérebro adulto?",
+      "modelAnswer": "Neurogênese é o processo de formação de novos neurônios. No cérebro adulto, ela ocorre principalmente no hipocampo, mais especificamente no giro denteado, e na zona subventricular dos ventrículos laterais.",
+      "keyPoints": [
+        {
+          "text": "Formação de novos neurônios",
+          "weight": 3,
+          "keywords": [
+            "formação de novos neurônios"
+          ]
+        },
+        {
+          "text": "Ocorre no hipocampo (giro denteado) e na zona subventricular",
+          "weight": 2,
+          "keywords": [
+            "hipocampo",
+            "giro denteado",
+            "zona subventricular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "neuro-oral-015",
+      "topic": "Plasticidade neural",
+      "question": "Cite dois fatores que podem estimular a neuroplasticidade positiva.",
+      "modelAnswer": "O exercício físico aeróbico e a exposição a ambientes enriquecidos, com novas experiências e desafios, são fatores que estimulam a neuroplasticidade positiva. A reabilitação com prática repetida de habilidades também contribui para esse processo.",
+      "keyPoints": [
+        {
+          "text": "Exercício físico / atividade aeróbica",
+          "weight": 2,
+          "keywords": [
+            "exercício físico",
+            "atividade aeróbica"
+          ]
+        },
+        {
+          "text": "Ambiente enriquecido / novas experiências",
+          "weight": 2,
+          "keywords": [
+            "ambiente enriquecido",
+            "novas experiências"
+          ]
+        },
+        {
+          "text": "Reabilitação com prática repetida de habilidades",
+          "weight": 2,
+          "keywords": [
+            "reabilitação",
+            "prática repetida",
+            "treino"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    }
+  ]
+}

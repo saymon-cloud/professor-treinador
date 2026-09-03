@@ -1,0 +1,11 @@
+# Banco de dados local (dados pessoais do usuário — não deve ir para o Git)
+treinador.db
+treinador.db-journal
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db

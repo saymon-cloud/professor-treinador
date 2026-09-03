@@ -1,0 +1,2246 @@
+{
+  "discipline": "Fundamentos Históricos e Epistemológicos da Psicologia",
+  "objective": [
+    {
+      "id": "fund-obj-001",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Em um hospital geral, a equipe médica trata os sintomas físicos com medicação enquanto a equipe de psicologia trata os conflitos emocionais em psicoterapia. Essa divisão do cuidado reflete uma matriz filosófica histórica. Essa situação exemplifica o princípio de:",
+      "options": {
+        "a": "Empirismo britânico, que considera a mente uma tábula rasa moldada pelas experiências sensoriais",
+        "b": "Monismo materialista, que reduz todos os processos mentais a reações fisiológicas do organismo",
+        "c": "Dualismo interacionista, que concebe o ser humano como composto por substâncias física e mental distintas",
+        "d": "Estruturalismo clássico, que busca decompor a consciência em seus elementos sensoriais mais básicos",
+        "e": "Racionalismo platônico, que localiza o conhecimento verdadeiro exclusivamente no mundo das ideias"
+      },
+      "correct": "c",
+      "explanation": "A divisão entre tratar o corpo (medicina) e tratar a mente (psicologia) remonta a Descartes, que propôs o dualismo interacionista: o ser humano é composto pela res cogitans (mente, imaterial) e pela res extensa (corpo, material), duas substâncias distintas que interagem.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "4-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "A divisão entre a medicina física e a psicologia reflete o princípio do dualismo interacionista, proposto por René Descartes. Descartes concebeu o ser humano como composto por duas substâncias distintas: a res cogitans (mente, imaterial) e a res extensa (corpo, material), que interagem. Esta divisão reflete a visão histórica de que a mente e o corpo são entidades separadas, mas que interagem para formar a experiência humana. A escolha correta é a alternativa c, que reflete essa visão dualista."
+    },
+    {
+      "id": "fund-obj-002",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "No laboratório de Wundt, os participantes eram treinados para relatar suas sensações imediatas evitando descrever o objeto físico em si (ex.: dizer 'vejo uma moeda' em vez de 'vejo um disco brilhante e metálico'). Esse erro metodológico é denominado:",
+      "options": {
+        "a": "Erro de estímulo",
+        "b": "Ilusão de percepção",
+        "c": "Viés de confirmação",
+        "d": "Falácia estruturalista",
+        "e": "Desvio de observação"
+      },
+      "correct": "a",
+      "explanation": "O erro de estímulo ocorre quando o participante relata o objeto com base em conhecimento prévio, em vez de descrever os elementos sensoriais básicos da experiência consciente imediata, o que comprometia a análise estrutural rigorosa proposta por Titchener.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-10",
+        "citation": "SCHULTZ; SCHULTZ, 2019"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "No laboratório de Wilhelm Wundt, o erro metodológico de relatar o objeto físico em vez de suas características sensoriais básicas é chamado de erro de estímulo. Este erro ocorre quando os participantes, guiados por conhecimentos prévios, descrevem o objeto em vez de descrever os elementos sensoriais imediatos da experiência. Este conceito é central para a abordagem estruturalista, que busca decompor a consciência em seus elementos mais básicos. A escolha correta é a alternativa a, que identifica o erro de estímulo."
+    },
+    {
+      "id": "fund-obj-003",
+      "topic": "Funcionalismo e pragmatismo",
+      "question": "Uma psicóloga organizacional decide avaliar candidatos não por traços fixos de personalidade, mas por como resolvem problemas práticos e se adaptam a mudanças no trabalho. Essa abordagem alinha-se aos princípios de qual escola de pensamento?",
+      "options": {
+        "a": "Estruturalismo, focado na decomposição da consciência em elementos sensoriais",
+        "b": "Funcionalismo, centrado na utilidade da mente para a adaptação ao ambiente",
+        "c": "Positivismo, dedicado à formulação de leis matemáticas para a psicofísica",
+        "d": "Psicanálise, orientada para a investigação das dinâmicas pulsionais inconscientes",
+        "e": "Mecanicismo, voltado para a explicação do comportamento por reflexos físicos"
+      },
+      "correct": "b",
+      "explanation": "O funcionalismo, influenciado pelo darwinismo e pelo pragmatismo de William James, investiga para que serve a mente e como o comportamento auxilia a adaptação ao ambiente, tornando a psicologia uma ciência aplicada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13-15",
+        "citation": "GOODWIN, 2017"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A abordagem de avaliar candidatos por sua capacidade de resolver problemas práticos e adaptar-se a mudanças no trabalho alinha-se ao funcionalismo, influenciado por William James. Este pensamento psicológico investiga a utilidade da mente para a adaptação ao ambiente, focando na função do comportamento e na psicologia aplicada. A escolha correta é a alternativa b, que reflete a abordagem funcionalista."
+    },
+    {
+      "id": "fund-obj-004",
+      "topic": "Positivismo e psicofísica",
+      "question": "Gustav Fechner, baseando-se nos estudos de Ernst Weber sobre o limiar diferencial, formulou a Lei de Weber-Fechner. O principal avanço científico proporcionado por essa lei consistiu em:",
+      "options": {
+        "a": "Comprovar que a mente humana funciona como uma tábula rasa moldada pela experiência",
+        "b": "Demonstrar a relação matemática exata entre um estímulo físico e a sensação mental",
+        "c": "Estabelecer o comportamento observável como o único objeto de estudo válido",
+        "d": "Refutar a teoria da evolução de Darwin por meio de medições estatísticas precisas",
+        "e": "Explicar a dinâmica do inconsciente humano através de equações logarítmicas"
+      },
+      "correct": "b",
+      "explanation": "A Lei de Weber-Fechner (S = k log R) foi um marco epistemológico porque provou, pela primeira vez, que sensações subjetivas poderiam ser medidas e correlacionadas matematicamente com estímulos físicos, atendendo ao critério positivista de quantificação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16-17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "A Lei de Weber-Fechner, formulada por Gustav Fechner, estabelece uma relação matemática entre o estímulo físico e a sensação mental. Esta lei foi um marco epistemológico porque demonstrou que sensações subjetivas poderiam ser medidas e correlacionadas com estímulos físicos, atendendo ao critério positivista de quantificação. A escolha correta é a alternativa b, que enfatiza a relação matemática entre estímulos físicos e sensações mentais."
+    },
+    {
+      "id": "fund-obj-005",
+      "topic": "Epistemologia e pluralidade da psicologia",
+      "question": "Um estudante de psicologia planeja unir, sem critério, técnicas de associação livre da psicanálise com esquemas de reforçamento do behaviorismo radical, argumentando que 'todas as teorias buscam o bem-estar'. A crítica do supervisor a essa mistura indiscriminada fundamenta-se no conceito de:",
+      "options": {
+        "a": "Ecletismo ingênuo, que mistura referenciais teóricos incompatíveis sem rigor metodológico",
+        "b": "Ruptura epistemológica, que promove a unificação de todos os saberes em um paradigma",
+        "c": "Abordagem nomotética, que foca exclusivamente na singularidade da experiência vivida",
+        "d": "Pragmatismo americano, que avalia a verdade de uma teoria apenas por sua utilidade clínica",
+        "e": "Monismo materialista, que reduz a diversidade psicológica a processos neurobiológicos"
+      },
+      "correct": "a",
+      "explanation": "Misturar referenciais com pressupostos ontológicos irreconciliáveis (o inconsciente psicanalítico e o comportamento operante) sem rigor caracteriza o ecletismo ingênuo, que a vigilância epistemológica busca evitar.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "21-24",
+        "citation": "FIGUEIREDO, 2009"
+      },
+      "subject": "Epistemologia e pluralidade da psicologia",
+      "difficulty": "medio",
+      "miniLesson": "A mistura indiscriminada de técnicas de psicanálise com behaviorismo sem critério fundamenta-se no conceito de ecletismo ingênuo. Este conceito se refere a uma abordagem que mistura referenciais teóricos incompatíveis sem rigor metodológico. A crítica do supervisor fundamenta-se nessa falta de rigor epistemológico, que busca evitar a mistura de teorias com pressupostos ontológicos irreconciliáveis. A escolha correta é a alternativa a, que identifica o ecletismo ingênuo."
+    },
+    {
+      "id": "fund-obj-006",
+      "topic": "Epistemologia e pluralidade da psicologia",
+      "question": "Segundo Luís Cláudio Figueiredo, as matrizes do pensamento psicológico podem ser nomotéticas ou idiográficas. A característica central das abordagens de caráter idiográfico é:",
+      "options": {
+        "a": "Busca por leis gerais e universais aplicáveis a grandes populações humanas",
+        "b": "Utilização exclusiva de métodos quantitativos, estatística e experimentação",
+        "c": "Compreensão da singularidade do indivíduo e de sua experiência subjetiva",
+        "d": "Exclusão da consciência e do sentido como objetos de investigação científica",
+        "e": "Padronização do comportamento humano por meio de testes psicométricos"
+      },
+      "correct": "c",
+      "explanation": "As abordagens idiográficas, como a fenomenologia e o existencialismo, priorizam a compreensão da experiência singular do indivíduo, usando métodos qualitativos, em contraste com as abordagens nomotéticas, que buscam leis universais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "21-24",
+        "citation": "FIGUEIREDO, 2009"
+      },
+      "subject": "Epistemologia e pluralidade da psicologia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Luís Cláudio Figueiredo, as abordagens idiográficas, como a fenomenologia e o existencialismo, priorizam a compreensão da singularidade do indivíduo e de sua experiência subjetiva. Figueiredo destaca que essas abordagens usam métodos qualitativos, em contraste com as abordagens nomotéticas que buscam leis universais. Portanto, a resposta correta é a opção c, que enfatiza a compreensão da singularidade do indivíduo e de sua experiência subjetiva."
+    },
+    {
+      "id": "fund-obj-007",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "O manifesto behaviorista, publicado por Watson em 1913, propôs uma ruptura radical com o estruturalismo e o funcionalismo. Segundo o behaviorismo metodológico, o objeto de estudo adequado para a psicologia científica é:",
+      "options": {
+        "a": "A estrutura da consciência analisada por meio de relatos introspectivos rigorosos",
+        "b": "O comportamento observável e a relação direta entre os estímulos e as respostas",
+        "c": "A utilidade dos processos mentais para a adaptação humana em novos ambientes",
+        "d": "Os eventos privados e os sentimentos acessados mediante escuta psicanalítica",
+        "e": "O processamento interno de informações mediado por representações cognitivas"
+      },
+      "correct": "b",
+      "explanation": "Watson, fundamentado no positivismo, defendeu que a psicologia deveria estudar exclusivamente o comportamento observável e o modelo Estímulo-Resposta (S-R), rejeitando a introspecção e a consciência como objetos científicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4-6",
+        "citation": "GOODWIN, 2017"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Watson, fundamentado no positivismo, defendeu que a psicologia deveria estudar exclusivamente o comportamento observável e o modelo Estímulo-Resposta (S-R), rejeitando a introspecção e a consciência como objetos científicos. Portanto, a resposta correta é a opção b, que enfatiza o comportamento observável e a relação direta entre estímulos e respostas."
+    },
+    {
+      "id": "fund-obj-008",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Um paciente em quimioterapia sente náuseas ao se aproximar do hospital, mesmo antes de receber qualquer medicação. Nesse processo de condicionamento pavloviano, classifica-se o ambiente hospitalar como:",
+      "options": {
+        "a": "Resposta incondicionada, pois elicia uma reação biológica inata de defesa do organismo",
+        "b": "Estímulo neutro, pois falha em provocar qualquer tipo de reação fisiológica no paciente",
+        "c": "Estímulo condicionado, pois adquiriu a capacidade de provocar a náusea após emparelhamento",
+        "d": "Estímulo incondicionado, pois gera mal-estar independentemente de aprendizagem prévia",
+        "e": "Resposta condicionada, pois representa o comportamento final emitido pelo paciente"
+      },
+      "correct": "c",
+      "explanation": "O ambiente hospitalar, originalmente neutro, foi emparelhado repetidamente com a medicação quimioterápica (estímulo incondicionado), passando a eliciar a náusea por conta própria e tornando-se um estímulo condicionado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O ambiente hospitalar, originalmente neutro, foi emparelhado repetidamente com a medicação quimioterápica (estímulo incondicionado), passando a eliciar a náusea por conta própria e tornando-se um estímulo condicionado. Portanto, a resposta correta é a opção c, que classifica o ambiente hospitalar como estímulo condicionado."
+    },
+    {
+      "id": "fund-obj-009",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um gestor concede um dia de folga remunerada sempre que um desenvolvedor entrega um projeto antes do prazo e sem erros, o que aumenta a frequência desse comportamento. Essa contingência classifica-se como:",
+      "options": {
+        "a": "Punição positiva, pois adiciona uma regra rigorosa que diminui o atraso nos projetos",
+        "b": "Reforço negativo, pois remove a obrigação de trabalhar, aumentando a produtividade",
+        "c": "Punição negativa, pois retira um dia de trabalho para reduzir os erros de programação",
+        "d": "Reforço positivo, pois adiciona um benefício que aumenta a frequência do comportamento",
+        "e": "Extinção operante, pois elimina gradualmente a ocorrência de falhas nos códigos entregues"
+      },
+      "correct": "d",
+      "explanation": "A adição de um estímulo consequente (a folga) após um comportamento específico, resultando no aumento da frequência desse comportamento, configura reforçamento positivo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13-17",
+        "citation": "SKINNER, 2003"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A adição de um estímulo consequente (a folga) após um comportamento específico, resultando no aumento da frequência desse comportamento, configura reforçamento positivo. Portanto, a resposta correta é a opção d, que descreve a adição de um benefício que aumenta a frequência do comportamento."
+    },
+    {
+      "id": "fund-obj-010",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Diferente de Watson, Skinner adotou uma postura monista no behaviorismo radical. Nessa perspectiva, os eventos privados (pensamentos e sentimentos) são compreendidos como:",
+      "options": {
+        "a": "Fenômenos inacessíveis que devem ser excluídos da análise experimental rigorosa",
+        "b": "Processos mentais autônomos que causam e direcionam o comportamento motor",
+        "c": "Comportamentos sujeitos às mesmas leis de aprendizagem dos eventos públicos",
+        "d": "Estruturas cognitivas inatas que processam informações de forma independente",
+        "e": "Respostas reflexas eliciadas exclusivamente por estímulos incondicionados internos"
+      },
+      "correct": "c",
+      "explanation": "Para o behaviorismo radical, pensar e sentir são formas de comportamento, regidas pelas mesmas leis de aprendizagem e contingências ambientais que os comportamentos publicamente observáveis, e não devem ser excluídas da análise.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13-17",
+        "citation": "SKINNER, 2003"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Para o behaviorismo radical, pensar e sentir são formas de comportamento, regidas pelas mesmas leis de aprendizagem e contingências ambientais que os comportamentos publicamente observáveis. Portanto, a resposta correta é a opção c, que enfatiza que os eventos privados são sujeitos às mesmas leis de aprendizagem dos eventos públicos."
+    },
+    {
+      "id": "fund-obj-011",
+      "topic": "Revolução cognitiva",
+      "question": "A revolução cognitiva, impulsionada por avanços na ciência da computação, estabeleceu um novo modelo teórico central para o estudo da mente humana. Esse modelo consiste em:",
+      "options": {
+        "a": "A estrutura de reflexos incondicionados mapeada pela fisiologia russa",
+        "b": "O delineamento de sujeito único desenvolvido na caixa de condicionamento",
+        "c": "O sistema de processamento de informações semelhante à arquitetura de um computador",
+        "d": "A observação direta de comportamentos verbais mantidos por reforçamento social",
+        "e": "A introspecção treinada para identificar os elementos básicos da consciência"
+      },
+      "correct": "c",
+      "explanation": "A revolução cognitiva concebeu a mente como um sistema que recebe entradas (inputs), codifica, armazena e manipula informações por regras lógicas, gerando saídas (outputs) na forma de comportamento, à semelhança de um computador.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "A revolução cognitiva, impulsionada por avanços na ciência da computação, concebeu a mente humana como um sistema que processa informações similarmente a um computador. Este modelo, proposto por teóricos como Newell e Simon (1972), sugere que a mente codifica, armazena e manipula informações por regras lógicas, gerando comportamentos. Este paradigma contrasta com modelos anteriores, como os reflexos incondicionados de Pavlov ou as observações diretas de comportamentos verbais por Skinner."
+    },
+    {
+      "id": "fund-obj-012",
+      "topic": "TCC e terceira onda",
+      "question": "Um terapeuta propõe que um paciente com convicção de incapacidade realize uma pequena tarefa doméstica durante a semana, usando a ação prática como teste empírico para a crença. Essa técnica denomina-se:",
+      "options": {
+        "a": "Desfusão cognitiva, focada em observar o pensamento como um evento transitório",
+        "b": "Experimento comportamental, focado em refutar esquemas cognitivos rígidos",
+        "c": "Ativação comportamental, focada em restaurar o contato com reforçadores positivos",
+        "d": "Questionamento socrático, focado em avaliar verbalmente as evidências do pensamento",
+        "e": "Esquiva experiencial, focada em eliminar o desconforto emocional associado à tarefa"
+      },
+      "correct": "b",
+      "explanation": "O experimento comportamental integra cognição e comportamento: paciente e terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional, usando a execução da tarefa como coleta de dados empíricos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "A técnica proposta pelo terapeuta, que envolve a realização de uma pequena tarefa doméstica para testar uma crença, é denominada experimento comportamental. Este método, desenvolvido por Albert Ellis e outros terapeutas cognitivo-comportamentais, integra cognição e comportamento. Através de situações práticas, o paciente e o terapeuta coletam dados empíricos para refutar esquemas cognitivos rígidos, como a convicção de incapacidade."
+    },
+    {
+      "id": "fund-obj-013",
+      "topic": "Psicanálise (Freud)",
+      "question": "Durante uma sessão, um paciente interrompe subitamente sua fala, afirmando que o próximo pensamento é embaraçoso demais para ser dito. Esse bloqueio na associação livre representa a atuação de:",
+      "options": {
+        "a": "A manifestação do processo primário, que organiza as memórias de forma lógica e sequencial",
+        "b": "A atuação da resistência, força psíquica que impede o acesso de conteúdos dolorosos à consciência",
+        "c": "A ocorrência da ab-reação, que resulta na descarga emocional imediata e no fim do sintoma",
+        "d": "A expressão do princípio de realidade, que concilia exigências externas e regras morais",
+        "e": "A sublimação dos impulsos agressivos, desviando a energia para atividades valorizadas"
+      },
+      "correct": "b",
+      "explanation": "A resistência é a manifestação clínica do recalque durante a associação livre: bloqueios e hesitações indicam a ação de uma força psíquica que impede que conteúdos dolorosos cheguem à consciência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Durante uma sessão, o bloqueio na associação livre, quando um paciente interrompe subitamente sua fala, afirmando que o próximo pensamento é embaraçoso demais para ser dito, representa a atuação da resistência, força psíquica que impede o acesso de conteúdos dolorosos à consciência. Este conceito foi elaborado por Freud (1900) durante a análise de pacientes, indicando a ação de uma força psíquica que protege a consciência de conteúdos perturbadores."
+    },
+    {
+      "id": "fund-obj-014",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na segunda tópica freudiana (modelo estrutural), qual instância atua como mediadora entre as exigências pulsionais, as restrições morais e as demandas da realidade externa?",
+      "options": {
+        "a": "Id, instância mais primitiva e inata, que busca a satisfação imediata das necessidades biológicas",
+        "b": "Superego, que representa a internalização exclusiva das normas e proibições culturais",
+        "c": "Inconsciente, que opera de forma inteiramente regida pelo processo primário",
+        "d": "Ego, que busca conciliar as exigências do Id, as restrições do Superego e a realidade externa",
+        "e": "Pré-consciente, reservatório de memórias esquecidas sem eficácia causal sobre o comportamento"
+      },
+      "correct": "d",
+      "explanation": "O Ego é a instância mediadora do aparelho psíquico, harmonizando as forças antagônicas do Id, do Superego e da realidade externa, utilizando funções conscientes e mecanismos de defesa inconscientes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Na segunda tópica freudiana (modelo estrutural), o Ego atua como mediador entre as exigências pulsionais, as restrições morais e as demandas da realidade externa. Este instância, conforme proposto por Freud (1923), utiliza funções conscientes e mecanismos de defesa inconscientes para conciliar as forças antagônicas do Id, do Superego e a realidade, garantindo a adaptação do indivíduo ao ambiente."
+    },
+    {
+      "id": "fund-obj-015",
+      "topic": "Psicanálise (Freud)",
+      "question": "Uma pessoa que sente forte hostilidade reprimida por um familiar passa a tratá-lo com um cuidado excessivo e sufocante. Esse mecanismo de defesa é denominado:",
+      "options": {
+        "a": "Recalque",
+        "b": "Projeção",
+        "c": "Formação reativa",
+        "d": "Sublimação",
+        "e": "Racionalização"
+      },
+      "correct": "c",
+      "explanation": "A formação reativa consiste em substituir um impulso inaceitável (hostilidade) por seu oposto diametral na consciência e no comportamento (cuidado excessivo).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "A pessoa que sente forte hostilidade reprimida por um familiar passa a tratá-lo com um cuidado excessivo e sufocante. Este mecanismo de defesa é denominado formação reativa. Este conceito, proposto por Freud (1915), descreve a substituição de um impulso inaceitável (hostilidade) por seu oposto diametral na consciência e no comportamento (cuidado excessivo), como uma forma de mitigar o conflito psíquico."
+    },
+    {
+      "id": "fund-obj-016",
+      "topic": "Gestalt",
+      "question": "Um designer organiza formas geométricas separadas por espaços em branco de modo que os observadores enxergam imediatamente a letra 'S', mesmo sem as linhas estarem desenhadas. Esse fenômeno perceptual ilustra a lei da gestalt de:",
+      "options": {
+        "a": "Proximidade, que agrupa elementos distantes no tempo para formar uma unidade",
+        "b": "Semelhança, que une estímulos com características físicas distintas e contrastantes",
+        "c": "Fechamento, que preenche as lacunas visuais para formar um objeto inteiro e significativo",
+        "d": "Isomorfismo psiconeurológico, que reduz a experiência consciente a sensações isoladas",
+        "e": "Aprendizagem por insight, que resolve o problema por meio de tentativas cegas e acidentais"
+      },
+      "correct": "c",
+      "explanation": "A lei do fechamento descreve a tendência da percepção humana de completar figuras incompletas, preenchendo espaços em branco para formar uma totalidade significativa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "13-18"
+      },
+      "subject": "Gestalt",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-017",
+      "topic": "Gestalt",
+      "question": "Wolfgang Köhler observou que chimpanzés, diante de um problema (banana fora de alcance), não agiam por tentativa e erro cego, mas reorganizavam repentinamente a percepção da situação até encontrar a solução (empilhar caixotes). Esse fenômeno foi denominado:",
+      "options": {
+        "a": "Condicionamento operante",
+        "b": "Insight (compreensão súbita)",
+        "c": "Fenômeno phi",
+        "d": "Aprendizagem por associação livre",
+        "e": "Espaço vital"
+      },
+      "correct": "b",
+      "explanation": "O insight ocorre quando o sujeito percebe subitamente as relações entre os elementos de um problema, reorganizando-os mentalmente até que a solução se apresente como uma totalidade significativa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "13-18"
+      },
+      "subject": "Gestalt",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-018",
+      "topic": "Psicologia humanista",
+      "question": "Uma gestora de RH implementa reconhecimento público de talentos e incentiva a autonomia na tomada de decisões, para além do salário e da segurança já oferecidos. Segundo a hierarquia das necessidades de Maslow, essa intervenção visa atender:",
+      "options": {
+        "a": "As necessidades fisiológicas, que garantem a regulação biológica e a sobrevivência diária",
+        "b": "As necessidades de segurança, que buscam proteção contra perigos no trabalho",
+        "c": "As necessidades de pertencimento, limitadas a amizades no ambiente externo",
+        "d": "As necessidades de estima, que envolvem confiança, independência e prestígio",
+        "e": "As necessidades de condicionamento, focadas na aprendizagem mecânica"
+      },
+      "correct": "d",
+      "explanation": "O reconhecimento público e o incentivo à autonomia satisfazem as necessidades de estima, que envolvem tanto a autoestima (confiança, independência) quanto o respeito e reconhecimento por parte de terceiros.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "21-26"
+      },
+      "subject": "Psicologia humanista",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-019",
+      "topic": "Psicologia humanista",
+      "question": "Na Abordagem Centrada na Pessoa de Carl Rogers, a atitude que consiste em acolher a pessoa atendida de forma integral, sem julgamentos morais, críticas ou condições prévias, é denominada:",
+      "options": {
+        "a": "Congruência, capacidade do profissional de ser genuíno e transparente",
+        "b": "Aceitação positiva incondicional, acolhimento integral sem julgamentos",
+        "c": "Compreensão empática, apreensão do mundo interno do cliente",
+        "d": "Interpretação analítica, decodificação dos conflitos inconscientes",
+        "e": "Diretividade terapêutica, condução ativa das escolhas do cliente"
+      },
+      "correct": "b",
+      "explanation": "A aceitação positiva incondicional consiste em valorizar e acolher a pessoa atendida sem julgamentos morais, independentemente de seus comportamentos ou sentimentos, criando um ambiente seguro para a exploração psicológica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "21-26"
+      },
+      "subject": "Psicologia humanista",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-020",
+      "topic": "Movimentos sociais e psicologia crítica no Brasil",
+      "question": "A partir da década de 1970, a psicologia social crítica no Brasil rompeu com o modelo tradicional centrado no indivíduo isolado. O foco central dessa nova abordagem é:",
+      "options": {
+        "a": "A adaptação do sujeito ao meio social por meio de intervenções focadas em processos intrapsíquicos",
+        "b": "A utilização exclusiva de testes psicométricos para classificar indivíduos no ambiente educacional",
+        "c": "A compreensão do sofrimento como produto de determinações históricas, sociais e das relações de poder",
+        "d": "O isolamento do indivíduo de seu contexto macrossocial para garantir a neutralidade científica",
+        "e": "O tratamento de desajustes de personalidade por meio de modelos biológicos importados da Europa"
+      },
+      "correct": "c",
+      "explanation": "A psicologia social crítica rompeu com a visão dicotômica entre indivíduo e sociedade, compreendendo o sofrimento como resultado de um sistema excludente e de determinações históricas e sociais, e não apenas como patologia individual.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "4-8",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Movimentos sociais e psicologia crítica no Brasil",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-021",
+      "topic": "Luta antimanicomial",
+      "question": "Um psicólogo de um CAPS acompanha os usuários em caminhadas pelo bairro e no uso do transporte público, em vez de restringir os atendimentos ao consultório. Essa prática, alinhada à Luta Antimanicomial, é denominada:",
+      "options": {
+        "a": "Reforço da lógica asilar, ao monitorar o comportamento em ambientes externos para controle social",
+        "b": "Acompanhamento terapêutico, que promove a reconstrução de laços sociais e a retomada da autonomia",
+        "c": "Vigilância comunitária, substituindo a escuta psicológica pela eliminação de sintomas",
+        "d": "Avaliação quantitativa em espaços públicos para diagnosticar desvios de conduta",
+        "e": "Extensão do modelo biomédico centrado na medicação para o espaço urbano"
+      },
+      "correct": "b",
+      "explanation": "O acompanhamento terapêutico (AT) retira o profissional do setting tradicional e o insere no cotidiano da pessoa atendida, auxiliando na reconstrução de laços sociais e na retomada da autonomia, alinhado à crítica institucional.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "7-11"
+      },
+      "subject": "Luta antimanicomial",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-022",
+      "topic": "Regulamentação profissional",
+      "question": "A profissão de psicólogo foi regulamentada no Brasil pela Lei 4.119, promulgada em:",
+      "options": {
+        "a": "27 de agosto de 1962",
+        "b": "05 de outubro de 1971",
+        "c": "13 de julho de 1990",
+        "d": "20 de setembro de 2005",
+        "e": "14 de agosto de 2018"
+      },
+      "correct": "a",
+      "explanation": "A Lei 4.119, promulgada em 27 de agosto de 1962, é o marco legal que reconheceu a psicologia como profissão no Brasil, estabelecendo as funções privativas do psicólogo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "12-14",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Regulamentação profissional",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "fund-obj-023",
+      "topic": "Regulamentação profissional",
+      "question": "Sobre o Sistema Conselhos (CFP e CRPs), criado pela Lei 5.766/1971, é correto afirmar que sua principal responsabilidade é:",
+      "options": {
+        "a": "Defender os interesses trabalhistas da categoria, como piso salarial e carga horária",
+        "b": "Fomentar a pesquisa acadêmica e publicar artigos científicos para o desenvolvimento teórico",
+        "c": "Orientar, disciplinar e fiscalizar o exercício da profissão para garantir serviços de qualidade",
+        "d": "Oferecer cursos de pós-graduação obrigatórios para profissionais recém-formados",
+        "e": "Representar os psicólogos em disputas judiciais contra empregadores"
+      },
+      "correct": "c",
+      "explanation": "A função primordial dos conselhos de classe é a defesa da sociedade: orientar, disciplinar e fiscalizar o exercício profissional. A defesa de direitos trabalhistas cabe aos sindicatos, entidade distinta dos conselhos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "12-14",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Regulamentação profissional",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-024",
+      "topic": "Código de Ética Profissional",
+      "question": "Durante um atendimento, um psicólogo ouve de uma criança relatos consistentes que indicam abuso sexual intrafamiliar. Conforme o Código de Ética Profissional, a conduta correta é:",
+      "options": {
+        "a": "Manter o sigilo absoluto para preservar a relação de confiança com a família",
+        "b": "Interromper o atendimento e transferir a responsabilidade a um assistente social",
+        "c": "Quebrar o sigilo e comunicar a suspeita aos órgãos de proteção competentes",
+        "d": "Confrontar o suposto agressor na sessão seguinte antes de tomar qualquer medida",
+        "e": "Registrar o caso no prontuário e aguardar que a criança decida denunciar"
+      },
+      "correct": "c",
+      "explanation": "O sigilo não é absoluto: em situações de violência contra crianças, adolescentes e pessoas idosas, o profissional tem o dever ético e legal de notificar os órgãos de proteção, garantindo a integridade da vítima.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "14-16"
+      },
+      "subject": "Código de Ética Profissional",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-025",
+      "topic": "Código de Ética Profissional",
+      "question": "Segundo o Código de Ética Profissional do Psicólogo, é vedado ao profissional:",
+      "options": {
+        "a": "Utilizar testes psicológicos com parecer favorável do SATEPSI",
+        "b": "Induzir o paciente a convicções políticas, religiosas ou de orientação sexual",
+        "c": "Notificar autoridades em caso de risco iminente de suicídio",
+        "d": "Compartilhar informações estritamente necessárias em equipe multiprofissional",
+        "e": "Atender pessoas em situação de vulnerabilidade social"
+      },
+      "correct": "b",
+      "explanation": "O Código de Ética veda a indução de convicções políticas, filosóficas, religiosas, morais ou de orientação sexual, incluindo a proibição de práticas de 'terapia de reversão' da homossexualidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "14-16"
+      },
+      "subject": "Código de Ética Profissional",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-026",
+      "topic": "Campos de atuação",
+      "question": "Nos Centros de Referência de Assistência Social (CRAS) e nos Centros de Referência Especializados (CREAS), a atuação do psicólogo tem como foco principal:",
+      "options": {
+        "a": "A aplicação de testes psicométricos para seleção de beneficiários de programas do governo",
+        "b": "O atendimento psicoterapêutico individual de longo prazo para transtornos psiquiátricos graves",
+        "c": "O fortalecimento de vínculos familiares e comunitários de populações em vulnerabilidade social",
+        "d": "A realização de diagnósticos clínicos voltados à prescrição de medicamentos",
+        "e": "A elaboração de perfis comportamentais para encaminhamento ao mercado corporativo"
+      },
+      "correct": "c",
+      "explanation": "No âmbito do SUAS, a psicologia atua junto a populações em vulnerabilidade e risco social, com trabalho interdisciplinar voltado ao fortalecimento de vínculos, combate à violência e resgate da autonomia e cidadania.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "19-21"
+      },
+      "subject": "Campos de atuação",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-027",
+      "topic": "Tecnologia e psicologia",
+      "question": "Uma empresa implementa Inteligência Artificial para triagem de currículos. O psicólogo organizacional responsável deve avaliar o algoritmo especialmente para evitar:",
+      "options": {
+        "a": "A lentidão no processamento de dados, que pode atrasar contratações",
+        "b": "A reprodução automatizada de vieses discriminatórios baseados em dados históricos excludentes",
+        "c": "A substituição completa do RH por sistemas de gestão financeira",
+        "d": "A necessidade de aplicar testes projetivos presencialmente em todos os aprovados",
+        "e": "A violação do sigilo terapêutico ao expor prontuários clínicos aos gestores"
+      },
+      "correct": "b",
+      "explanation": "Se o algoritmo for treinado com dados históricos de contratação excludente, tenderá a reproduzir e automatizar esse preconceito. O profissional deve garantir que a tecnologia promova a equidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "21-23"
+      },
+      "subject": "Tecnologia e psicologia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-028",
+      "topic": "Tecnologia e psicologia",
+      "question": "A prestação de serviços psicológicos por videoconferência, voz ou texto (telepsicologia) é regulamentada no Brasil pelo Conselho Federal de Psicologia. Sobre essa modalidade, é correto afirmar que:",
+      "options": {
+        "a": "Testes psicológicos podem ser aplicados remotamente sem qualquer restrição adicional",
+        "b": "Situações de urgência e emergência psiquiátrica grave, de modo geral, requerem intervenção presencial",
+        "c": "O sigilo das informações é dispensável quando o atendimento ocorre por meio digital",
+        "d": "A telepsicologia substitui integralmente a necessidade de formação em psicologia clínica",
+        "e": "Não há exigência de resolução específica do CFP para essa modalidade de atendimento"
+      },
+      "correct": "b",
+      "explanation": "O CFP regulamentou o atendimento online, mas situações de urgência e emergência psiquiátrica grave, de modo geral, requerem intervenção presencial e acionamento da rede de saúde local. Testes só podem ser aplicados remotamente com parecer favorável do SATEPSI para essa modalidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "21-23"
+      },
+      "subject": "Tecnologia e psicologia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-029",
+      "topic": "Pesquisa quali/quanti e métodos mistos",
+      "question": "Uma equipe aplica um questionário estruturado a 500 alunos para medir faltas e notas (fase 1) e depois entrevista em profundidade os 20 alunos com maior evasão para compreender os motivos (fase 2). Esse desenho metodológico é denominado:",
+      "options": {
+        "a": "Desenho experimental puro focado no controle de variáveis independentes",
+        "b": "Estudo de observação participante centrado na vivência exclusiva do pesquisador",
+        "c": "Desenho explanatório sequencial, que integra métodos quantitativos e qualitativos",
+        "d": "Pesquisa fenomênica voltada apenas para a construção de significados individuais",
+        "e": "Desenho exploratório sequencial, que parte de narrativas para criar questionários"
+      },
+      "correct": "c",
+      "explanation": "O desenho explanatório sequencial inicia com a coleta e análise de dados quantitativos e, na sequência, usa métodos qualitativos para explicar ou aprofundar os resultados numéricos obtidos na primeira fase.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "4-9"
+      },
+      "subject": "Pesquisa quali/quanti e métodos mistos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-030",
+      "topic": "Temas de pesquisa contemporânea",
+      "question": "O conceito que propõe que categorias de identidade como raça, gênero e classe social não atuam de forma isolada, mas se sobrepõem, criando sistemas complexos de opressão ou privilégio, é denominado:",
+      "options": {
+        "a": "Hermenêutica fenomenológica",
+        "b": "Interseccionalidade",
+        "c": "Empirismo comportamental",
+        "d": "Neuroplasticidade cognitiva",
+        "e": "Operacionalização de variáveis"
+      },
+      "correct": "b",
+      "explanation": "A interseccionalidade propõe que categorias de identidade se sobrepõem, criando sistemas complexos de opressão ou privilégio, permitindo compreender como essas intersecções afetam a saúde mental e o desenvolvimento humano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "8-11"
+      },
+      "subject": "Temas de pesquisa contemporânea",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-obj-031",
+      "topic": "Ética em pesquisa",
+      "question": "Pesquisadores planejam um estudo sobre estigma em pessoas em situação de rua. A exigência de um TCLE impresso e assinado poderia gerar desconfiança e inviabilizar a pesquisa. Segundo a Resolução CNS nº 510/2016, a conduta adequada é:",
+      "options": {
+        "a": "Dispensar completamente o processo de consentimento devido à vulnerabilidade da população",
+        "b": "Exigir a assinatura de um responsável legal nomeado pelo Estado",
+        "c": "Utilizar meios alternativos de registro de consentimento, como gravação de áudio após explicação dialogada",
+        "d": "Aplicar o TCLE impresso de forma obrigatória, sem exceções para o formato escrito",
+        "e": "Coletar os dados de forma oculta, sem o conhecimento dos participantes"
+      },
+      "correct": "c",
+      "explanation": "A Resolução 510/2016 reconhece a especificidade das Ciências Humanas e Sociais e flexibiliza a obtenção do consentimento, permitindo registro por meios alternativos à assinatura em papel quando esta gerar constrangimento ou desconfiança.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "medio",
+      "miniLesson": "De acordo com a Resolução CNS nº 510/2016, a conduta adequada é utilizar meios alternativos de registro de consentimento, como gravação de áudio após explicação dialogada. Isso se justifica porque a Resolução reconhece a especificidade das Ciências Humanas e Sociais, flexibilizando a obtenção do consentimento quando a assinatura em papel gerar constrangimento ou desconfiança. Esse mecanismo visa garantir o consentimento informado e voluntário dos participantes, especialmente em populações vulneráveis."
+    },
+    {
+      "id": "fund-obj-032",
+      "topic": "Ética em pesquisa",
+      "question": "O Comitê de Ética em Pesquisa (CEP) deve incluir, de forma obrigatória, um membro cuja função é avaliar o projeto sob a ótica da pessoa que será submetida à pesquisa. Esse membro é:",
+      "options": {
+        "a": "O especialista em bioética clínica",
+        "b": "O metodologista quantitativo sênior",
+        "c": "O jurista especializado em direito civil",
+        "d": "O representante dos usuários da instituição",
+        "e": "O coordenador do laboratório de pesquisa"
+      },
+      "correct": "d",
+      "explanation": "A presença do representante dos usuários (membro da sociedade civil) é um mecanismo de controle social vital, avaliando se a linguagem do TCLE é compreensível e se os riscos são aceitáveis do ponto de vista da comunidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "baixo",
+      "miniLesson": "O Comitê de Ética em Pesquisa (CEP) deve incluir, de forma obrigatória, um membro representante dos usuários da instituição (correto). Este membro é fundamental para avaliar o projeto sob a ótica da pessoa que será submetida à pesquisa, garantindo que a linguagem do Termo de Consentimento Livre e Esclarecido (TCLE) seja compreensível e que os riscos sejam aceitáveis do ponto de vista da comunidade. Esta presença é um mecanismo de controle social vital, assegurando a justiça e equidade na seleção de participantes."
+    },
+    {
+      "id": "fund-obj-033",
+      "topic": "Ética em pesquisa",
+      "question": "A Resolução CNS nº 466/2012 estabelece quatro princípios bioéticos fundamentais. O princípio que garante que a seleção dos participantes seja justa, evitando a exploração de populações vulneráveis, denomina-se:",
+      "options": {
+        "a": "Autonomia",
+        "b": "Beneficência",
+        "c": "Não maleficência",
+        "d": "Justiça e equidade",
+        "e": "Transparência"
+      },
+      "correct": "d",
+      "explanation": "O princípio da justiça e equidade garante que a seleção de participantes seja justa, evitando a exploração de populações vulneráveis e assegurando distribuição equitativa dos benefícios da pesquisa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "baixo",
+      "miniLesson": "A Resolução CNS nº 466/2012 estabelece quatro princípios bioéticos fundamentais, sendo o princípio da justiça e equidade o que garante que a seleção dos participantes seja justa, evitando a exploração de populações vulneráveis. Este princípio é crucial para assegurar que a pesquisa seja realizada de forma ética, evitando a exploração de grupos vulneráveis e garantindo a distribuição equitativa dos benefícios da pesquisa."
+    },
+    {
+      "id": "fund-obj-034",
+      "topic": "Proteção de dados em pesquisa",
+      "question": "Uma equipe conduz um estudo longitudinal sobre desenvolvimento cognitivo, precisando cruzar dados dos mesmos participantes aos 5, 10 e 15 anos. Para viabilizar isso e proteger as identidades, a técnica adequada é:",
+      "options": {
+        "a": "Adoção da anonimização irreversível logo após a primeira coleta de dados",
+        "b": "Utilização da pseudonimização, com armazenamento seguro da chave de decodificação",
+        "c": "Exclusão completa dos dados sensíveis ao final de cada etapa anual",
+        "d": "Manutenção dos nomes reais no banco principal para facilitar o cruzamento",
+        "e": "Publicação dos resultados com identificadores diretos mediante autorização prévia"
+      },
+      "correct": "b",
+      "explanation": "Em estudos longitudinais, é preciso recontatar os mesmos participantes. A anonimização irreversível impediria isso; por isso, usa-se a pseudonimização, substituindo identificadores por códigos com chave de decodificação guardada em local seguro.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "22-27"
+      },
+      "subject": "Proteção de dados em pesquisa",
+      "difficulty": "medio",
+      "miniLesson": "Para viabilizar o estudo longitudinal e proteger as identidades dos participantes, a técnica adequada é a pseudonimização, com armazenamento seguro da chave de decodificação (correto). Isso permite recontatar os participantes ao longo do tempo, mantendo a identidade dos dados protegida. A pseudonimização substitui identificadores por códigos com chave de decodificação guardada em local seguro, garantindo a confidencialidade dos dados dos participantes."
+    },
+    {
+      "id": "fund-obj-035",
+      "topic": "Proteção de dados em pesquisa",
+      "question": "A LGPD estabelece que o pesquisador deve limitar a coleta de dados ao estritamente necessário para responder à pergunta da pesquisa, evitando solicitar informações irrelevantes. Esse princípio é denominado:",
+      "options": {
+        "a": "Princípio da transparência",
+        "b": "Princípio da finalidade",
+        "c": "Princípio da necessidade (minimização)",
+        "d": "Princípio da prevenção",
+        "e": "Princípio da segurança"
+      },
+      "correct": "c",
+      "explanation": "O princípio da necessidade (ou minimização) estabelece que a coleta de dados deve ser limitada ao mínimo indispensável para os propósitos da pesquisa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "22-27"
+      },
+      "subject": "Proteção de dados em pesquisa",
+      "difficulty": "baixo",
+      "miniLesson": "A LGPD estabelece que o pesquisador deve limitar a coleta de dados ao estritamente necessário para responder à pergunta da pesquisa, evitando solicitar informações irrelevantes. Esse princípio é denominado princípio da necessidade (minimização). Este conceito é fundamental para garantir que a coleta de dados seja eficiente e ética, reduzindo o risco de violações de privacidade e garantindo que os dados sejam usados apenas para os propósitos específicos da pesquisa."
+    },
+    {
+      "id": "fund-obj-036",
+      "topic": "Estruturalismo (Wundt e Titchener)",
+      "question": "O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental, na Universidade de Leipzig, por:",
+      "options": {
+        "a": "Sigmund Freud",
+        "b": "William James",
+        "c": "Wilhelm Wundt",
+        "d": "Edward Titchener",
+        "e": "John B. Watson"
+      },
+      "correct": "c",
+      "explanation": "Wilhelm Wundt fundou, em 1879, o primeiro laboratório de psicologia experimental, marco formal do surgimento da psicologia como ciência independente, dedicado ao estudo da experiência consciente imediata por meio da introspecção controlada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-10",
+        "citation": "SCHULTZ; SCHULTZ, 2019"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "O marco formal da psicologia como ciência independente ocorreu em 1879, com a fundação do primeiro laboratório de psicologia experimental, na Universidade de Leipzig, por Wilhelm Wundt. Wundt, um dos pais da psicologia científica, fundamentou seu trabalho no estruturalismo, buscando analisar a experiência consciente imediata por meio da introspecção controlada. Este marco histórico estabeleceu a psicologia como uma disciplina científica rigorosa, dedicada ao estudo das experiências psíquicas básicas."
+    },
+    {
+      "id": "fund-obj-037",
+      "topic": "Movimentos sociais e psicologia crítica no Brasil",
+      "question": "A perspectiva teórica que forneceu arcabouço para a crítica das 'instituições de sequestro' (manicômios, prisões, orfanatos), evidenciando que diagnósticos e práticas de confinamento não eram atos neutros, mas exercícios de poder, foi proposta por:",
+      "options": {
+        "a": "B. F. Skinner",
+        "b": "Michel Foucault",
+        "c": "Carl Rogers",
+        "d": "Jean Piaget",
+        "e": "Abraham Maslow"
+      },
+      "correct": "b",
+      "explanation": "A obra de Michel Foucault forneceu o arcabouço teórico para a crítica institucional, evidenciando que diagnósticos e práticas de confinamento eram exercícios de poder voltados ao controle social.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "4-8",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Movimentos sociais e psicologia crítica no Brasil",
+      "difficulty": "medio",
+      "miniLesson": "A perspectiva teórica que forneceu arcabouço para a crítica das 'instituições de sequestro' (manicômios, prisões, orfanatos), evidenciando que diagnósticos e práticas de confinamento não eram atos neutros, mas exercícios de poder, foi proposta por Michel Foucault. Foucault, em sua obra 'A Máquina de Contar os Loucos', destacou como as instituições psiquiátricas e penitenciárias exerciam controle social e poder sobre os indivíduos, submetendo-os a normas e padrões de comportamento."
+    },
+    {
+      "id": "fund-obj-038",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No condicionamento clássico, quando o Estímulo Condicionado passa a ser apresentado repetidamente sem o Estímulo Incondicionado, e a Resposta Condicionada diminui até desaparecer, esse processo é denominado:",
+      "options": {
+        "a": "Generalização",
+        "b": "Discriminação",
+        "c": "Extinção",
+        "d": "Recuperação espontânea",
+        "e": "Reforçamento intermitente"
+      },
+      "correct": "c",
+      "explanation": "A extinção ocorre quando o Estímulo Condicionado deixa de ser seguido pelo Estímulo Incondicionado repetidamente, levando à diminuição progressiva e ao desaparecimento da Resposta Condicionada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "No condicionamento clássico, quando o Estímulo Condicionado passa a ser apresentado repetidamente sem o Estímulo Incondicionado, e a Resposta Condicionada diminui até desaparecer, esse processo é denominado extinção. Este conceito foi desenvolvido por Ivan Pavlov, que estudou o condicionamento em cães, demonstrando como a resposta condicionada pode ser diminuída ou eliminada ao não ser reforçada."
+    },
+    {
+      "id": "fund-obj-039",
+      "topic": "Psicanálise (Freud)",
+      "question": "Segundo a teoria do desenvolvimento psicossexual de Freud, o período em que ocorre o Complexo de Édipo, núcleo central da teoria, corresponde à:",
+      "options": {
+        "a": "Fase oral",
+        "b": "Fase anal",
+        "c": "Fase fálica",
+        "d": "Período de latência",
+        "e": "Fase genital"
+      },
+      "correct": "c",
+      "explanation": "Entre três e cinco anos, na fase fálica, ocorre o Complexo de Édipo, no qual a criança vivencia desejos intensos em relação aos genitores, culminando na estruturação do Superego.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo a teoria do desenvolvimento psicossexual de Sigmund Freud, o período em que ocorre o Complexo de Édipo, núcleo central da teoria, corresponde à fase fálica. Na fase fálica, entre três e cinco anos, a criança vivencia desejos intensos em relação aos genitores, culminando na estruturação do Superego. Freud associava este complexo ao desenvolvimento da moralidade e do ego."
+    },
+    {
+      "id": "fund-obj-040",
+      "topic": "Gestalt",
+      "question": "Kurt Lewin expandiu os princípios da gestalt para o estudo da motivação e da dinâmica de grupos por meio da Teoria de Campo. Nessa teoria, o conceito que engloba a pessoa e o ambiente psicológico tal como percebido por ela é denominado:",
+      "options": {
+        "a": "Espaço vital",
+        "b": "Fenômeno phi",
+        "c": "Prägnanz",
+        "d": "Zona de desenvolvimento proximal",
+        "e": "Aparelho psíquico"
+      },
+      "correct": "a",
+      "explanation": "O espaço vital, na Teoria de Campo de Lewin, engloba a pessoa e seu ambiente psicológico tal como percebido e avaliado por ela em função de suas necessidades e tensões atuais, determinando o comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "13-18"
+      },
+      "subject": "Gestalt",
+      "difficulty": "baixo",
+      "miniLesson": "Kurt Lewin expandiu os princípios da gestalt para o estudo da motivação e da dinâmica de grupos por meio da Teoria de Campo. Nessa teoria, o conceito que engloba a pessoa e o ambiente psicológico tal como percebido por ela é denominado espaço vital. Este conceito, proposto por Lewin, enfatiza a interação entre o indivíduo e seu ambiente, considerando como as necessidades e tensões psicológicas influenciam o comportamento."
+    },
+    {
+      "id": "fund-obj-041",
+      "topic": "Psicologia humanista",
+      "question": "Viktor Frankl, a partir de suas experiências em campos de concentração, desenvolveu a logoterapia, defendendo que a motivação primária do ser humano é:",
+      "options": {
+        "a": "A busca pelo prazer imediato e pela descarga pulsional",
+        "b": "A vontade de sentido, mesmo diante do sofrimento extremo",
+        "c": "A necessidade de controle absoluto sobre o ambiente",
+        "d": "A repetição de padrões de reforçamento do passado",
+        "e": "A adaptação passiva às contingências ambientais"
+      },
+      "correct": "b",
+      "explanation": "Frankl argumentava que a motivação primária do ser humano não é a busca pelo prazer ou pelo poder, mas a vontade de sentido: mesmo em situações de sofrimento extremo, o indivíduo possui liberdade interior para escolher sua atitude.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "21-26"
+      },
+      "subject": "Psicologia humanista",
+      "difficulty": "medio",
+      "miniLesson": "Viktor Frankl, a partir de suas experiências em campos de concentração, desenvolveu a logoterapia, defendendo que a motivação primária do ser humano é a vontade de sentido, mesmo diante do sofrimento extremo. Frankl argumentava que, mesmo em situações aparentemente sem esperança, o indivíduo possui liberdade interior para buscar um propósito de vida. Esta ideia contrasta com a visão freudiana de que a motivação primária é a busca pelo prazer, ou com a visão behaviorista de que comportamentos são determinados por estímulos e reforços ambientais."
+    },
+    {
+      "id": "fund-obj-042",
+      "topic": "Ética em pesquisa",
+      "question": "Em pesquisas sobre eficácia de psicoterapias, negar tratamento a um grupo controle levanta questionamentos éticos severos. Uma estratégia para mitigar esse dilema é o desenho de:",
+      "options": {
+        "a": "Grupo controle cego duplo sem qualquer intervenção posterior",
+        "b": "Lista de espera (waitlist control), em que o grupo controle recebe a intervenção após a fase experimental",
+        "c": "Amostragem por conveniência sem randomização dos participantes",
+        "d": "Grupo controle histórico baseado em prontuários de anos anteriores",
+        "e": "Substituição do grupo controle por simulação estatística computacional"
+      },
+      "correct": "b",
+      "explanation": "O desenho de lista de espera (waitlist control) garante que todos os participantes tenham acesso à intervenção estudada, com o grupo controle recebendo o tratamento logo após o término da fase experimental.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "medio",
+      "miniLesson": "Em pesquisas sobre eficácia de psicoterapias, negar tratamento a um grupo controle levanta questionamentos éticos severos. Uma estratégia para mitigar esse dilema é o desenho de lista de espera (waitlist control), em que o grupo controle recebe a intervenção após a fase experimental. Esta abordagem garante que todos os participantes tenham acesso à intervenção estudada, reduzindo assim os impactos éticos da negação de tratamento imediato. A lista de espera control é uma estratégia ética e eficaz para mitigar os dilemas éticos em pesquisas experimentais."
+    },
+    {
+      "id": "fund-obj-043",
+      "topic": "Regulamentação profissional",
+      "question": "Diferentemente dos conselhos de classe, os sindicatos de psicólogos têm como responsabilidade principal:",
+      "options": {
+        "a": "Fiscalizar o exercício ético e técnico da profissão",
+        "b": "Julgar processos éticos em primeira instância",
+        "c": "Defender interesses trabalhistas, como piso salarial e carga horária",
+        "d": "Emitir a Carteira de Identidade Profissional (CIP)",
+        "e": "Normatizar a profissão em âmbito nacional"
+      },
+      "correct": "c",
+      "explanation": "Os sindicatos são entidades distintas dos conselhos de classe, responsáveis pela defesa de interesses trabalhistas da categoria, como piso salarial, carga horária e condições de trabalho.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "12-14",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Regulamentação profissional",
+      "difficulty": "baixo",
+      "miniLesson": "Diferentemente dos conselhos de classe, os sindicatos de psicólogos têm como responsabilidade principal defender interesses trabalhistas, como piso salarial e carga horária. Esta responsabilidade reflete a natureza deles como organizações de classe, visando proteger os direitos e interesses dos profissionais. Os conselhos de classe, por outro lado, têm como principal função fiscalizar o exercício ético e técnico da profissão."
+    },
+    {
+      "id": "fund-obj-044",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A Análise do Comportamento Aplicada (ABA), ao intervir em um comportamento autolesivo mantido por fuga de tarefas escolares difíceis, orienta o profissional a:",
+      "options": {
+        "a": "Buscar explicações em traumas inconscientes e conflitos edípicos",
+        "b": "Aplicar punição física para eliminar rapidamente o comportamento",
+        "c": "Alterar o antecedente e ensinar um comportamento alternativo adequado, reforçado consistentemente",
+        "d": "Ignorar completamente o comportamento sem qualquer intervenção ambiental",
+        "e": "Atribuir o comportamento exclusivamente a uma disfunção neurológica irreversível"
+      },
+      "correct": "c",
+      "explanation": "A ABA realiza avaliação funcional dos antecedentes e consequências do comportamento. Se a função é escapar de uma tarefa difícil, o profissional altera o antecedente e ensina um comportamento alternativo (como pedir pausa), reforçado consistentemente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13-17",
+        "citation": "SKINNER, 2003"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A Análise do Comportamento Aplicada (ABA), ao intervir em um comportamento autolesivo mantido por fuga de tarefas escolares difíceis, orienta o profissional a alterar o antecedente e ensinar um comportamento alternativo adequado, reforçado consistentemente. Esta abordagem, fundamentada no behaviorismo radical de B.F. Skinner, visa resolver o problema de forma funcional, sem recorrer a punições ou atribuições de causas inconscientes. O foco está em mudar o comportamento através de intervenções ambientais e reforços positivos."
+    },
+    {
+      "id": "fund-obj-045",
+      "topic": "Campos de atuação",
+      "question": "Sobre a psicologia escolar contemporânea, alinhada à crítica institucional, é correto afirmar que:",
+      "options": {
+        "a": "O foco exclusivo é diagnosticar e tratar o aluno como portador individual de um déficit",
+        "b": "A escola é compreendida como sistema complexo, e as dificuldades de aprendizagem podem refletir falhas no ensino ou vulnerabilidades sociais",
+        "c": "O psicólogo escolar deve aplicar apenas testes psicométricos padronizados sem interação com docentes",
+        "d": "A atuação se restringe ao atendimento clínico individual dentro do ambiente escolar",
+        "e": "A formação continuada de professores não faz parte do escopo da psicologia escolar"
+      },
+      "correct": "b",
+      "explanation": "A psicologia escolar contemporânea compreende a escola como sistema complexo, atuando na formação docente, mediação de conflitos e inclusão, entendendo que dificuldades de aprendizagem refletem, muitas vezes, falhas no processo de ensino ou vulnerabilidades sociais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "19-21"
+      },
+      "subject": "Campos de atuação",
+      "difficulty": "medio",
+      "miniLesson": "Sobre a psicologia escolar contemporânea, alinhada à crítica institucional, é correto afirmar que a escola é compreendida como sistema complexo, e as dificuldades de aprendizagem podem refletir falhas no ensino ou vulnerabilidades sociais. Esta abordagem contrasta com a visão tradicional que foca exclusivamente no diagnóstico e tratamento do aluno como portador individual de um déficit. A psicologia escolar contemporânea atua na formação docente, mediação de conflitos e inclusão, entendendo que as dificuldades de aprendizagem são multifatoriais e podem refletir falhas no processo de ensino ou contextos sociais desfavoráveis."
+    }
+  ],
+  "discursive": [
+    {
+      "id": "fund-disc-001",
+      "topic": "Dualismo e transição para a psicologia científica",
+      "question": "Explique o dualismo interacionista proposto por René Descartes e discuta como ele influenciou o problema de tornar a mente um objeto de estudo científico.",
+      "modelAnswer": "Descartes propôs que o ser humano é composto por duas substâncias distintas e incompatíveis: a res cogitans (mente, imaterial e inextensa) e a res extensa (corpo, material e mensurável). O corpo funcionaria como uma máquina regida por leis físicas, enquanto a mente seria sede do pensamento consciente e do livre-arbítrio. Descartes localizou o ponto de interação entre as duas substâncias na glândula pineal. Essa separação radical criou um dilema epistemológico: se a ciência exige observação e medição de fenômenos materiais, como estudar cientificamente uma mente imaterial? Esse impasse motivou, séculos depois, o desenvolvimento da psicofísica (Weber e Fechner) e a fundação do laboratório de Wundt, que buscaram formas de medir a relação entre estímulos físicos e sensações mentais, preparando o terreno para a psicologia experimental.",
+      "keyPoints": [
+        {
+          "text": "Define res cogitans (mente) e res extensa (corpo) como substâncias distintas",
+          "weight": 3,
+          "keywords": [
+            "res cogitans",
+            "res extensa",
+            "mente imaterial",
+            "corpo material",
+            "duas substâncias"
+          ]
+        },
+        {
+          "text": "Menciona a glândula pineal como ponto de interação proposto por Descartes",
+          "weight": 1,
+          "keywords": [
+            "glândula pineal",
+            "espíritos animais"
+          ]
+        },
+        {
+          "text": "Explica o dilema epistemológico de estudar cientificamente uma mente imaterial",
+          "weight": 3,
+          "keywords": [
+            "dilema epistemológico",
+            "mente imaterial",
+            "observação e medição",
+            "estudar cientificamente"
+          ]
+        },
+        {
+          "text": "Relaciona com o desenvolvimento posterior da psicofísica e do laboratório de Wundt",
+          "weight": 2,
+          "keywords": [
+            "psicofísica",
+            "Wundt",
+            "laboratório",
+            "Weber",
+            "Fechner"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "4-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-002",
+      "topic": "Estruturalismo x Funcionalismo",
+      "question": "Compare o estruturalismo de Titchener e o funcionalismo de William James, destacando as diferenças de objeto de estudo, método e propósito de cada escola.",
+      "modelAnswer": "O estruturalismo, fundado por Titchener a partir do modelo de Wundt, tinha como objetivo descobrir a estrutura da mente por meio da introspecção experimental rigorosa, decompondo a consciência em elementos básicos (sensações, imagens, afetos). Era uma ciência pura, restrita ao laboratório, sem interesse em aplicações práticas, e entrou em declínio pela subjetividade do método e pela recusa em estudar psicologia animal, infantil e aplicada. Já o funcionalismo, influenciado pelo darwinismo e pelo pragmatismo, buscava compreender para que serve a mente e como o comportamento auxilia a adaptação ao ambiente. William James propôs o conceito de corrente da consciência, criticando a fragmentação estruturalista. O funcionalismo utilizava múltiplos métodos (observação, testes, questionários) e deu origem à psicologia aplicada (escolar, organizacional, psicometria), voltada à resolução de problemas reais.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: objeto é a estrutura/elementos da consciência",
+          "weight": 2,
+          "keywords": [
+            "estrutura da consciência",
+            "elementos básicos",
+            "sensações",
+            "Titchener"
+          ]
+        },
+        {
+          "text": "Estruturalismo: método é a introspecção experimental rigorosa",
+          "weight": 2,
+          "keywords": [
+            "introspecção",
+            "método experimental"
+          ]
+        },
+        {
+          "text": "Funcionalismo: objeto é a função/utilidade adaptativa da mente",
+          "weight": 2,
+          "keywords": [
+            "função da mente",
+            "adaptação",
+            "para que serve"
+          ]
+        },
+        {
+          "text": "Funcionalismo: influência do darwinismo e do pragmatismo, e ligação com William James",
+          "weight": 2,
+          "keywords": [
+            "darwinismo",
+            "pragmatismo",
+            "William James",
+            "corrente da consciência"
+          ]
+        },
+        {
+          "text": "Funcionalismo deu origem à psicologia aplicada (escolar, organizacional)",
+          "weight": 1,
+          "keywords": [
+            "psicologia aplicada",
+            "psicometria",
+            "psicologia escolar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-10",
+        "citation": "SCHULTZ; SCHULTZ, 2019"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-003",
+      "topic": "Epistemologia e pluralidade da psicologia",
+      "question": "Explique por que a psicologia é considerada uma ciência multi-paradigmática ou pré-paradigmática, e discuta a diferença entre abordagens nomotéticas e idiográficas.",
+      "modelAnswer": "Segundo o modelo de Thomas Kuhn, uma ciência madura possui um paradigma unificado que orienta a pesquisa. A psicologia, no entanto, caracteriza-se pela coexistência de múltiplas escolas de pensamento (estruturalismo, funcionalismo, psicanálise, behaviorismo, gestalt, humanismo), com pressupostos ontológicos e metodológicos distintos, frequentemente em tensão. Isso decorre da complexidade do próprio objeto de estudo: o ser humano é uma entidade biopsicossocial, dotada de linguagem, historicidade e subjetividade, impossível de ser enquadrada em uma única definição. Luís Cláudio Figueiredo propõe organizar essa diversidade em matrizes de pensamento. As abordagens nomotéticas (como o behaviorismo e a psicologia cognitiva experimental) buscam leis gerais e universais, usando métodos quantitativos. As abordagens idiográficas (como a fenomenologia e o existencialismo) focam na singularidade da experiência vivida, usando métodos qualitativos. Essa pluralidade exige do profissional uma postura de vigilância epistemológica, evitando o ecletismo ingênuo.",
+      "keyPoints": [
+        {
+          "text": "Explica o conceito de paradigma de Kuhn e a coexistência de múltiplas escolas na psicologia",
+          "weight": 3,
+          "keywords": [
+            "paradigma",
+            "Kuhn",
+            "múltiplas escolas",
+            "multi-paradigmática"
+          ]
+        },
+        {
+          "text": "Relaciona a pluralidade com a complexidade do objeto de estudo (ser humano biopsicossocial)",
+          "weight": 2,
+          "keywords": [
+            "biopsicossocial",
+            "complexidade do objeto",
+            "subjetividade"
+          ]
+        },
+        {
+          "text": "Define abordagem nomotética (leis gerais, métodos quantitativos)",
+          "weight": 2,
+          "keywords": [
+            "nomotética",
+            "leis gerais",
+            "quantitativo"
+          ]
+        },
+        {
+          "text": "Define abordagem idiográfica (singularidade, métodos qualitativos)",
+          "weight": 2,
+          "keywords": [
+            "idiográfica",
+            "singularidade",
+            "qualitativo",
+            "fenomenologia"
+          ]
+        },
+        {
+          "text": "Menciona o risco do ecletismo ingênuo e a necessidade de vigilância epistemológica",
+          "weight": 1,
+          "keywords": [
+            "ecletismo ingênuo",
+            "vigilância epistemológica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "21-24",
+        "citation": "FIGUEIREDO, 2009"
+      },
+      "subject": "Epistemologia e pluralidade da psicologia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-004",
+      "topic": "Behaviorismo metodológico e radical",
+      "question": "Diferencie o behaviorismo metodológico de Watson do behaviorismo radical de Skinner, explicando por que Skinner é considerado monista em relação aos eventos privados.",
+      "modelAnswer": "O behaviorismo metodológico de Watson excluía a consciência e os eventos internos do escopo da ciência psicológica, por não serem diretamente observáveis, focando exclusivamente no modelo Estímulo-Resposta (S-R) e no comportamento respondente (reflexo). Skinner reconheceu que esse modelo era insuficiente para explicar a vasta maioria dos comportamentos humanos, pois não considerava as consequências do comportamento sobre o ambiente. Ele formulou o conceito de comportamento operante, cuja probabilidade futura depende das consequências (reforço ou punição) que produziu no passado. Diferente de Watson, Skinner adotou uma postura monista: para o behaviorismo radical, pensamentos e sentimentos não são excluídos da ciência, mas são compreendidos como comportamentos (eventos privados) sujeitos às mesmas leis de aprendizagem que os comportamentos públicos. A dificuldade está apenas na acessibilidade à observação, não na natureza do fenômeno.",
+      "keyPoints": [
+        {
+          "text": "Watson: exclui consciência, foca no modelo Estímulo-Resposta (S-R)",
+          "weight": 3,
+          "keywords": [
+            "Watson",
+            "estímulo resposta",
+            "S-R",
+            "comportamento observável"
+          ]
+        },
+        {
+          "text": "Skinner: introduz o comportamento operante e suas consequências",
+          "weight": 3,
+          "keywords": [
+            "comportamento operante",
+            "consequências",
+            "Skinner"
+          ]
+        },
+        {
+          "text": "Skinner é monista: eventos privados (pensar, sentir) são comportamentos sujeitos às mesmas leis",
+          "weight": 3,
+          "keywords": [
+            "monismo",
+            "eventos privados",
+            "mesmas leis de aprendizagem",
+            "pensar é comportar-se"
+          ]
+        },
+        {
+          "text": "Diferença está na acessibilidade à observação, não na natureza do fenômeno",
+          "weight": 1,
+          "keywords": [
+            "acessibilidade",
+            "observação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4-6",
+        "citation": "GOODWIN, 2017"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-005",
+      "topic": "Movimentos sociais e psicologia crítica",
+      "question": "Explique como os movimentos sociais das décadas de 1970 e 1980 transformaram a prática da psicologia no Brasil, contrapondo o modelo tradicional ao modelo da psicologia social crítica.",
+      "modelAnswer": "Até a década de 1970, a psicologia no Brasil seguia modelos importados, com prática concentrada em consultórios particulares e aplicação de testes psicométricos, atendendo principalmente a uma parcela restrita da população. Durante o regime militar, movimentos sociais exigiam redemocratização e melhores condições de vida, levando profissionais e estudantes de psicologia a questionar a neutralidade científica da área. Constatou-se que a psicologia tradicional não oferecia ferramentas para compreender o sofrimento gerado pela desigualdade social. Surgiu, assim, a psicologia social crítica, influenciada pelo materialismo histórico e dialético, que passou a investigar como estruturas sociais e relações de poder constituem a subjetividade. A prática passou a exigir a saída dos consultórios e a inserção em comunidades, sindicatos e movimentos populares, com profissionais atuando como facilitadores de processos grupais voltados à conscientização e à transformação social, e não apenas à adaptação do indivíduo.",
+      "keyPoints": [
+        {
+          "text": "Descreve o modelo tradicional anterior (consultório, testes, elite)",
+          "weight": 2,
+          "keywords": [
+            "consultório particular",
+            "testes psicométricos",
+            "elitista"
+          ]
+        },
+        {
+          "text": "Relaciona o contexto do regime militar e dos movimentos sociais como propulsores da mudança",
+          "weight": 2,
+          "keywords": [
+            "regime militar",
+            "movimentos sociais",
+            "redemocratização"
+          ]
+        },
+        {
+          "text": "Explica a psicologia social crítica e sua base no materialismo histórico-dialético",
+          "weight": 3,
+          "keywords": [
+            "psicologia social crítica",
+            "materialismo histórico",
+            "estruturas sociais"
+          ]
+        },
+        {
+          "text": "Descreve a nova prática: inserção em comunidades, foco em conscientização e transformação social",
+          "weight": 2,
+          "keywords": [
+            "comunidades",
+            "conscientização",
+            "transformação social",
+            "movimentos populares"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "4-8",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Movimentos sociais e psicologia crítica no Brasil",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-006",
+      "topic": "Luta antimanicomial",
+      "question": "Descreva o Movimento da Luta Antimanicomial no Brasil, explicando sua origem, seus objetivos e os dispositivos de cuidado que ele originou.",
+      "modelAnswer": "Inspirado pelas experiências de desinstitucionalização na Itália conduzidas por Franco Basaglia, o movimento surgiu no final da década de 1970 a partir da denúncia das condições subumanas dos hospitais psiquiátricos brasileiros, culminando no Movimento dos Trabalhadores em Saúde Mental (MTSM) e, depois, na Luta Antimanicomial, com o lema 'Por uma sociedade sem manicômios'. A psicologia teve papel de protagonismo, engajando-se na formulação de um novo modelo de atenção baseado no cuidado em liberdade, na base territorial e na reinserção social. Esse movimento resultou na criação de novos dispositivos de cuidado, como os Centros de Atenção Psicossocial (CAPS), as Residências Terapêuticas e os Centros de Convivência, que substituem o modelo biomédico centrado no sintoma e na medicação por uma atuação que valoriza a escuta, os projetos terapêuticos singulares e o trabalho em equipe multiprofissional, utilizando também a arte e a convivência comunitária como ferramentas terapêuticas.",
+      "keyPoints": [
+        {
+          "text": "Menciona a influência de Franco Basaglia e a desinstitucionalização italiana",
+          "weight": 2,
+          "keywords": [
+            "Basaglia",
+            "desinstitucionalização",
+            "Itália"
+          ]
+        },
+        {
+          "text": "Explica a origem (MTSM) e o lema da Luta Antimanicomial",
+          "weight": 2,
+          "keywords": [
+            "MTSM",
+            "sociedade sem manicômios",
+            "trabalhadores em saúde mental"
+          ]
+        },
+        {
+          "text": "Descreve os novos dispositivos de cuidado (CAPS, Residências Terapêuticas)",
+          "weight": 3,
+          "keywords": [
+            "CAPS",
+            "residências terapêuticas",
+            "centros de convivência"
+          ]
+        },
+        {
+          "text": "Contrasta com o modelo biomédico anterior centrado em medicação e internação",
+          "weight": 2,
+          "keywords": [
+            "modelo biomédico",
+            "cuidado em liberdade",
+            "reinserção social"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "7-11"
+      },
+      "subject": "Luta antimanicomial",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-007",
+      "topic": "Código de Ética Profissional",
+      "question": "Explique o princípio do sigilo profissional na psicologia e discuta as exceções previstas pelo Código de Ética em que a quebra de sigilo é permitida ou exigida.",
+      "modelAnswer": "O sigilo profissional é um dos pilares da prática psicológica: o psicólogo tem o dever de proteger as informações obtidas no exercício da profissão, garantindo a privacidade da pessoa atendida e a confiança na relação terapêutica. No entanto, o sigilo não é absoluto. O Código de Ética prevê situações excepcionais em que sua quebra é permitida ou exigida, como em casos de risco iminente de morte (risco de suicídio ou homicídio) ou em situações de violência contra crianças, adolescentes e pessoas idosas, nas quais há obrigação legal de notificação às autoridades competentes (como o Conselho Tutelar, com base no Estatuto da Criança e do Adolescente). A decisão de quebrar o sigilo deve ser tomada com base na busca do menor prejuízo, restringindo-se a fornecer apenas as informações estritamente necessárias para a proteção da pessoa em risco.",
+      "keyPoints": [
+        {
+          "text": "Define o sigilo profissional como dever ético fundamental",
+          "weight": 2,
+          "keywords": [
+            "sigilo profissional",
+            "confidencialidade",
+            "privacidade"
+          ]
+        },
+        {
+          "text": "Menciona a exceção de risco iminente de morte (suicídio/homicídio)",
+          "weight": 3,
+          "keywords": [
+            "risco de suicídio",
+            "risco iminente",
+            "proteção à vida"
+          ]
+        },
+        {
+          "text": "Menciona a exceção de violência contra crianças, adolescentes e idosos",
+          "weight": 3,
+          "keywords": [
+            "violência contra crianças",
+            "conselho tutelar",
+            "estatuto da criança e do adolescente"
+          ]
+        },
+        {
+          "text": "Explica o princípio do menor prejuízo ao quebrar o sigilo",
+          "weight": 1,
+          "keywords": [
+            "menor prejuízo",
+            "informações estritamente necessárias"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "14-16"
+      },
+      "subject": "Código de Ética Profissional",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-008",
+      "topic": "Campos de atuação e novas tecnologias",
+      "question": "Discuta os principais desafios éticos que a psicologia enfrenta com a incorporação de novas tecnologias, como o atendimento online, a inteligência artificial e a LGPD.",
+      "modelAnswer": "A revolução digital trouxe desafios inéditos à prática psicológica. No atendimento online (telepsicologia), regulamentado pelo CFP, o profissional deve garantir sigilo por meio de plataformas com criptografia adequada e avaliar se o caso tem indicação para esse formato, já que emergências psiquiátricas graves geralmente requerem intervenção presencial. No uso de Inteligência Artificial, especialmente em triagem de currículos ou perfis comportamentais, o psicólogo deve exercer letramento digital crítico, pois algoritmos treinados com dados históricos excludentes podem reproduzir e automatizar vieses discriminatórios de raça e gênero, cabendo ao profissional garantir que a tecnologia promova equidade. Já a Lei Geral de Proteção de Dados (LGPD) exige que dados sensíveis (saúde, orientação sexual, convicções religiosas) sejam tratados com finalidade específica, minimização da coleta e segurança rigorosa, sendo obrigatório o consentimento informado e a possibilidade de anonimização, sob risco de infração ética grave e crime em caso de vazamento.",
+      "keyPoints": [
+        {
+          "text": "Discute o atendimento online: sigilo, criptografia e limites para casos de urgência",
+          "weight": 2,
+          "keywords": [
+            "telepsicologia",
+            "atendimento online",
+            "criptografia",
+            "urgência"
+          ]
+        },
+        {
+          "text": "Discute o risco de vieses discriminatórios em algoritmos de IA",
+          "weight": 3,
+          "keywords": [
+            "inteligência artificial",
+            "vieses discriminatórios",
+            "algoritmo",
+            "equidade"
+          ]
+        },
+        {
+          "text": "Discute a LGPD e o tratamento de dados sensíveis (saúde, orientação sexual etc.)",
+          "weight": 3,
+          "keywords": [
+            "LGPD",
+            "dados sensíveis",
+            "consentimento",
+            "anonimização"
+          ]
+        },
+        {
+          "text": "Menciona consequências éticas e legais de falhas nesses cuidados (infração ética, crime)",
+          "weight": 1,
+          "keywords": [
+            "infração ética",
+            "vazamento de dados",
+            "crime"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "19-21"
+      },
+      "subject": "Campos de atuação",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-009",
+      "topic": "Pesquisa qualitativa e quantitativa",
+      "question": "Compare os fundamentos epistemológicos e os métodos das abordagens quantitativa e qualitativa de pesquisa em psicologia, dando um exemplo prático de aplicação de cada uma.",
+      "modelAnswer": "A pesquisa quantitativa tem raízes no positivismo e no empirismo, pressupondo que a realidade é objetiva e mensurável. Busca identificar relações de causa e efeito, testar hipóteses e generalizar resultados por meio de amostras representativas, escalas padronizadas e análise estatística. Um exemplo é um estudo que compara, com escalas de ansiedade, um grupo experimental recebendo uma nova técnica cognitivo-comportamental contra um grupo controle, avaliando significância estatística. Já a pesquisa qualitativa fundamenta-se na fenomenologia, na hermenêutica e no construtivismo, rejeitando a ideia de uma realidade objetiva única e priorizando a compreensão de significados subjetivos. Usa entrevistas em profundidade, grupos focais e observação participante, com amostragem por relevância teórica (não estatística). Um exemplo é um estudo sobre o luto de mães que perderam filhos na primeira infância, conduzido por meio de entrevistas narrativas para compreender como reconstroem o sentido da vida.",
+      "keyPoints": [
+        {
+          "text": "Explica a base epistemológica quantitativa (positivismo, mensuração, generalização)",
+          "weight": 2,
+          "keywords": [
+            "positivismo",
+            "mensuração",
+            "generalização",
+            "amostra representativa"
+          ]
+        },
+        {
+          "text": "Explica a base epistemológica qualitativa (fenomenologia, construção de significados)",
+          "weight": 2,
+          "keywords": [
+            "fenomenologia",
+            "construtivismo",
+            "significados subjetivos"
+          ]
+        },
+        {
+          "text": "Cita instrumentos típicos de cada abordagem (escalas x entrevistas/grupos focais)",
+          "weight": 2,
+          "keywords": [
+            "escalas padronizadas",
+            "entrevistas em profundidade",
+            "grupos focais"
+          ]
+        },
+        {
+          "text": "Dá exemplo prático coerente para cada abordagem",
+          "weight": 2,
+          "keywords": [
+            "grupo controle",
+            "significância estatística",
+            "entrevista narrativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "4-9"
+      },
+      "subject": "Pesquisa quali/quanti e métodos mistos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-010",
+      "topic": "Ética em pesquisa (CNS 466/2012 e 510/2016)",
+      "question": "Explique os quatro princípios bioéticos da Resolução CNS nº 466/2012 e discuta por que foi necessária a criação da Resolução nº 510/2016 específica para as Ciências Humanas e Sociais.",
+      "modelAnswer": "A Resolução CNS nº 466/2012 estabelece quatro princípios bioéticos fundamentais para pesquisas com seres humanos: autonomia (respeito à capacidade de decisão do participante, que deve ter liberdade para aceitar ou recusar a pesquisa), beneficência (obrigação de maximizar benefícios), não maleficência (compromisso de evitar danos previsíveis) e justiça e equidade (garantia de seleção justa dos participantes, evitando explorar populações vulneráveis). Por muitos anos, pesquisadores de Ciências Humanas e Sociais apontaram que essa resolução tinha viés biomédico, exigindo descrição de riscos físicos incompatíveis com métodos qualitativos como entrevistas narrativas. Por isso, o CNS publicou a Resolução nº 510/2016, que reconhece que o risco nessas áreas está mais relacionado à exposição de dados e ao constrangimento moral do que a danos físicos, e flexibiliza a obtenção do consentimento, permitindo registros alternativos (como gravação em áudio) em vez da assinatura formal do TCLE, adequando-se a populações e contextos onde essa exigência causaria desconfiança ou risco.",
+      "keyPoints": [
+        {
+          "text": "Define autonomia (liberdade de decisão do participante)",
+          "weight": 2,
+          "keywords": [
+            "autonomia",
+            "liberdade de decisão",
+            "consentimento"
+          ]
+        },
+        {
+          "text": "Define beneficência e não maleficência",
+          "weight": 2,
+          "keywords": [
+            "beneficência",
+            "não maleficência",
+            "maximizar benefícios",
+            "evitar danos"
+          ]
+        },
+        {
+          "text": "Define justiça e equidade (seleção justa dos participantes)",
+          "weight": 2,
+          "keywords": [
+            "justiça e equidade",
+            "seleção justa",
+            "populações vulneráveis"
+          ]
+        },
+        {
+          "text": "Explica o viés biomédico da 466/2012 e a necessidade da 510/2016 para CHS",
+          "weight": 3,
+          "keywords": [
+            "viés biomédico",
+            "510/2016",
+            "ciências humanas e sociais",
+            "risco de exposição de dados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-011",
+      "topic": "Psicanálise: a descoberta do inconsciente",
+      "question": "Explique como Freud desenvolveu a técnica da associação livre a partir das limitações do método catártico, e descreva o conceito de inconsciente dinâmico.",
+      "modelAnswer": "Freud, inicialmente influenciado por Charcot e depois em colaboração com Breuer, utilizava o método catártico: hipnotizar o paciente e incitá-lo a relatar as circunstâncias do surgimento dos sintomas, cuja recordação (acompanhada de descarga emocional) fazia o sintoma desaparecer. Diante das limitações da hipnose (nem todos os pacientes eram suscetíveis, e os resultados eram transitórios), Freud passou a encorajar os pacientes a relatar livremente qualquer pensamento que lhes ocorresse, sem censura, dando origem à associação livre, regra fundamental da técnica psicanalítica. Essa técnica permitiu a Freud formular o conceito de inconsciente dinâmico: diferente de um mero reservatório de memórias esquecidas, o inconsciente é um sistema psíquico ativo, regido por leis próprias, que exerce pressão constante para que seus conteúdos (pulsões reprimidas) sejam descarregados, manifestando-se em sonhos, atos falhos, chistes e sintomas neuróticos, que são formações de compromisso entre o desejo inconsciente e a censura.",
+      "keyPoints": [
+        {
+          "text": "Descreve o método catártico e suas limitações (hipnose)",
+          "weight": 2,
+          "keywords": [
+            "método catártico",
+            "hipnose",
+            "Breuer",
+            "Charcot"
+          ]
+        },
+        {
+          "text": "Explica a associação livre como regra fundamental da técnica psicanalítica",
+          "weight": 3,
+          "keywords": [
+            "associação livre",
+            "sem censura",
+            "regra fundamental"
+          ]
+        },
+        {
+          "text": "Define o inconsciente dinâmico como sistema psíquico ativo (não mero reservatório)",
+          "weight": 3,
+          "keywords": [
+            "inconsciente dinâmico",
+            "sistema psíquico ativo",
+            "pressão constante"
+          ]
+        },
+        {
+          "text": "Cita as formações de compromisso (sonhos, atos falhos, sintomas)",
+          "weight": 2,
+          "keywords": [
+            "formações de compromisso",
+            "sonhos",
+            "atos falhos",
+            "sintomas neuróticos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-012",
+      "topic": "Gestalt: percepção e leis da forma",
+      "question": "Explique o experimento do fenômeno phi de Max Wertheimer e discuta sua importância para a fundação da psicologia da gestalt.",
+      "modelAnswer": "Em 1912, Wertheimer utilizou um taquistoscópio para projetar duas linhas de luz estáticas através de fendas, com um breve intervalo entre elas. Quando o intervalo era muito longo, o sujeito percebia luzes piscando sucessivamente; quando muito curto, percebia-as simultâneas; mas em um intervalo específico (cerca de 60 milissegundos), o sujeito percebia uma única linha de luz se movendo de uma fenda a outra — o fenômeno phi, ou movimento aparente. A importância teórica reside no fato de que esse movimento não existia no estímulo físico (as luzes eram estáticas): era uma experiência psicológica criada pela organização perceptual do sujeito. O estruturalismo, que buscava decompor a percepção em elementos sensoriais simples, não conseguia explicar esse fenômeno, pois não havia um elemento sensorial correspondente ao movimento percebido. Esse experimento fundou a psicologia da gestalt e comprovou seu axioma central: o todo (a percepção do movimento) é diferente e maior do que a soma das partes (as luzes estáticas isoladas).",
+      "keyPoints": [
+        {
+          "text": "Descreve o experimento (taquistoscópio, duas luzes, intervalo de tempo)",
+          "weight": 3,
+          "keywords": [
+            "taquistoscópio",
+            "duas luzes",
+            "intervalo de tempo",
+            "60 milissegundos"
+          ]
+        },
+        {
+          "text": "Explica que o movimento percebido não existia no estímulo físico",
+          "weight": 2,
+          "keywords": [
+            "movimento aparente",
+            "não existia no estímulo",
+            "luzes estáticas"
+          ]
+        },
+        {
+          "text": "Relaciona com a incapacidade do estruturalismo de explicar o fenômeno",
+          "weight": 2,
+          "keywords": [
+            "estruturalismo",
+            "elementarismo",
+            "não explicava"
+          ]
+        },
+        {
+          "text": "Conecta ao axioma central da gestalt: o todo é diferente da soma das partes",
+          "weight": 2,
+          "keywords": [
+            "o todo é diferente da soma das partes",
+            "totalidade",
+            "axioma central"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "13-18"
+      },
+      "subject": "Gestalt",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-013",
+      "topic": "Psicologia humanista: Rogers e a tendência atualizante",
+      "question": "Explique a hipótese da tendência atualizante de Carl Rogers e descreva as três condições facilitadoras que ele considerava necessárias e suficientes para a mudança terapêutica.",
+      "modelAnswer": "Carl Rogers postulou que todo organismo vivo possui uma tendência inata para o crescimento, o desenvolvimento e a manutenção de sua integridade, denominada tendência atualizante — assim como uma semente possui potencial para se tornar uma árvore madura, dadas as condições adequadas. Nessa perspectiva, a patologia mental não é vista como doença a ser curada pelo especialista, mas como um bloqueio dessa tendência natural, causado por incongruência entre o autoconceito e a experiência real vivida. Para promover a mudança terapêutica, Rogers identificou três atitudes do profissional consideradas necessárias e suficientes: a congruência (autenticidade), em que o terapeuta é genuíno e transparente na relação; a aceitação positiva incondicional, que consiste em acolher a pessoa sem julgamentos morais ou condições prévias; e a compreensão empática, a capacidade de apreender o mundo interno do cliente a partir do referencial dele, sem perder a condição de 'como se'. Quando essas condições estão presentes, a pessoa tende a se tornar menos defensiva e mais capaz de retomar seu processo natural de crescimento.",
+      "keyPoints": [
+        {
+          "text": "Define a tendência atualizante como capacidade inata de crescimento",
+          "weight": 3,
+          "keywords": [
+            "tendência atualizante",
+            "crescimento inato",
+            "potencial de crescimento"
+          ]
+        },
+        {
+          "text": "Explica congruência (autenticidade do terapeuta)",
+          "weight": 2,
+          "keywords": [
+            "congruência",
+            "autenticidade",
+            "genuíno"
+          ]
+        },
+        {
+          "text": "Explica aceitação positiva incondicional",
+          "weight": 2,
+          "keywords": [
+            "aceitação positiva incondicional",
+            "sem julgamentos"
+          ]
+        },
+        {
+          "text": "Explica compreensão empática",
+          "weight": 2,
+          "keywords": [
+            "compreensão empática",
+            "empatia",
+            "mundo interno do cliente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "21-26"
+      },
+      "subject": "Psicologia humanista",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-014",
+      "topic": "Mecanismos de defesa do Ego",
+      "question": "Explique o conceito de mecanismos de defesa na teoria psicanalítica e descreva três exemplos, com uma situação prática para cada um.",
+      "modelAnswer": "Os mecanismos de defesa são estratégias inconscientes utilizadas pelo Ego para lidar com a angústia gerada pelos conflitos entre o Id, o Superego e a realidade externa. Seu uso é normal e necessário para a adaptação humana; tornam-se patológicos apenas quando rígidos, excessivos ou distorcem a percepção da realidade. O recalque (repressão) é o mecanismo fundamental, consistindo em afastar da consciência ideias ou desejos intoleráveis, mantendo-os no inconsciente — por exemplo, uma pessoa que 'esquece' completamente um evento traumático de infância. A projeção ocorre quando o sujeito atribui a outras pessoas sentimentos ou desejos inaceitáveis que na verdade são seus, como alguém com impulsos agressivos não reconhecidos que passa a ver o mundo como hostil e ameaçador. Já a sublimação, considerada o mecanismo mais maduro, consiste em desviar a energia de impulsos sexuais ou agressivos para atividades socialmente valorizadas, como uma pessoa com intensa raiva reprimida que se dedica a esportes de alta performance ou à criação artística.",
+      "keyPoints": [
+        {
+          "text": "Define mecanismos de defesa como estratégias inconscientes do Ego contra a angústia",
+          "weight": 3,
+          "keywords": [
+            "mecanismos de defesa",
+            "estratégias inconscientes",
+            "angústia",
+            "Ego"
+          ]
+        },
+        {
+          "text": "Explica o recalque com exemplo",
+          "weight": 2,
+          "keywords": [
+            "recalque",
+            "repressão",
+            "afastar da consciência"
+          ]
+        },
+        {
+          "text": "Explica a projeção com exemplo",
+          "weight": 2,
+          "keywords": [
+            "projeção",
+            "atribuir a outros"
+          ]
+        },
+        {
+          "text": "Explica a sublimação com exemplo",
+          "weight": 2,
+          "keywords": [
+            "sublimação",
+            "atividade socialmente valorizada",
+            "arte",
+            "esporte"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    }
+  ],
+  "oral": [
+    {
+      "id": "fund-oral-001",
+      "topic": "Dualismo cartesiano",
+      "question": "O que é o dualismo interacionista de Descartes e por que ele gerou um problema para a psicologia se tornar uma ciência?",
+      "modelAnswer": "Descartes propôs que a mente (res cogitans) e o corpo (res extensa) são substâncias distintas. Isso gerou o problema de como estudar cientificamente algo imaterial como a mente, já que a ciência exige observação e medição de fenômenos materiais.",
+      "keyPoints": [
+        {
+          "text": "Cita res cogitans e res extensa",
+          "weight": 3,
+          "keywords": [
+            "res cogitans",
+            "res extensa",
+            "mente e corpo"
+          ]
+        },
+        {
+          "text": "Explica o problema de estudar cientificamente a mente imaterial",
+          "weight": 3,
+          "keywords": [
+            "mente imaterial",
+            "estudar cientificamente",
+            "medição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "4-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "O dualismo interacionista de René Descartes postula que a mente (res cogitans) e o corpo (res extensa) são substâncias distintas. Este conceito é central na filosofia e na psicologia, pois implica que a mente é imaterial e não pode ser diretamente observada ou medida, o que representa um desafio para a psicologia se tornar uma ciência exata. Descartes argumentava que a mente e o corpo interagem, mas a natureza dessa interação permanece um mistério. Este dualismo gerou um problema fundamental para a psicologia, pois como podemos estudar algo que não pode ser observado diretamente? (Descartes, 1641)."
+    },
+    {
+      "id": "fund-oral-002",
+      "topic": "Estruturalismo",
+      "question": "Qual era o objetivo do estruturalismo de Titchener e qual método ele usava para investigar a consciência?",
+      "modelAnswer": "O estruturalismo buscava descobrir a estrutura da mente, decompondo a consciência em seus elementos básicos (sensações, imagens, afetos), usando o método da introspecção experimental rigorosa e treinada.",
+      "keyPoints": [
+        {
+          "text": "Objetivo: descobrir a estrutura/elementos da consciência",
+          "weight": 3,
+          "keywords": [
+            "estrutura da mente",
+            "elementos básicos",
+            "sensações"
+          ]
+        },
+        {
+          "text": "Método: introspecção experimental treinada",
+          "weight": 3,
+          "keywords": [
+            "introspecção",
+            "método experimental"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7-10",
+        "citation": "SCHULTZ; SCHULTZ, 2019"
+      },
+      "subject": "Estruturalismo (Wundt e Titchener)",
+      "difficulty": "baixo",
+      "miniLesson": "O estruturalismo, proposto por Edward B. Titchener, buscava analisar a consciência em seus elementos básicos, como sensações, imagens e afetos. Este objetivo era alcançado através do método da introspecção experimental, que envolvia um treinamento rigoroso para a precisão na observação interna. Este método permitia a decomposição da consciência em componentes fundamentais, mas foi criticado por ser subjetivo e limitado. (Titchener, 1901; Schultz & Schultz, 2019)."
+    },
+    {
+      "id": "fund-oral-003",
+      "topic": "Funcionalismo",
+      "question": "Explique, em poucas palavras, a diferença central entre o estruturalismo e o funcionalismo.",
+      "modelAnswer": "O estruturalismo pergunta 'o que é' a consciência, decompondo-a em elementos. O funcionalismo pergunta 'para que serve' a mente, focando em como ela ajuda o organismo a se adaptar ao ambiente.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: foco no 'o que é' / estrutura da consciência",
+          "weight": 2,
+          "keywords": [
+            "o que é",
+            "estrutura"
+          ]
+        },
+        {
+          "text": "Funcionalismo: foco no 'para que serve' / adaptação",
+          "weight": 3,
+          "keywords": [
+            "para que serve",
+            "adaptação",
+            "função"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "13-15",
+        "citation": "GOODWIN, 2017"
+      },
+      "subject": "Funcionalismo e pragmatismo",
+      "difficulty": "medio",
+      "miniLesson": "A diferença central entre o estruturalismo e o funcionalismo reside na sua abordagem ao estudo da mente. O estruturalismo, como proposto por Edward B. Titchener, se concentra na decomposição da consciência em seus elementos básicos, enquanto o funcionalismo, representado por William James, se preocupa com a função e a utilidade das mentais, ou seja, como a mente ajuda o organismo a se adaptar ao ambiente. (James, 1890; Goodwin, 2017)."
+    },
+    {
+      "id": "fund-oral-004",
+      "topic": "Epistemologia da psicologia",
+      "question": "Por que se diz que a psicologia não tem um único objeto de estudo, mas múltiplos objetos construídos por diferentes escolas teóricas?",
+      "modelAnswer": "Porque cada matriz teórica (psicanálise, behaviorismo, humanismo etc.) constrói seu próprio objeto: para a psicanálise é o inconsciente, para o behaviorismo é o comportamento observável, para o humanismo é a experiência subjetiva consciente. O objeto não é um dado natural pronto, mas um construto teórico.",
+      "keyPoints": [
+        {
+          "text": "Explica que cada escola constrói um objeto diferente (dá pelo menos um exemplo)",
+          "weight": 3,
+          "keywords": [
+            "psicanálise inconsciente",
+            "behaviorismo comportamento",
+            "objeto construído"
+          ]
+        },
+        {
+          "text": "Menciona que o objeto é um construto teórico, não um dado natural",
+          "weight": 2,
+          "keywords": [
+            "construto teórico",
+            "não é um dado natural"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "21-24",
+        "citation": "FIGUEIREDO, 2009"
+      },
+      "subject": "Epistemologia e pluralidade da psicologia",
+      "difficulty": "medio",
+      "miniLesson": "A psicologia não tem um único objeto de estudo porque cada escola teórica constrói seu próprio objeto de análise. Por exemplo, a psicanálise se concentra no inconsciente, o behaviorismo no comportamento observável, e o humanismo na experiência subjetiva consciente. Estes objetos são construtos teóricos, não dados naturais prontos para serem observados. Cada escola teórica tem sua própria perspectiva sobre o que constitui o objeto de estudo da psicologia, o que reflete a pluralidade do campo. (Figueiredo, 2009)."
+    },
+    {
+      "id": "fund-oral-005",
+      "topic": "Behaviorismo radical",
+      "question": "Explique a diferença entre reforço positivo e punição positiva, dando um exemplo de cada.",
+      "modelAnswer": "Reforço positivo é a adição de um estímulo que aumenta a frequência de um comportamento, como dar um elogio quando alguém termina uma tarefa. Punição positiva é a adição de um estímulo que diminui a frequência de um comportamento, como uma multa de trânsito por excesso de velocidade.",
+      "keyPoints": [
+        {
+          "text": "Reforço positivo: adição de estímulo que aumenta o comportamento, com exemplo",
+          "weight": 3,
+          "keywords": [
+            "reforço positivo",
+            "aumenta",
+            "adição de estímulo"
+          ]
+        },
+        {
+          "text": "Punição positiva: adição de estímulo que diminui o comportamento, com exemplo",
+          "weight": 3,
+          "keywords": [
+            "punição positiva",
+            "diminui",
+            "adição de estímulo aversivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13-17",
+        "citation": "SKINNER, 2003"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O reforço positivo ocorre quando um comportamento é seguido por um estímulo que aumenta a probabilidade desse comportamento ocorrer novamente, como um elogio após a conclusão de uma tarefa. Por outro lado, a punição positiva envolve a adição de um estímulo que diminui a frequência de um comportamento indesejado, como uma multa de trânsito por excesso de velocidade. Este conceito é fundamental para entender como os comportamentos são moldados por consequências ambientais, conforme proposto pelo behaviorismo radical de B. F. Skinner. (Skinner, 1938)."
+    },
+    {
+      "id": "fund-oral-006",
+      "topic": "Condicionamento clássico",
+      "question": "Descreva os quatro elementos básicos do condicionamento clássico de Pavlov usando o exemplo do experimento com cães.",
+      "modelAnswer": "O Estímulo Incondicionado (comida) provoca naturalmente a Resposta Incondicionada (salivação). Um Estímulo Neutro (som de sino) é repetidamente associado à comida, até se tornar um Estímulo Condicionado, passando a provocar sozinho a salivação, agora chamada de Resposta Condicionada.",
+      "keyPoints": [
+        {
+          "text": "Explica Estímulo Incondicionado e Resposta Incondicionada",
+          "weight": 2,
+          "keywords": [
+            "estímulo incondicionado",
+            "resposta incondicionada",
+            "comida",
+            "salivação"
+          ]
+        },
+        {
+          "text": "Explica Estímulo Neutro virando Estímulo Condicionado",
+          "weight": 2,
+          "keywords": [
+            "estímulo neutro",
+            "estímulo condicionado",
+            "som",
+            "sino"
+          ]
+        },
+        {
+          "text": "Explica a Resposta Condicionada",
+          "weight": 2,
+          "keywords": [
+            "resposta condicionada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Na obra de Ivan Pavlov, o condicionamento clássico envolve quatro elementos básicos. O Estímulo Incondicionado (EI), como a comida, provoca naturalmente a Resposta Incondicionada (RI), que é a salivação do cão. O Estímulo Neutro (EN), como o som de um sino, é repetidamente associado ao EI, tornando-se um Estímulo Condicionado (EC). A repetição faz com que o cão salive ao som do sino sozinho, criando a Resposta Condicionada (RC). Pavlov demonstrou que o comportamento pode ser moldado através de associações condicionais, como descrito no livro \"PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO\" (p. 7-9)."
+    },
+    {
+      "id": "fund-oral-007",
+      "topic": "Movimentos sociais e psicologia crítica",
+      "question": "O que mudou na prática da psicologia brasileira a partir dos movimentos sociais das décadas de 1970 e 1980?",
+      "modelAnswer": "A psicologia deixou de se concentrar apenas em consultórios particulares e testes, passando a atuar em comunidades, sindicatos e movimentos populares, compreendendo o sofrimento como produto de determinações sociais e históricas, e não apenas individuais.",
+      "keyPoints": [
+        {
+          "text": "Menciona a saída dos consultórios para comunidades/movimentos populares",
+          "weight": 3,
+          "keywords": [
+            "comunidades",
+            "movimentos populares",
+            "saída dos consultórios"
+          ]
+        },
+        {
+          "text": "Explica a nova compreensão do sofrimento como social/histórico",
+          "weight": 3,
+          "keywords": [
+            "determinações sociais",
+            "sofrimento social",
+            "não apenas individual"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "4-8",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Movimentos sociais e psicologia crítica no Brasil",
+      "difficulty": "medio",
+      "miniLesson": "A partir dos movimentos sociais das décadas de 1970 e 1980, a psicologia brasileira passou a atuar em comunidades e movimentos populares, conforme destacado em 'MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL' (p. 4-8). O foco mudou de consultórios particulares e testes para compreender o sofrimento como resultado de determinações sociais e históricas. Esta mudança reflete a psicologia crítica, que busca entender o sofrimento em seu contexto social, como proposto por autores como Bock, Furtado e Teixeira (2018)."
+    },
+    {
+      "id": "fund-oral-008",
+      "topic": "Regulamentação profissional",
+      "question": "Qual é a diferença entre o papel de um Conselho Regional de Psicologia e o papel de um sindicato de psicólogos?",
+      "modelAnswer": "O Conselho Regional de Psicologia fiscaliza e disciplina o exercício ético e técnico da profissão, defendendo a sociedade. O sindicato defende os interesses trabalhistas da categoria, como salário e carga horária.",
+      "keyPoints": [
+        {
+          "text": "CRP: fiscaliza/disciplina o exercício profissional, defende a sociedade",
+          "weight": 3,
+          "keywords": [
+            "fiscaliza",
+            "disciplina",
+            "defesa da sociedade"
+          ]
+        },
+        {
+          "text": "Sindicato: defende interesses trabalhistas da categoria",
+          "weight": 3,
+          "keywords": [
+            "interesses trabalhistas",
+            "salário",
+            "carga horária"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "12-14",
+        "citation": "BOCK; FURTADO; TEIXEIRA, 2018"
+      },
+      "subject": "Regulamentação profissional",
+      "difficulty": "baixo",
+      "miniLesson": "O papel do Conselho Regional de Psicologia (CRP) é fiscalizar e disciplinar o exercício ético e técnico da profissão, defendendo a sociedade, enquanto o sindicato de psicólogos defende os interesses trabalhistas da categoria, como salário e carga horária, conforme explicado em 'MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL' (p. 12-14). Esta distinção é crucial para entender a atuação profissional e a representação dos psicólogos no Brasil."
+    },
+    {
+      "id": "fund-oral-009",
+      "topic": "Código de Ética Profissional",
+      "question": "Em quais situações o psicólogo pode ou deve quebrar o sigilo profissional?",
+      "modelAnswer": "Em casos de risco iminente de morte, como risco de suicídio ou homicídio, e em situações de violência contra crianças, adolescentes ou pessoas idosas, quando há obrigação legal de notificar as autoridades competentes.",
+      "keyPoints": [
+        {
+          "text": "Menciona risco iminente de morte (suicídio/homicídio)",
+          "weight": 3,
+          "keywords": [
+            "risco de suicídio",
+            "risco iminente",
+            "homicídio"
+          ]
+        },
+        {
+          "text": "Menciona violência contra crianças, adolescentes ou idosos",
+          "weight": 3,
+          "keywords": [
+            "violência contra crianças",
+            "idosos",
+            "notificação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL.pdf",
+        "page": "14-16"
+      },
+      "subject": "Código de Ética Profissional",
+      "difficulty": "medio",
+      "miniLesson": "De acordo com o Código de Ética Profissional, o psicólogo deve quebrar o sigilo profissional em situações de risco iminente de morte, como suicídio ou homicídio, e em casos de violência contra crianças, adolescentes ou idosos, conforme detalhado em 'MOVIMENTOS DO SÉCULO XX E ATUAÇÃO PROFISSIONAL' (p. 14-16). Essas situações exigem ação imediata para proteger vidas e garantir a segurança dos indivíduos."
+    },
+    {
+      "id": "fund-oral-010",
+      "topic": "Pesquisa qualitativa e quantitativa",
+      "question": "Qual é a diferença fundamental entre a pesquisa quantitativa e a pesquisa qualitativa em psicologia?",
+      "modelAnswer": "A pesquisa quantitativa busca medir, generalizar e testar hipóteses usando amostras representativas e estatística. A pesquisa qualitativa busca compreender significados e experiências subjetivas em profundidade, usando entrevistas e observação, sem buscar representatividade estatística.",
+      "keyPoints": [
+        {
+          "text": "Quantitativa: mensuração, generalização, estatística",
+          "weight": 3,
+          "keywords": [
+            "mensuração",
+            "generalização",
+            "estatística"
+          ]
+        },
+        {
+          "text": "Qualitativa: significados, experiência subjetiva, profundidade",
+          "weight": 3,
+          "keywords": [
+            "significados",
+            "experiência subjetiva",
+            "profundidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "4-9"
+      },
+      "subject": "Pesquisa quali/quanti e métodos mistos",
+      "difficulty": "baixo",
+      "miniLesson": "A pesquisa quantitativa, como descrita em 'PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA' (p. 4-9), busca medir, generalizar e testar hipóteses usando amostras representativas e estatística. Por outro lado, a pesquisa qualitativa busca compreender significados e experiências subjetivas em profundidade, usando entrevistas e observação, sem buscar representatividade estatística. Esta diferenciação é fundamental para entender as abordagens de coleta e análise de dados em diferentes tipos de estudos psicológicos."
+    },
+    {
+      "id": "fund-oral-011",
+      "topic": "Ética em pesquisa",
+      "question": "O que é o TCLE e qual é sua função em uma pesquisa envolvendo seres humanos?",
+      "modelAnswer": "O TCLE é o Termo de Consentimento Livre e Esclarecido, um documento que informa ao participante os objetivos, procedimentos, riscos e benefícios da pesquisa, garantindo que ele aceite participar de forma livre e informada, podendo retirar o consentimento a qualquer momento.",
+      "keyPoints": [
+        {
+          "text": "Define TCLE como Termo de Consentimento Livre e Esclarecido",
+          "weight": 2,
+          "keywords": [
+            "termo de consentimento livre e esclarecido",
+            "TCLE"
+          ]
+        },
+        {
+          "text": "Explica que informa objetivos, riscos e benefícios de forma clara",
+          "weight": 2,
+          "keywords": [
+            "objetivos",
+            "riscos",
+            "benefícios",
+            "linguagem clara"
+          ]
+        },
+        {
+          "text": "Menciona a liberdade de retirar o consentimento a qualquer momento",
+          "weight": 2,
+          "keywords": [
+            "retirar o consentimento",
+            "liberdade",
+            "a qualquer momento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PESQUISA EM PSICOLOGIA E ÉTICA CIENTÍFICA.pdf",
+        "page": "14-19"
+      },
+      "subject": "Ética em pesquisa",
+      "difficulty": "baixo",
+      "miniLesson": "O TCLE, ou Termo de Consentimento Livre e Esclarecido, é um documento essencial na pesquisa com seres humanos, desenvolvido por Belmont e Sobel (1979). Este documento garante que os participantes entendam completamente os objetivos, riscos e benefícios da pesquisa antes de consentir em participar. O TCLE é crucial para assegurar que o consentimento seja livre e informado, permitindo que os participantes possam retirar o consentimento a qualquer momento. Ao contrastar com a hipnose, que era anteriormente utilizada, o TCLE oferece uma abordagem mais flexível e eficaz, pois é aplicável a todos os participantes e promove uma participação mais consciente."
+    },
+    {
+      "id": "fund-oral-012",
+      "topic": "Psicanálise",
+      "question": "O que é a associação livre na técnica psicanalítica e por que ela substituiu a hipnose?",
+      "modelAnswer": "A associação livre é a instrução dada ao paciente para verbalizar tudo o que lhe vier à mente, sem censura. Freud a adotou porque a hipnose não funcionava com todos os pacientes e trazia resultados apenas temporários.",
+      "keyPoints": [
+        {
+          "text": "Define associação livre (verbalizar livremente, sem censura)",
+          "weight": 3,
+          "keywords": [
+            "associação livre",
+            "sem censura",
+            "verbalizar tudo"
+          ]
+        },
+        {
+          "text": "Explica por que substituiu a hipnose (limitações do método catártico)",
+          "weight": 3,
+          "keywords": [
+            "hipnose",
+            "limitações",
+            "resultados temporários"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "A associação livre, uma técnica psicanalítica proposta por Freud (1900), é uma instrução para que o paciente verbalize tudo o que lhe vier à mente, sem censura. Freud adotou essa técnica porque a hipnose, que era anteriormente usada, tinha limitações, como não funcionar com todos os pacientes e produzir resultados apenas temporários. A associação livre permitiu uma abordagem mais natural e profunda, permitindo que os pacientes expressassem seus pensamentos e sentimentos de forma mais autêntica."
+    },
+    {
+      "id": "fund-oral-013",
+      "topic": "Gestalt",
+      "question": "O que significa o princípio da gestalt de que 'o todo é diferente da soma das partes'? Dê um exemplo.",
+      "modelAnswer": "Significa que, quando elementos sensoriais se combinam, surge uma nova qualidade perceptual que não existia nas partes isoladas. Um exemplo é o fenômeno phi de Wertheimer, em que duas luzes estáticas piscando em sequência são percebidas como uma única luz em movimento, embora o movimento não exista fisicamente nos estímulos.",
+      "keyPoints": [
+        {
+          "text": "Explica que uma nova qualidade perceptual surge da combinação de elementos",
+          "weight": 3,
+          "keywords": [
+            "nova qualidade",
+            "combinação de elementos",
+            "totalidade"
+          ]
+        },
+        {
+          "text": "Dá um exemplo coerente (fenômeno phi ou outro válido)",
+          "weight": 3,
+          "keywords": [
+            "fenômeno phi",
+            "movimento aparente",
+            "exemplo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "13-18"
+      },
+      "subject": "Gestalt",
+      "difficulty": "medio",
+      "miniLesson": "O princípio da gestalt de que 'o todo é diferente da soma das partes' sugere que a percepção não é simplesmente a soma dos seus componentes, mas sim uma nova qualidade que emerge quando esses componentes se combinam. Este conceito foi explorado por Wertheimer (1912) no fenômeno phi, onde duas luzes estáticas piscando em sequência são percebidas como uma única luz em movimento, apesar de não haver movimento real nos estímulos. Este fenômeno ilustra como a percepção humana é mais do que a mera soma dos elementos sensoriais."
+    },
+    {
+      "id": "fund-oral-014",
+      "topic": "Psicologia humanista",
+      "question": "Segundo Maslow, o que é a autorrealização e em que posição ela se encontra na hierarquia das necessidades?",
+      "modelAnswer": "A autorrealização é o nível mais elevado da hierarquia das necessidades de Maslow, referindo-se ao desejo de concretizar o próprio potencial e ser tudo aquilo que se é capaz de ser, geralmente emergindo após a satisfação das necessidades fisiológicas, de segurança, pertencimento e estima.",
+      "keyPoints": [
+        {
+          "text": "Define autorrealização como concretização do próprio potencial",
+          "weight": 3,
+          "keywords": [
+            "concretizar o potencial",
+            "ser tudo que é capaz de ser"
+          ]
+        },
+        {
+          "text": "Situa como o nível mais elevado da hierarquia, após as demais necessidades",
+          "weight": 3,
+          "keywords": [
+            "nível mais elevado",
+            "topo da hierarquia",
+            "após as necessidades básicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "21-26"
+      },
+      "subject": "Psicologia humanista",
+      "difficulty": "baixo",
+      "miniLesson": "De acordo com Maslow (1943), a autorrealização é o nível mais elevado da hierarquia das necessidades, situado após a satisfação das necessidades fisiológicas, de segurança, pertencimento e estima. Este conceito refere-se ao desejo de concretizar o próprio potencial e ser tudo aquilo que se é capaz de ser. A autorrealização emerge quando todas as necessidades mais básicas do indivíduo são satisfatórias. Esta noção é central na psicologia humanista, pois enfatiza o potencial intrínseco do ser humano para crescimento e desenvolvimento."
+    }
+  ]
+}

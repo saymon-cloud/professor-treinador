@@ -1,0 +1,2141 @@
+{
+  "discipline": "O Estudo do Desenvolvimento Humano",
+  "objective": [
+    {
+      "id": "desenv-obj-001",
+      "topic": "Introdução ao estudo do desenvolvimento humano",
+      "question": "O estudo do desenvolvimento humano é assunto antigo e já interessou diversos filósofos dos séculos XVII e XVIII, antes mesmo do nascimento da Psicologia como ciência. Considerando o estudo do desenvolvimento humano, assinale a alternativa correta.",
+      "options": {
+        "a": "O estudo do desenvolvimento humano sempre contemplou o período do nascimento até a morte.",
+        "b": "O envelhecimento sempre foi considerado um período importante para a Psicologia e foi alvo de muitos estudos.",
+        "c": "Atualmente, somente a Psicologia se interessa pelo estudo do desenvolvimento humano. As demais ciências o desconsideram.",
+        "d": "Os estudos atuais de Psicologia consideram distintas etapas do ciclo de vida.",
+        "e": "Os estudos de Psicologia do desenvolvimento, embora já tenham focado na adolescência, estão desconsiderando-a atualmente."
+      },
+      "correct": "d",
+      "explanation": "A Psicologia do desenvolvimento estuda hoje todo o ciclo vital, desde a infância até a velhice, considerando a adolescência e a maturidade. As demais alternativas descrevem visões já superadas historicamente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "12-13"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-002",
+      "topic": "Introdução ao estudo do desenvolvimento humano",
+      "question": "Paul Baltes foi um psicólogo alemão cujo trabalho científico teve como destaque o estabelecimento da perspectiva life-span do desenvolvimento humano. Ele também era um teórico no campo da Psicologia do envelhecimento. Assinale a alternativa que aponta um dos princípios básicos de sua abordagem do desenvolvimento do ciclo da vida.",
+      "options": {
+        "a": "O desenvolvimento termina na idade adulta.",
+        "b": "O desenvolvimento envolve sempre ganhos.",
+        "c": "Não existem influências de mudanças biológicas sobre o desenvolvimento.",
+        "d": "O desenvolvimento envolve uma constante estabilidade na alocação de recursos.",
+        "e": "O desenvolvimento revela plasticidade."
+      },
+      "correct": "e",
+      "explanation": "Para Baltes, a plasticidade enfatiza que existem muitos resultados de desenvolvimento possíveis. O desenvolvimento ocorre até o final da vida e envolve sempre ganhos e perdas, além de sofrer influências biológicas, culturais e sociais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "13-14"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-003",
+      "topic": "Introdução ao estudo do desenvolvimento humano",
+      "question": "Entre o final do século XIX e as primeiras décadas do século XX, foram identificadas importantes teorias do desenvolvimento humano. Sobre essas teorias e seus idealizadores, considere (V) para as afirmativas verdadeiras e (F) para as falsas: ( ) Piaget – criou a teoria da Epistemologia Genética, focada no desenvolvimento cognitivo e natural da criança. ( ) Skinner – voltado para os estudos sobre desenvolvimento intelectual e a relação entre aprendizagem e interações sociais. ( ) Vygotsky – elaborou a teoria do condicionamento operante, associada ao reflexo condicionado de Ivan Pavlov. ( ) Freud – criou a teoria do desenvolvimento psicossexual, ligada ao conflito entre impulsos naturais e o que se espera da criança. ( ) Erikson – elaborou a teoria do desenvolvimento psicossocial, entendido como processo que começa com a história dos pais e vai até a velhice. Assinale a alternativa com a ordem correta.",
+      "options": {
+        "a": "V - V - V - V - V",
+        "b": "V - F - F - V - V",
+        "c": "F - V - F - V - V",
+        "d": "V - V - F - V - V",
+        "e": "V - F - F - F - V"
+      },
+      "correct": "b",
+      "explanation": "O trabalho de Skinner tem como conceito-chave o condicionamento operante, não o desenvolvimento intelectual ligado às interações sociais. Os estudos de Vygotsky, por sua vez, convergem para a cultura e o desenvolvimento intelectual, e não para o condicionamento operante de Pavlov. As demais afirmativas sobre Piaget, Freud e Erikson estão corretas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "26-27"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-004",
+      "topic": "Introdução ao estudo do desenvolvimento humano",
+      "question": "Existem diversos tipos de pesquisa e várias formas de colher dados para um estudo. Assinale a alternativa que apresenta a resposta correta em uma comparação entre pesquisa qualitativa e quantitativa.",
+      "options": {
+        "a": "Na pesquisa quantitativa, a amostra é maior.",
+        "b": "Na pesquisa qualitativa, a representatividade do universo é relevante.",
+        "c": "Na pesquisa quantitativa, o pesquisador pode acrescentar questões no momento da entrevista.",
+        "d": "Na pesquisa qualitativa, os resultados apontam incidências.",
+        "e": "Na pesquisa quantitativa, o entrevistado determina o ritmo da aplicação do questionário."
+      },
+      "correct": "a",
+      "explanation": "A pesquisa quantitativa utiliza uma metodologia baseada em números, métricas e cálculos matemáticos, por isso sua amostra é, naturalmente, maior. O instrumento é preparado antes da coleta e o ritmo é definido pelo pesquisador, diferente do que apontam as demais alternativas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "27-28"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-005",
+      "topic": "Concepção e período pré-natal",
+      "question": "Alguns marcos gestacionais são indicados por meio da contagem de semanas. Aponte a alternativa que contempla a última semana da fase embrionária.",
+      "options": {
+        "a": "Sétima semana.",
+        "b": "Décima quarta semana.",
+        "c": "Primeira semana.",
+        "d": "Décima segunda semana.",
+        "e": "Vigésima quarta semana."
+      },
+      "correct": "a",
+      "explanation": "A fase embrionária é contemplada do 14º dia de gestação até a sétima semana. Depois disso, o organismo passa a ser chamado de feto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "8-9"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-006",
+      "topic": "Concepção e período pré-natal",
+      "question": "Ao longo da gestação, vários marcos de desenvolvimento do bebê são representativos para seus pais e familiares, como a descoberta do sexo. Em qual momento do desenvolvimento pré-natal é possível identificar o sexo do bebê?",
+      "options": {
+        "a": "Período gestacional.",
+        "b": "Concepção.",
+        "c": "Período fetal.",
+        "d": "Fecundação.",
+        "e": "Fase embrionária."
+      },
+      "correct": "c",
+      "explanation": "No período fetal, a partir da 12ª semana de gestação, o feto já está com seus órgãos sexuais maturados o suficiente para serem identificados, geralmente por meio de exames de imagem, como a ultrassonografia.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "9-10"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-007",
+      "topic": "Parto e período perinatal",
+      "question": "A supervalorização dos saberes médicos nas últimas décadas favoreceu o aumento do número de partos hospitalares do tipo cesariana. Via de regra, em que circunstâncias especiais esse procedimento deve ser recomendado?",
+      "options": {
+        "a": "Partos de bebês prematuros em decorrência de placenta prévia.",
+        "b": "Gestantes com diagnóstico de depressão.",
+        "c": "Mulheres que relatam dores muito fortes durante o parto.",
+        "d": "Bebês com deficiências mentais e em eclampsia.",
+        "e": "Eclampsia ou placenta prévia."
+      },
+      "correct": "e",
+      "explanation": "O parto tipo cesariana é indicado quando existe algum risco de complicações ou morte para a mãe e/ou para o bebê, como nos casos de eclampsia ou placenta prévia.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "15-16"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-008",
+      "topic": "Parto e período perinatal",
+      "question": "Muitos recursos têm sido utilizados pela ciência médica para aumentar a sobrevida de bebês que nascem prematuros, sendo um dos principais o método da incubadora. Esse método auxilia, dentre outras, que necessidade?",
+      "options": {
+        "a": "Ganho de peso para bebês desnutridos.",
+        "b": "Regulação da temperatura corpórea.",
+        "c": "Nutrição e reposição de líquidos.",
+        "d": "Suporte vitamínico.",
+        "e": "Repouso após o estresse causado pelo parto."
+      },
+      "correct": "b",
+      "explanation": "A incubadora é um método que auxilia no suporte de vida, ajudando principalmente na regulação da temperatura corpórea de bebês nascidos prematuramente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "16"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-009",
+      "topic": "Desenvolvimento neuropsicomotor (0-2 anos)",
+      "question": "O desenvolvimento neuropsicomotor infantil se dá na interação com outras pessoas e o ambiente em que a criança está inserida. Nessa etapa do seu ciclo vital, qual a melhor maneira de facilitar que o bebê adquira as habilidades necessárias para o seu desenvolvimento?",
+      "options": {
+        "a": "Em sala de aula.",
+        "b": "Utilização de recursos lúdicos.",
+        "c": "Método de ensino-aprendizagem.",
+        "d": "Comandos verbais dos cuidadores.",
+        "e": "Por meio da protoconversação."
+      },
+      "correct": "b",
+      "explanation": "A utilização de brinquedos e outros objetos de maneira lúdica auxilia a criança a desenvolver e aprimorar diversas habilidades, como falar e andar.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "21-22"
+      },
+      "subject": "Desenvolvimento neuropsicomotor e vínculo (0-2 anos)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-010",
+      "topic": "Desenvolvimento neuropsicomotor (0-2 anos)",
+      "question": "A qualidade da interação entre pais e bebê se constitui em algo que favorece o desenvolvimento de diversas habilidades, em especial as emocionais. A parentalidade intuitiva corresponde a que capacidade?",
+      "options": {
+        "a": "Memória social para interações.",
+        "b": "Protoconversação natural.",
+        "c": "Capacidade inata despertada por todos os bebês humanos.",
+        "d": "Talento natural dos pais para interagir com o bebê.",
+        "e": "Interação baseada na memória social."
+      },
+      "correct": "d",
+      "explanation": "A maioria dos pais demonstra um talento natural para a interação com o bebê, como uma parentalidade intuitiva, baseada na capacidade de compreender o outro emocionalmente por meio de afetos e sentimentos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento neuropsicomotor e vínculo (0-2 anos)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-011",
+      "topic": "Neuroplasticidade",
+      "question": "A plasticidade cerebral é uma característica típica dos seres humanos. Diferentemente de outras espécies de animais, temos uma infância estendida e somos dependentes de cuidados por longos anos no início da nossa vida. Assinale a alternativa que melhor explica esse processo.",
+      "options": {
+        "a": "O cérebro do bebê humano continua a se desenvolver mesmo após o seu nascimento, absorvendo as informações do meio e permitindo a aprendizagem social e cultural.",
+        "b": "Alterações anatômicas adquiridas ao longo do desenvolvimento da espécie permitiram uma interpretação rudimentar da linguagem social.",
+        "c": "As informações socioculturais são repassadas pelos seus familiares exclusivamente pela linguagem falada e escrita.",
+        "d": "O bebê tem capacidades de se vincular aos seus cuidadores logo após o nascimento, e esse processo se constitui na principal fonte de aquisição de informações socioculturais.",
+        "e": "O bebê humano nasce com estruturas neurais maduras o suficiente para interpretar todos os sinais do ambiente."
+      },
+      "correct": "a",
+      "explanation": "Alterações anatômicas na espécie humana fizeram com que nosso cérebro continuasse a se desenvolver e aumentasse de tamanho mesmo após o nascimento, pois um cérebro totalmente desenvolvido dificultaria a passagem do bebê pelo canal vaginal. O cérebro recebe, assim, grande influência do ambiente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "27-28"
+      },
+      "subject": "Neuroplasticidade e privação afetiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-012",
+      "topic": "Neuroplasticidade",
+      "question": "Os bebês são criaturinhas fofas e chamam a nossa atenção com bochechas grandes e movimentos desordenados. Algumas características físicas do bebê, bem como a sua preferência por vozes e rostos humanos, foram selecionadas para assegurar qual necessidade básica dos seres humanos?",
+      "options": {
+        "a": "Capacidade de respirar.",
+        "b": "Promover os vínculos afetivos.",
+        "c": "Assegurar a sobrevivência do bebê.",
+        "d": "Assegurar a saúde e o bem-estar.",
+        "e": "Conseguir alimento."
+      },
+      "correct": "c",
+      "explanation": "A fim de assegurar a sobrevivência do bebê, bem como da espécie, o bebê humano tem características que chamam a atenção e promovem seus cuidados, além de preferir faces e vozes humanas para ser atraído por cuidadores que atendam às suas demandas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "28"
+      },
+      "subject": "Neuroplasticidade e privação afetiva",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-013",
+      "topic": "Infância",
+      "question": "Considerando a proposta do ciclo da vida de Papalia, Olds e Feldman (2006), avalie: I. O ciclo vital é dividido em oito períodos, abarcando desde o pré-natal até a terceira idade. II. A fase adulta apresenta três fases: jovem adulto (19-40 anos), meia-idade (41-65 anos) e terceira idade (66 anos em diante). III. A infância será dividida em duas fases: primeira infância (0 a 6 anos) e segunda infância (6 a 11 anos). Marque a única resposta correta.",
+      "options": {
+        "a": "I e II estão corretas.",
+        "b": "Apenas a I está correta.",
+        "c": "Apenas a III está correta.",
+        "d": "I e III estão corretas.",
+        "e": "II e III estão corretas."
+      },
+      "correct": "a",
+      "explanation": "As afirmativas I e II estão corretas. Contudo, a infância é dividida em três fases (primeira, segunda e terceira infância), e não em duas, o que torna a afirmativa III incorreta.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "11-12",
+        "citation": "PAPALIA; OLDS; FELDMAN (2006)"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-014",
+      "topic": "Infância",
+      "question": "Historicamente, sobre a concepção da infância, avalie: I. Existia, antes do século XVII, uma diferença na concepção da infância muito impactada conforme as classes sociais às quais as crianças pertenciam. II. Antes do século XVII, as famílias ricas já separavam as crianças dos hábitos dos adultos, sendo os estudos escolares organizados por turmas de idades semelhantes. III. A partir do século XVII, o conceito de infância foi se modificando, e a educação familiar passou a separar as crianças dos assuntos dos adultos. Marque a resposta correta.",
+      "options": {
+        "a": "I e II estão corretas.",
+        "b": "I e III estão corretas.",
+        "c": "Apenas a I está correta.",
+        "d": "Apenas a III está correta.",
+        "e": "II e III estão corretas."
+      },
+      "correct": "b",
+      "explanation": "Antes do século XVII, mesmo nas famílias ricas, havia pouca distinção entre a infância e a idade adulta, com turmas escolares compostas por indivíduos de todas as idades, o que torna a afirmativa II incorreta. As afirmativas I e III estão corretas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "12-13"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-015",
+      "topic": "Infância",
+      "question": "Existe um estágio no desenvolvimento em que as crianças transformam a realidade em função de suas fantasias e desejos, sendo comum os pais observarem os filhos inventando diálogos com seus brinquedos. Em qual dos estágios cognitivos de Piaget esse modelo, marcado pelo aparecimento da linguagem, ocorre?",
+      "options": {
+        "a": "Estágio sensório-motor.",
+        "b": "Estágio de operações concretas.",
+        "c": "Estágio de operações formais.",
+        "d": "Estágio pré-operatório.",
+        "e": "Estágio pré-sensório."
+      },
+      "correct": "d",
+      "explanation": "Segundo Piaget, o estágio pré-operatório é marcado pelo aparecimento da linguagem, que acelera a comunicação e o surgimento do pensamento. A criança transforma a realidade em função de suas fantasias, e no final desse período inicia-se a fase dos \"porquês\".",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "20-21"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-016",
+      "topic": "Infância",
+      "question": "Podemos analisar dois pensadores do desenvolvimento humano. O primeiro, ___, postulava que o pensamento aparece antes da linguagem, dependendo da coordenação dos esquemas sensório-motores. O segundo, ___, reconhecia que pensamento e linguagem são processos interdependentes desde o início da vida, afirmando que a linguagem sistematiza a experiência das crianças. Selecione a opção que completa corretamente as lacunas.",
+      "options": {
+        "a": "Fröbel – Piaget",
+        "b": "Vygotsky – Fröbel",
+        "c": "Piaget – Vygotsky",
+        "d": "Piaget – Fröbel",
+        "e": "Fröbel – Vygotsky"
+      },
+      "correct": "c",
+      "explanation": "Piaget privilegia a maturação biológica e postula que o desenvolvimento segue uma sequência fixa e universal de estágios. Vygotsky salienta o ambiente social e reconhece que pensamento e linguagem são interdependentes desde o nascimento, sendo o desenvolvimento variável conforme o contexto.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "21-22"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-017",
+      "topic": "Infância",
+      "question": "É recomendado nas cartilhas distribuídas pelo Ministério da Saúde o acompanhamento de diversas etapas no desenvolvimento, sobretudo aspectos motores na primeira infância. Essas etapas são conhecidas como:",
+      "options": {
+        "a": "marcadores somáticos.",
+        "b": "estágios piagetianos.",
+        "c": "marcos de desenvolvimento.",
+        "d": "etapas de identidade.",
+        "e": "etapas operacionais."
+      },
+      "correct": "c",
+      "explanation": "Em 1984, o Ministério da Saúde publicou manuais sobre atenção básica à criança, incluindo uma ficha com os principais marcos do desenvolvimento das crianças, posteriormente incluídos no Cartão da Criança.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "31-32"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-018",
+      "topic": "Infância",
+      "question": "Sobre o fator da hereditariedade no desenvolvimento infantil, assinale (V) ou (F): I. A hereditariedade é um fator importante para o crescimento biológico. II. O potencial hereditário de cada criança é predeterminado e sempre se desenvolverá, independentemente de meio e estímulos. III. Os aspectos genéticos podem atuar como uma bagagem potencial em todos nós, podendo ocorrer ou não. IV. A inteligência é uma capacidade que pode ser transmitida geneticamente, porém é potencial e pode desenvolver-se além ou aquém desse potencial. V. O crescimento corporal é bastante influenciado por fatores hereditários. Marque a sequência correta.",
+      "options": {
+        "a": "V - V - F – F - V",
+        "b": "V - F - F - V - V",
+        "c": "V - V - V - F - V",
+        "d": "V - V - F - F – V",
+        "e": "V – F – V – V - V"
+      },
+      "correct": "e",
+      "explanation": "O potencial hereditário de cada criança dependerá dos estímulos internos e de inúmeros fatores de estímulos externos, o que torna a afirmativa II falsa. As demais afirmativas estão corretas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "32-33",
+        "citation": "AMARAL (2007)"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-019",
+      "topic": "Adolescência",
+      "question": "O critério da adolescência como um período biopsicossocial que compreende a segunda década da vida, dos 10 aos 20 anos, foi adotado pela Organização Mundial de Saúde em 1965. Diversas outras instituições brasileiras utilizam o mesmo critério de idade em suas legislações, como: I. Ministério da Saúde do Brasil; II. Instituto Brasileiro de Geografia e Estatística (IBGE); III. Estatuto da Criança e do Adolescente (ECA). Esse mesmo critério é realmente utilizado por:",
+      "options": {
+        "a": "I e II.",
+        "b": "I, II e III.",
+        "c": "III apenas.",
+        "d": "I e III.",
+        "e": "II e III."
+      },
+      "correct": "a",
+      "explanation": "O Ministério da Saúde e o IBGE utilizam o critério da OMS (10 a 20 anos). Já o Estatuto da Criança e do Adolescente (ECA) define a adolescência de forma diferente, entre os 12 e 18 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "9-10",
+        "citation": "SCHOEN-FERREIRA et al. (2010, p. 227)"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-020",
+      "topic": "Adolescência",
+      "question": "Sobre a etimologia dos conceitos de puberdade e de adolescência, a palavra \"puberdade\" vem do latim pubertate, e quer dizer \"idade viril\". Podemos dizer que o que mais define a puberdade é a",
+      "options": {
+        "a": "alteração de humor.",
+        "b": "mudança corporal.",
+        "c": "mudança psicológica.",
+        "d": "mudança psicossocial.",
+        "e": "busca de si mesmo e a identidade."
+      },
+      "correct": "b",
+      "explanation": "A palavra \"puberdade\" também remete ao verbo pubescere, que significa \"cobrir-se de pelos na região púbica\", estando vinculada especificamente às mudanças corporais, diferente de \"adolescência\", relacionada ao processo de crescer e se desenvolver.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "10-11"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-021",
+      "topic": "Adolescência",
+      "question": "Em qual dos estágios cognitivos de Piaget e seu modelo de transformações intelectuais está contida a fase da adolescência, a partir dos 12 anos?",
+      "options": {
+        "a": "Estágio sensório-motor.",
+        "b": "Estágio pré-operatório.",
+        "c": "Estágio de operações concretas.",
+        "d": "Estágio de operações formais.",
+        "e": "Estágio pré-sensório."
+      },
+      "correct": "d",
+      "explanation": "No estágio de operações formais, normalmente a partir dos 11 ou 12 anos, ocorre a passagem do pensamento concreto para o abstrato, e desenvolve-se a capacidade de generalização própria do pensamento adulto, permitindo lidar com conceitos como justiça e liberdade.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "20-21"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-022",
+      "topic": "Adolescência",
+      "question": "No estágio das operações formais, o adolescente tem as seguintes capacidades: I. Elaborar um pensamento abstrato. II. Utilizar símbolos para representar outros símbolos. III. Incapacidade de compreender o tempo histórico. IV. Imaginar possibilidades e gerar hipóteses. São capacidades do adolescente nesse estágio as abordadas em:",
+      "options": {
+        "a": "I, II, III.",
+        "b": "I, III e IV.",
+        "c": "I, II e IV.",
+        "d": "I e III.",
+        "e": "II e IV."
+      },
+      "correct": "c",
+      "explanation": "No estágio das operações formais, o adolescente é capaz de elaborar pensamento abstrato, utilizar símbolos para representar outros símbolos e imaginar possibilidades, gerando hipóteses. Ele é, sim, capaz de compreender o tempo histórico, o que torna a afirmativa III falsa.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "21-22"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-023",
+      "topic": "Adolescência",
+      "question": "A adolescência, para o psicanalista Erik Erikson, é um período de preparação do indivíduo para um patamar de autonomia, no qual se acentua a necessidade de um tempo de reflexão, um adiamento para integrar os elementos da identidade do ego. Qual o nome dado por Erikson a esse conceito?",
+      "options": {
+        "a": "Colcha de retalhos.",
+        "b": "Síndrome da adolescência normal.",
+        "c": "Moratória psicossocial.",
+        "d": "Busca de si mesmo.",
+        "e": "Adolescência tardia."
+      },
+      "correct": "c",
+      "explanation": "A adolescência, para Erikson, é um período nomeado como \"moratória psicossocial\", durante o qual muitos jovens procuram formas de se comprometer com fidelidade a ideais e pessoas antes de assumir compromissos definitivos da vida adulta.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "30-31"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-024",
+      "topic": "Adolescência",
+      "question": "No processo chamado de diferenciação e integração por Elkind, os jovens adolescentes se tornam conscientes de muitos aspectos em que são diferentes dos outros, e depois integram suas partes distintas em si mesmos, tornando-se únicos. O que ocorre como resultado desse processo de introspecção quando uma pessoa desenvolve seu senso de identidade?",
+      "options": {
+        "a": "Ocorre a síndrome da adolescência normal.",
+        "b": "Cria-se a moratória psicossocial.",
+        "c": "Será fácil de romper a identidade na vida adulta.",
+        "d": "Ocorre a identidade colcha de retalhos.",
+        "e": "Será muito difícil de romper a identidade na vida adulta."
+      },
+      "correct": "e",
+      "explanation": "Esse processo de introspecção exige tempo e reflexão, mas, quando uma pessoa desenvolve seu senso de identidade dessa forma saudável, é quase impossível que essa identidade se rompa posteriormente na vida adulta.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "31-32",
+        "citation": "PAPALIA et al. (2009, p. 482-483)"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-025",
+      "topic": "Adolescência",
+      "question": "A síndrome da adolescência normal apresenta diversos comportamentos considerados patológicos em outros estágios do ciclo vital, mas que são considerados normais no período da adolescência. O psiquiatra criador dessa definição se chama:",
+      "options": {
+        "a": "Erikson.",
+        "b": "Elkind.",
+        "c": "Freud.",
+        "d": "Knobel.",
+        "e": "Kohlberg."
+      },
+      "correct": "d",
+      "explanation": "O psiquiatra argentino naturalizado brasileiro Maurício Knobel definiu a síndrome da adolescência normal como uma representação esquemática de um fenômeno, servindo para facilitar a compreensão desse período da vida, sem caracterizá-lo como patológico.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "38-39"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-026",
+      "topic": "Adolescência",
+      "question": "Segundo Knobel (1989), o adolescente tem que conviver com a superação de três lutos que correspondem à: (1) perda do corpo infantil, (2) perda da identidade da infância e (3) ___________________________. A resposta correta que completa a lacuna é:",
+      "options": {
+        "a": "perda do grupo social infantil.",
+        "b": "perda do grupo social escolar.",
+        "c": "perda das fantasias infantis.",
+        "d": "perda da liberdade criativa.",
+        "e": "perda da figura protetora dos pais."
+      },
+      "correct": "e",
+      "explanation": "Para Aberastury e Knobel, o adolescente precisa conviver com a superação de três lutos: a perda do corpo infantil, a perda da identidade da infância e a perda da figura protetora dos pais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "39-40",
+        "citation": "ABERASTURY; KNOBEL (1989)"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-027",
+      "topic": "Idade adulta e terceira idade",
+      "question": "A idade adulta jovem é considerada por muitas pessoas como a melhor fase da vida. Considerando o desenvolvimento físico nesse período, podemos dizer que",
+      "options": {
+        "a": "o sistema imunológico começa a se mostrar menos eficiente.",
+        "b": "as principais causas de morte nessa fase seriam o câncer e as doenças cardíacas.",
+        "c": "as mulheres apresentam mais dificuldades circulatórias devido aos problemas hormonais.",
+        "d": "há mais vitalidade, saúde e um melhor desempenho.",
+        "e": "apresenta muitos problemas sexuais e de infertilidade."
+      },
+      "correct": "d",
+      "explanation": "No início da fase adulta, o jovem adulto (entre 20 e 40 anos) está no seu auge físico, apresentando ótimo funcionamento muscular e cerebral, excelente acuidade sensorial, maior potencial cardíaco e pulmonar, mais força, energia, resistência e coordenação motora.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "11-12"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-obj-028",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Considerando o trecho de Carlos Drummond de Andrade sobre o envelhecer (\"Fazer 70 anos não é simples, a vida exige, para o conseguirmos, perdas e perdas no íntimo do ser...\"), ao pensarmos no desenvolvimento físico do idoso, podemos considerar que",
+      "options": {
+        "a": "a desaceleração generalizada em todas as reações é quase imperceptível nessa fase da vida.",
+        "b": "há baixo funcionamento neurológico, sensorial e psicomotor.",
+        "c": "artrite, hipertensão e doenças cardíacas são doenças pouco prováveis de ocorrer nessa fase.",
+        "d": "o idoso tem mais massa e tecido muscular, mais massa cerebral e também maior capacidade aeróbica devido a todas as experiências e influências ambientais.",
+        "e": "a demência é muito rara nesse período da vida adulta."
+      },
+      "correct": "b",
+      "explanation": "Na velhice, há várias perdas no plano físico. A capacidade de regeneração celular é limitada e diminui a capacidade de defesa contra infecções. O sistema endócrino também envelhece, afetando o funcionamento neurológico, sensorial e psicomotor.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "12-13",
+        "citation": "ANDRADE, Carlos Drummond. Amar se aprende amando. Rio de Janeiro: Record, 1985"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-029",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Ao considerarmos o desenvolvimento cognitivo no início da vida adulta, podemos ressaltar que o desempenho do jovem adulto tem um potencial significativo. Entretanto, estudos apontam que as habilidades cognitivas nessa fase também sofrem uma queda, porém esta vai ocorrer bem depois em capacidades como",
+      "options": {
+        "a": "linguagem, raciocínio matemático, percepção.",
+        "b": "emoção, inteligência, atenção seletiva.",
+        "c": "percepção, audição, consciência.",
+        "d": "raciocínio, vocabulário, sensação.",
+        "e": "vocabulário, problemas diários de memória e solução normal de problemas."
+      },
+      "correct": "e",
+      "explanation": "Dos 20 aos 35/40 anos, ocorrerá maior desempenho em diversas tarefas mentais, com aumento do QI e melhorias intelectuais. Contudo, os declínios em capacidades como vocabulário, memória cotidiana e solução de problemas ocorrerão de forma bem sutil e a partir dos 20 anos, sendo mais perceptíveis apenas mais tarde.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "18-19"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-030",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Teóricos do desenvolvimento humano consideram que a meia-idade é um momento primordial na vida do ser humano. Partindo desse pressuposto, no desenvolvimento cognitivo, que vai dos 40 a 65 anos, é correto afirmar que",
+      "options": {
+        "a": "há aumento do QI e pouca mudança na memória até bem depois dessa fase.",
+        "b": "o funcionamento cognitivo é extremamente desorganizado.",
+        "c": "a pessoa tem muita dificuldade de comunicação clara e objetiva.",
+        "d": "o pensamento é um confuso nessa fase.",
+        "e": "a compreensão costuma estar em declínio significativo."
+      },
+      "correct": "a",
+      "explanation": "Na meia-idade, o QI tem um aumento por volta dos 50-55 anos, ocorrendo depois uma queda gradativa. A memória sofre pouco impacto de declínio nesse período, havendo apenas uma perda superficial na velocidade da lembrança.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "19"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-031",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Os psicólogos, de modo geral, partilham algumas ideias em comum relacionadas ao desenvolvimento social do adulto que se encontra na meia-idade. Considerando essa afirmação, podemos concluir que",
+      "options": {
+        "a": "é pouco provável que as mulheres assumam o papel de provedor principal de cuidados de um dos pais idosos que se encontra fragilizado.",
+        "b": "na meia-idade, as pessoas possuem muitos amigos, e a amizade traz grandes benefícios para o crescimento pessoal.",
+        "c": "o aumento nas exigências do papel pode contribuir para maior qualidade de vida e satisfação de vida, nessa idade.",
+        "d": "existem várias evidências de que os anos da meia-idade são menos estressantes para as mulheres e mais felizes do que o início da vida adulta.",
+        "e": "grande parte das pessoas que são avós nessa fase está envolvida de forma intensa no cuidado diário dos netos."
+      },
+      "correct": "d",
+      "explanation": "Apesar das várias mudanças vivenciadas pela mulher na meia-idade, ela costuma enxergar um campo de possibilidades extraordinárias diante de si, sendo, para muitas, um período de satisfação e felicidade, com grandes mudanças positivas na forma de enxergar o mundo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "25-26"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-032",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Analise o trecho: \"O que torna mais tranquilo o enfrentamento dos declínios na velhice é a mudança que ocorre ao mesmo tempo nas exigências de muitos papéis sociais. [...] Na velhice, as obrigações sociais vão diminuindo aos poucos, e não são oferecidos novos papéis\" (BEE, 1997). O texto apresentado retrata que",
+      "options": {
+        "a": "os papéis que permanecem na velhice possuem mais deveres ou expectativas e mais destaque.",
+        "b": "uma minoria de idosos mais velhos continua a ocupar o papel de pai e mãe, e nesses anos esse papel costuma ser mais complicado e mais exigente.",
+        "c": "alguns papéis desaparecem, com a aposentadoria e a morte de pais e cônjuge, proporcionando maior liberdade para expressar sua individualidade.",
+        "d": "estudos apontam que a perda de definição traz pouco risco identificado de isolamento e solidão.",
+        "e": "é cada vez mais frequente que bisavós estejam envolvidos com a vida das crianças, e essa relação oferece muita satisfação."
+      },
+      "correct": "c",
+      "explanation": "Na velhice, desaparecem muitos papéis (profissional, de cônjuge, entre outros), o que, para alguns teóricos do desenvolvimento, proporciona maior liberdade para a expressão da individualidade e das escolhas pessoais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "26",
+        "citation": "BEE (1997)"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-033",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Erikson elaborou uma teoria que explica a vida desenvolvimental ocorrendo a partir de uma sequência de estágios, em cada um dos quais surge uma crise entendida como um momento de virada. Ao considerarmos a fase do jovem adulto, a crise que é preciso enfrentar, de acordo com essa teoria, refere-se à",
+      "options": {
+        "a": "iniciativa e culpa.",
+        "b": "intimidade e ao isolamento alternativo.",
+        "c": "produtividade e estagnação.",
+        "d": "identidade e confusão.",
+        "e": "integridade do ego e ao desespero."
+      },
+      "correct": "b",
+      "explanation": "De acordo com Erikson, o jovem adulto precisa adquirir a capacidade de intimidade, sem perder a coerência do ego. Se a pessoa não tiver um firme senso de identidade pessoal, não terá condições de se comprometer em um relacionamento íntimo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "34-35"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-obj-034",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Analise o trecho: \"A dor ou a crise, ou o estresse podem ser necessários, ainda que não suficientes para certos tipos de crescimento psicológico, exatamente como a ostra, que só forma uma pérola se houver um grão de areia em seu interior\" (BEE, 1997). O texto apresentado aborda que",
+      "options": {
+        "a": "reconhecer o que estamos fazendo e a autocompreensão são pontos vivenciais insuficientes para ampliar o espaço das nossas escolhas e enfrentamentos das crises.",
+        "b": "olhar para os conflitos, perdas e crises é ver o quanto é impossível a relação com o crescimento psicológico e o sofrimento.",
+        "c": "as pessoas que somos e a vida que vivemos são pouco determinadas, para melhor ou para pior, pelas nossas experiências com as crises.",
+        "d": "nas crises e nos conflitos e até em perdas que, muitas vezes, são necessárias, tornamo-nos pessoas plenamente desenvolvidas.",
+        "e": "os enfrentamentos impactam negativamente nosso desenvolvimento, principalmente na fase adulta."
+      },
+      "correct": "d",
+      "explanation": "O crescimento exige uma mudança temporária da segurança que já temos. Crises, perdas e conflitos acontecem e, muitas vezes, são necessários: a coragem de dar novos passos permite abandonar cada estágio e encontrar novas respostas, libertando o potencial de desenvolvimento.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "35-36",
+        "citation": "BEE (1997)"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    }
+  ],
+  "discursive": [
+    {
+      "id": "desenv-disc-001",
+      "topic": "Influências no desenvolvimento humano",
+      "question": "Explique as três principais influências no desenvolvimento humano — hereditariedade, maturação e ambiente — e como elas se relacionam entre si, segundo o conteúdo estudado.",
+      "modelAnswer": "A hereditariedade refere-se à transmissão de genes e características dos pais aos filhos, sendo o genótipo o conjunto de genes recebidos e o fenótipo o resultado da interação desses genes com o ambiente. A maturação é o processo de mudanças determinadas internamente, geneticamente programado, que leva o corpo à forma e função adultas, mas que raramente ocorre de forma pura, pois sofre influência da estimulação ambiental. O ambiente compreende o conjunto de influências e estimulações externas, como família, cultura, escola e condições socioeconômicas, que também moldam o comportamento e o desenvolvimento do indivíduo. Autores como Piaget, Vygotsky e Freud deram ênfase, cada um, a um desses fatores — respectivamente a intelectualidade, a socialização/cultura e o aspecto afetivo-emocional. Hoje predomina uma perspectiva interacionista, que reconhece que hereditariedade, maturação e ambiente atuam de forma conjunta e não isolada ao longo de toda a vida, sem que se possa apontar qual delas é mais importante.",
+      "keyPoints": [
+        {
+          "text": "Definição de hereditariedade (genótipo/fenótipo)",
+          "weight": 3,
+          "keywords": [
+            "genótipo",
+            "fenótipo",
+            "genes dos pais",
+            "herança genética"
+          ]
+        },
+        {
+          "text": "Definição de maturação (processo interno geneticamente determinado)",
+          "weight": 3,
+          "keywords": [
+            "maturação",
+            "processo inato",
+            "determinado internamente"
+          ]
+        },
+        {
+          "text": "Definição de ambiente (estímulos externos)",
+          "weight": 2,
+          "keywords": [
+            "meio ambiente",
+            "estímulos externos",
+            "influências ambientais"
+          ]
+        },
+        {
+          "text": "Perspectiva interacionista entre os três fatores",
+          "weight": 3,
+          "keywords": [
+            "interacionista",
+            "interação",
+            "atuam juntos"
+          ]
+        },
+        {
+          "text": "Exemplo de teóricos que enfatizaram cada fator (Piaget, Vygotsky, Freud)",
+          "weight": 1,
+          "keywords": [
+            "Piaget",
+            "Vygotsky",
+            "Freud"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "5-12"
+      },
+      "subject": "Fundamentos do desenvolvimento humano"
+    },
+    {
+      "id": "desenv-disc-002",
+      "topic": "Ciclo vital (Baltes)",
+      "question": "Descreva os princípios da abordagem do ciclo vital (life-span) de Paul Baltes e explique por que essa perspectiva foi importante para a Psicologia do desenvolvimento.",
+      "modelAnswer": "Paul Baltes propôs que o desenvolvimento humano é um processo contínuo, multidimensional e multidirecional que ocorre ao longo de toda a vida, e não apenas até a fase adulta. Segundo seus princípios, o desenvolvimento envolve simultaneamente ganhos e perdas, sofre influências tanto de mudanças biológicas quanto culturais, e envolve mudança na alocação de recursos ao longo da vida. Um conceito central é a plasticidade, que indica que existem muitos resultados de desenvolvimento possíveis, não havendo uma via única e obrigatória a ser seguida por todos os indivíduos. Essa perspectiva foi importante porque rompeu com a visão tradicional que considerava a velhice um período de mera involução, mostrando que também há desenvolvimento e ganhos na terceira idade. Assim, a teoria life-span deu base para o crescimento da Psicologia do envelhecimento como campo de estudo.",
+      "keyPoints": [
+        {
+          "text": "Desenvolvimento é vitalício, ocorre por toda a vida",
+          "weight": 3,
+          "keywords": [
+            "vitalício",
+            "toda a vida",
+            "life-span"
+          ]
+        },
+        {
+          "text": "Envolve ganhos e perdas simultâneos",
+          "weight": 3,
+          "keywords": [
+            "ganhos e perdas",
+            "perdas e ganhos"
+          ]
+        },
+        {
+          "text": "Conceito de plasticidade",
+          "weight": 3,
+          "keywords": [
+            "plasticidade",
+            "múltiplos resultados"
+          ]
+        },
+        {
+          "text": "Influências biológicas e culturais/históricas",
+          "weight": 2,
+          "keywords": [
+            "biológicas e culturais",
+            "contexto histórico"
+          ]
+        },
+        {
+          "text": "Importância para a Psicologia do envelhecimento",
+          "weight": 1,
+          "keywords": [
+            "psicologia do envelhecimento",
+            "terceira idade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "11",
+        "citation": "NERI (2006)"
+      },
+      "subject": "Fundamentos do desenvolvimento humano"
+    },
+    {
+      "id": "desenv-disc-003",
+      "topic": "Métodos de pesquisa em desenvolvimento humano",
+      "question": "Diferencie pesquisa quantitativa e pesquisa qualitativa, e explique também os três objetivos de pesquisa (exploratória, descritiva e explicativa), dando um exemplo de cada tipo mencionado no material.",
+      "modelAnswer": "A pesquisa quantitativa considera que os fenômenos podem ser traduzidos em números, utilizando técnicas estatísticas para obter um panorama geral, como no exemplo de um questionário aplicado a mil alunos sobre conhecimento de grupos alimentares. Já a pesquisa qualitativa entende que existe uma relação entre o mundo objetivo e a subjetividade do sujeito, priorizando a interpretação dos fenômenos e a atribuição de significados, como entrevistas para entender por que os alunos desconhecem os grupos de alimentos. Quanto aos objetivos, a pesquisa exploratória busca padrões e hipóteses preliminares, como um estudo bibliográfico sobre a linguagem de crianças com síndrome de Down. A pesquisa descritiva pretende descrever fatos e características de uma população, como a análise de prontuários de bebês para verificar seu tamanho ao nascer. Já a pesquisa explicativa busca identificar os fatores que determinam um fenômeno, estando calcada em métodos experimentais, como as pesquisas de Watson sobre condicionamento clássico em bebês.",
+      "keyPoints": [
+        {
+          "text": "Pesquisa quantitativa: dados numéricos/estatísticos",
+          "weight": 3,
+          "keywords": [
+            "quantitativa",
+            "números",
+            "estatística"
+          ]
+        },
+        {
+          "text": "Pesquisa qualitativa: subjetividade e significados",
+          "weight": 3,
+          "keywords": [
+            "qualitativa",
+            "subjetividade",
+            "significados"
+          ]
+        },
+        {
+          "text": "Pesquisa exploratória: familiarização/hipóteses preliminares",
+          "weight": 2,
+          "keywords": [
+            "exploratória",
+            "hipóteses",
+            "estudo preliminar"
+          ]
+        },
+        {
+          "text": "Pesquisa descritiva: descrever características/fenômenos",
+          "weight": 2,
+          "keywords": [
+            "descritiva",
+            "descrever",
+            "características"
+          ]
+        },
+        {
+          "text": "Pesquisa explicativa: identificar fatores/causas, método experimental",
+          "weight": 2,
+          "keywords": [
+            "explicativa",
+            "fatores determinantes",
+            "experimental"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "19-21"
+      },
+      "subject": "Fundamentos do desenvolvimento humano"
+    },
+    {
+      "id": "desenv-disc-004",
+      "topic": "Concepção e fase embrionária",
+      "question": "Explique o processo de concepção e as principais transformações que ocorrem durante a fase embrionária, incluindo os riscos associados a essa etapa.",
+      "modelAnswer": "A concepção ocorre a partir da união de um espermatozoide com um óvulo durante uma relação sexual, sendo necessário que a mulher esteja no período fértil e que não haja uso de métodos contraceptivos. Após a fecundação, o novo organismo se divide e se implanta na parede do útero, iniciando a fase embrionária, que vai do 14º dia até a sétima semana de gestação. Nesse período, o embrião está envolto no líquido amniótico e recebe da mãe, pela corrente sanguínea, nutrientes como proteínas, açúcares e vitaminas, mas também pode absorver substâncias nocivas, como álcool e drogas. É justamente na fase embrionária que os sistemas nervoso, respiratório e alimentar se desenvolvem mais rapidamente, tornando esse período particularmente sensível a má formações e deficiências causadas pela ingestão de substâncias prejudiciais ou medicamentos sem supervisão médica. Ao final dessa fase, o embrião já apresenta cabeça, braços, pernas, olhos e um coração com batimentos, embora ainda tenha apenas alguns centímetros de tamanho.",
+      "keyPoints": [
+        {
+          "text": "Concepção como união do espermatozoide e óvulo",
+          "weight": 2,
+          "keywords": [
+            "concepção",
+            "fecundação",
+            "espermatozoide e óvulo"
+          ]
+        },
+        {
+          "text": "Duração da fase embrionária (14 dias até 7ª semana)",
+          "weight": 2,
+          "keywords": [
+            "14 dias",
+            "sétima semana",
+            "fase embrionária"
+          ]
+        },
+        {
+          "text": "Papel do líquido amniótico e nutrição pela mãe",
+          "weight": 2,
+          "keywords": [
+            "líquido amniótico",
+            "nutrientes",
+            "corrente sanguínea"
+          ]
+        },
+        {
+          "text": "Risco de substâncias nocivas (álcool, drogas, medicamentos)",
+          "weight": 3,
+          "keywords": [
+            "substâncias nocivas",
+            "álcool e drogas",
+            "má formação"
+          ]
+        },
+        {
+          "text": "Desenvolvimento rápido dos sistemas nervoso, respiratório e alimentar",
+          "weight": 2,
+          "keywords": [
+            "sistema nervoso",
+            "sistema respiratório",
+            "desenvolvimento rápido"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "3-4"
+      },
+      "subject": "Concepção e período pré-natal"
+    },
+    {
+      "id": "desenv-disc-005",
+      "topic": "Parto e cuidados perinatais",
+      "question": "Compare o parto normal, o parto cesariana e o parto humanizado, indicando em que situações a cesariana costuma ser recomendada.",
+      "modelAnswer": "No parto normal, o bebê passa pelo canal vaginal da mulher, ocorrendo em fases que incluem o início das contrações, a saída do líquido amniótico, a dilatação do colo do útero, a expulsão do feto e a expulsão da placenta. O parto cesariana é um procedimento cirúrgico em que o médico faz um corte no baixo ventre para retirar o bebê, podendo ser agendado ou indicado emergencialmente quando há risco para a mãe ou para o bebê, como em casos de eclampsia ou placenta prévia. O parto humanizado, por sua vez, não é definido pela via de nascimento, podendo ser normal ou cesariana, em casa ou em hospital, mas caracteriza-se por uma equipe sensível às demandas da mulher, sem uso desnecessário de medicações ou procedimentos que causem dor, respeitando a participação de acompanhantes e, muitas vezes, contando com uma doula. Assim, a escolha do tipo de parto deve considerar tanto questões médicas objetivas quanto o bem-estar emocional da mulher.",
+      "keyPoints": [
+        {
+          "text": "Parto normal: passagem pelo canal vaginal e suas fases",
+          "weight": 2,
+          "keywords": [
+            "parto normal",
+            "canal vaginal",
+            "contrações"
+          ]
+        },
+        {
+          "text": "Parto cesariana: procedimento cirúrgico",
+          "weight": 2,
+          "keywords": [
+            "cesariana",
+            "procedimento cirúrgico",
+            "corte no abdômen"
+          ]
+        },
+        {
+          "text": "Indicações de risco para cesariana (eclampsia, placenta prévia)",
+          "weight": 3,
+          "keywords": [
+            "eclampsia",
+            "placenta prévia",
+            "risco para mãe ou bebê"
+          ]
+        },
+        {
+          "text": "Parto humanizado: respeito e ausência de intervenções desnecessárias",
+          "weight": 3,
+          "keywords": [
+            "parto humanizado",
+            "doula",
+            "sem dor desnecessária"
+          ]
+        },
+        {
+          "text": "Pode ser humanizado independentemente da via (normal ou cesariana)",
+          "weight": 1,
+          "keywords": [
+            "independente da via",
+            "normal ou cesariana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "11-13"
+      },
+      "subject": "Parto e período perinatal"
+    },
+    {
+      "id": "desenv-disc-006",
+      "topic": "Desenvolvimento neuropsicomotor e vínculo (0-2 anos)",
+      "question": "Explique como se desenvolvem, nos dois primeiros anos de vida, as habilidades motoras, a linguagem e os vínculos afetivos do bebê.",
+      "modelAnswer": "Nos primeiros dois anos, o desenvolvimento neuropsicomotor ocorre de forma progressiva, permitindo tarefas cada vez mais complexas, sempre resultante da interação entre características biológicas e influências do ambiente. Na área motora, o bebê evolui da capacidade de se sustentar (sentar), passando pela capacidade de se deslocar (ficar em pé, engatinhar), até a capacidade de caminhar, incentivada pelos cuidadores. A linguagem começa com o balbucio, evolui para palavras com sílabas repetidas como \"mama\" e \"papa\", e depois para a união de palavras em frases curtas, sendo o ambiente cultural determinante para qual idioma a criança aprenderá. No plano afetivo, a comunicação entre mãe e bebê evolui do toque para os olhares e, por volta do segundo/terceiro ano, para a fala, sendo que os bebês já nascem socialmente responsivos, preferindo vozes e rostos humanos. A construção desses vínculos depende da parentalidade intuitiva dos cuidadores, que interpretam os sinais do bebê, como o choro, e respondem sensivelmente a eles.",
+      "keyPoints": [
+        {
+          "text": "Progressão motora: sustentar-se, deslocar-se, caminhar",
+          "weight": 3,
+          "keywords": [
+            "sentar",
+            "engatinhar",
+            "caminhar"
+          ]
+        },
+        {
+          "text": "Desenvolvimento da linguagem: balbucio até frases curtas",
+          "weight": 3,
+          "keywords": [
+            "balbuciar",
+            "primeiras palavras",
+            "frases curtas"
+          ]
+        },
+        {
+          "text": "Influência do ambiente/cultura na aquisição do idioma",
+          "weight": 1,
+          "keywords": [
+            "banho de cultura",
+            "idioma",
+            "ambiente cultural"
+          ]
+        },
+        {
+          "text": "Evolução da comunicação afetiva: toque, olhar, fala",
+          "weight": 2,
+          "keywords": [
+            "toque",
+            "olhares",
+            "comunicação afetiva"
+          ]
+        },
+        {
+          "text": "Parentalidade intuitiva e responsividade aos sinais do bebê",
+          "weight": 2,
+          "keywords": [
+            "parentalidade intuitiva",
+            "responsividade",
+            "interpretar sinais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "17-20"
+      },
+      "subject": "Desenvolvimento neuropsicomotor e vínculo (0-2 anos)"
+    },
+    {
+      "id": "desenv-disc-007",
+      "topic": "Neuroplasticidade e privação afetiva",
+      "question": "Explique o que é neuroplasticidade e como ambientes de privação afetiva podem prejudicar o desenvolvimento cerebral na primeira infância.",
+      "modelAnswer": "A neuroplasticidade é a capacidade do cérebro humano de continuar se desenvolvendo mesmo após o nascimento, por meio da formação de sinapses, as conexões entre neurônios responsáveis por interpretar, modificar e processar informações. Essa característica é vantajosa para a espécie humana, que nasce com um cérebro imaturo — resultado de adaptações anatômicas relacionadas à locomoção bípede — e depende fortemente das experiências e do ambiente para se desenvolver plenamente. O córtex orbitofrontal, ligado às emoções, desenvolve-se principalmente após o nascimento e depende diretamente das relações estabelecidas com os cuidadores para amadurecer adequadamente. Estudos mostram que ambientes enriquecedores aumentam o número de sinapses, enquanto a privação de relações interpessoais, especialmente nos três primeiros anos de vida, pode causar deficiências de crescimento cerebral, problemas cognitivos, atrasos na fala e anormalidades sociais e comportamentais. Por isso, o vínculo afetivo de qualidade com os pais ou cuidadores é essencial para moldar de forma saudável a estrutura e o funcionamento do cérebro em desenvolvimento.",
+      "keyPoints": [
+        {
+          "text": "Definição de neuroplasticidade/sinapses",
+          "weight": 3,
+          "keywords": [
+            "neuroplasticidade",
+            "sinapses",
+            "conexões neuronais"
+          ]
+        },
+        {
+          "text": "Nascimento com cérebro imaturo (adaptação evolutiva)",
+          "weight": 2,
+          "keywords": [
+            "cérebro imaturo",
+            "nascimento prematuro do cérebro",
+            "locomoção bípede"
+          ]
+        },
+        {
+          "text": "Papel do córtex orbitofrontal e das emoções",
+          "weight": 2,
+          "keywords": [
+            "córtex orbitofrontal",
+            "emoções"
+          ]
+        },
+        {
+          "text": "Efeitos negativos da privação afetiva/institucionalização",
+          "weight": 3,
+          "keywords": [
+            "privação afetiva",
+            "instituições de acolhimento",
+            "atraso no desenvolvimento"
+          ]
+        },
+        {
+          "text": "Importância do vínculo com cuidadores nos três primeiros anos",
+          "weight": 2,
+          "keywords": [
+            "três primeiros anos",
+            "vínculo com cuidadores",
+            "apego"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "23-26"
+      },
+      "subject": "Neuroplasticidade e privação afetiva"
+    },
+    {
+      "id": "desenv-disc-008",
+      "topic": "Concepção histórica da infância",
+      "question": "Descreva como o conceito de infância mudou ao longo da história e explique a divisão da infância em primeira, segunda e terceira infância segundo Papalia, Olds e Feldman.",
+      "modelAnswer": "Até o século XVII, predominava a ideia de que a criança era um \"adulto em miniatura\", sem que houvesse grande diferenciação entre os sentimentos, o raciocínio e as atividades de crianças e adultos, o que se refletia inclusive nas pinturas da época. A partir do século XVII, a educação familiar passou gradualmente a separar as crianças dos assuntos dos adultos, surgindo pensadores que defendiam que a mente infantil era diferente da mente adulta, embora essa mudança tenha ocorrido inicialmente apenas entre famílias aristocratas e burguesas, mantendo-se a visão antiga por mais tempo entre as classes populares. Segundo Papalia, Olds e Feldman, a infância atualmente é dividida em três fases: a primeira infância, do nascimento aos 3 anos, marcada pelo desenvolvimento acelerado de estruturas e circuitos cerebrais; a segunda infância, dos 3 aos 6 anos, marcada pelo \"faz de conta\" e pelo egocentrismo; e a terceira infância, dos 6 aos 11 anos, quando o pensamento se torna mais objetivo e a criança passa a dominar conceitos de distância, tempo, classes e número. Essa divisão em três fases, em vez de apenas duas, reflete a compreensão mais recente sobre a intensidade do desenvolvimento nos primeiros anos de vida.",
+      "keyPoints": [
+        {
+          "text": "Infância vista como \"adulto em miniatura\" antes do século XVII",
+          "weight": 3,
+          "keywords": [
+            "adulto em miniatura",
+            "antes do século XVII"
+          ]
+        },
+        {
+          "text": "Mudança a partir do XVII: separação de crianças e adultos",
+          "weight": 2,
+          "keywords": [
+            "século XVII",
+            "separação dos assuntos dos adultos"
+          ]
+        },
+        {
+          "text": "Diferença conforme classe social",
+          "weight": 1,
+          "keywords": [
+            "classes sociais",
+            "aristocratas e burgueses"
+          ]
+        },
+        {
+          "text": "Primeira infância (0-3 anos)",
+          "weight": 2,
+          "keywords": [
+            "primeira infância",
+            "0 a 3 anos"
+          ]
+        },
+        {
+          "text": "Segunda infância (3-6 anos) e terceira infância (6-11 anos)",
+          "weight": 3,
+          "keywords": [
+            "segunda infância",
+            "terceira infância",
+            "3 a 6",
+            "6 a 11"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "3-6",
+        "citation": "PAPALIA; OLDS; FELDMAN (2006)"
+      },
+      "subject": "Concepção e período pré-natal"
+    },
+    {
+      "id": "desenv-disc-009",
+      "topic": "Teóricos do desenvolvimento infantil",
+      "question": "Compare as visões de Fröbel, Piaget e Vygotsky sobre o desenvolvimento infantil, destacando o que cada um enfatiza como motor desse desenvolvimento.",
+      "modelAnswer": "Fröbel, criador da ideia de \"jardim de infância\", representa o modelo organicista-religioso, segundo o qual a criança é um \"ser vivo\" cuja herança genética e maturação comandam o desenvolvimento, sendo naturalmente boa por ser considerada uma obra divina. Piaget, criador da Epistemologia Genética, defende que o desenvolvimento cognitivo ocorre por meio de estágios universais (sensório-motor, pré-operatório, operações concretas e operações formais), privilegiando a maturação biológica como fator preponderante sobre o ambiente. Já Vygotsky propõe o modelo histórico-cultural, no qual a criança se constitui nas relações sociais desde o nascimento, sendo o aprendizado o que impulsiona o desenvolvimento, e não o contrário, diferentemente do que defendia Piaget. Enquanto Piaget acredita que o desenvolvimento segue uma sequência fixa e universal de estágios, Vygotsky enfatiza que, variando-se o ambiente social e cultural, o desenvolvimento também varia, não havendo uma visão única e universal de desenvolvimento humano.",
+      "keyPoints": [
+        {
+          "text": "Fröbel: modelo organicista, criança como ser vivo/obra divina",
+          "weight": 2,
+          "keywords": [
+            "Fröbel",
+            "jardim de infância",
+            "organicista"
+          ]
+        },
+        {
+          "text": "Piaget: Epistemologia Genética e estágios universais",
+          "weight": 3,
+          "keywords": [
+            "Piaget",
+            "epistemologia genética",
+            "estágios"
+          ]
+        },
+        {
+          "text": "Piaget privilegia a maturação biológica",
+          "weight": 2,
+          "keywords": [
+            "maturação biológica",
+            "fatores internos"
+          ]
+        },
+        {
+          "text": "Vygotsky: modelo histórico-cultural, relações sociais",
+          "weight": 3,
+          "keywords": [
+            "Vygotsky",
+            "histórico-cultural",
+            "relações sociais"
+          ]
+        },
+        {
+          "text": "Vygotsky: aprendizado impulsiona o desenvolvimento",
+          "weight": 2,
+          "keywords": [
+            "aprendizado",
+            "desenvolvimento variável",
+            "ambiente social"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "14-15"
+      },
+      "subject": "Infância"
+    },
+    {
+      "id": "desenv-disc-010",
+      "topic": "Puberdade e mudanças físicas na adolescência",
+      "question": "Diferencie os conceitos de puberdade e adolescência e descreva as principais mudanças físicas que ocorrem na puberdade em meninos e meninas.",
+      "modelAnswer": "Puberdade e adolescência não têm uma relação de causa e efeito, embora costumem ocorrer ao mesmo tempo: a puberdade refere-se especificamente às mudanças corporais repentinas, enquanto a adolescência é um período mais amplo relacionado à passagem psicossocial da infância para a vida adulta, podendo se manifestar mesmo que a puberdade seja tardia ou ausente. Durante a puberdade, ocorre um crescimento acelerado da estatura e o surgimento dos caracteres sexuais secundários: nos meninos, aumento da largura dos ombros, mudança no timbre de voz, pelos no rosto, axilas e região pubiana, crescimento do pênis e testículos e a primeira ejaculação; nas meninas, aumento dos quadris, desenvolvimento das mamas, pelos pubianos e a primeira menstruação (menarca). Esses processos são regulados por hormônios: nas moças, o aumento de estrogênio, e nos rapazes, o aumento de testosterona. A entrada na puberdade costuma ocorrer alguns anos mais cedo nas meninas do que nos meninos, e estudos apontam uma tendência secular de início cada vez mais precoce, atribuída à melhora nas condições de vida e nutrição.",
+      "keyPoints": [
+        {
+          "text": "Puberdade e adolescência não têm relação de causa-efeito",
+          "weight": 2,
+          "keywords": [
+            "não é causa e efeito",
+            "podem ocorrer juntas ou não"
+          ]
+        },
+        {
+          "text": "Puberdade: mudanças corporais/caracteres sexuais secundários",
+          "weight": 3,
+          "keywords": [
+            "caracteres sexuais secundários",
+            "mudanças corporais"
+          ]
+        },
+        {
+          "text": "Mudanças nos meninos (voz, pelos, pênis/testículos, ejaculação)",
+          "weight": 2,
+          "keywords": [
+            "ejaculação",
+            "testículos",
+            "timbre de voz"
+          ]
+        },
+        {
+          "text": "Mudanças nas meninas (mamas, quadris, menarca)",
+          "weight": 2,
+          "keywords": [
+            "menarca",
+            "mamas",
+            "quadris"
+          ]
+        },
+        {
+          "text": "Papel dos hormônios (estrogênio e testosterona)",
+          "weight": 2,
+          "keywords": [
+            "estrogênio",
+            "testosterona",
+            "hormônios"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "3-6"
+      },
+      "subject": "Adolescência"
+    },
+    {
+      "id": "desenv-disc-011",
+      "topic": "Desenvolvimento cognitivo na adolescência",
+      "question": "Explique o que caracteriza o pensamento hipotético-dedutivo no estágio das operações formais e como Elkind relaciona esse desenvolvimento cognitivo a atitudes imaturas típicas da adolescência.",
+      "modelAnswer": "No estágio das operações formais, alcançado por volta dos 11-12 anos, o adolescente desenvolve a capacidade de elaborar pensamento abstrato e utilizar o raciocínio hipotético-dedutivo, que consiste em formular hipóteses e testá-las sistematicamente, como no clássico problema do pêndulo de Piaget, em que o jovem consegue isolar variáveis para descobrir qual fator determina a oscilação. Essa nova capacidade cognitiva, porém, segundo David Elkind, também está na base de comportamentos e atitudes tipicamente imaturas da adolescência. Entre elas estão a tendência a discutir, testando as novas habilidades de raciocínio; a indecisão diante de escolhas; a facilidade em encontrar defeitos nas figuras de autoridade antes idealizadas; a autoconsciência excessiva, caracterizada pela sensação de um \"público imaginário\" observando o próprio comportamento; e a suposição de invulnerabilidade, crença de que as regras que regem o mundo não se aplicam a si mesmo, o que pode favorecer comportamentos de risco. Assim, o mesmo avanço cognitivo que permite raciocínio abstrato sofisticado também produz, temporariamente, essas manifestações egocêntricas próprias da fase.",
+      "keyPoints": [
+        {
+          "text": "Pensamento hipotético-dedutivo e estágio operações formais",
+          "weight": 3,
+          "keywords": [
+            "pensamento hipotético-dedutivo",
+            "operações formais"
+          ]
+        },
+        {
+          "text": "Exemplo do problema do pêndulo de Piaget",
+          "weight": 1,
+          "keywords": [
+            "pêndulo",
+            "testar hipóteses"
+          ]
+        },
+        {
+          "text": "Autoconsciência e público imaginário (Elkind)",
+          "weight": 2,
+          "keywords": [
+            "público imaginário",
+            "autoconsciência"
+          ]
+        },
+        {
+          "text": "Suposição de invulnerabilidade e comportamentos de risco",
+          "weight": 3,
+          "keywords": [
+            "invulnerabilidade",
+            "comportamentos de risco"
+          ]
+        },
+        {
+          "text": "Tendência a discutir e questionar figuras de autoridade",
+          "weight": 1,
+          "keywords": [
+            "discutir",
+            "figuras de autoridade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "13-17"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-012",
+      "topic": "Síndrome da adolescência normal",
+      "question": "Descreva o que é a síndrome da adolescência normal proposta por Knobel e cite pelo menos quatro características que a compõem.",
+      "modelAnswer": "A síndrome da adolescência normal, proposta pelo psiquiatra Maurício Knobel, é uma representação esquemática de um conjunto de comportamentos que, em outras fases da vida, poderiam ser considerados patológicos, mas que são esperados e normais durante a adolescência, entre os 12 e 18 anos. Entre suas principais características estão a busca de si mesmo e da identidade, marcada por ansiedade diante das mudanças corporais e da necessidade de reconstruir a própria identidade; a tendência grupal, em que o adolescente busca segurança e uniformidade se identificando fortemente com seu grupo de amigos; as constantes flutuações do humor, ligadas às mudanças hormonais e à elaboração das perdas típicas da fase; e a separação progressiva dos pais, um dos lutos fundamentais que o adolescente precisa elaborar internamente. Outras características incluem a necessidade de intelectualizar e fantasiar, as crises religiosas, o deslocamento temporal, a evolução sexual do autoerotismo à heterossexualidade, a atitude social reivindicatória e as contradições sucessivas na conduta. Para Knobel, essas manifestações fazem parte de uma \"normal anormalidade\" que ajuda a compreender essa fase sem patologizá-la.",
+      "keyPoints": [
+        {
+          "text": "Definição de síndrome da adolescência normal (Knobel)",
+          "weight": 3,
+          "keywords": [
+            "síndrome da adolescência normal",
+            "normal anormalidade"
+          ]
+        },
+        {
+          "text": "Busca de si mesmo e da identidade",
+          "weight": 2,
+          "keywords": [
+            "busca da identidade",
+            "busca de si mesmo"
+          ]
+        },
+        {
+          "text": "Tendência grupal",
+          "weight": 2,
+          "keywords": [
+            "tendência grupal",
+            "identificação com o grupo"
+          ]
+        },
+        {
+          "text": "Flutuações de humor",
+          "weight": 2,
+          "keywords": [
+            "flutuações do humor",
+            "instabilidade emocional"
+          ]
+        },
+        {
+          "text": "Separação progressiva dos pais",
+          "weight": 2,
+          "keywords": [
+            "separação dos pais",
+            "luto da figura protetora"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "32-36",
+        "citation": "ABERASTURY; KNOBEL (1989)"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-013",
+      "topic": "Mudanças físicas e cognitivas na vida adulta",
+      "question": "Compare as mudanças físicas e cognitivas que ocorrem no jovem adulto, na meia-idade e na terceira idade, de acordo com o conteúdo estudado.",
+      "modelAnswer": "O jovem adulto (20 a 40 anos) está em seu auge físico, com maior massa muscular, densidade óssea, capacidade respiratória e sistema imunológico mais forte, além de apresentar pensamento reflexivo e pós-formal em desenvolvimento. Na meia-idade (40 a 60 anos), o declínio físico é esperado, mas ocorre de forma lenta e insignificante, incluindo redução da acuidade visual e auditiva e, nas mulheres, a menopausa entre 45 e 55 anos, com maior risco de osteoporose e doenças cardíacas; cognitivamente, o QI ainda pode aumentar até os 50-55 anos, com perda pequena de memória. Já na terceira idade, ocorrem alterações mais visíveis nos sistemas locomotor, cardiovascular, respiratório, sensorial e endócrino, como perda de massa óssea e muscular, redução da audição e visão, e maior risco de hipertensão e doenças crônicas; no plano cognitivo, a memória de trabalho e episódica tornam-se menos eficientes, embora as memórias sensorial, semântica e de procedimento se mantenham preservadas. Em todas as fases, contudo, o exercício físico, a alimentação e o estilo de vida têm papel importante na velocidade e intensidade dessas mudanças.",
+      "keyPoints": [
+        {
+          "text": "Jovem adulto: auge físico e cognitivo",
+          "weight": 2,
+          "keywords": [
+            "auge físico",
+            "jovem adulto"
+          ]
+        },
+        {
+          "text": "Meia-idade: declínio lento, menopausa",
+          "weight": 3,
+          "keywords": [
+            "meia-idade",
+            "menopausa",
+            "declínio lento"
+          ]
+        },
+        {
+          "text": "Terceira idade: alterações nos sistemas corporais",
+          "weight": 3,
+          "keywords": [
+            "sistema locomotor",
+            "sistema cardiovascular",
+            "terceira idade"
+          ]
+        },
+        {
+          "text": "Memória no idoso: trabalho/episódica declinam, semântica/procedimento preservadas",
+          "weight": 2,
+          "keywords": [
+            "memória de trabalho",
+            "memória episódica",
+            "memória semântica"
+          ]
+        },
+        {
+          "text": "Papel do estilo de vida (exercício, alimentação) em todas as fases",
+          "weight": 1,
+          "keywords": [
+            "estilo de vida",
+            "exercício físico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4-19"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-014",
+      "topic": "Teoria psicossocial de Erikson na vida adulta",
+      "question": "Explique, segundo a teoria psicossocial de Erik Erikson, as crises que caracterizam o jovem adulto, a meia-idade e a terceira idade.",
+      "modelAnswer": "Segundo Erik Erikson, o jovem adulto enfrenta a crise entre intimidade e isolamento, precisando construir relacionamentos íntimos duradouros, marcados por cuidado, compartilhamento e confiança; caso não consiga, tende a ficar isolado e absorvido em si mesmo, sendo o amor a virtude resultante da resolução bem-sucedida dessa etapa. Na meia-idade, o conflito central é produtividade (generatividade) versus estagnação, relacionado à capacidade de continuar sendo produtivo e criativo de maneiras que orientem e beneficiem as gerações futuras, seja por meio da parentalidade, do trabalho ou de contribuições sociais; quando isso não ocorre, a pessoa pode sentir a vida como uma rotina monótona e sem sentido. Já na terceira idade, a última crise é integridade do ego versus desespero: diante da proximidade do fim da vida, o idoso precisa fazer as pazes consigo mesmo e aceitar sua trajetória como valiosa, sob risco de vivenciar depressão e desespero caso não consiga; a virtude alcançada nesse estágio é a sabedoria. Assim, cada fase da vida adulta, para Erikson, envolve o enfrentamento produtivo de uma crise específica, essencial para a saúde mental e o desenvolvimento contínuo do ego.",
+      "keyPoints": [
+        {
+          "text": "Jovem adulto: intimidade x isolamento",
+          "weight": 3,
+          "keywords": [
+            "intimidade",
+            "isolamento",
+            "jovem adulto"
+          ]
+        },
+        {
+          "text": "Meia-idade: generatividade/produtividade x estagnação",
+          "weight": 3,
+          "keywords": [
+            "generatividade",
+            "produtividade",
+            "estagnação"
+          ]
+        },
+        {
+          "text": "Terceira idade: integridade do ego x desespero",
+          "weight": 3,
+          "keywords": [
+            "integridade do ego",
+            "desespero"
+          ]
+        },
+        {
+          "text": "Virtudes resultantes (amor, sabedoria)",
+          "weight": 1,
+          "keywords": [
+            "amor",
+            "sabedoria",
+            "virtude"
+          ]
+        },
+        {
+          "text": "Ideia geral de crises/estágios ao longo da vida",
+          "weight": 1,
+          "keywords": [
+            "oito estágios",
+            "crises normativas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "29-34"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "dificil"
+    }
+  ],
+  "oral": [
+    {
+      "id": "desenv-oral-001",
+      "topic": "Influências no desenvolvimento humano",
+      "question": "O que é hereditariedade e qual a diferença entre genótipo e fenótipo?",
+      "modelAnswer": "Hereditariedade é a transmissão de genes e características dos pais para os filhos. Genótipo é o conjunto de genes recebido do pai e da mãe, enquanto fenótipo é o resultado da combinação desse material genético com as influências do ambiente, ou seja, as características físicas observáveis do indivíduo.",
+      "keyPoints": [
+        {
+          "text": "Hereditariedade como transmissão genética",
+          "weight": 3,
+          "keywords": [
+            "hereditariedade",
+            "transmissão de genes"
+          ]
+        },
+        {
+          "text": "Genótipo = genes recebidos dos pais",
+          "weight": 2,
+          "keywords": [
+            "genótipo",
+            "genes dos pais"
+          ]
+        },
+        {
+          "text": "Fenótipo = genótipo + ambiente",
+          "weight": 2,
+          "keywords": [
+            "fenótipo",
+            "características observáveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "5"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-002",
+      "topic": "Mudança quantitativa e qualitativa",
+      "question": "Qual a diferença entre mudança quantitativa e mudança qualitativa no desenvolvimento humano? Dê um exemplo de cada.",
+      "modelAnswer": "Mudança quantitativa é uma alteração de número ou quantidade, como o aumento de peso ou altura de uma criança. Mudança qualitativa é uma alteração no tipo, na estrutura ou organização do comportamento, envolvendo o surgimento de fenômenos novos, como quando uma criança passa a ter autonomia para cuidar da própria higiene sem ajuda de um adulto.",
+      "keyPoints": [
+        {
+          "text": "Mudança quantitativa = número/quantidade",
+          "weight": 3,
+          "keywords": [
+            "quantitativa",
+            "número",
+            "peso ou altura"
+          ]
+        },
+        {
+          "text": "Mudança qualitativa = tipo/estrutura/organização",
+          "weight": 3,
+          "keywords": [
+            "qualitativa",
+            "estrutura",
+            "novo fenômeno"
+          ]
+        },
+        {
+          "text": "Exemplo de cada tipo de mudança",
+          "weight": 1,
+          "keywords": [
+            "exemplo",
+            "autocuidado",
+            "altura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "O estudo do desenvolvimento humano.pdf",
+        "page": "4-5"
+      },
+      "subject": "Fundamentos do desenvolvimento humano",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-003",
+      "topic": "Concepção e período fetal",
+      "question": "Qual a diferença entre embrião e feto, e quando ocorre essa mudança de nomenclatura?",
+      "modelAnswer": "O organismo é chamado de embrião do 14º dia até a sétima ou oitava semana de gestação, período em que se formam os principais sistemas do corpo. A partir da oitava semana, quando o saco vitelino perde a função e os nutrientes passam a ser levados pelo cordão umbilical, o organismo passa a ser chamado de feto, permanecendo assim até o nascimento.",
+      "keyPoints": [
+        {
+          "text": "Embrião: até a 7ª/8ª semana",
+          "weight": 2,
+          "keywords": [
+            "embrião",
+            "sétima semana",
+            "oitava semana"
+          ]
+        },
+        {
+          "text": "Feto: a partir da 8ª semana",
+          "weight": 2,
+          "keywords": [
+            "feto",
+            "oitava semana em diante"
+          ]
+        },
+        {
+          "text": "Mudança marcada pela perda de função do saco vitelino e pelo cordão umbilical",
+          "weight": 3,
+          "keywords": [
+            "saco vitelino",
+            "cordão umbilical"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "4-5"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-004",
+      "topic": "Parto humanizado",
+      "question": "O que caracteriza o parto humanizado?",
+      "modelAnswer": "O parto humanizado é realizado por uma equipe médica preparada e sensível às demandas da mulher, sem uso de medicações desnecessárias para induzir o trabalho de parto nem procedimentos que causem dor ou desconforto evitável. Ele pode ocorrer em qualquer tipo de parto, normal ou cesariana, em casa ou no hospital, respeitando a participação de acompanhantes e, muitas vezes, contando com o apoio de uma doula.",
+      "keyPoints": [
+        {
+          "text": "Equipe sensível às demandas da mulher",
+          "weight": 2,
+          "keywords": [
+            "equipe sensível",
+            "demandas da mulher"
+          ]
+        },
+        {
+          "text": "Ausência de intervenções desnecessárias",
+          "weight": 3,
+          "keywords": [
+            "sem medicação desnecessária",
+            "sem dor evitável"
+          ]
+        },
+        {
+          "text": "Pode ocorrer em qualquer via de parto (normal ou cesariana)",
+          "weight": 2,
+          "keywords": [
+            "normal ou cesariana",
+            "qualquer via"
+          ]
+        },
+        {
+          "text": "Papel da doula/acompanhante",
+          "weight": 1,
+          "keywords": [
+            "doula",
+            "acompanhante"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "13"
+      },
+      "subject": "Parto e período perinatal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-005",
+      "topic": "Reflexos do recém-nascido",
+      "question": "O que são os reflexos do recém-nascido? Dê um exemplo.",
+      "modelAnswer": "Os reflexos são movimentos involuntários que o bebê apresenta desde o nascimento, desencadeados por estímulos específicos. Um exemplo é o reflexo de preensão: quando se coloca um dedo na mão do bebê, ele o agarra firmemente. Esse reflexo específico geralmente desaparece no primeiro ano de vida, embora outros, como o de piscar os olhos para proteção, persistam até a idade adulta.",
+      "keyPoints": [
+        {
+          "text": "Reflexos = movimentos involuntários desencadeados por estímulos",
+          "weight": 3,
+          "keywords": [
+            "movimentos involuntários",
+            "reflexos"
+          ]
+        },
+        {
+          "text": "Exemplo do reflexo de preensão",
+          "weight": 2,
+          "keywords": [
+            "preensão",
+            "agarrar o dedo"
+          ]
+        },
+        {
+          "text": "Alguns desaparecem no primeiro ano, outros persistem",
+          "weight": 2,
+          "keywords": [
+            "desaparece no primeiro ano",
+            "persiste na vida adulta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "17-18"
+      },
+      "subject": "Desenvolvimento neuropsicomotor e vínculo (0-2 anos)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-006",
+      "topic": "Neuroplasticidade",
+      "question": "Explique rapidamente o que é neuroplasticidade e por que o bebê humano nasce com o cérebro imaturo.",
+      "modelAnswer": "Neuroplasticidade é a capacidade do cérebro de continuar se desenvolvendo e formando novas conexões sinápticas mesmo depois do nascimento. O bebê humano nasce com o cérebro imaturo porque, ao longo da evolução da espécie, a passagem da locomoção quadrúpede para a bípede estreitou a pelve, exigindo que o bebê nascesse com uma cabeça menor para conseguir passar pelo canal do parto sem danos.",
+      "keyPoints": [
+        {
+          "text": "Definição de neuroplasticidade",
+          "weight": 3,
+          "keywords": [
+            "neuroplasticidade",
+            "novas conexões",
+            "sinapses"
+          ]
+        },
+        {
+          "text": "Cérebro continua a se desenvolver após o nascimento",
+          "weight": 2,
+          "keywords": [
+            "desenvolvimento pós-natal",
+            "após o nascimento"
+          ]
+        },
+        {
+          "text": "Explicação evolutiva: pelve estreitada/bipedismo",
+          "weight": 2,
+          "keywords": [
+            "pelve estreitada",
+            "locomoção bípede"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "concepcao, perimental e pre natal.pdf",
+        "page": "23"
+      },
+      "subject": "Neuroplasticidade e privação afetiva",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-007",
+      "topic": "Concepção histórica da infância",
+      "question": "Como as crianças eram vistas antes do século XVII, segundo o material estudado?",
+      "modelAnswer": "Antes do século XVII, predominava a concepção de que a criança era um \"adulto em miniatura\", sem grandes diferenças entre os sentimentos, o raciocínio e as atividades de crianças e adultos. Isso se refletia até nas pinturas da época, que retratavam crianças com as mesmas proporções corporais dos adultos, e nas escolas, onde crianças e jovens de idades muito diferentes estudavam juntos.",
+      "keyPoints": [
+        {
+          "text": "Criança vista como \"adulto em miniatura\"",
+          "weight": 3,
+          "keywords": [
+            "adulto em miniatura"
+          ]
+        },
+        {
+          "text": "Reflexo nas pinturas da época",
+          "weight": 1,
+          "keywords": [
+            "pinturas",
+            "proporções de adultos"
+          ]
+        },
+        {
+          "text": "Pouca distinção nas escolas/atividades",
+          "weight": 2,
+          "keywords": [
+            "classes escolares mistas",
+            "sem distinção de idade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "3"
+      },
+      "subject": "Concepção e período pré-natal",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-008",
+      "topic": "Estágios cognitivos de Piaget",
+      "question": "Cite os quatro estágios do desenvolvimento cognitivo propostos por Piaget e a faixa etária aproximada de cada um.",
+      "modelAnswer": "Piaget propôs quatro estágios: o sensório-motor, do nascimento aos 2 anos; o pré-operatório, dos 2 aos 7 anos; o das operações concretas, dos 7 aos 11 anos; e o das operações formais, a partir dos 11 anos até aproximadamente os 19 anos, quando surge a capacidade de pensamento abstrato.",
+      "keyPoints": [
+        {
+          "text": "Sensório-motor (0 a 2 anos)",
+          "weight": 2,
+          "keywords": [
+            "sensório-motor",
+            "0 a 2 anos"
+          ]
+        },
+        {
+          "text": "Pré-operatório (2 a 7 anos)",
+          "weight": 2,
+          "keywords": [
+            "pré-operatório",
+            "2 a 7 anos"
+          ]
+        },
+        {
+          "text": "Operações concretas (7 a 11 anos)",
+          "weight": 2,
+          "keywords": [
+            "operações concretas",
+            "7 a 11 anos"
+          ]
+        },
+        {
+          "text": "Operações formais (a partir de 11 anos)",
+          "weight": 2,
+          "keywords": [
+            "operações formais",
+            "pensamento abstrato"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "16-17"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-009",
+      "topic": "Egocentrismo infantil",
+      "question": "O que é o egocentrismo infantil, segundo Piaget, e em que fase ele é mais evidente?",
+      "modelAnswer": "O egocentrismo é uma característica do raciocínio infantil, mais evidente entre os 2 e 4 anos de idade, na qual o pensamento da criança é fortemente influenciado por suas próprias vontades e percepções, refletindo apenas o seu ponto de vista. Por isso, a criança é insensível a argumentos contrários ao que pensa, e seus julgamentos tendem a ser absolutos.",
+      "keyPoints": [
+        {
+          "text": "Definição de egocentrismo",
+          "weight": 3,
+          "keywords": [
+            "egocentrismo",
+            "próprio ponto de vista"
+          ]
+        },
+        {
+          "text": "Faixa etária mais evidente (2-4 anos)",
+          "weight": 2,
+          "keywords": [
+            "2 a 4 anos"
+          ]
+        },
+        {
+          "text": "Insensibilidade a argumentos contrários",
+          "weight": 2,
+          "keywords": [
+            "insensível a argumentos",
+            "julgamentos absolutos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "18"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-010",
+      "topic": "Puberdade",
+      "question": "Qual a diferença de idade média de início da puberdade entre meninos e meninas?",
+      "modelAnswer": "Em média, as meninas começam a apresentar mudanças da puberdade entre 8 e 10 anos, enquanto os meninos costumam iniciar por volta dos 9 a 16 anos, com idade mediana de 12 anos. Ou seja, a puberdade começa geralmente de dois a três anos mais cedo nas meninas do que nos meninos.",
+      "keyPoints": [
+        {
+          "text": "Meninas iniciam mais cedo (por volta de 8-10 anos)",
+          "weight": 3,
+          "keywords": [
+            "meninas",
+            "8 a 10 anos"
+          ]
+        },
+        {
+          "text": "Meninos iniciam depois (idade mediana 12 anos)",
+          "weight": 3,
+          "keywords": [
+            "meninos",
+            "12 anos"
+          ]
+        },
+        {
+          "text": "Diferença de 2 a 3 anos entre os sexos",
+          "weight": 1,
+          "keywords": [
+            "dois ou três anos mais cedo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "3-4"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-011",
+      "topic": "Moratória psicossocial",
+      "question": "O que é a moratória psicossocial, segundo Erikson?",
+      "modelAnswer": "A moratória psicossocial é o conceito criado por Erikson para descrever o período da adolescência em que o indivíduo pode se preparar para a autonomia, ainda recebendo apoio e proteção da família, sem ser tão cobrado socialmente quanto um adulto. É um tempo de ensaio, em que o jovem pode testar modos de viver, relacionamentos e seus próprios limites, adiando compromissos definitivos com a vida adulta.",
+      "keyPoints": [
+        {
+          "text": "Período de adiamento de compromissos definitivos",
+          "weight": 3,
+          "keywords": [
+            "adiamento",
+            "compromissos adiados"
+          ]
+        },
+        {
+          "text": "Ainda recebe apoio e proteção da família",
+          "weight": 2,
+          "keywords": [
+            "apoio da família",
+            "proteção"
+          ]
+        },
+        {
+          "text": "Tempo de ensaio de modos de viver e se relacionar",
+          "weight": 2,
+          "keywords": [
+            "ensaiar",
+            "testar limites"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "24"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-012",
+      "topic": "Síndrome da adolescência normal",
+      "question": "O que é a tendência grupal na adolescência, segundo a síndrome da adolescência normal?",
+      "modelAnswer": "A tendência grupal é o comportamento defensivo pelo qual o adolescente busca uniformidade e segurança ao se identificar fortemente com um grupo de amigos, adotando roupas, modos de falar e interesses parecidos. Esse grupo funciona como uma ponte de suporte na transição entre o mundo familiar e o mundo adulto, sendo que, nesse momento, o jovem costuma se identificar mais com o grupo do que com a própria família.",
+      "keyPoints": [
+        {
+          "text": "Busca de uniformidade/segurança no grupo",
+          "weight": 3,
+          "keywords": [
+            "uniformidade",
+            "segurança no grupo"
+          ]
+        },
+        {
+          "text": "Semelhança de vestimentas, modo de falar, interesses",
+          "weight": 2,
+          "keywords": [
+            "vestimentas",
+            "modo de falar"
+          ]
+        },
+        {
+          "text": "Grupo como ponte entre família e mundo adulto",
+          "weight": 2,
+          "keywords": [
+            "ponte de suporte",
+            "transição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "34"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-013",
+      "topic": "Meia-idade e menopausa",
+      "question": "O que é a menopausa e quais suas principais consequências para a saúde da mulher?",
+      "modelAnswer": "A menopausa ocorre entre 45 e 55 anos e é causada por mudanças hormonais, principalmente a diminuição de estrogênio e progesterona, sendo os calorões um dos principais sintomas. Após a menopausa, as mulheres tornam-se mais suscetíveis a doenças cardíacas e à perda de massa óssea, que pode levar à osteoporose, além de terem maior risco de desenvolver câncer de mama.",
+      "keyPoints": [
+        {
+          "text": "Definição e faixa etária (45-55 anos)",
+          "weight": 2,
+          "keywords": [
+            "menopausa",
+            "45 a 55 anos"
+          ]
+        },
+        {
+          "text": "Causa hormonal (queda de estrogênio e progesterona)",
+          "weight": 2,
+          "keywords": [
+            "estrogênio",
+            "progesterona"
+          ]
+        },
+        {
+          "text": "Riscos: osteoporose e doenças cardíacas",
+          "weight": 3,
+          "keywords": [
+            "osteoporose",
+            "doenças cardíacas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-014",
+      "topic": "Generatividade e estagnação",
+      "question": "O que significa a crise de generatividade versus estagnação, típica da meia-idade segundo Erikson?",
+      "modelAnswer": "A generatividade é a capacidade do adulto de meia-idade de continuar sendo produtivo e criativo de forma que oriente e beneficie as próximas gerações, seja cuidando dos filhos, trabalhando ou contribuindo para a sociedade. Quando essa capacidade não é alcançada, a pessoa tende à estagnação, sentindo a vida como uma rotina monótona e sem sentido.",
+      "keyPoints": [
+        {
+          "text": "Generatividade = produtividade voltada às futuras gerações",
+          "weight": 3,
+          "keywords": [
+            "generatividade",
+            "futuras gerações"
+          ]
+        },
+        {
+          "text": "Estagnação = rotina sem sentido quando não alcançada",
+          "weight": 3,
+          "keywords": [
+            "estagnação",
+            "rotina monótona"
+          ]
+        },
+        {
+          "text": "Exemplos de generatividade (parentalidade, trabalho, contribuição social)",
+          "weight": 1,
+          "keywords": [
+            "parentalidade",
+            "contribuição social"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "31"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "desenv-oral-015",
+      "topic": "Integridade do ego x desespero (terceira idade)",
+      "question": "O que caracteriza a última crise da teoria de Erikson, vivida na terceira idade?",
+      "modelAnswer": "Na terceira idade, o idoso enfrenta a crise entre integridade do ego e desespero. Diante da proximidade do fim da vida, ele precisa fazer as pazes consigo mesmo e aceitar sua trajetória de vida como tendo sido digna de valor; se não conseguir aceitar seu passado, corre o risco de vivenciar depressão e desespero. A virtude alcançada quando essa crise é bem resolvida é a sabedoria.",
+      "keyPoints": [
+        {
+          "text": "Integridade do ego x desespero",
+          "weight": 3,
+          "keywords": [
+            "integridade do ego",
+            "desespero"
+          ]
+        },
+        {
+          "text": "Aceitação do passado/trajetória de vida",
+          "weight": 2,
+          "keywords": [
+            "aceitar o passado",
+            "trajetória de vida"
+          ]
+        },
+        {
+          "text": "Virtude da sabedoria",
+          "weight": 2,
+          "keywords": [
+            "sabedoria"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "34"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo"
+    }
+  ]
+}

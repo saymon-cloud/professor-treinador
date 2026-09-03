@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Professor Treinador — Psicologia</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand" id="brandHome">🎓 Professor Treinador</div>
+  <div class="crumbs" id="crumbs"></div>
+  <div class="topbar-right">
+    <div class="ai-badge" id="aiBadge"></div>
+    <button class="notebook-btn hidden" id="notebookBtn">📕 Caderno de erros <span id="notebookCount" class="notebook-count hidden">0</span></button>
+    <button class="user-chip hidden" id="userChip"></button>
+  </div>
+</header>
+
+<main id="app">
+
+  <!-- TELA 0: login -->
+  <section id="screen-login" class="screen active">
+    <h1>Quem é você?</h1>
+    <p class="subtitle">Escolha seu usuário ou crie um novo — cada pessoa tem seu próprio caderno de erros.</p>
+    <div id="userGrid" class="card-grid"></div>
+    <div class="setup-row" style="margin-top:20px;">
+      <input type="text" id="newUserName" placeholder="Digite um nome novo..." maxlength="60">
+      <button id="newUserBtn" class="primary-btn">Entrar</button>
+    </div>
+  </section>
+
+  <!-- TELA 1: semestre -->
+  <section id="screen-semesters" class="screen">
+    <h1>Escolha o semestre</h1>
+    <p class="subtitle">1º ao 8º semestre — Psicologia</p>
+    <div id="semesterGrid" class="card-grid"></div>
+  </section>
+
+  <!-- TELA 2: disciplina -->
+  <section id="screen-disciplines" class="screen">
+    <button class="back-btn" data-back="screen-semesters">← Voltar</button>
+    <h1 id="semesterTitle"></h1>
+    <p class="subtitle">Escolha a disciplina</p>
+    <div id="disciplineGrid" class="card-grid"></div>
+  </section>
+
+  <!-- TELA 3: assunto -->
+  <section id="screen-subjects" class="screen">
+    <button class="back-btn" data-back="screen-disciplines">← Voltar</button>
+    <h1 id="disciplineTitleSubjects"></h1>
+    <p class="subtitle">Escolha um ou mais assuntos e clique em Continuar.</p>
+    <div class="subjects-toolbar">
+      <button class="link-btn" id="subjectsSelectAll">Selecionar todos</button>
+      <button class="link-btn" id="subjectsClearAll">Limpar seleção</button>
+    </div>
+    <div id="subjectGrid" class="card-grid subject-grid"></div>
+    <div class="sticky-action-bar">
+      <span id="subjectsSelectedCount" class="subjects-selected-count">Nenhum assunto selecionado</span>
+      <button id="subjectsContinueBtn" class="primary-btn" disabled>Continuar →</button>
+    </div>
+  </section>
+
+  <!-- TELA 4: modos (abas) + dificuldade + começar -->
+  <section id="screen-subject-detail" class="screen">
+    <button class="back-btn" data-back="screen-subjects">← Voltar</button>
+    <h1 id="subjectTitle"></h1>
+    <p class="subtitle" id="subjectDisciplineLabel"></p>
+
+    <div class="tab-bar" id="modeTabs">
+      <button class="tab-btn" data-mode="objective">📝 Objetiva</button>
+      <button class="tab-btn" data-mode="discursive">✍️ Discursiva</button>
+      <button class="tab-btn" data-mode="oral">🎤 Oral</button>
+    </div>
+
+    <div class="difficulty-row">
+      <span class="difficulty-label">Dificuldade:</span>
+      <div class="chip-group" id="difficultyChips">
+        <button class="chip active" data-diff="all">Todas <span class="chip-count" data-count="all"></span></button>
+        <button class="chip" data-diff="baixo">Baixo <span class="chip-count" data-count="baixo"></span></button>
+        <button class="chip" data-diff="medio">Médio <span class="chip-count" data-count="medio"></span></button>
+        <button class="chip" data-diff="dificil">Difícil <span class="chip-count" data-count="dificil"></span></button>
+      </div>
+    </div>
+
+    <p class="pool-summary" id="poolSummary"></p>
+
+    <div class="action-row">
+      <button id="startBtn" class="primary-btn" disabled>Começar</button>
+    </div>
+  </section>
+
+  <!-- TELA 5: Quiz Objetivo -->
+  <section id="screen-objective" class="screen">
+    <button class="back-btn" data-back="screen-subject-detail">← Sair</button>
+    <div class="progress-bar"><div class="progress-fill" id="objProgress"></div></div>
+    <p class="q-counter" id="objCounter"></p>
+    <p class="q-topic" id="objTopic"></p>
+    <h2 class="q-text" id="objQuestion"></h2>
+    <div id="objOptions" class="options-list"></div>
+    <div id="objFeedback" class="feedback-box hidden"></div>
+    <div class="action-row">
+      <button id="objConfirmBtn" class="primary-btn" disabled>Confirmar</button>
+      <button id="objNextBtn" class="primary-btn hidden">Próxima →</button>
+    </div>
+  </section>
+
+  <!-- TELA 6: Quiz Discursivo -->
+  <section id="screen-discursive" class="screen">
+    <button class="back-btn" data-back="screen-subject-detail">← Sair</button>
+    <div class="progress-bar"><div class="progress-fill" id="discProgress"></div></div>
+    <p class="q-counter" id="discCounter"></p>
+    <p class="q-topic" id="discTopic"></p>
+    <h2 class="q-text" id="discQuestion"></h2>
+    <textarea id="discAnswer" rows="8" placeholder="Digite sua resposta aqui..."></textarea>
+    <div id="discFeedback" class="feedback-box hidden"></div>
+    <div class="action-row">
+      <button id="discSubmitBtn" class="primary-btn">Enviar resposta</button>
+      <button id="discNextBtn" class="primary-btn hidden">Próxima →</button>
+    </div>
+  </section>
+
+  <!-- TELA 7: Prova Oral -->
+  <section id="screen-oral" class="screen">
+    <button class="back-btn" data-back="screen-subject-detail">← Sair</button>
+    <div class="progress-bar"><div class="progress-fill" id="oralProgress"></div></div>
+    <p class="q-counter" id="oralCounter"></p>
+    <p class="q-topic" id="oralTopic"></p>
+    <h2 class="q-text" id="oralQuestion"></h2>
+
+    <div class="oral-controls">
+      <button id="oralListenBtn" class="secondary-btn">🔊 Ouvir pergunta</button>
+      <button id="oralRecordBtn" class="primary-btn">🎤 Iniciar resposta</button>
+      <button id="oralStopBtn" class="danger-btn hidden">⏹ Parar e avaliar</button>
+    </div>
+    <p id="oralStatus" class="oral-status"></p>
+    <div id="oralTranscriptBox" class="transcript-box hidden">
+      <strong>Transcrição da sua resposta:</strong>
+      <p id="oralTranscript"></p>
+    </div>
+    <div id="oralFallback" class="hidden">
+      <p class="oral-status">Reconhecimento de voz não disponível neste navegador. Digite sua resposta:</p>
+      <textarea id="oralAnswerText" rows="6" placeholder="Digite sua resposta aqui..."></textarea>
+      <button id="oralFallbackSubmit" class="primary-btn">Enviar resposta</button>
+    </div>
+
+    <div id="oralFeedback" class="feedback-box hidden"></div>
+    <div class="action-row">
+      <button id="oralNextBtn" class="primary-btn hidden">Próxima →</button>
+    </div>
+  </section>
+
+  <!-- TELA 8: Resultado final -->
+  <section id="screen-results" class="screen">
+    <h1>Resultado</h1>
+    <div class="score-circle" id="finalScoreCircle">
+      <span id="finalScoreValue">0</span><span class="score-max">/10</span>
+    </div>
+    <p id="finalScoreLabel" class="subtitle"></p>
+    <div id="resultsList" class="results-list"></div>
+    <div class="action-row">
+      <button id="retryBtn" class="primary-btn">Refazer</button>
+      <button id="notebookFromResultsBtn" class="secondary-btn">📕 Ver caderno de erros</button>
+      <button id="homeBtn" class="secondary-btn">Voltar ao início</button>
+    </div>
+  </section>
+
+  <!-- TELA 9: Caderno de erros -->
+  <section id="screen-notebook" class="screen">
+    <button class="back-btn" data-back="screen-semesters">← Voltar</button>
+    <h1>📕 Caderno de erros</h1>
+    <p class="subtitle" id="notebookSubtitle"></p>
+
+    <div class="chip-group" id="notebookFilter" style="margin-bottom:20px;">
+      <button class="chip active" data-filter="open">A revisar</button>
+      <button class="chip" data-filter="resolved">Revisados</button>
+      <button class="chip" data-filter="all">Todos</button>
+    </div>
+
+    <div id="notebookList" class="notebook-list"></div>
+  </section>
+
+</main>
+
+<!-- Modal: mini-aula -->
+<div id="lessonModal" class="modal-overlay hidden">
+  <div class="modal-box">
+    <button class="modal-close" id="lessonModalClose">✕</button>
+    <h2 id="lessonModalTitle">Mini-aula</h2>
+    <p class="lesson-loading hidden" id="lessonLoading">Gerando mini-aula com IA...</p>
+    <div id="lessonContent" class="lesson-content"></div>
+    <p class="engine-tag" id="lessonEngineTag"></p>
+  </div>
+</div>
+
+<footer class="foot">
+  Professor Treinador — material gerado a partir do conteúdo do 1º Semestre. Rode via <code>Iniciar Treinador.bat</code>.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
