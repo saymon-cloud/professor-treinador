@@ -2042,6 +2042,1480 @@
       "subject": "Parto e período perinatal",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, ainda durante a gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno após o nascimento. Esse processo de aproximação, que continua nas primeiras horas após o parto, contribui diretamente para o desenvolvimento de qual fenômeno psicológico? Ainda na gestação, mãe e bebê estabelecem uma relação que prepara a mulher para expressar seu cuidado materno; nas primeiras horas após o parto, há uma aproximação que contribuirá diretamente para o desenvolvimento do apego entre mãe e bebê."
+    },
+    {
+      "id": "desenv-obj-095",
+      "topic": "Infância",
+      "question": "Segundo Amaral (2007), os termos 'crescimento' e 'desenvolvimento' foram considerados, durante muito tempo, como dois conceitos separados — uma demonstração do pensamento dicotômico que divide mente e corpo, ideia herdada de um pensador da era iluminista. Esse pensador é:",
+      "options": {
+        "a": "Descartes",
+        "b": "Piaget",
+        "c": "Vygotsky",
+        "d": "Fröbel",
+        "e": "Aristóteles"
+      },
+      "correct": "a",
+      "explanation": "A separação entre crescimento (aspectos físicos) e desenvolvimento (aspectos mentais) era uma demonstração do pensamento dicotômico que divide mente e corpo, ideia herdada de Descartes, pensador da era iluminista.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "5"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Amaral (2007), os termos 'crescimento' e 'desenvolvimento' foram considerados, durante muito tempo, como dois conceitos separados — uma demonstração do pensamento dicotômico que divide mente e corpo, ideia herdada de um pensador da era iluminista. Esse pensador é: A separação entre crescimento (aspectos físicos) e desenvolvimento (aspectos mentais) era uma demonstração do pensamento dicotômico que divide mente e corpo, ideia herdada de Descartes, pensador da era iluminista."
+    },
+    {
+      "id": "desenv-obj-096",
+      "topic": "Infância",
+      "question": "Atualmente, os pensadores e cientistas tendem a considerar os aspectos do crescimento como parte do desenvolvimento, que abrangeria:",
+      "options": {
+        "a": "O crescimento orgânico e o desenvolvimento mental",
+        "b": "Exclusivamente o crescimento orgânico, sem qualquer componente mental",
+        "c": "Exclusivamente o desenvolvimento mental, sem qualquer componente orgânico",
+        "d": "Apenas os fatores extrínsecos, sem qualquer influência genética",
+        "e": "Apenas os fatores hereditários, sem qualquer influência ambiental"
+      },
+      "correct": "a",
+      "explanation": "Atualmente, considera-se que o desenvolvimento abrange tanto o crescimento orgânico (aumento do tamanho corporal) quanto o desenvolvimento mental, superando a antiga separação dicotômica entre esses dois conceitos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "5"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Atualmente, os pensadores e cientistas tendem a considerar os aspectos do crescimento como parte do desenvolvimento, que abrangeria: Atualmente, considera-se que o desenvolvimento abrange tanto o crescimento orgânico (aumento do tamanho corporal) quanto o desenvolvimento mental, superando a antiga separação dicotômica entre esses dois conceitos."
+    },
+    {
+      "id": "desenv-obj-097",
+      "topic": "Infância",
+      "question": "O processo de crescimento orgânico será muito influenciado por dois fatores. Aqueles que ocorrem nos processos genéticos são denominados fatores:",
+      "options": {
+        "a": "Extrínsecos",
+        "b": "Intrínsecos",
+        "c": "Ambientais exclusivamente",
+        "d": "Culturais",
+        "e": "Sociais exclusivamente"
+      },
+      "correct": "b",
+      "explanation": "Os fatores intrínsecos ocorrem nos processos genéticos, enquanto os fatores extrínsecos ocorrem nos processos ambientais (saúde, alimentação, habitação, higiene e cuidados gerais com a criança).",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "5"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "O processo de crescimento orgânico será muito influenciado por dois fatores. Aqueles que ocorrem nos processos genéticos são denominados fatores: Os fatores intrínsecos ocorrem nos processos genéticos, enquanto os fatores extrínsecos ocorrem nos processos ambientais (saúde, alimentação, habitação, higiene e cuidados gerais com a criança)."
+    },
+    {
+      "id": "desenv-obj-098",
+      "topic": "Infância",
+      "question": "Segundo a divisão etária do ciclo vital proposta por Papalia, Olds e Feldman (2006), a primeira infância corresponde à fase de crescimento:",
+      "options": {
+        "a": "Do nascimento aos 3 anos de idade",
+        "b": "De 3 a 6 anos",
+        "c": "De 6 a 11 anos",
+        "d": "De 0 a 6 anos",
+        "e": "De 11 a 18 anos"
+      },
+      "correct": "a",
+      "explanation": "Segundo Papalia, Olds e Feldman (2006), a primeira infância corresponde à fase de crescimento dos 0 aos 3 anos de idade, período importante para o desenvolvimento das estruturas e circuitos cerebrais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "6"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo a divisão etária do ciclo vital proposta por Papalia, Olds e Feldman (2006), a primeira infância corresponde à fase de crescimento: Segundo Papalia, Olds e Feldman (2006), a primeira infância corresponde à fase de crescimento dos 0 aos 3 anos de idade, período importante para o desenvolvimento das estruturas e circuitos cerebrais."
+    },
+    {
+      "id": "desenv-obj-099",
+      "topic": "Infância",
+      "question": "Ainda segundo a divisão de Papalia, Olds e Feldman (2006), a segunda infância corresponde à faixa etária:",
+      "options": {
+        "a": "De 3 a 6 anos",
+        "b": "Do nascimento aos 3 anos",
+        "c": "De 6 a 11 anos",
+        "d": "De 11 a 18 anos",
+        "e": "De 0 a 2 anos"
+      },
+      "correct": "a",
+      "explanation": "A segunda infância, segundo Papalia, Olds e Feldman (2006), corresponde à faixa etária de 3 a 6 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "6"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "Ainda segundo a divisão de Papalia, Olds e Feldman (2006), a segunda infância corresponde à faixa etária: A segunda infância, segundo Papalia, Olds e Feldman (2006), corresponde à faixa etária de 3 a 6 anos."
+    },
+    {
+      "id": "desenv-obj-100",
+      "topic": "Infância",
+      "question": "Durante o primeiro ano de vida, segundo o material, a altura do bebê aumenta em cerca de:",
+      "options": {
+        "a": "25cm a 30cm, fazendo com que um bebê de 1 ano tenha cerca de 76cm de altura",
+        "b": "1cm a 2cm apenas",
+        "c": "50cm a 60cm",
+        "d": "5cm a 10cm",
+        "e": "Nenhum aumento significativo é observado"
+      },
+      "correct": "a",
+      "explanation": "Durante o primeiro ano de vida, a altura aumenta em cerca de 25cm a 30cm, fazendo com que um bebê de 1 ano de idade tenha cerca de 76cm de altura.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "7"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Durante o primeiro ano de vida, segundo o material, a altura do bebê aumenta em cerca de: Durante o primeiro ano de vida, a altura aumenta em cerca de 25cm a 30cm, fazendo com que um bebê de 1 ano de idade tenha cerca de 76cm de altura."
+    },
+    {
+      "id": "desenv-obj-101",
+      "topic": "Infância",
+      "question": "Segundo o material, o primeiro dente do bebê costuma aparecer:",
+      "options": {
+        "a": "Entre o quinto e o nono mês de vida",
+        "b": "Já ao nascer",
+        "c": "Apenas após o segundo ano de vida",
+        "d": "No primeiro mês de vida",
+        "e": "Apenas na segunda infância, aos 4 anos"
+      },
+      "correct": "a",
+      "explanation": "O primeiro dente aparece entre o quinto e o nono mês de vida; no primeiro ano, a criança já tem de 6 a 8 dentes, e aos dois anos e meio já tem 20 dentes.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "7"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o primeiro dente do bebê costuma aparecer: O primeiro dente aparece entre o quinto e o nono mês de vida; no primeiro ano, a criança já tem de 6 a 8 dentes, e aos dois anos e meio já tem 20 dentes."
+    },
+    {
+      "id": "desenv-obj-102",
+      "topic": "Infância",
+      "question": "Segundo Carvalho (2015), por volta dos dezoito meses, quando a criança começa a falar, uma característica notável de sua fala é que:",
+      "options": {
+        "a": "Ela usa as palavras em uma sequência adequada e segue uma regra gramatical, mesmo sem instrução formal",
+        "b": "Ela é incapaz de formar qualquer combinação de palavras",
+        "c": "Ela repete exclusivamente sons sem qualquer estrutura",
+        "d": "Ela já domina completamente a gramática da língua adulta",
+        "e": "Ela utiliza apenas gestos, sem qualquer vocalização"
+      },
+      "correct": "a",
+      "explanation": "Por volta dos dezoito meses, quando a criança começa a falar, ela usa as palavras em uma sequência adequada e segue uma regra gramatical — por exemplo, dirá 'qué aca' (quero água) e não 'aca qué'.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "7"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Carvalho (2015), por volta dos dezoito meses, quando a criança começa a falar, uma característica notável de sua fala é que: Por volta dos dezoito meses, quando a criança começa a falar, ela usa as palavras em uma sequência adequada e segue uma regra gramatical — por exemplo, dirá 'qué aca' (quero água) e não 'aca qué'."
+    },
+    {
+      "id": "desenv-obj-103",
+      "topic": "Infância",
+      "question": "De acordo com Carvalho (2015), em torno dos 3 anos, uma mudança começa a ocorrer na silhueta das crianças. Essa mudança é caracterizada por:",
+      "options": {
+        "a": "O tronco, os braços e as pernas tornando-se mais compridos, com uma aparência delgada e atlética",
+        "b": "Um aumento súbito e desproporcional exclusivamente da cabeça",
+        "c": "Uma redução geral do tamanho corporal",
+        "d": "Nenhuma alteração perceptível na aparência física",
+        "e": "O desaparecimento completo do tecido adiposo já formado"
+      },
+      "correct": "a",
+      "explanation": "Em torno dos 3 anos, destaca-se a aparência delgada e atlética da infância: o tronco, os braços e as pernas tornam-se mais compridos, e a cabeça vai se harmonizando com as demais partes do corpo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "8"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "De acordo com Carvalho (2015), em torno dos 3 anos, uma mudança começa a ocorrer na silhueta das crianças. Essa mudança é caracterizada por: Em torno dos 3 anos, destaca-se a aparência delgada e atlética da infância: o tronco, os braços e as pernas tornam-se mais compridos, e a cabeça vai se harmonizando com as demais partes do corpo."
+    },
+    {
+      "id": "desenv-obj-104",
+      "topic": "Infância",
+      "question": "Segundo Papalia, Olds e Feldman (2006), as crianças com menos de 6 anos de idade, no que se refere às habilidades motoras, geralmente:",
+      "options": {
+        "a": "Raramente estão preparadas para participar de qualquer esporte organizado, sendo mais adequado o desenvolvimento físico por meio de brincadeiras ativas e não estruturadas",
+        "b": "Já estão plenamente preparadas para competições esportivas formais",
+        "c": "Perdem completamente o interesse por atividades motoras",
+        "d": "Desenvolvem exclusivamente habilidades motoras finas, sem qualquer avanço nas habilidades motoras grossas",
+        "e": "Não apresentam qualquer diferença motora individual entre si"
+      },
+      "correct": "a",
+      "explanation": "Crianças com menos de 6 anos raramente estão com suas capacidades motoras preparadas para participar de esportes organizados; o desenvolvimento físico floresce melhor com brincadeiras ativas e não estruturadas, como os jogos de 'faz de conta'.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "8"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia, Olds e Feldman (2006), as crianças com menos de 6 anos de idade, no que se refere às habilidades motoras, geralmente: Crianças com menos de 6 anos raramente estão com suas capacidades motoras preparadas para participar de esportes organizados; o desenvolvimento físico floresce melhor com brincadeiras ativas e não estruturadas, como os jogos de 'faz de conta'."
+    },
+    {
+      "id": "desenv-obj-105",
+      "topic": "Infância",
+      "question": "Entre as conquistas motoras da segunda infância (3 a 6 anos), citadas no material, decorrentes do desenvolvimento dos músculos maiores, estão:",
+      "options": {
+        "a": "Andar de triciclo e utilizar uma tesoura",
+        "b": "Dirigir um automóvel",
+        "c": "Praticar esportes de alto rendimento",
+        "d": "Escrever redações longas",
+        "e": "Realizar cálculos matemáticos complexos"
+      },
+      "correct": "a",
+      "explanation": "Andar de triciclo e utilizar uma tesoura são conquistas motoras da segunda infância, decorrentes do desenvolvimento dos músculos maiores.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "8-9"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "Entre as conquistas motoras da segunda infância (3 a 6 anos), citadas no material, decorrentes do desenvolvimento dos músculos maiores, estão: Andar de triciclo e utilizar uma tesoura são conquistas motoras da segunda infância, decorrentes do desenvolvimento dos músculos maiores."
+    },
+    {
+      "id": "desenv-obj-106",
+      "topic": "Infância",
+      "question": "A preferência no uso das mãos (lateralidade), característica da segunda infância, geralmente se evidencia por volta de qual idade, segundo o material?",
+      "options": {
+        "a": "3 anos",
+        "b": "6 meses",
+        "c": "10 anos",
+        "d": "1 ano",
+        "e": "12 anos"
+      },
+      "correct": "a",
+      "explanation": "A preferência pelo uso das mãos (direita ou esquerda) geralmente se evidencia aos 3 anos, embora não seja sempre definida para todas as tarefas; os meninos são mais propensos a serem canhotos do que as meninas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "9"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "A preferência no uso das mãos (lateralidade), característica da segunda infância, geralmente se evidencia por volta de qual idade, segundo o material? A preferência pelo uso das mãos (direita ou esquerda) geralmente se evidencia aos 3 anos, embora não seja sempre definida para todas as tarefas; os meninos são mais propensos a serem canhotos do que as meninas."
+    },
+    {
+      "id": "desenv-obj-107",
+      "topic": "Infância",
+      "question": "O jogo do 'faz-de-conta', fundamental na segunda infância, cumpre diversas funções no desenvolvimento da criança, entre elas:",
+      "options": {
+        "a": "Ajudar a criança a reconhecer diferenças corporais, usar palavras, reconhecer sentimentos e dar vazão a desejos, temores e impulsos agressivos",
+        "b": "Ensinar exclusivamente conteúdos acadêmicos formais",
+        "c": "Substituir completamente a necessidade de interação social",
+        "d": "Eliminar por completo a fantasia infantil",
+        "e": "Acelerar exclusivamente o crescimento físico, sem qualquer componente emocional"
+      },
+      "correct": "a",
+      "explanation": "O jogo do 'faz-de-conta' ajuda a criança a reconhecer diferenças corporais entre meninas e meninos, usar palavras, reconhecer e descrever sentimentos, competir com outras crianças e dar vazão a seus desejos, temores, esperanças e impulsos agressivos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "9"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "O jogo do 'faz-de-conta', fundamental na segunda infância, cumpre diversas funções no desenvolvimento da criança, entre elas: O jogo do 'faz-de-conta' ajuda a criança a reconhecer diferenças corporais entre meninas e meninos, usar palavras, reconhecer e descrever sentimentos, competir com outras crianças e dar vazão a seus desejos, temores, esperanças e impulsos agressivos."
+    },
+    {
+      "id": "desenv-obj-108",
+      "topic": "Infância",
+      "question": "A partir dos 6 anos, segundo o material, o pensamento da criança vai gradualmente se tornando mais objetivo e com uma visão menos centralizada. Um exemplo dado é o de uma criança em idade pré-escolar que sabe ir sozinha à escola e à casa de um amigo, mas não consegue dizer qual dos dois lugares fica mais perto de casa. Isso ocorre porque, segundo Carvalho (2015):",
+      "options": {
+        "a": "A criança ainda não tem o conceito de distância",
+        "b": "A criança tem medo de sair de casa",
+        "c": "A criança não conhece o próprio bairro",
+        "d": "A criança já domina completamente o conceito de tempo",
+        "e": "A criança prefere não responder a perguntas dos adultos"
+      },
+      "correct": "a",
+      "explanation": "Segundo Carvalho (2015), a criança na terceira infância inicial ainda não tem o conceito de distância, por isso não consegue dizer qual dos dois lugares (escola ou casa de um amigo) fica mais perto de casa, embora saiba ir a ambos sozinha.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "9-10"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "A partir dos 6 anos, segundo o material, o pensamento da criança vai gradualmente se tornando mais objetivo e com uma visão menos centralizada. Um exemplo dado é o de uma criança em idade pré-escolar que sabe ir sozinha à escola e à casa de um amigo, mas não consegue dizer qual dos dois lugares fica mais perto de casa. Isso ocorre porque, segundo Carvalho (2015): Segundo Carvalho (2015), a criança na terceira infância inicial ainda não tem o conceito de distância, por isso não consegue dizer qual dos dois lugares (escola ou casa de um amigo) fica mais perto de casa, embora saiba ir a ambos sozinha."
+    },
+    {
+      "id": "desenv-obj-109",
+      "topic": "Infância",
+      "question": "Além do conceito de distância, segundo Carvalho (2015), no período compreendido entre os 6 e 11 anos (terceira infância) serão também aprendidos os conceitos de:",
+      "options": {
+        "a": "Tempo, classes, relações e número",
+        "b": "Exclusivamente cores e formas geométricas",
+        "c": "Apenas letras do alfabeto",
+        "d": "Somente unidades de medida de peso",
+        "e": "Exclusivamente nomes de animais"
+      },
+      "correct": "a",
+      "explanation": "No período da terceira infância (6 a 11 anos), além do conceito de distância, serão aprendidos também os conceitos de tempo, de classes, de relações e de número.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "10"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Além do conceito de distância, segundo Carvalho (2015), no período compreendido entre os 6 e 11 anos (terceira infância) serão também aprendidos os conceitos de: No período da terceira infância (6 a 11 anos), além do conceito de distância, serão aprendidos também os conceitos de tempo, de classes, de relações e de número."
+    },
+    {
+      "id": "desenv-obj-110",
+      "topic": "Infância",
+      "question": "Segundo Papalia, Olds e Feldman (2006), na terceira infância, com quase 11 anos, as meninas podem iniciar um surto de crescimento, tornando-se, na maioria das vezes:",
+      "options": {
+        "a": "Mais altas e um pouco mais pesadas que os meninos de sua turma na escola, até aproximadamente os 12 ou 13 anos",
+        "b": "Sempre mais baixas do que os meninos em qualquer fase da infância",
+        "c": "Idênticas em altura e peso aos meninos durante toda a vida",
+        "d": "Menores e mais leves do que na segunda infância",
+        "e": "Sem qualquer diferença de crescimento em relação aos meninos"
+      },
+      "correct": "a",
+      "explanation": "Com quase 11 anos, as meninas podem iniciar um surto de crescimento, ganhando cerca de 4,5kg por ano, ficando, na maioria das vezes, mais altas e um pouco mais pesadas que os meninos da mesma turma escolar, até os 12 ou 13 anos, quando os rapazes iniciam seu próprio surto de crescimento e as superam.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "10"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia, Olds e Feldman (2006), na terceira infância, com quase 11 anos, as meninas podem iniciar um surto de crescimento, tornando-se, na maioria das vezes: Com quase 11 anos, as meninas podem iniciar um surto de crescimento, ganhando cerca de 4,5kg por ano, ficando, na maioria das vezes, mais altas e um pouco mais pesadas que os meninos da mesma turma escolar, até os 12 ou 13 anos, quando os rapazes iniciam seu próprio surto de crescimento e as superam."
+    },
+    {
+      "id": "desenv-obj-111",
+      "topic": "Infância",
+      "question": "Os jogos impetuosos, comuns nos recreios das primeiras séries escolares e que atingem seu auge na terceira infância, são descritos no material como um modo vigoroso de brincar que envolve:",
+      "options": {
+        "a": "Rolar no chão, lutar, chutar, agarrar-se e, às vezes, perseguir, em geral acompanhado de risos e gritos",
+        "b": "Exclusivamente atividades sedentárias e silenciosas",
+        "c": "Apenas jogos de tabuleiro e cartas",
+        "d": "Leitura individual e silenciosa em sala de aula",
+        "e": "Atividades artísticas exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os jogos impetuosos consistem em um modo vigoroso de brincar que envolve rolar no chão, lutar, chutar, agarrar-se e, às vezes, perseguir, em geral acompanhado de risos e gritos, atingindo o auge na terceira infância, sendo mais comuns entre os meninos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "11"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Os jogos impetuosos, comuns nos recreios das primeiras séries escolares e que atingem seu auge na terceira infância, são descritos no material como um modo vigoroso de brincar que envolve: Os jogos impetuosos consistem em um modo vigoroso de brincar que envolve rolar no chão, lutar, chutar, agarrar-se e, às vezes, perseguir, em geral acompanhado de risos e gritos, atingindo o auge na terceira infância, sendo mais comuns entre os meninos."
+    },
+    {
+      "id": "desenv-obj-112",
+      "topic": "Infância",
+      "question": "Friedrich Fröbel, pedagogo alemão conhecido como criador da ideia do 'jardim de infância', é associado, no material, ao modelo de pensamento:",
+      "options": {
+        "a": "Organicista",
+        "b": "Histórico-cultural",
+        "c": "Mecanicista-ambientalista",
+        "d": "Behaviorista radical",
+        "e": "Psicanalítico"
+      },
+      "correct": "a",
+      "explanation": "Fröbel é um exemplo do modelo organicista, que não considera a criança uma máquina, mas um 'ser vivo', um organismo biológico no qual a herança genética e a maturação comandam o desenvolvimento; para Fröbel, as crianças seriam sempre boas por natureza, por serem obras divinas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "14"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Friedrich Fröbel, pedagogo alemão conhecido como criador da ideia do 'jardim de infância', é associado, no material, ao modelo de pensamento: Fröbel é um exemplo do modelo organicista, que não considera a criança uma máquina, mas um 'ser vivo', um organismo biológico no qual a herança genética e a maturação comandam o desenvolvimento; para Fröbel, as crianças seriam sempre boas por natureza, por serem obras divinas."
+    },
+    {
+      "id": "desenv-obj-113",
+      "topic": "Infância",
+      "question": "Para Vygotsky, segundo o material, a criança não pode ser representada nem como uma máquina nem como um organismo vivo isolado, mas sim como:",
+      "options": {
+        "a": "Um ser que se constitui nas relações sociais",
+        "b": "Um produto exclusivamente da programação biológica",
+        "c": "Um ser passivo e inerte diante do ambiente",
+        "d": "Uma obra divina que já nasce boa por natureza",
+        "e": "Um sistema fechado, imune a qualquer influência cultural"
+      },
+      "correct": "a",
+      "explanation": "Para Vygotsky, a criança não pode ser representada como uma máquina nem como um organismo vivo isolado, mas como um ser que se constitui nas relações sociais, sendo nelas que se buscam as origens das formas superiores dos comportamentos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "15"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Para Vygotsky, segundo o material, a criança não pode ser representada nem como uma máquina nem como um organismo vivo isolado, mas sim como: Para Vygotsky, a criança não pode ser representada como uma máquina nem como um organismo vivo isolado, mas como um ser que se constitui nas relações sociais, sendo nelas que se buscam as origens das formas superiores dos comportamentos."
+    },
+    {
+      "id": "desenv-obj-114",
+      "topic": "Infância",
+      "question": "Segundo Vygotsky, à medida que as crianças crescem em interação com os adultos, os processos culturais passam a ser incorporados por meio de um processo denominado:",
+      "options": {
+        "a": "Interiorização",
+        "b": "Assimilação piagetiana",
+        "c": "Animismo",
+        "d": "Egocentrismo",
+        "e": "Seriação"
+      },
+      "correct": "a",
+      "explanation": "Para Vygotsky, à medida que as crianças crescem em interação com os adultos que buscam incorporá-las às suas culturas, esses processos passam a ser internalizados por meio de uma interiorização, fruto das relações com a cultura e a história.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "15"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Vygotsky, à medida que as crianças crescem em interação com os adultos, os processos culturais passam a ser incorporados por meio de um processo denominado: Para Vygotsky, à medida que as crianças crescem em interação com os adultos que buscam incorporá-las às suas culturas, esses processos passam a ser internalizados por meio de uma interiorização, fruto das relações com a cultura e a história."
+    },
+    {
+      "id": "desenv-obj-115",
+      "topic": "Infância",
+      "question": "No período sensório-motor, segundo Piaget (do nascimento aos 2 anos), ao final desse estágio a criança já é capaz de:",
+      "options": {
+        "a": "Se locomover, reconhecer os rostos das pessoas, demonstrar afetos e esboçar as primeiras palavras",
+        "b": "Lidar plenamente com conceitos abstratos como justiça e liberdade",
+        "c": "Realizar operações de classificação e seriação com objetos concretos",
+        "d": "Compreender metáforas e alegorias complexas",
+        "e": "Formular hipóteses dedutivas sobre eventos não observáveis"
+      },
+      "correct": "a",
+      "explanation": "Ao final do período sensório-motor (2 anos), a criança já se locomove, reconhece os rostos das pessoas, demonstra afetos e esboça as primeiras palavras, após um período de aperfeiçoamento contínuo que se inicia com uma vida mental aplicada aos reflexos e instintos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "16"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "No período sensório-motor, segundo Piaget (do nascimento aos 2 anos), ao final desse estágio a criança já é capaz de: Ao final do período sensório-motor (2 anos), a criança já se locomove, reconhece os rostos das pessoas, demonstra afetos e esboça as primeiras palavras, após um período de aperfeiçoamento contínuo que se inicia com uma vida mental aplicada aos reflexos e instintos."
+    },
+    {
+      "id": "desenv-obj-116",
+      "topic": "Infância",
+      "question": "Segundo Piaget, no final do período pré-operatório (dos 2 aos 7 anos), inicia-se uma fase característica em que a criança precisa de explicações, pois seu pensamento começa a se adaptar ao real. Essa fase é popularmente conhecida como a fase:",
+      "options": {
+        "a": "Dos 'porquês'",
+        "b": "Da seriação",
+        "c": "Do egocentrismo puro",
+        "d": "Da moratória psicossocial",
+        "e": "Da síndrome normal"
+      },
+      "correct": "a",
+      "explanation": "No final do período pré-operatório, inicia-se a famosa fase dos 'porquês', momento em que o pensamento começa a se adaptar ao real e a criança precisa de explicações constantes sobre o mundo ao seu redor.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "17"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Piaget, no final do período pré-operatório (dos 2 aos 7 anos), inicia-se uma fase característica em que a criança precisa de explicações, pois seu pensamento começa a se adaptar ao real. Essa fase é popularmente conhecida como a fase: No final do período pré-operatório, inicia-se a famosa fase dos 'porquês', momento em que o pensamento começa a se adaptar ao real e a criança precisa de explicações constantes sobre o mundo ao seu redor."
+    },
+    {
+      "id": "desenv-obj-117",
+      "topic": "Infância",
+      "question": "No período das operações concretas (dos 7 aos 11 anos), segundo Piaget, a criança já é capaz de executar operações ou tarefas relacionadas a objetos concretos e reais, mas ainda:",
+      "options": {
+        "a": "Não possui a capacidade de abstração",
+        "b": "Não possui qualquer capacidade de raciocínio lógico",
+        "c": "É incapaz de reconhecer rostos familiares",
+        "d": "Não desenvolveu ainda a linguagem verbal",
+        "e": "Permanece completamente egocêntrica, sem qualquer avanço em relação ao período anterior"
+      },
+      "correct": "a",
+      "explanation": "No período das operações concretas, aparece a capacidade de executar operações ou tarefas, mas essas operações só são possíveis quando relacionadas a objetos concretos e reais; ainda não há a capacidade de abstração, que só surgirá no período das operações formais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "17"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "No período das operações concretas (dos 7 aos 11 anos), segundo Piaget, a criança já é capaz de executar operações ou tarefas relacionadas a objetos concretos e reais, mas ainda: No período das operações concretas, aparece a capacidade de executar operações ou tarefas, mas essas operações só são possíveis quando relacionadas a objetos concretos e reais; ainda não há a capacidade de abstração, que só surgirá no período das operações formais."
+    },
+    {
+      "id": "desenv-obj-118",
+      "topic": "Infância",
+      "question": "Por volta dos 9 meses de idade, segundo Carvalho (2015), o desempenho do bebê mostra uma consolidação de uma noção piagetiana importante. Quando ouve o barulho da chave na porta, ele demonstra a expectativa da chegada de alguém. Essa noção é a de:",
+      "options": {
+        "a": "Objeto permanente e de espaço contínuo",
+        "b": "Reversibilidade lógica",
+        "c": "Conservação de quantidade",
+        "d": "Seriação de elementos",
+        "e": "Classificação hierárquica"
+      },
+      "correct": "a",
+      "explanation": "Por volta dos 9 meses, o desempenho do bebê mostra uma consolidação da noção do objeto permanente (categoria piagetiana) e de espaço contínuo, tornando-se capaz de reconstruir as causas a partir de um efeito percebido e vice-versa.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "17"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil",
+      "miniLesson": "Por volta dos 9 meses de idade, segundo Carvalho (2015), o desempenho do bebê mostra uma consolidação de uma noção piagetiana importante. Quando ouve o barulho da chave na porta, ele demonstra a expectativa da chegada de alguém. Essa noção é a de: Por volta dos 9 meses, o desempenho do bebê mostra uma consolidação da noção do objeto permanente (categoria piagetiana) e de espaço contínuo, tornando-se capaz de reconstruir as causas a partir de um efeito percebido e vice-versa."
+    },
+    {
+      "id": "desenv-obj-119",
+      "topic": "Infância",
+      "question": "Entre 2 e 4 anos de idade, segundo o material, o raciocínio da criança é caracterizado por uma tendência na qual tudo reflete apenas um ponto de vista, o seu próprio, sendo a criança insensível a argumentos contrários às suas afirmações. Essa característica é denominada:",
+      "options": {
+        "a": "Egocentrismo",
+        "b": "Animismo",
+        "c": "Irreversibilidade",
+        "d": "Seriação",
+        "e": "Classificação"
+      },
+      "correct": "a",
+      "explanation": "O egocentrismo, especialmente dos 2 aos 4 anos, caracteriza-se por um raciocínio muito influenciado pelas próprias vontades e desejos da criança, que é insensível a argumentos contrários às suas afirmações, tendo julgamentos sempre absolutos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "18"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Entre 2 e 4 anos de idade, segundo o material, o raciocínio da criança é caracterizado por uma tendência na qual tudo reflete apenas um ponto de vista, o seu próprio, sendo a criança insensível a argumentos contrários às suas afirmações. Essa característica é denominada: O egocentrismo, especialmente dos 2 aos 4 anos, caracteriza-se por um raciocínio muito influenciado pelas próprias vontades e desejos da criança, que é insensível a argumentos contrários às suas afirmações, tendo julgamentos sempre absolutos."
+    },
+    {
+      "id": "desenv-obj-120",
+      "topic": "Infância",
+      "question": "Uma criança de 4 anos manifesta preocupação de que seu ursinho de pelúcia possa sentir solidão e medo quando ela sai de casa, e chuta uma árvore acreditando que ela sentirá dor. Esse comportamento, decorrente do egocentrismo infantil, exemplifica a característica do raciocínio pré-operatório denominada:",
+      "options": {
+        "a": "Animismo",
+        "b": "Reversibilidade",
+        "c": "Seriação",
+        "d": "Classificação lógica",
+        "e": "Pensamento hipotético-dedutivo"
+      },
+      "correct": "a",
+      "explanation": "O animismo é a projeção da criança que estende suas experiências pessoais aos seus brinquedos ou animais, como se transferisse uma alma humana a todos os seus objetos, exemplo clássico de raciocínio pré-operatório egocêntrico.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "18"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança de 4 anos manifesta preocupação de que seu ursinho de pelúcia possa sentir solidão e medo quando ela sai de casa, e chuta uma árvore acreditando que ela sentirá dor. Esse comportamento, decorrente do egocentrismo infantil, exemplifica a característica do raciocínio pré-operatório denominada: O animismo é a projeção da criança que estende suas experiências pessoais aos seus brinquedos ou animais, como se transferisse uma alma humana a todos os seus objetos, exemplo clássico de raciocínio pré-operatório egocêntrico."
+    },
+    {
+      "id": "desenv-obj-121",
+      "topic": "Infância",
+      "question": "A tendência da criança pré-operatória de analisar os fatos à luz da percepção imediata, produzindo uma incapacidade de anular uma sequência de raciocínio e voltar ao ponto de partida, é denominada, no material:",
+      "options": {
+        "a": "Irreversibilidade",
+        "b": "Animismo",
+        "c": "Egocentrismo",
+        "d": "Classificação",
+        "e": "Seriação"
+      },
+      "correct": "a",
+      "explanation": "A irreversibilidade é a tendência a analisar os fatos à luz da percepção do imediatismo, o que produz uma incapacidade de chegar a um pensamento sintético sobre a realidade — uma vez usada uma sequência de raciocínio, é impossível anulá-la e voltar ao ponto de partida.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "18"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "A tendência da criança pré-operatória de analisar os fatos à luz da percepção imediata, produzindo uma incapacidade de anular uma sequência de raciocínio e voltar ao ponto de partida, é denominada, no material: A irreversibilidade é a tendência a analisar os fatos à luz da percepção do imediatismo, o que produz uma incapacidade de chegar a um pensamento sintético sobre a realidade — uma vez usada uma sequência de raciocínio, é impossível anulá-la e voltar ao ponto de partida."
+    },
+    {
+      "id": "desenv-obj-122",
+      "topic": "Infância",
+      "question": "Segundo o material, o pensamento da criança, marcado pela irreversibilidade no início da segunda infância, vai se tornando reversível por volta de qual idade?",
+      "options": {
+        "a": "6 anos",
+        "b": "2 anos",
+        "c": "18 meses",
+        "d": "11 anos",
+        "e": "9 meses"
+      },
+      "correct": "a",
+      "explanation": "O pensamento vai se tornando, pouco a pouco, reversível por volta dos 6 anos de idade, o que tornará possível que a criança opere com classes e relações, característico do raciocínio da terceira infância.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "19"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o pensamento da criança, marcado pela irreversibilidade no início da segunda infância, vai se tornando reversível por volta de qual idade? O pensamento vai se tornando, pouco a pouco, reversível por volta dos 6 anos de idade, o que tornará possível que a criança opere com classes e relações, característico do raciocínio da terceira infância."
+    },
+    {
+      "id": "desenv-obj-123",
+      "topic": "Infância",
+      "question": "Na terceira infância, o conceito de classificação é destacado em duas classes ou modos: unidades conceituais isoladas e sistema lógico. Segundo o material, a classificação de natureza operatória (e não apenas semântica), que exige o uso de operações de inclusão e complementação, foi um campo adotado pelos estudos teóricos de:",
+      "options": {
+        "a": "Jean Piaget e seus colaboradores",
+        "b": "Friedrich Fröbel",
+        "c": "Lev Vygotsky exclusivamente",
+        "d": "Sigmund Freud",
+        "e": "Erik Erikson"
+      },
+      "correct": "a",
+      "explanation": "O sistema lógico de classificação foi um campo adotado pelos estudos teóricos de Jean Piaget e seus colaboradores, para os quais a classificação é de natureza operatória, exigindo operações de inclusão e complementação, e não apenas o domínio semântico das palavras.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "19"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil",
+      "miniLesson": "Na terceira infância, o conceito de classificação é destacado em duas classes ou modos: unidades conceituais isoladas e sistema lógico. Segundo o material, a classificação de natureza operatória (e não apenas semântica), que exige o uso de operações de inclusão e complementação, foi um campo adotado pelos estudos teóricos de: O sistema lógico de classificação foi um campo adotado pelos estudos teóricos de Jean Piaget e seus colaboradores, para os quais a classificação é de natureza operatória, exigindo operações de inclusão e complementação, e não apenas o domínio semântico das palavras."
+    },
+    {
+      "id": "desenv-obj-124",
+      "topic": "Infância",
+      "question": "A operação de seriação, alcançada ao final da terceira infância, consiste em:",
+      "options": {
+        "a": "A ordenação de elementos, respeitando-se as grandezas crescentes ou decrescentes",
+        "b": "A capacidade de fingir situações imaginárias, típica do jogo de faz-de-conta",
+        "c": "A atribuição de uma alma humana a objetos inanimados",
+        "d": "A incapacidade de reverter uma sequência de raciocínio",
+        "e": "A tendência a ver o mundo apenas pelo próprio ponto de vista"
+      },
+      "correct": "a",
+      "explanation": "A seriação consiste na ordenação de elementos, respeitando-se as grandezas crescentes ou decrescentes; por exemplo, a criança se torna capaz de deduzir o tamanho de qualquer elemento de uma série de bonecos sabendo o comprimento de um deles e as proporções de diferença entre eles.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "19"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "A operação de seriação, alcançada ao final da terceira infância, consiste em: A seriação consiste na ordenação de elementos, respeitando-se as grandezas crescentes ou decrescentes; por exemplo, a criança se torna capaz de deduzir o tamanho de qualquer elemento de uma série de bonecos sabendo o comprimento de um deles e as proporções de diferença entre eles."
+    },
+    {
+      "id": "desenv-obj-125",
+      "topic": "Infância",
+      "question": "Segundo o material, na fala inicial da criança, a partir dos 14 meses de vida, é comum o uso de falas simplificadas que dizem o suficiente para enviar a mensagem, como no exemplo 'Não tomar leite!'. Esse tipo de fala é denominado:",
+      "options": {
+        "a": "Fala telegráfica",
+        "b": "Fala egocêntrica",
+        "c": "Fala interior",
+        "d": "Fala hipotético-dedutiva",
+        "e": "Fala pós-convencional"
+      },
+      "correct": "a",
+      "explanation": "As crianças simplificam e se utilizam de falas telegráficas para poder se comunicar e dizer o suficiente para enviar sua mensagem, como no exemplo 'Não tomar leite!'.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "29"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na fala inicial da criança, a partir dos 14 meses de vida, é comum o uso de falas simplificadas que dizem o suficiente para enviar a mensagem, como no exemplo 'Não tomar leite!'. Esse tipo de fala é denominado: As crianças simplificam e se utilizam de falas telegráficas para poder se comunicar e dizer o suficiente para enviar sua mensagem, como no exemplo 'Não tomar leite!'."
+    },
+    {
+      "id": "desenv-obj-126",
+      "topic": "Infância",
+      "question": "Segundo Papalia, Olds e Feldman (2006), aos 2 anos de idade, as crianças são capazes de reproduzir mais de 200 palavras; e aos 2 anos e 6 meses, esse número sobe para mais de:",
+      "options": {
+        "a": "500 palavras",
+        "b": "50 palavras",
+        "c": "1.000 palavras",
+        "d": "100 palavras",
+        "e": "2.000 palavras"
+      },
+      "correct": "a",
+      "explanation": "Aos 2 anos de idade, as crianças são capazes de reproduzir mais de 200 palavras, e aos 2 anos e 6 meses, mais de 500 palavras.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "29"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia, Olds e Feldman (2006), aos 2 anos de idade, as crianças são capazes de reproduzir mais de 200 palavras; e aos 2 anos e 6 meses, esse número sobe para mais de: Aos 2 anos de idade, as crianças são capazes de reproduzir mais de 200 palavras, e aos 2 anos e 6 meses, mais de 500 palavras."
+    },
+    {
+      "id": "desenv-obj-127",
+      "topic": "Infância",
+      "question": "Segundo o material, durante a idade escolar (considerada entre 6 e 11 anos), ocorre um significativo crescimento cognitivo que promove na criança maior compreensão sobre as emoções dos outros e as suas próprias. Esse crescimento emocional se expressa, especialmente, com:",
+      "options": {
+        "a": "O autocontrole das emoções negativas",
+        "b": "O desaparecimento total das emoções negativas",
+        "c": "A perda completa do vínculo com a família",
+        "d": "A incapacidade de se relacionar com pares da mesma idade",
+        "e": "O retorno ao egocentrismo característico da primeira infância"
+      },
+      "correct": "a",
+      "explanation": "Durante a idade escolar, o crescimento cognitivo promove maior compreensão das emoções próprias e alheias, gerando os primeiros passos para maior controle emocional, que se expressa especialmente pelo autocontrole das emoções negativas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "30"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, durante a idade escolar (considerada entre 6 e 11 anos), ocorre um significativo crescimento cognitivo que promove na criança maior compreensão sobre as emoções dos outros e as suas próprias. Esse crescimento emocional se expressa, especialmente, com: Durante a idade escolar, o crescimento cognitivo promove maior compreensão das emoções próprias e alheias, gerando os primeiros passos para maior controle emocional, que se expressa especialmente pelo autocontrole das emoções negativas."
+    },
+    {
+      "id": "desenv-obj-128",
+      "topic": "Adolescência",
+      "question": "Segundo Moragas (1970), qual é a relação entre puberdade e adolescência?",
+      "options": {
+        "a": "Não existe uma relação de causa-efeito entre elas, embora possam ocorrer ao mesmo tempo",
+        "b": "A adolescência sempre causa a puberdade",
+        "c": "A puberdade é uma consequência direta e obrigatória da adolescência",
+        "d": "São exatamente o mesmo fenômeno, apenas com nomes diferentes",
+        "e": "A puberdade só pode ocorrer após o término completo da adolescência"
+      },
+      "correct": "a",
+      "explanation": "Segundo Moragas (1970), não existe uma relação de causa-efeito entre puberdade e adolescência, mesmo que as duas possam ocorrer ao mesmo tempo; a puberdade, mudança repentina nas estruturas físicas e bioquímicas, pode ser precedida, acompanhada ou seguida de um período adolescente. Mesmo sem o evento biológico da puberdade, a adolescência não deixa de se manifestar no indivíduo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "3"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Moragas (1970), qual é a relação entre puberdade e adolescência? Segundo Moragas (1970), não existe uma relação de causa-efeito entre puberdade e adolescência, mesmo que as duas possam ocorrer ao mesmo tempo; a puberdade, mudança repentina nas estruturas físicas e bioquímicas, pode ser precedida, acompanhada ou seguida de um período adolescente. Mesmo sem o evento biológico da puberdade, a adolescência não deixa de se manifestar no indivíduo."
+    },
+    {
+      "id": "desenv-obj-129",
+      "topic": "Adolescência",
+      "question": "O que se entende por 'tendência secular' no estabelecimento da puberdade, segundo Papalia et al. (2009)?",
+      "options": {
+        "a": "A diminuição da idade em que a puberdade se inicia ao longo de diversas gerações",
+        "b": "O aumento constante da idade de início da puberdade a cada século",
+        "c": "A ausência de qualquer variação histórica na idade da puberdade",
+        "d": "Uma tendência religiosa específica de determinadas culturas",
+        "e": "A estabilização definitiva da idade puberal em todas as populações do mundo"
+      },
+      "correct": "a",
+      "explanation": "A tendência secular é uma tendência que inclui diversas gerações e se refere à diminuição da idade em que a puberdade se inicia, ou seja, os jovens estão alcançando a estatura adulta e a maturidade sexual cada vez mais cedo, provavelmente em razão da melhora no padrão de vida da sociedade.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "4"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "O que se entende por 'tendência secular' no estabelecimento da puberdade, segundo Papalia et al. (2009)? A tendência secular é uma tendência que inclui diversas gerações e se refere à diminuição da idade em que a puberdade se inicia, ou seja, os jovens estão alcançando a estatura adulta e a maturidade sexual cada vez mais cedo, provavelmente em razão da melhora no padrão de vida da sociedade."
+    },
+    {
+      "id": "desenv-obj-130",
+      "topic": "Adolescência",
+      "question": "Segundo Papalia et al. (2009), qual é a idade mediana de entrada na puberdade para os meninos?",
+      "options": {
+        "a": "12 anos, podendo variar entre 9 e 16 anos",
+        "b": "18 anos, sem qualquer variação",
+        "c": "6 anos",
+        "d": "20 anos",
+        "e": "3 anos"
+      },
+      "correct": "a",
+      "explanation": "A idade mediana dos meninos para a entrada na puberdade é 12 anos, mas eles podem começar a apresentar mudanças entre 9 e 16 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "4"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo Papalia et al. (2009), qual é a idade mediana de entrada na puberdade para os meninos? A idade mediana dos meninos para a entrada na puberdade é 12 anos, mas eles podem começar a apresentar mudanças entre 9 e 16 anos."
+    },
+    {
+      "id": "desenv-obj-131",
+      "topic": "Adolescência",
+      "question": "Entre os caracteres sexuais secundários que surgem na puberdade dos meninos, segundo o material, estão:",
+      "options": {
+        "a": "Aumento da largura dos ombros, modificação no timbre da voz, crescimento do pênis e dos testículos e primeira ejaculação",
+        "b": "Exclusivamente o aumento dos quadris",
+        "c": "Exclusivamente o desenvolvimento das glândulas mamárias",
+        "d": "A menarca",
+        "e": "Nenhuma alteração física perceptível"
+      },
+      "correct": "a",
+      "explanation": "Nos meninos, a puberdade é marcada pelo aumento da largura dos ombros, modificação no timbre da voz, aparecimento de pelos no rosto, axilas e região pubiana, crescimento do pênis e dos testículos e surgimento da primeira ejaculação.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "5"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Entre os caracteres sexuais secundários que surgem na puberdade dos meninos, segundo o material, estão: Nos meninos, a puberdade é marcada pelo aumento da largura dos ombros, modificação no timbre da voz, aparecimento de pelos no rosto, axilas e região pubiana, crescimento do pênis e dos testículos e surgimento da primeira ejaculação."
+    },
+    {
+      "id": "desenv-obj-132",
+      "topic": "Adolescência",
+      "question": "Nas meninas, a primeira menstruação, marco importante da puberdade, é denominada:",
+      "options": {
+        "a": "Menarca",
+        "b": "Puerpério",
+        "c": "Andropausa",
+        "d": "Efebia",
+        "e": "Moratória"
+      },
+      "correct": "a",
+      "explanation": "Nas meninas, a puberdade é marcada, entre outras características, pelo surgimento da primeira menstruação, chamada menarca, além do aumento dos quadris, desenvolvimento das glândulas mamárias e aparecimento de pelos na região pubiana.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "5"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo",
+      "miniLesson": "Nas meninas, a primeira menstruação, marco importante da puberdade, é denominada: Nas meninas, a puberdade é marcada, entre outras características, pelo surgimento da primeira menstruação, chamada menarca, além do aumento dos quadris, desenvolvimento das glândulas mamárias e aparecimento de pelos na região pubiana."
+    },
+    {
+      "id": "desenv-obj-133",
+      "topic": "Adolescência",
+      "question": "Segundo o material, na puberdade, os testículos dos rapazes aumentam a fabricação de androgênios, principalmente um hormônio que estimula o crescimento dos genitais masculinos, da massa muscular e dos pelos do corpo. Esse hormônio é a:",
+      "options": {
+        "a": "Testosterona",
+        "b": "Progesterona",
+        "c": "Ocitocina",
+        "d": "Insulina",
+        "e": "Melatonina"
+      },
+      "correct": "a",
+      "explanation": "Nos rapazes, os testículos aumentam a fabricação de androgênios, principalmente a testosterona, hormônio que estimula o crescimento dos genitais masculinos, da massa muscular e dos pelos do corpo.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "5"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, na puberdade, os testículos dos rapazes aumentam a fabricação de androgênios, principalmente um hormônio que estimula o crescimento dos genitais masculinos, da massa muscular e dos pelos do corpo. Esse hormônio é a: Nos rapazes, os testículos aumentam a fabricação de androgênios, principalmente a testosterona, hormônio que estimula o crescimento dos genitais masculinos, da massa muscular e dos pelos do corpo."
+    },
+    {
+      "id": "desenv-obj-134",
+      "topic": "Adolescência",
+      "question": "Nas moças, segundo o material, os ovários aumentam na puberdade com a produção de um hormônio responsável pelo aumento dos genitais femininos e desenvolvimento dos seios. Esse hormônio é o:",
+      "options": {
+        "a": "Estrogênio",
+        "b": "Testosterona",
+        "c": "Cortisol",
+        "d": "Adrenalina",
+        "e": "Glucagon"
+      },
+      "correct": "a",
+      "explanation": "Nas moças, os hormônios são muito importantes no processo de desenvolvimento: os ovários aumentam com a produção de estrogênio, hormônio que também está associado ao aumento dos genitais femininos e ao desenvolvimento dos seios.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "5"
+      },
+      "subject": "Adolescência",
+      "difficulty": "baixo",
+      "miniLesson": "Nas moças, segundo o material, os ovários aumentam na puberdade com a produção de um hormônio responsável pelo aumento dos genitais femininos e desenvolvimento dos seios. Esse hormônio é o: Nas moças, os hormônios são muito importantes no processo de desenvolvimento: os ovários aumentam com a produção de estrogênio, hormônio que também está associado ao aumento dos genitais femininos e ao desenvolvimento dos seios."
+    },
+    {
+      "id": "desenv-obj-135",
+      "topic": "Adolescência",
+      "question": "Um exemplo de ritual de passagem relacionado à idade citado no material, realizado na cultura judaica aos 13 anos, é:",
+      "options": {
+        "a": "As cerimônias de bar mitzvah (menino) e bat mitzvah (menina)",
+        "b": "O ritual apache de celebração da menarca",
+        "c": "A efebia grega",
+        "d": "A emancipação civil brasileira",
+        "e": "O alistamento militar"
+      },
+      "correct": "a",
+      "explanation": "As cerimônias de bar mitzvah (menino) e bat mitzvah (menina), na cultura judaica, marcam o ritual de chegada aos 13 anos, quando os jovens assumem a responsabilidade de seguir a fé em observância religiosa tradicional.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "6"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Um exemplo de ritual de passagem relacionado à idade citado no material, realizado na cultura judaica aos 13 anos, é: As cerimônias de bar mitzvah (menino) e bat mitzvah (menina), na cultura judaica, marcam o ritual de chegada aos 13 anos, quando os jovens assumem a responsabilidade de seguir a fé em observância religiosa tradicional."
+    },
+    {
+      "id": "desenv-obj-136",
+      "topic": "Adolescência",
+      "question": "No direito brasileiro, o ato que faz com que pessoas se tornem capazes na esfera civil antes de completar 18 anos é denominado:",
+      "options": {
+        "a": "Emancipação",
+        "b": "Efebia",
+        "c": "Moratória",
+        "d": "Menarca",
+        "e": "Puerpério"
+      },
+      "correct": "a",
+      "explanation": "A palavra 'emancipação' significa a libertação ou independência de alguém; no direito brasileiro, a emancipação é o ato que faz com que pessoas se tornem capazes na esfera civil antes de completar 18 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "No direito brasileiro, o ato que faz com que pessoas se tornem capazes na esfera civil antes de completar 18 anos é denominado: A palavra 'emancipação' significa a libertação ou independência de alguém; no direito brasileiro, a emancipação é o ato que faz com que pessoas se tornem capazes na esfera civil antes de completar 18 anos."
+    },
+    {
+      "id": "desenv-obj-137",
+      "topic": "Adolescência",
+      "question": "Segundo Schoen-Ferreira e Aznar-Farias (2010), na Grécia Clássica, as crianças moravam no gineceu até completarem 7 anos. Sobre a adolescência nesse período histórico, é correto afirmar que:",
+      "options": {
+        "a": "Não existia adolescência como fase delimitada; a maioridade era atingida aos 18 anos, com entrada na efebia",
+        "b": "A adolescência era exatamente igual à concepção contemporânea",
+        "c": "Meninos e meninas recebiam a mesma educação em todas as fases da vida",
+        "d": "A adolescência durava até os 40 anos",
+        "e": "A maioridade era atingida aos 7 anos"
+      },
+      "correct": "a",
+      "explanation": "Na Grécia Clássica, não existia adolescência como fase delimitada; a maioridade era atingida aos 18 anos, quando o jovem entrava para a efebia — tempo de aprendizado de valores morais e religiosos para se tornar cidadão.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Schoen-Ferreira e Aznar-Farias (2010), na Grécia Clássica, as crianças moravam no gineceu até completarem 7 anos. Sobre a adolescência nesse período histórico, é correto afirmar que: Na Grécia Clássica, não existia adolescência como fase delimitada; a maioridade era atingida aos 18 anos, quando o jovem entrava para a efebia — tempo de aprendizado de valores morais e religiosos para se tornar cidadão."
+    },
+    {
+      "id": "desenv-obj-138",
+      "topic": "Adolescência",
+      "question": "Na Roma Antiga, segundo o material, a criança vivia uma passagem para um novo estágio aos 12 anos, trocando as vestes infantis pelas dos adultos assim que chegava a puberdade. Sobre esse período, é correto afirmar que:",
+      "options": {
+        "a": "Não existia o conceito de maioridade nesse período",
+        "b": "O conceito de maioridade era idêntico ao da Grécia Clássica",
+        "c": "As meninas só podiam se casar após os 25 anos",
+        "d": "Não havia qualquer marco de passagem entre infância e vida adulta",
+        "e": "A puberdade não tinha qualquer relevância social em Roma"
+      },
+      "correct": "a",
+      "explanation": "Na Roma Antiga, a criança aos 12 anos vivia uma passagem para um novo estágio, tanto para meninos quanto para meninas, trocando as vestes infantis pelas dos adultos assim que chegava a puberdade; as meninas eram preparadas para se casar com no máximo 14 anos. Nesse período não existia o conceito de maioridade.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Na Roma Antiga, segundo o material, a criança vivia uma passagem para um novo estágio aos 12 anos, trocando as vestes infantis pelas dos adultos assim que chegava a puberdade. Sobre esse período, é correto afirmar que: Na Roma Antiga, a criança aos 12 anos vivia uma passagem para um novo estágio, tanto para meninos quanto para meninas, trocando as vestes infantis pelas dos adultos assim que chegava a puberdade; as meninas eram preparadas para se casar com no máximo 14 anos. Nesse período não existia o conceito de maioridade."
+    },
+    {
+      "id": "desenv-obj-139",
+      "topic": "Adolescência",
+      "question": "Na Idade Média, foram resgatadas as ideias de Platão sobre os ciclos da vida contados de 7 em 7 anos. Segundo essa divisão, a terceira idade correspondia à adolescência e ia de:",
+      "options": {
+        "a": "14 a 21 anos",
+        "b": "0 a 7 anos",
+        "c": "7 a 14 anos",
+        "d": "28 a 50 anos",
+        "e": "50 anos em diante"
+      },
+      "correct": "a",
+      "explanation": "Na Idade Média, foram resgatadas as ideias de Platão sobre os ciclos da vida contados de 7 em 7 anos: primeira idade, infância (enfant), de 0 a 7 anos; segunda idade, puertitia, de 7 a 14 anos; terceira idade, adolescência, de 14 a 21 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Na Idade Média, foram resgatadas as ideias de Platão sobre os ciclos da vida contados de 7 em 7 anos. Segundo essa divisão, a terceira idade correspondia à adolescência e ia de: Na Idade Média, foram resgatadas as ideias de Platão sobre os ciclos da vida contados de 7 em 7 anos: primeira idade, infância (enfant), de 0 a 7 anos; segunda idade, puertitia, de 7 a 14 anos; terceira idade, adolescência, de 14 a 21 anos."
+    },
+    {
+      "id": "desenv-obj-140",
+      "topic": "Adolescência",
+      "question": "Segundo o material, o Iluminismo, no século XVIII, trouxe uma importante mudança na concepção da adolescência, que foi:",
+      "options": {
+        "a": "A formação de um sentimento e de um tempo de adolescência, com o nascimento de uma importância de proteção moral de crianças e jovens",
+        "b": "A extinção completa do conceito de infância",
+        "c": "A redução da adolescência a zero anos de duração",
+        "d": "A eliminação de qualquer distinção entre criança e adulto",
+        "e": "A criação do conceito de emancipação civil"
+      },
+      "correct": "a",
+      "explanation": "O tempo novo do Iluminismo oferece a formação de um sentimento e de um tempo de adolescência no século XVIII, nascendo um sentido e uma importância de proteção moral das crianças e dos jovens.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "8"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Iluminismo, no século XVIII, trouxe uma importante mudança na concepção da adolescência, que foi: O tempo novo do Iluminismo oferece a formação de um sentimento e de um tempo de adolescência no século XVIII, nascendo um sentido e uma importância de proteção moral das crianças e dos jovens."
+    },
+    {
+      "id": "desenv-obj-141",
+      "topic": "Adolescência",
+      "question": "Segundo o material, no decorrer do século XX, qual década foi particularmente marcada por mobilizações e uma frequente contestação social envolvendo jovens?",
+      "options": {
+        "a": "A década de 60",
+        "b": "A década de 20",
+        "c": "A década de 80",
+        "d": "A década de 40",
+        "e": "A década de 10"
+      },
+      "correct": "a",
+      "explanation": "No decorrer do século XX, a década de 60 foi muito impactada por mobilizações e uma frequente contestação social, reforçando a percepção da adolescência como fenômeno social e etapa crítica.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "8"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no decorrer do século XX, qual década foi particularmente marcada por mobilizações e uma frequente contestação social envolvendo jovens? No decorrer do século XX, a década de 60 foi muito impactada por mobilizações e uma frequente contestação social, reforçando a percepção da adolescência como fenômeno social e etapa crítica."
+    },
+    {
+      "id": "desenv-obj-142",
+      "topic": "Adolescência",
+      "question": "Segundo Rocha, Faria e Pio (2009), sobre a adolescência no século XXI, é correto afirmar que:",
+      "options": {
+        "a": "As famílias atuais são menos repressoras e existe um diálogo mais humano e amistoso, mas a adolescência contemporânea tende a se prolongar, com menor autonomia financeira",
+        "b": "Os jovens atuais atingem independência financeira mais cedo do que em qualquer outra época",
+        "c": "Não existe mais qualquer diferença entre adolescentes e adultos na sociedade atual",
+        "d": "As famílias contemporâneas são muito mais repressoras do que há 30 anos",
+        "e": "A tecnologia eliminou completamente a busca de individualidade dos adolescentes"
+      },
+      "correct": "a",
+      "explanation": "Segundo as autoras, as famílias atualmente são menos repressoras, possibilitando uma convivência mais humana e amistosa; contudo, a sociedade contemporânea identifica uma adolescência prolongada, pois os jovens permanecem mais tempo com os pais, têm maior acúmulo de estudo e, mesmo com idade biológica de adulto, muitas vezes não possuem independência financeira nem emprego.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "9"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Rocha, Faria e Pio (2009), sobre a adolescência no século XXI, é correto afirmar que: Segundo as autoras, as famílias atualmente são menos repressoras, possibilitando uma convivência mais humana e amistosa; contudo, a sociedade contemporânea identifica uma adolescência prolongada, pois os jovens permanecem mais tempo com os pais, têm maior acúmulo de estudo e, mesmo com idade biológica de adulto, muitas vezes não possuem independência financeira nem emprego."
+    },
+    {
+      "id": "desenv-obj-143",
+      "topic": "Adolescência",
+      "question": "Segundo Carvalho (2015), a fase da baixa adolescência (adolescência inicial), que inclui a puberdade, é marcada, entre outras características, por:",
+      "options": {
+        "a": "Absorção da atenção e energias pela problemática narcisista, com o outro sexo percebido como perigoso",
+        "b": "Total independência em relação à família",
+        "c": "Ausência completa de interesse pelo próprio corpo",
+        "d": "Interesse já consolidado pelo sexo oposto",
+        "e": "Escolha vocacional definitiva"
+      },
+      "correct": "a",
+      "explanation": "Na baixa adolescência, a atenção e as energias do adolescente são inicialmente absorvidas pela problemática narcisista — reestruturação do esquema corporal e conquista da identidade; o outro sexo é percebido como perigoso, e o adolescente se relaciona mais com indivíduos do mesmo sexo, embora a família continue central em sua vida.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "12"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Carvalho (2015), a fase da baixa adolescência (adolescência inicial), que inclui a puberdade, é marcada, entre outras características, por: Na baixa adolescência, a atenção e as energias do adolescente são inicialmente absorvidas pela problemática narcisista — reestruturação do esquema corporal e conquista da identidade; o outro sexo é percebido como perigoso, e o adolescente se relaciona mais com indivíduos do mesmo sexo, embora a família continue central em sua vida."
+    },
+    {
+      "id": "desenv-obj-144",
+      "topic": "Adolescência",
+      "question": "Segundo Carvalho (2015), a fase da adolescência propriamente dita, entre 12-13 e 16 anos, caracteriza-se, entre outros aspectos, por:",
+      "options": {
+        "a": "Construção da identidade sexual definitiva, interesse pelo sexo oposto e distanciamento afetivo da família, com frequentes atos de rebeldia",
+        "b": "Ausência total de interesse por relacionamentos sociais",
+        "c": "Manutenção da família como único centro de referência, sem qualquer busca de autonomia",
+        "d": "Estabilidade emocional plena, sem qualquer conflito com os pais",
+        "e": "Retorno ao comportamento típico da segunda infância"
+      },
+      "correct": "a",
+      "explanation": "Na adolescência propriamente dita (12-13 a 16 anos), constrói-se a identidade sexual definitiva e desenvolve-se a identidade pessoal; há interesse pelo sexo oposto, formação de grupos heterossexuais e um distanciamento afetivo da família, sendo frequentes os atos de rebeldia na tentativa de se tornar independente dos pais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "13"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Carvalho (2015), a fase da adolescência propriamente dita, entre 12-13 e 16 anos, caracteriza-se, entre outros aspectos, por: Na adolescência propriamente dita (12-13 a 16 anos), constrói-se a identidade sexual definitiva e desenvolve-se a identidade pessoal; há interesse pelo sexo oposto, formação de grupos heterossexuais e um distanciamento afetivo da família, sendo frequentes os atos de rebeldia na tentativa de se tornar independente dos pais."
+    },
+    {
+      "id": "desenv-obj-145",
+      "topic": "Adolescência",
+      "question": "O final do período adolescente, segundo o material, é difícil de ser situado no tempo, variando conforme critérios como inserção no mundo do trabalho e responsabilidade legal. Essa fase é caracterizada, sobretudo, como o período:",
+      "options": {
+        "a": "Da escolha e da decisão vocacional",
+        "b": "Exclusivo do egocentrismo infantil",
+        "c": "Do período sensório-motor",
+        "d": "Da menarca",
+        "e": "Da efebia grega"
+      },
+      "correct": "a",
+      "explanation": "O final do período adolescente é uma fase de consolidação e ensaio de modos de vida e de relacionamento com os demais, sendo o período da escolha e da decisão vocacional — a escolha de uma carreira ou profissão é um dos problemas mais importantes da existência humana nessa fase.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "13"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "O final do período adolescente, segundo o material, é difícil de ser situado no tempo, variando conforme critérios como inserção no mundo do trabalho e responsabilidade legal. Essa fase é caracterizada, sobretudo, como o período: O final do período adolescente é uma fase de consolidação e ensaio de modos de vida e de relacionamento com os demais, sendo o período da escolha e da decisão vocacional — a escolha de uma carreira ou profissão é um dos problemas mais importantes da existência humana nessa fase."
+    },
+    {
+      "id": "desenv-obj-146",
+      "topic": "Adolescência",
+      "question": "Segundo Papalia et al. (2009), o estágio das operações formais de Piaget, alcançado geralmente em torno dos 11 anos, oferece à cognição do adolescente um modo novo e mais flexível de manipular informações. Nesse estágio, os adolescentes tornam-se capazes de, entre outras coisas:",
+      "options": {
+        "a": "Utilizar símbolos para representar outros símbolos, como X e Y em equações matemáticas, e compreender melhor metáforas e alegorias",
+        "b": "Apenas reconhecer rostos familiares",
+        "c": "Compreender exclusivamente conceitos concretos, sem qualquer abstração",
+        "d": "Perder a capacidade de generalização típica da infância",
+        "e": "Reproduzir reflexos subcorticais"
+      },
+      "correct": "a",
+      "explanation": "No estágio das operações formais, os adolescentes são capazes de compreender o tempo histórico e o espaço extraterrestre, utilizar símbolos para representar outros símbolos (como X e Y nas equações), aprender álgebra e cálculo, compreender melhor metáforas e alegorias, e imaginar possibilidades e gerar hipóteses.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "14"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia et al. (2009), o estágio das operações formais de Piaget, alcançado geralmente em torno dos 11 anos, oferece à cognição do adolescente um modo novo e mais flexível de manipular informações. Nesse estágio, os adolescentes tornam-se capazes de, entre outras coisas: No estágio das operações formais, os adolescentes são capazes de compreender o tempo histórico e o espaço extraterrestre, utilizar símbolos para representar outros símbolos (como X e Y nas equações), aprender álgebra e cálculo, compreender melhor metáforas e alegorias, e imaginar possibilidades e gerar hipóteses."
+    },
+    {
+      "id": "desenv-obj-147",
+      "topic": "Adolescência",
+      "question": "No clássico problema do pêndulo de Piaget, o adolescente no estágio das operações formais é capaz de abordar o problema de maneira sistemática, testando hipóteses até determinar que apenas um fator determina a rapidez de oscilação do pêndulo. Esse fator é:",
+      "options": {
+        "a": "O comprimento do fio",
+        "b": "A cor do objeto pendurado",
+        "c": "O material da mesa",
+        "d": "A temperatura ambiente",
+        "e": "O horário do experimento"
+      },
+      "correct": "a",
+      "explanation": "No problema do pêndulo, por meio do raciocínio hipotético-dedutivo, o adolescente é capaz de montar um experimento sistemático e determinar que apenas um fator — o comprimento do fio — determina a rapidez de oscilação do pêndulo, entre os quatro fatores possíveis (comprimento do fio, peso do objeto, altura de soltura e força de empurrão).",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "15-16"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "No clássico problema do pêndulo de Piaget, o adolescente no estágio das operações formais é capaz de abordar o problema de maneira sistemática, testando hipóteses até determinar que apenas um fator determina a rapidez de oscilação do pêndulo. Esse fator é: No problema do pêndulo, por meio do raciocínio hipotético-dedutivo, o adolescente é capaz de montar um experimento sistemático e determinar que apenas um fator — o comprimento do fio — determina a rapidez de oscilação do pêndulo, entre os quatro fatores possíveis (comprimento do fio, peso do objeto, altura de soltura e força de empurrão)."
+    },
+    {
+      "id": "desenv-obj-148",
+      "topic": "Adolescência",
+      "question": "Segundo Piaget, a mudança do estágio das operações concretas para o estágio das operações formais resulta de um misto de dois elementos, que são:",
+      "options": {
+        "a": "Maturação cerebral e expansão das oportunidades ambientais, incluindo estimulação escolar e cultural",
+        "b": "Exclusivamente fatores hereditários, sem qualquer influência do ambiente",
+        "c": "Exclusivamente fatores religiosos",
+        "d": "Apenas a vontade individual do adolescente, sem qualquer base biológica",
+        "e": "Exclusivamente o convívio familiar, sem qualquer maturação neurológica"
+      },
+      "correct": "a",
+      "explanation": "Segundo Piaget, a mudança para o estágio das operações formais é resultado de um misto de maturação cerebral e de expansão das oportunidades ambientais; mesmo com o desenvolvimento neurológico que permite o raciocínio formal, os jovens só podem alcançá-lo com estimulação ambiental apropriada, como o esforço cooperativo, a escolaridade e a cultura.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "16"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo Piaget, a mudança do estágio das operações concretas para o estágio das operações formais resulta de um misto de dois elementos, que são: Segundo Piaget, a mudança para o estágio das operações formais é resultado de um misto de maturação cerebral e de expansão das oportunidades ambientais; mesmo com o desenvolvimento neurológico que permite o raciocínio formal, os jovens só podem alcançá-lo com estimulação ambiental apropriada, como o esforço cooperativo, a escolaridade e a cultura."
+    },
+    {
+      "id": "desenv-obj-149",
+      "topic": "Adolescência",
+      "question": "David Elkind, com base no trabalho de Piaget, caracterizou atitudes imaturas dos adolescentes decorrentes de seu pensamento abstrato recém-desenvolvido. Uma delas é a crença de que são especiais, de que sua experiência é única e de que não estão sujeitos às regras que regem o resto do mundo. Essa atitude é denominada:",
+      "options": {
+        "a": "Suposição de invulnerabilidade",
+        "b": "Autoconsciência",
+        "c": "Hipocrisia aparente",
+        "d": "Indecisão",
+        "e": "Tendência a discutir"
+      },
+      "correct": "a",
+      "explanation": "A suposição de invulnerabilidade refere-se à crença dos adolescentes de que são especiais, de que sua experiência é única e de que não estão sujeitos às regras que regem o resto do mundo; segundo Elkind, esse egocentrismo está na base de muitos comportamentos arriscados e autodestrutivos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "17"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "David Elkind, com base no trabalho de Piaget, caracterizou atitudes imaturas dos adolescentes decorrentes de seu pensamento abstrato recém-desenvolvido. Uma delas é a crença de que são especiais, de que sua experiência é única e de que não estão sujeitos às regras que regem o resto do mundo. Essa atitude é denominada: A suposição de invulnerabilidade refere-se à crença dos adolescentes de que são especiais, de que sua experiência é única e de que não estão sujeitos às regras que regem o resto do mundo; segundo Elkind, esse egocentrismo está na base de muitos comportamentos arriscados e autodestrutivos."
+    },
+    {
+      "id": "desenv-obj-150",
+      "topic": "Adolescência",
+      "question": "Segundo Elkind, o 'público imaginário' — um observador mentalmente criado que está muito preocupado com os pensamentos e comportamentos do adolescente — é uma manifestação de qual atitude imatura?",
+      "options": {
+        "a": "Autoconsciência",
+        "b": "Suposição de invulnerabilidade",
+        "c": "Indecisão",
+        "d": "Tendência a discutir",
+        "e": "Encontrar defeitos nas figuras de autoridade"
+      },
+      "correct": "a",
+      "explanation": "A autoconsciência funciona como um público imaginário, um 'observador' mentalmente criado muito preocupado com pensamentos e comportamentos; os adolescentes, muitas vezes, supõem que todo mundo está pensando sobre a mesma coisa que eles — sobre si mesmos. Essa fantasia é particularmente forte nos primeiros anos da adolescência.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "17"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Elkind, o 'público imaginário' — um observador mentalmente criado que está muito preocupado com os pensamentos e comportamentos do adolescente — é uma manifestação de qual atitude imatura? A autoconsciência funciona como um público imaginário, um 'observador' mentalmente criado muito preocupado com pensamentos e comportamentos; os adolescentes, muitas vezes, supõem que todo mundo está pensando sobre a mesma coisa que eles — sobre si mesmos. Essa fantasia é particularmente forte nos primeiros anos da adolescência."
+    },
+    {
+      "id": "desenv-obj-151",
+      "topic": "Adolescência",
+      "question": "No dilema clássico de Kohlberg (1969), Heinz rouba um remédio caro para salvar a esposa doente porque não conseguiu reunir dinheiro suficiente. Esse dilema é utilizado por Kohlberg para investigar:",
+      "options": {
+        "a": "O julgamento moral",
+        "b": "O estágio sensório-motor",
+        "c": "A síndrome da adolescência normal",
+        "d": "A moratória psicossocial",
+        "e": "O egocentrismo infantil"
+      },
+      "correct": "a",
+      "explanation": "O dilema de Heinz foi criado por Kohlberg em 1969 para investigar o desenvolvimento do julgamento moral, avaliando se e por que uma pessoa julga certo ou errado o roubo do remédio pelo marido.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "17"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "No dilema clássico de Kohlberg (1969), Heinz rouba um remédio caro para salvar a esposa doente porque não conseguiu reunir dinheiro suficiente. Esse dilema é utilizado por Kohlberg para investigar: O dilema de Heinz foi criado por Kohlberg em 1969 para investigar o desenvolvimento do julgamento moral, avaliando se e por que uma pessoa julga certo ou errado o roubo do remédio pelo marido."
+    },
+    {
+      "id": "desenv-obj-152",
+      "topic": "Adolescência",
+      "question": "Segundo a teoria de Kohlberg, no Nível I de julgamento moral (moralidade pré-convencional), típico de crianças de 4 a 10 anos, as pessoas agem:",
+      "options": {
+        "a": "Sob controles externos, obedecendo a regras para evitar punição, obter recompensas ou por interesse próprio",
+        "b": "Com base em princípios autônomos de justiça e imparcialidade",
+        "c": "Preocupadas exclusivamente em agradar figuras de autoridade e manter a ordem social",
+        "d": "De forma totalmente independente de qualquer regra externa",
+        "e": "Guiadas apenas por sentimentos religiosos"
+      },
+      "correct": "a",
+      "explanation": "No Nível I (moralidade pré-convencional), típico de crianças de 4 a 10 anos, as pessoas agem sob controles externos: obedecem a regras para evitar punição, para obter recompensas ou por interesse próprio.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "18"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo a teoria de Kohlberg, no Nível I de julgamento moral (moralidade pré-convencional), típico de crianças de 4 a 10 anos, as pessoas agem: No Nível I (moralidade pré-convencional), típico de crianças de 4 a 10 anos, as pessoas agem sob controles externos: obedecem a regras para evitar punição, para obter recompensas ou por interesse próprio."
+    },
+    {
+      "id": "desenv-obj-153",
+      "topic": "Adolescência",
+      "question": "No Nível III de Kohlberg (moralidade pós-convencional), as pessoas reconhecem conflitos entre padrões morais e fazem seus próprios julgamentos com base em princípios de correção, imparcialidade e justiça. Segundo o material, esse nível geralmente é alcançado:",
+      "options": {
+        "a": "Pelo menos no início da adolescência ou, mais comumente, no início da idade adulta, podendo nunca ser atingido",
+        "b": "Sempre antes dos 4 anos de idade",
+        "c": "Obrigatoriamente por todas as pessoas até os 10 anos",
+        "d": "De forma universal e simultânea a qualquer estágio cognitivo",
+        "e": "Apenas por meio de treinamento religioso formal"
+      },
+      "correct": "a",
+      "explanation": "As pessoas geralmente só chegam ao nível de moralidade pós-convencional pelo menos no início da adolescência, mais comumente no início da idade adulta, podendo nunca atingi-lo — fatores como desenvolvimento emocional e experiências de vida também influenciam esse julgamento, além da cognição.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "18"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil",
+      "miniLesson": "No Nível III de Kohlberg (moralidade pós-convencional), as pessoas reconhecem conflitos entre padrões morais e fazem seus próprios julgamentos com base em princípios de correção, imparcialidade e justiça. Segundo o material, esse nível geralmente é alcançado: As pessoas geralmente só chegam ao nível de moralidade pós-convencional pelo menos no início da adolescência, mais comumente no início da idade adulta, podendo nunca atingi-lo — fatores como desenvolvimento emocional e experiências de vida também influenciam esse julgamento, além da cognição."
+    },
+    {
+      "id": "desenv-obj-154",
+      "topic": "Adolescência",
+      "question": "Segundo Papalia et al. (2009), a escola é descrita como a 'experiência organizadora central' na vida acadêmica e social da maioria dos adolescentes porque ela:",
+      "options": {
+        "a": "Oferece oportunidades de adquirir informações, dominar novas habilidades, engajar-se em atividades diversas e explorar opções vocacionais",
+        "b": "Serve exclusivamente para avaliação de conhecimentos técnicos",
+        "c": "Elimina completamente a necessidade de convívio social entre adolescentes",
+        "d": "É irrelevante para a maioria dos jovens dessa faixa etária",
+        "e": "Substitui integralmente o papel da família no desenvolvimento"
+      },
+      "correct": "a",
+      "explanation": "A escola oferece oportunidades para que informações sejam adquiridas, para dominar novas habilidades, para se engajar em atividades esportivas, artísticas e de outra natureza, além de ampliar os horizontes intelectuais e sociais, sendo especialmente relevante para o desejo de explorar opções vocacionais.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "19"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia et al. (2009), a escola é descrita como a 'experiência organizadora central' na vida acadêmica e social da maioria dos adolescentes porque ela: A escola oferece oportunidades para que informações sejam adquiridas, para dominar novas habilidades, para se engajar em atividades esportivas, artísticas e de outra natureza, além de ampliar os horizontes intelectuais e sociais, sendo especialmente relevante para o desejo de explorar opções vocacionais."
+    },
+    {
+      "id": "desenv-obj-155",
+      "topic": "Adolescência",
+      "question": "Segundo Griffa e Moreno (2001), a escolha de uma carreira ou profissão na adolescência exige, entre outros aspectos:",
+      "options": {
+        "a": "O conhecimento das próprias atitudes, interesses e valores, além do autoconhecimento da personalidade, das possibilidades e dos limites",
+        "b": "Exclusivamente a aplicação de testes psicométricos, sem qualquer outro processo",
+        "c": "A decisão exclusiva dos pais, sem participação do adolescente",
+        "d": "Nenhum tipo de preparo ou autoconhecimento prévio",
+        "e": "Apenas a observação do mercado de trabalho, sem qualquer reflexão pessoal"
+      },
+      "correct": "a",
+      "explanation": "A escolha profissional exige o conhecimento das próprias atitudes, interesses e valores, além do autoconhecimento das características da personalidade, possibilidades e limites; a orientação profissional não pode ser reduzida à aplicação de testes, devendo ser um processo longo integrado por pais, docentes e amigos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "19"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Griffa e Moreno (2001), a escolha de uma carreira ou profissão na adolescência exige, entre outros aspectos: A escolha profissional exige o conhecimento das próprias atitudes, interesses e valores, além do autoconhecimento das características da personalidade, possibilidades e limites; a orientação profissional não pode ser reduzida à aplicação de testes, devendo ser um processo longo integrado por pais, docentes e amigos."
+    },
+    {
+      "id": "desenv-obj-156",
+      "topic": "Adolescência",
+      "question": "Segundo Papalia et al. (2009), qual teórico sustentava que as experiências da infância e da adolescência moldavam permanentemente a personalidade em estágios psicossexuais?",
+      "options": {
+        "a": "Freud",
+        "b": "Piaget",
+        "c": "Kohlberg",
+        "d": "Elkind",
+        "e": "Fröbel"
+      },
+      "correct": "a",
+      "explanation": "Segundo Papalia et al. (2009), Freud sustentava que as experiências da infância e da adolescência moldavam permanentemente a personalidade em estágios psicossexuais, enquanto Piaget destacava a importância do desenvolvimento da autonomia cognitiva e Erikson, o desenvolvimento vitalício do ego por meio de crises.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "24"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia et al. (2009), qual teórico sustentava que as experiências da infância e da adolescência moldavam permanentemente a personalidade em estágios psicossexuais? Segundo Papalia et al. (2009), Freud sustentava que as experiências da infância e da adolescência moldavam permanentemente a personalidade em estágios psicossexuais, enquanto Piaget destacava a importância do desenvolvimento da autonomia cognitiva e Erikson, o desenvolvimento vitalício do ego por meio de crises."
+    },
+    {
+      "id": "desenv-obj-157",
+      "topic": "Adolescência",
+      "question": "Segundo Erikson, para formar uma identidade, os adolescentes devem, ao contrário das crianças mais jovens que tomam outras pessoas como modelo:",
+      "options": {
+        "a": "Afirmar e organizar suas habilidades, interesses, necessidades e desejos para que possam ser expressos em um ambiente social",
+        "b": "Copiar integralmente a identidade dos pais, sem qualquer elaboração própria",
+        "c": "Evitar completamente qualquer contato social",
+        "d": "Permanecer fixados na fase da moratória psicossocial para sempre",
+        "e": "Abandonar toda relação com a família de origem"
+      },
+      "correct": "a",
+      "explanation": "Para Erikson, os adolescentes não formam sua própria identidade tomando outras pessoas como modelo, como fazem as crianças mais jovens; para formar uma identidade, devem afirmar e organizar suas habilidades, interesses, necessidades e desejos, expressando-os em um ambiente social.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "24"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Erikson, para formar uma identidade, os adolescentes devem, ao contrário das crianças mais jovens que tomam outras pessoas como modelo: Para Erikson, os adolescentes não formam sua própria identidade tomando outras pessoas como modelo, como fazem as crianças mais jovens; para formar uma identidade, devem afirmar e organizar suas habilidades, interesses, necessidades e desejos, expressando-os em um ambiente social."
+    },
+    {
+      "id": "desenv-obj-158",
+      "topic": "Adolescência",
+      "question": "Segundo Erikson, a identidade se forma a partir da resolução de três questões importantes. São elas:",
+      "options": {
+        "a": "A escolha de uma ocupação, a adoção de valores nos quais acreditar e o desenvolvimento de uma identidade sexual satisfatória",
+        "b": "Exclusivamente a escolha da religião familiar",
+        "c": "Apenas o domínio de habilidades esportivas",
+        "d": "Somente a definição do grupo de amizades",
+        "e": "Exclusivamente a resolução de conflitos com irmãos"
+      },
+      "correct": "a",
+      "explanation": "Efetivamente, a identidade se forma a partir da resolução de três questões importantes: a escolha de uma ocupação, a adoção de valores nos quais acreditar e pautar o próprio viver, e o desenvolvimento de uma identidade sexual satisfatória.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "25"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Erikson, a identidade se forma a partir da resolução de três questões importantes. São elas: Efetivamente, a identidade se forma a partir da resolução de três questões importantes: a escolha de uma ocupação, a adoção de valores nos quais acreditar e pautar o próprio viver, e o desenvolvimento de uma identidade sexual satisfatória."
+    },
+    {
+      "id": "desenv-obj-159",
+      "topic": "Adolescência",
+      "question": "Segundo Elkind, existem duas formas de desenvolver a identidade na adolescência. A forma considerada mais saudável, baseada em um processo de tornar-se consciente das diferenças em relação aos outros e depois integrá-las em um todo unificado, é denominada processo de:",
+      "options": {
+        "a": "Diferenciação e integração",
+        "b": "Substituição",
+        "c": "Colcha de retalhos",
+        "d": "Moratória psicossocial",
+        "e": "Lógica combinatória"
+      },
+      "correct": "a",
+      "explanation": "A primeira forma, mais saudável, é o processo de diferenciação e integração: tornar-se consciente dos muitos aspectos em que se é diferente dos outros e depois integrar essas partes distintivas de si mesmo em um todo unificado e único.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "26"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Elkind, existem duas formas de desenvolver a identidade na adolescência. A forma considerada mais saudável, baseada em um processo de tornar-se consciente das diferenças em relação aos outros e depois integrá-las em um todo unificado, é denominada processo de: A primeira forma, mais saudável, é o processo de diferenciação e integração: tornar-se consciente dos muitos aspectos em que se é diferente dos outros e depois integrar essas partes distintivas de si mesmo em um todo unificado e único."
+    },
+    {
+      "id": "desenv-obj-160",
+      "topic": "Adolescência",
+      "question": "Segundo Elkind, adolescentes cuja identidade se formou principalmente pelo processo de substituição — adotando de forma infantil as atitudes, crenças e comprometimentos de outras pessoas como próprios — tendem a apresentar identidade denominada:",
+      "options": {
+        "a": "Identidade de colcha de retalhos",
+        "b": "Identidade pós-convencional",
+        "c": "Identidade operatória concreta",
+        "d": "Identidade sensório-motora",
+        "e": "Identidade pré-operatória"
+      },
+      "correct": "a",
+      "explanation": "O senso de identidade construído principalmente pelo processo de substituição é o que Elkind chama de identidade de colcha de retalhos — um self construído a partir de pedaços e partes, muitas vezes conflitantes; esses adolescentes tendem a apresentar fraca autoestima e alta vulnerabilidade ao estresse.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "26"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Elkind, adolescentes cuja identidade se formou principalmente pelo processo de substituição — adotando de forma infantil as atitudes, crenças e comprometimentos de outras pessoas como próprios — tendem a apresentar identidade denominada: O senso de identidade construído principalmente pelo processo de substituição é o que Elkind chama de identidade de colcha de retalhos — um self construído a partir de pedaços e partes, muitas vezes conflitantes; esses adolescentes tendem a apresentar fraca autoestima e alta vulnerabilidade ao estresse."
+    },
+    {
+      "id": "desenv-obj-161",
+      "topic": "Adolescência",
+      "question": "Segundo o material, a ideia da 'rebeldia adolescente' como um período universal de 'tormenta e estresse' pode ter nascido na primeira teoria formal da adolescência, elaborada pelo psicólogo:",
+      "options": {
+        "a": "G. Stanley Hall",
+        "b": "Erik Erikson",
+        "c": "David Elkind",
+        "d": "Lawrence Kohlberg",
+        "e": "Maurício Knobel"
+      },
+      "correct": "a",
+      "explanation": "A ideia da rebeldia adolescente pode ter nascido na primeira teoria formal da adolescência, do psicólogo G. Stanley Hall, que acreditava que o esforço de adaptação dos jovens a seus corpos, somado às demandas da idade adulta, promovia um período de 'tormenta e de estresse', produzindo o conflito entre gerações. Contudo, pesquisas sugerem que menos de 20% dos adolescentes se encaixam nesse padrão.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "27"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ideia da 'rebeldia adolescente' como um período universal de 'tormenta e estresse' pode ter nascido na primeira teoria formal da adolescência, elaborada pelo psicólogo: A ideia da rebeldia adolescente pode ter nascido na primeira teoria formal da adolescência, do psicólogo G. Stanley Hall, que acreditava que o esforço de adaptação dos jovens a seus corpos, somado às demandas da idade adulta, promovia um período de 'tormenta e de estresse', produzindo o conflito entre gerações. Contudo, pesquisas sugerem que menos de 20% dos adolescentes se encaixam nesse padrão."
     }
   ],
   "discursive": [
@@ -3671,6 +5145,1032 @@
       },
       "subject": "Parto e período perinatal",
       "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-035",
+      "topic": "Crescimento e desenvolvimento",
+      "question": "Explique, segundo Amaral (2007), a diferença histórica entre os conceitos de 'crescimento' e 'desenvolvimento', a origem dessa separação e como esses conceitos são compreendidos atualmente.",
+      "modelAnswer": "Durante muito tempo, 'crescimento' e 'desenvolvimento' foram tratados como conceitos separados: crescimento se referia aos aspectos físicos e desenvolvimento aos aspectos mentais. Essa separação refletia o pensamento dicotômico que divide mente e corpo, herdado de Descartes. Atualmente, pensadores e cientistas tendem a considerar o crescimento como parte do desenvolvimento, que abrangeria tanto o crescimento orgânico (aumento do tamanho corporal, dependente de fatores intrínsecos genéticos e extrínsecos ambientais como saúde, alimentação e higiene) quanto o desenvolvimento mental, superando a antiga dicotomia.",
+      "keyPoints": [
+        {
+          "text": "Separação histórica: crescimento = físico, desenvolvimento = mental",
+          "weight": 0.3,
+          "keywords": [
+            "crescimento",
+            "desenvolvimento",
+            "separados",
+            "físico",
+            "mental"
+          ]
+        },
+        {
+          "text": "Origem: pensamento dicotômico cartesiano que divide mente e corpo",
+          "weight": 0.3,
+          "keywords": [
+            "Descartes",
+            "dicotômico",
+            "mente",
+            "corpo"
+          ]
+        },
+        {
+          "text": "Visão atual: crescimento como parte integrante do desenvolvimento",
+          "weight": 0.2,
+          "keywords": [
+            "atual",
+            "parte",
+            "integrante",
+            "abrangeria"
+          ]
+        },
+        {
+          "text": "Fatores intrínsecos (genéticos) e extrínsecos (ambientais) influenciam o crescimento",
+          "weight": 0.2,
+          "keywords": [
+            "intrínsecos",
+            "extrínsecos",
+            "genéticos",
+            "ambientais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "5"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-036",
+      "topic": "As três infâncias",
+      "question": "Descreva a divisão etária da infância em primeira, segunda e terceira infância proposta por Papalia, Olds e Feldman (2006), indicando as faixas etárias de cada fase.",
+      "modelAnswer": "Papalia, Olds e Feldman (2006) dividem o ciclo vital em oito períodos, sendo três deles referentes à infância: a primeira infância, do nascimento aos 3 anos, período de intenso desenvolvimento das estruturas e circuitos cerebrais e de aquisição de capacidades fundamentais; a segunda infância, dos 3 aos 6 anos, marcada pela expansão da curiosidade intelectual, aparecimento da função simbólica e formação dos primeiros conceitos; e a terceira infância, dos 6 aos 11 anos, período em que o egocentrismo diminui, o pensamento se torna mais objetivo e a criança aprende os conceitos de distância, tempo, classes, relações e número.",
+      "keyPoints": [
+        {
+          "text": "Primeira infância: 0 a 3 anos",
+          "weight": 0.3,
+          "keywords": [
+            "primeira infância",
+            "0",
+            "3 anos"
+          ]
+        },
+        {
+          "text": "Segunda infância: 3 a 6 anos",
+          "weight": 0.3,
+          "keywords": [
+            "segunda infância",
+            "3",
+            "6 anos"
+          ]
+        },
+        {
+          "text": "Terceira infância: 6 a 11 anos",
+          "weight": 0.3,
+          "keywords": [
+            "terceira infância",
+            "6",
+            "11 anos"
+          ]
+        },
+        {
+          "text": "Cada fase apresenta características cognitivas e físicas próprias",
+          "weight": 0.1,
+          "keywords": [
+            "características",
+            "cognitivas",
+            "físicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "6"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-037",
+      "topic": "Fröbel, Piaget e Vygotsky",
+      "question": "Compare os modelos organicista (Fröbel), histórico-cultural (Vygotsky) e as etapas cognitivas (Piaget) na explicação do desenvolvimento infantil, segundo o material.",
+      "modelAnswer": "Fröbel, criador da ideia de 'jardim de infância', representa o modelo organicista, que entende a criança como um 'ser vivo' cujo desenvolvimento é comandado pela herança genética e maturação do organismo, sendo boa por natureza por ser obra divina. Vygotsky propõe o modelo histórico-cultural, no qual a criança se constitui nas relações sociais: desde o nascimento, ela interage com adultos que buscam incorporá-la à cultura, e esses processos são internalizados por interiorização, tornando a natureza social também natureza psicológica. Piaget, por sua vez, descreve o desenvolvimento infantil por meio de quatro estágios sequenciais (sensório-motor, pré-operatório, operações concretas e operações formais), cada um marcado pelo aparecimento de novas qualidades do pensamento a partir da maturação biológica e da interação com o ambiente.",
+      "keyPoints": [
+        {
+          "text": "Fröbel: modelo organicista, criança como ser vivo/obra divina",
+          "weight": 0.3,
+          "keywords": [
+            "Fröbel",
+            "organicista",
+            "jardim de infância",
+            "obra divina"
+          ]
+        },
+        {
+          "text": "Vygotsky: modelo histórico-cultural, criança constituída nas relações sociais e interiorização",
+          "weight": 0.3,
+          "keywords": [
+            "Vygotsky",
+            "histórico-cultural",
+            "relações sociais",
+            "interiorização"
+          ]
+        },
+        {
+          "text": "Piaget: quatro estágios sequenciais de desenvolvimento cognitivo",
+          "weight": 0.3,
+          "keywords": [
+            "Piaget",
+            "estágios",
+            "sensório-motor",
+            "pré-operatório"
+          ]
+        },
+        {
+          "text": "Cada teoria enfatiza diferentes fatores (biológico, social, cognitivo)",
+          "weight": 0.1,
+          "keywords": [
+            "biológico",
+            "social",
+            "cognitivo",
+            "fatores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "14-16"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-038",
+      "topic": "Segunda infância e cognição",
+      "question": "Explique as três características fundamentais do raciocínio da criança de 2 a 6 anos de idade, segundo o material: egocentrismo, animismo e irreversibilidade.",
+      "modelAnswer": "O raciocínio da criança de 2 a 6 anos apresenta três características fundamentais. O egocentrismo, mais forte dos 2 aos 4 anos, faz com que o raciocínio seja influenciado apenas pelas próprias vontades e desejos da criança, que é insensível a argumentos contrários e tem julgamentos absolutos. O animismo é a projeção que estende as experiências pessoais a brinquedos e animais, como se eles tivessem alma humana — por exemplo, a criança acredita que sua boneca sentirá solidão sozinha em casa. A irreversibilidade é a tendência de analisar os fatos pela percepção imediata, sem conseguir voltar a um pensamento sintético sobre a realidade; uma vez usada uma sequência de raciocínio, é impossível anulá-la. Esse pensamento vai se tornando reversível por volta dos 6 anos.",
+      "keyPoints": [
+        {
+          "text": "Egocentrismo: raciocínio centrado no próprio ponto de vista, dos 2 aos 4 anos",
+          "weight": 0.3,
+          "keywords": [
+            "egocentrismo",
+            "próprio ponto de vista",
+            "absolutos"
+          ]
+        },
+        {
+          "text": "Animismo: atribuição de alma humana a objetos e animais",
+          "weight": 0.3,
+          "keywords": [
+            "animismo",
+            "alma",
+            "brinquedos",
+            "objetos"
+          ]
+        },
+        {
+          "text": "Irreversibilidade: incapacidade de reverter uma sequência de raciocínio",
+          "weight": 0.3,
+          "keywords": [
+            "irreversibilidade",
+            "reverter",
+            "percepção imediata"
+          ]
+        },
+        {
+          "text": "Reversibilidade surge por volta dos 6 anos",
+          "weight": 0.1,
+          "keywords": [
+            "reversível",
+            "6 anos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "18-19"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-039",
+      "topic": "Classificação e seriação",
+      "question": "Descreva os conceitos de classificação (unidades conceituais isoladas e sistema lógico) e seriação, característicos do pensamento na terceira infância.",
+      "modelAnswer": "Na terceira infância, o pensamento passa a usar sistemas logicamente organizados. A classificação pode ocorrer como unidades conceituais isoladas — nomes genéricos baseados em características observáveis como forma, cor e tamanho — ou como sistema lógico, campo estudado por Piaget, no qual a classificação é operatória e exige operações de inclusão e complementação, e não apenas domínio semântico. Somente por volta dos 11 anos a criança consegue confirmar as classes formadas usando o caráter hierárquico de um sistema de inclusão. A seriação, alcançada ao final dessa fase, consiste na ordenação de elementos respeitando grandezas crescentes ou decrescentes, permitindo, por exemplo, deduzir o tamanho de qualquer elemento de uma série conhecendo o comprimento de um deles.",
+      "keyPoints": [
+        {
+          "text": "Classificação por unidades conceituais isoladas: características observáveis",
+          "weight": 0.25,
+          "keywords": [
+            "unidades conceituais",
+            "características observáveis",
+            "forma",
+            "cor"
+          ]
+        },
+        {
+          "text": "Classificação por sistema lógico (Piaget): operações de inclusão e complementação",
+          "weight": 0.3,
+          "keywords": [
+            "sistema lógico",
+            "Piaget",
+            "inclusão",
+            "complementação"
+          ]
+        },
+        {
+          "text": "Hierarquia de classes plenamente compreendida por volta dos 11 anos",
+          "weight": 0.15,
+          "keywords": [
+            "11 anos",
+            "hierárquico"
+          ]
+        },
+        {
+          "text": "Seriação: ordenação de elementos por grandezas crescentes/decrescentes",
+          "weight": 0.3,
+          "keywords": [
+            "seriação",
+            "ordenação",
+            "crescentes",
+            "decrescentes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "19"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-040",
+      "topic": "Marcos do desenvolvimento",
+      "question": "Explique o que são os 'marcos de desenvolvimento' e descreva a origem histórica do Cartão da Criança no Brasil, conforme apresentado no material.",
+      "modelAnswer": "Os marcos de desenvolvimento são referências que permitem identificar a sequência do desenvolvimento infantil por meio de uma observação sistemática dos avanços da criança no tempo; a aquisição de uma habilidade se baseia nas adquiridas previamente, raramente pulando etapas, e constituem a base dos instrumentos de avaliação. No início dos anos 1980, o UNICEF e a OMS lançaram o documento 'Revolução pela Sobrevivência e Desenvolvimento da Criança', bem recebido no Brasil, que na época enfrentava altas taxas de mortalidade infantil ligadas a doenças infecciosas associadas à desnutrição. Em 1984, o Ministério da Saúde publicou uma série de manuais sobre atenção básica à criança de 0 a 5 anos, incluindo uma ficha com os principais marcos do desenvolvimento e orientações a pais e cuidadores, que posteriormente foram incorporados ao Cartão da Criança.",
+      "keyPoints": [
+        {
+          "text": "Marcos: sequência observável e sistemática do desenvolvimento infantil",
+          "weight": 0.25,
+          "keywords": [
+            "marcos",
+            "sequência",
+            "observação sistemática"
+          ]
+        },
+        {
+          "text": "Documento CSDR do UNICEF/OMS nos anos 1980",
+          "weight": 0.25,
+          "keywords": [
+            "UNICEF",
+            "OMS",
+            "1980",
+            "CSDR"
+          ]
+        },
+        {
+          "text": "Contexto brasileiro: alta mortalidade infantil associada à desnutrição",
+          "weight": 0.2,
+          "keywords": [
+            "mortalidade infantil",
+            "desnutrição",
+            "Brasil"
+          ]
+        },
+        {
+          "text": "1984: manuais do Ministério da Saúde originam o Cartão da Criança",
+          "weight": 0.3,
+          "keywords": [
+            "1984",
+            "Ministério da Saúde",
+            "Cartão da Criança"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "23"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-041",
+      "topic": "Fatores de desenvolvimento",
+      "question": "Cite e explique, segundo Amaral (2007), os seis fatores de desenvolvimento infantil apresentados no material.",
+      "modelAnswer": "Amaral (2007) apresenta seis fatores de desenvolvimento. A hereditariedade atua como bagagem genética potencial que pode ou não se desenvolver, dependendo dos demais fatores. O crescimento orgânico permite maior domínio sobre o ambiente e autonomia. O amadurecimento neurofisiológico envolve a formação de sinapses entre os cerca de 100 bilhões de neurônios com que nascemos, promovendo capacidades a partir das interações sociais. O meio ambiente e seus estímulos alteram significativamente os padrões de comportamento, como no caso da estimulação precoce. A desnutrição infantil reduz o crescimento físico e o desempenho intelectual, sendo mais grave e potencialmente irreversível nos dois primeiros anos de vida, embora uma dieta adequada posterior possa gerar crescimento compensatório. Por fim, doenças, estresse e hormônios podem prejudicar o crescimento físico e inibir a liberação do hormônio do crescimento, embora esses efeitos costumem ser superados se não causarem danos permanentes.",
+      "keyPoints": [
+        {
+          "text": "Hereditariedade: bagagem genética potencial",
+          "weight": 0.17,
+          "keywords": [
+            "hereditariedade",
+            "genética",
+            "potencial"
+          ]
+        },
+        {
+          "text": "Crescimento orgânico e amadurecimento neurofisiológico (sinapses)",
+          "weight": 0.17,
+          "keywords": [
+            "crescimento orgânico",
+            "amadurecimento neurofisiológico",
+            "sinapses",
+            "neurônios"
+          ]
+        },
+        {
+          "text": "Meio ambiente: estímulos alteram o comportamento (ex.: estimulação precoce)",
+          "weight": 0.17,
+          "keywords": [
+            "meio ambiente",
+            "estímulos",
+            "estimulação precoce"
+          ]
+        },
+        {
+          "text": "Desnutrição infantil: janela crítica nos 2 primeiros anos; crescimento compensatório",
+          "weight": 0.17,
+          "keywords": [
+            "desnutrição",
+            "crescimento compensatório",
+            "irreversível"
+          ]
+        },
+        {
+          "text": "Doenças, estresse e hormônios: inibição do hormônio do crescimento",
+          "weight": 0.17,
+          "keywords": [
+            "doenças",
+            "estresse",
+            "hormônio do crescimento"
+          ]
+        },
+        {
+          "text": "Todos os fatores interagem entre si no desenvolvimento",
+          "weight": 0.15,
+          "keywords": [
+            "interação",
+            "fatores combinados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "25-26"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-042",
+      "topic": "Marcos sociais e emocionais",
+      "question": "Descreva o marco da aquisição da linguagem na infância e o marco do ingresso na escola (primeiro ano), conforme apresentados no material.",
+      "modelAnswer": "O marco da aquisição da linguagem começa com a fala inicial a partir dos 14 meses, que não é apenas uma versão imatura da fala adulta, mas vai ganhando personalidade própria; as crianças utilizam falas telegráficas para se comunicar, como 'Não tomar leite!'. Aos 2 anos, as crianças reproduzem mais de 200 palavras, e aos 2 anos e 6 meses, mais de 500 palavras; entre 2 e 2 anos e meio, já formam frases de 3 a 4 palavras, ainda com desvios gramaticais. O marco da escola, o ingresso no primeiro ano, é um evento aguardado com uma mistura de alegria e ansiedade, mesmo para quem já frequentou a pré-escola; é considerado um sinal dos avanços internos que possibilitam essa nova condição e prepara as bases para toda a carreira escolar da criança, sendo o boletim do primeiro ano um prognóstico mais preciso do que os resultados em testes iniciais.",
+      "keyPoints": [
+        {
+          "text": "Fala inicial a partir dos 14 meses, com fala telegráfica",
+          "weight": 0.3,
+          "keywords": [
+            "14 meses",
+            "fala telegráfica",
+            "fala inicial"
+          ]
+        },
+        {
+          "text": "Vocabulário: mais de 200 palavras aos 2 anos, mais de 500 aos 2 anos e 6 meses",
+          "weight": 0.25,
+          "keywords": [
+            "200 palavras",
+            "500 palavras",
+            "vocabulário"
+          ]
+        },
+        {
+          "text": "Marco da escola: mistura de alegria e ansiedade no primeiro ano",
+          "weight": 0.25,
+          "keywords": [
+            "primeiro ano",
+            "escola",
+            "alegria",
+            "ansiedade"
+          ]
+        },
+        {
+          "text": "Boletim do primeiro ano como prognóstico da carreira escolar",
+          "weight": 0.2,
+          "keywords": [
+            "boletim",
+            "prognóstico",
+            "carreira escolar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "29"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-043",
+      "topic": "Concepção histórica da infância",
+      "question": "Explique como a infância era compreendida antes do século XVII e como essa concepção começou a mudar a partir desse período, segundo Carvalho (2015).",
+      "modelAnswer": "Até o século XVII, predominava a concepção de que a criança era um 'adulto em miniatura', acreditando-se que seus sentimentos, raciocínio e ações eram semelhantes aos dos adultos — o que se refletia inclusive nas pinturas medievais, que retratavam crianças com proporções corporais adultas. As crianças recebiam cuidados especiais apenas até os sete anos, quando ingressavam na comunidade adulta. Havia forte diferença de classe social: crianças pobres trabalhavam no campo e aprendiam ofícios sem tratamento especial, enquanto em famílias abastadas havia pouca distinção entre infância e idade adulta, com ensino enciclopédico em classes compostas por todas as idades. A partir do século XVII, a educação familiar passou a separar as crianças dos assuntos adultos, o ensino passou a ser graduado por idade, e surgiram pensadores que defendiam que a mente da criança era diferente da mente do adulto — mudança, porém, restrita às classes aristocratas e burguesas, já que a classe baixa manteve a visão secular da infância até o século XIX.",
+      "keyPoints": [
+        {
+          "text": "Antes do séc. XVII: criança vista como 'adulto em miniatura'",
+          "weight": 0.3,
+          "keywords": [
+            "adulto em miniatura",
+            "antes do século XVII"
+          ]
+        },
+        {
+          "text": "Diferença de tratamento conforme classe social",
+          "weight": 0.2,
+          "keywords": [
+            "classes sociais",
+            "trabalho infantil",
+            "abastadas"
+          ]
+        },
+        {
+          "text": "A partir do séc. XVII: separação das crianças dos assuntos adultos, ensino graduado por idade",
+          "weight": 0.3,
+          "keywords": [
+            "século XVII",
+            "educação familiar",
+            "ensino graduado"
+          ]
+        },
+        {
+          "text": "Mudança restrita às classes aristocratas/burguesas até o século XIX",
+          "weight": 0.2,
+          "keywords": [
+            "aristocratas",
+            "burgueses",
+            "classe baixa",
+            "século XIX"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "3-4"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-044",
+      "topic": "Marcos motores do primeiro ano",
+      "question": "Descreva a sequência de marcos do desenvolvimento motor no primeiro ano de vida do bebê, conforme o gráfico apresentado no material.",
+      "modelAnswer": "No primeiro ano de vida, o desenvolvimento motor segue uma sequência de marcos: o recém-nascido apresenta reflexos subcorticais; com 1 mês, segue a luz; aos 2 meses, sorri e balbucia; aos 3 meses, sustenta a cabeça; aos 4 meses, agarra objetos; aos 5 meses, gira sobre o abdômen; aos 6 meses, mantém-se sentado; aos 7 meses, apresenta pressão palmar; aos 8 meses, desenvolve a pinça digital; aos 9 meses, põe-se sentado sozinho; aos 10 meses, engatinha; aos 11 meses, fica de pé e dá passos com apoio; e entre 12 e 14 meses, já caminha sozinho.",
+      "keyPoints": [
+        {
+          "text": "Recém-nascido: reflexos subcorticais; 1 mês: segue a luz",
+          "weight": 0.2,
+          "keywords": [
+            "reflexos subcorticais",
+            "segue a luz"
+          ]
+        },
+        {
+          "text": "2-3 meses: sorri/balbucia; sustenta a cabeça",
+          "weight": 0.2,
+          "keywords": [
+            "sorri",
+            "balbucia",
+            "sustenta a cabeça"
+          ]
+        },
+        {
+          "text": "4-6 meses: agarra objetos, gira sobre o abdômen, mantém-se sentado",
+          "weight": 0.2,
+          "keywords": [
+            "agarra objetos",
+            "gira",
+            "mantém-se sentado"
+          ]
+        },
+        {
+          "text": "7-9 meses: pressão palmar, pinça digital, põe-se sentado",
+          "weight": 0.2,
+          "keywords": [
+            "pressão palmar",
+            "pinça digital"
+          ]
+        },
+        {
+          "text": "10-14 meses: engatinha, dá passos com apoio, caminha só",
+          "weight": 0.2,
+          "keywords": [
+            "engatinha",
+            "caminha só",
+            "passos com apoio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "26"
+      },
+      "subject": "Infância",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-045",
+      "topic": "Puberdade e adolescência",
+      "question": "Explique, com base em Moragas (1970), por que puberdade e adolescência não devem ser consideradas a mesma coisa, mesmo podendo ocorrer simultaneamente.",
+      "modelAnswer": "Moragas (1970) afirma que não existe relação de causa-efeito entre puberdade e adolescência, mesmo que ambas possam ocorrer ao mesmo tempo. A puberdade é uma fase compreendida como uma mudança repentina nas estruturas físicas e bioquímicas, que pode ser precedida, acompanhada ou seguida de um período adolescente. Já a adolescência é uma atitude diante do mundo, da família, dos estudos e dos amigos, que se manifesta independentemente de a puberdade ocorrer ou não biologicamente — para Moragas, ser adolescente é 'estar no mundo de outra maneira'.",
+      "keyPoints": [
+        {
+          "text": "Não há relação de causa-efeito entre puberdade e adolescência",
+          "weight": 0.35,
+          "keywords": [
+            "causa-efeito",
+            "Moragas",
+            "não há relação"
+          ]
+        },
+        {
+          "text": "Puberdade: mudança repentina nas estruturas físicas e bioquímicas",
+          "weight": 0.3,
+          "keywords": [
+            "puberdade",
+            "estruturas físicas",
+            "bioquímicas"
+          ]
+        },
+        {
+          "text": "Adolescência se manifesta mesmo sem o evento biológico da puberdade",
+          "weight": 0.35,
+          "keywords": [
+            "adolescência",
+            "manifesta",
+            "sem puberdade",
+            "estar no mundo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "3"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-046",
+      "topic": "Mudanças físicas da puberdade",
+      "question": "Descreva as principais mudanças físicas que caracterizam a puberdade em meninos e em meninas, segundo o material.",
+      "modelAnswer": "Nos meninos, a puberdade é marcada pelo aumento da largura dos ombros, modificação no timbre da voz, aparecimento de pelos no rosto, axilas e região pubiana, crescimento do pênis e dos testículos e o surgimento da primeira ejaculação. Nas meninas, ocorre o aumento dos quadris, o desenvolvimento das glândulas mamárias, o aparecimento de pelos na região pubiana e o surgimento da menarca (primeira menstruação). Esses processos são impulsionados pela produção de estrogênio nas moças e testosterona nos rapazes, e o início da puberdade costuma ocorrer cerca de dois a três anos mais cedo nas meninas.",
+      "keyPoints": [
+        {
+          "text": "Meninos: ombros, voz, pelos, crescimento genital, primeira ejaculação",
+          "weight": 0.35,
+          "keywords": [
+            "meninos",
+            "ombros",
+            "voz",
+            "ejaculação"
+          ]
+        },
+        {
+          "text": "Meninas: quadris, mamas, pelos pubianos, menarca",
+          "weight": 0.35,
+          "keywords": [
+            "meninas",
+            "quadris",
+            "mamas",
+            "menarca"
+          ]
+        },
+        {
+          "text": "Hormônios: estrogênio nas moças, testosterona nos rapazes",
+          "weight": 0.2,
+          "keywords": [
+            "estrogênio",
+            "testosterona"
+          ]
+        },
+        {
+          "text": "Puberdade inicia mais cedo nas meninas (2-3 anos)",
+          "weight": 0.1,
+          "keywords": [
+            "mais cedo",
+            "meninas",
+            "2 a 3 anos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "4-5"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-047",
+      "topic": "Adolescência ao longo da história",
+      "question": "Compare a concepção de adolescência na Grécia Clássica, na Roma Antiga e na Idade Média, segundo Schoen-Ferreira e Aznar-Farias (2010).",
+      "modelAnswer": "Na Grécia Clássica, não existia adolescência como fase delimitada: as crianças moravam no gineceu até os 7 anos, e a maioridade era atingida aos 18 anos com a entrada na efebia, período de aprendizado de valores morais e cívicos. Na Roma Antiga, a criança vivia uma passagem para um novo estágio aos 12 anos, trocando as vestes infantis pelas dos adultos assim que a puberdade chegava, sem que existisse o conceito de maioridade. Na Idade Média, com o surgimento das comunidades feudais, foram resgatadas as ideias de Platão sobre ciclos de 7 em 7 anos: infância (enfant) de 0 a 7 anos, puertitia de 7 a 14 anos, e adolescência de 14 a 21 anos, seguidas de juventude, fase adulta e velhice.",
+      "keyPoints": [
+        {
+          "text": "Grécia Clássica: sem adolescência delimitada, maioridade aos 18 (efebia)",
+          "weight": 0.35,
+          "keywords": [
+            "Grécia",
+            "efebia",
+            "18 anos",
+            "sem adolescência"
+          ]
+        },
+        {
+          "text": "Roma Antiga: passagem aos 12 anos, sem conceito de maioridade",
+          "weight": 0.3,
+          "keywords": [
+            "Roma",
+            "12 anos",
+            "sem maioridade"
+          ]
+        },
+        {
+          "text": "Idade Média: ciclos platônicos de 7 em 7 anos (enfant, puertitia, adolescência)",
+          "weight": 0.35,
+          "keywords": [
+            "Idade Média",
+            "Platão",
+            "7 em 7",
+            "puertitia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-048",
+      "topic": "Fases da adolescência",
+      "question": "Descreva as três fases da adolescência propostas por Carvalho (2015): baixa adolescência, adolescência propriamente dita e o final do período.",
+      "modelAnswer": "Na baixa adolescência (adolescência inicial), que inclui a puberdade (11-12 anos nas meninas, 12-13 nos meninos), a atenção do jovem é absorvida pela problemática narcisista — reestruturação do esquema corporal e conquista da identidade — o outro sexo é percebido como perigoso, e a família ainda é o centro da vida do adolescente. Na adolescência propriamente dita (12-13 a 16 anos), constrói-se a identidade sexual definitiva, surge o interesse pelo sexo oposto e ocorre um distanciamento afetivo da família, com frequentes atos de rebeldia na busca de independência. No final do período, difícil de situar no tempo, consolidam-se as etapas anteriores, e o adolescente vive a fase de escolha e decisão vocacional, preparando-se para as responsabilidades da vida adulta.",
+      "keyPoints": [
+        {
+          "text": "Baixa adolescência: problemática narcisista, outro sexo como perigoso",
+          "weight": 0.3,
+          "keywords": [
+            "baixa adolescência",
+            "narcisista",
+            "perigoso"
+          ]
+        },
+        {
+          "text": "Adolescência propriamente dita: identidade sexual, distanciamento da família, rebeldia",
+          "weight": 0.35,
+          "keywords": [
+            "identidade sexual",
+            "distanciamento",
+            "rebeldia"
+          ]
+        },
+        {
+          "text": "Final do período: consolidação, escolha vocacional",
+          "weight": 0.35,
+          "keywords": [
+            "final do período",
+            "escolha vocacional",
+            "consolidação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "12-13"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-049",
+      "topic": "Teoria de Elkind: consequências cognitivas",
+      "question": "Explique as três capacidades cognitivas descritas por Elkind como consequências do desenvolvimento cognitivo do adolescente segundo Piaget: lógica combinatória, introspecção e construção de ideias.",
+      "modelAnswer": "Elkind descreve três consequências do desenvolvimento cognitivo piagetiano na adolescência. A capacidade de lidar com a lógica combinatória permite ao adolescente resolver problemas com muitos fatores ao mesmo tempo, embora tenha dificuldade em decidir entre alternativas, não aceitando mais passivamente as escolhas dos pais. A capacidade de usar a introspecção permite encarar o próprio pensamento como objeto de reflexão, tornando o adolescente mais flexível com duplos sentidos, mas também gerando preocupação com a reação dos outros e a criação de disfarces sociais. A capacidade de construir ideias permite pensar em uma família, religião ou sociedade ideais, podendo levar à crítica da realidade em que vive.",
+      "keyPoints": [
+        {
+          "text": "Lógica combinatória: resolver problemas com muitos fatores, dificuldade em decidir",
+          "weight": 0.3,
+          "keywords": [
+            "lógica combinatória",
+            "muitos fatores",
+            "decidir"
+          ]
+        },
+        {
+          "text": "Introspecção: pensar sobre o próprio pensamento, preocupação com reação dos outros",
+          "weight": 0.35,
+          "keywords": [
+            "introspecção",
+            "próprio pensamento",
+            "disfarces sociais"
+          ]
+        },
+        {
+          "text": "Construir ideias: pensar em ideais (família, religião, sociedade), crítica à realidade",
+          "weight": 0.35,
+          "keywords": [
+            "construir ideias",
+            "ideal",
+            "crítica",
+            "realidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "25-26"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-050",
+      "topic": "Julgamento moral de Kohlberg",
+      "question": "Descreva os três níveis de julgamento moral propostos por Kohlberg (moralidade pré-convencional, convencional e pós-convencional), indicando suas idades típicas.",
+      "modelAnswer": "Kohlberg estabelece três níveis de julgamento moral. No Nível I, moralidade pré-convencional, típico de crianças de 4 a 10 anos, as pessoas agem sob controles externos, obedecendo regras para evitar punição, obter recompensas ou por interesse próprio. No Nível II, moralidade convencional, geralmente alcançado após os 10 anos (podendo persistir por toda a vida adulta), as pessoas internalizam os padrões das figuras de autoridade, preocupando-se em ser 'boas' e em manter a ordem social. No Nível III, moralidade pós-convencional, as pessoas reconhecem conflitos entre padrões morais e fazem julgamentos próprios baseados em princípios de correção, imparcialidade e justiça — nível geralmente alcançado apenas no início da adolescência ou, mais comumente, no início da idade adulta, podendo nunca ser atingido.",
+      "keyPoints": [
+        {
+          "text": "Nível I (pré-convencional): controles externos, 4 a 10 anos",
+          "weight": 0.3,
+          "keywords": [
+            "nível I",
+            "pré-convencional",
+            "4 a 10 anos"
+          ]
+        },
+        {
+          "text": "Nível II (convencional): internalização de padrões de autoridade, após os 10 anos",
+          "weight": 0.3,
+          "keywords": [
+            "nível II",
+            "convencional",
+            "autoridade"
+          ]
+        },
+        {
+          "text": "Nível III (pós-convencional): princípios próprios de justiça, adolescência/idade adulta",
+          "weight": 0.3,
+          "keywords": [
+            "nível III",
+            "pós-convencional",
+            "justiça",
+            "princípios"
+          ]
+        },
+        {
+          "text": "Nem todos alcançam o nível pós-convencional",
+          "weight": 0.1,
+          "keywords": [
+            "nunca atingir",
+            "podendo nunca"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "17-18"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-051",
+      "topic": "Teoria psicossocial de Erikson",
+      "question": "Explique o conceito de 'moratória psicossocial' de Erikson e as três questões cuja resolução forma a identidade do adolescente.",
+      "modelAnswer": "Para Erikson, a adolescência é um período nomeado como 'moratória psicossocial': um tempo em que o indivíduo pode se preparar para a autonomia, ainda recebendo apoio, orientação e proteção da família, sem ser tão exigido socialmente quanto um adulto, podendo ensaiar modos de viver e testar suas capacidades e limites antes de assumir compromissos definitivos com a vida adulta. A crise de identidade raramente se resolve por completo na adolescência, reaparecendo ao longo da vida adulta. A identidade se forma a partir da resolução de três questões: a escolha de uma ocupação, a adoção de valores nos quais acreditar e pautar o próprio viver, e o desenvolvimento de uma identidade sexual satisfatória; o grau de fidelidade dos jovens a esses comprometimentos influencia sua capacidade de resolver a crise de identidade.",
+      "keyPoints": [
+        {
+          "text": "Moratória psicossocial: período de adiamento com apoio familiar, antes dos compromissos adultos",
+          "weight": 0.35,
+          "keywords": [
+            "moratória psicossocial",
+            "adiamento",
+            "apoio familiar"
+          ]
+        },
+        {
+          "text": "Crise de identidade raramente se resolve plenamente na adolescência",
+          "weight": 0.2,
+          "keywords": [
+            "crise de identidade",
+            "raramente se resolve"
+          ]
+        },
+        {
+          "text": "Três questões: escolha ocupacional, valores, identidade sexual",
+          "weight": 0.35,
+          "keywords": [
+            "ocupação",
+            "valores",
+            "identidade sexual"
+          ]
+        },
+        {
+          "text": "Fidelidade aos comprometimentos influencia resolução da crise",
+          "weight": 0.1,
+          "keywords": [
+            "fidelidade",
+            "comprometimentos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "24-25"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-052",
+      "topic": "Amizades na adolescência",
+      "question": "Explique as características das amizades na adolescência, segundo Papalia et al. (2009), e sua relação com a adaptação psicológica.",
+      "modelAnswer": "As amizades são fundamentalmente diferentes dos relacionamentos familiares: são mais igualitárias, baseadas em escolha e comprometimento, e por isso mais instáveis do que os laços familiares. O tempo passado com amigos é provavelmente maior na adolescência do que em qualquer outra época da vida. As amizades adolescentes tornam-se mais recíprocas, envolvendo lealdade e compartilhamento de confidências — características da amizade adulta. A intimidade com amigos do mesmo sexo aumenta durante a adolescência e depois diminui à medida que a intimidade com o sexo oposto cresce. Adolescentes com amizades próximas, estáveis e apoiadoras geralmente têm opinião favorável sobre si mesmos, saem-se bem na escola, são sociáveis e tendem a não ser hostis, ansiosos ou deprimidos.",
+      "keyPoints": [
+        {
+          "text": "Amizades: mais igualitárias e instáveis que relações familiares",
+          "weight": 0.3,
+          "keywords": [
+            "igualitárias",
+            "instáveis",
+            "escolha"
+          ]
+        },
+        {
+          "text": "Maior reciprocidade, lealdade e compartilhamento de confidências",
+          "weight": 0.3,
+          "keywords": [
+            "recíprocas",
+            "lealdade",
+            "confidências"
+          ]
+        },
+        {
+          "text": "Intimidade com mesmo sexo aumenta e depois diminui com o crescimento da intimidade com sexo oposto",
+          "weight": 0.2,
+          "keywords": [
+            "mesmo sexo",
+            "sexo oposto",
+            "intimidade"
+          ]
+        },
+        {
+          "text": "Relação entre amizades estáveis e boa adaptação psicológica",
+          "weight": 0.2,
+          "keywords": [
+            "adaptação psicológica",
+            "autoestima",
+            "sociáveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "28"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-053",
+      "topic": "Desenvolvimento psicossocial positivo",
+      "question": "Quais são os três principais ingredientes para o desenvolvimento psicossocial bem-sucedido na adolescência, segundo o material?",
+      "modelAnswer": "O material aponta três ingredientes principais para o desenvolvimento psicossocial bem-sucedido na adolescência: um ambiente familiar em que os pais sejam responsivos e apoiem a necessidade de individuação do adolescente; o envolvimento em uma rede social de pares de sexo oposto e do mesmo sexo que estejam em uma trajetória de desenvolvimento psicossocial saudável; e oportunidades para experimentar e explorar novas responsabilidades e relacionamentos. A responsividade, nesse contexto, refere-se a atitudes compreensivas que, por meio do apoio emocional e da bidirecionalidade na comunicação, favorecem o desenvolvimento da autonomia e da autoafirmação.",
+      "keyPoints": [
+        {
+          "text": "Ambiente familiar responsivo que apoia a individuação",
+          "weight": 0.35,
+          "keywords": [
+            "ambiente familiar",
+            "responsivo",
+            "individuação"
+          ]
+        },
+        {
+          "text": "Rede social de pares em trajetória saudável",
+          "weight": 0.3,
+          "keywords": [
+            "rede social",
+            "pares",
+            "trajetória saudável"
+          ]
+        },
+        {
+          "text": "Oportunidades de explorar novas responsabilidades e relacionamentos",
+          "weight": 0.25,
+          "keywords": [
+            "oportunidades",
+            "responsabilidades",
+            "relacionamentos"
+          ]
+        },
+        {
+          "text": "Responsividade: apoio emocional e comunicação bidirecional",
+          "weight": 0.1,
+          "keywords": [
+            "responsividade",
+            "apoio emocional",
+            "bidirecionalidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "29"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-054",
+      "topic": "Características da síndrome da adolescência normal",
+      "question": "Descreva quatro das dez características da síndrome da adolescência normal apresentadas por Amaral (2007): necessidade de intelectualizar e fantasiar, crises religiosas, deslocamento temporal e contradições sucessivas na conduta.",
+      "modelAnswer": "A necessidade de intelectualizar e fantasiar surge porque a realidade das mudanças e a perda do corpo infantil geram desamparo, levando o adolescente a recorrer ao pensamento e a elaborar 'teorias' sobre o mundo, com preocupações éticas, morais e sociais. As crises religiosas se manifestam em uma conduta que pode variar do total ateísmo ao fervor religioso ou fanatismo, decorrente dos questionamentos identitários do adolescente. O deslocamento temporal reflete a dificuldade do adolescente em adiar suas urgências, já que ainda não domina plenamente as noções de passado, presente e futuro, que vão se consolidando à medida que elabora suas perdas. As contradições sucessivas na conduta ocorrem porque o adolescente, com personalidade permeável e absorvente, não consegue manter uma linha de conduta rígida, refletindo uma resposta a atitudes adultas para as quais ainda não está plenamente capacitado.",
+      "keyPoints": [
+        {
+          "text": "Necessidade de intelectualizar/fantasiar: pensamento como compensação do desamparo",
+          "weight": 0.25,
+          "keywords": [
+            "intelectualizar",
+            "fantasiar",
+            "teorias"
+          ]
+        },
+        {
+          "text": "Crises religiosas: variação de ateísmo a fanatismo, ligada à busca identitária",
+          "weight": 0.25,
+          "keywords": [
+            "crises religiosas",
+            "ateísmo",
+            "fanatismo"
+          ]
+        },
+        {
+          "text": "Deslocamento temporal: dificuldade em adiar urgências, noção de tempo em formação",
+          "weight": 0.25,
+          "keywords": [
+            "deslocamento temporal",
+            "passado",
+            "presente",
+            "futuro"
+          ]
+        },
+        {
+          "text": "Contradições sucessivas: personalidade permeável, conduta flutuante",
+          "weight": 0.25,
+          "keywords": [
+            "contradições",
+            "conduta flutuante",
+            "permeável"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "35"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -4870,6 +7370,832 @@
       "subject": "Parto e período perinatal",
       "difficulty": "medio",
       "miniLesson": "Como a pobreza pode afetar negativamente a gestação? Expõe algumas mulheres à má nutrição durante a gestação, o que pode levar a baixo ganho de peso do bebê."
+    },
+    {
+      "id": "desenv-oral-036",
+      "topic": "Infância",
+      "question": "O que significa dizer que o crescimento é influenciado por fatores intrínsecos e extrínsecos?",
+      "modelAnswer": "Fatores intrínsecos ocorrem nos processos genéticos — o potencial hereditário de crescimento existente em todo ser humano. Fatores extrínsecos ocorrem nos processos ambientais, como saúde, alimentação, habitação, higiene e cuidados gerais, que suportam a curva de crescimento esperada na infância. O potencial genético só se realiza plenamente quando os fatores extrínsecos são favoráveis.",
+      "keyPoints": [
+        {
+          "text": "Fatores intrínsecos: processos genéticos",
+          "weight": 0.4,
+          "keywords": [
+            "intrínsecos",
+            "genéticos",
+            "hereditário"
+          ]
+        },
+        {
+          "text": "Fatores extrínsecos: processos ambientais (saúde, alimentação, higiene)",
+          "weight": 0.4,
+          "keywords": [
+            "extrínsecos",
+            "ambientais",
+            "alimentação",
+            "higiene"
+          ]
+        },
+        {
+          "text": "Interação entre os dois tipos de fatores no crescimento real",
+          "weight": 0.2,
+          "keywords": [
+            "interação",
+            "potencial",
+            "realiza"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "5"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "O que significa dizer que o crescimento é influenciado por fatores intrínsecos e extrínsecos? Fatores intrínsecos ocorrem nos processos genéticos — o potencial hereditário de crescimento existente em todo ser humano. Fatores extrínsecos ocorrem nos processos ambientais, como saúde, alimentação, habitação, higiene e cuidados gerais, que suportam a curva de crescimento esperada na infância. O potencial genético só se realiza plenamente quando os fatores extrínsecos são favoráveis."
+    },
+    {
+      "id": "desenv-oral-037",
+      "topic": "Infância",
+      "question": "Quais são as três infâncias segundo Papalia, Olds e Feldman (2006), e suas respectivas faixas etárias?",
+      "modelAnswer": "A primeira infância vai do nascimento aos 3 anos, a segunda infância dos 3 aos 6 anos, e a terceira infância dos 6 aos 11 anos. Essa divisão em três fases, em vez de apenas duas, permite destacar melhor a janela de oportunidade de crescimento e desenvolvimento nos primeiros anos de vida.",
+      "keyPoints": [
+        {
+          "text": "Primeira infância: 0 a 3 anos",
+          "weight": 0.35,
+          "keywords": [
+            "primeira infância",
+            "0",
+            "3 anos"
+          ]
+        },
+        {
+          "text": "Segunda infância: 3 a 6 anos",
+          "weight": 0.35,
+          "keywords": [
+            "segunda infância",
+            "3",
+            "6 anos"
+          ]
+        },
+        {
+          "text": "Terceira infância: 6 a 11 anos",
+          "weight": 0.3,
+          "keywords": [
+            "terceira infância",
+            "6",
+            "11 anos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "6"
+      },
+      "subject": "Infância",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três infâncias segundo Papalia, Olds e Feldman (2006), e suas respectivas faixas etárias? A primeira infância vai do nascimento aos 3 anos, a segunda infância dos 3 aos 6 anos, e a terceira infância dos 6 aos 11 anos. Essa divisão em três fases, em vez de apenas duas, permite destacar melhor a janela de oportunidade de crescimento e desenvolvimento nos primeiros anos de vida."
+    },
+    {
+      "id": "desenv-oral-038",
+      "topic": "Infância",
+      "question": "Explique o marco da aquisição da fala por volta dos dezoito meses, segundo Carvalho (2015).",
+      "modelAnswer": "Por volta dos dezoito meses, quando a criança começa a falar, ela já usa as palavras em uma sequência adequada e segue uma regra gramatical, mesmo sem instrução formal. Por exemplo, uma criança com sede dirá 'qué aca' (quero água) e não 'aca qué', mostrando que já compreende uma ordem gramatical mínima, apesar de simplificar a pronúncia.",
+      "keyPoints": [
+        {
+          "text": "Por volta dos 18 meses a criança já segue regra gramatical na fala",
+          "weight": 0.5,
+          "keywords": [
+            "18 meses",
+            "regra gramatical",
+            "sequência adequada"
+          ]
+        },
+        {
+          "text": "Exemplo: 'qué aca' em vez de 'aca qué'",
+          "weight": 0.3,
+          "keywords": [
+            "qué aca",
+            "exemplo"
+          ]
+        },
+        {
+          "text": "Fatores biológicos e ambientais influenciam essa aquisição",
+          "weight": 0.2,
+          "keywords": [
+            "biológicos",
+            "ambientais",
+            "aquisição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "7-8"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Explique o marco da aquisição da fala por volta dos dezoito meses, segundo Carvalho (2015). Por volta dos dezoito meses, quando a criança começa a falar, ela já usa as palavras em uma sequência adequada e segue uma regra gramatical, mesmo sem instrução formal. Por exemplo, uma criança com sede dirá 'qué aca' (quero água) e não 'aca qué', mostrando que já compreende uma ordem gramatical mínima, apesar de simplificar a pronúncia."
+    },
+    {
+      "id": "desenv-oral-039",
+      "topic": "Infância",
+      "question": "O que caracteriza o desenvolvimento motor da segunda infância (3 a 6 anos)?",
+      "modelAnswer": "Entre 3 e 6 anos, as crianças conquistam grandes avanços nas habilidades motoras gerais: conseguem correr e pular com mais força e coordenação, andar de triciclo e utilizar tesoura, graças ao desenvolvimento dos músculos maiores, dos ossos e da capacidade aeróbica. Também surge a preferência pelo uso das mãos (lateralidade), geralmente evidente aos 3 anos.",
+      "keyPoints": [
+        {
+          "text": "Avanços em correr, pular e coordenação motora grossa",
+          "weight": 0.35,
+          "keywords": [
+            "correr",
+            "pular",
+            "coordenação"
+          ]
+        },
+        {
+          "text": "Andar de triciclo e usar tesoura (músculos maiores)",
+          "weight": 0.35,
+          "keywords": [
+            "triciclo",
+            "tesoura",
+            "músculos maiores"
+          ]
+        },
+        {
+          "text": "Surgimento da preferência lateral por volta dos 3 anos",
+          "weight": 0.3,
+          "keywords": [
+            "lateralidade",
+            "preferência das mãos",
+            "3 anos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "8-9"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o desenvolvimento motor da segunda infância (3 a 6 anos)? Entre 3 e 6 anos, as crianças conquistam grandes avanços nas habilidades motoras gerais: conseguem correr e pular com mais força e coordenação, andar de triciclo e utilizar tesoura, graças ao desenvolvimento dos músculos maiores, dos ossos e da capacidade aeróbica. Também surge a preferência pelo uso das mãos (lateralidade), geralmente evidente aos 3 anos."
+    },
+    {
+      "id": "desenv-oral-040",
+      "topic": "Infância",
+      "question": "Explique o modelo organicista de Fröbel para o desenvolvimento infantil.",
+      "modelAnswer": "Fröbel, pedagogo alemão criador do 'jardim de infância', representava o modelo organicista, que entende a criança não como uma máquina, mas como um 'ser vivo', um organismo biológico cujo desenvolvimento é comandado pela herança genética e pela maturação do organismo. Com fortes traços religiosos, Fröbel acreditava que as crianças, como obras divinas, seriam sempre boas por natureza, e defendia que fossem educadas com atividades que respeitassem sua natureza para desenvolver plenamente suas potencialidades.",
+      "keyPoints": [
+        {
+          "text": "Fröbel: criador do 'jardim de infância'",
+          "weight": 0.25,
+          "keywords": [
+            "Fröbel",
+            "jardim de infância"
+          ]
+        },
+        {
+          "text": "Modelo organicista: criança como 'ser vivo', não como máquina",
+          "weight": 0.35,
+          "keywords": [
+            "organicista",
+            "ser vivo",
+            "não é máquina"
+          ]
+        },
+        {
+          "text": "Herança genética e maturação comandam o desenvolvimento",
+          "weight": 0.2,
+          "keywords": [
+            "herança genética",
+            "maturação"
+          ]
+        },
+        {
+          "text": "Traço religioso: criança como obra divina, boa por natureza",
+          "weight": 0.2,
+          "keywords": [
+            "obra divina",
+            "boa por natureza",
+            "religioso"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "14"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Explique o modelo organicista de Fröbel para o desenvolvimento infantil. Fröbel, pedagogo alemão criador do 'jardim de infância', representava o modelo organicista, que entende a criança não como uma máquina, mas como um 'ser vivo', um organismo biológico cujo desenvolvimento é comandado pela herança genética e pela maturação do organismo. Com fortes traços religiosos, Fröbel acreditava que as crianças, como obras divinas, seriam sempre boas por natureza, e defendia que fossem educadas com atividades que respeitassem sua natureza para desenvolver plenamente suas potencialidades."
+    },
+    {
+      "id": "desenv-oral-041",
+      "topic": "Infância",
+      "question": "Como Vygotsky compreende o papel das relações sociais no desenvolvimento da criança?",
+      "modelAnswer": "Para Vygotsky, a criança não é uma máquina nem um organismo vivo isolado, mas um ser que se constitui nas relações sociais. Desde o nascimento, ela interage com adultos que buscam incorporá-la à cultura; à medida que cresce, esses processos são internalizados por interiorização, de modo que a natureza social das pessoas se torna também sua natureza psicológica. É por meio das relações sociais que se originam as formas superiores dos comportamentos humanos.",
+      "keyPoints": [
+        {
+          "text": "Criança como ser constituído nas relações sociais",
+          "weight": 0.4,
+          "keywords": [
+            "relações sociais",
+            "constitui"
+          ]
+        },
+        {
+          "text": "Interação com adultos desde o nascimento, incorporação à cultura",
+          "weight": 0.3,
+          "keywords": [
+            "adultos",
+            "cultura",
+            "nascimento"
+          ]
+        },
+        {
+          "text": "Interiorização: natureza social torna-se natureza psicológica",
+          "weight": 0.3,
+          "keywords": [
+            "interiorização",
+            "natureza social",
+            "natureza psicológica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "15"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Como Vygotsky compreende o papel das relações sociais no desenvolvimento da criança? Para Vygotsky, a criança não é uma máquina nem um organismo vivo isolado, mas um ser que se constitui nas relações sociais. Desde o nascimento, ela interage com adultos que buscam incorporá-la à cultura; à medida que cresce, esses processos são internalizados por interiorização, de modo que a natureza social das pessoas se torna também sua natureza psicológica. É por meio das relações sociais que se originam as formas superiores dos comportamentos humanos."
+    },
+    {
+      "id": "desenv-oral-042",
+      "topic": "Infância",
+      "question": "O que caracteriza o período pré-operatório de Piaget, dos 2 aos 7 anos?",
+      "modelAnswer": "O período pré-operatório é marcado pelo aparecimento da linguagem, que acelera a comunicação e o surgimento do pensamento. A criança transforma a realidade em função de suas fantasias e desejos. No final desse período, inicia-se a famosa fase dos 'porquês', quando o pensamento começa a se adaptar ao real e a criança passa a precisar de explicações constantes dos adultos.",
+      "keyPoints": [
+        {
+          "text": "Aparecimento da linguagem acelera pensamento e comunicação",
+          "weight": 0.4,
+          "keywords": [
+            "linguagem",
+            "comunicação",
+            "pensamento"
+          ]
+        },
+        {
+          "text": "Realidade transformada por fantasias e desejos",
+          "weight": 0.3,
+          "keywords": [
+            "fantasias",
+            "desejos",
+            "realidade"
+          ]
+        },
+        {
+          "text": "Fase dos 'porquês' ao final do período",
+          "weight": 0.3,
+          "keywords": [
+            "porquês",
+            "explicações"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "17"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o período pré-operatório de Piaget, dos 2 aos 7 anos? O período pré-operatório é marcado pelo aparecimento da linguagem, que acelera a comunicação e o surgimento do pensamento. A criança transforma a realidade em função de suas fantasias e desejos. No final desse período, inicia-se a famosa fase dos 'porquês', quando o pensamento começa a se adaptar ao real e a criança passa a precisar de explicações constantes dos adultos."
+    },
+    {
+      "id": "desenv-oral-043",
+      "topic": "Infância",
+      "question": "Explique a diferença entre a classificação por unidades conceituais isoladas e a classificação por sistema lógico, na terceira infância.",
+      "modelAnswer": "A classificação por unidades conceituais isoladas usa nomes genéricos para agrupar objetos ou pessoas a partir de características observáveis, como forma, cor, tamanho ou posição — é uma classificação mais concreta e semântica. Já a classificação por sistema lógico, estudada por Piaget, é de natureza operatória: exige que a criança use operações de inclusão e complementação para organizar mentalmente o mundo, e não apenas o domínio do significado das palavras, sendo plenamente alcançada por volta dos 11 anos.",
+      "keyPoints": [
+        {
+          "text": "Unidades conceituais: nomes genéricos por características observáveis",
+          "weight": 0.4,
+          "keywords": [
+            "unidades conceituais",
+            "características observáveis"
+          ]
+        },
+        {
+          "text": "Sistema lógico (Piaget): operações de inclusão e complementação",
+          "weight": 0.4,
+          "keywords": [
+            "sistema lógico",
+            "Piaget",
+            "inclusão",
+            "complementação"
+          ]
+        },
+        {
+          "text": "Plena consolidação por volta dos 11 anos",
+          "weight": 0.2,
+          "keywords": [
+            "11 anos",
+            "consolidação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "19"
+      },
+      "subject": "Infância",
+      "difficulty": "dificil",
+      "miniLesson": "Explique a diferença entre a classificação por unidades conceituais isoladas e a classificação por sistema lógico, na terceira infância. A classificação por unidades conceituais isoladas usa nomes genéricos para agrupar objetos ou pessoas a partir de características observáveis, como forma, cor, tamanho ou posição — é uma classificação mais concreta e semântica. Já a classificação por sistema lógico, estudada por Piaget, é de natureza operatória: exige que a criança use operações de inclusão e complementação para organizar mentalmente o mundo, e não apenas o domínio do significado das palavras, sendo plenamente alcançada por volta dos 11 anos."
+    },
+    {
+      "id": "desenv-oral-044",
+      "topic": "Infância",
+      "question": "Qual é a importância do marco do ingresso no primeiro ano escolar para a criança?",
+      "modelAnswer": "O ingresso no primeiro ano é um marco aguardado com uma mistura de alegria e ansiedade, mesmo por crianças que já frequentaram a pré-escola. É um sinal dos avanços internos que possibilitam essa nova condição e uma experiência que prepara as bases para toda a carreira escolar da criança. O boletim do primeiro ano é considerado, inclusive, um prognóstico mais preciso do desempenho futuro do que os resultados de testes iniciais.",
+      "keyPoints": [
+        {
+          "text": "Mistura de alegria e ansiedade no ingresso escolar",
+          "weight": 0.35,
+          "keywords": [
+            "alegria",
+            "ansiedade",
+            "primeiro ano"
+          ]
+        },
+        {
+          "text": "Marco que prepara as bases da carreira escolar",
+          "weight": 0.35,
+          "keywords": [
+            "carreira escolar",
+            "bases"
+          ]
+        },
+        {
+          "text": "Boletim do primeiro ano como prognóstico",
+          "weight": 0.3,
+          "keywords": [
+            "boletim",
+            "prognóstico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "29"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a importância do marco do ingresso no primeiro ano escolar para a criança? O ingresso no primeiro ano é um marco aguardado com uma mistura de alegria e ansiedade, mesmo por crianças que já frequentaram a pré-escola. É um sinal dos avanços internos que possibilitam essa nova condição e uma experiência que prepara as bases para toda a carreira escolar da criança. O boletim do primeiro ano é considerado, inclusive, um prognóstico mais preciso do desempenho futuro do que os resultados de testes iniciais."
+    },
+    {
+      "id": "desenv-oral-045",
+      "topic": "Infância",
+      "question": "Como o ambiente familiar e escolar contribui para o controle emocional na idade escolar (6 a 11 anos)?",
+      "modelAnswer": "Segundo Papalia, Olds e Feldman (2006), o ambiente familiar e escolar é fundamental para o desenvolvimento do controle emocional e da autoestima nessa fase, promovendo sentimentos positivos de confiança em si mesmo e facilitando a vivência de desafios. Ao se relacionarem com pares da mesma idade, as crianças aprendem comportamentos pró-sociais e adquirem senso de identidade, liderança, comunicação, cooperação e compreensão de regras, iniciando um afastamento saudável dos pais.",
+      "keyPoints": [
+        {
+          "text": "Ambiente familiar/escolar essencial para controle emocional e autoestima",
+          "weight": 0.4,
+          "keywords": [
+            "controle emocional",
+            "autoestima",
+            "família",
+            "escola"
+          ]
+        },
+        {
+          "text": "Relação com pares gera comportamentos pró-sociais",
+          "weight": 0.3,
+          "keywords": [
+            "pares",
+            "pró-sociais"
+          ]
+        },
+        {
+          "text": "Aquisição de liderança, comunicação, cooperação e regras",
+          "weight": 0.3,
+          "keywords": [
+            "liderança",
+            "comunicação",
+            "cooperação",
+            "regras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na infância.pdf",
+        "page": "30"
+      },
+      "subject": "Infância",
+      "difficulty": "medio",
+      "miniLesson": "Como o ambiente familiar e escolar contribui para o controle emocional na idade escolar (6 a 11 anos)? Segundo Papalia, Olds e Feldman (2006), o ambiente familiar e escolar é fundamental para o desenvolvimento do controle emocional e da autoestima nessa fase, promovendo sentimentos positivos de confiança em si mesmo e facilitando a vivência de desafios. Ao se relacionarem com pares da mesma idade, as crianças aprendem comportamentos pró-sociais e adquirem senso de identidade, liderança, comunicação, cooperação e compreensão de regras, iniciando um afastamento saudável dos pais."
+    },
+    {
+      "id": "desenv-oral-046",
+      "topic": "Adolescência",
+      "question": "Explique por que, segundo Moragas, a puberdade e a adolescência não têm uma relação de causa e efeito.",
+      "modelAnswer": "Segundo Moragas (1970), mesmo que puberdade e adolescência possam ocorrer ao mesmo tempo, não existe relação de causa-efeito entre elas. A puberdade é uma mudança repentina nas estruturas físicas e bioquímicas que pode preceder, acompanhar ou seguir um período adolescente; mas se, por algum evento biológico, a puberdade não acontecer, a adolescência ainda assim se manifesta no indivíduo, como uma nova forma de estar no mundo.",
+      "keyPoints": [
+        {
+          "text": "Não há causa-efeito entre puberdade e adolescência",
+          "weight": 0.4,
+          "keywords": [
+            "causa-efeito",
+            "não há relação"
+          ]
+        },
+        {
+          "text": "Puberdade: mudança física e bioquímica repentina",
+          "weight": 0.3,
+          "keywords": [
+            "mudança repentina",
+            "estruturas físicas"
+          ]
+        },
+        {
+          "text": "Adolescência se manifesta mesmo sem puberdade biológica",
+          "weight": 0.3,
+          "keywords": [
+            "manifesta",
+            "sem puberdade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "3"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Explique por que, segundo Moragas, a puberdade e a adolescência não têm uma relação de causa e efeito. Segundo Moragas (1970), mesmo que puberdade e adolescência possam ocorrer ao mesmo tempo, não existe relação de causa-efeito entre elas. A puberdade é uma mudança repentina nas estruturas físicas e bioquímicas que pode preceder, acompanhar ou seguir um período adolescente; mas se, por algum evento biológico, a puberdade não acontecer, a adolescência ainda assim se manifesta no indivíduo, como uma nova forma de estar no mundo."
+    },
+    {
+      "id": "desenv-oral-047",
+      "topic": "Adolescência",
+      "question": "O que é a 'tendência secular' relativa ao início da puberdade?",
+      "modelAnswer": "A tendência secular é uma tendência que inclui diversas gerações e refere-se à diminuição progressiva da idade em que a puberdade se inicia, ou seja, os jovens vêm alcançando a estatura adulta e a maturidade sexual cada vez mais cedo. A explicação mais provável é a melhora no padrão de vida da sociedade: crianças mais saudáveis, bem nutridas e bem cuidadas tendem a amadurecer e crescer mais cedo.",
+      "keyPoints": [
+        {
+          "text": "Diminuição da idade de início da puberdade ao longo de gerações",
+          "weight": 0.5,
+          "keywords": [
+            "diminuição",
+            "idade",
+            "gerações"
+          ]
+        },
+        {
+          "text": "Explicação: melhora no padrão de vida (nutrição, cuidados)",
+          "weight": 0.5,
+          "keywords": [
+            "padrão de vida",
+            "nutrição",
+            "cuidados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "4"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "O que é a 'tendência secular' relativa ao início da puberdade? A tendência secular é uma tendência que inclui diversas gerações e refere-se à diminuição progressiva da idade em que a puberdade se inicia, ou seja, os jovens vêm alcançando a estatura adulta e a maturidade sexual cada vez mais cedo. A explicação mais provável é a melhora no padrão de vida da sociedade: crianças mais saudáveis, bem nutridas e bem cuidadas tendem a amadurecer e crescer mais cedo."
+    },
+    {
+      "id": "desenv-oral-048",
+      "topic": "Adolescência",
+      "question": "Quais rituais de passagem relacionados à adolescência são citados no material como exemplos culturais?",
+      "modelAnswer": "O material cita as cerimônias de bar mitzvah (menino) e bat mitzvah (menina) na cultura judaica, que marcam o ritual de chegada aos 13 anos e a assunção da responsabilidade religiosa; e a celebração da primeira menstruação nas tribos Apache, comemorada com um ritual religioso de quatro dias de cânticos, do amanhecer ao pôr do sol.",
+      "keyPoints": [
+        {
+          "text": "Bar mitzvah e bat mitzvah na cultura judaica, aos 13 anos",
+          "weight": 0.5,
+          "keywords": [
+            "bar mitzvah",
+            "bat mitzvah",
+            "13 anos"
+          ]
+        },
+        {
+          "text": "Celebração da menarca nas tribos Apache (ritual de 4 dias)",
+          "weight": 0.5,
+          "keywords": [
+            "Apache",
+            "menarca",
+            "quatro dias"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "6"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Quais rituais de passagem relacionados à adolescência são citados no material como exemplos culturais? O material cita as cerimônias de bar mitzvah (menino) e bat mitzvah (menina) na cultura judaica, que marcam o ritual de chegada aos 13 anos e a assunção da responsabilidade religiosa; e a celebração da primeira menstruação nas tribos Apache, comemorada com um ritual religioso de quatro dias de cânticos, do amanhecer ao pôr do sol."
+    },
+    {
+      "id": "desenv-oral-049",
+      "topic": "Adolescência",
+      "question": "Como era compreendida a adolescência na Roma Antiga, segundo o material?",
+      "modelAnswer": "Na Roma Antiga, a criança vivia uma passagem para um novo estágio aos 12 anos, tanto para meninos quanto para meninas. Assim que chegava a puberdade, ela trocava as vestes infantis pelas dos adultos. As meninas eram preparadas para se casar com no máximo 14 anos. Diferentemente de períodos posteriores, nesse momento histórico não existia o conceito de maioridade.",
+      "keyPoints": [
+        {
+          "text": "Passagem aos 12 anos, com troca de vestes ao chegar a puberdade",
+          "weight": 0.4,
+          "keywords": [
+            "12 anos",
+            "vestes",
+            "puberdade"
+          ]
+        },
+        {
+          "text": "Meninas casavam com no máximo 14 anos",
+          "weight": 0.3,
+          "keywords": [
+            "meninas",
+            "14 anos",
+            "casar"
+          ]
+        },
+        {
+          "text": "Não existia o conceito de maioridade",
+          "weight": 0.3,
+          "keywords": [
+            "sem maioridade",
+            "não existia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "7"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Como era compreendida a adolescência na Roma Antiga, segundo o material? Na Roma Antiga, a criança vivia uma passagem para um novo estágio aos 12 anos, tanto para meninos quanto para meninas. Assim que chegava a puberdade, ela trocava as vestes infantis pelas dos adultos. As meninas eram preparadas para se casar com no máximo 14 anos. Diferentemente de períodos posteriores, nesse momento histórico não existia o conceito de maioridade."
+    },
+    {
+      "id": "desenv-oral-050",
+      "topic": "Adolescência",
+      "question": "Explique o problema do pêndulo de Piaget e o que ele demonstra sobre o pensamento hipotético-dedutivo do adolescente.",
+      "modelAnswer": "No problema clássico do pêndulo, apresenta-se um dilema com quatro fatores possíveis (comprimento do fio, peso do objeto, altura de soltura e força de empurrão) que poderiam determinar a rapidez de oscilação. O adolescente, no estágio das operações formais, é capaz de abordar o problema sistematicamente, montando um experimento para testar todas as hipóteses possíveis, determinando que apenas o comprimento do fio determina a rapidez do pêndulo. Isso demonstra o raciocínio hipotético-dedutivo, que permite ao adolescente desenvolver hipóteses e testá-las, ultrapassando pelo pensamento situações vividas e projetando ideias para o futuro.",
+      "keyPoints": [
+        {
+          "text": "Quatro fatores possíveis no dilema do pêndulo",
+          "weight": 0.3,
+          "keywords": [
+            "quatro fatores",
+            "comprimento",
+            "peso"
+          ]
+        },
+        {
+          "text": "Adolescente testa sistematicamente todas as hipóteses",
+          "weight": 0.35,
+          "keywords": [
+            "sistematicamente",
+            "hipóteses",
+            "experimento"
+          ]
+        },
+        {
+          "text": "Conclusão: apenas o comprimento do fio determina a oscilação",
+          "weight": 0.15,
+          "keywords": [
+            "comprimento do fio",
+            "conclusão"
+          ]
+        },
+        {
+          "text": "Demonstra o raciocínio hipotético-dedutivo",
+          "weight": 0.2,
+          "keywords": [
+            "hipotético-dedutivo",
+            "raciocínio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "15-16"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Explique o problema do pêndulo de Piaget e o que ele demonstra sobre o pensamento hipotético-dedutivo do adolescente. No problema clássico do pêndulo, apresenta-se um dilema com quatro fatores possíveis (comprimento do fio, peso do objeto, altura de soltura e força de empurrão) que poderiam determinar a rapidez de oscilação. O adolescente, no estágio das operações formais, é capaz de abordar o problema sistematicamente, montando um experimento para testar todas as hipóteses possíveis, determinando que apenas o comprimento do fio determina a rapidez do pêndulo. Isso demonstra o raciocínio hipotético-dedutivo, que permite ao adolescente desenvolver hipóteses e testá-las, ultrapassando pelo pensamento situações vividas e projetando ideias para o futuro."
+    },
+    {
+      "id": "desenv-oral-051",
+      "topic": "Adolescência",
+      "question": "Segundo Elkind, o que caracteriza a 'tendência a discutir' e a 'indecisão' como atitudes imaturas do pensamento adolescente?",
+      "modelAnswer": "A tendência a discutir se manifesta porque os adolescentes estão sempre encontrando oportunidades para testar e exibir suas recém-descobertas habilidades de raciocínio, argumentando com pais e adultos. A indecisão ocorre porque muitos adolescentes, apesar de já conseguirem enxergar diversas alternativas em uma situação, têm problemas para se decidir em relação a coisas simples, escolhas pessoais e dilemas mais elaborados.",
+      "keyPoints": [
+        {
+          "text": "Tendência a discutir: testar habilidades de raciocínio recém-adquiridas",
+          "weight": 0.5,
+          "keywords": [
+            "tendência a discutir",
+            "testar",
+            "raciocínio"
+          ]
+        },
+        {
+          "text": "Indecisão: dificuldade em escolher entre alternativas percebidas",
+          "weight": 0.5,
+          "keywords": [
+            "indecisão",
+            "escolher",
+            "alternativas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "16-17"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Elkind, o que caracteriza a 'tendência a discutir' e a 'indecisão' como atitudes imaturas do pensamento adolescente? A tendência a discutir se manifesta porque os adolescentes estão sempre encontrando oportunidades para testar e exibir suas recém-descobertas habilidades de raciocínio, argumentando com pais e adultos. A indecisão ocorre porque muitos adolescentes, apesar de já conseguirem enxergar diversas alternativas em uma situação, têm problemas para se decidir em relação a coisas simples, escolhas pessoais e dilemas mais elaborados."
+    },
+    {
+      "id": "desenv-oral-052",
+      "topic": "Adolescência",
+      "question": "O que caracteriza o Nível II (moralidade convencional) de julgamento moral segundo Kohlberg?",
+      "modelAnswer": "No Nível II, moralidade convencional (ou de conformidade ao papel convencional), as pessoas já internalizaram os padrões das figuras de autoridade: preocupam-se em ser 'boas', em agradar aos outros e em manter a ordem social. Esse nível geralmente é alcançado depois dos 10 anos, mas muitas pessoas nunca o superam, permanecendo nele mesmo na idade adulta.",
+      "keyPoints": [
+        {
+          "text": "Internalização dos padrões de figuras de autoridade",
+          "weight": 0.4,
+          "keywords": [
+            "internalização",
+            "figuras de autoridade"
+          ]
+        },
+        {
+          "text": "Preocupação em ser 'boa' e manter a ordem social",
+          "weight": 0.4,
+          "keywords": [
+            "ser boa",
+            "ordem social",
+            "agradar"
+          ]
+        },
+        {
+          "text": "Alcançado após os 10 anos; muitos nunca o superam",
+          "weight": 0.2,
+          "keywords": [
+            "10 anos",
+            "nunca superam"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "18"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o Nível II (moralidade convencional) de julgamento moral segundo Kohlberg? No Nível II, moralidade convencional (ou de conformidade ao papel convencional), as pessoas já internalizaram os padrões das figuras de autoridade: preocupam-se em ser 'boas', em agradar aos outros e em manter a ordem social. Esse nível geralmente é alcançado depois dos 10 anos, mas muitas pessoas nunca o superam, permanecendo nele mesmo na idade adulta."
+    },
+    {
+      "id": "desenv-oral-053",
+      "topic": "Adolescência",
+      "question": "Por que a escolha vocacional é considerada, segundo Griffa e Moreno (2001), um momento vital para o adolescente?",
+      "modelAnswer": "A escolha de uma carreira ou profissão é vital para o adolescente porque, pela primeira vez, ele toma uma decisão pessoal sobre um dos direcionamentos mais importantes da sua existência: o caminho profissional. Esse momento exige conhecimento das próprias atitudes, interesses, valores, personalidade, possibilidades e limites. O êxito ou fracasso dessa escolha afeta profundamente o desenvolvimento pessoal do indivíduo e repercute também na sociedade a que ele pertence.",
+      "keyPoints": [
+        {
+          "text": "Primeira decisão pessoal sobre um direcionamento vital da existência",
+          "weight": 0.4,
+          "keywords": [
+            "primeira decisão",
+            "direcionamento",
+            "existência"
+          ]
+        },
+        {
+          "text": "Exige autoconhecimento de atitudes, interesses e valores",
+          "weight": 0.3,
+          "keywords": [
+            "autoconhecimento",
+            "interesses",
+            "valores"
+          ]
+        },
+        {
+          "text": "Êxito ou fracasso afeta desenvolvimento pessoal e repercute socialmente",
+          "weight": 0.3,
+          "keywords": [
+            "êxito",
+            "fracasso",
+            "repercute"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "19"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Por que a escolha vocacional é considerada, segundo Griffa e Moreno (2001), um momento vital para o adolescente? A escolha de uma carreira ou profissão é vital para o adolescente porque, pela primeira vez, ele toma uma decisão pessoal sobre um dos direcionamentos mais importantes da sua existência: o caminho profissional. Esse momento exige conhecimento das próprias atitudes, interesses, valores, personalidade, possibilidades e limites. O êxito ou fracasso dessa escolha afeta profundamente o desenvolvimento pessoal do indivíduo e repercute também na sociedade a que ele pertence."
+    },
+    {
+      "id": "desenv-oral-054",
+      "topic": "Adolescência",
+      "question": "O que é a identidade 'de colcha de retalhos', segundo Elkind, e quais suas consequências para o adolescente?",
+      "modelAnswer": "A identidade de colcha de retalhos é o senso de identidade construído principalmente pelo processo de substituição, no qual o adolescente adota de forma infantil as atitudes, crenças e comprometimentos de outras pessoas como se fossem seus próprios, formando um self construído a partir de pedaços muitas vezes conflitantes. Adolescentes com esse tipo de identidade tendem a apresentar fraca autoestima, dificuldade para lidar com liberdade, frustrações, perdas e fracassos, perfil ansioso e alta suscetibilidade à influência externa e ao estresse, por não possuírem uma bússola interior de orientação.",
+      "keyPoints": [
+        {
+          "text": "Formada pelo processo de substituição: adoção infantil de crenças alheias",
+          "weight": 0.4,
+          "keywords": [
+            "substituição",
+            "adoção",
+            "infantil"
+          ]
+        },
+        {
+          "text": "Self construído a partir de partes conflitantes",
+          "weight": 0.2,
+          "keywords": [
+            "partes conflitantes",
+            "pedaços"
+          ]
+        },
+        {
+          "text": "Consequências: fraca autoestima, ansiedade, vulnerabilidade ao estresse",
+          "weight": 0.4,
+          "keywords": [
+            "fraca autoestima",
+            "ansiedade",
+            "vulnerabilidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "26"
+      },
+      "subject": "Adolescência",
+      "difficulty": "dificil",
+      "miniLesson": "O que é a identidade 'de colcha de retalhos', segundo Elkind, e quais suas consequências para o adolescente? A identidade de colcha de retalhos é o senso de identidade construído principalmente pelo processo de substituição, no qual o adolescente adota de forma infantil as atitudes, crenças e comprometimentos de outras pessoas como se fossem seus próprios, formando um self construído a partir de pedaços muitas vezes conflitantes. Adolescentes com esse tipo de identidade tendem a apresentar fraca autoestima, dificuldade para lidar com liberdade, frustrações, perdas e fracassos, perfil ansioso e alta suscetibilidade à influência externa e ao estresse, por não possuírem uma bússola interior de orientação."
+    },
+    {
+      "id": "desenv-oral-055",
+      "topic": "Adolescência",
+      "question": "Segundo pesquisas citadas no material, qual é a real proporção de adolescentes que se encaixam no padrão de 'rebeldia adolescente' proposto por G. Stanley Hall?",
+      "modelAnswer": "Embora a ideia de rebeldia adolescente como um período universal de 'tormenta e estresse' tenha sido proposta por G. Stanley Hall, pesquisas realizadas com adolescentes nos Estados Unidos e em outros países sugerem que menos de 20% dos adolescentes — pelo menos entre os que permanecem na escola — se encaixam nesse padrão de turbulência emocional extrema e ruptura com os valores familiares.",
+      "keyPoints": [
+        {
+          "text": "G. Stanley Hall propôs a teoria da 'tormenta e estresse'",
+          "weight": 0.4,
+          "keywords": [
+            "G. Stanley Hall",
+            "tormenta e estresse"
+          ]
+        },
+        {
+          "text": "Pesquisas mostram que menos de 20% dos adolescentes se encaixam nesse padrão",
+          "weight": 0.6,
+          "keywords": [
+            "menos de 20%",
+            "pesquisas",
+            "padrão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na adolescência.pdf",
+        "page": "27"
+      },
+      "subject": "Adolescência",
+      "difficulty": "medio",
+      "miniLesson": "Segundo pesquisas citadas no material, qual é a real proporção de adolescentes que se encaixam no padrão de 'rebeldia adolescente' proposto por G. Stanley Hall? Embora a ideia de rebeldia adolescente como um período universal de 'tormenta e estresse' tenha sido proposta por G. Stanley Hall, pesquisas realizadas com adolescentes nos Estados Unidos e em outros países sugerem que menos de 20% dos adolescentes — pelo menos entre os que permanecem na escola — se encaixam nesse padrão de turbulência emocional extrema e ruptura com os valores familiares."
     }
   ]
 }
