@@ -16,3 +16,5 @@ usado pelo app.
 | 8 | O Estudo do Desenvolvimento Humano | Parto e período perinatal | 2026-09-03 | `6fa52ff` |
 | 9 | O Estudo do Desenvolvimento Humano | Infância | 2026-09-03 | `c7ed4ae` |
 | 10 | O Estudo do Desenvolvimento Humano | Adolescência | 2026-09-03 | `c7ed4ae` |
+| 11 | Fundamentos Históricos e Epistemológicos da Psicologia | Estruturalismo (Wundt e Titchener) | 2026-09-03 | `f7861e3` |
+| 12 | Fundamentos Históricos e Epistemológicos da Psicologia | Funcionalismo e pragmatismo | 2026-09-03 | `f7861e3` |
