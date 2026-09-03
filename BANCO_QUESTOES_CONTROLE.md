@@ -12,3 +12,5 @@ usado pelo app.
 | 4 | Neuroanatomofisiologia | Sistema límbico | 2026-09-02 | `5e61001` |
 | 5 | As Teorias Cognitivo-Comportamentais | Desenvolvimento cognitivo (Piaget e Vygotsky) | 2026-09-02 | `b41bfe4` |
 | 6 | As Teorias Cognitivo-Comportamentais | Processos cognitivos: memória | 2026-09-02 | `b41bfe4` |
+| 7 | O Estudo do Desenvolvimento Humano | Concepção e período pré-natal | 2026-09-03 | `6fa52ff` |
+| 8 | O Estudo do Desenvolvimento Humano | Parto e período perinatal | 2026-09-03 | `6fa52ff` |
