@@ -45,8 +45,8 @@ DB_PATH = "treinador.db"
 DATABASE_URL = os.environ.get("DATABASE_URL", "").strip()
 USE_POSTGRES = bool(DATABASE_URL)
 if USE_POSTGRES:
-    import psycopg2
-    import psycopg2.extras
+    import psycopg
+    import psycopg.rows
 
 # Se BASIC_AUTH_USER/BASIC_AUTH_PASS estiverem definidas (recomendado ao expor
 # o app publicamente, ex.: no Render), todo acesso passa a exigir esse usuário/
@@ -86,7 +86,7 @@ GRADE_SYSTEM_PROMPT = (
 
 def db():
     if USE_POSTGRES:
-        return psycopg2.connect(DATABASE_URL, cursor_factory=psycopg2.extras.RealDictCursor)
+        return psycopg.connect(DATABASE_URL, row_factory=psycopg.rows.dict_row)
     conn = sqlite3.connect(DB_PATH, timeout=10)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON")

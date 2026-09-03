@@ -1,4 +1,4 @@
 # Dependências extras apenas para o deploy em nuvem (Postgres).
 # Localmente (SQLite), o app roda com a biblioteca padrão do Python, sem
 # precisar instalar nada disto.
-psycopg2-binary==2.9.9
+psycopg[binary]==3.2.3
