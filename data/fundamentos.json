@@ -989,6 +989,1326 @@
       "subject": "Campos de atuação",
       "difficulty": "medio",
       "miniLesson": "Sobre a psicologia escolar contemporânea, alinhada à crítica institucional, é correto afirmar que a escola é compreendida como sistema complexo, e as dificuldades de aprendizagem podem refletir falhas no ensino ou vulnerabilidades sociais. Esta abordagem contrasta com a visão tradicional que foca exclusivamente no diagnóstico e tratamento do aluno como portador individual de um déficit. A psicologia escolar contemporânea atua na formação docente, mediação de conflitos e inclusão, entendendo que as dificuldades de aprendizagem são multifatoriais e podem refletir falhas no processo de ensino ou contextos sociais desfavoráveis."
+    },
+    {
+      "id": "fund-obj-046",
+      "topic": "Psicanálise (Freud)",
+      "question": "No Hospital Salpêtrière, em Paris, Freud observou Jean-Martin Charcot induzir e remover sintomas histéricos por meio da hipnose. Essa observação foi decisiva para a formulação da psicanálise porque:",
+      "options": {
+        "a": "Comprovou que toda histeria possuía uma lesão neuroanatômica permanente e localizável",
+        "b": "Demonstrou que uma ideia sugerida sob hipnose podia gerar efeitos reais sobre o corpo, evidenciando a eficácia causal dos processos mentais",
+        "c": "Confirmou a hipótese de que os sintomas histéricos eram simulações voluntárias das pacientes",
+        "d": "Levou Freud a abandonar de vez a prática clínica e retornar exclusivamente à pesquisa em neuroanatomia",
+        "e": "Provou que a hipnose curava definitivamente todos os casos de histeria, sem necessidade de outras técnicas"
+      },
+      "correct": "b",
+      "explanation": "Charcot demonstrou que sintomas histéricos podiam ser induzidos e removidos por hipnose, mostrando que a origem não estava em lesão anatômica permanente, mas em alteração funcional e ideativa — o embrião da revolução psicanalítica, pois provava que ideias possuem eficácia causal sobre o organismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "No Hospital Salpêtrière, em Paris, Freud observou Jean-Martin Charcot induzir e remover sintomas histéricos por meio da hipnose. Essa observação foi decisiva para a formulação da psicanálise porque: Charcot demonstrou que sintomas histéricos podiam ser induzidos e removidos por hipnose, mostrando que a origem não estava em lesão anatômica permanente, mas em alteração funcional e ideativa — o embrião da revolução psicanalítica, pois provava que ideias possuem eficácia causal sobre o organismo."
+    },
+    {
+      "id": "fund-obj-047",
+      "topic": "Psicanálise (Freud)",
+      "question": "O método catártico, desenvolvido por Freud em colaboração com Josef Breuer no tratamento da paciente Anna O., consistia em:",
+      "options": {
+        "a": "Prescrever medicação sedativa para suprimir os sintomas histéricos imediatamente",
+        "b": "Hipnotizar a paciente e incitá-la a relatar as circunstâncias do surgimento dos sintomas, cuja recordação com a devida descarga emocional (abreação) fazia o sintoma desaparecer",
+        "c": "Aplicar choques elétricos controlados para reeducar os reflexos musculares da paciente",
+        "d": "Solicitar que a paciente memorizasse listas de palavras neutras para fortalecer o Ego",
+        "e": "Realizar exames neurológicos exaustivos até localizar a lesão orgânica correspondente ao sintoma"
+      },
+      "correct": "b",
+      "explanation": "O método catártico de Breuer envolvia hipnotizar a paciente e fazê-la relatar as circunstâncias do surgimento do sintoma; a recordação do evento traumático, acompanhada da descarga emocional adequada (abreação), resultava no desaparecimento do sintoma.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O método catártico, desenvolvido por Freud em colaboração com Josef Breuer no tratamento da paciente Anna O., consistia em: O método catártico de Breuer envolvia hipnotizar a paciente e fazê-la relatar as circunstâncias do surgimento do sintoma; a recordação do evento traumático, acompanhada da descarga emocional adequada (abreação), resultava no desaparecimento do sintoma."
+    },
+    {
+      "id": "fund-obj-048",
+      "topic": "Psicanálise (Freud)",
+      "question": "Freud abandonou progressivamente a hipnose como técnica terapêutica. Entre os motivos apresentados no estudo de sua trajetória, está o fato de que:",
+      "options": {
+        "a": "A hipnose era proibida pelas autoridades médicas de Viena no início do século XX",
+        "b": "Nem todos os pacientes eram suscetíveis à hipnose e os resultados terapêuticos eram, com frequência, transitórios",
+        "c": "Freud considerava a hipnose cientificamente comprovada, mas moralmente inaceitável",
+        "d": "Os pacientes relatavam dor física intensa durante o transe hipnótico",
+        "e": "A hipnose exigia equipamentos custosos que o consultório de Freud não possuía"
+      },
+      "correct": "b",
+      "explanation": "Freud encontrou limitações significativas no método catártico: nem todos os pacientes eram suscetíveis à hipnose e os resultados terapêuticos se mostravam, com frequência, transitórios — o que o levou a desenvolver a associação livre.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Freud abandonou progressivamente a hipnose como técnica terapêutica. Entre os motivos apresentados no estudo de sua trajetória, está o fato de que: Freud encontrou limitações significativas no método catártico: nem todos os pacientes eram suscetíveis à hipnose e os resultados terapêuticos se mostravam, com frequência, transitórios — o que o levou a desenvolver a associação livre."
+    },
+    {
+      "id": "fund-obj-049",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na relação entre terapeuta e paciente observada por Freud durante o tratamento pelo método catártico, surgiu um fenômeno de intensa carga afetiva que ele posteriormente conceituaria como:",
+      "options": {
+        "a": "Contratransferência institucional",
+        "b": "Sublimação terapêutica",
+        "c": "Transferência",
+        "d": "Ab-reação secundária",
+        "e": "Recalque primário"
+      },
+      "correct": "c",
+      "explanation": "Freud observou que a relação entre médico e paciente assumia contornos de intensa carga afetiva, fenômeno que mais tarde conceituaria como transferência — um dos motivos que o levaram a abandonar a hipnose em favor da associação livre.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Na relação entre terapeuta e paciente observada por Freud durante o tratamento pelo método catártico, surgiu um fenômeno de intensa carga afetiva que ele posteriormente conceituaria como: Freud observou que a relação entre médico e paciente assumia contornos de intensa carga afetiva, fenômeno que mais tarde conceituaria como transferência — um dos motivos que o levaram a abandonar a hipnose em favor da associação livre."
+    },
+    {
+      "id": "fund-obj-050",
+      "topic": "Psicanálise (Freud)",
+      "question": "Freud partia do princípio do determinismo psíquico ao interpretar as associações produzidas por um paciente durante a análise. Esse princípio estabelece que:",
+      "options": {
+        "a": "Todos os sintomas neuróticos possuem cura garantida desde que o tratamento dure tempo suficiente",
+        "b": "Nenhum evento mental ocorre por acaso; mesmo as associações mais distantes estão conectadas a conflitos inconscientes",
+        "c": "O comportamento humano é determinado exclusivamente por fatores genéticos e hereditários",
+        "d": "A vontade consciente do paciente determina de forma livre e deliberada todo o conteúdo do discurso analítico",
+        "e": "Apenas os sonhos possuem significado psíquico; os atos falhos são erros aleatórios sem relevância clínica"
+      },
+      "correct": "b",
+      "explanation": "O determinismo psíquico postula que nenhum evento mental ocorre por acaso: mesmo as associações mais ilógicas, irrelevantes ou embaraçosas estão conectadas por fios invisíveis aos conflitos inconscientes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Freud partia do princípio do determinismo psíquico ao interpretar as associações produzidas por um paciente durante a análise. Esse princípio estabelece que: O determinismo psíquico postula que nenhum evento mental ocorre por acaso: mesmo as associações mais ilógicas, irrelevantes ou embaraçosas estão conectadas por fios invisíveis aos conflitos inconscientes."
+    },
+    {
+      "id": "fund-obj-051",
+      "topic": "Psicanálise (Freud)",
+      "question": "Diversos filósofos anteriores a Freud, como Schopenhauer e Nietzsche, já haviam discutido aspectos obscuros da mente humana. A contribuição verdadeiramente original de Freud, segundo o estudo de sua obra, foi:",
+      "options": {
+        "a": "Ter sido o primeiro a utilizar a palavra 'inconsciente' na história da filosofia ocidental",
+        "b": "Formular o conceito de um inconsciente dinâmico: um sistema psíquico ativo, regido por leis próprias, que exerce pressão constante para descarregar seus conteúdos",
+        "c": "Provar experimentalmente, por meio de exames de imagem cerebral, a localização anatômica exata do inconsciente",
+        "d": "Demonstrar que o inconsciente é idêntico ao que hoje se chama de memória de longo prazo",
+        "e": "Negar por completo a existência de qualquer processo mental inacessível à consciência"
+      },
+      "correct": "b",
+      "explanation": "A grande inovação epistemológica de Freud não foi postular a existência do inconsciente, mas formular o conceito de inconsciente dinâmico: um sistema psíquico ativo, regido por leis próprias, que pressiona constantemente por descarga de seus conteúdos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil",
+      "miniLesson": "Diversos filósofos anteriores a Freud, como Schopenhauer e Nietzsche, já haviam discutido aspectos obscuros da mente humana. A contribuição verdadeiramente original de Freud, segundo o estudo de sua obra, foi: A grande inovação epistemológica de Freud não foi postular a existência do inconsciente, mas formular o conceito de inconsciente dinâmico: um sistema psíquico ativo, regido por leis próprias, que pressiona constantemente por descarga de seus conteúdos."
+    },
+    {
+      "id": "fund-obj-052",
+      "topic": "Psicanálise (Freud)",
+      "question": "Segundo Freud, os sonhos, os atos falhos (lapsos de linguagem), os chistes e os sintomas neuróticos compartilham uma mesma natureza psíquica. Eles são classificados como:",
+      "options": {
+        "a": "Manifestações do processo secundário, regidas pela lógica racional consciente",
+        "b": "Formações de compromisso, que representam um acordo entre o desejo inconsciente que busca satisfação e a censura que tenta impedi-lo",
+        "c": "Fenômenos puramente fisiológicos, sem qualquer relação com conteúdos psíquicos reprimidos",
+        "d": "Efeitos colaterais do tratamento medicamentoso indicados para quadros neuróticos graves",
+        "e": "Erros aleatórios do sistema nervoso central, sem valor interpretativo na clínica"
+      },
+      "correct": "b",
+      "explanation": "Freud demonstrou que sonhos, atos falhos, chistes e sintomas neuróticos são formações de compromisso: representam um acordo entre o desejo inconsciente que busca satisfação e a censura que tenta impedi-lo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Freud, os sonhos, os atos falhos (lapsos de linguagem), os chistes e os sintomas neuróticos compartilham uma mesma natureza psíquica. Eles são classificados como: Freud demonstrou que sonhos, atos falhos, chistes e sintomas neuróticos são formações de compromisso: representam um acordo entre o desejo inconsciente que busca satisfação e a censura que tenta impedi-lo."
+    },
+    {
+      "id": "fund-obj-053",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na primeira tópica freudiana, apresentada em 'A Interpretação dos Sonhos' (1900), o sistema Inconsciente (Ics) é caracterizado por:",
+      "options": {
+        "a": "Ser regido pelo princípio de realidade e pelo processo secundário, operando com lógica e racionalidade",
+        "b": "Funcionar como uma zona de transição, contendo memórias que podem ser evocadas com esforço de atenção",
+        "c": "Ser regido pelo princípio do prazer e pelo processo primário, não reconhecendo lógica formal, contradição ou passagem do tempo, com representações que buscam descarga imediata",
+        "d": "Corresponder exclusivamente às normas morais internalizadas a partir da relação com os pais",
+        "e": "Receber diretamente as informações do mundo externo por meio dos órgãos sensoriais"
+      },
+      "correct": "c",
+      "explanation": "Na primeira tópica, o Inconsciente (Ics) é o sistema regido pelo princípio do prazer e pelo processo primário: não reconhece lógica formal, contradição ou passagem do tempo, e suas representações buscam descarga imediata.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Na primeira tópica freudiana, apresentada em 'A Interpretação dos Sonhos' (1900), o sistema Inconsciente (Ics) é caracterizado por: Na primeira tópica, o Inconsciente (Ics) é o sistema regido pelo princípio do prazer e pelo processo primário: não reconhece lógica formal, contradição ou passagem do tempo, e suas representações buscam descarga imediata."
+    },
+    {
+      "id": "fund-obj-054",
+      "topic": "Psicanálise (Freud)",
+      "question": "Ainda na primeira tópica freudiana, o sistema Pré-consciente (Pcs) desempenha a função de:",
+      "options": {
+        "a": "Reprimir de forma definitiva todo conteúdo pulsional inaceitável para a moral",
+        "b": "Funcionar como zona de transição, contendo memórias e conhecimentos que não estão na consciência no momento atual, mas que podem ser evocados com esforço de atenção",
+        "c": "Receber informações do mundo externo e interno, operando com base na lógica e no processo secundário",
+        "d": "Buscar a satisfação imediata das necessidades biológicas mais primitivas",
+        "e": "Internalizar as normas e proibições parentais herdadas do complexo de Édipo"
+      },
+      "correct": "b",
+      "explanation": "O Pré-consciente (Pcs) funciona como uma zona de transição: contém memórias e conhecimentos que não estão na consciência no momento atual, mas que podem ser evocados com um esforço de atenção.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Ainda na primeira tópica freudiana, o sistema Pré-consciente (Pcs) desempenha a função de: O Pré-consciente (Pcs) funciona como uma zona de transição: contém memórias e conhecimentos que não estão na consciência no momento atual, mas que podem ser evocados com um esforço de atenção."
+    },
+    {
+      "id": "fund-obj-055",
+      "topic": "Psicanálise (Freud)",
+      "question": "O sistema Consciente (Cs), na primeira tópica freudiana, distingue-se do sistema Inconsciente por ser regido por:",
+      "options": {
+        "a": "O princípio do prazer e o processo primário, buscando descarga imediata das pulsões",
+        "b": "O princípio de realidade e o processo secundário, operando com base na lógica e na racionalidade",
+        "c": "A internalização exclusiva de normas culturais e proibições parentais",
+        "d": "Mecanismos de defesa inconscientes, como o recalque e a projeção",
+        "e": "A energia pulsional bruta, sem qualquer mediação com o mundo externo"
+      },
+      "correct": "b",
+      "explanation": "O Consciente (Cs) é o sistema responsável por receber informações do mundo externo e interno, regido pelo princípio de realidade e pelo processo secundário, operando com base na lógica e na racionalidade — em oposição ao processo primário do Inconsciente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O sistema Consciente (Cs), na primeira tópica freudiana, distingue-se do sistema Inconsciente por ser regido por: O Consciente (Cs) é o sistema responsável por receber informações do mundo externo e interno, regido pelo princípio de realidade e pelo processo secundário, operando com base na lógica e na racionalidade — em oposição ao processo primário do Inconsciente."
+    },
+    {
+      "id": "fund-obj-056",
+      "topic": "Psicanálise (Freud)",
+      "question": "A partir de 1920, Freud percebeu que a primeira tópica era insuficiente para explicar fenômenos como o sentimento inconsciente de culpa. Isso o levou a formular a segunda tópica, na qual o Id é descrito como:",
+      "options": {
+        "a": "A instância mediadora que concilia as exigências internas com as demandas da realidade externa",
+        "b": "A instância mais primitiva e inata do aparelho psíquico, constituída pelas pulsões, operando de forma inteiramente inconsciente na busca da satisfação imediata",
+        "c": "A instância moral e julgadora, herdeira do complexo de Édipo",
+        "d": "O conjunto de funções conscientes responsáveis pela percepção e pelo pensamento lógico",
+        "e": "A zona de transição entre as memórias acessíveis e as memórias reprimidas"
+      },
+      "correct": "b",
+      "explanation": "No modelo estrutural (segunda tópica), o Id é a instância mais primitiva e inata, constituída pelas pulsões, operando de forma inteiramente inconsciente e buscando a satisfação imediata das necessidades.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "A partir de 1920, Freud percebeu que a primeira tópica era insuficiente para explicar fenômenos como o sentimento inconsciente de culpa. Isso o levou a formular a segunda tópica, na qual o Id é descrito como: No modelo estrutural (segunda tópica), o Id é a instância mais primitiva e inata, constituída pelas pulsões, operando de forma inteiramente inconsciente e buscando a satisfação imediata das necessidades."
+    },
+    {
+      "id": "fund-obj-057",
+      "topic": "Psicanálise (Freud)",
+      "question": "Ainda no modelo estrutural formulado por Freud a partir de 1920, o Superego (Super-eu) é descrito como a instância que:",
+      "options": {
+        "a": "Busca a satisfação imediata das pulsões, sem qualquer mediação com a realidade",
+        "b": "Representa a internalização das normas, valores e proibições culturais e parentais, sendo herdeira do complexo de Édipo",
+        "c": "Concilia as exigências do Id com as demandas do mundo externo por meio de funções conscientes",
+        "d": "Corresponde ao sistema que recebe informações sensoriais diretamente do ambiente",
+        "e": "É formada exclusivamente por mecanismos de defesa como a sublimação e a formação reativa"
+      },
+      "correct": "b",
+      "explanation": "O Superego é a instância moral e julgadora, herdeira do complexo de Édipo, que representa a internalização das normas, valores e proibições culturais e parentais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Ainda no modelo estrutural formulado por Freud a partir de 1920, o Superego (Super-eu) é descrito como a instância que: O Superego é a instância moral e julgadora, herdeira do complexo de Édipo, que representa a internalização das normas, valores e proibições culturais e parentais."
+    },
+    {
+      "id": "fund-obj-058",
+      "topic": "Psicanálise (Freud)",
+      "question": "Um conceito central na metapsicologia freudiana é a pulsão (Trieb). Em comparação ao instinto biológico, a pulsão se caracteriza por:",
+      "options": {
+        "a": "Possuir um objeto fixo e um padrão de comportamento inteiramente predeterminado pela genética",
+        "b": "Ser um conceito-limite entre o somático e o psíquico, representando uma exigência de trabalho imposta à mente em razão de sua ligação com o corpo, sem objeto ou alvo fixos",
+        "c": "Ser idêntica ao instinto, tratando-se apenas de uma tradução alternativa do mesmo fenômeno",
+        "d": "Manifestar-se exclusivamente durante a fase genital do desenvolvimento psicossexual",
+        "e": "Depender inteiramente de aprendizagem consciente para se estabelecer no aparelho psíquico"
+      },
+      "correct": "b",
+      "explanation": "Diferente do instinto biológico, que possui objeto fixo e padrão de comportamento predeterminado, a pulsão (Trieb) é um conceito-limite entre o somático e o psíquico, representando uma exigência de trabalho imposta à mente por sua ligação com o corpo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil",
+      "miniLesson": "Um conceito central na metapsicologia freudiana é a pulsão (Trieb). Em comparação ao instinto biológico, a pulsão se caracteriza por: Diferente do instinto biológico, que possui objeto fixo e padrão de comportamento predeterminado, a pulsão (Trieb) é um conceito-limite entre o somático e o psíquico, representando uma exigência de trabalho imposta à mente por sua ligação com o corpo."
+    },
+    {
+      "id": "fund-obj-059",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na teoria freudiana, o termo utilizado para designar a energia associada às pulsões de vida é:",
+      "options": {
+        "a": "Catexia residual",
+        "b": "Libido",
+        "c": "Energia pulsional secundária",
+        "d": "Abreação",
+        "e": "Tanatos operacional"
+      },
+      "correct": "b",
+      "explanation": "Freud denominou libido a energia associada às pulsões de vida, que se concentra em diferentes zonas erógenas do corpo ao longo dos estágios do desenvolvimento psicossexual.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Na teoria freudiana, o termo utilizado para designar a energia associada às pulsões de vida é: Freud denominou libido a energia associada às pulsões de vida, que se concentra em diferentes zonas erógenas do corpo ao longo dos estágios do desenvolvimento psicossexual."
+    },
+    {
+      "id": "fund-obj-060",
+      "topic": "Psicanálise (Freud)",
+      "question": "Segundo a teoria do desenvolvimento psicossexual de Freud, no primeiro ano de vida a libido concentra-se predominantemente em uma zona erógena específica, correspondente à fase:",
+      "options": {
+        "a": "Fálica, marcada pelo interesse pelos órgãos genitais",
+        "b": "Anal, marcada pelo controle dos esfíncteres",
+        "c": "Oral, na qual a boca é a principal zona de interação e satisfação",
+        "d": "De latência, marcada pela sublimação da energia sexual",
+        "e": "Genital, na qual a libido é reativada e direcionada para objetos externos à família"
+      },
+      "correct": "c",
+      "explanation": "Na fase oral, correspondente ao primeiro ano de vida, a boca é a principal zona de interação e satisfação da criança, segundo a teoria do desenvolvimento psicossexual freudiano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo a teoria do desenvolvimento psicossexual de Freud, no primeiro ano de vida a libido concentra-se predominantemente em uma zona erógena específica, correspondente à fase: Na fase oral, correspondente ao primeiro ano de vida, a boca é a principal zona de interação e satisfação da criança, segundo a teoria do desenvolvimento psicossexual freudiano."
+    },
+    {
+      "id": "fund-obj-061",
+      "topic": "Psicanálise (Freud)",
+      "question": "No segundo e terceiro anos de vida, segundo Freud, o controle dos esfíncteres torna-se o foco da atenção e do conflito com as exigências externas de higiene. Esta descrição corresponde à:",
+      "options": {
+        "a": "Fase oral",
+        "b": "Fase anal",
+        "c": "Fase fálica",
+        "d": "Período de latência",
+        "e": "Fase genital"
+      },
+      "correct": "b",
+      "explanation": "A fase anal, situada no segundo e terceiro anos de vida, tem como foco o controle dos esfíncteres e o conflito gerado pelas exigências externas de higiene impostas à criança.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "No segundo e terceiro anos de vida, segundo Freud, o controle dos esfíncteres torna-se o foco da atenção e do conflito com as exigências externas de higiene. Esta descrição corresponde à: A fase anal, situada no segundo e terceiro anos de vida, tem como foco o controle dos esfíncteres e o conflito gerado pelas exigências externas de higiene impostas à criança."
+    },
+    {
+      "id": "fund-obj-062",
+      "topic": "Psicanálise (Freud)",
+      "question": "O período compreendido entre a fase fálica e a fase genital, no qual ocorre uma sublimação da energia sexual direcionada para a aprendizagem escolar e a socialização, é denominado por Freud como:",
+      "options": {
+        "a": "Fase de recalque",
+        "b": "Período de latência",
+        "c": "Fase anal secundária",
+        "d": "Estágio pré-genital",
+        "e": "Fase de transferência"
+      },
+      "correct": "b",
+      "explanation": "O período de latência é uma fase de sublimação da energia sexual, direcionada para a aprendizagem escolar e a socialização, situada entre a fase fálica e a fase genital.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O período compreendido entre a fase fálica e a fase genital, no qual ocorre uma sublimação da energia sexual direcionada para a aprendizagem escolar e a socialização, é denominado por Freud como: O período de latência é uma fase de sublimação da energia sexual, direcionada para a aprendizagem escolar e a socialização, situada entre a fase fálica e a fase genital."
+    },
+    {
+      "id": "fund-obj-063",
+      "topic": "Psicanálise (Freud)",
+      "question": "De acordo com a metapsicologia freudiana, a fixação em uma fase específica do desenvolvimento psicossexual, decorrente de frustração ou gratificação excessiva, tem como consequência na vida adulta:",
+      "options": {
+        "a": "A garantia de uma personalidade plenamente saudável e livre de conflitos",
+        "b": "A determinação de traços de caráter e a escolha dos sintomas neuróticos",
+        "c": "A impossibilidade total de desenvolvimento de qualquer mecanismo de defesa",
+        "d": "A eliminação definitiva da libido enquanto fonte de energia psíquica",
+        "e": "A antecipação da fase genital para a primeira infância"
+      },
+      "correct": "b",
+      "explanation": "Segundo a metapsicologia freudiana, a fixação em fases anteriores do desenvolvimento psicossexual, decorrente de excessiva frustração ou gratificação, determina os traços de caráter e a escolha dos sintomas na vida adulta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "De acordo com a metapsicologia freudiana, a fixação em uma fase específica do desenvolvimento psicossexual, decorrente de frustração ou gratificação excessiva, tem como consequência na vida adulta: Segundo a metapsicologia freudiana, a fixação em fases anteriores do desenvolvimento psicossexual, decorrente de excessiva frustração ou gratificação, determina os traços de caráter e a escolha dos sintomas na vida adulta."
+    },
+    {
+      "id": "fund-obj-064",
+      "topic": "Psicanálise (Freud)",
+      "question": "O recalque (repressão), descrito como o mecanismo de defesa fundamental do Ego na teoria psicanalítica, consiste em:",
+      "options": {
+        "a": "Atribuir a outras pessoas os sentimentos e desejos inaceitáveis que pertencem ao próprio sujeito",
+        "b": "Afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente, com gasto de energia que empobrece o Ego",
+        "c": "Substituir um impulso inaceitável por seu oposto diametral no comportamento consciente",
+        "d": "Desviar a energia das pulsões sexuais para atividades socialmente valorizadas, como a arte",
+        "e": "Buscar ativamente a satisfação imediata das pulsões, ignorando as exigências da realidade"
+      },
+      "correct": "b",
+      "explanation": "O recalque é o mecanismo de defesa fundamental: consiste em afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente. A energia gasta para manter o conteúdo recalcado empobrece o Ego.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O recalque (repressão), descrito como o mecanismo de defesa fundamental do Ego na teoria psicanalítica, consiste em: O recalque é o mecanismo de defesa fundamental: consiste em afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente. A energia gasta para manter o conteúdo recalcado empobrece o Ego."
+    },
+    {
+      "id": "fund-obj-065",
+      "topic": "Psicanálise (Freud)",
+      "question": "Uma pessoa que possui impulsos agressivos não reconhecidos e passa a acreditar que o mundo ao seu redor é hostil e ameaçador está utilizando, segundo a teoria psicanalítica, o mecanismo de defesa denominado:",
+      "options": {
+        "a": "Sublimação",
+        "b": "Formação reativa",
+        "c": "Projeção",
+        "d": "Recalque",
+        "e": "Racionalização secundária"
+      },
+      "correct": "c",
+      "explanation": "A projeção ocorre quando o sujeito atribui a outras pessoas ou objetos externos os sentimentos, desejos ou intenções inaceitáveis que pertencem a ele próprio — como no exemplo de impulsos agressivos não reconhecidos que levam à percepção do mundo como hostil.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Uma pessoa que possui impulsos agressivos não reconhecidos e passa a acreditar que o mundo ao seu redor é hostil e ameaçador está utilizando, segundo a teoria psicanalítica, o mecanismo de defesa denominado: A projeção ocorre quando o sujeito atribui a outras pessoas ou objetos externos os sentimentos, desejos ou intenções inaceitáveis que pertencem a ele próprio — como no exemplo de impulsos agressivos não reconhecidos que levam à percepção do mundo como hostil."
+    },
+    {
+      "id": "fund-obj-066",
+      "topic": "Psicanálise (Freud)",
+      "question": "Considerado por Freud o mecanismo de defesa mais maduro e saudável, aquele que consiste em desviar a energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte, denomina-se:",
+      "options": {
+        "a": "Formação reativa",
+        "b": "Recalque",
+        "c": "Projeção",
+        "d": "Sublimação",
+        "e": "Negação"
+      },
+      "correct": "d",
+      "explanation": "A sublimação é considerada o mecanismo de defesa mais maduro e saudável: trata-se do desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Considerado por Freud o mecanismo de defesa mais maduro e saudável, aquele que consiste em desviar a energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte, denomina-se: A sublimação é considerada o mecanismo de defesa mais maduro e saudável: trata-se do desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte."
+    },
+    {
+      "id": "fund-obj-067",
+      "topic": "Psicanálise (Freud)",
+      "question": "A conceituação detalhada dos mecanismos de defesa do Ego, ampliando o trabalho original de Sigmund Freud, foi desenvolvida de forma sistemática por:",
+      "options": {
+        "a": "Josef Breuer",
+        "b": "Jean-Martin Charcot",
+        "c": "Anna Freud",
+        "d": "Wilhelm Wundt",
+        "e": "Carl Rogers"
+      },
+      "correct": "c",
+      "explanation": "A conceituação detalhada dos mecanismos de defesa do Ego foi ampliada por Anna Freud, filha de Sigmund Freud, que sistematizou o estudo dessas estratégias inconscientes utilizadas para lidar com a angústia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "A conceituação detalhada dos mecanismos de defesa do Ego, ampliando o trabalho original de Sigmund Freud, foi desenvolvida de forma sistemática por: A conceituação detalhada dos mecanismos de defesa do Ego foi ampliada por Anna Freud, filha de Sigmund Freud, que sistematizou o estudo dessas estratégias inconscientes utilizadas para lidar com a angústia."
+    },
+    {
+      "id": "fund-obj-068",
+      "topic": "Psicanálise (Freud)",
+      "question": "Segundo o estudo dos mecanismos de defesa na teoria psicanalítica, o uso de defesas pelo Ego é considerado:",
+      "options": {
+        "a": "Um processo exclusivamente patológico, presente apenas em quadros psicóticos graves",
+        "b": "Um processo normal e necessário para a adaptação humana, tornando-se patológico apenas quando rígido, excessivo e quando compromete a percepção da realidade",
+        "c": "Um recurso voluntário e consciente, plenamente controlável pela vontade do sujeito",
+        "d": "Uma capacidade exclusiva de indivíduos submetidos à psicanálise por longos períodos",
+        "e": "Um fenômeno restrito à infância, que desaparece por completo na vida adulta"
+      },
+      "correct": "b",
+      "explanation": "O uso de mecanismos de defesa é um processo normal e necessário para a adaptação humana; o aspecto patológico surge apenas quando o uso se torna rígido, excessivo e compromete a percepção da realidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o estudo dos mecanismos de defesa na teoria psicanalítica, o uso de defesas pelo Ego é considerado: O uso de mecanismos de defesa é um processo normal e necessário para a adaptação humana; o aspecto patológico surge apenas quando o uso se torna rígido, excessivo e compromete a percepção da realidade."
+    },
+    {
+      "id": "fund-obj-069",
+      "topic": "Psicanálise (Freud)",
+      "question": "A primeira grande sistematização teórica da psicanálise, na qual Freud apresentou o modelo da primeira tópica do aparelho psíquico, foi publicada na obra:",
+      "options": {
+        "a": "Cinco Lições de Psicanálise (1909)",
+        "b": "Ciência e Comportamento Humano (1953)",
+        "c": "A Interpretação dos Sonhos (1900)",
+        "d": "Tornar-se Pessoa (1961)",
+        "e": "O Comportamento Verbal (1957)"
+      },
+      "correct": "c",
+      "explanation": "A primeira grande sistematização teórica da psicanálise, com a apresentação da primeira tópica (Inconsciente, Pré-consciente, Consciente), foi publicada no livro 'A Interpretação dos Sonhos', no ano de 1900.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "A primeira grande sistematização teórica da psicanálise, na qual Freud apresentou o modelo da primeira tópica do aparelho psíquico, foi publicada na obra: A primeira grande sistematização teórica da psicanálise, com a apresentação da primeira tópica (Inconsciente, Pré-consciente, Consciente), foi publicada no livro 'A Interpretação dos Sonhos', no ano de 1900."
+    },
+    {
+      "id": "fund-obj-070",
+      "topic": "Psicanálise (Freud)",
+      "question": "A transição da primeira para a segunda tópica freudiana, ocorrida a partir de 1920, deve ser compreendida como:",
+      "options": {
+        "a": "O abandono completo e a substituição definitiva do modelo topográfico anterior",
+        "b": "Uma sobreposição que permitiu uma compreensão mais refinada dos conflitos psíquicos, sem abandonar o modelo anterior",
+        "c": "Uma reformulação motivada exclusivamente por pressões da comunidade médica vienense",
+        "d": "A negação da existência do inconsciente como sistema psíquico ativo",
+        "e": "A substituição do conceito de pulsão pelo conceito de reforço"
+      },
+      "correct": "b",
+      "explanation": "A transição da primeira para a segunda tópica não significou o abandono do modelo anterior, mas uma sobreposição que permitiu uma compreensão mais refinada dos conflitos psíquicos, agora descritos também em termos de Id, Ego e Superego.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil",
+      "miniLesson": "A transição da primeira para a segunda tópica freudiana, ocorrida a partir de 1920, deve ser compreendida como: A transição da primeira para a segunda tópica não significou o abandono do modelo anterior, mas uma sobreposição que permitiu uma compreensão mais refinada dos conflitos psíquicos, agora descritos também em termos de Id, Ego e Superego."
+    },
+    {
+      "id": "fund-obj-071",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na perspectiva do modelo estrutural freudiano, o sofrimento mental resulta, de forma central, de:",
+      "options": {
+        "a": "Uma lesão orgânica localizada e permanente no córtex cerebral",
+        "b": "Uma falha do Ego em harmonizar as forças antagônicas do Id, do Superego e da realidade externa, gerando angústia que mobiliza mecanismos de defesa",
+        "c": "Uma deficiência exclusivamente nutricional durante a fase oral do desenvolvimento",
+        "d": "Um excesso de reforçamento positivo recebido durante a infância",
+        "e": "Uma incapacidade inata e imutável de formar vínculos afetivos"
+      },
+      "correct": "b",
+      "explanation": "O sofrimento mental, na segunda tópica freudiana, resulta da falha do Ego em harmonizar as forças antagônicas que atuam sobre ele; quando a pressão do Id se torna ameaçadora, o Ego experimenta angústia e mobiliza defesas para manter a integridade psíquica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil",
+      "miniLesson": "Na perspectiva do modelo estrutural freudiano, o sofrimento mental resulta, de forma central, de: O sofrimento mental, na segunda tópica freudiana, resulta da falha do Ego em harmonizar as forças antagônicas que atuam sobre ele; quando a pressão do Id se torna ameaçadora, o Ego experimenta angústia e mobiliza defesas para manter a integridade psíquica."
+    },
+    {
+      "id": "fund-obj-072",
+      "topic": "Psicanálise (Freud)",
+      "question": "Na prática clínica contemporânea orientada pela matriz psicanalítica, a escuta do profissional de psicologia é direcionada, de modo central, para:",
+      "options": {
+        "a": "Aconselhar e educar o paciente com base exclusivamente na lógica racional consciente",
+        "b": "As entrelinhas do discurso, as repetições, os lapsos e os relatos de sonhos, buscando identificar as lógicas inconscientes que estruturam o sofrimento",
+        "c": "A prescrição de exercícios comportamentais estruturados para extinguir sintomas específicos",
+        "d": "A aplicação de testes psicométricos padronizados como via exclusiva de diagnóstico",
+        "e": "O reforçamento positivo sistemático de comportamentos socialmente desejáveis"
+      },
+      "correct": "b",
+      "explanation": "Na escuta psicanalítica contemporânea, o profissional não atua para aconselhar ou educar com base na lógica racional; a escuta é direcionada às entrelinhas do discurso, às repetições, aos lapsos e aos relatos de sonhos, em busca das lógicas inconscientes que estruturam o sofrimento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Na prática clínica contemporânea orientada pela matriz psicanalítica, a escuta do profissional de psicologia é direcionada, de modo central, para: Na escuta psicanalítica contemporânea, o profissional não atua para aconselhar ou educar com base na lógica racional; a escuta é direcionada às entrelinhas do discurso, às repetições, aos lapsos e aos relatos de sonhos, em busca das lógicas inconscientes que estruturam o sofrimento."
+    },
+    {
+      "id": "fund-obj-073",
+      "topic": "Psicanálise (Freud)",
+      "question": "Um paciente relata, em análise, sentir um cuidado excessivo e sufocante por um familiar por quem, segundo interpretação do analista, nutre na realidade um ódio intenso e reprimido. Esse quadro clínico ilustra o mecanismo de defesa denominado:",
+      "options": {
+        "a": "Projeção",
+        "b": "Sublimação",
+        "c": "Formação reativa",
+        "d": "Recalque puro",
+        "e": "Regressão à fase oral"
+      },
+      "correct": "c",
+      "explanation": "A formação reativa consiste em substituir um impulso inaceitável (como o ódio) por seu oposto diametral na consciência e no comportamento (como o cuidado excessivo e sufocante) — exatamente o exemplo descrito no estudo dos mecanismos de defesa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Um paciente relata, em análise, sentir um cuidado excessivo e sufocante por um familiar por quem, segundo interpretação do analista, nutre na realidade um ódio intenso e reprimido. Esse quadro clínico ilustra o mecanismo de defesa denominado: A formação reativa consiste em substituir um impulso inaceitável (como o ódio) por seu oposto diametral na consciência e no comportamento (como o cuidado excessivo e sufocante) — exatamente o exemplo descrito no estudo dos mecanismos de defesa."
+    },
+    {
+      "id": "fund-obj-074",
+      "topic": "Psicanálise (Freud)",
+      "question": "Um pesquisador dedica intensa energia e dedicação ao trabalho científico, canalizando de forma produtiva impulsos que, em sua origem, possuíam natureza pulsional. Segundo a teoria psicanalítica dos mecanismos de defesa, essa situação exemplifica:",
+      "options": {
+        "a": "Recalque",
+        "b": "Sublimação",
+        "c": "Projeção",
+        "d": "Formação reativa",
+        "e": "Transferência positiva"
+      },
+      "correct": "b",
+      "explanation": "A sublimação, mecanismo de defesa considerado o mais maduro e saudável, consiste no desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a pesquisa científica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "Um pesquisador dedica intensa energia e dedicação ao trabalho científico, canalizando de forma produtiva impulsos que, em sua origem, possuíam natureza pulsional. Segundo a teoria psicanalítica dos mecanismos de defesa, essa situação exemplifica: A sublimação, mecanismo de defesa considerado o mais maduro e saudável, consiste no desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a pesquisa científica."
+    },
+    {
+      "id": "fund-obj-075",
+      "topic": "Psicanálise (Freud)",
+      "question": "Durante uma sessão de terapia, um paciente passa a nutrir sentimentos afetivos intensos pelo profissional, reproduzindo padrões relacionais vividos anteriormente com figuras parentais. Esse fenômeno, identificado por Freud ainda durante o uso do método catártico, é denominado:",
+      "options": {
+        "a": "Ab-reação secundária",
+        "b": "Transferência",
+        "c": "Sublimação relacional",
+        "d": "Recalque interpessoal",
+        "e": "Resistência afetiva"
+      },
+      "correct": "b",
+      "explanation": "A transferência é o fenômeno de intensa carga afetiva que surge na relação entre paciente e terapeuta, no qual padrões relacionais vividos anteriormente (frequentemente com figuras parentais) são reproduzidos na relação terapêutica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Durante uma sessão de terapia, um paciente passa a nutrir sentimentos afetivos intensos pelo profissional, reproduzindo padrões relacionais vividos anteriormente com figuras parentais. Esse fenômeno, identificado por Freud ainda durante o uso do método catártico, é denominado: A transferência é o fenômeno de intensa carga afetiva que surge na relação entre paciente e terapeuta, no qual padrões relacionais vividos anteriormente (frequentemente com figuras parentais) são reproduzidos na relação terapêutica."
+    },
+    {
+      "id": "fund-obj-076",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "B. F. Skinner propôs uma distinção fundamental entre dois tipos de comportamento para superar as limitações do modelo Estímulo-Resposta (S-R). O comportamento respondente se diferencia do comportamento operante porque:",
+      "options": {
+        "a": "O respondente é emitido pelo organismo e atua sobre o ambiente, enquanto o operante é eliciado por um estímulo antecedente",
+        "b": "O respondente é eliciado por um estímulo antecedente (englobando reflexos inatos e condicionados), enquanto o operante é emitido pelo organismo e tem sua probabilidade futura determinada pelas consequências que produziu",
+        "c": "Ambos são idênticos, sendo 'respondente' e 'operante' apenas sinônimos utilizados por diferentes autores",
+        "d": "O respondente ocorre exclusivamente em humanos, enquanto o operante ocorre exclusivamente em animais não humanos",
+        "e": "O respondente depende de reforçamento intermitente, enquanto o operante depende sempre de reforçamento contínuo"
+      },
+      "correct": "b",
+      "explanation": "O comportamento respondente é eliciado por um estímulo antecedente (reflexos inatos e condicionados por Pavlov), enquanto o comportamento operante é emitido pelo organismo e sua probabilidade futura depende das consequências que produziu no ambiente — e não do estímulo que o antecede.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "B. F. Skinner propôs uma distinção fundamental entre dois tipos de comportamento para superar as limitações do modelo Estímulo-Resposta (S-R). O comportamento respondente se diferencia do comportamento operante porque: O comportamento respondente é eliciado por um estímulo antecedente (reflexos inatos e condicionados por Pavlov), enquanto o comportamento operante é emitido pelo organismo e sua probabilidade futura depende das consequências que produziu no ambiente — e não do estímulo que o antecede."
+    },
+    {
+      "id": "fund-obj-077",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A formulação skinneriana do comportamento operante teve como base histórica um princípio anterior, proposto por Edward Thorndike, que estabelecia que comportamentos seguidos por um estado de coisas satisfatório tendem a se repetir. Esse princípio é conhecido como:",
+      "options": {
+        "a": "Lei do Efeito",
+        "b": "Princípio da Prägnanz",
+        "c": "Lei da Generalização",
+        "d": "Princípio do Isomorfismo",
+        "e": "Lei da Extinção Operante"
+      },
+      "correct": "a",
+      "explanation": "A Lei do Efeito, proposta por Edward Thorndike, estabelece que comportamentos seguidos por um estado de coisas satisfatório tendem a se repetir, enquanto os seguidos por desconforto tendem a diminuir. Skinner refinou essa ideia, removendo os termos subjetivos e criando uma terminologia operacional.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A formulação skinneriana do comportamento operante teve como base histórica um princípio anterior, proposto por Edward Thorndike, que estabelecia que comportamentos seguidos por um estado de coisas satisfatório tendem a se repetir. Esse princípio é conhecido como: A Lei do Efeito, proposta por Edward Thorndike, estabelece que comportamentos seguidos por um estado de coisas satisfatório tendem a se repetir, enquanto os seguidos por desconforto tendem a diminuir. Skinner refinou essa ideia, removendo os termos subjetivos e criando uma terminologia operacional."
+    },
+    {
+      "id": "fund-obj-078",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Uma pessoa abre o guarda-chuva ao perceber que vai chover, evitando assim ficar molhada. Esse comportamento tende a se repetir em situações futuras semelhantes. Do ponto de vista da análise do comportamento, essa contingência é classificada como:",
+      "options": {
+        "a": "Reforço positivo, pela adição do estímulo aversivo",
+        "b": "Punição negativa, pela remoção de um estímulo reforçador",
+        "c": "Reforço negativo, pelo aumento da probabilidade do comportamento futuro via remoção ou evitação de um estímulo aversivo (ficar molhado)",
+        "d": "Punição positiva, pela adição de um estímulo aversivo ao ambiente",
+        "e": "Extinção operante, pela ausência de qualquer consequência associada ao comportamento"
+      },
+      "correct": "c",
+      "explanation": "O reforço negativo é o aumento da probabilidade do comportamento futuro pela remoção ou evitação de um estímulo aversivo — no exemplo, abrir o guarda-chuva evita a chuva (estímulo aversivo), aumentando a chance de o comportamento se repetir.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Uma pessoa abre o guarda-chuva ao perceber que vai chover, evitando assim ficar molhada. Esse comportamento tende a se repetir em situações futuras semelhantes. Do ponto de vista da análise do comportamento, essa contingência é classificada como: O reforço negativo é o aumento da probabilidade do comportamento futuro pela remoção ou evitação de um estímulo aversivo — no exemplo, abrir o guarda-chuva evita a chuva (estímulo aversivo), aumentando a chance de o comportamento se repetir."
+    },
+    {
+      "id": "fund-obj-079",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um motorista recebe uma multa de trânsito após ser flagrado em excesso de velocidade, e passa a dirigir dentro do limite permitido com maior frequência. Essa contingência, na terminologia da análise do comportamento, é classificada como:",
+      "options": {
+        "a": "Reforço positivo",
+        "b": "Punição positiva, pois há a adição de um estímulo aversivo (a multa) que diminui a probabilidade do comportamento futuro",
+        "c": "Reforço negativo, pois há a remoção de um estímulo aversivo",
+        "d": "Punição negativa, pois há a remoção de um estímulo reforçador",
+        "e": "Extinção, pois o comportamento deixa de ser seguido por qualquer consequência"
+      },
+      "correct": "b",
+      "explanation": "A punição positiva é a diminuição da probabilidade do comportamento futuro pela adição de um estímulo aversivo — no exemplo, a multa de trânsito (adição de estímulo aversivo) reduz a frequência do excesso de velocidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "Um motorista recebe uma multa de trânsito após ser flagrado em excesso de velocidade, e passa a dirigir dentro do limite permitido com maior frequência. Essa contingência, na terminologia da análise do comportamento, é classificada como: A punição positiva é a diminuição da probabilidade do comportamento futuro pela adição de um estímulo aversivo — no exemplo, a multa de trânsito (adição de estímulo aversivo) reduz a frequência do excesso de velocidade."
+    },
+    {
+      "id": "fund-obj-080",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um adolescente tem seu acesso à internet suspenso pelos pais após descumprir regras combinadas, e passa a descumpri-las com menor frequência. Essa contingência é classificada, na análise do comportamento, como:",
+      "options": {
+        "a": "Punição negativa, pois há a remoção de um estímulo reforçador (o acesso à internet), diminuindo a probabilidade do comportamento futuro",
+        "b": "Reforço negativo, pois há a remoção de um estímulo aversivo",
+        "c": "Punição positiva, pois há a adição de um estímulo aversivo",
+        "d": "Reforço positivo, pois há a adição de um estímulo reforçador",
+        "e": "Generalização de estímulos, pois o comportamento se estende a outros contextos"
+      },
+      "correct": "a",
+      "explanation": "A punição negativa é a diminuição da probabilidade do comportamento futuro pela remoção de um estímulo reforçador — no exemplo, a suspensão do acesso à internet (remoção de reforçador) reduz o descumprimento das regras.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "Um adolescente tem seu acesso à internet suspenso pelos pais após descumprir regras combinadas, e passa a descumpri-las com menor frequência. Essa contingência é classificada, na análise do comportamento, como: A punição negativa é a diminuição da probabilidade do comportamento futuro pela remoção de um estímulo reforçador — no exemplo, a suspensão do acesso à internet (remoção de reforçador) reduz o descumprimento das regras."
+    },
+    {
+      "id": "fund-obj-081",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Skinner dedicou extensa parte de sua obra a alertar sobre os efeitos colaterais do uso da punição como estratégia de controle do comportamento. Entre esses efeitos colaterais, destaca-se que a punição:",
+      "options": {
+        "a": "Ensina de forma eficaz um comportamento alternativo adequado para substituir o comportamento indesejado",
+        "b": "Pode suprimir um comportamento a curto prazo, mas não ensina um comportamento alternativo e com frequência gera respostas emocionais aversivas, como ansiedade, medo e esquiva em relação a quem pune",
+        "c": "É sempre mais eficaz do que o reforçamento positivo para a modelagem de novos repertórios comportamentais",
+        "d": "Não produz nenhum efeito mensurável sobre o comportamento futuro do organismo",
+        "e": "Aumenta de forma consistente e duradoura a frequência do comportamento punido"
+      },
+      "correct": "b",
+      "explanation": "Embora a punição possa suprimir um comportamento a curto prazo, ela não ensina um comportamento alternativo adequado e com frequência gera respostas emocionais aversivas, como ansiedade, medo e esquiva em relação à pessoa que pune — por isso Skinner priorizava o reforçamento positivo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Skinner dedicou extensa parte de sua obra a alertar sobre os efeitos colaterais do uso da punição como estratégia de controle do comportamento. Entre esses efeitos colaterais, destaca-se que a punição: Embora a punição possa suprimir um comportamento a curto prazo, ela não ensina um comportamento alternativo adequado e com frequência gera respostas emocionais aversivas, como ansiedade, medo e esquiva em relação à pessoa que pune — por isso Skinner priorizava o reforçamento positivo."
+    },
+    {
+      "id": "fund-obj-082",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "No estudo dos esquemas de reforçamento propostos por Skinner, a diferença central entre reforçamento contínuo e reforçamento intermitente é que:",
+      "options": {
+        "a": "No contínuo, toda resposta emitida é reforçada; no intermitente, apenas algumas respostas são reforçadas",
+        "b": "No contínuo, o reforço nunca é entregue; no intermitente, o reforço é sempre entregue",
+        "c": "O reforçamento contínuo é aplicável apenas a animais, e o intermitente apenas a humanos",
+        "d": "O reforçamento intermitente sempre gera extinção mais rápida do que o reforçamento contínuo",
+        "e": "Não há diferença funcional entre os dois tipos de esquema de reforçamento"
+      },
+      "correct": "a",
+      "explanation": "No reforçamento contínuo, toda resposta emitida pelo organismo é reforçada; no reforçamento intermitente, apenas algumas respostas são reforçadas, segundo critérios de tempo (intervalo) ou número de respostas (razão).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "No estudo dos esquemas de reforçamento propostos por Skinner, a diferença central entre reforçamento contínuo e reforçamento intermitente é que: No reforçamento contínuo, toda resposta emitida pelo organismo é reforçada; no reforçamento intermitente, apenas algumas respostas são reforçadas, segundo critérios de tempo (intervalo) ou número de respostas (razão)."
+    },
+    {
+      "id": "fund-obj-083",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Os esquemas de reforçamento intermitente podem ser organizados com base no número de respostas emitidas (razão) ou no tempo decorrido (intervalo), sendo cada um deles fixo ou variável. Um esquema no qual o reforço é entregue sempre após exatamente dez respostas é classificado como:",
+      "options": {
+        "a": "Razão variável",
+        "b": "Intervalo fixo",
+        "c": "Razão fixa",
+        "d": "Intervalo variável",
+        "e": "Reforçamento contínuo"
+      },
+      "correct": "c",
+      "explanation": "Um esquema de razão fixa entrega o reforço após um número fixo e previsível de respostas — no exemplo, sempre após a décima resposta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Os esquemas de reforçamento intermitente podem ser organizados com base no número de respostas emitidas (razão) ou no tempo decorrido (intervalo), sendo cada um deles fixo ou variável. Um esquema no qual o reforço é entregue sempre após exatamente dez respostas é classificado como: Um esquema de razão fixa entrega o reforço após um número fixo e previsível de respostas — no exemplo, sempre após a décima resposta."
+    },
+    {
+      "id": "fund-obj-084",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "O funcionamento de máquinas caça-níqueis é frequentemente utilizado para exemplificar um esquema de reforçamento específico, no qual o reforço é apresentado após um número imprevisível de respostas, variando em torno de uma média. Esse esquema, descrito no estudo do behaviorismo radical, é o de:",
+      "options": {
+        "a": "Intervalo fixo, que gera pausas previsíveis após cada reforço",
+        "b": "Razão variável, que produz taxas de resposta altíssimas e extrema resistência à extinção",
+        "c": "Reforçamento contínuo, no qual toda resposta é reforçada de forma previsível",
+        "d": "Intervalo variável, que depende exclusivamente da passagem do tempo",
+        "e": "Extinção programada, que elimina gradualmente a resposta operante"
+      },
+      "correct": "b",
+      "explanation": "No esquema de razão variável, o reforço é apresentado após um número imprevisível de respostas, variando em torno de uma média — o que produz taxas de resposta altíssimas e extrema resistência à extinção, como no funcionamento de máquinas caça-níqueis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O funcionamento de máquinas caça-níqueis é frequentemente utilizado para exemplificar um esquema de reforçamento específico, no qual o reforço é apresentado após um número imprevisível de respostas, variando em torno de uma média. Esse esquema, descrito no estudo do behaviorismo radical, é o de: No esquema de razão variável, o reforço é apresentado após um número imprevisível de respostas, variando em torno de uma média — o que produz taxas de resposta altíssimas e extrema resistência à extinção, como no funcionamento de máquinas caça-níqueis."
+    },
+    {
+      "id": "fund-obj-085",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Para investigar as interações entre organismo e ambiente com controle rigoroso, Skinner desenvolveu uma metodologia de pesquisa própria, conhecida como Análise Experimental do Comportamento (AEC), que se diferenciava da psicologia tradicional da época por:",
+      "options": {
+        "a": "Depender exclusivamente de grandes grupos de sujeitos e de análises estatísticas complexas para inferir médias de comportamento",
+        "b": "Propor o delineamento de sujeito único, partindo da premissa de que a variabilidade comportamental resulta de variáveis ambientais não controladas, e não de uma falha inerente ao organismo",
+        "c": "Basear-se exclusivamente em relatos introspectivos fornecidos pelos próprios participantes da pesquisa",
+        "d": "Rejeitar por completo o uso de qualquer equipamento automatizado de registro de respostas",
+        "e": "Utilizar apenas entrevistas clínicas não estruturadas como principal instrumento de coleta de dados"
+      },
+      "correct": "b",
+      "explanation": "A Análise Experimental do Comportamento (AEC) propôs o delineamento de sujeito único: se o pesquisador controlar o ambiente de forma rigorosa, o comportamento de um único sujeito revelará leis gerais de aprendizagem, pois a variabilidade não é uma falha do organismo, mas resultado de variáveis ambientais não controladas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "Para investigar as interações entre organismo e ambiente com controle rigoroso, Skinner desenvolveu uma metodologia de pesquisa própria, conhecida como Análise Experimental do Comportamento (AEC), que se diferenciava da psicologia tradicional da época por: A Análise Experimental do Comportamento (AEC) propôs o delineamento de sujeito único: se o pesquisador controlar o ambiente de forma rigorosa, o comportamento de um único sujeito revelará leis gerais de aprendizagem, pois a variabilidade não é uma falha do organismo, mas resultado de variáveis ambientais não controladas."
+    },
+    {
+      "id": "fund-obj-086",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "O equipamento desenvolvido por Skinner para o estudo experimental do condicionamento operante, popularmente conhecido como 'Caixa de Skinner', tinha como principal função:",
+      "options": {
+        "a": "Medir com precisão a temperatura corporal do animal durante o experimento",
+        "b": "Isolar o organismo de estímulos externos, registrando de forma automatizada e contínua as respostas emitidas e as consequências entregues, eliminando o viés do observador",
+        "c": "Induzir hipnoticamente o animal para observar reações emocionais condicionadas",
+        "d": "Aplicar choques elétricos ininterruptos para testar os limites da resistência à dor",
+        "e": "Simular o ambiente natural do animal com o máximo de fidelidade possível"
+      },
+      "correct": "b",
+      "explanation": "A câmara de condicionamento operante (Caixa de Skinner) consistia em um espaço isolado de estímulos externos, equipado com manipuladores e dispensadores de consequências automatizados, permitindo o registro contínuo das respostas e eliminando o viés do observador humano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O equipamento desenvolvido por Skinner para o estudo experimental do condicionamento operante, popularmente conhecido como 'Caixa de Skinner', tinha como principal função: A câmara de condicionamento operante (Caixa de Skinner) consistia em um espaço isolado de estímulos externos, equipado com manipuladores e dispensadores de consequências automatizados, permitindo o registro contínuo das respostas e eliminando o viés do observador humano."
+    },
+    {
+      "id": "fund-obj-087",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A Análise Experimental do Comportamento estabeleceu um modelo de análise conhecido como contingência tríplice ou modelo A-B-C. Nesse modelo, a letra 'A' corresponde a:",
+      "options": {
+        "a": "A resposta operante emitida pelo organismo",
+        "b": "O evento ambiental que segue o comportamento e altera sua probabilidade futura",
+        "c": "O antecedente: o contexto ou estímulo discriminativo que sinaliza a disponibilidade de uma consequência",
+        "d": "A abreação, conceito herdado da psicanálise freudiana",
+        "e": "A associação livre entre estímulo neutro e estímulo incondicionado"
+      },
+      "correct": "c",
+      "explanation": "No modelo de contingência tríplice A-B-C, o Antecedente (A) é o contexto ou estímulo discriminativo que sinaliza a disponibilidade de uma consequência; o Comportamento (B) é a resposta operante; e a Consequência (C) é o evento que altera a probabilidade futura da resposta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16-17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A Análise Experimental do Comportamento estabeleceu um modelo de análise conhecido como contingência tríplice ou modelo A-B-C. Nesse modelo, a letra 'A' corresponde a: No modelo de contingência tríplice A-B-C, o Antecedente (A) é o contexto ou estímulo discriminativo que sinaliza a disponibilidade de uma consequência; o Comportamento (B) é a resposta operante; e a Consequência (C) é o evento que altera a probabilidade futura da resposta."
+    },
+    {
+      "id": "fund-obj-088",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um profissional de psicologia atende uma criança com Transtorno do Espectro Autista que apresenta comportamentos autolesivos. Ao investigar o que ocorre antes e depois da autolesão, descobrindo que ela é mantida pela fuga de tarefas escolares difíceis, o profissional está realizando um procedimento característico da:",
+      "options": {
+        "a": "Escuta psicanalítica, centrada na interpretação dos conteúdos inconscientes reprimidos",
+        "b": "Avaliação funcional do comportamento, própria da Análise do Comportamento Aplicada (ABA), que investiga antecedentes e consequências mantenedoras do comportamento",
+        "c": "Terapia centrada na pessoa, baseada nas condições facilitadoras de Carl Rogers",
+        "d": "Fenomenologia husserliana aplicada à experiência subjetiva da criança",
+        "e": "Análise da hierarquia das necessidades proposta por Abraham Maslow"
+      },
+      "correct": "b",
+      "explanation": "A avaliação funcional do comportamento, ferramenta central da Análise do Comportamento Aplicada (ABA), investiga os antecedentes (o que ocorre antes) e as consequências (o que o comportamento produz ou evita) para identificar a função do comportamento — no exemplo, a fuga de uma tarefa difícil, mantida por reforçamento negativo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um profissional de psicologia atende uma criança com Transtorno do Espectro Autista que apresenta comportamentos autolesivos. Ao investigar o que ocorre antes e depois da autolesão, descobrindo que ela é mantida pela fuga de tarefas escolares difíceis, o profissional está realizando um procedimento característico da: A avaliação funcional do comportamento, ferramenta central da Análise do Comportamento Aplicada (ABA), investiga os antecedentes (o que ocorre antes) e as consequências (o que o comportamento produz ou evita) para identificar a função do comportamento — no exemplo, a fuga de uma tarefa difícil, mantida por reforçamento negativo."
+    },
+    {
+      "id": "fund-obj-089",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A aplicação dos princípios da análise do comportamento ao ambiente corporativo, orientando o desenho de sistemas de metas, a melhoria da segurança no trabalho e a promoção da cultura organizacional por meio de contingências de reforçamento, é conhecida pela sigla:",
+      "options": {
+        "a": "ABA (Applied Behavior Analysis)",
+        "b": "TCC (Terapia Cognitivo-Comportamental)",
+        "c": "OBM (Organizational Behavior Management)",
+        "d": "AEC (Análise Experimental do Comportamento)",
+        "e": "ACT (Terapia de Aceitação e Compromisso)"
+      },
+      "correct": "c",
+      "explanation": "O Gerenciamento do Comportamento Organizacional (OBM - Organizational Behavior Management) aplica os princípios de reforçamento ao ambiente corporativo, orientando sistemas de metas, segurança no trabalho e cultura organizacional.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "A aplicação dos princípios da análise do comportamento ao ambiente corporativo, orientando o desenho de sistemas de metas, a melhoria da segurança no trabalho e a promoção da cultura organizacional por meio de contingências de reforçamento, é conhecida pela sigla: O Gerenciamento do Comportamento Organizacional (OBM - Organizational Behavior Management) aplica os princípios de reforçamento ao ambiente corporativo, orientando sistemas de metas, segurança no trabalho e cultura organizacional."
+    },
+    {
+      "id": "fund-obj-090",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Em 1957, Skinner publicou o livro 'O Comportamento Verbal', no qual buscava explicar a aquisição da linguagem humana por meio de:",
+      "options": {
+        "a": "Uma estrutura inata e biológica de processamento de regras gramaticais",
+        "b": "Contingências de reforçamento, aplicando os mesmos princípios do condicionamento operante à linguagem",
+        "c": "Mapas cognitivos formados independentemente de qualquer reforço ambiental",
+        "d": "Esquemas cognitivos e distorções de processamento de informação",
+        "e": "Arquétipos universais herdados geneticamente por toda a espécie humana"
+      },
+      "correct": "b",
+      "explanation": "Em 'O Comportamento Verbal' (1957), Skinner tentou explicar a linguagem humana através das contingências de reforçamento, aplicando à fala os mesmos princípios do condicionamento operante estudados em laboratório.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Em 1957, Skinner publicou o livro 'O Comportamento Verbal', no qual buscava explicar a aquisição da linguagem humana por meio de: Em 'O Comportamento Verbal' (1957), Skinner tentou explicar a linguagem humana através das contingências de reforçamento, aplicando à fala os mesmos princípios do condicionamento operante estudados em laboratório."
+    },
+    {
+      "id": "fund-obj-091",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A obra 'O Comportamento Verbal', de Skinner, recebeu em 1959 uma resenha crítica do linguista Noam Chomsky que se tornaria um marco na crise do paradigma comportamental estrito. O argumento central de Chomsky contra a explicação skinneriana da linguagem foi:",
+      "options": {
+        "a": "Que a linguagem humana é criativa e generativa: crianças produzem frases nunca ouvidas antes, que portanto não poderiam ter sido reforçadas, o que exigiria postular uma estrutura inata para a aquisição da linguagem",
+        "b": "Que o comportamento verbal não existe como categoria científica válida de análise",
+        "c": "Que apenas o reforçamento contínuo, e nunca o intermitente, poderia explicar a aquisição da linguagem",
+        "d": "Que a linguagem é adquirida exclusivamente por meio de condicionamento clássico pavloviano",
+        "e": "Que Skinner havia ignorado por completo o papel do ambiente na aquisição da linguagem"
+      },
+      "correct": "a",
+      "explanation": "Chomsky argumentou que a linguagem humana é criativa e generativa — as crianças produzem frases que nunca ouviram antes e que, portanto, nunca poderiam ter sido reforçadas — defendendo a existência de uma estrutura inata para a aquisição da linguagem, o que evidenciou a necessidade de postular estruturas mentais internas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "A obra 'O Comportamento Verbal', de Skinner, recebeu em 1959 uma resenha crítica do linguista Noam Chomsky que se tornaria um marco na crise do paradigma comportamental estrito. O argumento central de Chomsky contra a explicação skinneriana da linguagem foi: Chomsky argumentou que a linguagem humana é criativa e generativa — as crianças produzem frases que nunca ouviram antes e que, portanto, nunca poderiam ter sido reforçadas — defendendo a existência de uma estrutura inata para a aquisição da linguagem, o que evidenciou a necessidade de postular estruturas mentais internas."
+    },
+    {
+      "id": "fund-obj-092",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "O termo 'radical', utilizado para qualificar o behaviorismo de Skinner, não significa 'extremo' ou 'inflexível', mas sim:",
+      "options": {
+        "a": "Uma referência à raiz da questão filosófica, indicando que pensamentos e sentimentos também são comportamentos, sujeitos às mesmas leis de aprendizagem que os comportamentos públicos",
+        "b": "Uma crítica exclusiva à prática da psicanálise, sem qualquer relação com a filosofia da ciência",
+        "c": "A defesa de que apenas comportamentos observáveis publicamente merecem ser chamados de comportamento",
+        "d": "Uma alusão à radicalização política dos primeiros behavioristas norte-americanos",
+        "e": "A rejeição total de qualquer forma de reforçamento como explicação do comportamento"
+      },
+      "correct": "a",
+      "explanation": "O termo 'radical' refere-se à raiz da questão filosófica: diferente de Watson, que excluía eventos internos da ciência por não serem observáveis publicamente, Skinner adotou uma postura monista, segundo a qual pensamentos e sentimentos são comportamentos, sujeitos às mesmas leis de aprendizagem que os públicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "O termo 'radical', utilizado para qualificar o behaviorismo de Skinner, não significa 'extremo' ou 'inflexível', mas sim: O termo 'radical' refere-se à raiz da questão filosófica: diferente de Watson, que excluía eventos internos da ciência por não serem observáveis publicamente, Skinner adotou uma postura monista, segundo a qual pensamentos e sentimentos são comportamentos, sujeitos às mesmas leis de aprendizagem que os públicos."
+    },
+    {
+      "id": "fund-obj-093",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Comparando o behaviorismo metodológico de Watson com o behaviorismo radical de Skinner quanto ao tratamento dos eventos privados (pensamentos e sentimentos), é correto afirmar que:",
+      "options": {
+        "a": "Ambos negavam por completo a existência de qualquer evento privado",
+        "b": "Watson excluía os eventos privados do escopo da ciência por não serem observáveis publicamente; Skinner os incluía, entendendo-os como comportamentos regidos pelas mesmas leis de aprendizagem",
+        "c": "Watson incluía os eventos privados na ciência; Skinner os excluía por completo",
+        "d": "Ambos consideravam os eventos privados o único objeto legítimo de estudo da psicologia científica",
+        "e": "Não há qualquer diferença relevante entre as duas posturas quanto a esse tema"
+      },
+      "correct": "b",
+      "explanation": "Para o behaviorismo metodológico de Watson, os eventos privados podiam até existir, mas não deveriam ser objeto de estudo científico por não serem observáveis publicamente. Já o behaviorismo radical de Skinner adotou postura monista: pensamentos e sentimentos são comportamentos, sujeitos às mesmas leis de aprendizagem dos comportamentos públicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "Comparando o behaviorismo metodológico de Watson com o behaviorismo radical de Skinner quanto ao tratamento dos eventos privados (pensamentos e sentimentos), é correto afirmar que: Para o behaviorismo metodológico de Watson, os eventos privados podiam até existir, mas não deveriam ser objeto de estudo científico por não serem observáveis publicamente. Já o behaviorismo radical de Skinner adotou postura monista: pensamentos e sentimentos são comportamentos, sujeitos às mesmas leis de aprendizagem dos comportamentos públicos."
+    },
+    {
+      "id": "fund-obj-094",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Uma criança, ao ser exposta a uma tarefa escolar difícil, começa a chorar; a professora, então, retira a tarefa e a criança para de chorar. Nas ocasiões seguintes, o choro diante de tarefas difíceis torna-se mais frequente. Do ponto de vista da análise funcional do comportamento, o choro está sendo mantido por:",
+      "options": {
+        "a": "Punição positiva, pela adição da tarefa escolar como estímulo aversivo",
+        "b": "Reforço negativo, pela remoção da tarefa (estímulo aversivo) contingente ao comportamento de chorar",
+        "c": "Extinção operante, pela ausência de qualquer consequência ligada ao choro",
+        "d": "Punição negativa, pela remoção de um estímulo reforçador",
+        "e": "Reforço positivo, pela adição de um estímulo reforçador ao ambiente"
+      },
+      "correct": "b",
+      "explanation": "O choro está sendo mantido por reforço negativo: a remoção da tarefa difícil (estímulo aversivo) é contingente ao comportamento de chorar, aumentando a probabilidade de esse comportamento se repetir diante de novas tarefas difíceis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança, ao ser exposta a uma tarefa escolar difícil, começa a chorar; a professora, então, retira a tarefa e a criança para de chorar. Nas ocasiões seguintes, o choro diante de tarefas difíceis torna-se mais frequente. Do ponto de vista da análise funcional do comportamento, o choro está sendo mantido por: O choro está sendo mantido por reforço negativo: a remoção da tarefa difícil (estímulo aversivo) é contingente ao comportamento de chorar, aumentando a probabilidade de esse comportamento se repetir diante de novas tarefas difíceis."
+    },
+    {
+      "id": "fund-obj-095",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um vendedor recebe comissões cujo valor e frequência variam de forma imprevisível a cada venda concluída, mas mantém taxas de trabalho extremamente altas e resistentes a períodos sem vendas. Esse padrão de comportamento é mais bem explicado pelo esquema de reforçamento denominado:",
+      "options": {
+        "a": "Reforçamento contínuo",
+        "b": "Intervalo fixo",
+        "c": "Razão variável",
+        "d": "Extinção programada",
+        "e": "Punição intermitente"
+      },
+      "correct": "c",
+      "explanation": "O esquema de razão variável, no qual o reforço é entregue após um número imprevisível de respostas, produz taxas de resposta altíssimas e extrema resistência à extinção — padrão observado tanto em máquinas caça-níqueis quanto em sistemas de comissão variável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um vendedor recebe comissões cujo valor e frequência variam de forma imprevisível a cada venda concluída, mas mantém taxas de trabalho extremamente altas e resistentes a períodos sem vendas. Esse padrão de comportamento é mais bem explicado pelo esquema de reforçamento denominado: O esquema de razão variável, no qual o reforço é entregue após um número imprevisível de respostas, produz taxas de resposta altíssimas e extrema resistência à extinção — padrão observado tanto em máquinas caça-níqueis quanto em sistemas de comissão variável."
+    },
+    {
+      "id": "fund-obj-096",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um estudante passa a evitar sistematicamente as aulas de um determinado professor após ter sido repreendido publicamente por ele diante da turma. Esse padrão de esquiva ilustra, segundo os alertas de Skinner sobre a punição, que:",
+      "options": {
+        "a": "A punição sempre ensina de forma eficaz o comportamento correto a ser adotado no futuro",
+        "b": "A punição pode gerar respostas emocionais aversivas e esquiva em relação a quem pune, sem necessariamente ensinar um comportamento alternativo adequado",
+        "c": "A repreensão pública é tecnicamente classificada como reforço positivo",
+        "d": "A esquiva do professor representa, nesse caso, um comportamento respondente eliciado por um estímulo incondicionado",
+        "e": "A punição elimina de forma definitiva e sem efeitos colaterais o comportamento indesejado original"
+      },
+      "correct": "b",
+      "explanation": "Este é um exemplo clássico dos efeitos colaterais da punição alertados por Skinner: a repreensão pública (punição positiva) gerou esquiva do estudante em relação à figura que pune, sem necessariamente ensinar o comportamento acadêmico alternativo desejado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um estudante passa a evitar sistematicamente as aulas de um determinado professor após ter sido repreendido publicamente por ele diante da turma. Esse padrão de esquiva ilustra, segundo os alertas de Skinner sobre a punição, que: Este é um exemplo clássico dos efeitos colaterais da punição alertados por Skinner: a repreensão pública (punição positiva) gerou esquiva do estudante em relação à figura que pune, sem necessariamente ensinar o comportamento acadêmico alternativo desejado."
+    },
+    {
+      "id": "fund-obj-097",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Uma empresa passa a elogiar publicamente e reconhecer os funcionários que seguem corretamente os protocolos de segurança no trabalho, e observa um aumento consistente na adesão às normas de segurança. Essa intervenção, fundamentada nos princípios do behaviorismo radical, é um exemplo de aplicação do(a):",
+      "options": {
+        "a": "Análise do Comportamento Aplicada (ABA) em contexto clínico infantil",
+        "b": "Gerenciamento do Comportamento Organizacional (OBM), utilizando reforço positivo para consolidar comportamentos seguros",
+        "c": "Terapia de Aceitação e Compromisso (ACT) aplicada ao ambiente de trabalho",
+        "d": "Condicionamento clássico pavloviano, associando o ambiente de trabalho a um estímulo neutro",
+        "e": "Behaviorismo metodológico de Watson, focado exclusivamente no modelo Estímulo-Resposta"
+      },
+      "correct": "b",
+      "explanation": "O exemplo ilustra o Gerenciamento do Comportamento Organizacional (OBM), que utiliza a aplicação sistemática de consequências positivas (reconhecimento e elogio público) para comportamentos seguros, consolidando a cultura de segurança no trabalho.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Uma empresa passa a elogiar publicamente e reconhecer os funcionários que seguem corretamente os protocolos de segurança no trabalho, e observa um aumento consistente na adesão às normas de segurança. Essa intervenção, fundamentada nos princípios do behaviorismo radical, é um exemplo de aplicação do(a): O exemplo ilustra o Gerenciamento do Comportamento Organizacional (OBM), que utiliza a aplicação sistemática de consequências positivas (reconhecimento e elogio público) para comportamentos seguros, consolidando a cultura de segurança no trabalho."
+    },
+    {
+      "id": "fund-obj-098",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Em 1913, John B. Watson publicou o manifesto que fundou o behaviorismo metodológico, propondo que a psicologia deveria abandonar por completo o estudo da consciência. Skinner, embora reconhecesse a importância dessa ruptura inicial, identificou uma limitação central no modelo watsoniano, relacionada ao fato de que:",
+      "options": {
+        "a": "O modelo Estímulo-Resposta (S-R) era insuficiente para explicar a vasta maioria dos comportamentos humanos, pois não explicava como o organismo age sobre o ambiente para produzir mudanças",
+        "b": "Watson havia incluído erroneamente os eventos privados no escopo da ciência psicológica",
+        "c": "O behaviorismo metodológico já previa integralmente o conceito de reforçamento operante",
+        "d": "Watson defendia que o comportamento humano era determinado exclusivamente pela genética",
+        "e": "O modelo S-R de Watson havia sido formulado a partir de pesquisas em análise experimental do comportamento"
+      },
+      "correct": "a",
+      "explanation": "Skinner identificou que o modelo Estímulo-Resposta (S-R) de Watson explicava como reagimos de forma reflexa ao ambiente, mas não explicava como agimos sobre o ambiente para produzir mudanças — limitação que o levou a formular o conceito de comportamento operante.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Em 1913, John B. Watson publicou o manifesto que fundou o behaviorismo metodológico, propondo que a psicologia deveria abandonar por completo o estudo da consciência. Skinner, embora reconhecesse a importância dessa ruptura inicial, identificou uma limitação central no modelo watsoniano, relacionada ao fato de que: Skinner identificou que o modelo Estímulo-Resposta (S-R) de Watson explicava como reagimos de forma reflexa ao ambiente, mas não explicava como agimos sobre o ambiente para produzir mudanças — limitação que o levou a formular o conceito de comportamento operante."
+    },
+    {
+      "id": "fund-obj-099",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um esquema de reforçamento no qual o reforço é entregue para a primeira resposta emitida após um período de tempo predeterminado e constante (por exemplo, a cada cinco minutos) é classificado como:",
+      "options": {
+        "a": "Razão fixa",
+        "b": "Razão variável",
+        "c": "Intervalo fixo",
+        "d": "Intervalo variável",
+        "e": "Reforçamento contínuo"
+      },
+      "correct": "c",
+      "explanation": "No esquema de intervalo fixo, o reforço é entregue para a primeira resposta emitida após um período de tempo constante e predeterminado, diferindo do esquema de razão, que se baseia no número de respostas emitidas, e não no tempo decorrido.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um esquema de reforçamento no qual o reforço é entregue para a primeira resposta emitida após um período de tempo predeterminado e constante (por exemplo, a cada cinco minutos) é classificado como: No esquema de intervalo fixo, o reforço é entregue para a primeira resposta emitida após um período de tempo constante e predeterminado, diferindo do esquema de razão, que se baseia no número de respostas emitidas, e não no tempo decorrido."
+    },
+    {
+      "id": "fund-obj-100",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Quando o Estímulo Condicionado deixa de ser seguido pelo Estímulo Incondicionado de forma repetida e a Resposta Condicionada diminui progressivamente até desaparecer, no condicionamento clássico, esse processo recebe o nome de extinção. No condicionamento operante, o processo análogo — no qual um comportamento deixa de ser emitido por não ser mais seguido por reforço — é denominado:",
+      "options": {
+        "a": "Punição operante",
+        "b": "Extinção operante",
+        "c": "Generalização de respostas",
+        "d": "Discriminação operante",
+        "e": "Recuperação espontânea"
+      },
+      "correct": "b",
+      "explanation": "A extinção operante ocorre quando um comportamento previamente reforçado deixa de produzir a consequência reforçadora, resultando na diminuição progressiva da frequência desse comportamento — o equivalente, no condicionamento operante, à extinção descrita por Pavlov no condicionamento clássico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Quando o Estímulo Condicionado deixa de ser seguido pelo Estímulo Incondicionado de forma repetida e a Resposta Condicionada diminui progressivamente até desaparecer, no condicionamento clássico, esse processo recebe o nome de extinção. No condicionamento operante, o processo análogo — no qual um comportamento deixa de ser emitido por não ser mais seguido por reforço — é denominado: A extinção operante ocorre quando um comportamento previamente reforçado deixa de produzir a consequência reforçadora, resultando na diminuição progressiva da frequência desse comportamento — o equivalente, no condicionamento operante, à extinção descrita por Pavlov no condicionamento clássico."
+    },
+    {
+      "id": "fund-obj-101",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um psicólogo, ao investigar um comportamento de birra em uma criança, observa que a birra ocorre predominantemente no contexto do supermercado (antecedente) e é sistematicamente seguida pela entrega de um doce pelos cuidadores (consequência). Utilizando o modelo de contingência tríplice de Skinner, o profissional identifica que a birra está sendo mantida por:",
+      "options": {
+        "a": "Punição positiva, decorrente do contexto do supermercado",
+        "b": "Reforço positivo, pela adição do doce como consequência contingente à birra",
+        "c": "Reforço negativo, pela remoção de um estímulo aversivo",
+        "d": "Extinção operante, pela ausência de qualquer consequência associada à birra",
+        "e": "Generalização de estímulos, pelo contexto específico do supermercado"
+      },
+      "correct": "b",
+      "explanation": "Aplicando o modelo A-B-C, o antecedente é o contexto do supermercado, o comportamento é a birra, e a consequência é a entrega do doce — uma adição de estímulo reforçador contingente ao comportamento, caracterizando reforço positivo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16-17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um psicólogo, ao investigar um comportamento de birra em uma criança, observa que a birra ocorre predominantemente no contexto do supermercado (antecedente) e é sistematicamente seguida pela entrega de um doce pelos cuidadores (consequência). Utilizando o modelo de contingência tríplice de Skinner, o profissional identifica que a birra está sendo mantida por: Aplicando o modelo A-B-C, o antecedente é o contexto do supermercado, o comportamento é a birra, e a consequência é a entrega do doce — uma adição de estímulo reforçador contingente ao comportamento, caracterizando reforço positivo."
+    },
+    {
+      "id": "fund-obj-102",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "A automação do registro de respostas na Caixa de Skinner, produzindo gráficos de curva cumulativa nos quais a inclinação da linha representa a taxa de respostas, trouxe como principal vantagem metodológica para a Análise Experimental do Comportamento:",
+      "options": {
+        "a": "A eliminação do viés do observador e o estudo de esquemas complexos de reforçamento ao longo de centenas de horas de observação ininterrupta",
+        "b": "A possibilidade de dispensar por completo qualquer forma de controle experimental sobre o ambiente",
+        "c": "A substituição definitiva do delineamento de sujeito único por grandes amostras estatísticas",
+        "d": "A eliminação da necessidade de definir com precisão o comportamento-alvo a ser estudado",
+        "e": "A garantia de que nenhum animal jamais apresentaria variabilidade comportamental"
+      },
+      "correct": "a",
+      "explanation": "O sistema automatizado de registro contínuo da Caixa de Skinner eliminou o viés do observador humano e permitiu o estudo de esquemas complexos de reforçamento ao longo de centenas de horas de observação ininterrupta, consolidando o rigor metodológico da Análise Experimental do Comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "A automação do registro de respostas na Caixa de Skinner, produzindo gráficos de curva cumulativa nos quais a inclinação da linha representa a taxa de respostas, trouxe como principal vantagem metodológica para a Análise Experimental do Comportamento: O sistema automatizado de registro contínuo da Caixa de Skinner eliminou o viés do observador humano e permitiu o estudo de esquemas complexos de reforçamento ao longo de centenas de horas de observação ininterrupta, consolidando o rigor metodológico da Análise Experimental do Comportamento."
+    },
+    {
+      "id": "fund-obj-103",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um instrutor de natação reforça (com elogios verbais) toda e cada tentativa correta de um aluno iniciante ao praticar um novo movimento de braçada, até que o movimento seja bem estabelecido. Essa estratégia de reforçar toda resposta correta, sem exceção, caracteriza um esquema de:",
+      "options": {
+        "a": "Razão variável",
+        "b": "Intervalo fixo",
+        "c": "Reforçamento contínuo, comumente utilizado na fase inicial de aquisição de um novo comportamento",
+        "d": "Punição intermitente",
+        "e": "Extinção programada"
+      },
+      "correct": "c",
+      "explanation": "No reforçamento contínuo, toda resposta correta emitida é reforçada — esquema tipicamente utilizado na fase inicial de aquisição de um comportamento novo, antes de se passar a esquemas intermitentes para manter a resposta a longo prazo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "Um instrutor de natação reforça (com elogios verbais) toda e cada tentativa correta de um aluno iniciante ao praticar um novo movimento de braçada, até que o movimento seja bem estabelecido. Essa estratégia de reforçar toda resposta correta, sem exceção, caracteriza um esquema de: No reforçamento contínuo, toda resposta correta emitida é reforçada — esquema tipicamente utilizado na fase inicial de aquisição de um comportamento novo, antes de se passar a esquemas intermitentes para manter a resposta a longo prazo."
+    },
+    {
+      "id": "fund-obj-104",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "No modelo de contingência tríplice (A-B-C), um sinal luminoso verde que indica a um funcionário que ele pode acionar uma máquina com segurança, sabendo que essa ação será seguida de aprovação do supervisor, exemplifica o papel de:",
+      "options": {
+        "a": "Consequência, pois altera diretamente a probabilidade da resposta futura",
+        "b": "Comportamento, pois é a resposta operante emitida pelo organismo",
+        "c": "Antecedente (estímulo discriminativo), pois sinaliza o contexto em que a resposta será seguida por uma consequência reforçadora",
+        "d": "Reforço negativo, pois remove um estímulo aversivo do ambiente",
+        "e": "Punição positiva, pois adiciona um estímulo aversivo ao ambiente"
+      },
+      "correct": "c",
+      "explanation": "O sinal luminoso funciona como antecedente (estímulo discriminativo): ele não causa o comportamento diretamente, mas sinaliza o contexto em que uma determinada resposta tem maior probabilidade de ser seguida por reforço.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16-17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "No modelo de contingência tríplice (A-B-C), um sinal luminoso verde que indica a um funcionário que ele pode acionar uma máquina com segurança, sabendo que essa ação será seguida de aprovação do supervisor, exemplifica o papel de: O sinal luminoso funciona como antecedente (estímulo discriminativo): ele não causa o comportamento diretamente, mas sinaliza o contexto em que uma determinada resposta tem maior probabilidade de ser seguida por reforço."
+    },
+    {
+      "id": "fund-obj-105",
+      "topic": "Behaviorismo radical (Skinner)",
+      "question": "Um profissional de recursos humanos, ao invés de aplicar advertências (punição) para funcionários que chegam atrasados, opta por reconhecer publicamente e reforçar os que cumprem os horários combinados, obtendo redução consistente dos atrasos sem aumento de conflitos interpessoais. Essa escolha está fundamentada, do ponto de vista do behaviorismo radical, no princípio de que:",
+      "options": {
+        "a": "A punição é sempre superior ao reforçamento positivo para o controle de comportamentos em ambientes organizacionais",
+        "b": "O reforçamento positivo tende a produzir mudanças duradouras sem os efeitos colaterais emocionais (ansiedade, esquiva) frequentemente associados ao uso da punição",
+        "c": "Advertências e reforçamento positivo produzem exatamente os mesmos efeitos sobre o comportamento",
+        "d": "O comportamento de chegar no horário é um reflexo incondicionado, não sujeito a contingências operantes",
+        "e": "A ausência de qualquer consequência é sempre a estratégia mais eficaz de gestão comportamental"
+      },
+      "correct": "b",
+      "explanation": "A escolha do profissional reflete o princípio skinneriano de que o reforçamento positivo tende a consolidar comportamentos desejados de forma duradoura, evitando os efeitos colaterais emocionais (ansiedade, esquiva) que frequentemente acompanham o uso da punição — fundamento central do OBM.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Um profissional de recursos humanos, ao invés de aplicar advertências (punição) para funcionários que chegam atrasados, opta por reconhecer publicamente e reforçar os que cumprem os horários combinados, obtendo redução consistente dos atrasos sem aumento de conflitos interpessoais. Essa escolha está fundamentada, do ponto de vista do behaviorismo radical, no princípio de que: A escolha do profissional reflete o princípio skinneriano de que o reforçamento positivo tende a consolidar comportamentos desejados de forma duradoura, evitando os efeitos colaterais emocionais (ansiedade, esquiva) que frequentemente acompanham o uso da punição — fundamento central do OBM."
     }
   ],
   "discursive": [
@@ -1743,6 +3063,862 @@
       },
       "subject": "Psicanálise (Freud)",
       "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-015",
+      "topic": "Da neurologia à psicanálise",
+      "question": "Descreva a transição do contexto médico da neurologia para a psicanálise, explicando o papel de Charcot, do método catártico de Breuer (caso Anna O.) e da abreação nesse processo.",
+      "modelAnswer": "No final do século XIX, a psiquiatria e a neurologia eram dominadas por uma visão estritamente somática, segundo a qual toda afecção mental deveria ter causa orgânica. Freud, com formação em neurologia, compartilhava dessa visão até sua experiência no Hospital Salpêtrière, em Paris, sob a tutela de Jean-Martin Charcot, que demonstrava que sintomas histéricos podiam ser induzidos e removidos por hipnose — evidenciando que a origem do transtorno não era uma lesão anatômica permanente, mas uma alteração funcional e ideativa. Essa constatação foi o embrião da revolução psicanalítica: se uma ideia sugerida sob hipnose podia gerar paralisia física, os processos mentais possuíam eficácia causal sobre o organismo. De volta a Viena, Freud colaborou com Josef Breuer, que tratava a paciente Anna O. pelo método catártico: hipnotizar a paciente e incitá-la a relatar as circunstâncias do surgimento dos sintomas. A recordação do evento traumático, acompanhada da descarga emocional adequada — a abreação —, resultava no desaparecimento do sintoma.",
+      "keyPoints": [
+        {
+          "text": "Contexto médico somático e a mudança de perspectiva via Charcot/Salpêtrière",
+          "weight": 3,
+          "keywords": [
+            "Charcot",
+            "Salpêtrière",
+            "hipnose",
+            "lesão anatômica"
+          ]
+        },
+        {
+          "text": "Explica o método catártico de Breuer com o caso Anna O.",
+          "weight": 3,
+          "keywords": [
+            "método catártico",
+            "Breuer",
+            "Anna O."
+          ]
+        },
+        {
+          "text": "Define abreação como descarga emocional que faz o sintoma desaparecer",
+          "weight": 3,
+          "keywords": [
+            "abreação",
+            "descarga emocional",
+            "recordação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "4-5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-016",
+      "topic": "Primeira tópica freudiana",
+      "question": "Explique o modelo da primeira tópica freudiana, apresentado em 'A Interpretação dos Sonhos' (1900), descrevendo os três sistemas do aparelho psíquico e o que rege cada um deles.",
+      "modelAnswer": "A primeira tópica divide o aparelho psíquico em três sistemas. O Inconsciente (Ics) é regido pelo princípio do prazer e pelo processo primário: não reconhece a lógica formal, a contradição ou a passagem do tempo, e suas representações buscam descarga imediata. O Pré-consciente (Pcs) funciona como uma zona de transição, contendo memórias e conhecimentos que não estão na consciência no momento atual, mas que podem ser evocados com esforço de atenção. O Consciente (Cs) é o sistema responsável por receber as informações do mundo externo e interno, regido pelo princípio de realidade e pelo processo secundário, operando com base na lógica e na racionalidade. Esse modelo topográfico oferece uma representação espacial e funcional da mente, sendo posteriormente complementado (não substituído) pela segunda tópica, formulada a partir de 1920.",
+      "keyPoints": [
+        {
+          "text": "Define o Inconsciente (Ics): princípio do prazer, processo primário",
+          "weight": 3,
+          "keywords": [
+            "inconsciente",
+            "princípio do prazer",
+            "processo primário"
+          ]
+        },
+        {
+          "text": "Define o Pré-consciente (Pcs): zona de transição",
+          "weight": 2,
+          "keywords": [
+            "pré-consciente",
+            "zona de transição",
+            "esforço de atenção"
+          ]
+        },
+        {
+          "text": "Define o Consciente (Cs): princípio de realidade, processo secundário",
+          "weight": 3,
+          "keywords": [
+            "consciente",
+            "princípio de realidade",
+            "processo secundário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-017",
+      "topic": "Segunda tópica freudiana",
+      "question": "Explique por que Freud formulou, a partir de 1920, a segunda tópica do aparelho psíquico (modelo estrutural), descrevendo as três instâncias — Id, Ego e Superego — e a relação desse modelo com o sofrimento mental.",
+      "modelAnswer": "A partir de 1920, Freud percebeu que a primeira tópica era insuficiente para explicar fenômenos como o sentimento inconsciente de culpa e a resistência, formulando então o modelo estrutural. O Id é a instância mais primitiva e inata, constituída pelas pulsões, operando de forma inteiramente inconsciente na busca da satisfação imediata das necessidades. O Ego (Eu) é a instância mediadora, desenvolvida a partir do contato do Id com a realidade, que busca conciliar as exigências do Id, as restrições do Superego e as demandas do mundo externo, possuindo funções conscientes (percepção, pensamento) e inconscientes (mecanismos de defesa). O Superego (Super-eu) é a instância moral e julgadora, herdeira do complexo de Édipo, representando a internalização das normas, valores e proibições culturais e parentais. O sofrimento mental, nessa perspectiva, resulta da falha do Ego em harmonizar essas forças antagônicas: quando a pressão do Id se torna ameaçadora, o Ego experimenta angústia e mobiliza mecanismos de defesa para manter a integridade psíquica.",
+      "keyPoints": [
+        {
+          "text": "Explica o motivo da formulação (culpa inconsciente e resistência insuficientemente explicadas)",
+          "weight": 2,
+          "keywords": [
+            "1920",
+            "sentimento inconsciente de culpa",
+            "resistência"
+          ]
+        },
+        {
+          "text": "Define Id, Ego e Superego corretamente",
+          "weight": 4,
+          "keywords": [
+            "Id",
+            "Ego",
+            "Superego",
+            "instância mediadora"
+          ]
+        },
+        {
+          "text": "Relaciona o modelo ao sofrimento mental (falha do Ego em harmonizar forças)",
+          "weight": 3,
+          "keywords": [
+            "falha do Ego",
+            "angústia",
+            "mecanismos de defesa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-018",
+      "topic": "Pulsão e desenvolvimento psicossexual",
+      "question": "Diferencie o conceito freudiano de pulsão (Trieb) do conceito de instinto biológico, e descreva as fases do desenvolvimento psicossexual propostas por Freud, indicando a zona erógena predominante em cada uma.",
+      "modelAnswer": "Diferente do instinto biológico, que possui um objeto fixo e um padrão de comportamento predeterminado, a pulsão é um conceito-limite entre o somático e o psíquico: representa uma exigência de trabalho imposta à mente em consequência de sua ligação com o corpo, sem objeto ou alvo predeterminados. A energia associada às pulsões de vida é a libido, que se concentra em diferentes zonas erógenas ao longo do desenvolvimento infantil. Na fase oral (primeiro ano de vida), a boca é a principal zona de interação e satisfação. Na fase anal (segundo e terceiro anos), o controle dos esfíncteres é o foco do conflito com as exigências de higiene. Na fase fálica (três a cinco anos), o interesse volta-se para os órgãos genitais, período em que ocorre o Complexo de Édipo, núcleo central da teoria freudiana, culminando na estruturação do Superego. Segue-se o período de latência, de sublimação da energia sexual para a aprendizagem e a socialização, e por fim a fase genital, na puberdade, quando a libido é reativada e direcionada a objetos externos à família. A fixação em fases anteriores, por frustração ou gratificação excessiva, determina traços de caráter e sintomas na vida adulta.",
+      "keyPoints": [
+        {
+          "text": "Diferencia pulsão de instinto (conceito-limite somático-psíquico, sem objeto fixo)",
+          "weight": 3,
+          "keywords": [
+            "pulsão",
+            "Trieb",
+            "instinto",
+            "conceito-limite"
+          ]
+        },
+        {
+          "text": "Descreve as cinco fases (oral, anal, fálica, latência, genital) com as zonas erógenas",
+          "weight": 4,
+          "keywords": [
+            "fase oral",
+            "fase anal",
+            "fase fálica",
+            "latência",
+            "fase genital"
+          ]
+        },
+        {
+          "text": "Menciona a fixação e suas consequências na vida adulta",
+          "weight": 2,
+          "keywords": [
+            "fixação",
+            "traços de caráter",
+            "sintomas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-019",
+      "topic": "Mecanismos de defesa do Ego",
+      "question": "Compare três mecanismos de defesa do Ego descritos na teoria psicanalítica — recalque, projeção e sublimação —, explicando a lógica de funcionamento de cada um e por que a sublimação é considerada o mais maduro deles.",
+      "modelAnswer": "O recalque (repressão) é o mecanismo de defesa fundamental: consiste em afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente, com um gasto de energia que empobrece o Ego. A projeção ocorre quando o sujeito atribui a outras pessoas ou objetos externos os sentimentos, desejos ou intenções inaceitáveis que na verdade pertencem a ele próprio — por exemplo, uma pessoa com impulsos agressivos não reconhecidos passa a acreditar que o mundo ao seu redor é hostil. Já a sublimação é considerada o mecanismo mais maduro e saudável, pois desvia a energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte, permitindo satisfação pulsional sem conflito com a realidade ou a moral, ao contrário do recalque (que apenas afasta o conteúdo, gastando energia psíquica) e da projeção (que distorce a percepção da realidade externa).",
+      "keyPoints": [
+        {
+          "text": "Explica o recalque (afastamento do conteúdo doloroso, gasto de energia)",
+          "weight": 2,
+          "keywords": [
+            "recalque",
+            "afastar da consciência",
+            "energia"
+          ]
+        },
+        {
+          "text": "Explica a projeção com exemplo (atribuição a outros)",
+          "weight": 2,
+          "keywords": [
+            "projeção",
+            "atribui a outros",
+            "hostil"
+          ]
+        },
+        {
+          "text": "Explica a sublimação e justifica por que é o mais maduro (satisfação sem conflito com a realidade)",
+          "weight": 4,
+          "keywords": [
+            "sublimação",
+            "mais maduro",
+            "atividades socialmente valorizadas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-020",
+      "topic": "Determinismo psíquico e formações de compromisso",
+      "question": "Explique o princípio do determinismo psíquico na teoria freudiana e descreva o conceito de formações de compromisso, citando exemplos.",
+      "modelAnswer": "O determinismo psíquico é o princípio segundo o qual nenhum evento mental ocorre por acaso: mesmo as associações mais ilógicas, irrelevantes ou embaraçosas produzidas durante a associação livre estão conectadas por fios invisíveis aos conflitos inconscientes do sujeito. A partir desse princípio, Freud demonstrou que os sonhos, os atos falhos (lapsos de linguagem), os chistes e os sintomas neuróticos são formações de compromisso: eles representam um acordo entre o desejo inconsciente, que busca satisfação, e a censura psíquica, que tenta impedir que esse desejo chegue à consciência de forma direta. Assim, um lapso de linguagem aparentemente trivial não é um erro aleatório, mas a expressão disfarçada de um conteúdo reprimido que encontrou uma via alternativa de manifestação.",
+      "keyPoints": [
+        {
+          "text": "Define determinismo psíquico (nenhum evento mental é acaso)",
+          "weight": 3,
+          "keywords": [
+            "determinismo psíquico",
+            "nenhum evento",
+            "acaso"
+          ]
+        },
+        {
+          "text": "Define formações de compromisso como acordo entre desejo e censura",
+          "weight": 4,
+          "keywords": [
+            "formações de compromisso",
+            "desejo inconsciente",
+            "censura"
+          ]
+        },
+        {
+          "text": "Cita exemplos (sonhos, atos falhos, chistes, sintomas)",
+          "weight": 2,
+          "keywords": [
+            "sonhos",
+            "atos falhos",
+            "chistes",
+            "sintomas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-021",
+      "topic": "Transferência na relação terapêutica",
+      "question": "O que é a transferência na teoria psicanalítica, como Freud a identificou originalmente, e qual sua relevância para a técnica clínica contemporânea?",
+      "modelAnswer": "A transferência é o fenômeno de intensa carga afetiva que surge na relação entre o paciente e o profissional durante o tratamento psicanalítico. Freud a identificou ainda durante o uso do método catártico, ao observar que a relação entre médico e paciente assumia contornos afetivos intensos — sentimentos originalmente dirigidos a figuras significativas do passado (como os pais) eram deslocados e reproduzidos na relação com o analista. Esse fenômeno foi, inclusive, um dos motivos que levaram Freud a abandonar a hipnose, pois a técnica não permitia trabalhar analiticamente essa dinâmica. Na prática clínica contemporânea, a transferência é compreendida como um material clínico valioso: analisar como o paciente reage ao terapeuta oferece pistas sobre os padrões relacionais inconscientes que estruturam o seu sofrimento, tornando a própria relação terapêutica um instrumento de investigação e de mudança psíquica.",
+      "keyPoints": [
+        {
+          "text": "Define transferência como carga afetiva deslocada na relação terapêutica",
+          "weight": 3,
+          "keywords": [
+            "transferência",
+            "carga afetiva",
+            "relação terapêutica"
+          ]
+        },
+        {
+          "text": "Contextualiza a descoberta durante o método catártico",
+          "weight": 3,
+          "keywords": [
+            "método catártico",
+            "hipnose",
+            "descoberta"
+          ]
+        },
+        {
+          "text": "Explica a relevância clínica contemporânea (material de análise)",
+          "weight": 3,
+          "keywords": [
+            "prática clínica",
+            "padrões relacionais",
+            "material clínico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-022",
+      "topic": "Da primeira à segunda tópica",
+      "question": "Explique por que a transição da primeira para a segunda tópica freudiana não representa um abandono do modelo anterior, mas uma sobreposição teórica.",
+      "modelAnswer": "A primeira tópica (Inconsciente, Pré-consciente, Consciente), apresentada em 'A Interpretação dos Sonhos' (1900), descreve o aparelho psíquico do ponto de vista topográfico, isto é, como sistemas ou 'lugares' psíquicos distintos. A partir de 1920, Freud percebeu que esse modelo era insuficiente para explicar fenômenos clínicos como o sentimento inconsciente de culpa e a resistência, e formulou o modelo estrutural (Id, Ego, Superego), que descreve o aparelho psíquico do ponto de vista das funções e forças em conflito. Os dois modelos não são excludentes: o Ego, por exemplo, possui tanto funções conscientes quanto inconscientes (como os mecanismos de defesa), articulando-se com os sistemas da primeira tópica. Por isso, a segunda tópica é entendida como uma sobreposição que permitiu uma compreensão mais refinada dos conflitos psíquicos, e não como uma substituição que invalidasse o modelo topográfico original.",
+      "keyPoints": [
+        {
+          "text": "Descreve a primeira tópica como modelo topográfico (sistemas/lugares)",
+          "weight": 3,
+          "keywords": [
+            "primeira tópica",
+            "topográfico",
+            "sistemas"
+          ]
+        },
+        {
+          "text": "Descreve a segunda tópica como modelo estrutural (forças/instâncias)",
+          "weight": 3,
+          "keywords": [
+            "segunda tópica",
+            "modelo estrutural",
+            "1920"
+          ]
+        },
+        {
+          "text": "Explica que é sobreposição, não substituição (ex: Ego com funções inconscientes)",
+          "weight": 3,
+          "keywords": [
+            "sobreposição",
+            "não abandono",
+            "Ego"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-023",
+      "topic": "Anna Freud e os mecanismos de defesa",
+      "question": "Explique a contribuição de Anna Freud para a teoria dos mecanismos de defesa e por que o uso de defesas não é, em si, considerado patológico na teoria psicanalítica.",
+      "modelAnswer": "Para lidar com a angústia gerada pelos conflitos entre o Id, o Superego e a realidade, o Ego utiliza estratégias inconscientes conhecidas como mecanismos de defesa. A conceituação detalhada dessas defesas foi ampliada por Anna Freud, filha de Sigmund Freud, que sistematizou um conjunto mais amplo de mecanismos (como recalque, projeção, formação reativa e sublimação) e sua função na adaptação do Ego. Na teoria psicanalítica, o uso de defesas é considerado um processo normal e necessário para a adaptação humana à realidade e aos próprios impulsos: todos os sujeitos utilizam mecanismos de defesa cotidianamente. O aspecto patológico surge apenas quando o uso de uma defesa se torna rígido, excessivo e passa a comprometer a percepção da realidade do sujeito — nesses casos, o processo analítico busca fortalecer o Ego, substituindo defesas rígidas e empobrecedoras por estratégias mais flexíveis e conscientes de enfrentamento.",
+      "keyPoints": [
+        {
+          "text": "Identifica Anna Freud como responsável pela ampliação da teoria dos mecanismos de defesa",
+          "weight": 3,
+          "keywords": [
+            "Anna Freud",
+            "filha",
+            "ampliou"
+          ]
+        },
+        {
+          "text": "Explica que o uso de defesas é normal e necessário para a adaptação",
+          "weight": 3,
+          "keywords": [
+            "processo normal",
+            "necessário",
+            "adaptação"
+          ]
+        },
+        {
+          "text": "Explica quando se torna patológico (rigidez, excesso, compromete a realidade)",
+          "weight": 3,
+          "keywords": [
+            "patológico",
+            "rígido",
+            "excessivo",
+            "compromete a realidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-024",
+      "topic": "A escuta psicanalítica na prática contemporânea",
+      "question": "Descreva como o conceito de inconsciente dinâmico orienta a prática da escuta psicanalítica na atuação clínica contemporânea do profissional de psicologia.",
+      "modelAnswer": "Para a psicanálise, o inconsciente não é um reservatório passivo de memórias esquecidas, mas um sistema psíquico ativo, regido por leis próprias (o inconsciente dinâmico), que exerce pressão constante para que seus conteúdos — em grande parte, representações de pulsões reprimidas — sejam descarregados. Como essas representações não acessam a consciência de forma direta, buscam vias alternativas de expressão: sonhos, atos falhos, chistes e sintomas neuróticos, todos formações de compromisso entre o desejo inconsciente e a censura psíquica. Na prática clínica contemporânea, essa concepção orienta o profissional a não atuar como um conselheiro ou educador que se dirige à razão consciente do paciente. Em vez disso, a escuta psicanalítica é direcionada às entrelinhas do discurso, às repetições, às hesitações, aos lapsos e aos relatos de sonhos, buscando identificar as lógicas inconscientes que estruturam o sofrimento da pessoa atendida, permitindo que esses conteúdos sejam elaborados e integrados de forma menos sintomática.",
+      "keyPoints": [
+        {
+          "text": "Define inconsciente dinâmico (sistema ativo, pressão para descarga)",
+          "weight": 3,
+          "keywords": [
+            "inconsciente dinâmico",
+            "sistema psíquico ativo",
+            "pressão"
+          ]
+        },
+        {
+          "text": "Relaciona a formações de compromisso como vias de expressão",
+          "weight": 2,
+          "keywords": [
+            "formações de compromisso",
+            "sonhos",
+            "atos falhos"
+          ]
+        },
+        {
+          "text": "Descreve a escuta clínica voltada às entrelinhas, não à razão consciente",
+          "weight": 4,
+          "keywords": [
+            "entrelinhas",
+            "escuta psicanalítica",
+            "lógicas inconscientes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-025",
+      "topic": "Behaviorismo metodológico x behaviorismo radical",
+      "question": "Diferencie o behaviorismo metodológico de Watson do behaviorismo radical de Skinner quanto ao tratamento dado aos eventos privados (pensamentos e sentimentos).",
+      "modelAnswer": "O behaviorismo metodológico, fundado por Watson, baseava-se na premissa de que os eventos privados (pensamentos e sentimentos) poderiam até existir, mas não deveriam ser objeto de estudo científico por não serem acessíveis à observação direta de terceiros — a ciência deveria focar apenas na relação entre estímulos ambientais e respostas do organismo (modelo S-R). Skinner, embora reconhecesse a importância dessa ruptura inicial, adotou uma postura monista, dando origem ao behaviorismo radical: para ele, pensamentos, sentimentos e emoções também são comportamentos, eventos privados sujeitos às mesmas leis de aprendizagem que os comportamentos públicos. A pele não atua como uma fronteira mágica que separa duas naturezas diferentes de fenômenos — pensar é comportar-se, sentir é comportar-se. A dificuldade reside apenas na acessibilidade à observação desses eventos, e não na sua natureza. Por isso, o termo 'radical' refere-se à raiz da questão filosófica, e não a um extremismo metodológico.",
+      "keyPoints": [
+        {
+          "text": "Explica a exclusão dos eventos privados no behaviorismo metodológico de Watson",
+          "weight": 3,
+          "keywords": [
+            "behaviorismo metodológico",
+            "Watson",
+            "não observáveis",
+            "excluir"
+          ]
+        },
+        {
+          "text": "Explica a inclusão monista dos eventos privados no behaviorismo radical de Skinner",
+          "weight": 4,
+          "keywords": [
+            "postura monista",
+            "behaviorismo radical",
+            "eventos privados são comportamento"
+          ]
+        },
+        {
+          "text": "Esclarece o significado do termo 'radical' (raiz filosófica, não extremismo)",
+          "weight": 2,
+          "keywords": [
+            "radical",
+            "raiz",
+            "não extremo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-026",
+      "topic": "As quatro contingências operantes",
+      "question": "Descreva as quatro contingências básicas do condicionamento operante (reforço positivo, reforço negativo, punição positiva e punição negativa), esclarecendo o significado técnico dos termos 'positivo' e 'negativo' e dando um exemplo de cada.",
+      "modelAnswer": "Na análise do comportamento, os termos 'positivo' e 'negativo' não possuem conotação moral, mas matemática: positivo significa a adição de um estímulo ao ambiente, e negativo significa a remoção ou evitação de um estímulo. O reforço positivo é o aumento da probabilidade do comportamento futuro pela adição de um estímulo consequente — por exemplo, um profissional recebe um bônus após entregar um projeto com excelência. O reforço negativo é o aumento da probabilidade do comportamento futuro pela remoção ou evitação de um estímulo aversivo — por exemplo, abrir o guarda-chuva para evitar a chuva. A punição positiva é a diminuição da probabilidade do comportamento futuro pela adição de um estímulo aversivo — por exemplo, receber uma multa após exceder a velocidade permitida. A punição negativa é a diminuição da probabilidade do comportamento futuro pela remoção de um estímulo reforçador — por exemplo, suspender o acesso à internet de um adolescente após o descumprimento de regras.",
+      "keyPoints": [
+        {
+          "text": "Esclarece que positivo/negativo referem-se à adição/remoção de estímulo, sem conotação moral",
+          "weight": 3,
+          "keywords": [
+            "positivo",
+            "negativo",
+            "adição",
+            "remoção",
+            "conotação matemática"
+          ]
+        },
+        {
+          "text": "Define e exemplifica reforço positivo e reforço negativo corretamente",
+          "weight": 3,
+          "keywords": [
+            "reforço positivo",
+            "reforço negativo",
+            "aumenta a probabilidade"
+          ]
+        },
+        {
+          "text": "Define e exemplifica punição positiva e punição negativa corretamente",
+          "weight": 3,
+          "keywords": [
+            "punição positiva",
+            "punição negativa",
+            "diminui a probabilidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14-15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-027",
+      "topic": "Esquemas de reforçamento",
+      "question": "Explique os esquemas de reforçamento contínuo e intermitente, detalhando a diferença entre esquemas de razão e de intervalo, fixos e variáveis, e por que o esquema de razão variável é especialmente resistente à extinção.",
+      "modelAnswer": "O reforçamento pode ser contínuo, quando toda resposta emitida é reforçada, ou intermitente, quando apenas algumas respostas são reforçadas. Os esquemas intermitentes podem basear-se no número de respostas emitidas (razão) ou no tempo decorrido (intervalo), e cada um pode ser fixo (previsível) ou variável (imprevisível, variando em torno de uma média). No esquema de razão fixa, o reforço é entregue após um número constante de respostas; no de intervalo fixo, após a primeira resposta emitida quando decorrido um tempo constante. Já nos esquemas variáveis, tanto o número de respostas quanto o tempo necessário para o reforço mudam de forma imprevisível a cada ciclo. O esquema de razão variável é particularmente notável por gerar taxas de resposta altíssimas e extrema resistência à extinção: como o organismo não consegue prever quando o próximo reforço virá, ele continua respondendo mesmo após longos períodos sem reforço, na expectativa de que a próxima resposta seja a reforçada — mecanismo evidente no funcionamento de máquinas caça-níqueis e com aplicações diretas na compreensão de comportamentos aditivos e no design de tecnologias contemporâneas.",
+      "keyPoints": [
+        {
+          "text": "Diferencia reforçamento contínuo de intermitente",
+          "weight": 2,
+          "keywords": [
+            "reforçamento contínuo",
+            "intermitente",
+            "toda resposta"
+          ]
+        },
+        {
+          "text": "Explica razão x intervalo e fixo x variável",
+          "weight": 4,
+          "keywords": [
+            "razão",
+            "intervalo",
+            "fixo",
+            "variável"
+          ]
+        },
+        {
+          "text": "Explica por que razão variável é resistente à extinção",
+          "weight": 3,
+          "keywords": [
+            "razão variável",
+            "resistência à extinção",
+            "imprevisível"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-028",
+      "topic": "Análise Experimental do Comportamento",
+      "question": "Descreva a metodologia da Análise Experimental do Comportamento (AEC) proposta por Skinner, explicando o delineamento de sujeito único e a função da Caixa de Skinner.",
+      "modelAnswer": "A Análise Experimental do Comportamento (AEC) é a vertente de pesquisa básica do behaviorismo radical. Ao contrário da psicologia tradicional da época, que dependia de grandes grupos de sujeitos e de análises estatísticas complexas para inferir médias de comportamento, Skinner propôs o delineamento de sujeito único, partindo da premissa de que a variabilidade no comportamento não é uma falha inerente ao organismo, mas resultado de variáveis ambientais não controladas — se o pesquisador controlar rigorosamente o ambiente, o comportamento de um único sujeito revelará leis gerais de aprendizagem. Para alcançar esse controle, Skinner desenvolveu a câmara de condicionamento operante, conhecida como Caixa de Skinner: um espaço isolado de estímulos externos, equipado com manipuladores (como alavancas ou discos de bicar) e dispensadores automatizados de consequências (água ou alimento). Todo o sistema registrava de forma contínua e automatizada as respostas do animal, produzindo gráficos de curva cumulativa, cuja inclinação representava a taxa de respostas. Essa automação eliminou o viés do observador e permitiu o estudo de esquemas complexos de reforçamento ao longo de centenas de horas de observação.",
+      "keyPoints": [
+        {
+          "text": "Explica o delineamento de sujeito único e sua premissa (variabilidade = variável ambiental não controlada)",
+          "weight": 4,
+          "keywords": [
+            "delineamento de sujeito único",
+            "variabilidade",
+            "controle rigoroso"
+          ]
+        },
+        {
+          "text": "Descreve a Caixa de Skinner e seus componentes",
+          "weight": 3,
+          "keywords": [
+            "Caixa de Skinner",
+            "manipuladores",
+            "dispensadores"
+          ]
+        },
+        {
+          "text": "Menciona o registro automatizado e a curva cumulativa",
+          "weight": 2,
+          "keywords": [
+            "curva cumulativa",
+            "automatizado",
+            "viés do observador"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-029",
+      "topic": "Contingência tríplice e avaliação funcional (ABA)",
+      "question": "Explique o modelo de contingência tríplice (A-B-C) e descreva como ele é utilizado na avaliação funcional do comportamento pela Análise do Comportamento Aplicada (ABA), usando como exemplo um comportamento autolesivo.",
+      "modelAnswer": "A contingência tríplice, ou modelo A-B-C, é a unidade básica de análise da Análise Experimental do Comportamento, descrevendo a relação entre três elementos: o Antecedente (A), contexto ou estímulo discriminativo que sinaliza a disponibilidade de uma consequência; o Comportamento (B - Behavior), a resposta operante emitida pelo organismo; e a Consequência (C), o evento ambiental que segue o comportamento e altera sua probabilidade futura. Na Análise do Comportamento Aplicada (ABA), esse modelo fundamenta a avaliação funcional do comportamento: diante de uma criança com comportamento autolesivo, por exemplo, o profissional não busca explicações em traumas inconscientes, mas realiza uma análise rigorosa dos antecedentes (o que ocorre antes da autolesão?) e das consequências (o que a criança obtém ou evita depois?). Com frequência, descobre-se que o comportamento é mantido por reforçamento negativo (fuga de uma tarefa difícil) ou por reforçamento positivo (atenção imediata dos cuidadores). A partir dessa análise, desenha-se uma intervenção que altera o antecedente e ensina um comportamento alternativo adequado, reforçado de forma consistente.",
+      "keyPoints": [
+        {
+          "text": "Define corretamente antecedente, comportamento e consequência",
+          "weight": 3,
+          "keywords": [
+            "antecedente",
+            "comportamento",
+            "consequência",
+            "A-B-C"
+          ]
+        },
+        {
+          "text": "Explica a avaliação funcional na ABA com o exemplo do comportamento autolesivo",
+          "weight": 4,
+          "keywords": [
+            "avaliação funcional",
+            "ABA",
+            "autolesivo"
+          ]
+        },
+        {
+          "text": "Identifica as possíveis funções mantenedoras (fuga/reforço negativo, atenção/reforço positivo)",
+          "weight": 3,
+          "keywords": [
+            "reforçamento negativo",
+            "reforçamento positivo",
+            "fuga",
+            "atenção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16-17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-030",
+      "topic": "Efeitos colaterais da punição",
+      "question": "Explique por que Skinner alertava sobre os efeitos colaterais do uso da punição e por que, na sua perspectiva, o reforçamento positivo deveria ser priorizado na modelagem de novos comportamentos.",
+      "modelAnswer": "Skinner dedicou extensa parte de sua obra a alertar sobre os efeitos colaterais da punição como estratégia de controle do comportamento. Embora a punição possa suprimir um comportamento de forma eficaz a curto prazo, ela apresenta duas limitações importantes: primeiro, não ensina ao organismo um comportamento alternativo adequado para substituir aquele que foi suprimido; segundo, com frequência gera respostas emocionais aversivas, como ansiedade, medo e comportamentos de esquiva em relação à pessoa ou ao contexto associado à punição — por exemplo, um estudante repreendido publicamente por um professor pode passar a evitar sistematicamente suas aulas, sem que isso melhore seu desempenho acadêmico. Por essas razões, a prática profissional fundamentada no behaviorismo radical prioriza o uso do reforçamento positivo para a modelagem de novos repertórios comportamentais: ao reforçar sistematicamente o comportamento desejado, constrói-se um repertório alternativo de forma duradoura, sem os efeitos colaterais emocionais associados ao controle aversivo.",
+      "keyPoints": [
+        {
+          "text": "Explica que a punição suprime a curto prazo mas não ensina alternativa",
+          "weight": 3,
+          "keywords": [
+            "suprime",
+            "curto prazo",
+            "não ensina"
+          ]
+        },
+        {
+          "text": "Explica os efeitos colaterais emocionais (ansiedade, medo, esquiva)",
+          "weight": 3,
+          "keywords": [
+            "ansiedade",
+            "medo",
+            "esquiva"
+          ]
+        },
+        {
+          "text": "Justifica a priorização do reforçamento positivo na modelagem de comportamento",
+          "weight": 3,
+          "keywords": [
+            "reforçamento positivo",
+            "modelagem",
+            "priorizado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-031",
+      "topic": "OBM: aplicação organizacional do behaviorismo radical",
+      "question": "Descreva o que é o Gerenciamento do Comportamento Organizacional (OBM) e como os princípios do condicionamento operante são aplicados no contexto corporativo.",
+      "modelAnswer": "O Gerenciamento do Comportamento Organizacional (OBM - Organizational Behavior Management) representa a translação dos princípios da análise do comportamento para o ambiente corporativo. Profissionais de recursos humanos e consultores utilizam os conceitos de reforçamento, antecedentes e consequências para desenhar sistemas de metas, melhorar a segurança no trabalho e promover a cultura organizacional. Na prática, isso envolve a clareza na definição de antecedentes — como treinamento adequado e ferramentas disponíveis para a realização das tarefas — combinada com a aplicação sistemática de consequências positivas (reforço) para comportamentos desejados, como o cumprimento de protocolos de segurança ou a entrega de projetos dentro do prazo. Ao contrário de sistemas baseados em punição (como advertências e multas), o OBM prioriza o reforço positivo consistente, o que transforma de forma mensurável a produtividade e o bem-estar dos colaboradores, comprovando a vitalidade e a aplicabilidade da ciência comportamental proposta por Skinner no cenário organizacional atual.",
+      "keyPoints": [
+        {
+          "text": "Define OBM como aplicação dos princípios operantes ao ambiente corporativo",
+          "weight": 3,
+          "keywords": [
+            "OBM",
+            "Organizational Behavior Management",
+            "ambiente corporativo"
+          ]
+        },
+        {
+          "text": "Explica o papel dos antecedentes (treinamento, ferramentas) e consequências (reforço)",
+          "weight": 4,
+          "keywords": [
+            "antecedentes",
+            "consequências",
+            "reforço positivo"
+          ]
+        },
+        {
+          "text": "Relaciona a aplicações práticas (metas, segurança no trabalho, cultura organizacional)",
+          "weight": 2,
+          "keywords": [
+            "metas",
+            "segurança no trabalho",
+            "cultura organizacional"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-032",
+      "topic": "O Comportamento Verbal e a crítica de Chomsky",
+      "question": "Explique a tentativa de Skinner de explicar a linguagem humana em 'O Comportamento Verbal' (1957) e descreva a crítica que Noam Chomsky formulou a essa proposta em 1959.",
+      "modelAnswer": "Em 1957, Skinner publicou o livro 'O Comportamento Verbal', no qual tentava explicar a aquisição e o uso da linguagem humana por meio das mesmas contingências de reforçamento que explicavam o comportamento operante em geral: a fala seria modelada e mantida por suas consequências no ambiente social, como qualquer outro comportamento. Em 1959, o linguista Noam Chomsky publicou uma resenha crítica devastadora sobre essa obra. Chomsky argumentou que a linguagem humana é criativa e generativa: as crianças produzem constantemente frases que nunca ouviram antes e que, portanto, nunca poderiam ter sido reforçadas por um adulto. Diante dessa limitação do modelo associativo, Chomsky defendeu a existência de uma estrutura inata para a aquisição da linguagem, um dispositivo biológico de processamento de regras gramaticais. Essa crítica foi um dos golpes mais contundentes contra o monopólio do behaviorismo na psicologia acadêmica, evidenciando a necessidade de postular estruturas mentais internas para explicar comportamentos humanos complexos, e é considerada um marco fundador da revolução cognitiva.",
+      "keyPoints": [
+        {
+          "text": "Explica a proposta de Skinner (linguagem explicada por contingências de reforçamento)",
+          "weight": 3,
+          "keywords": [
+            "O Comportamento Verbal",
+            "1957",
+            "contingências de reforçamento"
+          ]
+        },
+        {
+          "text": "Explica o argumento central de Chomsky (criatividade/geratividade da linguagem)",
+          "weight": 4,
+          "keywords": [
+            "Chomsky",
+            "criativa",
+            "generativa",
+            "nunca ouvidas"
+          ]
+        },
+        {
+          "text": "Relaciona a crítica à revolução cognitiva e à necessidade de estruturas mentais internas",
+          "weight": 2,
+          "keywords": [
+            "revolução cognitiva",
+            "estrutura inata",
+            "estruturas mentais internas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-033",
+      "topic": "Comportamento respondente x comportamento operante",
+      "question": "Diferencie o comportamento respondente do comportamento operante na teoria de Skinner, explicando por que essa distinção foi necessária para superar as limitações do modelo Estímulo-Resposta de Watson.",
+      "modelAnswer": "Skinner identificou uma limitação fundamental no behaviorismo metodológico de Watson: o modelo Estímulo-Resposta (S-R) explicava bem como o organismo reage de forma reflexa ao ambiente, mas não explicava como o organismo age sobre o ambiente para produzir mudanças. Para resolver esse impasse, propôs a distinção entre comportamento respondente e comportamento operante. O comportamento respondente é aquele eliciado por um estímulo antecedente, englobando os reflexos inatos e os reflexos condicionados estudados por Pavlov — nesse caso, o comportamento é uma reação automática a um estímulo que o precede. O comportamento operante, por sua vez, é emitido pelo organismo (não eliciado por um estímulo específico) e atua sobre o ambiente, gerando consequências; a probabilidade de esse comportamento ocorrer novamente no futuro não depende do estímulo que o antecede, mas das consequências que ele produziu no passado. Essa distinção ampliou de forma decisiva o escopo da ciência comportamental, permitindo explicar a vasta maioria dos comportamentos humanos voluntários e complexos, que não se enquadram no modelo reflexo do condicionamento clássico.",
+      "keyPoints": [
+        {
+          "text": "Explica a limitação do modelo S-R de Watson (não explica ação sobre o ambiente)",
+          "weight": 3,
+          "keywords": [
+            "modelo S-R",
+            "limitação",
+            "agir sobre o ambiente"
+          ]
+        },
+        {
+          "text": "Define comportamento respondente (eliciado, reflexos)",
+          "weight": 3,
+          "keywords": [
+            "comportamento respondente",
+            "eliciado",
+            "reflexos"
+          ]
+        },
+        {
+          "text": "Define comportamento operante (emitido, consequências determinam a probabilidade)",
+          "weight": 4,
+          "keywords": [
+            "comportamento operante",
+            "emitido",
+            "consequências"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-034",
+      "topic": "Lei do Efeito e sua origem em Thorndike",
+      "question": "Explique a Lei do Efeito, proposta por Edward Thorndike, e descreva como Skinner a refinou para formular sua teoria do condicionamento operante.",
+      "modelAnswer": "A base histórica para a formulação do comportamento operante por Skinner foi a Lei do Efeito, proposta por Edward Thorndike a partir de seus experimentos com animais em caixas-problema. Thorndike observou que comportamentos seguidos por um estado de coisas satisfatório para o organismo tendem a se repetir no futuro, enquanto comportamentos seguidos por desconforto tendem a diminuir em frequência. Skinner reconheceu o valor dessa observação, mas identificou um problema metodológico nos termos utilizados por Thorndike: 'satisfatório' e 'desconforto' são conceitos subjetivos, de difícil verificação científica objetiva. Skinner refinou essa ideia removendo os termos subjetivos e criando uma terminologia estritamente operacional, baseada nos efeitos observáveis e mensuráveis sobre a frequência do comportamento — dando origem aos conceitos de reforço (que aumenta a probabilidade futura de um comportamento) e punição (que a diminui), definidos exclusivamente por seu efeito sobre a taxa de resposta, e não por qualquer estado subjetivo do organismo.",
+      "keyPoints": [
+        {
+          "text": "Explica a Lei do Efeito de Thorndike",
+          "weight": 3,
+          "keywords": [
+            "Lei do Efeito",
+            "Thorndike",
+            "satisfatório",
+            "desconforto"
+          ]
+        },
+        {
+          "text": "Explica o problema dos termos subjetivos identificado por Skinner",
+          "weight": 3,
+          "keywords": [
+            "termos subjetivos",
+            "satisfatório",
+            "difícil verificação"
+          ]
+        },
+        {
+          "text": "Explica o refinamento operacional de Skinner (reforço/punição definidos pelo efeito observável)",
+          "weight": 4,
+          "keywords": [
+            "terminologia operacional",
+            "efeitos observáveis",
+            "reforço",
+            "punição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -2241,6 +4417,685 @@
       "subject": "Psicologia humanista",
       "difficulty": "baixo",
       "miniLesson": "De acordo com Maslow (1943), a autorrealização é o nível mais elevado da hierarquia das necessidades, situado após a satisfação das necessidades fisiológicas, de segurança, pertencimento e estima. Este conceito refere-se ao desejo de concretizar o próprio potencial e ser tudo aquilo que se é capaz de ser. A autorrealização emerge quando todas as necessidades mais básicas do indivíduo são satisfatórias. Esta noção é central na psicologia humanista, pois enfatiza o potencial intrínseco do ser humano para crescimento e desenvolvimento."
+    },
+    {
+      "id": "fund-oral-015",
+      "topic": "Psicanálise",
+      "question": "O que foi o método catártico e quem o desenvolveu com Freud?",
+      "modelAnswer": "O método catártico, desenvolvido por Freud com Josef Breuer, consistia em hipnotizar o paciente e fazê-lo relatar as circunstâncias do surgimento do sintoma; a recordação do evento traumático, com a devida descarga emocional (abreação), fazia o sintoma desaparecer.",
+      "keyPoints": [
+        {
+          "text": "Identifica Breuer como colaborador",
+          "weight": 3,
+          "keywords": [
+            "Breuer",
+            "colaboração"
+          ]
+        },
+        {
+          "text": "Explica o procedimento (hipnose, relato, abreação)",
+          "weight": 3,
+          "keywords": [
+            "hipnose",
+            "relato",
+            "abreação",
+            "descarga emocional"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O que foi o método catártico e quem o desenvolveu com Freud? O método catártico, desenvolvido por Freud com Josef Breuer, consistia em hipnotizar o paciente e fazê-lo relatar as circunstâncias do surgimento do sintoma; a recordação do evento traumático, com a devida descarga emocional (abreação), fazia o sintoma desaparecer."
+    },
+    {
+      "id": "fund-oral-016",
+      "topic": "Psicanálise",
+      "question": "O que é a transferência na teoria psicanalítica?",
+      "modelAnswer": "A transferência é o fenômeno de intensa carga afetiva que surge na relação entre paciente e terapeuta, no qual sentimentos originalmente dirigidos a figuras significativas do passado são reproduzidos na relação com o analista.",
+      "keyPoints": [
+        {
+          "text": "Define transferência como carga afetiva na relação terapêutica",
+          "weight": 3,
+          "keywords": [
+            "transferência",
+            "carga afetiva",
+            "relação"
+          ]
+        },
+        {
+          "text": "Menciona a reprodução de padrões relacionais do passado",
+          "weight": 3,
+          "keywords": [
+            "padrões",
+            "passado",
+            "figuras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "5"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a transferência na teoria psicanalítica? A transferência é o fenômeno de intensa carga afetiva que surge na relação entre paciente e terapeuta, no qual sentimentos originalmente dirigidos a figuras significativas do passado são reproduzidos na relação com o analista."
+    },
+    {
+      "id": "fund-oral-017",
+      "topic": "Psicanálise",
+      "question": "Quais são as três instâncias da segunda tópica freudiana (modelo estrutural) e qual a função de cada uma?",
+      "modelAnswer": "O Id é a instância primitiva e inconsciente que busca satisfação imediata das pulsões. O Ego é a instância mediadora, que concilia o Id, o Superego e a realidade. O Superego é a instância moral, herdeira do complexo de Édipo, que internaliza normas e valores.",
+      "keyPoints": [
+        {
+          "text": "Define o Id corretamente",
+          "weight": 2,
+          "keywords": [
+            "Id",
+            "primitiva",
+            "pulsões"
+          ]
+        },
+        {
+          "text": "Define o Ego corretamente",
+          "weight": 2,
+          "keywords": [
+            "Ego",
+            "mediadora"
+          ]
+        },
+        {
+          "text": "Define o Superego corretamente",
+          "weight": 2,
+          "keywords": [
+            "Superego",
+            "moral",
+            "Édipo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as três instâncias da segunda tópica freudiana (modelo estrutural) e qual a função de cada uma? O Id é a instância primitiva e inconsciente que busca satisfação imediata das pulsões. O Ego é a instância mediadora, que concilia o Id, o Superego e a realidade. O Superego é a instância moral, herdeira do complexo de Édipo, que internaliza normas e valores."
+    },
+    {
+      "id": "fund-oral-018",
+      "topic": "Psicanálise",
+      "question": "O que é a pulsão (Trieb) na teoria freudiana e como ela se diferencia do instinto biológico?",
+      "modelAnswer": "A pulsão é um conceito-limite entre o somático e o psíquico, uma exigência de trabalho imposta à mente pela sua ligação com o corpo, sem objeto ou alvo fixo — diferente do instinto biológico, que possui objeto e padrão de comportamento predeterminados.",
+      "keyPoints": [
+        {
+          "text": "Define pulsão como conceito-limite somático-psíquico",
+          "weight": 3,
+          "keywords": [
+            "conceito-limite",
+            "somático",
+            "psíquico"
+          ]
+        },
+        {
+          "text": "Diferencia de instinto (sem objeto fixo)",
+          "weight": 3,
+          "keywords": [
+            "instinto",
+            "objeto fixo",
+            "diferença"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "8-9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a pulsão (Trieb) na teoria freudiana e como ela se diferencia do instinto biológico? A pulsão é um conceito-limite entre o somático e o psíquico, uma exigência de trabalho imposta à mente pela sua ligação com o corpo, sem objeto ou alvo fixo — diferente do instinto biológico, que possui objeto e padrão de comportamento predeterminados."
+    },
+    {
+      "id": "fund-oral-019",
+      "topic": "Psicanálise",
+      "question": "O que é a fase fálica e o Complexo de Édipo na teoria do desenvolvimento psicossexual?",
+      "modelAnswer": "A fase fálica ocorre entre três e cinco anos, quando o interesse da criança se volta para os órgãos genitais. É nesse período que ocorre o Complexo de Édipo, no qual a criança vivencia desejos intensos em relação aos genitores, culminando na estruturação do Superego.",
+      "keyPoints": [
+        {
+          "text": "Situa a fase fálica (3-5 anos) e o foco genital",
+          "weight": 3,
+          "keywords": [
+            "fase fálica",
+            "três a cinco anos",
+            "genitais"
+          ]
+        },
+        {
+          "text": "Explica o Complexo de Édipo e sua relação com a estruturação do Superego",
+          "weight": 3,
+          "keywords": [
+            "Complexo de Édipo",
+            "genitores",
+            "Superego"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a fase fálica e o Complexo de Édipo na teoria do desenvolvimento psicossexual? A fase fálica ocorre entre três e cinco anos, quando o interesse da criança se volta para os órgãos genitais. É nesse período que ocorre o Complexo de Édipo, no qual a criança vivencia desejos intensos em relação aos genitores, culminando na estruturação do Superego."
+    },
+    {
+      "id": "fund-oral-020",
+      "topic": "Psicanálise",
+      "question": "O que é o recalque (repressão) na teoria psicanalítica?",
+      "modelAnswer": "O recalque é o mecanismo de defesa fundamental do Ego: consiste em afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente, com um gasto de energia que empobrece o Ego.",
+      "keyPoints": [
+        {
+          "text": "Define recalque como afastamento da consciência de conteúdos dolorosos",
+          "weight": 3,
+          "keywords": [
+            "recalque",
+            "afastar da consciência",
+            "angústia"
+          ]
+        },
+        {
+          "text": "Menciona o gasto de energia que empobrece o Ego",
+          "weight": 3,
+          "keywords": [
+            "gasto de energia",
+            "empobrece o Ego"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é o recalque (repressão) na teoria psicanalítica? O recalque é o mecanismo de defesa fundamental do Ego: consiste em afastar da consciência ideias, memórias ou desejos que causam angústia intolerável, mantendo-os no inconsciente, com um gasto de energia que empobrece o Ego."
+    },
+    {
+      "id": "fund-oral-021",
+      "topic": "Psicanálise",
+      "question": "O que é a sublimação e por que é considerada o mecanismo de defesa mais maduro?",
+      "modelAnswer": "A sublimação é o desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte. É considerada o mecanismo mais maduro porque permite satisfação pulsional sem conflito com a realidade.",
+      "keyPoints": [
+        {
+          "text": "Define sublimação (desvio de energia para atividades valorizadas)",
+          "weight": 3,
+          "keywords": [
+            "sublimação",
+            "desvio de energia",
+            "atividades socialmente valorizadas"
+          ]
+        },
+        {
+          "text": "Explica por que é considerada madura/saudável",
+          "weight": 3,
+          "keywords": [
+            "mais maduro",
+            "saudável",
+            "sem conflito"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "9-10"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a sublimação e por que é considerada o mecanismo de defesa mais maduro? A sublimação é o desvio da energia das pulsões sexuais ou agressivas para atividades socialmente valorizadas, como a arte, a pesquisa científica ou o esporte. É considerada o mecanismo mais maduro porque permite satisfação pulsional sem conflito com a realidade."
+    },
+    {
+      "id": "fund-oral-022",
+      "topic": "Psicanálise",
+      "question": "O que são as formações de compromisso na teoria psicanalítica? Cite exemplos.",
+      "modelAnswer": "As formações de compromisso são manifestações psíquicas, como sonhos, atos falhos, chistes e sintomas neuróticos, que representam um acordo entre o desejo inconsciente que busca satisfação e a censura que tenta impedi-lo.",
+      "keyPoints": [
+        {
+          "text": "Define formação de compromisso como acordo entre desejo e censura",
+          "weight": 3,
+          "keywords": [
+            "formação de compromisso",
+            "desejo",
+            "censura"
+          ]
+        },
+        {
+          "text": "Cita exemplos (sonhos, atos falhos, chistes, sintomas)",
+          "weight": 3,
+          "keywords": [
+            "sonhos",
+            "atos falhos",
+            "chistes",
+            "sintomas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O que são as formações de compromisso na teoria psicanalítica? Cite exemplos. As formações de compromisso são manifestações psíquicas, como sonhos, atos falhos, chistes e sintomas neuróticos, que representam um acordo entre o desejo inconsciente que busca satisfação e a censura que tenta impedi-lo."
+    },
+    {
+      "id": "fund-oral-023",
+      "topic": "Psicanálise",
+      "question": "O que é o determinismo psíquico na teoria freudiana?",
+      "modelAnswer": "O determinismo psíquico é o princípio segundo o qual nenhum evento mental ocorre por acaso: mesmo as associações mais distantes e aparentemente ilógicas produzidas na análise estão conectadas por fios invisíveis aos conflitos inconscientes.",
+      "keyPoints": [
+        {
+          "text": "Define que nenhum evento mental é acaso",
+          "weight": 3,
+          "keywords": [
+            "nenhum evento",
+            "acaso",
+            "determinismo"
+          ]
+        },
+        {
+          "text": "Relaciona associações aparentemente ilógicas a conflitos inconscientes",
+          "weight": 3,
+          "keywords": [
+            "associações",
+            "conflitos inconscientes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "6"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "medio",
+      "miniLesson": "O que é o determinismo psíquico na teoria freudiana? O determinismo psíquico é o princípio segundo o qual nenhum evento mental ocorre por acaso: mesmo as associações mais distantes e aparentemente ilógicas produzidas na análise estão conectadas por fios invisíveis aos conflitos inconscientes."
+    },
+    {
+      "id": "fund-oral-024",
+      "topic": "Psicanálise",
+      "question": "Qual a diferença entre a primeira e a segunda tópica freudiana?",
+      "modelAnswer": "A primeira tópica (Inconsciente, Pré-consciente, Consciente) descreve o aparelho psíquico como sistemas topográficos. A segunda tópica (Id, Ego, Superego), formulada a partir de 1920, descreve o aparelho psíquico em termos de instâncias e forças em conflito, complementando, e não substituindo, o modelo anterior.",
+      "keyPoints": [
+        {
+          "text": "Identifica os elementos de cada tópica (Ics/Pcs/Cs x Id/Ego/Superego)",
+          "weight": 3,
+          "keywords": [
+            "primeira tópica",
+            "segunda tópica",
+            "Id",
+            "Ego",
+            "Superego"
+          ]
+        },
+        {
+          "text": "Explica que a segunda complementa, não substitui a primeira",
+          "weight": 3,
+          "keywords": [
+            "complementa",
+            "não substitui",
+            "sobreposição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICANÁLISE, GESTALT E PSICOLOGIA HUMANISTA.pdf",
+        "page": "7-8"
+      },
+      "subject": "Psicanálise (Freud)",
+      "difficulty": "dificil",
+      "miniLesson": "Qual a diferença entre a primeira e a segunda tópica freudiana? A primeira tópica (Inconsciente, Pré-consciente, Consciente) descreve o aparelho psíquico como sistemas topográficos. A segunda tópica (Id, Ego, Superego), formulada a partir de 1920, descreve o aparelho psíquico em termos de instâncias e forças em conflito, complementando, e não substituindo, o modelo anterior."
+    },
+    {
+      "id": "fund-oral-025",
+      "topic": "Behaviorismo radical",
+      "question": "O que é comportamento operante, segundo Skinner?",
+      "modelAnswer": "É o comportamento emitido pelo organismo, que atua sobre o ambiente e gera consequências. A probabilidade de ele ocorrer novamente no futuro depende das consequências que produziu no passado, e não de um estímulo que o antecede.",
+      "keyPoints": [
+        {
+          "text": "Define como comportamento emitido, que age sobre o ambiente",
+          "weight": 3,
+          "keywords": [
+            "emitido",
+            "age sobre o ambiente"
+          ]
+        },
+        {
+          "text": "Explica que a probabilidade futura depende das consequências",
+          "weight": 3,
+          "keywords": [
+            "consequências",
+            "probabilidade futura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é comportamento operante, segundo Skinner? É o comportamento emitido pelo organismo, que atua sobre o ambiente e gera consequências. A probabilidade de ele ocorrer novamente no futuro depende das consequências que produziu no passado, e não de um estímulo que o antecede."
+    },
+    {
+      "id": "fund-oral-026",
+      "topic": "Behaviorismo radical",
+      "question": "O que é reforço negativo? Dê um exemplo.",
+      "modelAnswer": "É o aumento da probabilidade de um comportamento futuro pela remoção ou evitação de um estímulo aversivo. Exemplo: abrir o guarda-chuva para evitar a chuva.",
+      "keyPoints": [
+        {
+          "text": "Define reforço negativo (remoção de estímulo aversivo aumenta a probabilidade)",
+          "weight": 3,
+          "keywords": [
+            "remoção",
+            "estímulo aversivo",
+            "aumenta"
+          ]
+        },
+        {
+          "text": "Dá um exemplo correto",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "guarda-chuva"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é reforço negativo? Dê um exemplo. É o aumento da probabilidade de um comportamento futuro pela remoção ou evitação de um estímulo aversivo. Exemplo: abrir o guarda-chuva para evitar a chuva."
+    },
+    {
+      "id": "fund-oral-027",
+      "topic": "Behaviorismo radical",
+      "question": "O que é punição negativa? Dê um exemplo.",
+      "modelAnswer": "É a diminuição da probabilidade de um comportamento futuro pela remoção de um estímulo reforçador. Exemplo: suspender o acesso à internet de um adolescente após o descumprimento de regras.",
+      "keyPoints": [
+        {
+          "text": "Define punição negativa (remoção de reforçador diminui a probabilidade)",
+          "weight": 3,
+          "keywords": [
+            "remoção",
+            "reforçador",
+            "diminui"
+          ]
+        },
+        {
+          "text": "Dá um exemplo correto",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "suspender"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é punição negativa? Dê um exemplo. É a diminuição da probabilidade de um comportamento futuro pela remoção de um estímulo reforçador. Exemplo: suspender o acesso à internet de um adolescente após o descumprimento de regras."
+    },
+    {
+      "id": "fund-oral-028",
+      "topic": "Behaviorismo radical",
+      "question": "O que caracteriza o esquema de reforçamento de razão variável?",
+      "modelAnswer": "É um esquema em que o reforço é entregue após um número imprevisível de respostas, variando em torno de uma média, o que produz taxas de resposta altíssimas e extrema resistência à extinção.",
+      "keyPoints": [
+        {
+          "text": "Explica que o número de respostas até o reforço é imprevisível",
+          "weight": 3,
+          "keywords": [
+            "imprevisível",
+            "número de respostas"
+          ]
+        },
+        {
+          "text": "Menciona a alta taxa de resposta e a resistência à extinção",
+          "weight": 3,
+          "keywords": [
+            "resistência à extinção",
+            "taxa alta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o esquema de reforçamento de razão variável? É um esquema em que o reforço é entregue após um número imprevisível de respostas, variando em torno de uma média, o que produz taxas de resposta altíssimas e extrema resistência à extinção."
+    },
+    {
+      "id": "fund-oral-029",
+      "topic": "Behaviorismo radical",
+      "question": "O que é a Caixa de Skinner e para que serve?",
+      "modelAnswer": "É uma câmara de condicionamento operante, um espaço isolado de estímulos externos com manipuladores e dispensadores automatizados de consequências, usada para registrar de forma contínua as respostas do animal, eliminando o viés do observador.",
+      "keyPoints": [
+        {
+          "text": "Descreve a câmara isolada com manipuladores e dispensadores",
+          "weight": 3,
+          "keywords": [
+            "câmara",
+            "manipuladores",
+            "dispensadores"
+          ]
+        },
+        {
+          "text": "Explica a função de registro automatizado sem viés do observador",
+          "weight": 3,
+          "keywords": [
+            "registro",
+            "automatizado",
+            "viés do observador"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a Caixa de Skinner e para que serve? É uma câmara de condicionamento operante, um espaço isolado de estímulos externos com manipuladores e dispensadores automatizados de consequências, usada para registrar de forma contínua as respostas do animal, eliminando o viés do observador."
+    },
+    {
+      "id": "fund-oral-030",
+      "topic": "Behaviorismo radical",
+      "question": "O que é a contingência tríplice (modelo A-B-C)?",
+      "modelAnswer": "É o modelo que descreve a relação entre Antecedente (o contexto que sinaliza a consequência), Comportamento (a resposta emitida) e Consequência (o evento que segue o comportamento e altera sua probabilidade futura).",
+      "keyPoints": [
+        {
+          "text": "Define os três elementos (antecedente, comportamento, consequência)",
+          "weight": 4,
+          "keywords": [
+            "antecedente",
+            "comportamento",
+            "consequência"
+          ]
+        },
+        {
+          "text": "Explica que é a unidade básica de análise do comportamento",
+          "weight": 2,
+          "keywords": [
+            "unidade básica",
+            "análise"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "16-17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a contingência tríplice (modelo A-B-C)? É o modelo que descreve a relação entre Antecedente (o contexto que sinaliza a consequência), Comportamento (a resposta emitida) e Consequência (o evento que segue o comportamento e altera sua probabilidade futura)."
+    },
+    {
+      "id": "fund-oral-031",
+      "topic": "Behaviorismo radical",
+      "question": "O que é a ABA (Análise do Comportamento Aplicada)?",
+      "modelAnswer": "É o braço tecnológico e de intervenção do behaviorismo radical, focado em comportamentos de relevância social, que utiliza a avaliação funcional (antecedentes e consequências) para desenhar intervenções, muito usada em transtornos do neurodesenvolvimento.",
+      "keyPoints": [
+        {
+          "text": "Define ABA como aplicação do behaviorismo a problemas humanos/sociais",
+          "weight": 3,
+          "keywords": [
+            "Análise do Comportamento Aplicada",
+            "aplicação"
+          ]
+        },
+        {
+          "text": "Menciona a avaliação funcional como ferramenta central",
+          "weight": 3,
+          "keywords": [
+            "avaliação funcional",
+            "antecedentes",
+            "consequências"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a ABA (Análise do Comportamento Aplicada)? É o braço tecnológico e de intervenção do behaviorismo radical, focado em comportamentos de relevância social, que utiliza a avaliação funcional (antecedentes e consequências) para desenhar intervenções, muito usada em transtornos do neurodesenvolvimento."
+    },
+    {
+      "id": "fund-oral-032",
+      "topic": "Behaviorismo radical",
+      "question": "O que é o OBM (Gerenciamento do Comportamento Organizacional)?",
+      "modelAnswer": "É a aplicação dos princípios do reforçamento ao ambiente corporativo, usada para desenhar sistemas de metas, melhorar a segurança no trabalho e promover a cultura organizacional por meio de consequências positivas.",
+      "keyPoints": [
+        {
+          "text": "Define OBM como aplicação dos princípios operantes ao contexto organizacional",
+          "weight": 3,
+          "keywords": [
+            "OBM",
+            "organizacional",
+            "reforçamento"
+          ]
+        },
+        {
+          "text": "Cita exemplos de aplicação (metas, segurança, cultura)",
+          "weight": 3,
+          "keywords": [
+            "metas",
+            "segurança no trabalho",
+            "cultura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "17"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é o OBM (Gerenciamento do Comportamento Organizacional)? É a aplicação dos princípios do reforçamento ao ambiente corporativo, usada para desenhar sistemas de metas, melhorar a segurança no trabalho e promover a cultura organizacional por meio de consequências positivas."
+    },
+    {
+      "id": "fund-oral-033",
+      "topic": "Behaviorismo radical",
+      "question": "Por que Skinner alertava sobre os riscos do uso da punição no controle do comportamento?",
+      "modelAnswer": "Porque, embora a punição possa suprimir um comportamento a curto prazo, ela não ensina um comportamento alternativo adequado e com frequência gera respostas emocionais aversivas, como ansiedade, medo e esquiva em relação a quem pune.",
+      "keyPoints": [
+        {
+          "text": "Explica que a punição não ensina comportamento alternativo",
+          "weight": 3,
+          "keywords": [
+            "não ensina",
+            "alternativo"
+          ]
+        },
+        {
+          "text": "Menciona os efeitos colaterais emocionais (ansiedade, medo, esquiva)",
+          "weight": 3,
+          "keywords": [
+            "ansiedade",
+            "medo",
+            "esquiva"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Por que Skinner alertava sobre os riscos do uso da punição no controle do comportamento? Porque, embora a punição possa suprimir um comportamento a curto prazo, ela não ensina um comportamento alternativo adequado e com frequência gera respostas emocionais aversivas, como ansiedade, medo e esquiva em relação a quem pune."
+    },
+    {
+      "id": "fund-oral-034",
+      "topic": "Behaviorismo radical",
+      "question": "Qual a principal diferença entre o behaviorismo metodológico de Watson e o behaviorismo radical de Skinner?",
+      "modelAnswer": "Watson excluía os eventos privados (pensamentos e sentimentos) da ciência, por não serem observáveis publicamente. Skinner os incluía, entendendo que pensar e sentir também são comportamentos, sujeitos às mesmas leis de aprendizagem dos comportamentos públicos.",
+      "keyPoints": [
+        {
+          "text": "Explica a exclusão dos eventos privados por Watson",
+          "weight": 3,
+          "keywords": [
+            "Watson",
+            "excluía",
+            "não observáveis"
+          ]
+        },
+        {
+          "text": "Explica a inclusão monista dos eventos privados por Skinner",
+          "weight": 3,
+          "keywords": [
+            "Skinner",
+            "eventos privados são comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "13"
+      },
+      "subject": "Behaviorismo radical (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "Qual a principal diferença entre o behaviorismo metodológico de Watson e o behaviorismo radical de Skinner? Watson excluía os eventos privados (pensamentos e sentimentos) da ciência, por não serem observáveis publicamente. Skinner os incluía, entendendo que pensar e sentir também são comportamentos, sujeitos às mesmas leis de aprendizagem dos comportamentos públicos."
     }
   ]
 }
