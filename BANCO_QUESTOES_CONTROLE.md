@@ -14,3 +14,5 @@ usado pelo app.
 | 6 | As Teorias Cognitivo-Comportamentais | Processos cognitivos: memória | 2026-09-02 | `b41bfe4` |
 | 7 | O Estudo do Desenvolvimento Humano | Concepção e período pré-natal | 2026-09-03 | `6fa52ff` |
 | 8 | O Estudo do Desenvolvimento Humano | Parto e período perinatal | 2026-09-03 | `6fa52ff` |
+| 9 | O Estudo do Desenvolvimento Humano | Infância | 2026-09-03 | `c7ed4ae` |
+| 10 | O Estudo do Desenvolvimento Humano | Adolescência | 2026-09-03 | `c7ed4ae` |
