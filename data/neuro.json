@@ -1263,6 +1263,1348 @@
       },
       "subject": "Plasticidade neural",
       "difficulty": "medio"
+    },
+    {
+      "id": "neuro-obj-061",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Os dois hemisférios cerebrais são separados pela fissura longitudinal, cujo assoalho é formado por uma larga faixa de fibras comissurais. Essa estrutura, principal meio de união entre os hemisférios, é denominada:",
+      "options": {
+        "a": "Fórnice",
+        "b": "Corpo caloso",
+        "c": "Cíngulo",
+        "d": "Cápsula interna",
+        "e": "Comissura anterior"
+      },
+      "correct": "b",
+      "explanation": "O corpo caloso é a larga faixa de fibras comissurais que forma o assoalho da fissura longitudinal, constituindo o principal meio de união entre os hemisférios cerebrais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Os dois hemisférios cerebrais são separados pela fissura longitudinal, cujo assoalho é formado por uma larga faixa de fibras comissurais. Essa estrutura, principal meio de união entre os hemisférios, é denominada: O corpo caloso é a larga faixa de fibras comissurais que forma o assoalho da fissura longitudinal, constituindo o principal meio de união entre os hemisférios cerebrais."
+    },
+    {
+      "id": "neuro-obj-062",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Dois sulcos são especialmente importantes para delimitar os lobos cerebrais: o sulco lateral e o sulco central. Sobre eles, é correto afirmar que:",
+      "options": {
+        "a": "O sulco lateral separa os lobos frontal e parietal, enquanto o central separa o lobo temporal dos demais",
+        "b": "O sulco lateral separa o lobo temporal dos lobos frontal e parietal, enquanto o central separa os lobos frontal e parietal",
+        "c": "Ambos os sulcos delimitam exclusivamente o lobo occipital",
+        "d": "O sulco central separa o lobo da ínsula dos demais lobos cerebrais",
+        "e": "O sulco lateral e o central são sinônimos do mesmo acidente anatômico"
+      },
+      "correct": "b",
+      "explanation": "O sulco lateral separa o lobo temporal dos lobos frontal e parietal; o sulco central separa os lobos frontal e parietal entre si.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Dois sulcos são especialmente importantes para delimitar os lobos cerebrais: o sulco lateral e o sulco central. Sobre eles, é correto afirmar que: O sulco lateral separa o lobo temporal dos lobos frontal e parietal; o sulco central separa os lobos frontal e parietal entre si."
+    },
+    {
+      "id": "neuro-obj-063",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Os lobos cerebrais recebem sua denominação de acordo com os ossos do crânio aos quais se relacionam. São eles:",
+      "options": {
+        "a": "Frontal, parietal, temporal, occipital e ínsula",
+        "b": "Frontal, parietal, cervical, torácico e sacral",
+        "c": "Anterior, posterior, lateral, medial e ventral",
+        "d": "Motor, sensitivo, visual, auditivo e olfatório",
+        "e": "Cortical, subcortical, límbico, reticular e talâmico"
+      },
+      "correct": "a",
+      "explanation": "Os cinco lobos cerebrais são frontal, parietal, temporal, occipital e ínsula, denominados de acordo com os ossos do crânio com os quais se relacionam.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Os lobos cerebrais recebem sua denominação de acordo com os ossos do crânio aos quais se relacionam. São eles: Os cinco lobos cerebrais são frontal, parietal, temporal, occipital e ínsula, denominados de acordo com os ossos do crânio com os quais se relacionam."
+    },
+    {
+      "id": "neuro-obj-064",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Entre o sulco central e o sulco pré-central, no lobo frontal, localiza-se o giro pré-central, considerado a principal área motora do cérebro. Essa área é conhecida como:",
+      "options": {
+        "a": "Área motora secundária",
+        "b": "Área somestésica primária",
+        "c": "Área motora primária",
+        "d": "Área pré-motora",
+        "e": "Área de associação parietal"
+      },
+      "correct": "c",
+      "explanation": "O giro pré-central, situado entre o sulco central e o pré-central, é a área motora primária, de onde se origina grande parte das fibras do trato córtico-espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Entre o sulco central e o sulco pré-central, no lobo frontal, localiza-se o giro pré-central, considerado a principal área motora do cérebro. Essa área é conhecida como: O giro pré-central, situado entre o sulco central e o pré-central, é a área motora primária, de onde se origina grande parte das fibras do trato córtico-espinhal."
+    },
+    {
+      "id": "neuro-obj-065",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "A área motora primária, localizada no giro pré-central do lobo frontal, realiza conexões com tálamo, cerebelo e núcleos da base, sendo de onde se origina grande parte das fibras de um importante trato descendente. Esse trato é o:",
+      "options": {
+        "a": "Trato espinotalâmico lateral",
+        "b": "Fascículo grácil",
+        "c": "Trato córtico-espinhal",
+        "d": "Trato espinocerebelar posterior",
+        "e": "Trato rubro-espinhal"
+      },
+      "correct": "c",
+      "explanation": "A área motora primária origina grande parte das fibras do trato córtico-espinhal, responsáveis por levar os impulsos nervosos necessários à contração muscular voluntária.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "A área motora primária, localizada no giro pré-central do lobo frontal, realiza conexões com tálamo, cerebelo e núcleos da base, sendo de onde se origina grande parte das fibras de um importante trato descendente. Esse trato é o: A área motora primária origina grande parte das fibras do trato córtico-espinhal, responsáveis por levar os impulsos nervosos necessários à contração muscular voluntária."
+    },
+    {
+      "id": "neuro-obj-066",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Uma lesão na área motora primária (giro pré-central) do cérebro tende a provocar, no indivíduo, quadros clínicos denominados:",
+      "options": {
+        "a": "Agnosias",
+        "b": "Afasias sensitivas",
+        "c": "Plegias ou paresias",
+        "d": "Amaurose ou ambliopia",
+        "e": "Anacusia"
+      },
+      "correct": "c",
+      "explanation": "Lesões na área motora primária podem gerar plegias ou paresias, isto é, alterações no movimento voluntário do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Uma lesão na área motora primária (giro pré-central) do cérebro tende a provocar, no indivíduo, quadros clínicos denominados: Lesões na área motora primária podem gerar plegias ou paresias, isto é, alterações no movimento voluntário do indivíduo."
+    },
+    {
+      "id": "neuro-obj-067",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "No giro frontal médio, ao lado do giro pré-central, localiza-se a área motora secundária, dividida em área motora suplementar e área pré-motora. A principal função dessa área é:",
+      "options": {
+        "a": "Receber diretamente os impulsos visuais provenientes da retina",
+        "b": "Planejar, programar e sequenciar os movimentos, preparando o corpo para a realização de movimentos mais delicados",
+        "c": "Processar as informações auditivas captadas pelo giro temporal superior",
+        "d": "Armazenar de forma definitiva as memórias declarativas de longo prazo",
+        "e": "Regular exclusivamente o ciclo sono-vigília por meio de conexões com o hipotálamo"
+      },
+      "correct": "b",
+      "explanation": "A área motora secundária (suplementar e pré-motora) realiza conexões com os núcleos da base, o cerebelo e a área motora primária, sendo responsável pelo planejamento, programação e sequência dos movimentos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "No giro frontal médio, ao lado do giro pré-central, localiza-se a área motora secundária, dividida em área motora suplementar e área pré-motora. A principal função dessa área é: A área motora secundária (suplementar e pré-motora) realiza conexões com os núcleos da base, o cerebelo e a área motora primária, sendo responsável pelo planejamento, programação e sequência dos movimentos."
+    },
+    {
+      "id": "neuro-obj-068",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Quando um indivíduo apresenta dificuldade em realizar um ato motor de maneira planejada e organizada, apesar de não haver paralisia muscular, decorrente de lesão na área motora secundária, esse quadro clínico é denominado:",
+      "options": {
+        "a": "Afasia motora",
+        "b": "Apraxia (comprometimento na praxia)",
+        "c": "Agnosia visual",
+        "d": "Amaurose",
+        "e": "Hipoestesia"
+      },
+      "correct": "b",
+      "explanation": "Lesões na área motora secundária geram comprometimentos na praxia, ou seja, dificuldade do indivíduo em realizar o ato motor de maneira planejada e organizada, mesmo sem paralisia da musculatura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Quando um indivíduo apresenta dificuldade em realizar um ato motor de maneira planejada e organizada, apesar de não haver paralisia muscular, decorrente de lesão na área motora secundária, esse quadro clínico é denominado: Lesões na área motora secundária geram comprometimentos na praxia, ou seja, dificuldade do indivíduo em realizar o ato motor de maneira planejada e organizada, mesmo sem paralisia da musculatura."
+    },
+    {
+      "id": "neuro-obj-069",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "A área de Broca, localizada na porção opercular do lobo frontal (geralmente no hemisfério esquerdo), é responsável pelo centro cortical da expressão da linguagem falada e escrita. Quando lesada, o indivíduo apresenta um quadro no qual:",
+      "options": {
+        "a": "Compreende as informações faladas e as leituras, mas não consegue se expressar (afasia motora)",
+        "b": "Não compreende nada do que ouve ou lê, mas fala de forma fluente e correta",
+        "c": "Perde totalmente a audição, sem qualquer comprometimento da fala",
+        "d": "Apresenta perda completa da visão em ambos os olhos",
+        "e": "Desenvolve tremores e rigidez muscular characterísticos da doença de Parkinson"
+      },
+      "correct": "a",
+      "explanation": "Alterações na área de Broca levam às afasias motoras: o indivíduo compreende as informações faladas e a leitura, porém não consegue se expressar verbalmente ou por escrito.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "A área de Broca, localizada na porção opercular do lobo frontal (geralmente no hemisfério esquerdo), é responsável pelo centro cortical da expressão da linguagem falada e escrita. Quando lesada, o indivíduo apresenta um quadro no qual: Alterações na área de Broca levam às afasias motoras: o indivíduo compreende as informações faladas e a leitura, porém não consegue se expressar verbalmente ou por escrito."
+    },
+    {
+      "id": "neuro-obj-070",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Na porção mais superior do lobo frontal localiza-se uma área relacionada, principalmente, a:",
+      "options": {
+        "a": "Condutas sociais e aspectos relacionados à personalidade",
+        "b": "Processamento primário da informação visual",
+        "c": "Recepção dos impulsos auditivos captados pela cóclea",
+        "d": "Manutenção do equilíbrio e da postura corporal",
+        "e": "Produção do líquido cefalorraquidiano"
+      },
+      "correct": "a",
+      "explanation": "A porção mais superior do lobo frontal está relacionada à atenção e ao comportamento, envolvendo, principalmente, condutas sociais e aspectos da personalidade.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Na porção mais superior do lobo frontal localiza-se uma área relacionada, principalmente, a: A porção mais superior do lobo frontal está relacionada à atenção e ao comportamento, envolvendo, principalmente, condutas sociais e aspectos da personalidade."
+    },
+    {
+      "id": "neuro-obj-071",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "No lobo parietal, entre os sulcos central e pós-central, localiza-se o giro pós-central, sede de uma das mais importantes áreas sensitivas do córtex cerebral. Essa área, responsável pela captação da informação de temperatura, dor, pressão, tato e propriocepção consciente, é denominada:",
+      "options": {
+        "a": "Área motora primária",
+        "b": "Área somestésica (sensitiva primária)",
+        "c": "Área auditiva primária",
+        "d": "Área visual primária",
+        "e": "Área de Wernicke"
+      },
+      "correct": "b",
+      "explanation": "A área somestésica, localizada no giro pós-central do lobo parietal, é a área sensitiva primária, responsável pela captação da informação de temperatura, dor, pressão, tato e propriocepção consciente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "No lobo parietal, entre os sulcos central e pós-central, localiza-se o giro pós-central, sede de uma das mais importantes áreas sensitivas do córtex cerebral. Essa área, responsável pela captação da informação de temperatura, dor, pressão, tato e propriocepção consciente, é denominada: A área somestésica, localizada no giro pós-central do lobo parietal, é a área sensitiva primária, responsável pela captação da informação de temperatura, dor, pressão, tato e propriocepção consciente."
+    },
+    {
+      "id": "neuro-obj-072",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Uma lesão na área somestésica primária, no lobo parietal, pode gerar um quadro de ausência total da sensação, denominado:",
+      "options": {
+        "a": "Amaurose",
+        "b": "Hipoacusia",
+        "c": "Anestesia",
+        "d": "Agnosia auditiva",
+        "e": "Ambliopia"
+      },
+      "correct": "c",
+      "explanation": "Lesões na área sensitiva primária podem gerar quadro de anestesia, que é a ausência total da sensação, ou apenas sua diminuição, chamada hipoestesia.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Uma lesão na área somestésica primária, no lobo parietal, pode gerar um quadro de ausência total da sensação, denominado: Lesões na área sensitiva primária podem gerar quadro de anestesia, que é a ausência total da sensação, ou apenas sua diminuição, chamada hipoestesia."
+    },
+    {
+      "id": "neuro-obj-073",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Logo atrás da área sensitiva primária, no lobo parietal, está presente a área sensitiva secundária, responsável pela interpretação da informação sensorial captada. Quando essa área é lesada, o déficit resultante é denominado:",
+      "options": {
+        "a": "Agnosia do tipo tátil",
+        "b": "Afasia sensitiva",
+        "c": "Amaurose",
+        "d": "Apraxia",
+        "e": "Hipoacusia"
+      },
+      "correct": "a",
+      "explanation": "A área sensitiva secundária, localizada logo atrás da área sensitiva primária no lobo parietal, é responsável pela interpretação da informação sensorial; seu déficit é chamado de agnosia do tipo tátil.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Logo atrás da área sensitiva primária, no lobo parietal, está presente a área sensitiva secundária, responsável pela interpretação da informação sensorial captada. Quando essa área é lesada, o déficit resultante é denominado: A área sensitiva secundária, localizada logo atrás da área sensitiva primária no lobo parietal, é responsável pela interpretação da informação sensorial; seu déficit é chamado de agnosia do tipo tátil."
+    },
+    {
+      "id": "neuro-obj-074",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O médico neurocirurgião canadense Wield Penfield, ao investigar fatores envolvidos na epilepsia na década de 40, descobriu uma representação humana das partes do corpo nas superfícies pré e pós-central dos lobos frontal e parietal. Essa representação ficou conhecida como:",
+      "options": {
+        "a": "Circuito de Papez",
+        "b": "Homúnculo de Penfield",
+        "c": "Polígono de Willis",
+        "d": "Regra de Peele",
+        "e": "Coativação alfa-gama"
+      },
+      "correct": "b",
+      "explanation": "O homúnculo de Penfield é a representação das áreas somatotópicas descobertas por Wield Penfield nas superfícies pré e pós-central, correspondentes ao controle motor e sensorial do corpo humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "O médico neurocirurgião canadense Wield Penfield, ao investigar fatores envolvidos na epilepsia na década de 40, descobriu uma representação humana das partes do corpo nas superfícies pré e pós-central dos lobos frontal e parietal. Essa representação ficou conhecida como: O homúnculo de Penfield é a representação das áreas somatotópicas descobertas por Wield Penfield nas superfícies pré e pós-central, correspondentes ao controle motor e sensorial do corpo humano."
+    },
+    {
+      "id": "neuro-obj-075",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "No lobo temporal, entre os sulcos lateral e temporal superior, localiza-se o giro temporal superior, sede de uma importante área relacionada à fala e à escrita, mas responsável pela compreensão dessas informações (e não pela sua expressão). Essa área é denominada:",
+      "options": {
+        "a": "Área de Broca",
+        "b": "Área de Wernicke",
+        "c": "Área somestésica secundária",
+        "d": "Área pré-motora",
+        "e": "Área visual secundária"
+      },
+      "correct": "b",
+      "explanation": "A área de Wernicke, localizada no giro temporal superior do lobo temporal, também se relaciona com a fala e a escrita, mas é responsável pela compreensão dessas informações, diferentemente da área de Broca, que trata da expressão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29-30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "No lobo temporal, entre os sulcos lateral e temporal superior, localiza-se o giro temporal superior, sede de uma importante área relacionada à fala e à escrita, mas responsável pela compreensão dessas informações (e não pela sua expressão). Essa área é denominada: A área de Wernicke, localizada no giro temporal superior do lobo temporal, também se relaciona com a fala e a escrita, mas é responsável pela compreensão dessas informações, diferentemente da área de Broca, que trata da expressão."
+    },
+    {
+      "id": "neuro-obj-076",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente com lesão na área de Wernicke consegue expressar a fala normalmente, porém, por não conseguir compreender o que ouve ou lê, apresenta falas confusas e desconexas. Esse quadro clínico é denominado:",
+      "options": {
+        "a": "Afasia motora",
+        "b": "Afasia do tipo sensitiva",
+        "c": "Agnosia visual",
+        "d": "Apraxia ideomotora",
+        "e": "Hipoacusia bilateral"
+      },
+      "correct": "b",
+      "explanation": "Quando há lesão na área de Wernicke, o quadro é chamado de afasia do tipo sensitiva: o indivíduo consegue expressar a fala, mas, por não conseguir compreender, apresenta falas confusas e desconexas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Um paciente com lesão na área de Wernicke consegue expressar a fala normalmente, porém, por não conseguir compreender o que ouve ou lê, apresenta falas confusas e desconexas. Esse quadro clínico é denominado: Quando há lesão na área de Wernicke, o quadro é chamado de afasia do tipo sensitiva: o indivíduo consegue expressar a fala, mas, por não conseguir compreender, apresenta falas confusas e desconexas."
+    },
+    {
+      "id": "neuro-obj-077",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Ainda no giro temporal superior do lobo temporal, localizam-se as áreas responsáveis por captar (área auditiva primária) e interpretar (área auditiva secundária) os impulsos auditivos. Uma lesão na área auditiva secundária, na qual o indivíduo ouve o som mas não consegue interpretá-lo, é denominada:",
+      "options": {
+        "a": "Anacusia",
+        "b": "Hipoacusia",
+        "c": "Agnosia auditiva",
+        "d": "Amaurose",
+        "e": "Ambliopia"
+      },
+      "correct": "c",
+      "explanation": "A agnosia auditiva ocorre quando é possível ouvir o som, mas há dificuldade de interpretar o que se está ouvindo — diferindo da hipoacusia e da anacusia, que são diminuição ou ausência da acuidade auditiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Ainda no giro temporal superior do lobo temporal, localizam-se as áreas responsáveis por captar (área auditiva primária) e interpretar (área auditiva secundária) os impulsos auditivos. Uma lesão na área auditiva secundária, na qual o indivíduo ouve o som mas não consegue interpretá-lo, é denominada: A agnosia auditiva ocorre quando é possível ouvir o som, mas há dificuldade de interpretar o que se está ouvindo — diferindo da hipoacusia e da anacusia, que são diminuição ou ausência da acuidade auditiva."
+    },
+    {
+      "id": "neuro-obj-078",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Os giros temporal médio e inferior, no lobo temporal, estão relacionados principalmente a qual função?",
+      "options": {
+        "a": "Motricidade voluntária dos membros",
+        "b": "Aprendizagem e memória",
+        "c": "Regulação da pressão arterial",
+        "d": "Percepção da dor e da temperatura",
+        "e": "Produção do líquor"
+      },
+      "correct": "b",
+      "explanation": "Os giros temporal médio e inferior estão relacionados à aprendizagem e à memória.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Os giros temporal médio e inferior, no lobo temporal, estão relacionados principalmente a qual função? Os giros temporal médio e inferior estão relacionados à aprendizagem e à memória."
+    },
+    {
+      "id": "neuro-obj-079",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O lobo occipital, localizado em posição mais posterior no cérebro, apresenta como sulco mais importante o sulco calcarino, nos lábios do qual se localiza o centro cortical responsável por receber os impulsos visuais. Esse centro é denominado:",
+      "options": {
+        "a": "Área somestésica primária",
+        "b": "Área primária da visão",
+        "c": "Área auditiva primária",
+        "d": "Área motora suplementar",
+        "e": "Giro cingulado"
+      },
+      "correct": "b",
+      "explanation": "Nos lábios do sulco calcarino, no lobo occipital, localiza-se o centro cortical da visão, a área primária da visão, aonde chegam os impulsos visuais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30-31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "O lobo occipital, localizado em posição mais posterior no cérebro, apresenta como sulco mais importante o sulco calcarino, nos lábios do qual se localiza o centro cortical responsável por receber os impulsos visuais. Esse centro é denominado: Nos lábios do sulco calcarino, no lobo occipital, localiza-se o centro cortical da visão, a área primária da visão, aonde chegam os impulsos visuais."
+    },
+    {
+      "id": "neuro-obj-080",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Uma lesão na área primária da visão, no lobo occipital, pode causar perda completa da função visual, mesmo sem lesão no olho em si, decorrente de afecção do nervo óptico ou dos centros nervosos. Esse quadro é denominado:",
+      "options": {
+        "a": "Ambliopia",
+        "b": "Amaurose",
+        "c": "Agnosia visual",
+        "d": "Hipoacusia",
+        "e": "Anacusia"
+      },
+      "correct": "b",
+      "explanation": "A amaurose é a perda completa da função visual (cegueira), sem lesão no olho em si, mas com afecção do nervo óptico ou dos centros nervosos, podendo ser causada por lesão na área primária da visão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Uma lesão na área primária da visão, no lobo occipital, pode causar perda completa da função visual, mesmo sem lesão no olho em si, decorrente de afecção do nervo óptico ou dos centros nervosos. Esse quadro é denominado: A amaurose é a perda completa da função visual (cegueira), sem lesão no olho em si, mas com afecção do nervo óptico ou dos centros nervosos, podendo ser causada por lesão na área primária da visão."
+    },
+    {
+      "id": "neuro-obj-081",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Quando a lesão ocorre na área secundária da visão, responsável por interpretar os impulsos visuais que chegam ao lobo occipital, o déficit resultante é denominado:",
+      "options": {
+        "a": "Ambliopia",
+        "b": "Amaurose",
+        "c": "Agnosia visual",
+        "d": "Anestesia",
+        "e": "Apraxia"
+      },
+      "correct": "c",
+      "explanation": "Lesões na área secundária da visão, responsável por interpretar os impulsos visuais, geram as agnosias visuais: o cérebro não reconhece objetos pela visão, mesmo com a capacidade de enxergar preservada.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Quando a lesão ocorre na área secundária da visão, responsável por interpretar os impulsos visuais que chegam ao lobo occipital, o déficit resultante é denominado: Lesões na área secundária da visão, responsável por interpretar os impulsos visuais, geram as agnosias visuais: o cérebro não reconhece objetos pela visão, mesmo com a capacidade de enxergar preservada."
+    },
+    {
+      "id": "neuro-obj-082",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O lobo da ínsula, localizado mais profundamente e observável após o afastamento dos lábios do sulco lateral, está principalmente envolvido em:",
+      "options": {
+        "a": "Funções emocionais, fortemente relacionadas ao sistema límbico, e na modulação de funções viscerais, hormonais e autonômicas",
+        "b": "Recepção exclusiva de impulsos visuais provenientes da retina",
+        "c": "Produção do líquido cefalorraquidiano nos plexos coroides",
+        "d": "Condução dos impulsos motores voluntários até a medula espinhal",
+        "e": "Regulação exclusiva do ciclo circadiano por meio do núcleo supraquiasmático"
+      },
+      "correct": "a",
+      "explanation": "O lobo da ínsula está envolvido com funções emocionais, fortemente relacionadas ao sistema límbico, participando da modulação das funções viscerais, hormonais e autonômicas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31-32"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "O lobo da ínsula, localizado mais profundamente e observável após o afastamento dos lábios do sulco lateral, está principalmente envolvido em: O lobo da ínsula está envolvido com funções emocionais, fortemente relacionadas ao sistema límbico, participando da modulação das funções viscerais, hormonais e autonômicas."
+    },
+    {
+      "id": "neuro-obj-083",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente apresenta dificuldade importante para nomear objetos que vê, embora consiga descrevê-los verbalmente por outros meios e não apresente nenhuma alteração na acuidade visual. Considerando as áreas do telencéfalo, essa dificuldade sugere comprometimento predominante:",
+      "options": {
+        "a": "Da área motora primária no lobo frontal",
+        "b": "Da área somestésica primária no lobo parietal",
+        "c": "Da interação entre a área visual secundária (occipital) e áreas de linguagem, sugerindo um quadro de agnosia visual associada",
+        "d": "Do cerebelo, responsável pela coordenação motora",
+        "e": "Do núcleo subtalâmico, responsável pelo controle motor involuntário"
+      },
+      "correct": "c",
+      "explanation": "A dificuldade em nomear objetos vistos, apesar da acuidade visual preservada, sugere um comprometimento na interpretação e integração das informações visuais com áreas de linguagem, quadro compatível com agnosia visual.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta dificuldade importante para nomear objetos que vê, embora consiga descrevê-los verbalmente por outros meios e não apresente nenhuma alteração na acuidade visual. Considerando as áreas do telencéfalo, essa dificuldade sugere comprometimento predominante: A dificuldade em nomear objetos vistos, apesar da acuidade visual preservada, sugere um comprometimento na interpretação e integração das informações visuais com áreas de linguagem, quadro compatível com agnosia visual."
+    },
+    {
+      "id": "neuro-obj-084",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente que sofreu um acidente vascular encefálico apresenta incapacidade de movimentar voluntariamente o braço direito, associada à alteração de sensibilidade no mesmo membro, sem qualquer comprometimento da linguagem. As áreas mais provavelmente comprometidas são:",
+      "options": {
+        "a": "Área de Broca e área de Wernicke, no hemisfério esquerdo",
+        "b": "Áreas motora e sensitiva primárias (giros pré e pós-central) correspondentes à representação do membro superior, no hemisfério esquerdo",
+        "c": "Lobo occipital e área visual secundária, bilateralmente",
+        "d": "Cerebelo e núcleos da base, exclusivamente",
+        "e": "Área auditiva primária e secundária, no lobo temporal"
+      },
+      "correct": "b",
+      "explanation": "Como a motricidade voluntária e a sensibilidade somática são cruzadas, o déficit motor e sensitivo no braço direito indica lesão nas áreas motora e sensitiva primárias (giros pré e pós-central) do hemisfério esquerdo, sem envolvimento das áreas de linguagem.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27-29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente que sofreu um acidente vascular encefálico apresenta incapacidade de movimentar voluntariamente o braço direito, associada à alteração de sensibilidade no mesmo membro, sem qualquer comprometimento da linguagem. As áreas mais provavelmente comprometidas são: Como a motricidade voluntária e a sensibilidade somática são cruzadas, o déficit motor e sensitivo no braço direito indica lesão nas áreas motora e sensitiva primárias (giros pré e pós-central) do hemisfério esquerdo, sem envolvimento das áreas de linguagem."
+    },
+    {
+      "id": "neuro-obj-085",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Comparando a área de Broca e a área de Wernicke quanto à sua função na linguagem, é correto afirmar que:",
+      "options": {
+        "a": "Ambas são responsáveis exclusivamente pela compreensão da linguagem",
+        "b": "A área de Broca é responsável pela expressão da linguagem (fala e escrita), enquanto a área de Wernicke é responsável pela compreensão dessas informações",
+        "c": "A área de Broca localiza-se no lobo temporal, enquanto a área de Wernicke localiza-se no lobo frontal",
+        "d": "Ambas estão localizadas no lobo occipital, próximas ao sulco calcarino",
+        "e": "A área de Wernicke é responsável pela expressão motora, enquanto a de Broca é responsável pela compreensão"
+      },
+      "correct": "b",
+      "explanation": "A área de Broca (lobo frontal) é o centro cortical da expressão da linguagem falada e escrita; a área de Wernicke (lobo temporal) é responsável pela compreensão dessas mesmas informações — sua lesão gera tipos distintos de afasia.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28-30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Comparando a área de Broca e a área de Wernicke quanto à sua função na linguagem, é correto afirmar que: A área de Broca (lobo frontal) é o centro cortical da expressão da linguagem falada e escrita; a área de Wernicke (lobo temporal) é responsável pela compreensão dessas mesmas informações — sua lesão gera tipos distintos de afasia."
+    },
+    {
+      "id": "neuro-obj-086",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente apresenta dificuldade de reconhecer objetos apenas pelo som que produzem (por exemplo, não reconhece o som característico de uma chave, embora ouça normalmente). Esse quadro é compatível com lesão na:",
+      "options": {
+        "a": "Área somestésica primária",
+        "b": "Área auditiva secundária, gerando agnosia auditiva",
+        "c": "Área motora primária",
+        "d": "Área primária da visão",
+        "e": "Área de Broca"
+      },
+      "correct": "b",
+      "explanation": "A dificuldade em interpretar sons já ouvidos normalmente, sem perda da acuidade auditiva, é compatível com lesão na área auditiva secundária, responsável pela interpretação dos impulsos auditivos, gerando agnosia auditiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Um paciente apresenta dificuldade de reconhecer objetos apenas pelo som que produzem (por exemplo, não reconhece o som característico de uma chave, embora ouça normalmente). Esse quadro é compatível com lesão na: A dificuldade em interpretar sons já ouvidos normalmente, sem perda da acuidade auditiva, é compatível com lesão na área auditiva secundária, responsável pela interpretação dos impulsos auditivos, gerando agnosia auditiva."
+    },
+    {
+      "id": "neuro-obj-087",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Sobre a organização geral do telencéfalo, é correto afirmar que os sulcos cerebrais têm como principal função:",
+      "options": {
+        "a": "Produzir o líquido cefalorraquidiano que circula nos ventrículos",
+        "b": "Delimitar os giros cerebrais e, consequentemente, os lobos cerebrais",
+        "c": "Formar a barreira hematoencefálica que protege o tecido nervoso",
+        "d": "Conduzir exclusivamente fibras do sistema nervoso autônomo",
+        "e": "Constituir a substância cinzenta da medula espinhal"
+      },
+      "correct": "b",
+      "explanation": "Os sulcos cerebrais ajudam a delimitar os giros cerebrais na superfície de cada hemisfério, e, por consequência, os lobos cerebrais que recebem sua denominação de acordo com os ossos do crânio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Sobre a organização geral do telencéfalo, é correto afirmar que os sulcos cerebrais têm como principal função: Os sulcos cerebrais ajudam a delimitar os giros cerebrais na superfície de cada hemisfério, e, por consequência, os lobos cerebrais que recebem sua denominação de acordo com os ossos do crânio."
+    },
+    {
+      "id": "neuro-obj-088",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Um paciente apresenta alteração de comportamento, desinibição social e dificuldade em planejar ações, sem, no entanto, apresentar déficits motores ou sensitivos evidentes. Essa apresentação clínica é mais compatível com lesão na porção:",
+      "options": {
+        "a": "Mais superior do lobo frontal, relacionada à atenção, ao comportamento e a aspectos da personalidade",
+        "b": "Occipital, relacionada à área primária da visão",
+        "c": "Do giro pós-central, relacionada à sensibilidade somática",
+        "d": "Do giro temporal superior, relacionada à compreensão da linguagem",
+        "e": "Do cerebelo, relacionada ao equilíbrio"
+      },
+      "correct": "a",
+      "explanation": "Alterações de comportamento, desinibição social e dificuldades de planejamento, sem déficits motores/sensitivos evidentes, são compatíveis com lesão na porção mais superior do lobo frontal, relacionada à atenção, ao comportamento e à personalidade.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta alteração de comportamento, desinibição social e dificuldade em planejar ações, sem, no entanto, apresentar déficits motores ou sensitivos evidentes. Essa apresentação clínica é mais compatível com lesão na porção: Alterações de comportamento, desinibição social e dificuldades de planejamento, sem déficits motores/sensitivos evidentes, são compatíveis com lesão na porção mais superior do lobo frontal, relacionada à atenção, ao comportamento e à personalidade."
+    },
+    {
+      "id": "neuro-obj-089",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Considerando as subdivisões da porção inferior do lobo frontal (orbital, triangular e opercular), a área de Broca está localizada especificamente na porção:",
+      "options": {
+        "a": "Orbital",
+        "b": "Triangular",
+        "c": "Opercular",
+        "d": "Occipital",
+        "e": "Insular"
+      },
+      "correct": "c",
+      "explanation": "A porção mais inferior do lobo frontal é subdividida em partes orbital, triangular e opercular, sendo nesta última que se localiza a área de Broca, na maioria dos indivíduos no hemisfério esquerdo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Considerando as subdivisões da porção inferior do lobo frontal (orbital, triangular e opercular), a área de Broca está localizada especificamente na porção: A porção mais inferior do lobo frontal é subdividida em partes orbital, triangular e opercular, sendo nesta última que se localiza a área de Broca, na maioria dos indivíduos no hemisfério esquerdo."
+    },
+    {
+      "id": "neuro-obj-090",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "A área somestésica (sensitiva primária), localizada no giro pós-central do lobo parietal, é responsável pela captação de qual conjunto de informações sensoriais?",
+      "options": {
+        "a": "Exclusivamente informações visuais",
+        "b": "Temperatura, dor, pressão, tato e propriocepção consciente",
+        "c": "Apenas informações auditivas",
+        "d": "Exclusivamente o olfato",
+        "e": "Apenas a propriocepção inconsciente destinada ao cerebelo"
+      },
+      "correct": "b",
+      "explanation": "A área somestésica é a área sensitiva primária do córtex cerebral, responsável pela captação da informação sensitiva relacionada à temperatura, à dor, à pressão, ao tato e à propriocepção consciente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "A área somestésica (sensitiva primária), localizada no giro pós-central do lobo parietal, é responsável pela captação de qual conjunto de informações sensoriais? A área somestésica é a área sensitiva primária do córtex cerebral, responsável pela captação da informação sensitiva relacionada à temperatura, à dor, à pressão, ao tato e à propriocepção consciente."
+    },
+    {
+      "id": "neuro-obj-091",
+      "topic": "Sistema límbico",
+      "question": "O termo 'límbico' (do latim limbus, borda) foi aplicado pela primeira vez à borda curva do córtex que inclui os giros cingulado e parahipocampal por:",
+      "options": {
+        "a": "James Papez, em 1937",
+        "b": "Paul Pierre Broca, em 1878",
+        "c": "Paul D. MacLean, em 1952",
+        "d": "Yakovlev, em 1948",
+        "e": "Wilder Penfield, em 1940"
+      },
+      "correct": "b",
+      "explanation": "Paul Pierre Broca, em 1878, falou de 'le grand lobe limbique' (o grande lobo límbico), aplicando o termo límbico à borda curva do córtex que inclui os giros cingulado e parahipocampal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O termo 'límbico' (do latim limbus, borda) foi aplicado pela primeira vez à borda curva do córtex que inclui os giros cingulado e parahipocampal por: Paul Pierre Broca, em 1878, falou de 'le grand lobe limbique' (o grande lobo límbico), aplicando o termo límbico à borda curva do córtex que inclui os giros cingulado e parahipocampal."
+    },
+    {
+      "id": "neuro-obj-092",
+      "topic": "Sistema límbico",
+      "question": "O médico americano James Papez elaborou, em 1937, o suposto papel do lobo límbico na emoção, propondo um modelo anatômico que ficou conhecido como:",
+      "options": {
+        "a": "Circuito de Yakovlev",
+        "b": "Teoria do cérebro triuno",
+        "c": "Circuito de Papez",
+        "d": "Circuito basolateral",
+        "e": "Homúnculo de Penfield"
+      },
+      "correct": "c",
+      "explanation": "James Papez elaborou, em 1937, no artigo 'Um mecanismo proposto de emoção', o modelo anatômico conhecido como circuito de Papez, envolvendo hipotálamo, núcleo talâmico anterior, giro cingulado e hipocampo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O médico americano James Papez elaborou, em 1937, o suposto papel do lobo límbico na emoção, propondo um modelo anatômico que ficou conhecido como: James Papez elaborou, em 1937, no artigo 'Um mecanismo proposto de emoção', o modelo anatômico conhecido como circuito de Papez, envolvendo hipotálamo, núcleo talâmico anterior, giro cingulado e hipocampo."
+    },
+    {
+      "id": "neuro-obj-093",
+      "topic": "Sistema límbico",
+      "question": "O termo 'sistema límbico' foi cunhado em 1952 para descrever o Lobo Límbico de Broca e os núcleos subcorticais relacionados como o substrato neural coletivo para a emoção. Esse autor foi:",
+      "options": {
+        "a": "Paul D. MacLean",
+        "b": "James Papez",
+        "c": "Paul Pierre Broca",
+        "d": "Yakovlev",
+        "e": "Karl Lashley"
+      },
+      "correct": "a",
+      "explanation": "Em 1952, Paul D. MacLean cunhou o termo sistema límbico para descrever o Lobo Límbico de Broca e os núcleos subcorticais relacionados como o substrato neural coletivo para a emoção.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "5"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O termo 'sistema límbico' foi cunhado em 1952 para descrever o Lobo Límbico de Broca e os núcleos subcorticais relacionados como o substrato neural coletivo para a emoção. Esse autor foi: Em 1952, Paul D. MacLean cunhou o termo sistema límbico para descrever o Lobo Límbico de Broca e os núcleos subcorticais relacionados como o substrato neural coletivo para a emoção."
+    },
+    {
+      "id": "neuro-obj-094",
+      "topic": "Sistema límbico",
+      "question": "Paul D. MacLean também propôs a teoria evolucionária do cérebro triuno, segundo a qual o cérebro humano consiste, na realidade, em três cérebros em um. Esses três componentes são:",
+      "options": {
+        "a": "O tronco encefálico, o cerebelo e o telencéfalo",
+        "b": "O complexo R (reptiliano), o sistema límbico e o neocórtex",
+        "c": "O hipotálamo, o tálamo e a amígdala",
+        "d": "O córtex motor, o córtex sensitivo e o córtex de associação",
+        "e": "O sistema nervoso central, o periférico e o autônomo"
+      },
+      "correct": "b",
+      "explanation": "A teoria do cérebro triuno de MacLean propôs que o cérebro humano consiste em três cérebros em um: o complexo R (reptiliano, ligado aos instintos), o sistema límbico (emoções e sentimentos) e o neocórtex (cognição, linguagem, raciocínio).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "5"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Paul D. MacLean também propôs a teoria evolucionária do cérebro triuno, segundo a qual o cérebro humano consiste, na realidade, em três cérebros em um. Esses três componentes são: A teoria do cérebro triuno de MacLean propôs que o cérebro humano consiste em três cérebros em um: o complexo R (reptiliano, ligado aos instintos), o sistema límbico (emoções e sentimentos) e o neocórtex (cognição, linguagem, raciocínio)."
+    },
+    {
+      "id": "neuro-obj-095",
+      "topic": "Sistema límbico",
+      "question": "O lobo límbico, situado na face inferomedial dos hemisférios cerebrais, é constituído por dois giros concêntricos ao redor do corpo caloso. São eles:",
+      "options": {
+        "a": "O giro pré-central e o giro pós-central",
+        "b": "O giro límbico (externo e maior) e o giro intralímbico (interno e menor)",
+        "c": "O giro temporal superior e o giro temporal inferior",
+        "d": "O giro frontal superior e o giro frontal médio",
+        "e": "O giro occipital e o giro parietal"
+      },
+      "correct": "b",
+      "explanation": "O lobo límbico consiste em dois giros concêntricos ao redor do corpo caloso: o giro límbico (externo e maior) e o giro intralímbico (interno e menor).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "7"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "O lobo límbico, situado na face inferomedial dos hemisférios cerebrais, é constituído por dois giros concêntricos ao redor do corpo caloso. São eles: O lobo límbico consiste em dois giros concêntricos ao redor do corpo caloso: o giro límbico (externo e maior) e o giro intralímbico (interno e menor)."
+    },
+    {
+      "id": "neuro-obj-096",
+      "topic": "Sistema límbico",
+      "question": "O giro límbico (ou lobo límbico) é composto pelo istmo do giro cingulado, pelo giro parahipocampal (contínuos por meio do cíngulo, feixe de substância branca) e por uma terceira área. Essa área é a:",
+      "options": {
+        "a": "Área subcalosa",
+        "b": "Área somestésica",
+        "c": "Área pré-motora",
+        "d": "Área de Wernicke",
+        "e": "Área de Broca"
+      },
+      "correct": "a",
+      "explanation": "Segundo Machado (2014), o giro límbico consiste no istmo do giro cingulado, no giro parahipocampal (contínuos por meio do cíngulo) e na área subcalosa.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "7"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "O giro límbico (ou lobo límbico) é composto pelo istmo do giro cingulado, pelo giro parahipocampal (contínuos por meio do cíngulo, feixe de substância branca) e por uma terceira área. Essa área é a: Segundo Machado (2014), o giro límbico consiste no istmo do giro cingulado, no giro parahipocampal (contínuos por meio do cíngulo) e na área subcalosa."
+    },
+    {
+      "id": "neuro-obj-097",
+      "topic": "Sistema límbico",
+      "question": "O giro parahipocampal, localizado no lobo temporal medial, contém diversas regiões distintas, sendo a mais importante delas responsável por canalizar informações corticais altamente processadas para a formação do hipocampo. Essa região é o:",
+      "options": {
+        "a": "Córtex entorrinal",
+        "b": "Núcleo accumbens",
+        "c": "Corpo mamilar",
+        "d": "Núcleo caudado",
+        "e": "Globo pálido"
+      },
+      "correct": "a",
+      "explanation": "O córtex entorrinal, a mais importante das regiões do giro parahipocampal, canaliza informações corticais altamente processadas para a formação do hipocampo, servindo como sua principal via de saída.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "8"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "O giro parahipocampal, localizado no lobo temporal medial, contém diversas regiões distintas, sendo a mais importante delas responsável por canalizar informações corticais altamente processadas para a formação do hipocampo. Essa região é o: O córtex entorrinal, a mais importante das regiões do giro parahipocampal, canaliza informações corticais altamente processadas para a formação do hipocampo, servindo como sua principal via de saída."
+    },
+    {
+      "id": "neuro-obj-098",
+      "topic": "Sistema límbico",
+      "question": "A palavra 'hipocampo' significa 'cavalo marinho' em grego, devido à semelhança dessa estrutura com o animal. O hipocampo, localizado nos lobos temporais, é considerado:",
+      "options": {
+        "a": "A principal sede da memória e importante componente do sistema límbico",
+        "b": "A estrutura exclusivamente responsável pelo controle motor voluntário",
+        "c": "O centro cortical primário da visão",
+        "d": "A glândula endócrina responsável pela produção de melatonina",
+        "e": "A via motora final comum de Sherrington"
+      },
+      "correct": "a",
+      "explanation": "O hipocampo é uma estrutura localizada nos lobos temporais do cérebro humano, considerada a principal sede da memória e importante componente do sistema límbico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "8"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo",
+      "miniLesson": "A palavra 'hipocampo' significa 'cavalo marinho' em grego, devido à semelhança dessa estrutura com o animal. O hipocampo, localizado nos lobos temporais, é considerado: O hipocampo é uma estrutura localizada nos lobos temporais do cérebro humano, considerada a principal sede da memória e importante componente do sistema límbico."
+    },
+    {
+      "id": "neuro-obj-099",
+      "topic": "Sistema límbico",
+      "question": "Com base nas diferenças de citoarquitetura e conectividade, o hipocampo é dividido em quatro campos, nomeados por Lorente de Nó em 1934. Esses campos são conhecidos pela sigla:",
+      "options": {
+        "a": "EI, EII, EIII e EIV",
+        "b": "CA1, CA2, CA3 e CA4 (Cornu Ammonis)",
+        "c": "NA1, NA2, NA3 e NA4",
+        "d": "HP1, HP2, HP3 e HP4",
+        "e": "AM1, AM2, AM3 e AM4"
+      },
+      "correct": "b",
+      "explanation": "O hipocampo tem quatro campos, nomeados por Lorente de Nó em 1934: CA1, CA2, CA3 e CA4, sigla que significa Cornu Ammonis.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "8-9"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Com base nas diferenças de citoarquitetura e conectividade, o hipocampo é dividido em quatro campos, nomeados por Lorente de Nó em 1934. Esses campos são conhecidos pela sigla: O hipocampo tem quatro campos, nomeados por Lorente de Nó em 1934: CA1, CA2, CA3 e CA4, sigla que significa Cornu Ammonis."
+    },
+    {
+      "id": "neuro-obj-100",
+      "topic": "Sistema límbico",
+      "question": "No campo CA3 do hipocampo, os colaterais dos processos axonais que se estendem a partir das células piramidais, projetando-se de volta ao campo CA1, são conhecidos como:",
+      "options": {
+        "a": "Fibras musgosas",
+        "b": "Colaterais de Schaffer",
+        "c": "Via perfurante",
+        "d": "Fibras não fornicais",
+        "e": "Alvéolo"
+      },
+      "correct": "b",
+      "explanation": "Os colaterais de Schaffer (ou recorrentes) são os colaterais dos processos axonais das células piramidais de CA3, que se projetam de volta para os dendritos do campo CA1, formando sinapses entre essas duas regiões.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "9"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "No campo CA3 do hipocampo, os colaterais dos processos axonais que se estendem a partir das células piramidais, projetando-se de volta ao campo CA1, são conhecidos como: Os colaterais de Schaffer (ou recorrentes) são os colaterais dos processos axonais das células piramidais de CA3, que se projetam de volta para os dendritos do campo CA1, formando sinapses entre essas duas regiões."
+    },
+    {
+      "id": "neuro-obj-101",
+      "topic": "Sistema límbico",
+      "question": "A amígdala, identificada por Burdach no início do século XIX, é uma estrutura em forma de amêndoa localizada nas profundezas do lobo temporal. O complexo amigdaloide é estruturalmente diverso, abrangendo aproximadamente:",
+      "options": {
+        "a": "Três núcleos",
+        "b": "Cinco núcleos",
+        "c": "Treze núcleos",
+        "d": "Vinte núcleos",
+        "e": "Um único núcleo, sem subdivisões"
+      },
+      "correct": "c",
+      "explanation": "O complexo amigdaloide é estruturalmente diverso e abrange aproximadamente treze núcleos, com subdivisões que possuem extensas conexões internucleares e intranucleares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "11"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "A amígdala, identificada por Burdach no início do século XIX, é uma estrutura em forma de amêndoa localizada nas profundezas do lobo temporal. O complexo amigdaloide é estruturalmente diverso, abrangendo aproximadamente: O complexo amigdaloide é estruturalmente diverso e abrange aproximadamente treze núcleos, com subdivisões que possuem extensas conexões internucleares e intranucleares."
+    },
+    {
+      "id": "neuro-obj-102",
+      "topic": "Sistema límbico",
+      "question": "A área septal, estrutura de substância cinzenta imediatamente acima da comissura anterior, com extensas conexões recíprocas com o hipocampo via fórnice, é conhecida por constituir:",
+      "options": {
+        "a": "Um dos centros do prazer do cérebro, acreditando-se estar relacionada ao orgasmo",
+        "b": "O principal centro do controle motor voluntário",
+        "c": "A via exclusiva de produção do líquido cefalorraquidiano",
+        "d": "O centro cortical primário da audição",
+        "e": "A estrutura responsável pela decussação das pirâmides bulbares"
+      },
+      "correct": "a",
+      "explanation": "A área septal constitui um dos centros do prazer do cérebro, e acredita-se que esteja relacionada ao orgasmo (embora outros pesquisadores atribuam esse papel ao hipocampo, à amígdala e ao núcleo caudado, em conjunto).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "11"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "A área septal, estrutura de substância cinzenta imediatamente acima da comissura anterior, com extensas conexões recíprocas com o hipocampo via fórnice, é conhecida por constituir: A área septal constitui um dos centros do prazer do cérebro, e acredita-se que esteja relacionada ao orgasmo (embora outros pesquisadores atribuam esse papel ao hipocampo, à amígdala e ao núcleo caudado, em conjunto)."
+    },
+    {
+      "id": "neuro-obj-103",
+      "topic": "Sistema límbico",
+      "question": "O hipotálamo, localizado no centro do sistema límbico e na confluência de muitas vias neurais, é subdividido da parte anterior para a posterior em três zonas. São elas:",
+      "options": {
+        "a": "Anterior, média e posterior",
+        "b": "Supraóptica, tuberal e mamilar",
+        "c": "Medial, lateral e central",
+        "d": "Cortical, subcortical e reticular",
+        "e": "Dorsal, ventral e intermédia"
+      },
+      "correct": "b",
+      "explanation": "O hipotálamo é subdividido, da parte anterior para a posterior, em três zonas: a região supraóptica, a região tuberal e a região mamilar, cada uma dividida pelo fórnice em áreas medial e lateral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "11"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "O hipotálamo, localizado no centro do sistema límbico e na confluência de muitas vias neurais, é subdividido da parte anterior para a posterior em três zonas. São elas: O hipotálamo é subdividido, da parte anterior para a posterior, em três zonas: a região supraóptica, a região tuberal e a região mamilar, cada uma dividida pelo fórnice em áreas medial e lateral."
+    },
+    {
+      "id": "neuro-obj-104",
+      "topic": "Sistema límbico",
+      "question": "James Papez delineou seu circuito ao injetar o vírus da raiva no hipocampo de um gato e monitorar sua progressão através do cérebro. O circuito de Papez, em sua formulação original, envolve principalmente:",
+      "options": {
+        "a": "Hipotálamo, núcleo talâmico anterior, giro cingulado, hipocampo e suas interconexões",
+        "b": "Cerebelo, ponte, bulbo e medula espinhal",
+        "c": "Córtex motor primário, núcleos da base e cerebelo",
+        "d": "Área de Broca, área de Wernicke e fascículo arqueado",
+        "e": "Retina, nervo óptico, quiasma óptico e córtex occipital"
+      },
+      "correct": "a",
+      "explanation": "O circuito de Papez, delineado após a injeção do vírus da raiva no hipocampo de um gato, envolve o hipotálamo, o núcleo talâmico anterior, o giro cingulado, o hipocampo e suas interconexões.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-12"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "James Papez delineou seu circuito ao injetar o vírus da raiva no hipocampo de um gato e monitorar sua progressão através do cérebro. O circuito de Papez, em sua formulação original, envolve principalmente: O circuito de Papez, delineado após a injeção do vírus da raiva no hipocampo de um gato, envolve o hipotálamo, o núcleo talâmico anterior, o giro cingulado, o hipocampo e suas interconexões."
+    },
+    {
+      "id": "neuro-obj-105",
+      "topic": "Sistema límbico",
+      "question": "As fibras eferentes da formação hipocampal, que passam pelo fórnice e terminam principalmente no corpo mamilar, formam o grupo denominado:",
+      "options": {
+        "a": "Fórnice pré-comissural",
+        "b": "Fórnice pós-comissural",
+        "c": "Fibras não fornicais",
+        "d": "Colaterais de Schaffer",
+        "e": "Via perfurante"
+      },
+      "correct": "b",
+      "explanation": "As fibras pós-comissurais do fórnice terminam principalmente no corpo mamilar, embora algumas também se projetem para o núcleo talâmico anterior, o núcleo leito da estria terminal e o núcleo hipotalâmico ventromedial.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "12"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "As fibras eferentes da formação hipocampal, que passam pelo fórnice e terminam principalmente no corpo mamilar, formam o grupo denominado: As fibras pós-comissurais do fórnice terminam principalmente no corpo mamilar, embora algumas também se projetem para o núcleo talâmico anterior, o núcleo leito da estria terminal e o núcleo hipotalâmico ventromedial."
+    },
+    {
+      "id": "neuro-obj-106",
+      "topic": "Sistema límbico",
+      "question": "A amígdala possui duas vias de saída principais. A rota que se projeta, via estria terminal, para a área septal e o hipotálamo é denominada:",
+      "options": {
+        "a": "Rota ventral (via amigdalofugal)",
+        "b": "Rota dorsal",
+        "c": "Via perfurante",
+        "d": "Fórnice pré-comissural",
+        "e": "Circuito basolateral"
+      },
+      "correct": "b",
+      "explanation": "A rota dorsal da amígdala, via estria terminal, projeta-se para a área septal e para o hipotálamo, sendo uma das duas principais vias de saída dessa estrutura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "13"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "A amígdala possui duas vias de saída principais. A rota que se projeta, via estria terminal, para a área septal e o hipotálamo é denominada: A rota dorsal da amígdala, via estria terminal, projeta-se para a área septal e para o hipotálamo, sendo uma das duas principais vias de saída dessa estrutura."
+    },
+    {
+      "id": "neuro-obj-107",
+      "topic": "Sistema límbico",
+      "question": "O circuito basolateral, transmitido por meio da amígdala basolateral e envolvendo os córtices orbitofrontal e temporal anterior, é considerado substrato para a capacidade humana de:",
+      "options": {
+        "a": "Inferir as intenções dos outros a partir de sua linguagem, olhar e gestos (Teoria da Mente e Cognição Social)",
+        "b": "Controlar exclusivamente os reflexos medulares",
+        "c": "Produzir o líquido cefalorraquidiano",
+        "d": "Regular a temperatura corporal de forma isolada",
+        "e": "Realizar a decussação das pirâmides bulbares"
+      },
+      "correct": "a",
+      "explanation": "O circuito basolateral codifica informações sobre sinais sociais e planos sociais, sendo proposto como substrato para a capacidade humana de inferir as intenções dos outros a partir de sua linguagem, olhar e gestos — a Teoria da Mente e a Cognição Social.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "13"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "O circuito basolateral, transmitido por meio da amígdala basolateral e envolvendo os córtices orbitofrontal e temporal anterior, é considerado substrato para a capacidade humana de: O circuito basolateral codifica informações sobre sinais sociais e planos sociais, sendo proposto como substrato para a capacidade humana de inferir as intenções dos outros a partir de sua linguagem, olhar e gestos — a Teoria da Mente e a Cognição Social."
+    },
+    {
+      "id": "neuro-obj-108",
+      "topic": "Sistema límbico",
+      "question": "Embora o córtex pré-frontal não faça parte do sistema límbico, suas conexões estão diretamente ligadas a ele por estruturas como a amígdala e o tálamo. Sobre suas subdivisões funcionais, é correto afirmar que:",
+      "options": {
+        "a": "O córtex orbitofrontal permite adiar gratificações imediatas e suprimir certas emoções para obter benefícios a longo prazo",
+        "b": "O córtex pré-frontal lateral é o único local onde experimentamos as emoções",
+        "c": "O córtex ventromedial é responsável exclusivamente pela escolha de cursos de comportamento",
+        "d": "Nenhuma dessas subdivisões possui relação com neurotransmissores como dopamina ou serotonina",
+        "e": "O córtex pré-frontal não possui qualquer assimetria funcional entre os hemisférios"
+      },
+      "correct": "a",
+      "explanation": "O córtex orbitofrontal parece permitir que o indivíduo adie certas gratificações imediatas e suprima certas emoções a fim de obter maiores benefícios a longo prazo, sendo uma das subdivisões funcionais do córtex pré-frontal ligadas ao sistema límbico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "13"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Embora o córtex pré-frontal não faça parte do sistema límbico, suas conexões estão diretamente ligadas a ele por estruturas como a amígdala e o tálamo. Sobre suas subdivisões funcionais, é correto afirmar que: O córtex orbitofrontal parece permitir que o indivíduo adie certas gratificações imediatas e suprima certas emoções a fim de obter maiores benefícios a longo prazo, sendo uma das subdivisões funcionais do córtex pré-frontal ligadas ao sistema límbico."
+    },
+    {
+      "id": "neuro-obj-109",
+      "topic": "Sistema límbico",
+      "question": "Estudos mostram que as duas metades do córtex pré-frontal têm funções especializadas relacionadas ao humor: a metade esquerda está envolvida no estabelecimento de sentimentos positivos, enquanto a direita se relaciona a sentimentos negativos. Em pessoas deprimidas, observa-se que:",
+      "options": {
+        "a": "É o córtex pré-frontal esquerdo que mostra os maiores sinais de fraqueza",
+        "b": "É o córtex pré-frontal direito que se torna hiperativo, gerando os sintomas depressivos",
+        "c": "Ambos os hemisférios do córtex pré-frontal permanecem inalterados na depressão",
+        "d": "Apenas o cerebelo apresenta alterações funcionais na depressão",
+        "e": "O córtex occipital é a estrutura mais afetada nos quadros depressivos"
+      },
+      "correct": "a",
+      "explanation": "Em pessoas deprimidas, é o córtex pré-frontal esquerdo que mostra os maiores sinais de fraqueza, dificultando não apenas o estabelecimento de metas para obter recompensas, mas também a crença de que tais metas podem ser alcançadas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "Estudos mostram que as duas metades do córtex pré-frontal têm funções especializadas relacionadas ao humor: a metade esquerda está envolvida no estabelecimento de sentimentos positivos, enquanto a direita se relaciona a sentimentos negativos. Em pessoas deprimidas, observa-se que: Em pessoas deprimidas, é o córtex pré-frontal esquerdo que mostra os maiores sinais de fraqueza, dificultando não apenas o estabelecimento de metas para obter recompensas, mas também a crença de que tais metas podem ser alcançadas."
+    },
+    {
+      "id": "neuro-obj-110",
+      "topic": "Sistema límbico",
+      "question": "Estudos de imagem cerebral mostraram que, em pacientes com depressão grave, o volume do hipocampo tende a apresentar:",
+      "options": {
+        "a": "Aumento proporcional à gravidade dos sintomas",
+        "b": "Redução, possivelmente causada pela perda de neurônios induzida pelos efeitos tóxicos de altos níveis de glicocorticoides",
+        "c": "Nenhuma alteração mensurável, independentemente da duração dos episódios",
+        "d": "Calcificação progressiva e irreversível desde o primeiro episódio",
+        "e": "Duplicação de tamanho após tratamento com antidepressivos"
+      },
+      "correct": "b",
+      "explanation": "Em pacientes com depressão grave, o volume dos dois hipocampos é reduzido, atrofia possivelmente causada pela perda de neurônios induzida pelos efeitos tóxicos dos altos níveis de glicocorticoides associados a episódios recorrentes de depressão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "Estudos de imagem cerebral mostraram que, em pacientes com depressão grave, o volume do hipocampo tende a apresentar: Em pacientes com depressão grave, o volume dos dois hipocampos é reduzido, atrofia possivelmente causada pela perda de neurônios induzida pelos efeitos tóxicos dos altos níveis de glicocorticoides associados a episódios recorrentes de depressão."
+    },
+    {
+      "id": "neuro-obj-111",
+      "topic": "Sistema límbico",
+      "question": "No hipotálamo, o núcleo responsável por funcionar como o centro de controle da alimentação (fome) é o núcleo lateral, enquanto o centro da saciedade é atribuído ao:",
+      "options": {
+        "a": "Núcleo ventromedial",
+        "b": "Núcleo supraquiasmático",
+        "c": "Núcleo paraventricular",
+        "d": "Núcleo pré-óptico ventrolateral (VLPO)",
+        "e": "Núcleo dorsomedial do tálamo"
+      },
+      "correct": "a",
+      "explanation": "O núcleo lateral do hipotálamo é o centro de controle da alimentação (fome), enquanto o núcleo ventromedial funciona como o centro da saciedade.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "18"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "No hipotálamo, o núcleo responsável por funcionar como o centro de controle da alimentação (fome) é o núcleo lateral, enquanto o centro da saciedade é atribuído ao: O núcleo lateral do hipotálamo é o centro de controle da alimentação (fome), enquanto o núcleo ventromedial funciona como o centro da saciedade."
+    },
+    {
+      "id": "neuro-obj-112",
+      "topic": "Sistema límbico",
+      "question": "O núcleo do hipotálamo considerado o gerador do ritmo circadiano, controlando o ciclo sono-vigília, é o:",
+      "options": {
+        "a": "Núcleo supraquiasmático",
+        "b": "Núcleo ventromedial",
+        "c": "Núcleo lateral",
+        "d": "Núcleo paraventricular",
+        "e": "Corpo mamilar"
+      },
+      "correct": "a",
+      "explanation": "O núcleo supraquiasmático do hipotálamo é o gerador do ritmo circadiano, responsável por controlar o ciclo sono-vigília.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "18"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O núcleo do hipotálamo considerado o gerador do ritmo circadiano, controlando o ciclo sono-vigília, é o: O núcleo supraquiasmático do hipotálamo é o gerador do ritmo circadiano, responsável por controlar o ciclo sono-vigília."
+    },
+    {
+      "id": "neuro-obj-113",
+      "topic": "Sistema límbico",
+      "question": "Em uma situação de medo, estudos indicam que a ativação do hipocampo dorsal não depende de condicionamento prévio, sugerindo que essa estrutura codifica apenas informações espaciais da situação. Já a amígdala basolateral só é ativada se o sujeito estiver condicionado pelo medo específico, o que indica que ela codifica especificamente:",
+      "options": {
+        "a": "As propriedades emocionais da situação que induz ao medo",
+        "b": "Apenas informações espaciais, assim como o hipocampo",
+        "c": "Exclusivamente a temperatura ambiente durante o evento",
+        "d": "As informações motoras necessárias para a fuga, sem qualquer componente emocional",
+        "e": "A frequência cardíaca do indivíduo, sem relação com a emoção"
+      },
+      "correct": "a",
+      "explanation": "A amígdala basolateral codifica especificamente as propriedades emocionais de uma situação que induz ao medo, diferentemente do hipocampo dorsal, que codifica apenas as informações espaciais dessa situação.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "19-20"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "Em uma situação de medo, estudos indicam que a ativação do hipocampo dorsal não depende de condicionamento prévio, sugerindo que essa estrutura codifica apenas informações espaciais da situação. Já a amígdala basolateral só é ativada se o sujeito estiver condicionado pelo medo específico, o que indica que ela codifica especificamente: A amígdala basolateral codifica especificamente as propriedades emocionais de uma situação que induz ao medo, diferentemente do hipocampo dorsal, que codifica apenas as informações espaciais dessa situação."
+    },
+    {
+      "id": "neuro-obj-114",
+      "topic": "Sistema límbico",
+      "question": "A falha do cíngulo anterior e do hipocampo em modular adequadamente a atividade da amígdala (regulação de cima para baixo) está relacionada, na literatura, ao surgimento de:",
+      "options": {
+        "a": "Transtornos de ansiedade",
+        "b": "Diabetes mellitus",
+        "c": "Hipertensão arterial isolada",
+        "d": "Osteoporose",
+        "e": "Hipotireoidismo"
+      },
+      "correct": "a",
+      "explanation": "Nota-se que a falha do cíngulo anterior e do hipocampo em modular a atividade apropriada da amígdala (regulação de cima para baixo) pode resultar em transtornos de ansiedade.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "20"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "A falha do cíngulo anterior e do hipocampo em modular adequadamente a atividade da amígdala (regulação de cima para baixo) está relacionada, na literatura, ao surgimento de: Nota-se que a falha do cíngulo anterior e do hipocampo em modular a atividade apropriada da amígdala (regulação de cima para baixo) pode resultar em transtornos de ansiedade."
+    },
+    {
+      "id": "neuro-obj-115",
+      "topic": "Sistema límbico",
+      "question": "Na resposta de fuga ou medo (resposta ao estresse agudo), os sinais neurais de uma situação estressante ativam a amígdala, que processa as informações e ativa o hipotálamo. Este, por sua vez, envia descargas simpáticas para a glândula adrenal, facilitando a liberação de qual substância no sangue?",
+      "options": {
+        "a": "Insulina",
+        "b": "Adrenalina",
+        "c": "Melatonina",
+        "d": "Testosterona",
+        "e": "Tiroxina"
+      },
+      "correct": "b",
+      "explanation": "O hipotálamo, ativado pela amígdala em situações estressantes, envia descargas simpáticas para a glândula adrenal, facilitando a liberação de adrenalina no sangue, disparando a resposta de fuga ou susto.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "20-21"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Na resposta de fuga ou medo (resposta ao estresse agudo), os sinais neurais de uma situação estressante ativam a amígdala, que processa as informações e ativa o hipotálamo. Este, por sua vez, envia descargas simpáticas para a glândula adrenal, facilitando a liberação de qual substância no sangue? O hipotálamo, ativado pela amígdala em situações estressantes, envia descargas simpáticas para a glândula adrenal, facilitando a liberação de adrenalina no sangue, disparando a resposta de fuga ou susto."
+    },
+    {
+      "id": "neuro-obj-116",
+      "topic": "Sistema límbico",
+      "question": "Estudos experimentais em animais mostraram que a destruição bilateral da amígdala resulta em placidez. No entanto, quando o núcleo ventromedial do hipotálamo é também eliminado após a destruição da amígdala, o comportamento resultante é convertido em:",
+      "options": {
+        "a": "Raiva",
+        "b": "Sono profundo prolongado",
+        "c": "Amnésia total e definitiva",
+        "d": "Hiperfagia isolada, sem outras alterações",
+        "e": "Cegueira cortical"
+      },
+      "correct": "a",
+      "explanation": "Em testes com animais, a destruição bilateral da amígdala resultou em placidez; porém, quando o núcleo ventromedial é eliminado após a destruição da amígdala, a placidez gerada é convertida em raiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "22"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "Estudos experimentais em animais mostraram que a destruição bilateral da amígdala resulta em placidez. No entanto, quando o núcleo ventromedial do hipotálamo é também eliminado após a destruição da amígdala, o comportamento resultante é convertido em: Em testes com animais, a destruição bilateral da amígdala resultou em placidez; porém, quando o núcleo ventromedial é eliminado após a destruição da amígdala, a placidez gerada é convertida em raiva."
+    },
+    {
+      "id": "neuro-obj-117",
+      "topic": "Sistema límbico",
+      "question": "O circuito de recompensa subjacente ao comportamento viciante, envolvendo o córtex pré-frontal, a área tegmental ventral, a amígdala, o núcleo accumbens e o pálido ventral, está diretamente relacionado a:",
+      "options": {
+        "a": "A motivação para o consumo de drogas de abuso e a natureza compulsiva desse consumo",
+        "b": "O controle exclusivo da temperatura corporal",
+        "c": "A produção do líquido cefalorraquidiano",
+        "d": "A regulação do tônus muscular pelo cerebelo",
+        "e": "A condução de impulsos auditivos até o córtex temporal"
+      },
+      "correct": "a",
+      "explanation": "A via do comportamento motivado, que envolve o córtex pré-frontal, a área tegmental ventral, a amígdala, o núcleo accumbens e o pálido ventral, está envolvida na motivação para o consumo de drogas de abuso e na natureza compulsiva desse consumo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O circuito de recompensa subjacente ao comportamento viciante, envolvendo o córtex pré-frontal, a área tegmental ventral, a amígdala, o núcleo accumbens e o pálido ventral, está diretamente relacionado a: A via do comportamento motivado, que envolve o córtex pré-frontal, a área tegmental ventral, a amígdala, o núcleo accumbens e o pálido ventral, está envolvida na motivação para o consumo de drogas de abuso e na natureza compulsiva desse consumo."
+    },
+    {
+      "id": "neuro-obj-118",
+      "topic": "Sistema límbico",
+      "question": "Uma disfunção no circuito de memória diencefálico, que envolve o hipotálamo, o corpo mamilar e o núcleo dorsomedial do tálamo, resulta em uma síndrome caracterizada por comprometimento crônico da memória, associada frequentemente ao alcoolismo e à deficiência nutricional. Essa síndrome é a:",
+      "options": {
+        "a": "Síndrome de Kluver-Bucy",
+        "b": "Síndrome de Korsakoff",
+        "c": "Doença de Pick",
+        "d": "Encefalite límbica",
+        "e": "Esclerose mesial temporal"
+      },
+      "correct": "b",
+      "explanation": "A disfunção do circuito de memória diencefálico (hipotálamo, corpo mamilar e núcleo dorsomedial do tálamo) resulta na Síndrome de Korsakoff, desordem mental na qual a memória de retenção está seriamente comprometida, frequentemente associada ao alcoolismo e à deficiência nutricional.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Uma disfunção no circuito de memória diencefálico, que envolve o hipotálamo, o corpo mamilar e o núcleo dorsomedial do tálamo, resulta em uma síndrome caracterizada por comprometimento crônico da memória, associada frequentemente ao alcoolismo e à deficiência nutricional. Essa síndrome é a: A disfunção do circuito de memória diencefálico (hipotálamo, corpo mamilar e núcleo dorsomedial do tálamo) resulta na Síndrome de Korsakoff, desordem mental na qual a memória de retenção está seriamente comprometida, frequentemente associada ao alcoolismo e à deficiência nutricional."
+    },
+    {
+      "id": "neuro-obj-119",
+      "topic": "Sistema límbico",
+      "question": "A epilepsia do lobo temporal, a mais comum em adultos, é mais frequentemente causada por uma alteração denominada esclerose hipocampal. Quando essa esclerose envolve também a amígdala e o giro parahipocampal, recebe o nome específico de:",
+      "options": {
+        "a": "Esclerose mesial temporal (EMT)",
+        "b": "Doença de Pick",
+        "c": "Síndrome de Kluver-Bucy",
+        "d": "Encefalite límbica",
+        "e": "Circuito de Yakovlev"
+      },
+      "correct": "a",
+      "explanation": "A esclerose hipocampal, quando envolve adicionalmente a amígdala e o giro parahipocampal, é denominada esclerose mesial temporal (EMT), a causa mais comum de epilepsia do lobo temporal em adultos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "25"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "A epilepsia do lobo temporal, a mais comum em adultos, é mais frequentemente causada por uma alteração denominada esclerose hipocampal. Quando essa esclerose envolve também a amígdala e o giro parahipocampal, recebe o nome específico de: A esclerose hipocampal, quando envolve adicionalmente a amígdala e o giro parahipocampal, é denominada esclerose mesial temporal (EMT), a causa mais comum de epilepsia do lobo temporal em adultos."
+    },
+    {
+      "id": "neuro-obj-120",
+      "topic": "Sistema límbico",
+      "question": "A síndrome de Kluver-Bucy, resultante de destruição bilateral do corpo amigdaloide e do córtex temporal inferior, é caracterizada por agnosia visual, placidez, hipermetamorfose, hiperoralidade e:",
+      "options": {
+        "a": "Hipersexualidade",
+        "b": "Anorexia grave",
+        "c": "Insônia total",
+        "d": "Cegueira cortical isolada",
+        "e": "Paralisia flácida bilateral"
+      },
+      "correct": "a",
+      "explanation": "A síndrome de Kluver-Bucy é caracterizada por agnosia visual, placidez, hipermetamorfose, hiperoralidade e hipersexualidade, podendo ser causada por trauma cerebral, infecções, doença de Alzheimer, entre outras condições.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "A síndrome de Kluver-Bucy, resultante de destruição bilateral do corpo amigdaloide e do córtex temporal inferior, é caracterizada por agnosia visual, placidez, hipermetamorfose, hiperoralidade e: A síndrome de Kluver-Bucy é caracterizada por agnosia visual, placidez, hipermetamorfose, hiperoralidade e hipersexualidade, podendo ser causada por trauma cerebral, infecções, doença de Alzheimer, entre outras condições."
+    },
+    {
+      "id": "neuro-obj-121",
+      "topic": "Sistema límbico",
+      "question": "Diferentemente da doença de Alzheimer, na qual placas senis e emaranhados neurofibrilares estão dispersos por todo o córtex cerebral, a doença de Pick é caracterizada por:",
+      "options": {
+        "a": "Atrofia cerebral focal, circunscrita principalmente aos lobos temporais e frontais, afetando primeiro o comportamento, o humor e a personalidade",
+        "b": "Ausência total de qualquer alteração estrutural no encéfalo",
+        "c": "Comprometimento exclusivo do cerebelo, sem envolvimento cortical",
+        "d": "Início dos sintomas exclusivamente após os 80 anos de idade",
+        "e": "Preservação total da memória até estágios muito avançados, sem qualquer outro sintoma associado"
+      },
+      "correct": "a",
+      "explanation": "A doença de Pick é uma demência pré-senil (entre 40 e 60 anos) em que o comportamento, o humor e a personalidade são afetados antes da memória, com atrofia acentuada e focal no sistema límbico, notadamente no giro denteado e no hipocampo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "28"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil",
+      "miniLesson": "Diferentemente da doença de Alzheimer, na qual placas senis e emaranhados neurofibrilares estão dispersos por todo o córtex cerebral, a doença de Pick é caracterizada por: A doença de Pick é uma demência pré-senil (entre 40 e 60 anos) em que o comportamento, o humor e a personalidade são afetados antes da memória, com atrofia acentuada e focal no sistema límbico, notadamente no giro denteado e no hipocampo."
     }
   ],
   "discursive": [
@@ -2072,6 +3414,866 @@
       },
       "subject": "Plasticidade neural",
       "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-016",
+      "topic": "Áreas motoras do lobo frontal",
+      "question": "Diferencie a área motora primária e a área motora secundária do lobo frontal quanto à localização e função, e descreva as consequências clínicas de lesões em cada uma.",
+      "modelAnswer": "A área motora primária localiza-se no giro pré-central, entre o sulco central e o sulco pré-central. É de onde se origina grande parte das fibras do trato córtico-espinhal, responsáveis por levar os impulsos nervosos necessários à contração muscular voluntária; suas lesões causam plegias ou paresias (alterações do movimento). Já a área motora secundária localiza-se no giro frontal médio, ao lado do giro pré-central, dividindo-se em área motora suplementar e área pré-motora; realiza conexões com os núcleos da base, o cerebelo e a área motora primária, sendo responsável pelo planejamento, programação e sequência dos movimentos, preparando o corpo para a realização de movimentos mais delicados. Lesões na área motora secundária geram comprometimentos na praxia (apraxia), isto é, dificuldade em realizar o ato motor de maneira planejada e organizada, mesmo sem paralisia muscular.",
+      "keyPoints": [
+        {
+          "text": "Localiza e descreve a área motora primária (giro pré-central, trato córtico-espinhal)",
+          "weight": 3,
+          "keywords": [
+            "área motora primária",
+            "giro pré-central",
+            "trato córtico-espinhal"
+          ]
+        },
+        {
+          "text": "Localiza e descreve a área motora secundária (giro frontal médio, planejamento)",
+          "weight": 3,
+          "keywords": [
+            "área motora secundária",
+            "planejamento",
+            "sequência dos movimentos"
+          ]
+        },
+        {
+          "text": "Diferencia as consequências clínicas (plegia/paresia x apraxia)",
+          "weight": 3,
+          "keywords": [
+            "plegia",
+            "paresia",
+            "apraxia",
+            "praxia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27-28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-017",
+      "topic": "Área de Broca e área de Wernicke",
+      "question": "Compare a área de Broca e a área de Wernicke quanto à localização e função na linguagem, explicando os diferentes tipos de afasia decorrentes de lesões em cada uma.",
+      "modelAnswer": "A área de Broca localiza-se na porção opercular do lobo frontal, geralmente no hemisfério esquerdo, sendo responsável pelo centro cortical da expressão da linguagem, tanto falada quanto escrita. Sua lesão gera a afasia motora: o indivíduo compreende as informações faladas e a leitura, porém não consegue se expressar. Já a área de Wernicke localiza-se no giro temporal superior do lobo temporal e, embora também esteja relacionada à fala e à escrita, é responsável pela compreensão dessas informações, e não pela sua expressão. Sua lesão gera a afasia do tipo sensitiva: o indivíduo consegue expressar a fala normalmente, mas, por não conseguir compreender o que ouve ou lê, apresenta falas confusas e desconexas. Assim, a diferença central é que a área de Broca comanda a produção da linguagem, enquanto a área de Wernicke comanda sua compreensão.",
+      "keyPoints": [
+        {
+          "text": "Localiza e descreve a área de Broca e a afasia motora",
+          "weight": 3,
+          "keywords": [
+            "área de Broca",
+            "lobo frontal",
+            "afasia motora"
+          ]
+        },
+        {
+          "text": "Localiza e descreve a área de Wernicke e a afasia sensitiva",
+          "weight": 3,
+          "keywords": [
+            "área de Wernicke",
+            "lobo temporal",
+            "afasia sensitiva"
+          ]
+        },
+        {
+          "text": "Explica a diferença central (expressão x compreensão da linguagem)",
+          "weight": 3,
+          "keywords": [
+            "expressão",
+            "compreensão",
+            "diferença"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28-30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-018",
+      "topic": "Lobo parietal e a área somestésica",
+      "question": "Explique a organização funcional do lobo parietal, descrevendo a área somestésica primária e secundária, e as consequências clínicas de lesões em cada uma.",
+      "modelAnswer": "O lobo parietal apresenta dois sulcos principais, o pós-central e o intraparietal. Entre os sulcos central e pós-central está o giro pós-central, onde se localiza a área somestésica, considerada a área sensitiva primária do córtex cerebral, responsável pela captação da informação sensitiva relacionada à temperatura, à dor, à pressão, ao tato e à propriocepção consciente. Uma lesão nessa área pode causar anestesia (ausência total da sensação) ou hipoestesia (diminuição da sensação). Logo atrás dessa área, na região mais superior do lobo parietal, está presente a área sensitiva secundária, responsável pela interpretação da informação sensorial captada pela área primária. Quando há déficit nessa área secundária, chamamos de agnosia do tipo tátil: o indivíduo sente o estímulo, mas não consegue interpretá-lo ou reconhecê-lo.",
+      "keyPoints": [
+        {
+          "text": "Localiza a área somestésica (giro pós-central) e suas funções sensoriais",
+          "weight": 4,
+          "keywords": [
+            "área somestésica",
+            "giro pós-central",
+            "temperatura",
+            "dor",
+            "tato"
+          ]
+        },
+        {
+          "text": "Explica anestesia/hipoestesia decorrentes de lesão na área primária",
+          "weight": 2,
+          "keywords": [
+            "anestesia",
+            "hipoestesia"
+          ]
+        },
+        {
+          "text": "Explica a área secundária e a agnosia tátil",
+          "weight": 3,
+          "keywords": [
+            "área sensitiva secundária",
+            "agnosia tátil",
+            "interpretação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28-29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-019",
+      "topic": "Lobo temporal: audição, linguagem e memória",
+      "question": "Descreva as principais funções do lobo temporal, incluindo a área de Wernicke, as áreas auditivas primária e secundária, e a relação dos giros temporal médio e inferior com a memória.",
+      "modelAnswer": "O lobo temporal apresenta dois sulcos principais, o sulco temporal superior e o inferior. No giro temporal superior localiza-se a área de Wernicke, responsável pela compreensão da fala e da escrita; sua lesão gera afasia sensitiva. Ainda no giro temporal superior, encontram-se a área auditiva primária, responsável por captar os impulsos auditivos, e a área auditiva secundária, responsável por interpretá-los. Lesões na área primária podem gerar hipoacusia (diminuição) ou anacusia (ausência da acuidade auditiva); lesões na área secundária geram agnosia auditiva, na qual o indivíduo ouve o som mas não consegue interpretá-lo. Já os giros temporal médio e inferior estão relacionados à aprendizagem e à memória, funções que se conectam, na prática clínica, com quadros de comprometimento cognitivo quando essas regiões são acometidas por processos patológicos.",
+      "keyPoints": [
+        {
+          "text": "Descreve a área de Wernicke e a afasia sensitiva",
+          "weight": 3,
+          "keywords": [
+            "área de Wernicke",
+            "afasia sensitiva",
+            "compreensão"
+          ]
+        },
+        {
+          "text": "Diferencia área auditiva primária e secundária (hipoacusia/anacusia x agnosia auditiva)",
+          "weight": 4,
+          "keywords": [
+            "área auditiva primária",
+            "área auditiva secundária",
+            "hipoacusia",
+            "anacusia",
+            "agnosia auditiva"
+          ]
+        },
+        {
+          "text": "Relaciona giros temporal médio/inferior à aprendizagem e memória",
+          "weight": 2,
+          "keywords": [
+            "giro temporal médio",
+            "giro temporal inferior",
+            "aprendizagem",
+            "memória"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29-30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-020",
+      "topic": "Lobo occipital e a visão",
+      "question": "Explique a organização funcional do lobo occipital, descrevendo a área primária e secundária da visão e os déficits clínicos decorrentes de suas lesões.",
+      "modelAnswer": "O lobo occipital, localizado em posição mais posterior no cérebro e de porção relativamente pequena, apresenta dois sulcos importantes: o sulco calcarino e o sulco parieto-occipital. Nos lábios do sulco calcarino localiza-se o centro cortical da visão, a área primária, aonde chegam os impulsos visuais captados pela retina. Uma lesão nessa área pode gerar amaurose (cegueira, perda completa da função visual sem lesão no olho em si, decorrente de afecção do nervo óptico ou dos centros nervosos) ou ambliopia (diminuição da acuidade visual não corrigível com óculos, pois a causa está na região cerebral correspondente à visão, e não no olho). Nessa mesma região occipital, também chegam impulsos visuais destinados a serem interpretados pela área secundária da visão; lesões nessa área geram as agnosias visuais, déficits neurológicos que impedem o cérebro de reconhecer objetos pela visão, mesmo com a capacidade de enxergar preservada.",
+      "keyPoints": [
+        {
+          "text": "Localiza a área primária da visão (sulco calcarino)",
+          "weight": 2,
+          "keywords": [
+            "área primária da visão",
+            "sulco calcarino"
+          ]
+        },
+        {
+          "text": "Diferencia amaurose e ambliopia como consequência de lesão na área primária",
+          "weight": 3,
+          "keywords": [
+            "amaurose",
+            "ambliopia"
+          ]
+        },
+        {
+          "text": "Explica a área secundária da visão e a agnosia visual",
+          "weight": 4,
+          "keywords": [
+            "área secundária da visão",
+            "agnosia visual",
+            "reconhecer objetos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30-31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-021",
+      "topic": "O homúnculo de Penfield",
+      "question": "Explique o que é o homúnculo de Penfield, como foi descoberto e qual sua importância para a compreensão da organização funcional do córtex cerebral.",
+      "modelAnswer": "O homúnculo de Penfield é a representação de uma correspondência entre partes do corpo humano e áreas específicas do córtex cerebral, descoberta na década de 40 pelo médico neurocirurgião canadense Wield Penfield. Ao investigar fatores envolvidos na epilepsia, Penfield estimulou eletricamente as superfícies pré-central (área motora primária, no lobo frontal) e pós-central (área sensitiva primária, no lobo parietal) de pacientes, observando que diferentes regiões do corpo eram representadas de forma desproporcional nessas superfícies — áreas do corpo com maior sensibilidade ou controle motor mais fino, como as mãos e a face, ocupam uma extensão cortical muito maior do que áreas como o tronco. Essa organização topográfica, chamada de áreas somatotópicas, é fundamental para a prática clínica, pois permite prever, com base na localização de uma lesão cortical, quais partes específicas do corpo terão sua motricidade ou sensibilidade comprometidas.",
+      "keyPoints": [
+        {
+          "text": "Identifica Wield Penfield e o contexto da descoberta (investigação da epilepsia)",
+          "weight": 3,
+          "keywords": [
+            "Penfield",
+            "epilepsia",
+            "década de 40"
+          ]
+        },
+        {
+          "text": "Explica a representação desproporcional do corpo nas superfícies pré e pós-central",
+          "weight": 4,
+          "keywords": [
+            "áreas somatotópicas",
+            "desproporcional",
+            "mãos",
+            "face"
+          ]
+        },
+        {
+          "text": "Relaciona a importância clínica da descoberta",
+          "weight": 2,
+          "keywords": [
+            "importância clínica",
+            "localização da lesão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-022",
+      "topic": "Organização geral do telencéfalo",
+      "question": "Descreva a organização geral do telencéfalo, explicando o papel do corpo caloso, da fissura longitudinal, dos principais sulcos e da divisão em cinco lobos cerebrais.",
+      "modelAnswer": "O telencéfalo compreende os dois hemisférios cerebrais, direito e esquerdo, separados (não completamente) pela fissura longitudinal, cujo assoalho é formado pelo corpo caloso, uma larga faixa de fibras comissurais que constitui o principal meio de união entre os hemisférios. Em cada hemisfério, sulcos na superfície delimitam os giros cerebrais; os mais importantes são o sulco lateral, que separa o lobo temporal dos lobos frontal e parietal, e o sulco central, que separa os lobos frontal e parietal entre si. Esses sulcos ajudam a delimitar os lobos cerebrais, que recebem sua denominação de acordo com os ossos do crânio com os quais se relacionam: frontal, parietal, temporal, occipital e ínsula (este último localizado mais profundamente, visível apenas após o afastamento dos lábios do sulco lateral). Cada lobo possui funções especializadas, desde o controle motor voluntário (frontal) até o processamento sensorial, a linguagem, a audição, a visão e as funções emocionais e viscerais (ínsula).",
+      "keyPoints": [
+        {
+          "text": "Descreve o corpo caloso e a fissura longitudinal",
+          "weight": 2,
+          "keywords": [
+            "corpo caloso",
+            "fissura longitudinal"
+          ]
+        },
+        {
+          "text": "Descreve os sulcos lateral e central e sua função de delimitação",
+          "weight": 3,
+          "keywords": [
+            "sulco lateral",
+            "sulco central",
+            "delimitam"
+          ]
+        },
+        {
+          "text": "Nomeia os cinco lobos cerebrais e menciona suas funções gerais",
+          "weight": 4,
+          "keywords": [
+            "frontal",
+            "parietal",
+            "temporal",
+            "occipital",
+            "ínsula"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "26"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-023",
+      "topic": "Correlação clínica: lesão vascular no córtex cerebral",
+      "question": "Um paciente apresenta, após um acidente vascular encefálico, incapacidade de movimentar o braço direito, alteração de sensibilidade no mesmo membro e fala difícil e lenta, mas com compreensão da linguagem oral e escrita preservada. Explique quais áreas do córtex cerebral provavelmente foram afetadas e por que a compreensão da linguagem permaneceu intacta.",
+      "modelAnswer": "O quadro descrito é compatível com lesão nas áreas motora e sensitiva primárias (giros pré-central e pós-central) correspondentes à representação do membro superior, associada a comprometimento da área de Broca, todas localizadas no hemisfério esquerdo (considerando que a motricidade e a sensibilidade somática são cruzadas — o hemisfério esquerdo comanda o lado direito do corpo). O déficit motor e sensitivo no braço direito decorre da lesão nas áreas correspondentes à representação do membro superior nos giros pré e pós-central. A fala difícil, lenta e com sons produzidos incorretamente, associada à compreensão preservada, é característica da afasia motora, decorrente de lesão na área de Broca (expressão da linguagem), sem envolvimento da área de Wernicke, no lobo temporal, que é responsável pela compreensão da linguagem falada e escrita — daí a preservação dessa função no paciente.",
+      "keyPoints": [
+        {
+          "text": "Identifica as áreas motora e sensitiva primárias comprometidas (giros pré/pós-central)",
+          "weight": 3,
+          "keywords": [
+            "área motora primária",
+            "área sensitiva primária",
+            "giro pré-central",
+            "giro pós-central"
+          ]
+        },
+        {
+          "text": "Identifica a área de Broca como responsável pela fala difícil (afasia motora)",
+          "weight": 3,
+          "keywords": [
+            "área de Broca",
+            "afasia motora"
+          ]
+        },
+        {
+          "text": "Explica por que a compreensão está preservada (área de Wernicke não afetada)",
+          "weight": 3,
+          "keywords": [
+            "área de Wernicke",
+            "compreensão preservada",
+            "não afetada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27-30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-024",
+      "topic": "O lobo da ínsula",
+      "question": "Descreva a localização e as funções do lobo da ínsula, relacionando-o ao sistema límbico e às funções viscerais e autonômicas.",
+      "modelAnswer": "O lobo da ínsula está localizado mais profundamente no cérebro, podendo ser observado apenas após o afastamento dos lábios do sulco lateral, apresentando alguns sulcos e giros próprios. Diferentemente dos demais lobos, cujas funções estão majoritariamente ligadas ao processamento sensorial, motor ou de linguagem, o lobo da ínsula está fortemente envolvido em funções emocionais, estando intimamente relacionado ao sistema límbico. Além disso, participa da modulação das funções viscerais, hormonais e autonômicas, funcionando como uma interface entre o processamento cognitivo-emocional realizado pelo córtex e a regulação automática do corpo, exercida pelo sistema nervoso autônomo e pelo hipotálamo.",
+      "keyPoints": [
+        {
+          "text": "Localiza o lobo da ínsula (profundidade do sulco lateral)",
+          "weight": 2,
+          "keywords": [
+            "lobo da ínsula",
+            "sulco lateral",
+            "profundamente"
+          ]
+        },
+        {
+          "text": "Relaciona o lobo da ínsula às funções emocionais e ao sistema límbico",
+          "weight": 4,
+          "keywords": [
+            "funções emocionais",
+            "sistema límbico"
+          ]
+        },
+        {
+          "text": "Explica sua participação na modulação visceral, hormonal e autonômica",
+          "weight": 3,
+          "keywords": [
+            "viscerais",
+            "hormonais",
+            "autonômicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31-32"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-025",
+      "topic": "Áreas primárias x áreas secundárias do córtex cerebral",
+      "question": "Explique, de forma comparativa, a diferença entre áreas corticais primárias e áreas corticais secundárias (de associação), usando como exemplos as áreas somestésica, auditiva e visual do córtex cerebral.",
+      "modelAnswer": "As áreas corticais primárias são responsáveis por captar diretamente a informação sensorial bruta proveniente da periferia, sem realizar sua interpretação: a área somestésica primária (giro pós-central) capta temperatura, dor, pressão, tato e propriocepção; a área auditiva primária (giro temporal superior) capta os impulsos sonoros; a área primária da visão (sulco calcarino, lobo occipital) capta os impulsos visuais vindos da retina. Já as áreas corticais secundárias (de associação), localizadas próximas às respectivas áreas primárias, são responsáveis por interpretar e atribuir significado à informação já captada. Quando uma área secundária é lesada, o indivíduo continua a captar o estímulo sensorial normalmente (vê, ouve ou sente o toque), mas não consegue reconhecê-lo ou interpretá-lo — fenômeno geral chamado de agnosia, que se manifesta como agnosia tátil (área somestésica secundária), agnosia auditiva (área auditiva secundária) ou agnosia visual (área visual secundária), a depender da modalidade sensorial afetada.",
+      "keyPoints": [
+        {
+          "text": "Define área primária como captação bruta do estímulo sensorial",
+          "weight": 3,
+          "keywords": [
+            "área primária",
+            "captar",
+            "estímulo bruto"
+          ]
+        },
+        {
+          "text": "Define área secundária como interpretação/associação do estímulo",
+          "weight": 3,
+          "keywords": [
+            "área secundária",
+            "interpretar",
+            "associação"
+          ]
+        },
+        {
+          "text": "Exemplifica com as três modalidades e o conceito geral de agnosia",
+          "weight": 3,
+          "keywords": [
+            "agnosia tátil",
+            "agnosia auditiva",
+            "agnosia visual"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28-31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-026",
+      "topic": "Histórico do conceito de sistema límbico",
+      "question": "Descreva a evolução histórica do conceito de sistema límbico, desde a criação do termo por Broca até a formulação do circuito de Papez e a teoria do cérebro triuno de MacLean.",
+      "modelAnswer": "O termo 'límbico' (do latim limbus, borda) foi usado pela primeira vez em 1878 por Paul Pierre Broca, que falou de 'le grand lobe limbique', aplicando-o à borda curva do córtex que inclui os giros cingulado e parahipocampal. O suposto papel dessa região na emoção só foi elaborado em 1937 pelo médico americano James Papez, no artigo 'Um mecanismo proposto de emoção', propondo o modelo anatômico conhecido como circuito de Papez, envolvendo o hipotálamo, o núcleo talâmico anterior, o giro cingulado, o hipocampo e suas interconexões. Em 1948, Yakovlev propôs um circuito complementar envolvendo os córtices orbitofrontal, insular e temporal anterior, a amígdala e o núcleo dorsomedial do tálamo. Finalmente, em 1952, Paul D. MacLean cunhou o termo 'sistema límbico' para descrever o Lobo Límbico de Broca e os núcleos subcorticais relacionados como o substrato neural coletivo da emoção, sendo também responsável pela teoria do cérebro triuno, segundo a qual o cérebro humano seria composto por três cérebros em um: o complexo R (reptiliano, instintos), o sistema límbico (emoções) e o neocórtex (cognição).",
+      "keyPoints": [
+        {
+          "text": "Identifica Broca (1878) como o criador do termo 'límbico'",
+          "weight": 2,
+          "keywords": [
+            "Broca",
+            "1878",
+            "límbico"
+          ]
+        },
+        {
+          "text": "Explica o circuito de Papez (1937) e suas estruturas",
+          "weight": 3,
+          "keywords": [
+            "Papez",
+            "1937",
+            "circuito de Papez"
+          ]
+        },
+        {
+          "text": "Identifica MacLean (1952) e o termo 'sistema límbico'",
+          "weight": 2,
+          "keywords": [
+            "MacLean",
+            "1952",
+            "sistema límbico"
+          ]
+        },
+        {
+          "text": "Descreve a teoria do cérebro triuno (complexo R, límbico, neocórtex)",
+          "weight": 3,
+          "keywords": [
+            "cérebro triuno",
+            "complexo R",
+            "neocórtex"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-5"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-027",
+      "topic": "Estruturas corticais e subcorticais do sistema límbico",
+      "question": "Diferencie as regiões corticais e as porções subcorticais que compõem o sistema límbico, citando exemplos de cada categoria.",
+      "modelAnswer": "O sistema límbico é composto por regiões corticais e porções subcorticais funcional e anatomicamente interconectadas, localizadas no telencéfalo e no diencéfalo. As regiões corticais envolvidas incluem o hipocampo e áreas do neocórtex, como o córtex insular, o córtex orbital frontal, o giro subcaloso, o giro cingulado e o giro parahipocampal — esse conjunto de córtex é denominado lobo límbico, por formar uma borda ao redor do corpo caloso, seguindo o ventrículo lateral. Já as porções subcorticais abrangem o bulbo olfatório, o hipotálamo, a amígdala, os núcleos septais e alguns núcleos talâmicos, incluindo o núcleo anterior e, possivelmente, o núcleo dorsomedial. Essas estruturas, corticais e subcorticais, formam uma rede complexa responsável pelo controle das funções necessárias à autopreservação e à preservação da espécie, regulando funções autonômicas, endócrinas, o nível de excitação, a motivação e determinados tipos de memória.",
+      "keyPoints": [
+        {
+          "text": "Lista as regiões corticais (hipocampo, córtex insular, orbital frontal, cingulado, parahipocampal)",
+          "weight": 4,
+          "keywords": [
+            "regiões corticais",
+            "hipocampo",
+            "córtex cingulado",
+            "parahipocampal"
+          ]
+        },
+        {
+          "text": "Lista as porções subcorticais (bulbo olfatório, hipotálamo, amígdala, núcleos septais)",
+          "weight": 4,
+          "keywords": [
+            "porções subcorticais",
+            "hipotálamo",
+            "amígdala",
+            "núcleos septais"
+          ]
+        },
+        {
+          "text": "Explica a função geral (autopreservação, funções autonômicas e endócrinas)",
+          "weight": 2,
+          "keywords": [
+            "autopreservação",
+            "funções autonômicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-028",
+      "topic": "Anatomia do hipocampo",
+      "question": "Descreva a anatomia do hipocampo, explicando sua origem embriológica, suas três zonas distintas e a organização de seus campos (CA1 a CA4).",
+      "modelAnswer": "Embriologicamente, a formação do hipocampo é uma extensão da borda medial do lobo temporal, tendo comprimento de cerca de 5 cm, da extremidade anterior próxima à amígdala até a extremidade posterior afilada próxima ao esplênio do corpo caloso. A formação do hipocampo apresenta três zonas distintas: o giro denteado, o hipocampo propriamente dito e o subículo. Com base em diferenças de citoarquitetura e conectividade, o hipocampo é dividido em quatro campos nomeados por Lorente de Nó em 1934: CA1 (setor de Sommer, contendo as células piramidais mais próximas do subículo), CA2 e CA3 (localizados entre os campos anteriores, com CA3 dando origem aos colaterais de Schaffer, que se projetam de volta ao campo CA1) e CA4 (contendo células dentro do hilo do giro denteado, embriologicamente separado do Cornu Ammonis propriamente dito). A palavra hipocampo significa 'cavalo marinho' em grego, devido à semelhança de sua forma curva com esse animal.",
+      "keyPoints": [
+        {
+          "text": "Explica a origem embriológica e as dimensões do hipocampo",
+          "weight": 2,
+          "keywords": [
+            "embriologicamente",
+            "borda medial",
+            "lobo temporal"
+          ]
+        },
+        {
+          "text": "Descreve as três zonas (giro denteado, hipocampo propriamente dito, subículo)",
+          "weight": 3,
+          "keywords": [
+            "giro denteado",
+            "subículo",
+            "três zonas"
+          ]
+        },
+        {
+          "text": "Explica os campos CA1 a CA4 e os colaterais de Schaffer",
+          "weight": 4,
+          "keywords": [
+            "CA1",
+            "CA2",
+            "CA3",
+            "CA4",
+            "colaterais de Schaffer"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "8-10"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-029",
+      "topic": "O circuito de Papez",
+      "question": "Explique o circuito de Papez, descrevendo suas estruturas principais, a origem experimental de sua descoberta e sua relevância para a compreensão neurobiológica da emoção.",
+      "modelAnswer": "O circuito de Papez foi delineado por James Papez após injetar o vírus da raiva no hipocampo de um gato e monitorar sua progressão através do cérebro, o que permitiu desvendar a base do controle cortical da emoção. O circuito, em sua forma original, envolve o hipocampo, que se comunica pelo fórnice com o corpo mamilar (no hipotálamo); do corpo mamilar, a informação segue para o núcleo talâmico anterior e, deste, para o giro cingulado, que se conecta de volta ao hipocampo, fechando o ciclo. Elaborações posteriores do circuito incluíram o córtex pré-frontal, a amígdala e o septo, entre outras áreas. A relevância desse circuito está em ter sido o primeiro modelo anatômico proposto especificamente para explicar a base neural das emoções, demonstrando que a experiência emocional não depende de uma única estrutura isolada, mas de um circuito integrado envolvendo áreas corticais e subcorticais — modelo que segue influenciando a compreensão de transtornos como a esquizofrenia e os transtornos de ansiedade, nos quais alterações nesse circuito têm sido identificadas.",
+      "keyPoints": [
+        {
+          "text": "Descreve a origem experimental (injeção do vírus da raiva no hipocampo de um gato)",
+          "weight": 2,
+          "keywords": [
+            "vírus da raiva",
+            "gato",
+            "Papez"
+          ]
+        },
+        {
+          "text": "Descreve as estruturas do circuito (hipocampo, fórnice, corpo mamilar, tálamo anterior, giro cingulado)",
+          "weight": 4,
+          "keywords": [
+            "hipocampo",
+            "fórnice",
+            "corpo mamilar",
+            "núcleo talâmico anterior",
+            "giro cingulado"
+          ]
+        },
+        {
+          "text": "Explica sua relevância para a compreensão da emoção e de transtornos clínicos",
+          "weight": 3,
+          "keywords": [
+            "base neural das emoções",
+            "esquizofrenia",
+            "transtornos de ansiedade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-12"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-030",
+      "topic": "A amígdala e as respostas de medo",
+      "question": "Explique o papel da amígdala no processamento do medo, descrevendo a resposta de fuga ou luta e a diferença entre a codificação de informações espaciais (hipocampo) e emocionais (amígdala) em uma situação de medo.",
+      "modelAnswer": "A amígdala desempenha papel central no processamento de informações emocionais, especialmente relacionadas ao medo. Em uma situação de medo, o hipocampo dorsal é ativado independentemente de condicionamento prévio, o que sugere que ele codifica apenas as informações espaciais da situação (onde ela ocorre), mas não a experiência emocional associada. Já a amígdala basolateral só é ativada quando o sujeito está condicionado pelo medo específico, indicando que ela codifica as propriedades emocionais da situação indutora de medo. Na resposta de fuga ou luta (resposta ao estresse agudo), os sinais neurais de uma situação estressante ativam a amígdala, que processa as informações e ativa o hipotálamo; este envia descargas simpáticas para a glândula adrenal, facilitando a liberação de adrenalina no sangue, o que ativa diversas respostas autonômicas (aumento da frequência cardíaca, da pressão arterial, entre outras) para disparar a resposta de fuga. Em caso de estresse persistente, o hipotálamo ativa o eixo hipotálamo-hipófise-adrenal, liberando o hormônio liberador de corticotropina, que leva à secreção de cortisol, mantendo o corpo em alerta.",
+      "keyPoints": [
+        {
+          "text": "Diferencia a codificação espacial do hipocampo e emocional da amígdala no medo",
+          "weight": 4,
+          "keywords": [
+            "hipocampo dorsal",
+            "informações espaciais",
+            "amígdala basolateral",
+            "propriedades emocionais"
+          ]
+        },
+        {
+          "text": "Descreve a sequência amígdala → hipotálamo → adrenal → adrenalina",
+          "weight": 3,
+          "keywords": [
+            "hipotálamo",
+            "glândula adrenal",
+            "adrenalina"
+          ]
+        },
+        {
+          "text": "Menciona o eixo hipotálamo-hipófise-adrenal em estresse persistente (cortisol)",
+          "weight": 2,
+          "keywords": [
+            "eixo hipotálamo-hipófise-adrenal",
+            "cortisol"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "19-21"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-031",
+      "topic": "Os três sistemas de memória relacionados ao sistema límbico",
+      "question": "Descreva os três sistemas de memória relacionados ao sistema límbico (memória emocional, sistema do lobo temporal medial e sistema diencefálico), explicando as estruturas envolvidas em cada um e a consequência clínica de uma disfunção no sistema diencefálico.",
+      "modelAnswer": "O sistema límbico está envolvido em três circuitos principais relacionados à memória. O primeiro é a memória emocional: a amígdala, em conjunto com o córtex pré-frontal e o lobo temporal medial, está envolvida na consolidação e recuperação de memórias emocionais, participando também da aquisição, extinção e recuperação de medos associados a pistas e contextos. O segundo é o sistema de memória do lobo temporal medial, cujos componentes incluem o hipocampo e o córtex adjacente, as regiões parahipocampais e as regiões entorrinal e perirrinal; esse sistema está envolvido no armazenamento de novas memórias, sendo o hipocampo crítico para a memória declarativa de longo prazo. O terceiro é o sistema de memória diencefálico, composto pelo hipotálamo, o corpo mamilar e o núcleo dorsomedial do tálamo, importante para o armazenamento da memória recente; uma disfunção nesse circuito resulta na Síndrome de Korsakoff, desordem na qual a memória de retenção fica seriamente comprometida (com a memória recente mais afetada do que a remota, e a recordação imediata geralmente preservada), frequentemente associada ao alcoolismo crônico e à deficiência nutricional.",
+      "keyPoints": [
+        {
+          "text": "Descreve a memória emocional (amígdala, córtex pré-frontal, lobo temporal medial)",
+          "weight": 3,
+          "keywords": [
+            "memória emocional",
+            "amígdala",
+            "córtex pré-frontal"
+          ]
+        },
+        {
+          "text": "Descreve o sistema do lobo temporal medial (hipocampo, novas memórias)",
+          "weight": 3,
+          "keywords": [
+            "lobo temporal medial",
+            "hipocampo",
+            "novas memórias"
+          ]
+        },
+        {
+          "text": "Descreve o sistema diencefálico e a Síndrome de Korsakoff",
+          "weight": 4,
+          "keywords": [
+            "sistema diencefálico",
+            "corpo mamilar",
+            "Síndrome de Korsakoff"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-032",
+      "topic": "Sistema límbico e transtornos neuropsiquiátricos",
+      "question": "Explique como disfunções do sistema límbico estão relacionadas à epilepsia do lobo temporal e à esquizofrenia, citando as estruturas e circuitos envolvidos em cada condição.",
+      "modelAnswer": "Um sistema límbico disfuncional está associado a diversas manifestações clínicas. Na epilepsia do lobo temporal, a mais comum em adultos, a causa mais frequente é a esclerose hipocampal; quando essa esclerose envolve adicionalmente a amígdala e o giro parahipocampal, é denominada esclerose mesial temporal (EMT). Nessa condição, diferentes campos do hipocampo apresentam vulnerabilidade distinta a insultos: o CA1 (setor de Sommer) é o mais vulnerável à hipóxia, o CA4 tem vulnerabilidade intermediária, o CA3 é apenas ligeiramente vulnerável, e o CA2 é o mais resistente. A frequência e distribuição dessas alterações sugerem que a EMT representa um distúrbio do sistema límbico como um todo, e não apenas do lobo temporal medial isoladamente. Já na esquizofrenia, estudos mostram volumes límbicos reduzidos, envolvendo dois circuitos: o circuito de Papez, evidenciado pela distorção da organização neuronal do córtex entorrinal, tamanho reduzido do hipocampo e número reduzido de células GABAérgicas no cíngulo e tálamo anterior (com excitotoxicidade glutamatérgica resultante); e o circuito basolateral, que medeia os déficits de cognição social característicos da esquizofrenia.",
+      "keyPoints": [
+        {
+          "text": "Explica a esclerose hipocampal/mesial temporal e a vulnerabilidade dos campos CA",
+          "weight": 4,
+          "keywords": [
+            "esclerose hipocampal",
+            "esclerose mesial temporal",
+            "CA1",
+            "vulnerabilidade"
+          ]
+        },
+        {
+          "text": "Explica o envolvimento do circuito de Papez na esquizofrenia",
+          "weight": 3,
+          "keywords": [
+            "circuito de Papez",
+            "esquizofrenia",
+            "córtex entorrinal"
+          ]
+        },
+        {
+          "text": "Explica o envolvimento do circuito basolateral e a cognição social",
+          "weight": 2,
+          "keywords": [
+            "circuito basolateral",
+            "cognição social"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "25-30"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-033",
+      "topic": "Córtex pré-frontal e sua relação com o sistema límbico",
+      "question": "Explique por que o córtex pré-frontal, embora não faça parte do sistema límbico, é considerado essencial para a regulação emocional, descrevendo suas subdivisões funcionais e sua relação com a depressão.",
+      "modelAnswer": "O córtex pré-frontal não faz parte do sistema límbico, mas suas conexões estão diretamente ligadas a ele por meio de estruturas como a amígdala e o tálamo, além de possuir conexões com sistemas de dopamina, norepinefrina e serotonina — neurotransmissores centrais na regulação do humor. Suas subdivisões possuem funções especializadas: o córtex pré-frontal lateral ajuda a escolher um curso de comportamento, permitindo avaliar mentalmente diversas alternativas; o córtex orbitofrontal permite adiar gratificações imediatas e suprimir certas emoções em prol de benefícios a longo prazo; e o córtex ventromedial é considerado um dos locais onde experimentamos as emoções e o significado das coisas. Há ainda uma assimetria funcional entre os hemisférios: a metade esquerda do córtex pré-frontal está envolvida no estabelecimento de sentimentos positivos, e a direita, nos negativos. Em pessoas com depressão, é o córtex pré-frontal esquerdo que mostra os maiores sinais de fraqueza, dificultando o estabelecimento de metas e a crença de que elas podem ser alcançadas; em pessoas saudáveis, esse córtex ajuda a inibir emoções negativas geradas pela amígdala, que se mostra hiperativa em pacientes deprimidos.",
+      "keyPoints": [
+        {
+          "text": "Explica a conexão do córtex pré-frontal com estruturas límbicas (amígdala, tálamo)",
+          "weight": 2,
+          "keywords": [
+            "córtex pré-frontal",
+            "amígdala",
+            "tálamo"
+          ]
+        },
+        {
+          "text": "Descreve as três subdivisões funcionais (lateral, orbitofrontal, ventromedial)",
+          "weight": 3,
+          "keywords": [
+            "córtex pré-frontal lateral",
+            "córtex orbitofrontal",
+            "córtex ventromedial"
+          ]
+        },
+        {
+          "text": "Explica a assimetria hemisférica e sua relação com a depressão",
+          "weight": 4,
+          "keywords": [
+            "assimetria",
+            "esquerdo",
+            "depressão",
+            "amígdala hiperativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "13-14"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-034",
+      "topic": "Regulação hipotalâmica do apetite e do sono",
+      "question": "Explique como o hipotálamo regula o apetite e o ciclo sono-vigília, descrevendo os núcleos envolvidos em cada função.",
+      "modelAnswer": "O hipotálamo, localizado no centro do sistema límbico, tem como principal função manter a homeostase do organismo, regulando diversas funções vitais por meio de núcleos especializados. Na regulação do apetite, o núcleo lateral do hipotálamo é o centro de controle da alimentação (fome), enquanto o núcleo ventromedial funciona como o centro da saciedade; a amígdala também desempenha papel importante na escolha dos alimentos e na modulação emocional da ingestão alimentar. Na regulação do ciclo sono-vigília, o núcleo supraquiasmático do hipotálamo é o gerador do ritmo circadiano. Já o núcleo pré-óptico ventrolateral (VLPO) funciona como um interruptor do sono: por meio de projeções inibitórias (GABAérgicas e galaninérgicas) para os principais mecanismos de excitação cerebral (como o núcleo tuberomamilar, os núcleos da rafe e o locus coeruleus), o VLPO promove o sono, funcionando como metade de um circuito do tipo flip-flop que impede estados intermediários entre sono e vigília; sua desinibição de determinados núcleos também promove especificamente o sono REM, fase em que ocorrem os sonhos mais vívidos.",
+      "keyPoints": [
+        {
+          "text": "Explica os núcleos lateral e ventromedial na regulação do apetite (fome/saciedade)",
+          "weight": 3,
+          "keywords": [
+            "núcleo lateral",
+            "núcleo ventromedial",
+            "fome",
+            "saciedade"
+          ]
+        },
+        {
+          "text": "Explica o núcleo supraquiasmático como gerador do ritmo circadiano",
+          "weight": 2,
+          "keywords": [
+            "núcleo supraquiasmático",
+            "ritmo circadiano"
+          ]
+        },
+        {
+          "text": "Explica o VLPO como interruptor do sono e sua relação com o sono REM",
+          "weight": 4,
+          "keywords": [
+            "VLPO",
+            "interruptor",
+            "sono REM",
+            "flip-flop"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "18"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-035",
+      "topic": "Vício, motivação e o circuito de recompensa",
+      "question": "Descreva o circuito de recompensa relacionado ao comportamento viciante, explicando o papel da amígdala e do núcleo accumbens, e a relação desse circuito com a recaída associada a estímulos.",
+      "modelAnswer": "O circuito de recompensa subjacente ao comportamento viciante envolve o córtex pré-frontal, a área tegmental ventral, a amígdala (especialmente a amígdala basolateral e a amígdala estendida), o núcleo accumbens e o pálido ventral. A amígdala desempenha papel central na recaída induzida por estímulos: situações associadas anteriormente ao uso de uma substância, o estresse, ou mesmo uma única dose de uma droga de abuso, resultam na liberação de neurotransmissores excitatórios em áreas cerebrais como o hipocampo e a própria amígdala, reativando o circuito de busca da droga. Essa via está envolvida tanto na motivação para o consumo de drogas de abuso (a chamada 'busca de drogas') quanto na natureza compulsiva desse consumo, explicando por que estímulos ambientais associados ao uso pregresso de uma substância (como locais, pessoas ou situações de estresse) podem desencadear fissura e recaída mesmo após períodos prolongados de abstinência.",
+      "keyPoints": [
+        {
+          "text": "Descreve as estruturas do circuito de recompensa (córtex pré-frontal, área tegmental ventral, amígdala, núcleo accumbens)",
+          "weight": 4,
+          "keywords": [
+            "córtex pré-frontal",
+            "área tegmental ventral",
+            "amígdala",
+            "núcleo accumbens"
+          ]
+        },
+        {
+          "text": "Explica o papel central da amígdala na recaída induzida por estímulos",
+          "weight": 3,
+          "keywords": [
+            "amígdala",
+            "recaída",
+            "estímulos"
+          ]
+        },
+        {
+          "text": "Relaciona o circuito à motivação e à natureza compulsiva do consumo",
+          "weight": 2,
+          "keywords": [
+            "motivação",
+            "compulsiva",
+            "busca de drogas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -2628,6 +4830,659 @@
       },
       "subject": "Plasticidade neural",
       "difficulty": "medio"
+    },
+    {
+      "id": "neuro-oral-016",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Onde fica a área motora primária e qual sua função?",
+      "modelAnswer": "Fica no giro pré-central, no lobo frontal. É de onde se origina grande parte das fibras do trato córtico-espinhal, responsáveis pela contração muscular voluntária.",
+      "keyPoints": [
+        {
+          "text": "Localiza a área motora primária (giro pré-central)",
+          "weight": 3,
+          "keywords": [
+            "giro pré-central",
+            "lobo frontal"
+          ]
+        },
+        {
+          "text": "Explica a função (origem do trato córtico-espinhal, movimento voluntário)",
+          "weight": 3,
+          "keywords": [
+            "trato córtico-espinhal",
+            "movimento voluntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "27"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Onde fica a área motora primária e qual sua função? Fica no giro pré-central, no lobo frontal. É de onde se origina grande parte das fibras do trato córtico-espinhal, responsáveis pela contração muscular voluntária."
+    },
+    {
+      "id": "neuro-oral-017",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O que é a apraxia e a que área do córtex ela está relacionada?",
+      "modelAnswer": "Apraxia é a dificuldade de realizar um ato motor de forma planejada e organizada, mesmo sem paralisia muscular. Está relacionada a lesões na área motora secundária (suplementar e pré-motora), no giro frontal médio.",
+      "keyPoints": [
+        {
+          "text": "Define apraxia (dificuldade de planejar o ato motor)",
+          "weight": 3,
+          "keywords": [
+            "apraxia",
+            "planejamento",
+            "sem paralisia"
+          ]
+        },
+        {
+          "text": "Relaciona à área motora secundária",
+          "weight": 3,
+          "keywords": [
+            "área motora secundária",
+            "giro frontal médio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "O que é a apraxia e a que área do córtex ela está relacionada? Apraxia é a dificuldade de realizar um ato motor de forma planejada e organizada, mesmo sem paralisia muscular. Está relacionada a lesões na área motora secundária (suplementar e pré-motora), no giro frontal médio."
+    },
+    {
+      "id": "neuro-oral-018",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Qual a função da área de Broca e o que acontece quando ela é lesada?",
+      "modelAnswer": "A área de Broca é responsável pela expressão da linguagem falada e escrita. Sua lesão causa afasia motora: o indivíduo compreende o que ouve e lê, mas não consegue se expressar.",
+      "keyPoints": [
+        {
+          "text": "Define a função da área de Broca (expressão da linguagem)",
+          "weight": 3,
+          "keywords": [
+            "expressão",
+            "linguagem",
+            "fala"
+          ]
+        },
+        {
+          "text": "Descreve a afasia motora",
+          "weight": 3,
+          "keywords": [
+            "afasia motora",
+            "compreende mas não se expressa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "28"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Qual a função da área de Broca e o que acontece quando ela é lesada? A área de Broca é responsável pela expressão da linguagem falada e escrita. Sua lesão causa afasia motora: o indivíduo compreende o que ouve e lê, mas não consegue se expressar."
+    },
+    {
+      "id": "neuro-oral-019",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Qual a diferença entre anestesia e hipoestesia, e onde ocorre a lesão que causa esses quadros?",
+      "modelAnswer": "Anestesia é a ausência total da sensação, e hipoestesia é apenas sua diminuição. Ambas decorrem de lesão na área somestésica (sensitiva primária), no giro pós-central do lobo parietal.",
+      "keyPoints": [
+        {
+          "text": "Diferencia anestesia (ausência total) de hipoestesia (diminuição)",
+          "weight": 3,
+          "keywords": [
+            "anestesia",
+            "hipoestesia",
+            "ausência",
+            "diminuição"
+          ]
+        },
+        {
+          "text": "Localiza a lesão na área somestésica primária",
+          "weight": 3,
+          "keywords": [
+            "área somestésica",
+            "giro pós-central"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Qual a diferença entre anestesia e hipoestesia, e onde ocorre a lesão que causa esses quadros? Anestesia é a ausência total da sensação, e hipoestesia é apenas sua diminuição. Ambas decorrem de lesão na área somestésica (sensitiva primária), no giro pós-central do lobo parietal."
+    },
+    {
+      "id": "neuro-oral-020",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O que é o homúnculo de Penfield?",
+      "modelAnswer": "É a representação das partes do corpo humano nas áreas motora e sensitiva primárias do córtex (giros pré e pós-central), descoberta por Wield Penfield ao investigar a epilepsia. Áreas com mais controle fino, como mãos e face, ocupam espaço cortical desproporcionalmente maior.",
+      "keyPoints": [
+        {
+          "text": "Define o homúnculo como representação somatotópica do corpo no córtex",
+          "weight": 3,
+          "keywords": [
+            "representação",
+            "somatotópica",
+            "corpo"
+          ]
+        },
+        {
+          "text": "Menciona Penfield e a desproporção (mãos/face)",
+          "weight": 3,
+          "keywords": [
+            "Penfield",
+            "desproporcional",
+            "mãos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "29"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "O que é o homúnculo de Penfield? É a representação das partes do corpo humano nas áreas motora e sensitiva primárias do córtex (giros pré e pós-central), descoberta por Wield Penfield ao investigar a epilepsia. Áreas com mais controle fino, como mãos e face, ocupam espaço cortical desproporcionalmente maior."
+    },
+    {
+      "id": "neuro-oral-021",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Qual a função da área de Wernicke e qual afasia resulta de sua lesão?",
+      "modelAnswer": "A área de Wernicke é responsável pela compreensão da linguagem falada e escrita. Sua lesão causa afasia sensitiva: o indivíduo fala normalmente, mas não compreende, produzindo falas confusas e desconexas.",
+      "keyPoints": [
+        {
+          "text": "Define a função (compreensão da linguagem)",
+          "weight": 3,
+          "keywords": [
+            "compreensão",
+            "linguagem"
+          ]
+        },
+        {
+          "text": "Descreve a afasia sensitiva",
+          "weight": 3,
+          "keywords": [
+            "afasia sensitiva",
+            "fala confusa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "baixo",
+      "miniLesson": "Qual a função da área de Wernicke e qual afasia resulta de sua lesão? A área de Wernicke é responsável pela compreensão da linguagem falada e escrita. Sua lesão causa afasia sensitiva: o indivíduo fala normalmente, mas não compreende, produzindo falas confusas e desconexas."
+    },
+    {
+      "id": "neuro-oral-022",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Qual a diferença entre agnosia auditiva e anacusia?",
+      "modelAnswer": "A anacusia é a ausência da acuidade auditiva (o indivíduo não ouve). Já a agnosia auditiva ocorre quando o indivíduo ouve o som normalmente, mas não consegue interpretá-lo.",
+      "keyPoints": [
+        {
+          "text": "Define anacusia como perda da acuidade auditiva",
+          "weight": 3,
+          "keywords": [
+            "anacusia",
+            "ausência",
+            "acuidade auditiva"
+          ]
+        },
+        {
+          "text": "Define agnosia auditiva como dificuldade de interpretar o som",
+          "weight": 3,
+          "keywords": [
+            "agnosia auditiva",
+            "interpretar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Qual a diferença entre agnosia auditiva e anacusia? A anacusia é a ausência da acuidade auditiva (o indivíduo não ouve). Já a agnosia auditiva ocorre quando o indivíduo ouve o som normalmente, mas não consegue interpretá-lo."
+    },
+    {
+      "id": "neuro-oral-023",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Onde fica localizada a área primária da visão e o que acontece se ela for lesada?",
+      "modelAnswer": "Fica nos lábios do sulco calcarino, no lobo occipital. Sua lesão pode causar amaurose (cegueira, sem lesão no olho) ou ambliopia (diminuição da acuidade visual não corrigível com óculos).",
+      "keyPoints": [
+        {
+          "text": "Localiza a área primária da visão (sulco calcarino, lobo occipital)",
+          "weight": 3,
+          "keywords": [
+            "sulco calcarino",
+            "lobo occipital"
+          ]
+        },
+        {
+          "text": "Descreve amaurose e ambliopia",
+          "weight": 3,
+          "keywords": [
+            "amaurose",
+            "ambliopia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "30-31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Onde fica localizada a área primária da visão e o que acontece se ela for lesada? Fica nos lábios do sulco calcarino, no lobo occipital. Sua lesão pode causar amaurose (cegueira, sem lesão no olho) ou ambliopia (diminuição da acuidade visual não corrigível com óculos)."
+    },
+    {
+      "id": "neuro-oral-024",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "O que é agnosia visual?",
+      "modelAnswer": "É um déficit neurológico decorrente de lesão na área secundária da visão, no lobo occipital, que impede o cérebro de reconhecer objetos pela visão, mesmo com a capacidade de enxergar preservada.",
+      "keyPoints": [
+        {
+          "text": "Define agnosia visual (não reconhece objetos, mas enxerga)",
+          "weight": 3,
+          "keywords": [
+            "não reconhece",
+            "enxerga"
+          ]
+        },
+        {
+          "text": "Relaciona à área secundária da visão",
+          "weight": 3,
+          "keywords": [
+            "área secundária da visão",
+            "lobo occipital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "O que é agnosia visual? É um déficit neurológico decorrente de lesão na área secundária da visão, no lobo occipital, que impede o cérebro de reconhecer objetos pela visão, mesmo com a capacidade de enxergar preservada."
+    },
+    {
+      "id": "neuro-oral-025",
+      "topic": "Telencéfalo e córtex cerebral",
+      "question": "Qual a principal função do lobo da ínsula?",
+      "modelAnswer": "O lobo da ínsula está envolvido com funções emocionais, fortemente relacionadas ao sistema límbico, participando da modulação das funções viscerais, hormonais e autonômicas.",
+      "keyPoints": [
+        {
+          "text": "Relaciona o lobo da ínsula a funções emocionais e ao sistema límbico",
+          "weight": 3,
+          "keywords": [
+            "funções emocionais",
+            "sistema límbico"
+          ]
+        },
+        {
+          "text": "Menciona a modulação visceral, hormonal e autonômica",
+          "weight": 3,
+          "keywords": [
+            "viscerais",
+            "hormonais",
+            "autonômicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "31-32"
+      },
+      "subject": "Telencéfalo e córtex cerebral",
+      "difficulty": "medio",
+      "miniLesson": "Qual a principal função do lobo da ínsula? O lobo da ínsula está envolvido com funções emocionais, fortemente relacionadas ao sistema límbico, participando da modulação das funções viscerais, hormonais e autonômicas."
+    },
+    {
+      "id": "neuro-oral-026",
+      "topic": "Sistema límbico",
+      "question": "Quem criou o termo 'límbico' e quem cunhou o termo 'sistema límbico'?",
+      "modelAnswer": "Paul Pierre Broca criou o termo 'límbico', em 1878, para descrever a borda curva do córtex ao redor do corpo caloso. Paul D. MacLean cunhou o termo 'sistema límbico', em 1952, para descrever essa região e os núcleos subcorticais relacionados.",
+      "keyPoints": [
+        {
+          "text": "Identifica Broca (1878) e o termo 'límbico'",
+          "weight": 3,
+          "keywords": [
+            "Broca",
+            "1878"
+          ]
+        },
+        {
+          "text": "Identifica MacLean (1952) e o termo 'sistema límbico'",
+          "weight": 3,
+          "keywords": [
+            "MacLean",
+            "1952"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4-5"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Quem criou o termo 'límbico' e quem cunhou o termo 'sistema límbico'? Paul Pierre Broca criou o termo 'límbico', em 1878, para descrever a borda curva do córtex ao redor do corpo caloso. Paul D. MacLean cunhou o termo 'sistema límbico', em 1952, para descrever essa região e os núcleos subcorticais relacionados."
+    },
+    {
+      "id": "neuro-oral-027",
+      "topic": "Sistema límbico",
+      "question": "O que é o circuito de Papez, de forma resumida?",
+      "modelAnswer": "É o modelo anatômico proposto por James Papez em 1937, envolvendo o hipotálamo, o núcleo talâmico anterior, o giro cingulado e o hipocampo, considerado a base do controle cortical da emoção.",
+      "keyPoints": [
+        {
+          "text": "Identifica Papez (1937) como autor do circuito",
+          "weight": 3,
+          "keywords": [
+            "Papez",
+            "1937"
+          ]
+        },
+        {
+          "text": "Cita as principais estruturas envolvidas",
+          "weight": 3,
+          "keywords": [
+            "hipotálamo",
+            "hipocampo",
+            "giro cingulado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O que é o circuito de Papez, de forma resumida? É o modelo anatômico proposto por James Papez em 1937, envolvendo o hipotálamo, o núcleo talâmico anterior, o giro cingulado e o hipocampo, considerado a base do controle cortical da emoção."
+    },
+    {
+      "id": "neuro-oral-028",
+      "topic": "Sistema límbico",
+      "question": "O que é a teoria do cérebro triuno de MacLean?",
+      "modelAnswer": "É a teoria de que o cérebro humano consiste em três cérebros em um: o complexo R (reptiliano, ligado aos instintos), o sistema límbico (emoções e sentimentos) e o neocórtex (cognição, linguagem e raciocínio).",
+      "keyPoints": [
+        {
+          "text": "Explica os três componentes (complexo R, sistema límbico, neocórtex)",
+          "weight": 4,
+          "keywords": [
+            "complexo R",
+            "sistema límbico",
+            "neocórtex"
+          ]
+        },
+        {
+          "text": "Relaciona cada um à sua função (instintos, emoções, cognição)",
+          "weight": 2,
+          "keywords": [
+            "instintos",
+            "emoções",
+            "cognição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "5"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O que é a teoria do cérebro triuno de MacLean? É a teoria de que o cérebro humano consiste em três cérebros em um: o complexo R (reptiliano, ligado aos instintos), o sistema límbico (emoções e sentimentos) e o neocórtex (cognição, linguagem e raciocínio)."
+    },
+    {
+      "id": "neuro-oral-029",
+      "topic": "Sistema límbico",
+      "question": "Por que o hipocampo se chama assim e qual sua principal função?",
+      "modelAnswer": "O nome 'hipocampo' significa 'cavalo marinho' em grego, por sua semelhança de forma com esse animal. É considerado a principal sede da memória e um importante componente do sistema límbico.",
+      "keyPoints": [
+        {
+          "text": "Explica a origem do nome (cavalo marinho)",
+          "weight": 3,
+          "keywords": [
+            "cavalo marinho",
+            "grego"
+          ]
+        },
+        {
+          "text": "Define a função principal (memória)",
+          "weight": 3,
+          "keywords": [
+            "memória",
+            "sistema límbico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "8"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "baixo",
+      "miniLesson": "Por que o hipocampo se chama assim e qual sua principal função? O nome 'hipocampo' significa 'cavalo marinho' em grego, por sua semelhança de forma com esse animal. É considerado a principal sede da memória e um importante componente do sistema límbico."
+    },
+    {
+      "id": "neuro-oral-030",
+      "topic": "Sistema límbico",
+      "question": "Qual a diferença entre o núcleo lateral e o núcleo ventromedial do hipotálamo em relação ao apetite?",
+      "modelAnswer": "O núcleo lateral é o centro de controle da fome (alimentação), enquanto o núcleo ventromedial funciona como o centro da saciedade.",
+      "keyPoints": [
+        {
+          "text": "Define o núcleo lateral como centro da fome",
+          "weight": 3,
+          "keywords": [
+            "núcleo lateral",
+            "fome"
+          ]
+        },
+        {
+          "text": "Define o núcleo ventromedial como centro da saciedade",
+          "weight": 3,
+          "keywords": [
+            "núcleo ventromedial",
+            "saciedade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "18"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Qual a diferença entre o núcleo lateral e o núcleo ventromedial do hipotálamo em relação ao apetite? O núcleo lateral é o centro de controle da fome (alimentação), enquanto o núcleo ventromedial funciona como o centro da saciedade."
+    },
+    {
+      "id": "neuro-oral-031",
+      "topic": "Sistema límbico",
+      "question": "O que acontece na resposta de fuga ou luta, do ponto de vista do sistema límbico?",
+      "modelAnswer": "A amígdala processa os sinais de uma situação estressante e ativa o hipotálamo, que envia descargas simpáticas para a glândula adrenal, liberando adrenalina no sangue e disparando respostas autonômicas de fuga ou luta.",
+      "keyPoints": [
+        {
+          "text": "Descreve a ativação da amígdala e do hipotálamo",
+          "weight": 3,
+          "keywords": [
+            "amígdala",
+            "hipotálamo"
+          ]
+        },
+        {
+          "text": "Descreve a liberação de adrenalina pela glândula adrenal",
+          "weight": 3,
+          "keywords": [
+            "adrenalina",
+            "glândula adrenal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "20-21"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O que acontece na resposta de fuga ou luta, do ponto de vista do sistema límbico? A amígdala processa os sinais de uma situação estressante e ativa o hipotálamo, que envia descargas simpáticas para a glândula adrenal, liberando adrenalina no sangue e disparando respostas autonômicas de fuga ou luta."
+    },
+    {
+      "id": "neuro-oral-032",
+      "topic": "Sistema límbico",
+      "question": "O que é a Síndrome de Korsakoff e o que a causa?",
+      "modelAnswer": "É uma síndrome de comprometimento crônico da memória, causada por danos ao circuito de memória diencefálico (hipotálamo, corpo mamilar e núcleo dorsomedial do tálamo), frequentemente associada ao alcoolismo e à deficiência nutricional.",
+      "keyPoints": [
+        {
+          "text": "Define a síndrome (comprometimento crônico da memória)",
+          "weight": 3,
+          "keywords": [
+            "comprometimento",
+            "memória"
+          ]
+        },
+        {
+          "text": "Identifica a causa (circuito diencefálico, alcoolismo)",
+          "weight": 3,
+          "keywords": [
+            "circuito diencefálico",
+            "alcoolismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24-32"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O que é a Síndrome de Korsakoff e o que a causa? É uma síndrome de comprometimento crônico da memória, causada por danos ao circuito de memória diencefálico (hipotálamo, corpo mamilar e núcleo dorsomedial do tálamo), frequentemente associada ao alcoolismo e à deficiência nutricional."
+    },
+    {
+      "id": "neuro-oral-033",
+      "topic": "Sistema límbico",
+      "question": "O que caracteriza a esclerose mesial temporal e com qual doença ela está relacionada?",
+      "modelAnswer": "É a esclerose hipocampal com envolvimento adicional da amígdala e do giro parahipocampal, sendo a causa mais comum de epilepsia do lobo temporal em adultos.",
+      "keyPoints": [
+        {
+          "text": "Define a esclerose mesial temporal (hipocampo + amígdala + giro parahipocampal)",
+          "weight": 3,
+          "keywords": [
+            "esclerose hipocampal",
+            "amígdala",
+            "giro parahipocampal"
+          ]
+        },
+        {
+          "text": "Relaciona à epilepsia do lobo temporal",
+          "weight": 3,
+          "keywords": [
+            "epilepsia do lobo temporal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "25"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a esclerose mesial temporal e com qual doença ela está relacionada? É a esclerose hipocampal com envolvimento adicional da amígdala e do giro parahipocampal, sendo a causa mais comum de epilepsia do lobo temporal em adultos."
+    },
+    {
+      "id": "neuro-oral-034",
+      "topic": "Sistema límbico",
+      "question": "Qual é a diferença entre a doença de Pick e a doença de Alzheimer quanto aos sintomas iniciais?",
+      "modelAnswer": "Na doença de Pick, o comportamento, o humor e a personalidade são afetados antes da memória, sendo uma demência pré-senil. Na doença de Alzheimer, a memória e a perda intelectual são as manifestações centrais e mais difundidas pelo córtex.",
+      "keyPoints": [
+        {
+          "text": "Explica que na doença de Pick comportamento/humor são afetados antes da memória",
+          "weight": 3,
+          "keywords": [
+            "Pick",
+            "comportamento",
+            "antes da memória"
+          ]
+        },
+        {
+          "text": "Contrasta com a doença de Alzheimer (perda intelectual/memória central)",
+          "weight": 3,
+          "keywords": [
+            "Alzheimer",
+            "memória",
+            "perda intelectual"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "28"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a diferença entre a doença de Pick e a doença de Alzheimer quanto aos sintomas iniciais? Na doença de Pick, o comportamento, o humor e a personalidade são afetados antes da memória, sendo uma demência pré-senil. Na doença de Alzheimer, a memória e a perda intelectual são as manifestações centrais e mais difundidas pelo córtex."
+    },
+    {
+      "id": "neuro-oral-035",
+      "topic": "Sistema límbico",
+      "question": "Qual estrutura está no centro do circuito de recompensa relacionado ao vício, e qual seu papel na recaída?",
+      "modelAnswer": "A amígdala, junto ao núcleo accumbens, é central no circuito de recompensa. A amígdala tem papel fundamental na recaída induzida por estímulos associados ao uso prévio de drogas de abuso.",
+      "keyPoints": [
+        {
+          "text": "Identifica amígdala e núcleo accumbens no circuito de recompensa",
+          "weight": 3,
+          "keywords": [
+            "amígdala",
+            "núcleo accumbens"
+          ]
+        },
+        {
+          "text": "Explica o papel da amígdala na recaída induzida por estímulos",
+          "weight": 3,
+          "keywords": [
+            "recaída",
+            "estímulos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "O sistema límbico e as emoções.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema límbico",
+      "difficulty": "medio",
+      "miniLesson": "Qual estrutura está no centro do circuito de recompensa relacionado ao vício, e qual seu papel na recaída? A amígdala, junto ao núcleo accumbens, é central no circuito de recompensa. A amígdala tem papel fundamental na recaída induzida por estímulos associados ao uso prévio de drogas de abuso."
     }
   ]
 }
