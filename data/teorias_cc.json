@@ -590,6 +590,1370 @@
       },
       "subject": "Terapia Cognitivo-Comportamental (TCC)",
       "difficulty": "medio"
+    },
+    {
+      "id": "tcc-obj-029",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Na teoria construtivista de Jean Piaget, o processo de adaptação do indivíduo ao ambiente envolve dois mecanismos complementares. Quando a criança recebe uma nova informação e tenta associá-la a algo que já conhece, incorporando-a a um esquema já dominado, esse mecanismo é denominado:",
+      "options": {
+        "a": "Acomodação",
+        "b": "Assimilação",
+        "c": "Zona de desenvolvimento proximal",
+        "d": "Fala egocêntrica",
+        "e": "Reversibilidade"
+      },
+      "correct": "b",
+      "explanation": "A assimilação ocorre quando a criança assimila um novo objeto ou informação, incorporando-o dentro de um esquema cognitivo já dominado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "Na teoria construtivista de Jean Piaget, o processo de adaptação do indivíduo ao ambiente envolve dois mecanismos complementares. Quando a criança recebe uma nova informação e tenta associá-la a algo que já conhece, incorporando-a a um esquema já dominado, esse mecanismo é denominado: A assimilação ocorre quando a criança assimila um novo objeto ou informação, incorporando-o dentro de um esquema cognitivo já dominado."
+    },
+    {
+      "id": "tcc-obj-030",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Quando, na teoria piagetiana, a assimilação de uma nova informação aos esquemas já construídos não é possível, a criança deriva um novo esquema para comportar esse conhecimento. Esse segundo mecanismo de adaptação é denominado:",
+      "options": {
+        "a": "Assimilação",
+        "b": "Acomodação",
+        "c": "Desenvolvimento potencial",
+        "d": "Habituação",
+        "e": "Priming"
+      },
+      "correct": "b",
+      "explanation": "A acomodação ocorre quando a assimilação aos esquemas já construídos não é possível, levando à derivação de um novo esquema para acomodar o conhecimento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "Quando, na teoria piagetiana, a assimilação de uma nova informação aos esquemas já construídos não é possível, a criança deriva um novo esquema para comportar esse conhecimento. Esse segundo mecanismo de adaptação é denominado: A acomodação ocorre quando a assimilação aos esquemas já construídos não é possível, levando à derivação de um novo esquema para acomodar o conhecimento."
+    },
+    {
+      "id": "tcc-obj-031",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Piaget construiu sua teoria do desenvolvimento cognitivo sobre três bases ou fatores essenciais. São eles:",
+      "options": {
+        "a": "O biológico (maturação do sistema nervoso), as experiências e exercícios (interação com objetos) e as interações sociais (linguagem, modelos e educação)",
+        "b": "A assimilação, a acomodação e a equilibração exclusivamente",
+        "c": "A memória, a atenção e a percepção",
+        "d": "O condicionamento clássico, o operante e a modelagem",
+        "e": "A zona de desenvolvimento real, potencial e proximal"
+      },
+      "correct": "a",
+      "explanation": "Piaget construiu sua teoria sobre três bases essenciais: o biológico (crescimento orgânico e maturação do sistema nervoso), as experiências e exercícios (interação da criança com objetos) e as interações sociais (linguagem, modelos e consequências aplicadas pela educação).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Piaget construiu sua teoria do desenvolvimento cognitivo sobre três bases ou fatores essenciais. São eles: Piaget construiu sua teoria sobre três bases essenciais: o biológico (crescimento orgânico e maturação do sistema nervoso), as experiências e exercícios (interação da criança com objetos) e as interações sociais (linguagem, modelos e consequências aplicadas pela educação)."
+    },
+    {
+      "id": "tcc-obj-032",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No primeiro estágio do desenvolvimento cognitivo proposto por Piaget, as crianças estão descobrindo as sensações e os movimentos do próprio corpo e o contato com o meio, iniciando-se pelos reflexos sensoriais e comportamentos típicos da espécie. Esse estágio é denominado:",
+      "options": {
+        "a": "Pré-operatório",
+        "b": "Operatório concreto",
+        "c": "Sensório-motor",
+        "d": "Operatório formal",
+        "e": "Fase de latência"
+      },
+      "correct": "c",
+      "explanation": "O estágio sensório-motor é o primeiro da teoria piagetiana, no qual as crianças descobrem as sensações e os movimentos do próprio corpo, iniciando-se pelos reflexos sensoriais e comportamentos típicos da espécie.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "No primeiro estágio do desenvolvimento cognitivo proposto por Piaget, as crianças estão descobrindo as sensações e os movimentos do próprio corpo e o contato com o meio, iniciando-se pelos reflexos sensoriais e comportamentos típicos da espécie. Esse estágio é denominado: O estágio sensório-motor é o primeiro da teoria piagetiana, no qual as crianças descobrem as sensações e os movimentos do próprio corpo, iniciando-se pelos reflexos sensoriais e comportamentos típicos da espécie."
+    },
+    {
+      "id": "tcc-obj-033",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No estágio pré-operatório do desenvolvimento cognitivo piagetiano, a criança já apresenta capacidade conceitual e representacional graças à linguagem derivada da socialização, mas ainda apresenta limitações características. Entre elas, está:",
+      "options": {
+        "a": "O raciocínio dedutivo com formulação de hipóteses abstratas",
+        "b": "O egocentrismo, a incoerência e a ausência de reversibilidade no pensamento",
+        "c": "A capacidade plena de conservação de quantidade e de reversibilidade lógica",
+        "d": "A ausência total de qualquer forma de representação simbólica",
+        "e": "A capacidade de argumentação lógica aplicada a problemas reais e objetivos"
+      },
+      "correct": "b",
+      "explanation": "O estágio pré-operatório é mais conceitual e representacional graças à linguagem, mas a criança ainda age de forma egocêntrica, sem capacidade de aderir à perspectiva do outro, sendo incoerente e sem reversibilidade em seu pensamento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "No estágio pré-operatório do desenvolvimento cognitivo piagetiano, a criança já apresenta capacidade conceitual e representacional graças à linguagem derivada da socialização, mas ainda apresenta limitações características. Entre elas, está: O estágio pré-operatório é mais conceitual e representacional graças à linguagem, mas a criança ainda age de forma egocêntrica, sem capacidade de aderir à perspectiva do outro, sendo incoerente e sem reversibilidade em seu pensamento."
+    },
+    {
+      "id": "tcc-obj-034",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No estágio operatório concreto, a capacidade cognitiva da criança alcança o raciocínio lógico aplicado a problemas reais. Entre as características que emergem nesse estágio, destacam-se:",
+      "options": {
+        "a": "Argumentação coerente, objetividade, conservação e reversibilidade, com diminuição do egocentrismo",
+        "b": "Reflexos sensoriais e comportamentos típicos da espécie",
+        "c": "Fala egocêntrica e incapacidade total de representação simbólica",
+        "d": "Raciocínio dedutivo e formulação de hipóteses sobre eventos não observáveis",
+        "e": "Ausência completa de qualquer forma de socialização"
+      },
+      "correct": "a",
+      "explanation": "No estágio operatório concreto, a capacidade cognitiva alcança o raciocínio lógico aplicado a problemas reais, permitindo maior argumentação coerente, objetividade, conservação e reversibilidade, com diminuição do egocentrismo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "No estágio operatório concreto, a capacidade cognitiva da criança alcança o raciocínio lógico aplicado a problemas reais. Entre as características que emergem nesse estágio, destacam-se: No estágio operatório concreto, a capacidade cognitiva alcança o raciocínio lógico aplicado a problemas reais, permitindo maior argumentação coerente, objetividade, conservação e reversibilidade, com diminuição do egocentrismo."
+    },
+    {
+      "id": "tcc-obj-035",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No estágio operatório formal, último da sequência proposta por Piaget, formam-se capacidades cognitivas mais sofisticadas. Esse estágio é caracterizado, principalmente, por:",
+      "options": {
+        "a": "O raciocínio dedutivo, permitindo a formulação de hipóteses e a explicação de eventos a partir de fatos observáveis",
+        "b": "O predomínio absoluto dos reflexos sensoriais herdados geneticamente",
+        "c": "A incapacidade de qualquer forma de raciocínio lógico ou abstrato",
+        "d": "A fala egocêntrica como principal ferramenta de pensamento",
+        "e": "A ausência de qualquer capacidade de conservação ou reversibilidade"
+      },
+      "correct": "a",
+      "explanation": "No estágio operatório formal, formam-se o raciocínio dedutivo, permitindo a formulação de hipóteses e passando a explicar os eventos a partir de fatos observáveis — o ápice do desenvolvimento cognitivo na teoria piagetiana.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "No estágio operatório formal, último da sequência proposta por Piaget, formam-se capacidades cognitivas mais sofisticadas. Esse estágio é caracterizado, principalmente, por: No estágio operatório formal, formam-se o raciocínio dedutivo, permitindo a formulação de hipóteses e passando a explicar os eventos a partir de fatos observáveis — o ápice do desenvolvimento cognitivo na teoria piagetiana."
+    },
+    {
+      "id": "tcc-obj-036",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Segundo o texto, o estágio operatório concreto da teoria piagetiana compreende, aproximadamente, a seguinte faixa etária:",
+      "options": {
+        "a": "0 a 2 anos",
+        "b": "2 a 7 anos",
+        "c": "7 a 11 anos",
+        "d": "11 a 15 anos",
+        "e": "15 a 18 anos"
+      },
+      "correct": "c",
+      "explanation": "O estágio operatório concreto compreende a faixa etária dos 7 aos 11 anos de idade, período em que os efeitos dos processos de socialização já se evidenciam com a capacidade de representar conceitos, mas ainda limitada pelo déficit de metacognição e de adquirir a perspectiva alheia.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "35"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o texto, o estágio operatório concreto da teoria piagetiana compreende, aproximadamente, a seguinte faixa etária: O estágio operatório concreto compreende a faixa etária dos 7 aos 11 anos de idade, período em que os efeitos dos processos de socialização já se evidenciam com a capacidade de representar conceitos, mas ainda limitada pelo déficit de metacognição e de adquirir a perspectiva alheia."
+    },
+    {
+      "id": "tcc-obj-037",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Lev Vygotsky, ao estudar as raízes genéticas e histórico-sociais da linguagem e do pensamento, apresentou três conceitos relacionados à aprendizagem mediada pelo outro. O conceito que se refere àquilo que a criança consegue fazer sozinha, sem qualquer auxílio, é denominado:",
+      "options": {
+        "a": "Desenvolvimento potencial",
+        "b": "Zona de desenvolvimento proximal",
+        "c": "Desenvolvimento real",
+        "d": "Fala egocêntrica",
+        "e": "Assimilação"
+      },
+      "correct": "c",
+      "explanation": "O desenvolvimento real, segundo Vygotsky, é aquilo que a criança já consegue fazer sozinha, sem qualquer intervenção ou auxílio de outras pessoas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Lev Vygotsky, ao estudar as raízes genéticas e histórico-sociais da linguagem e do pensamento, apresentou três conceitos relacionados à aprendizagem mediada pelo outro. O conceito que se refere àquilo que a criança consegue fazer sozinha, sem qualquer auxílio, é denominado: O desenvolvimento real, segundo Vygotsky, é aquilo que a criança já consegue fazer sozinha, sem qualquer intervenção ou auxílio de outras pessoas."
+    },
+    {
+      "id": "tcc-obj-038",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Ainda segundo Vygotsky, o conceito que se refere àquilo que a criança pode vir a aprender com a intervenção e o auxílio de outras pessoas mais experientes é denominado:",
+      "options": {
+        "a": "Desenvolvimento real",
+        "b": "Desenvolvimento potencial",
+        "c": "Acomodação",
+        "d": "Estágio operatório formal",
+        "e": "Memória semântica"
+      },
+      "correct": "b",
+      "explanation": "O desenvolvimento potencial é aquilo que a criança pode vir a aprender com a intervenção dos outros, representando o horizonte de aprendizagem alcançável com mediação social.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Ainda segundo Vygotsky, o conceito que se refere àquilo que a criança pode vir a aprender com a intervenção e o auxílio de outras pessoas mais experientes é denominado: O desenvolvimento potencial é aquilo que a criança pode vir a aprender com a intervenção dos outros, representando o horizonte de aprendizagem alcançável com mediação social."
+    },
+    {
+      "id": "tcc-obj-039",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "A zona de desenvolvimento proximal, conceito central da teoria de Vygotsky, representa:",
+      "options": {
+        "a": "O conhecimento que a criança já domina completamente sem qualquer ajuda externa",
+        "b": "O processo intermediário de aproximação sucessiva entre o desenvolvimento real e o potencial, por intermédio do outro",
+        "c": "A capacidade exclusivamente biológica e geneticamente determinada de aprendizagem",
+        "d": "A fase final e irreversível do desenvolvimento cognitivo humano",
+        "e": "A incapacidade da criança de aprender qualquer conteúdo antes dos sete anos de idade"
+      },
+      "correct": "b",
+      "explanation": "A zona de desenvolvimento proximal é o processo intermediário de aproximação sucessiva entre o que a criança já sabe fazer sozinha (desenvolvimento real) e o que ela pode aprender com ajuda (desenvolvimento potencial), por intermédio do outro.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "A zona de desenvolvimento proximal, conceito central da teoria de Vygotsky, representa: A zona de desenvolvimento proximal é o processo intermediário de aproximação sucessiva entre o que a criança já sabe fazer sozinha (desenvolvimento real) e o que ela pode aprender com ajuda (desenvolvimento potencial), por intermédio do outro."
+    },
+    {
+      "id": "tcc-obj-040",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Ao estudar a linguagem de uma perspectiva filogenética, Vygotsky constatou que a linguagem primitiva dos animais se constitui por sons (grunhido, barulho, grito) e gestos que movimentam outros animais, observação que ele considerou muito semelhante:",
+      "options": {
+        "a": "Às linguagens infantis e aos primeiros movimentos que a criança emite",
+        "b": "Ao raciocínio dedutivo do estágio operatório formal",
+        "c": "À memória semântica adulta",
+        "d": "Ao pensamento abstrato característico da fase adulta",
+        "e": "À fala interna característica do estágio de crescimento interior"
+      },
+      "correct": "a",
+      "explanation": "Vygotsky, ao estudar a linguagem dos animais de uma perspectiva filogenética, constatou que ela se constitui por sons e gestos muito semelhantes às linguagens infantis e aos primeiros movimentos que a criança emite.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Ao estudar a linguagem de uma perspectiva filogenética, Vygotsky constatou que a linguagem primitiva dos animais se constitui por sons (grunhido, barulho, grito) e gestos que movimentam outros animais, observação que ele considerou muito semelhante: Vygotsky, ao estudar a linguagem dos animais de uma perspectiva filogenética, constatou que ela se constitui por sons e gestos muito semelhantes às linguagens infantis e aos primeiros movimentos que a criança emite."
+    },
+    {
+      "id": "tcc-obj-041",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Segundo Vygotsky, o pensamento emergiria ontogeneticamente a partir do desenvolvimento da linguagem em etapas sucessivas. A etapa inicial, natural ou primitiva, que ocorre sob a forma de balbucio, choro e riso, com representações de objeto rudimentares, é denominada:",
+      "options": {
+        "a": "Estágio de crescimento interior",
+        "b": "Estágio de experiências psicológicas ingênuas",
+        "c": "Momento inicial natural ou primitivo",
+        "d": "Fala egocêntrica",
+        "e": "Zona de desenvolvimento proximal"
+      },
+      "correct": "c",
+      "explanation": "O momento inicial natural ou primitivo, na sequência de Vygotsky, ocorre sob a forma de balbucio, choro e riso, com um pensamento em que as representações de objeto são rudimentares.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo Vygotsky, o pensamento emergiria ontogeneticamente a partir do desenvolvimento da linguagem em etapas sucessivas. A etapa inicial, natural ou primitiva, que ocorre sob a forma de balbucio, choro e riso, com representações de objeto rudimentares, é denominada: O momento inicial natural ou primitivo, na sequência de Vygotsky, ocorre sob a forma de balbucio, choro e riso, com um pensamento em que as representações de objeto são rudimentares."
+    },
+    {
+      "id": "tcc-obj-042",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Na etapa que Vygotsky denominou de estágio de experiências psicológicas ingênuas, a criança exibe um comportamento característico. Esse comportamento é:",
+      "options": {
+        "a": "Curiosidade e interesse pelo nome das coisas, imitando-o até conseguir interagir corretamente com as pessoas ao redor",
+        "b": "A capacidade plena de raciocínio dedutivo e formulação de hipóteses abstratas",
+        "c": "A fala interior, com dedução lógica e representações mentais simbólicas plenamente desenvolvidas",
+        "d": "A ausência completa de qualquer interesse pela linguagem falada",
+        "e": "A capacidade de assimilar e acomodar esquemas cognitivos complexos de forma independente"
+      },
+      "correct": "a",
+      "explanation": "No estágio de experiências psicológicas ingênuas, a criança exibe curiosidade e interesse pelo nome das coisas, imitando-o até conseguir interagir com as pessoas a sua volta, utilizando formas e estruturas gramaticais corretamente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "Na etapa que Vygotsky denominou de estágio de experiências psicológicas ingênuas, a criança exibe um comportamento característico. Esse comportamento é: No estágio de experiências psicológicas ingênuas, a criança exibe curiosidade e interesse pelo nome das coisas, imitando-o até conseguir interagir com as pessoas a sua volta, utilizando formas e estruturas gramaticais corretamente."
+    },
+    {
+      "id": "tcc-obj-043",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No estágio da fala egocêntrica, descrito por Vygotsky, a criança gradualmente passa a:",
+      "options": {
+        "a": "Brincar falando sozinha (consigo), utilizando a linguagem de forma representativa e imaginária para descrever os próprios pensamentos, fantasias e representações mentais de objetos",
+        "b": "Comunicar-se exclusivamente por meio de gestos, sem qualquer uso de palavras",
+        "c": "Formular hipóteses dedutivas sobre problemas abstratos e não observáveis",
+        "d": "Perder por completo a capacidade de representação simbólica adquirida anteriormente",
+        "e": "Interagir exclusivamente com adultos, sem qualquer forma de monólogo"
+      },
+      "correct": "a",
+      "explanation": "No estágio da fala egocêntrica, a criança gradualmente passa a brincar falando sozinha (consigo), utilizando a linguagem de uma forma representativa e imaginária para descrever os próprios pensamentos, fantasias e representações mentais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "No estágio da fala egocêntrica, descrito por Vygotsky, a criança gradualmente passa a: No estágio da fala egocêntrica, a criança gradualmente passa a brincar falando sozinha (consigo), utilizando a linguagem de uma forma representativa e imaginária para descrever os próprios pensamentos, fantasias e representações mentais."
+    },
+    {
+      "id": "tcc-obj-044",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O último estágio da sequência de desenvolvimento da linguagem e do pensamento proposta por Vygotsky, no qual a criança opera com fala interior, caracterizando o surgimento do pensamento verbal, deduções lógicas e representações mentais e simbólicas, é denominado:",
+      "options": {
+        "a": "Estágio de crescimento interior",
+        "b": "Momento inicial natural ou primitivo",
+        "c": "Estágio de experiências psicológicas ingênuas",
+        "d": "Fala egocêntrica",
+        "e": "Estágio sensório-motor"
+      },
+      "correct": "a",
+      "explanation": "O estágio de crescimento interior é o último da sequência vygotskiana: a criança opera com fala interior, caracterizando o surgimento do pensamento verbal, deduções lógicas, representações mentais e simbólicas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O último estágio da sequência de desenvolvimento da linguagem e do pensamento proposta por Vygotsky, no qual a criança opera com fala interior, caracterizando o surgimento do pensamento verbal, deduções lógicas e representações mentais e simbólicas, é denominado: O estágio de crescimento interior é o último da sequência vygotskiana: a criança opera com fala interior, caracterizando o surgimento do pensamento verbal, deduções lógicas, representações mentais e simbólicas."
+    },
+    {
+      "id": "tcc-obj-045",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Vygotsky conclui que o momento mais significativo no percurso do desenvolvimento intelectual acontece quando duas linhas até então consideradas distintas e independentes se cruzam, dando origem às formas puramente humanas de inteligência prática e abstrata. Essas duas linhas são:",
+      "options": {
+        "a": "A fala e a atividade prática",
+        "b": "A assimilação e a acomodação",
+        "c": "O desenvolvimento real e o potencial",
+        "d": "A memória episódica e a semântica",
+        "e": "O condicionamento clássico e o operante"
+      },
+      "correct": "a",
+      "explanation": "Vygotsky conclui que o momento mais significativo do desenvolvimento intelectual ocorre quando a fala e a atividade prática, até então consideradas duas linhas independentes, se cruzam, dando origem às formas puramente humanas de inteligência prática e abstrata.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "Vygotsky conclui que o momento mais significativo no percurso do desenvolvimento intelectual acontece quando duas linhas até então consideradas distintas e independentes se cruzam, dando origem às formas puramente humanas de inteligência prática e abstrata. Essas duas linhas são: Vygotsky conclui que o momento mais significativo do desenvolvimento intelectual ocorre quando a fala e a atividade prática, até então consideradas duas linhas independentes, se cruzam, dando origem às formas puramente humanas de inteligência prática e abstrata."
+    },
+    {
+      "id": "tcc-obj-046",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Comparando as perspectivas de Piaget e Vygotsky sobre o desenvolvimento cognitivo, é correto afirmar que:",
+      "options": {
+        "a": "Vygotsky enfatiza fortemente a mediação social e o papel do outro na aprendizagem, enquanto Piaget descreve estágios universais ligados à maturação biológica, à experiência com objetos e à interação social",
+        "b": "Ambos os autores negam completamente qualquer influência do ambiente social sobre o desenvolvimento cognitivo",
+        "c": "Piaget defende que todo o desenvolvimento cognitivo depende exclusivamente da linguagem, sem qualquer base biológica",
+        "d": "Vygotsky não reconhece qualquer papel do outro no processo de aprendizagem infantil",
+        "e": "Ambos os autores descrevem exatamente os mesmos quatro estágios de desenvolvimento, com nomenclaturas idênticas"
+      },
+      "correct": "a",
+      "explanation": "Vygotsky enfatiza fortemente a mediação social e o papel do outro (por meio de conceitos como a zona de desenvolvimento proximal), enquanto Piaget, embora também reconheça as interações sociais como uma das bases do desenvolvimento, descreve uma sequência de estágios universais ligados também à maturação biológica e à experiência direta com objetos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27-28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "Comparando as perspectivas de Piaget e Vygotsky sobre o desenvolvimento cognitivo, é correto afirmar que: Vygotsky enfatiza fortemente a mediação social e o papel do outro (por meio de conceitos como a zona de desenvolvimento proximal), enquanto Piaget, embora também reconheça as interações sociais como uma das bases do desenvolvimento, descreve uma sequência de estágios universais ligados também à maturação biológica e à experiência direta com objetos."
+    },
+    {
+      "id": "tcc-obj-047",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Uma criança de 4 anos brinca sozinha com bonecos, narrando em voz alta tudo o que está fazendo e pensando, sem se importar se alguém está ouvindo. Segundo a teoria de Vygotsky, esse comportamento é característico do estágio de:",
+      "options": {
+        "a": "Crescimento interior",
+        "b": "Fala egocêntrica",
+        "c": "Experiências psicológicas ingênuas",
+        "d": "Momento inicial natural ou primitivo",
+        "e": "Operatório formal"
+      },
+      "correct": "b",
+      "explanation": "O comportamento descrito — a criança brincando e narrando seus pensamentos em voz alta, para si mesma — é característico da fala egocêntrica, estágio em que a linguagem é usada de forma representativa e imaginária para descrever pensamentos e fantasias.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança de 4 anos brinca sozinha com bonecos, narrando em voz alta tudo o que está fazendo e pensando, sem se importar se alguém está ouvindo. Segundo a teoria de Vygotsky, esse comportamento é característico do estágio de: O comportamento descrito — a criança brincando e narrando seus pensamentos em voz alta, para si mesma — é característico da fala egocêntrica, estágio em que a linguagem é usada de forma representativa e imaginária para descrever pensamentos e fantasias."
+    },
+    {
+      "id": "tcc-obj-048",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Um adolescente de 14 anos, ao ser questionado sobre um problema hipotético e abstrato que nunca vivenciou, consegue formular hipóteses lógicas e deduzir conclusões a partir de premissas gerais. Segundo Piaget, esse adolescente se encontra no estágio:",
+      "options": {
+        "a": "Sensório-motor",
+        "b": "Pré-operatório",
+        "c": "Operatório concreto",
+        "d": "Operatório formal",
+        "e": "De experiências psicológicas ingênuas"
+      },
+      "correct": "d",
+      "explanation": "A capacidade de formular hipóteses sobre problemas abstratos e hipotéticos, deduzindo conclusões logicamente, é a marca do estágio operatório formal, o mais avançado da sequência piagetiana.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Um adolescente de 14 anos, ao ser questionado sobre um problema hipotético e abstrato que nunca vivenciou, consegue formular hipóteses lógicas e deduzir conclusões a partir de premissas gerais. Segundo Piaget, esse adolescente se encontra no estágio: A capacidade de formular hipóteses sobre problemas abstratos e hipotéticos, deduzindo conclusões logicamente, é a marca do estágio operatório formal, o mais avançado da sequência piagetiana."
+    },
+    {
+      "id": "tcc-obj-049",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Uma criança de 5 anos, ao observar dois copos de formatos diferentes com a mesma quantidade de água, afirma que o copo mais alto e estreito tem 'mais água' do que o copo mais baixo e largo, mesmo tendo visto a água sendo despejada de um copo idêntico para o outro. Essa dificuldade de compreender que a quantidade se mantém apesar da mudança de formato é característica da ausência de:",
+      "options": {
+        "a": "Assimilação",
+        "b": "Conservação, típica do estágio pré-operatório",
+        "c": "Memória procedural",
+        "d": "Fala egocêntrica",
+        "e": "Habituação"
+      },
+      "correct": "b",
+      "explanation": "A incapacidade de compreender que a quantidade de líquido se conserva independentemente da mudança de formato do recipiente é o clássico exemplo da ausência de conservação, limitação típica do estágio pré-operatório, que só é superada no estágio operatório concreto.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança de 5 anos, ao observar dois copos de formatos diferentes com a mesma quantidade de água, afirma que o copo mais alto e estreito tem 'mais água' do que o copo mais baixo e largo, mesmo tendo visto a água sendo despejada de um copo idêntico para o outro. Essa dificuldade de compreender que a quantidade se mantém apesar da mudança de formato é característica da ausência de: A incapacidade de compreender que a quantidade de líquido se conserva independentemente da mudança de formato do recipiente é o clássico exemplo da ausência de conservação, limitação típica do estágio pré-operatório, que só é superada no estágio operatório concreto."
+    },
+    {
+      "id": "tcc-obj-050",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Uma criança de 9 anos consegue resolver problemas de conservação de quantidade, argumentar de forma coerente sobre situações concretas do dia a dia e demonstra reversibilidade em seu raciocínio (por exemplo, entende que se 3+4=7, então 7-4=3). Segundo Piaget, essa criança está no estágio:",
+      "options": {
+        "a": "Sensório-motor",
+        "b": "Pré-operatório",
+        "c": "Operatório concreto",
+        "d": "Operatório formal",
+        "e": "De crescimento interior"
+      },
+      "correct": "c",
+      "explanation": "A capacidade de conservação, argumentação coerente sobre problemas concretos e reversibilidade lógica são características centrais do estágio operatório concreto, que ocorre aproximadamente entre os 7 e os 11 anos de idade.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança de 9 anos consegue resolver problemas de conservação de quantidade, argumentar de forma coerente sobre situações concretas do dia a dia e demonstra reversibilidade em seu raciocínio (por exemplo, entende que se 3+4=7, então 7-4=3). Segundo Piaget, essa criança está no estágio: A capacidade de conservação, argumentação coerente sobre problemas concretos e reversibilidade lógica são características centrais do estágio operatório concreto, que ocorre aproximadamente entre os 7 e os 11 anos de idade."
+    },
+    {
+      "id": "tcc-obj-051",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Um professor, ao perceber que um aluno não consegue resolver sozinho um problema de matemática, mas consegue resolvê-lo com pequenas dicas e perguntas orientadoras, está atuando dentro do espaço conceituado por Vygotsky como:",
+      "options": {
+        "a": "Desenvolvimento real",
+        "b": "Zona de desenvolvimento proximal",
+        "c": "Estágio operatório formal",
+        "d": "Memória semântica",
+        "e": "Assimilação"
+      },
+      "correct": "b",
+      "explanation": "O professor está atuando na zona de desenvolvimento proximal: o espaço entre o que o aluno consegue fazer sozinho (desenvolvimento real) e o que ele consegue fazer com a mediação de outra pessoa (desenvolvimento potencial).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Um professor, ao perceber que um aluno não consegue resolver sozinho um problema de matemática, mas consegue resolvê-lo com pequenas dicas e perguntas orientadoras, está atuando dentro do espaço conceituado por Vygotsky como: O professor está atuando na zona de desenvolvimento proximal: o espaço entre o que o aluno consegue fazer sozinho (desenvolvimento real) e o que ele consegue fazer com a mediação de outra pessoa (desenvolvimento potencial)."
+    },
+    {
+      "id": "tcc-obj-052",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O egocentrismo, característica marcante do estágio pré-operatório na teoria de Piaget, refere-se à:",
+      "options": {
+        "a": "Capacidade da criança de adotar múltiplas perspectivas simultaneamente",
+        "b": "Dificuldade da criança em perceber o mundo a partir de uma perspectiva que não seja a própria",
+        "c": "Capacidade plena de reversibilidade lógica sobre problemas concretos",
+        "d": "Formação de hipóteses abstratas sobre eventos não observáveis",
+        "e": "Ausência completa de qualquer forma de linguagem representacional"
+      },
+      "correct": "b",
+      "explanation": "O egocentrismo, no estágio pré-operatório, refere-se à dificuldade da criança em perceber o mundo a partir de uma perspectiva que não seja a própria, sem capacidade de aderir ao ponto de vista do outro.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "O egocentrismo, característica marcante do estágio pré-operatório na teoria de Piaget, refere-se à: O egocentrismo, no estágio pré-operatório, refere-se à dificuldade da criança em perceber o mundo a partir de uma perspectiva que não seja a própria, sem capacidade de aderir ao ponto de vista do outro."
+    },
+    {
+      "id": "tcc-obj-053",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Uma criança pequena, ao ver pela primeira vez um cavalo, chama-o de 'cachorro grande', pois já possui o esquema cognitivo de 'cachorro' (animal de quatro patas, peludo) e tenta encaixar o novo objeto nesse esquema já existente. Esse processo, segundo Piaget, exemplifica:",
+      "options": {
+        "a": "Acomodação",
+        "b": "Assimilação",
+        "c": "Zona de desenvolvimento proximal",
+        "d": "Fala egocêntrica",
+        "e": "Memória semântica"
+      },
+      "correct": "b",
+      "explanation": "A criança está tentando incorporar o novo objeto (o cavalo) a um esquema cognitivo já existente e dominado ('cachorro'), o que exemplifica o processo de assimilação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Uma criança pequena, ao ver pela primeira vez um cavalo, chama-o de 'cachorro grande', pois já possui o esquema cognitivo de 'cachorro' (animal de quatro patas, peludo) e tenta encaixar o novo objeto nesse esquema já existente. Esse processo, segundo Piaget, exemplifica: A criança está tentando incorporar o novo objeto (o cavalo) a um esquema cognitivo já existente e dominado ('cachorro'), o que exemplifica o processo de assimilação."
+    },
+    {
+      "id": "tcc-obj-054",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Após perceber que o cavalo não se encaixa perfeitamente no esquema de 'cachorro' (por exemplo, é muito maior e possui características diferentes), a mesma criança passa a criar um novo esquema mental específico para 'cavalo'. Esse processo, segundo Piaget, exemplifica:",
+      "options": {
+        "a": "Assimilação",
+        "b": "Acomodação",
+        "c": "Desenvolvimento real",
+        "d": "Habituação",
+        "e": "Priming"
+      },
+      "correct": "b",
+      "explanation": "Quando a assimilação ao esquema anterior não é suficiente e a criança cria um novo esquema mental para comportar a nova informação, esse processo é a acomodação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Após perceber que o cavalo não se encaixa perfeitamente no esquema de 'cachorro' (por exemplo, é muito maior e possui características diferentes), a mesma criança passa a criar um novo esquema mental específico para 'cavalo'. Esse processo, segundo Piaget, exemplifica: Quando a assimilação ao esquema anterior não é suficiente e a criança cria um novo esquema mental para comportar a nova informação, esse processo é a acomodação."
+    },
+    {
+      "id": "tcc-obj-055",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O termo utilizado para descrever a abordagem epistemológica de Jean Piaget, que busca compreender como o conhecimento se desenvolve na criança a partir de fatores biológicos, individuais e sociais, é conhecido como:",
+      "options": {
+        "a": "Epistemologia genética",
+        "b": "Behaviorismo radical",
+        "c": "Funcionalismo cognitivo",
+        "d": "Psicanálise do desenvolvimento",
+        "e": "Gestalt evolutiva"
+      },
+      "correct": "a",
+      "explanation": "Tanto Piaget quanto Vygotsky partem de uma epistemologia genética, buscando compreender as raízes do desenvolvimento do conhecimento, do pensamento e da linguagem a partir de fatores biológicos, individuais, históricos e sociais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "O termo utilizado para descrever a abordagem epistemológica de Jean Piaget, que busca compreender como o conhecimento se desenvolve na criança a partir de fatores biológicos, individuais e sociais, é conhecido como: Tanto Piaget quanto Vygotsky partem de uma epistemologia genética, buscando compreender as raízes do desenvolvimento do conhecimento, do pensamento e da linguagem a partir de fatores biológicos, individuais, históricos e sociais."
+    },
+    {
+      "id": "tcc-obj-056",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Segundo o material estudado, a passagem de um estágio a outro no desenvolvimento cognitivo, na perspectiva piagetiana, está diretamente relacionada à maturação de qual sistema biológico?",
+      "options": {
+        "a": "Sistema digestivo",
+        "b": "Sistema nervoso",
+        "c": "Sistema endócrino isoladamente",
+        "d": "Sistema cardiovascular",
+        "e": "Sistema imunológico"
+      },
+      "correct": "b",
+      "explanation": "Uma das bases essenciais da teoria de Piaget é o fator biológico, relacionado ao crescimento orgânico e à maturação do sistema nervoso, que atua em conjunto com as experiências e as interações sociais no desenvolvimento cognitivo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material estudado, a passagem de um estágio a outro no desenvolvimento cognitivo, na perspectiva piagetiana, está diretamente relacionada à maturação de qual sistema biológico? Uma das bases essenciais da teoria de Piaget é o fator biológico, relacionado ao crescimento orgânico e à maturação do sistema nervoso, que atua em conjunto com as experiências e as interações sociais no desenvolvimento cognitivo."
+    },
+    {
+      "id": "tcc-obj-057",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "No estágio sensório-motor da teoria de Piaget, o comportamento da criança é orientado, principalmente, por:",
+      "options": {
+        "a": "Reflexos sensoriais e comportamentos típicos da espécie, à medida que descobre sensações e movimentos do próprio corpo",
+        "b": "Raciocínio dedutivo e formulação de hipóteses abstratas",
+        "c": "Fala interior e dedução lógica plenamente desenvolvida",
+        "d": "Capacidade plena de conservação e reversibilidade lógica",
+        "e": "Argumentação coerente sobre problemas hipotéticos não observáveis"
+      },
+      "correct": "a",
+      "explanation": "No estágio sensório-motor, a criança está descobrindo todas as sensações e movimentos do próprio corpo e o contato com o meio, comportamento que se inicia pelos reflexos sensoriais e padrões comportamentais típicos da espécie.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "No estágio sensório-motor da teoria de Piaget, o comportamento da criança é orientado, principalmente, por: No estágio sensório-motor, a criança está descobrindo todas as sensações e movimentos do próprio corpo e o contato com o meio, comportamento que se inicia pelos reflexos sensoriais e padrões comportamentais típicos da espécie."
+    },
+    {
+      "id": "tcc-obj-058",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Um psicólogo escolar, ao planejar uma intervenção pedagógica para uma criança, propõe atividades ligeiramente acima do que ela consegue fazer sozinha, mas alcançáveis com apoio de um colega mais experiente ou do próprio professor. Essa estratégia está fundamentada, de forma direta, no conceito vygotskiano de:",
+      "options": {
+        "a": "Assimilação",
+        "b": "Zona de desenvolvimento proximal",
+        "c": "Estágio operatório formal",
+        "d": "Memória procedural",
+        "e": "Habituação"
+      },
+      "correct": "b",
+      "explanation": "Propor atividades ligeiramente acima da capacidade autônoma da criança, mas alcançáveis com apoio de outra pessoa, é a aplicação prática direta do conceito de zona de desenvolvimento proximal.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Um psicólogo escolar, ao planejar uma intervenção pedagógica para uma criança, propõe atividades ligeiramente acima do que ela consegue fazer sozinha, mas alcançáveis com apoio de um colega mais experiente ou do próprio professor. Essa estratégia está fundamentada, de forma direta, no conceito vygotskiano de: Propor atividades ligeiramente acima da capacidade autônoma da criança, mas alcançáveis com apoio de outra pessoa, é a aplicação prática direta do conceito de zona de desenvolvimento proximal."
+    },
+    {
+      "id": "tcc-obj-059",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Ao comparar o estágio pré-operatório com o estágio operatório concreto na teoria piagetiana, a principal diferença destacada no material é que, no segundo estágio, há:",
+      "options": {
+        "a": "O surgimento definitivo dos reflexos sensoriais",
+        "b": "A diminuição do egocentrismo e o surgimento da conservação e da reversibilidade, ausentes no estágio anterior",
+        "c": "A perda completa da capacidade de representação simbólica adquirida anteriormente",
+        "d": "O predomínio exclusivo da fala egocêntrica",
+        "e": "A ausência de qualquer forma de raciocínio lógico"
+      },
+      "correct": "b",
+      "explanation": "A principal diferença é que, no estágio operatório concreto, ocorre a diminuição do egocentrismo e o surgimento da capacidade de conservação e reversibilidade lógica, limitações características do estágio pré-operatório anterior.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Ao comparar o estágio pré-operatório com o estágio operatório concreto na teoria piagetiana, a principal diferença destacada no material é que, no segundo estágio, há: A principal diferença é que, no estágio operatório concreto, ocorre a diminuição do egocentrismo e o surgimento da capacidade de conservação e reversibilidade lógica, limitações características do estágio pré-operatório anterior."
+    },
+    {
+      "id": "tcc-obj-060",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Segundo Vygotsky, as crianças adentram à vida intelectual, principalmente, por meio de:",
+      "options": {
+        "a": "Processos exclusivamente inatos e geneticamente determinados, sem qualquer influência externa",
+        "b": "Daqueles que as cercam, com ênfase no papel do outro para a aprendizagem",
+        "c": "Reflexos condicionados exclusivamente, sem qualquer mediação social",
+        "d": "Um processo de maturação biológica isolado, independente de qualquer interação",
+        "e": "A repetição mecânica de comportamentos reforçados, sem participação de terceiros"
+      },
+      "correct": "b",
+      "explanation": "Vygotsky enfatiza que as crianças adentram à vida intelectual através daqueles que as cercam, com forte ênfase no papel do outro para a aprendizagem — fundamento central de sua teoria sociocultural do desenvolvimento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Vygotsky, as crianças adentram à vida intelectual, principalmente, por meio de: Vygotsky enfatiza que as crianças adentram à vida intelectual através daqueles que as cercam, com forte ênfase no papel do outro para a aprendizagem — fundamento central de sua teoria sociocultural do desenvolvimento."
+    },
+    {
+      "id": "tcc-obj-061",
+      "topic": "Processos cognitivos: memória",
+      "question": "Segundo o material estudado, a memória pode ser entendida como:",
+      "options": {
+        "a": "A capacidade de adquirir, armazenar e recuperar informações aprendidas ao longo das experiências",
+        "b": "Um processo exclusivamente reflexo e automático, sem qualquer relação com a aprendizagem",
+        "c": "A capacidade de captar estímulos sensoriais sem qualquer forma de retenção",
+        "d": "Um processo idêntico à percepção, sem distinção funcional",
+        "e": "Uma função cognitiva presente apenas em humanos adultos"
+      },
+      "correct": "a",
+      "explanation": "A memória é entendida como a capacidade de adquirir, armazenar e recuperar informações aprendidas ao longo das nossas experiências, sendo fundamental para a sobrevivência e a formação identitária do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "16"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material estudado, a memória pode ser entendida como: A memória é entendida como a capacidade de adquirir, armazenar e recuperar informações aprendidas ao longo das nossas experiências, sendo fundamental para a sobrevivência e a formação identitária do indivíduo."
+    },
+    {
+      "id": "tcc-obj-062",
+      "topic": "Processos cognitivos: memória",
+      "question": "Entre os fatores que influenciam a nossa capacidade de reter informações na memória, o material destaca o nível de consciência e a atenção no momento da formação da memória, além de outros fatores. Um desses fatores, relacionado ao 'background' de sentimentos presente no momento da memorização, é:",
+      "options": {
+        "a": "O tipo sanguíneo",
+        "b": "O estado emocional",
+        "c": "A cor dos olhos",
+        "d": "O ano de nascimento",
+        "e": "A altura da pessoa"
+      },
+      "correct": "b",
+      "explanation": "O estado emocional é o 'background' de emoções no momento da memorização; memórias com vínculo emocional forte se formam com mais facilidade e são evocadas futuramente com mais facilidade também.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Entre os fatores que influenciam a nossa capacidade de reter informações na memória, o material destaca o nível de consciência e a atenção no momento da formação da memória, além de outros fatores. Um desses fatores, relacionado ao 'background' de sentimentos presente no momento da memorização, é: O estado emocional é o 'background' de emoções no momento da memorização; memórias com vínculo emocional forte se formam com mais facilidade e são evocadas futuramente com mais facilidade também."
+    },
+    {
+      "id": "tcc-obj-063",
+      "topic": "Processos cognitivos: memória",
+      "question": "Além do estado emocional, o material cita a motivação como um dos fatores que interferem na retenção de informações na memória. A motivação, nesse contexto, diz respeito a:",
+      "options": {
+        "a": "O quanto a pessoa dá importância ao estímulo que está tentando reter",
+        "b": "A quantidade de horas de sono da pessoa na noite anterior",
+        "c": "O tipo de alimentação consumida no dia da memorização",
+        "d": "A idade cronológica exata do indivíduo",
+        "e": "A cor do ambiente em que a memorização ocorre"
+      },
+      "correct": "a",
+      "explanation": "A motivação diz respeito ao quanto a pessoa dá importância ao estímulo que está tentando reter — quanto maior a motivação, mais eficaz tende a ser a retenção da informação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Além do estado emocional, o material cita a motivação como um dos fatores que interferem na retenção de informações na memória. A motivação, nesse contexto, diz respeito a: A motivação diz respeito ao quanto a pessoa dá importância ao estímulo que está tentando reter — quanto maior a motivação, mais eficaz tende a ser a retenção da informação."
+    },
+    {
+      "id": "tcc-obj-064",
+      "topic": "Processos cognitivos: memória",
+      "question": "A primeira fase do processamento da memória, na qual a energia dos estímulos é transformada em informações sensoriais e conduzida neurologicamente, convertendo estímulos do ambiente em estímulos que o sistema nervoso consegue processar adequadamente, é denominada:",
+      "options": {
+        "a": "Evocação",
+        "b": "Armazenamento",
+        "c": "Codificação",
+        "d": "Habituação",
+        "e": "Priming"
+      },
+      "correct": "c",
+      "explanation": "A codificação corresponde à entrada dos conteúdos na memória, quando a energia dos estímulos é transformada em informações sensoriais e conduzida neurologicamente; os processos sensoriais, perceptivos e atencionais são fundamentais nessa fase.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "A primeira fase do processamento da memória, na qual a energia dos estímulos é transformada em informações sensoriais e conduzida neurologicamente, convertendo estímulos do ambiente em estímulos que o sistema nervoso consegue processar adequadamente, é denominada: A codificação corresponde à entrada dos conteúdos na memória, quando a energia dos estímulos é transformada em informações sensoriais e conduzida neurologicamente; os processos sensoriais, perceptivos e atencionais são fundamentais nessa fase."
+    },
+    {
+      "id": "tcc-obj-065",
+      "topic": "Processos cognitivos: memória",
+      "question": "A fase do processamento mnemônico responsável pela conservação dos conteúdos adquiridos, que podem ser mantidos por diferentes períodos (de milissegundos a longo prazo), e que corresponde à passagem da memória de curto para longo prazo quando as informações são usadas com frequência, é denominada:",
+      "options": {
+        "a": "Codificação",
+        "b": "Armazenamento",
+        "c": "Evocação",
+        "d": "Sensibilização",
+        "e": "Assimilação"
+      },
+      "correct": "b",
+      "explanation": "O armazenamento é a fase de conservação dos conteúdos adquiridos, que podem ser mantidos por diferentes períodos; se usados com frequência, são consolidados, passando da memória de curto para a de longo prazo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "A fase do processamento mnemônico responsável pela conservação dos conteúdos adquiridos, que podem ser mantidos por diferentes períodos (de milissegundos a longo prazo), e que corresponde à passagem da memória de curto para longo prazo quando as informações são usadas com frequência, é denominada: O armazenamento é a fase de conservação dos conteúdos adquiridos, que podem ser mantidos por diferentes períodos; se usados com frequência, são consolidados, passando da memória de curto para a de longo prazo."
+    },
+    {
+      "id": "tcc-obj-066",
+      "topic": "Processos cognitivos: memória",
+      "question": "A fase de recuperação dos conteúdos armazenados na memória, ativada quando precisamos de determinada informação ou há alguma pista no ambiente que nos permite recriar os cenários vivenciados, é denominada:",
+      "options": {
+        "a": "Codificação",
+        "b": "Armazenamento",
+        "c": "Evocação",
+        "d": "Acomodação",
+        "e": "Habituação"
+      },
+      "correct": "c",
+      "explanation": "A evocação é a fase de recuperação dos conteúdos armazenados: quando precisamos de uma informação ou há alguma pista no ambiente, podemos lembrar dela e recriar os cenários vivenciados.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "A fase de recuperação dos conteúdos armazenados na memória, ativada quando precisamos de determinada informação ou há alguma pista no ambiente que nos permite recriar os cenários vivenciados, é denominada: A evocação é a fase de recuperação dos conteúdos armazenados: quando precisamos de uma informação ou há alguma pista no ambiente, podemos lembrar dela e recriar os cenários vivenciados."
+    },
+    {
+      "id": "tcc-obj-067",
+      "topic": "Processos cognitivos: memória",
+      "question": "A memória que se refere aos diferentes órgãos dos sentidos (como a memória auditiva ou a visual), caracterizada por um armazenamento ultrarrápido das informações, funcionando como 'flashes' do mundo que permitem experimentá-lo como um fluxo contínuo, é denominada:",
+      "options": {
+        "a": "Memória de longo prazo",
+        "b": "Memória sensorial",
+        "c": "Memória semântica",
+        "d": "Memória procedural",
+        "e": "Memória episódica"
+      },
+      "correct": "b",
+      "explanation": "A memória sensorial é um tipo de memória muito breve que reage aos inputs recebidos pelos órgãos dos sentidos, com armazenamento ultrarrápido, funcionando como 'flashes' do mundo que possibilitam a experiência de um fluxo contínuo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "A memória que se refere aos diferentes órgãos dos sentidos (como a memória auditiva ou a visual), caracterizada por um armazenamento ultrarrápido das informações, funcionando como 'flashes' do mundo que permitem experimentá-lo como um fluxo contínuo, é denominada: A memória sensorial é um tipo de memória muito breve que reage aos inputs recebidos pelos órgãos dos sentidos, com armazenamento ultrarrápido, funcionando como 'flashes' do mundo que possibilitam a experiência de um fluxo contínuo."
+    },
+    {
+      "id": "tcc-obj-068",
+      "topic": "Processos cognitivos: memória",
+      "question": "No modelo de memória de trabalho apresentado no material, o componente que atua como controlador atencional, desempenhando funções como a atenção seletiva, a flexibilidade mental e a evocação de informações da memória de longo prazo, é denominado:",
+      "options": {
+        "a": "Alça fonológica",
+        "b": "Esboço visuoespacial",
+        "c": "Executivo central",
+        "d": "Buffer episódico",
+        "e": "Memória sensorial"
+      },
+      "correct": "c",
+      "explanation": "O executivo central atua como controlador atencional, desempenhando funções como a atenção seletiva, a flexibilidade mental para coordenar múltiplas atividades cognitivas, a seleção e execução de planos e a evocação de informações da memória de longo prazo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "No modelo de memória de trabalho apresentado no material, o componente que atua como controlador atencional, desempenhando funções como a atenção seletiva, a flexibilidade mental e a evocação de informações da memória de longo prazo, é denominado: O executivo central atua como controlador atencional, desempenhando funções como a atenção seletiva, a flexibilidade mental para coordenar múltiplas atividades cognitivas, a seleção e execução de planos e a evocação de informações da memória de longo prazo."
+    },
+    {
+      "id": "tcc-obj-069",
+      "topic": "Processos cognitivos: memória",
+      "question": "No modelo de memória de trabalho, o subsistema responsável por realizar o processamento e a manutenção de informações visuais e espaciais referentes a objetos e às relações espaciais entre eles, participando também da formação e manipulação de imagens mentais, é denominado:",
+      "options": {
+        "a": "Executivo central",
+        "b": "Alça fonológica",
+        "c": "Esboço visuoespacial",
+        "d": "Buffer episódico",
+        "e": "Memória procedural"
+      },
+      "correct": "c",
+      "explanation": "O esboço visuoespacial realiza o processamento e a manutenção de informações visuais e espaciais referentes aos objetos e às relações espaciais entre eles, desempenhando papel relevante na formação e manipulação de imagens mentais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "No modelo de memória de trabalho, o subsistema responsável por realizar o processamento e a manutenção de informações visuais e espaciais referentes a objetos e às relações espaciais entre eles, participando também da formação e manipulação de imagens mentais, é denominado: O esboço visuoespacial realiza o processamento e a manutenção de informações visuais e espaciais referentes aos objetos e às relações espaciais entre eles, desempenhando papel relevante na formação e manipulação de imagens mentais."
+    },
+    {
+      "id": "tcc-obj-070",
+      "topic": "Processos cognitivos: memória",
+      "question": "O quarto componente acrescentado ao modelo de memória de trabalho, responsável pela integração das informações mantidas temporariamente na memória de trabalho com aquelas provenientes dos sistemas de longo prazo, formando uma representação episódica única, é denominado:",
+      "options": {
+        "a": "Alça fonológica",
+        "b": "Esboço visuoespacial",
+        "c": "Executivo central",
+        "d": "Buffer episódico (ou retentor episódico)",
+        "e": "Memória sensorial"
+      },
+      "correct": "d",
+      "explanation": "O buffer episódico (ou retentor episódico) é um componente de armazenamento temporário e capacidade limitada, acessível à consciência, responsável por integrar as informações da memória de trabalho com as informações provenientes dos sistemas de longo prazo, em uma representação episódica única.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "O quarto componente acrescentado ao modelo de memória de trabalho, responsável pela integração das informações mantidas temporariamente na memória de trabalho com aquelas provenientes dos sistemas de longo prazo, formando uma representação episódica única, é denominado: O buffer episódico (ou retentor episódico) é um componente de armazenamento temporário e capacidade limitada, acessível à consciência, responsável por integrar as informações da memória de trabalho com as informações provenientes dos sistemas de longo prazo, em uma representação episódica única."
+    },
+    {
+      "id": "tcc-obj-071",
+      "topic": "Processos cognitivos: memória",
+      "question": "Segundo o material, a memória de longo prazo é dividida em dois grandes blocos: memórias declarativas e memórias não declarativas. A principal diferença entre elas é que:",
+      "options": {
+        "a": "As memórias declarativas são explícitas (acesso consciente), enquanto as não declarativas são implícitas (não verbais)",
+        "b": "As memórias declarativas duram apenas milissegundos, enquanto as não declarativas duram a vida inteira",
+        "c": "Ambas se referem exclusivamente a habilidades motoras aprendidas por repetição",
+        "d": "As memórias não declarativas são as únicas capazes de gerar aprendizagem",
+        "e": "Não há qualquer diferença funcional relevante entre elas"
+      },
+      "correct": "a",
+      "explanation": "As memórias declarativas são explícitas, com acesso consciente, enquanto as memórias não declarativas são implícitas, pois não são de natureza verbal e não permitem evocação consciente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "20"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a memória de longo prazo é dividida em dois grandes blocos: memórias declarativas e memórias não declarativas. A principal diferença entre elas é que: As memórias declarativas são explícitas, com acesso consciente, enquanto as memórias não declarativas são implícitas, pois não são de natureza verbal e não permitem evocação consciente."
+    },
+    {
+      "id": "tcc-obj-072",
+      "topic": "Processos cognitivos: memória",
+      "question": "Dentro do bloco das memórias declarativas, o tipo que reúne experiências pessoais específicas ocorridas em um tempo ou lugar determinado, referindo-se a eventos datados (por exemplo, lembrar onde você estava ontem às 15 horas), é denominado:",
+      "options": {
+        "a": "Memória semântica",
+        "b": "Memória episódica",
+        "c": "Memória procedural",
+        "d": "Memória sensorial",
+        "e": "Memória de priming"
+      },
+      "correct": "b",
+      "explanation": "A memória episódica reúne experiências pessoais específicas em um tempo ou lugar, referindo-se a eventos datados; também é chamada de memória autobiográfica.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Dentro do bloco das memórias declarativas, o tipo que reúne experiências pessoais específicas ocorridas em um tempo ou lugar determinado, referindo-se a eventos datados (por exemplo, lembrar onde você estava ontem às 15 horas), é denominado: A memória episódica reúne experiências pessoais específicas em um tempo ou lugar, referindo-se a eventos datados; também é chamada de memória autobiográfica."
+    },
+    {
+      "id": "tcc-obj-073",
+      "topic": "Processos cognitivos: memória",
+      "question": "O outro tipo de memória declarativa, que inclui conhecimentos do mundo, objetos e linguagem, referindo-se ao significado atemporal das palavras e conceitos (por exemplo, saber que a bandeira do Brasil é verde e amarela), é denominado:",
+      "options": {
+        "a": "Memória episódica",
+        "b": "Memória semântica",
+        "c": "Memória procedural",
+        "d": "Memória de trabalho",
+        "e": "Priming"
+      },
+      "correct": "b",
+      "explanation": "A memória semântica inclui conhecimentos do mundo, objetos e linguagem, referindo-se ao significado das palavras ou conceitos atemporais, caracterizada pela perda de dados contextuais, temporais e espaciais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "O outro tipo de memória declarativa, que inclui conhecimentos do mundo, objetos e linguagem, referindo-se ao significado atemporal das palavras e conceitos (por exemplo, saber que a bandeira do Brasil é verde e amarela), é denominado: A memória semântica inclui conhecimentos do mundo, objetos e linguagem, referindo-se ao significado das palavras ou conceitos atemporais, caracterizada pela perda de dados contextuais, temporais e espaciais."
+    },
+    {
+      "id": "tcc-obj-074",
+      "topic": "Processos cognitivos: memória",
+      "question": "Um dos aspectos que caracteriza a memória semântica, segundo o material, é que ela:",
+      "options": {
+        "a": "Preserva sempre o contexto exato em que a informação foi aprendida",
+        "b": "É caracterizada pela perda de dados contextuais, temporais e espaciais — a pessoa sabe o significado, mas não lembra onde ou quando aprendeu",
+        "c": "É idêntica à memória procedural em todos os aspectos",
+        "d": "Só pode ser evocada por meio de dicas sensoriais específicas, como o priming",
+        "e": "É exclusivamente responsável por hábitos motores automatizados"
+      },
+      "correct": "b",
+      "explanation": "A memória semântica é caracterizada pela perda de dados contextuais, temporais e espaciais: a pessoa reconhece que sabe algo (por exemplo, o significado de uma palavra), mas não lembra em que momento ou onde aprendeu essa informação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Um dos aspectos que caracteriza a memória semântica, segundo o material, é que ela: A memória semântica é caracterizada pela perda de dados contextuais, temporais e espaciais: a pessoa reconhece que sabe algo (por exemplo, o significado de uma palavra), mas não lembra em que momento ou onde aprendeu essa informação."
+    },
+    {
+      "id": "tcc-obj-075",
+      "topic": "Processos cognitivos: memória",
+      "question": "Dentro das memórias não declarativas (implícitas), o tipo que guarda hábitos motores, procedimentos e habilidades — como dirigir um carro ou executar uma peça de piano ensaiada na infância — é denominado:",
+      "options": {
+        "a": "Memória episódica",
+        "b": "Memória semântica",
+        "c": "Memória procedural",
+        "d": "Memória de trabalho",
+        "e": "Buffer episódico"
+      },
+      "correct": "c",
+      "explanation": "As memórias procedurais (ou de procedimento) guardam hábitos motores, procedimentos e habilidades, dependendo de prática, como dirigir um carro, passar uma roupa ou pintar uma parede.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Dentro das memórias não declarativas (implícitas), o tipo que guarda hábitos motores, procedimentos e habilidades — como dirigir um carro ou executar uma peça de piano ensaiada na infância — é denominado: As memórias procedurais (ou de procedimento) guardam hábitos motores, procedimentos e habilidades, dependendo de prática, como dirigir um carro, passar uma roupa ou pintar uma parede."
+    },
+    {
+      "id": "tcc-obj-076",
+      "topic": "Processos cognitivos: memória",
+      "question": "As memórias não declarativas são caracterizadas, segundo o material, por serem:",
+      "options": {
+        "a": "Movimentos automáticos com pouco processamento consciente, mais inflexíveis e estáveis, bem relacionados às condições originais em que o aprendizado ocorreu",
+        "b": "Sempre acessíveis à evocação consciente e verbal, tal como as memórias episódicas",
+        "c": "Exclusivas do período da infância, desaparecendo completamente na vida adulta",
+        "d": "Idênticas em todos os aspectos às memórias declarativas semânticas",
+        "e": "Dependentes exclusivamente da linguagem para sua formação"
+      },
+      "correct": "a",
+      "explanation": "As memórias não declarativas não podem ser expressas verbalmente, mas podem ser externadas por meio do desempenho: são movimentos automáticos com pouco processamento consciente, mais inflexíveis e estáveis, relacionados às condições originais do aprendizado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "As memórias não declarativas são caracterizadas, segundo o material, por serem: As memórias não declarativas não podem ser expressas verbalmente, mas podem ser externadas por meio do desempenho: são movimentos automáticos com pouco processamento consciente, mais inflexíveis e estáveis, relacionados às condições originais do aprendizado."
+    },
+    {
+      "id": "tcc-obj-077",
+      "topic": "Processos cognitivos: memória",
+      "question": "O tipo de memória implícita adquirida e evocada por meio de 'dicas' — como fragmentos de uma imagem, uma palavra, gestos ou odores — é denominado, no material, de memória do tipo:",
+      "options": {
+        "a": "Episódica",
+        "b": "Semântica",
+        "c": "Priming (pré-ativação)",
+        "d": "Procedural exclusivamente",
+        "e": "De trabalho"
+      },
+      "correct": "c",
+      "explanation": "A memória do tipo priming (ou 'pré-ativação') é adquirida e evocada por meio de dicas, que podem ser diversos estímulos, como fragmentos de uma imagem, uma palavra, gestos ou odores.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O tipo de memória implícita adquirida e evocada por meio de 'dicas' — como fragmentos de uma imagem, uma palavra, gestos ou odores — é denominado, no material, de memória do tipo: A memória do tipo priming (ou 'pré-ativação') é adquirida e evocada por meio de dicas, que podem ser diversos estímulos, como fragmentos de uma imagem, uma palavra, gestos ou odores."
+    },
+    {
+      "id": "tcc-obj-078",
+      "topic": "Processos cognitivos: memória",
+      "question": "Dentro do tipo de memória priming, o subtipo também chamado de 'memória de representação perceptual', capaz de reter a imagem de um evento antes mesmo da compreensão do que ele significa, é denominado:",
+      "options": {
+        "a": "Influência inconsciente",
+        "b": "Representação perceptual",
+        "c": "Memória semântica",
+        "d": "Buffer episódico",
+        "e": "Sensibilização"
+      },
+      "correct": "b",
+      "explanation": "A representação perceptual, também chamada de memória de representação perceptual, é um subtipo do priming que pode reter a imagem de um evento antes da compreensão do que ele significa.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22-23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "Dentro do tipo de memória priming, o subtipo também chamado de 'memória de representação perceptual', capaz de reter a imagem de um evento antes mesmo da compreensão do que ele significa, é denominado: A representação perceptual, também chamada de memória de representação perceptual, é um subtipo do priming que pode reter a imagem de um evento antes da compreensão do que ele significa."
+    },
+    {
+      "id": "tcc-obj-079",
+      "topic": "Processos cognitivos: memória",
+      "question": "O outro subtipo de priming, relacionado à influência inconsciente que a exposição prévia a um estímulo exerce sobre o processamento de um estímulo subsequente — de modo que o comportamento da pessoa muda a partir de estímulos anteriores dos quais ela nem se deu conta —, é denominado:",
+      "options": {
+        "a": "Representação perceptual",
+        "b": "Influência inconsciente",
+        "c": "Memória episódica",
+        "d": "Habituação",
+        "e": "Memória de trabalho"
+      },
+      "correct": "b",
+      "explanation": "A influência inconsciente, subtipo do priming, tem relação com a influência inconsciente que a exposição prévia a um estímulo exerce sobre o processamento de um estímulo subsequente, mudando o comportamento sem que a pessoa se dê conta.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "O outro subtipo de priming, relacionado à influência inconsciente que a exposição prévia a um estímulo exerce sobre o processamento de um estímulo subsequente — de modo que o comportamento da pessoa muda a partir de estímulos anteriores dos quais ela nem se deu conta —, é denominado: A influência inconsciente, subtipo do priming, tem relação com a influência inconsciente que a exposição prévia a um estímulo exerce sobre o processamento de um estímulo subsequente, mudando o comportamento sem que a pessoa se dê conta."
+    },
+    {
+      "id": "tcc-obj-080",
+      "topic": "Processos cognitivos: memória",
+      "question": "O tipo de memória implícita denominada 'associativa' pode ser estimulada por meio de dois processos específicos, citados no material. São eles:",
+      "options": {
+        "a": "A habituação e a sensibilização",
+        "b": "O condicionamento clássico (emparelhamento de estímulos) e o condicionamento operante (reforçamento contextual)",
+        "c": "A assimilação e a acomodação piagetianas",
+        "d": "A codificação e a evocação",
+        "e": "O executivo central e o buffer episódico"
+      },
+      "correct": "b",
+      "explanation": "A memória implícita associativa pode ser estimulada por meio do condicionamento clássico, quando dois ou mais estímulos são emparelhados, e do condicionamento operante, quando uma resposta é reforçada contextualmente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O tipo de memória implícita denominada 'associativa' pode ser estimulada por meio de dois processos específicos, citados no material. São eles: A memória implícita associativa pode ser estimulada por meio do condicionamento clássico, quando dois ou mais estímulos são emparelhados, e do condicionamento operante, quando uma resposta é reforçada contextualmente."
+    },
+    {
+      "id": "tcc-obj-081",
+      "topic": "Processos cognitivos: memória",
+      "question": "O aprendizado não associativo, citado no material como formador de um último tipo de memória, abarca dois processos: a atenuação de uma resposta por meio da repetição de uma mesma estimulação (por exemplo, aprender a ignorar o latido constante de um cão que não traz riscos) e o processo oposto, de aumento dessa resposta. Esses dois processos são denominados, respectivamente:",
+      "options": {
+        "a": "Assimilação e acomodação",
+        "b": "Habituação e sensibilização",
+        "c": "Codificação e evocação",
+        "d": "Priming e associação",
+        "e": "Representação perceptual e influência inconsciente"
+      },
+      "correct": "b",
+      "explanation": "A habituação corresponde à atenuação de uma resposta pela repetição de uma mesma estimulação, e a sensibilização tem relação com o aumento dessa resposta, também por meio da repetição — ambos processos de aprendizado não associativo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O aprendizado não associativo, citado no material como formador de um último tipo de memória, abarca dois processos: a atenuação de uma resposta por meio da repetição de uma mesma estimulação (por exemplo, aprender a ignorar o latido constante de um cão que não traz riscos) e o processo oposto, de aumento dessa resposta. Esses dois processos são denominados, respectivamente: A habituação corresponde à atenuação de uma resposta pela repetição de uma mesma estimulação, e a sensibilização tem relação com o aumento dessa resposta, também por meio da repetição — ambos processos de aprendizado não associativo."
+    },
+    {
+      "id": "tcc-obj-082",
+      "topic": "Processos cognitivos: memória",
+      "question": "O material distingue os termos 'memória recente/remota' de 'memória de curto/longo prazo', explicando que:",
+      "options": {
+        "a": "São sinônimos exatos e podem ser usados indistintamente",
+        "b": "Recente e remota se referem ao tempo em que a informação foi adquirida, enquanto curto e longo prazo se referem à duração ou manutenção da informação retida",
+        "c": "Memória recente sempre corresponde à memória de longo prazo",
+        "d": "Memória remota se refere exclusivamente a informações aprendidas na última semana",
+        "e": "Não há qualquer relação entre esses dois pares de conceitos"
+      },
+      "correct": "b",
+      "explanation": "Memória recente e remota se referem ao tempo em que a informação foi adquirida (recente = há pouco tempo; remota = na infância, por exemplo), enquanto curto prazo e longo prazo se referem à duração ou manutenção da informação retida — não são sinônimos entre si.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "18"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "O material distingue os termos 'memória recente/remota' de 'memória de curto/longo prazo', explicando que: Memória recente e remota se referem ao tempo em que a informação foi adquirida (recente = há pouco tempo; remota = na infância, por exemplo), enquanto curto prazo e longo prazo se referem à duração ou manutenção da informação retida — não são sinônimos entre si."
+    },
+    {
+      "id": "tcc-obj-083",
+      "topic": "Processos cognitivos: memória",
+      "question": "Um exemplo dado no material para ilustrar a diferença entre os pares de conceitos memória recente/remota e curto/longo prazo é o de uma pessoa que decorou informações há dez anos para uma prova, mas hoje já não se lembra mais delas. Esse caso representa uma:",
+      "options": {
+        "a": "Memória remota de longo prazo, plenamente consolidada",
+        "b": "Memória remota de curto prazo, que não foi consolidada para a memória de longo prazo",
+        "c": "Memória recente de curto prazo",
+        "d": "Memória procedural consolidada",
+        "e": "Memória semântica plenamente ativa"
+      },
+      "correct": "b",
+      "explanation": "O exemplo representa uma memória remota (adquirida há muito tempo) de curto prazo (não foi mantida ao longo do tempo, pois não foi consolidada para a memória de longo prazo).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "18"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "Um exemplo dado no material para ilustrar a diferença entre os pares de conceitos memória recente/remota e curto/longo prazo é o de uma pessoa que decorou informações há dez anos para uma prova, mas hoje já não se lembra mais delas. Esse caso representa uma: O exemplo representa uma memória remota (adquirida há muito tempo) de curto prazo (não foi mantida ao longo do tempo, pois não foi consolidada para a memória de longo prazo)."
+    },
+    {
+      "id": "tcc-obj-084",
+      "topic": "Processos cognitivos: memória",
+      "question": "Um estudante consegue tocar de cor uma música que aprendeu ao violão na adolescência, mesmo sem conseguir explicar verbalmente a sequência exata de acordes que está tocando. Esse exemplo ilustra, de forma central, o funcionamento da memória:",
+      "options": {
+        "a": "Semântica",
+        "b": "Episódica",
+        "c": "Procedural",
+        "d": "De trabalho",
+        "e": "Sensorial"
+      },
+      "correct": "c",
+      "explanation": "A capacidade de executar uma habilidade motora aprendida por prática, sem necessariamente conseguir verbalizar o processo, é o exemplo clássico de memória procedural, um tipo de memória não declarativa (implícita).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Um estudante consegue tocar de cor uma música que aprendeu ao violão na adolescência, mesmo sem conseguir explicar verbalmente a sequência exata de acordes que está tocando. Esse exemplo ilustra, de forma central, o funcionamento da memória: A capacidade de executar uma habilidade motora aprendida por prática, sem necessariamente conseguir verbalizar o processo, é o exemplo clássico de memória procedural, um tipo de memória não declarativa (implícita)."
+    },
+    {
+      "id": "tcc-obj-085",
+      "topic": "Processos cognitivos: memória",
+      "question": "Uma pessoa relata, com riqueza de detalhes, o que aconteceu em sua última formatura: onde foi, quem estava presente e como se sentiu naquele momento. Esse relato é um exemplo característico de memória:",
+      "options": {
+        "a": "Semântica",
+        "b": "Procedural",
+        "c": "Episódica (autobiográfica)",
+        "d": "Sensorial",
+        "e": "De priming"
+      },
+      "correct": "c",
+      "explanation": "O relato de um evento pessoal específico, datado e contextualizado (a formatura), é um exemplo clássico de memória episódica, também chamada de memória autobiográfica.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Uma pessoa relata, com riqueza de detalhes, o que aconteceu em sua última formatura: onde foi, quem estava presente e como se sentiu naquele momento. Esse relato é um exemplo característico de memória: O relato de um evento pessoal específico, datado e contextualizado (a formatura), é um exemplo clássico de memória episódica, também chamada de memória autobiográfica."
+    },
+    {
+      "id": "tcc-obj-086",
+      "topic": "Processos cognitivos: memória",
+      "question": "Uma pessoa sabe que a fórmula química da água é H₂O, mas não consegue se lembrar em que aula ou momento específico aprendeu essa informação. Esse exemplo ilustra a memória:",
+      "options": {
+        "a": "Episódica",
+        "b": "Semântica",
+        "c": "Procedural",
+        "d": "Sensorial",
+        "e": "De trabalho"
+      },
+      "correct": "b",
+      "explanation": "O conhecimento de um fato objetivo (a fórmula da água), sem a lembrança do contexto específico em que foi aprendido, é o exemplo clássico de memória semântica, caracterizada pela perda de dados contextuais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Uma pessoa sabe que a fórmula química da água é H₂O, mas não consegue se lembrar em que aula ou momento específico aprendeu essa informação. Esse exemplo ilustra a memória: O conhecimento de um fato objetivo (a fórmula da água), sem a lembrança do contexto específico em que foi aprendido, é o exemplo clássico de memória semântica, caracterizada pela perda de dados contextuais."
+    },
+    {
+      "id": "tcc-obj-087",
+      "topic": "Processos cognitivos: memória",
+      "question": "Depois de ser exposta repetidamente à palavra 'hospital' em um teste anterior, uma pessoa completa mais rapidamente a sequência incompleta 'HOS_ _ _ _ _' com a palavra 'hospital' do que com qualquer outra palavra possível, mesmo sem se lembrar conscientemente de ter visto essa palavra antes. Esse fenômeno ilustra a memória do tipo:",
+      "options": {
+        "a": "Semântica",
+        "b": "Priming",
+        "c": "Episódica",
+        "d": "Procedural",
+        "e": "Sensorial"
+      },
+      "correct": "b",
+      "explanation": "A facilitação no processamento de um estímulo (completar a palavra mais rapidamente) devido à exposição prévia a um estímulo relacionado, sem lembrança consciente dessa exposição, é o exemplo clássico do fenômeno de priming.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Depois de ser exposta repetidamente à palavra 'hospital' em um teste anterior, uma pessoa completa mais rapidamente a sequência incompleta 'HOS_ _ _ _ _' com a palavra 'hospital' do que com qualquer outra palavra possível, mesmo sem se lembrar conscientemente de ter visto essa palavra antes. Esse fenômeno ilustra a memória do tipo: A facilitação no processamento de um estímulo (completar a palavra mais rapidamente) devido à exposição prévia a um estímulo relacionado, sem lembrança consciente dessa exposição, é o exemplo clássico do fenômeno de priming."
+    },
+    {
+      "id": "tcc-obj-088",
+      "topic": "Processos cognitivos: memória",
+      "question": "Um morador de uma casa próxima a uma linha de trem, que inicialmente acordava com a passagem dos trens, passa a dormir tranquilamente sem ser incomodado pelo barulho após algumas semanas morando no local, mesmo sem qualquer mudança no ambiente. Esse fenômeno de aprendizado não associativo é denominado:",
+      "options": {
+        "a": "Sensibilização",
+        "b": "Habituação",
+        "c": "Priming",
+        "d": "Assimilação",
+        "e": "Memória procedural"
+      },
+      "correct": "b",
+      "explanation": "A atenuação progressiva de uma resposta (incômodo com o barulho) diante da repetição de uma mesma estimulação, sem qualquer risco associado, é o exemplo clássico de habituação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Um morador de uma casa próxima a uma linha de trem, que inicialmente acordava com a passagem dos trens, passa a dormir tranquilamente sem ser incomodado pelo barulho após algumas semanas morando no local, mesmo sem qualquer mudança no ambiente. Esse fenômeno de aprendizado não associativo é denominado: A atenuação progressiva de uma resposta (incômodo com o barulho) diante da repetição de uma mesma estimulação, sem qualquer risco associado, é o exemplo clássico de habituação."
+    },
+    {
+      "id": "tcc-obj-089",
+      "topic": "Processos cognitivos: memória",
+      "question": "Uma pessoa que sofreu um assalto passa, após o evento, a reagir com sobressalto intenso a qualquer barulho repentino no ambiente, mesmo sons pequenos e inofensivos que antes não lhe causavam nenhuma reação. Esse aumento da resposta diante de estímulos repetidos após um evento traumático exemplifica o fenômeno de aprendizado não associativo denominado:",
+      "options": {
+        "a": "Habituação",
+        "b": "Sensibilização",
+        "c": "Priming",
+        "d": "Memória semântica",
+        "e": "Acomodação"
+      },
+      "correct": "b",
+      "explanation": "O aumento da magnitude de uma resposta diante de estimulações repetidas, especialmente após um evento intenso ou traumático, exemplifica a sensibilização — processo oposto à habituação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Uma pessoa que sofreu um assalto passa, após o evento, a reagir com sobressalto intenso a qualquer barulho repentino no ambiente, mesmo sons pequenos e inofensivos que antes não lhe causavam nenhuma reação. Esse aumento da resposta diante de estímulos repetidos após um evento traumático exemplifica o fenômeno de aprendizado não associativo denominado: O aumento da magnitude de uma resposta diante de estimulações repetidas, especialmente após um evento intenso ou traumático, exemplifica a sensibilização — processo oposto à habituação."
+    },
+    {
+      "id": "tcc-obj-090",
+      "topic": "Processos cognitivos: memória",
+      "question": "Diferentemente da memória de curto prazo, considerada mais passiva e limitada a reter brevemente uma quantidade limitada de informações, a memória de trabalho (ou operacional) é caracterizada por:",
+      "options": {
+        "a": "Ser um processador ativo, capaz de manipular um conjunto limitado de informações por um curto período, articulando informações novas com antigas",
+        "b": "Durar exatamente o mesmo tempo que a memória sensorial, sem qualquer diferença funcional",
+        "c": "Não possuir qualquer relação com a atenção ou com o executivo central",
+        "d": "Ser responsável exclusivamente pelo armazenamento de memórias de longuíssimo prazo",
+        "e": "Ser idêntica, em todos os aspectos, à memória procedural"
+      },
+      "correct": "a",
+      "explanation": "A memória de trabalho funciona como um sistema de capacidade limitada que permite o armazenamento temporário e o gerenciamento ativo de informações, deixando de ser apenas um armazenamento passivo (como a memória de curto prazo) para ser um processador ativo capaz de manipular informações novas articulando-as com antigas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "20"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "Diferentemente da memória de curto prazo, considerada mais passiva e limitada a reter brevemente uma quantidade limitada de informações, a memória de trabalho (ou operacional) é caracterizada por: A memória de trabalho funciona como um sistema de capacidade limitada que permite o armazenamento temporário e o gerenciamento ativo de informações, deixando de ser apenas um armazenamento passivo (como a memória de curto prazo) para ser um processador ativo capaz de manipular informações novas articulando-as com antigas."
     }
   ],
   "discursive": [
@@ -1314,6 +2678,870 @@
       },
       "subject": "Terapia Cognitivo-Comportamental (TCC)",
       "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-013",
+      "topic": "Os quatro estágios do desenvolvimento cognitivo de Piaget",
+      "question": "Descreva os quatro estágios do desenvolvimento cognitivo propostos por Piaget, indicando a principal característica de cada um.",
+      "modelAnswer": "Piaget propõe quatro estágios sucessivos de desenvolvimento cognitivo. No estágio sensório-motor, a criança descobre as sensações e os movimentos do próprio corpo e o contato com o meio, a partir de reflexos sensoriais e comportamentos típicos da espécie. No estágio pré-operatório, a criança já possui capacidade conceitual e representacional graças à linguagem, mas ainda age de forma egocêntrica, sem capacidade de aderir à perspectiva do outro, sendo incoerente e sem reversibilidade em seu pensamento. No estágio operatório concreto (aproximadamente dos 7 aos 11 anos), a criança alcança o raciocínio lógico aplicado a problemas reais, com maior argumentação coerente, objetividade, conservação e reversibilidade, e diminuição do egocentrismo. Por fim, no estágio operatório formal, formam-se o raciocínio dedutivo e a capacidade de formular hipóteses, passando a explicar os eventos a partir de fatos observáveis, alcançando o pensamento abstrato adulto.",
+      "keyPoints": [
+        {
+          "text": "Descreve o estágio sensório-motor (reflexos, sensações e movimentos)",
+          "weight": 2,
+          "keywords": [
+            "sensório-motor",
+            "reflexos",
+            "sensações"
+          ]
+        },
+        {
+          "text": "Descreve o estágio pré-operatório (linguagem, egocentrismo, sem reversibilidade)",
+          "weight": 3,
+          "keywords": [
+            "pré-operatório",
+            "egocentrismo",
+            "sem reversibilidade"
+          ]
+        },
+        {
+          "text": "Descreve o estágio operatório concreto (lógica sobre problemas reais, conservação, reversibilidade)",
+          "weight": 3,
+          "keywords": [
+            "operatório concreto",
+            "conservação",
+            "reversibilidade"
+          ]
+        },
+        {
+          "text": "Descreve o estágio operatório formal (raciocínio dedutivo, hipóteses)",
+          "weight": 2,
+          "keywords": [
+            "operatório formal",
+            "raciocínio dedutivo",
+            "hipóteses"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-014",
+      "topic": "Assimilação e acomodação",
+      "question": "Explique os mecanismos de assimilação e acomodação na teoria de Piaget, dando um exemplo de cada um.",
+      "modelAnswer": "Na teoria construtivista de Piaget, o desenvolvimento cognitivo ocorre por meio de um processo contínuo de adaptação ao ambiente, que envolve dois mecanismos complementares. A assimilação ocorre quando a criança recebe uma nova informação e tenta associá-la a algo que já conhece, incorporando-a a um esquema cognitivo já dominado — por exemplo, uma criança que já conhece o esquema de 'cachorro' pode inicialmente chamar um cavalo de 'cachorro grande', assimilando o novo objeto ao esquema existente. Já a acomodação ocorre quando a assimilação ao esquema anterior não é suficiente ou adequada, levando a criança a derivar um novo esquema para comportar a nova informação — no mesmo exemplo, ao perceber que o cavalo tem características muito diferentes, a criança cria um novo esquema específico para 'cavalo'. Esses dois processos operam de forma contínua e complementar ao longo de todo o desenvolvimento cognitivo.",
+      "keyPoints": [
+        {
+          "text": "Define assimilação (incorporar a esquema já existente)",
+          "weight": 3,
+          "keywords": [
+            "assimilação",
+            "esquema já dominado",
+            "incorporar"
+          ]
+        },
+        {
+          "text": "Define acomodação (criar novo esquema)",
+          "weight": 3,
+          "keywords": [
+            "acomodação",
+            "novo esquema",
+            "derivar"
+          ]
+        },
+        {
+          "text": "Dá exemplos concretos de cada mecanismo",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "cavalo",
+            "cachorro"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-015",
+      "topic": "Os três conceitos de Vygotsky sobre a aprendizagem",
+      "question": "Explique os conceitos de desenvolvimento real, desenvolvimento potencial e zona de desenvolvimento proximal, propostos por Vygotsky, e sua importância para a prática pedagógica.",
+      "modelAnswer": "Vygotsky, ao enfatizar o papel do outro na aprendizagem, propõe três conceitos inter-relacionados. O desenvolvimento real é aquilo que a criança já consegue fazer sozinha, sem qualquer auxílio externo — representa o nível de competência já consolidado. O desenvolvimento potencial é aquilo que a criança pode vir a aprender com a intervenção e o auxílio de outras pessoas mais experientes, representando o horizonte de aprendizagem alcançável com mediação. Entre esses dois níveis está a zona de desenvolvimento proximal: o processo intermediário de aproximação sucessiva entre o que a criança já sabe e o que ela pode aprender, por intermédio do outro. Para a prática pedagógica, esse conceito é fundamental, pois orienta o professor a propor atividades ligeiramente acima da capacidade autônoma do aluno, mas alcançáveis com mediação (por meio de dicas, perguntas orientadoras ou modelagem), promovendo a aprendizagem de forma mais eficaz do que tarefas já dominadas ou impossíveis mesmo com ajuda.",
+      "keyPoints": [
+        {
+          "text": "Define desenvolvimento real (o que a criança faz sozinha)",
+          "weight": 2,
+          "keywords": [
+            "desenvolvimento real",
+            "sozinha"
+          ]
+        },
+        {
+          "text": "Define desenvolvimento potencial (o que pode aprender com ajuda)",
+          "weight": 2,
+          "keywords": [
+            "desenvolvimento potencial",
+            "com ajuda"
+          ]
+        },
+        {
+          "text": "Define zona de desenvolvimento proximal como espaço intermediário",
+          "weight": 3,
+          "keywords": [
+            "zona de desenvolvimento proximal",
+            "processo intermediário"
+          ]
+        },
+        {
+          "text": "Explica a aplicação pedagógica prática do conceito",
+          "weight": 3,
+          "keywords": [
+            "prática pedagógica",
+            "professor",
+            "mediação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-016",
+      "topic": "As etapas do desenvolvimento da linguagem e do pensamento segundo Vygotsky",
+      "question": "Descreva as quatro etapas sucessivas propostas por Vygotsky para o desenvolvimento da linguagem e do pensamento, desde o balbucio até a fala interior.",
+      "modelAnswer": "Segundo Vygotsky, o pensamento emergiria ontogeneticamente a partir do desenvolvimento da linguagem em etapas sucessivas. A primeira, o momento inicial natural ou primitivo, ocorre sob a forma de balbucio, choro e riso, com representações de objeto rudimentares. Em seguida, no estágio de experiências psicológicas ingênuas, a criança exibe curiosidade e interesse pelo nome das coisas, imitando-o até conseguir interagir com as pessoas ao redor, utilizando estruturas gramaticais corretamente. A terceira etapa é a fala egocêntrica, em que a criança gradualmente passa a brincar falando sozinha (consigo), utilizando a linguagem de forma representativa e imaginária para descrever seus próprios pensamentos, fantasias e representações mentais de objetos. Por fim, no estágio de crescimento interior, a criança passa a operar com fala interior, caracterizando o surgimento do pensamento verbal propriamente dito, com deduções lógicas e representações mentais e simbólicas — momento em que fala e pensamento se tornam uma atividade unificada.",
+      "keyPoints": [
+        {
+          "text": "Descreve o momento inicial (balbucio, choro, riso)",
+          "weight": 2,
+          "keywords": [
+            "balbucio",
+            "choro",
+            "riso"
+          ]
+        },
+        {
+          "text": "Descreve as experiências psicológicas ingênuas (nome das coisas)",
+          "weight": 2,
+          "keywords": [
+            "experiências psicológicas ingênuas",
+            "nome das coisas"
+          ]
+        },
+        {
+          "text": "Descreve a fala egocêntrica (falar sozinha, representativa e imaginária)",
+          "weight": 3,
+          "keywords": [
+            "fala egocêntrica",
+            "sozinha"
+          ]
+        },
+        {
+          "text": "Descreve o crescimento interior (fala interior, pensamento verbal)",
+          "weight": 3,
+          "keywords": [
+            "crescimento interior",
+            "fala interior",
+            "pensamento verbal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-017",
+      "topic": "Comparação entre Piaget e Vygotsky",
+      "question": "Compare as perspectivas de Piaget e Vygotsky sobre o papel do fator social no desenvolvimento cognitivo infantil.",
+      "modelAnswer": "Embora ambos os autores partam de uma epistemologia genética e reconheçam a importância do ambiente para o desenvolvimento cognitivo, há diferenças de ênfase relevantes entre suas teorias. Piaget constrói sua teoria sobre três bases: o fator biológico (maturação do sistema nervoso), as experiências e exercícios (interação direta da criança com objetos) e as interações sociais (linguagem, modelos e educação) — o social é uma das três bases, mas o desenvolvimento segue uma sequência de estágios universais, fortemente ancorados na maturação biológica e na ação direta da criança sobre o mundo. Já Vygotsky coloca a mediação social no centro de sua teoria: as crianças adentram à vida intelectual através daqueles que a cercam, e é justamente essa mediação social — formalizada no conceito de zona de desenvolvimento proximal — que permite à criança realizar aquilo que sozinha ainda não conseguiria. Enquanto Piaget descreve um processo mais individual de construção do conhecimento por meio da ação sobre objetos, Vygotsky enfatiza que o desenvolvimento do pensamento é fundamentalmente determinado pela linguagem e pelas relações sociais.",
+      "keyPoints": [
+        {
+          "text": "Explica que Piaget trata o social como uma das três bases, ao lado do biológico e das experiências",
+          "weight": 3,
+          "keywords": [
+            "Piaget",
+            "três bases",
+            "biológico"
+          ]
+        },
+        {
+          "text": "Explica que Vygotsky coloca a mediação social no centro da teoria",
+          "weight": 4,
+          "keywords": [
+            "Vygotsky",
+            "mediação social",
+            "centro"
+          ]
+        },
+        {
+          "text": "Contrasta construção individual (Piaget) x determinação pela linguagem/social (Vygotsky)",
+          "weight": 3,
+          "keywords": [
+            "individual",
+            "determinado pela linguagem"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27-28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-018",
+      "topic": "As três bases da teoria de Piaget",
+      "question": "Explique as três bases ou fatores essenciais sobre os quais Piaget construiu sua teoria do desenvolvimento cognitivo.",
+      "modelAnswer": "Piaget construiu sua teoria do desenvolvimento cognitivo sobre três bases ou fatores essenciais que interagem entre si. A primeira é o fator biológico, relacionado ao crescimento orgânico e à maturação do sistema nervoso — sem esse amadurecimento neurológico, certas capacidades cognitivas simplesmente não podem emergir, independentemente da estimulação ambiental. A segunda base são as experiências e exercícios, obtidos por meio da interação direta da criança com objetos do ambiente — é manipulando, explorando e testando o mundo físico que a criança constrói ativamente seus esquemas cognitivos. A terceira base são as interações sociais, exercidas por meio da linguagem, de modelos comportamentais e das consequências aplicadas pela educação formal e informal. A teoria piagetiana, portanto, não é puramente biológica nem puramente ambiental, mas interacionista: o desenvolvimento cognitivo resulta da combinação dinâmica desses três fatores ao longo do tempo.",
+      "keyPoints": [
+        {
+          "text": "Explica o fator biológico (maturação do sistema nervoso)",
+          "weight": 3,
+          "keywords": [
+            "biológico",
+            "maturação",
+            "sistema nervoso"
+          ]
+        },
+        {
+          "text": "Explica as experiências e exercícios (interação com objetos)",
+          "weight": 3,
+          "keywords": [
+            "experiências",
+            "exercícios",
+            "interação com objetos"
+          ]
+        },
+        {
+          "text": "Explica as interações sociais (linguagem, modelos, educação)",
+          "weight": 3,
+          "keywords": [
+            "interações sociais",
+            "linguagem",
+            "educação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-019",
+      "topic": "O estudo filogenético de Vygotsky sobre a linguagem",
+      "question": "Explique como o estudo filogenético da linguagem animal, realizado por Vygotsky, contribuiu para sua compreensão sobre a origem do pensamento humano.",
+      "modelAnswer": "Vygotsky, buscando compreender as raízes genéticas e histórico-sociais da linguagem e do pensamento, iniciou seus estudos por uma perspectiva filogenética, analisando a linguagem dos animais. Ele constatou que a linguagem primitiva animal se constitui por sons (grunhidos, barulhos, gritos) e gestos que movimentam outros animais — um tipo de comunicação muito semelhante às linguagens infantis e aos primeiros movimentos que a criança humana emite logo após o nascimento. Essa observação levou Vygotsky a concluir que, embora exista uma estreita correspondência entre pensamento e fala na vida adulta, a fala possui raízes genéticas (biológicas, ligadas à espécie) que antecedem o pensamento verbal propriamente dito. A partir dessa constatação, ele passou a estudar como o pensamento emergiria ontogeneticamente (ao longo do desenvolvimento individual da criança) a partir da evolução progressiva dessa linguagem primitiva, em etapas sucessivas que vão do balbugio até a fala interior plenamente estruturada.",
+      "keyPoints": [
+        {
+          "text": "Descreve a análise filogenética da linguagem animal (sons e gestos)",
+          "weight": 3,
+          "keywords": [
+            "filogenética",
+            "sons e gestos",
+            "linguagem animal"
+          ]
+        },
+        {
+          "text": "Explica a semelhança com a linguagem infantil primitiva",
+          "weight": 3,
+          "keywords": [
+            "linguagem infantil",
+            "semelhança",
+            "primeiros movimentos"
+          ]
+        },
+        {
+          "text": "Explica a conclusão sobre raízes genéticas da fala e sua relação com a emergência ontogenética do pensamento",
+          "weight": 3,
+          "keywords": [
+            "raízes genéticas",
+            "ontogeneticamente",
+            "pensamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-020",
+      "topic": "Conservação e reversibilidade no desenvolvimento cognitivo",
+      "question": "Explique os conceitos de conservação e reversibilidade na teoria de Piaget, indicando em qual estágio eles emergem e por que sua ausência caracteriza o estágio anterior.",
+      "modelAnswer": "A conservação é a capacidade de compreender que certas propriedades de um objeto (como quantidade, massa ou volume) permanecem constantes mesmo quando sua forma ou aparência é alterada — por exemplo, entender que a quantidade de água continua a mesma ao ser despejada de um copo baixo e largo para um copo alto e estreito. A reversibilidade é a capacidade de compreender que uma operação mental pode ser desfeita, retornando ao estado original (por exemplo, entender que se 3+4=7, então 7-4=3). Ambas as capacidades emergem no estágio operatório concreto, aproximadamente entre os 7 e os 11 anos de idade, e são acompanhadas por maior argumentação coerente, objetividade e diminuição do egocentrismo. Sua ausência é, justamente, uma das características centrais do estágio pré-operatório anterior: a criança pré-operatória, por ainda não ter desenvolvido essas capacidades, tende a julgar erroneamente que a quantidade de um líquido muda quando seu recipiente muda de formato, guiando-se apenas pela aparência perceptual imediata, sem conseguir operar mentalmente com reversibilidade.",
+      "keyPoints": [
+        {
+          "text": "Define conservação com exemplo (água em copos de formatos diferentes)",
+          "weight": 3,
+          "keywords": [
+            "conservação",
+            "quantidade",
+            "formato"
+          ]
+        },
+        {
+          "text": "Define reversibilidade com exemplo (operação matemática inversa)",
+          "weight": 3,
+          "keywords": [
+            "reversibilidade",
+            "desfazer",
+            "operação"
+          ]
+        },
+        {
+          "text": "Relaciona ao estágio operatório concreto e à ausência no pré-operatório",
+          "weight": 3,
+          "keywords": [
+            "operatório concreto",
+            "pré-operatório",
+            "ausência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-021",
+      "topic": "O cruzamento entre fala e atividade prática em Vygotsky",
+      "question": "Explique o que Vygotsky considera o momento mais significativo do desenvolvimento intelectual humano, relacionado ao cruzamento entre fala e atividade prática.",
+      "modelAnswer": "Vygotsky observa que, inicialmente, a fala e a atividade prática (a ação sobre o mundo) se desenvolvem como duas linhas distintas e independentes na criança pequena — ela age sobre os objetos de um jeito, e balbucia ou emite sons de outro, sem que essas duas capacidades estejam necessariamente conectadas. O momento mais significativo no percurso do desenvolvimento intelectual, segundo o autor, acontece justamente quando essas duas linhas se cruzam: a fala passa a orientar, planejar e acompanhar a atividade prática da criança, e a atividade prática passa a fornecer conteúdo concreto para a fala. Desse cruzamento nascem as formas puramente humanas de inteligência prática e abstrata — a criança passa a usar a linguagem não apenas para se comunicar, mas como instrumento de pensamento e de regulação da própria ação. É por isso que Vygotsky conclui que o desenvolvimento do pensamento é determinado pela linguagem: é o encontro entre fala e ação que possibilita as formas mais sofisticadas de cognição humana, distintas das capacidades meramente práticas compartilhadas com outros animais.",
+      "keyPoints": [
+        {
+          "text": "Explica que fala e atividade prática inicialmente seguem linhas independentes",
+          "weight": 3,
+          "keywords": [
+            "fala",
+            "atividade prática",
+            "linhas distintas"
+          ]
+        },
+        {
+          "text": "Explica o cruzamento entre essas linhas como o momento mais significativo",
+          "weight": 3,
+          "keywords": [
+            "cruzamento",
+            "momento mais significativo"
+          ]
+        },
+        {
+          "text": "Relaciona ao surgimento da inteligência prática e abstrata e à conclusão de que o pensamento é determinado pela linguagem",
+          "weight": 3,
+          "keywords": [
+            "inteligência prática",
+            "inteligência abstrata",
+            "pensamento determinado pela linguagem"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-022",
+      "topic": "Aplicação prática da zona de desenvolvimento proximal",
+      "question": "Um professor percebe que um aluno de 8 anos não consegue resolver sozinho problemas de divisão, mas consegue resolvê-los corretamente quando o professor faz perguntas orientadoras e dá pequenas dicas. Explique, com base na teoria de Vygotsky, como o professor deve estruturar sua intervenção pedagógica nesse caso.",
+      "modelAnswer": "O caso descrito ilustra exatamente a zona de desenvolvimento proximal do aluno: a divisão está além do seu desenvolvimento real (o que ele consegue fazer sozinho), mas dentro do seu desenvolvimento potencial (o que ele consegue fazer com mediação). O professor deve, então, estruturar sua intervenção oferecendo o suporte necessário — perguntas orientadoras, pequenas dicas, modelagem do raciocínio, ou até mesmo a colaboração com um colega mais experiente — para que o aluno consiga realizar a tarefa com esse apoio. É importante que esse suporte seja retirado gradualmente à medida que o aluno internaliza a habilidade, de modo que o que hoje é feito apenas com ajuda (desenvolvimento potencial) se torne, progressivamente, algo que o aluno consegue fazer sozinho (passando a integrar seu desenvolvimento real). Propor a tarefa sem qualquer suporte seria ineficaz, pois estaria além da zona de desenvolvimento proximal do aluno; por outro lado, insistir apenas em tarefas que ele já domina completamente sozinho não promoveria avanço algum, pois não exploraria seu potencial de aprendizagem.",
+      "keyPoints": [
+        {
+          "text": "Identifica a situação como zona de desenvolvimento proximal (entre real e potencial)",
+          "weight": 4,
+          "keywords": [
+            "zona de desenvolvimento proximal",
+            "desenvolvimento real",
+            "desenvolvimento potencial"
+          ]
+        },
+        {
+          "text": "Propõe formas de mediação (dicas, perguntas orientadoras, colaboração)",
+          "weight": 3,
+          "keywords": [
+            "dicas",
+            "perguntas orientadoras",
+            "mediação"
+          ]
+        },
+        {
+          "text": "Explica a retirada gradual do suporte e a internalização da habilidade",
+          "weight": 3,
+          "keywords": [
+            "retirada gradual",
+            "internalização",
+            "sozinho"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-023",
+      "topic": "As três fases do processamento da memória",
+      "question": "Descreva detalhadamente as três fases do processamento mnemônico (codificação, armazenamento e evocação), explicando a função de cada uma.",
+      "modelAnswer": "O processamento da memória compreende três fases sucessivas, cada uma cumprindo uma função distinta. A codificação corresponde à entrada dos conteúdos na memória, quando a energia dos estímulos é transformada em informações sensoriais e conduzida neurologicamente — o indivíduo converte os estímulos do ambiente em sinais que o sistema nervoso consegue processar adequadamente; nessa etapa, os processos sensoriais, perceptivos e atencionais são fundamentais para uma boa codificação. O armazenamento é a fase de conservação dos conteúdos adquiridos, que podem ser mantidos por diferentes períodos — de milissegundos, segundos, a curto ou a longo prazo; se as informações forem relevantes, podem ser retidas temporariamente, e, se usadas com frequência, são consolidadas, passando da memória de curto para a de longo prazo. Por fim, a evocação é a fase de recuperação dos conteúdos: quando precisamos de determinada informação ou há alguma pista no ambiente, podemos lembrar dela e recriar os cenários vivenciados.",
+      "keyPoints": [
+        {
+          "text": "Explica a codificação (transformação do estímulo em informação neural)",
+          "weight": 3,
+          "keywords": [
+            "codificação",
+            "estímulos",
+            "sensoriais"
+          ]
+        },
+        {
+          "text": "Explica o armazenamento (conservação, consolidação de curto para longo prazo)",
+          "weight": 3,
+          "keywords": [
+            "armazenamento",
+            "conservação",
+            "consolidação"
+          ]
+        },
+        {
+          "text": "Explica a evocação (recuperação, pistas do ambiente)",
+          "weight": 3,
+          "keywords": [
+            "evocação",
+            "recuperação",
+            "pistas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-024",
+      "topic": "O modelo de memória de trabalho",
+      "question": "Explique os quatro componentes do modelo de memória de trabalho apresentado no material: executivo central, alça fonológica, esboço visuoespacial e buffer episódico.",
+      "modelAnswer": "O modelo de memória de trabalho é composto por quatro componentes interligados. O executivo central atua como controlador atencional, desempenhando funções como a atenção seletiva (focar em informações relevantes e inibir distratoras), a flexibilidade mental (coordenar múltiplas atividades cognitivas simultaneamente), a seleção e execução de planos e estratégias, e a evocação de informações da memória de longo prazo. A alça fonológica é um subsistema especializado que armazena e processa informações codificadas verbalmente, apresentadas tanto por vias auditivas quanto visuais. O esboço visuoespacial realiza o processamento e a manutenção de informações visuais e espaciais referentes a objetos e às relações espaciais entre eles, desempenhando papel importante na formação e manipulação de imagens mentais. Por fim, o buffer episódico (ou retentor episódico), componente acrescentado posteriormente ao modelo, é um sistema de armazenamento temporário e capacidade limitada, acessível à consciência, responsável por integrar as informações mantidas na memória de trabalho com aquelas provenientes dos sistemas de longo prazo (episódica e semântica), formando uma representação integrada única — permitindo gerenciar quantidades de informação que ultrapassam a capacidade isolada da alça fonológica e do esboço visuoespacial.",
+      "keyPoints": [
+        {
+          "text": "Explica o executivo central (controlador atencional)",
+          "weight": 3,
+          "keywords": [
+            "executivo central",
+            "atenção seletiva",
+            "flexibilidade mental"
+          ]
+        },
+        {
+          "text": "Explica a alça fonológica e o esboço visuoespacial",
+          "weight": 3,
+          "keywords": [
+            "alça fonológica",
+            "esboço visuoespacial"
+          ]
+        },
+        {
+          "text": "Explica o buffer episódico e sua função integradora",
+          "weight": 3,
+          "keywords": [
+            "buffer episódico",
+            "integração",
+            "memória de longo prazo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-025",
+      "topic": "Priming e seus subtipos",
+      "question": "Explique o que é a memória do tipo priming (pré-ativação) e diferencie seus dois subtipos: representação perceptual e influência inconsciente.",
+      "modelAnswer": "O priming (ou 'pré-ativação') é um tipo de memória implícita adquirida e evocada por meio de dicas — que podem ser diversos estímulos, como fragmentos de uma imagem, uma palavra, gestos ou odores. Esse fenômeno se divide em dois subtipos. A representação perceptual, também chamada de memória de representação perceptual, é capaz de reter a imagem de um evento antes mesmo da compreensão do que ele significa — ou seja, o sistema perceptivo registra e é influenciado pela forma do estímulo, independentemente do seu significado consciente. Já a influência inconsciente se refere ao efeito que a exposição prévia a um estímulo exerce sobre o processamento de um estímulo subsequente relacionado, como se o processamento da segunda informação estivesse associado, de forma latente, ao estímulo inicial — nesse caso, o comportamento da pessoa muda a partir de estímulos anteriores dos quais ela sequer se deu conta conscientemente. Em ambos os subtipos, a característica central do priming é que a memória é evocada sem que haja necessariamente uma lembrança consciente do estímulo original.",
+      "keyPoints": [
+        {
+          "text": "Define priming como memória implícita evocada por dicas",
+          "weight": 3,
+          "keywords": [
+            "priming",
+            "pré-ativação",
+            "dicas"
+          ]
+        },
+        {
+          "text": "Explica a representação perceptual (retém imagem antes da compreensão)",
+          "weight": 3,
+          "keywords": [
+            "representação perceptual",
+            "imagem",
+            "antes da compreensão"
+          ]
+        },
+        {
+          "text": "Explica a influência inconsciente (exposição prévia afeta processamento posterior)",
+          "weight": 3,
+          "keywords": [
+            "influência inconsciente",
+            "exposição prévia",
+            "estímulo subsequente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22-23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-026",
+      "topic": "Memória associativa e aprendizado não associativo",
+      "question": "Compare a memória implícita associativa (relacionada ao condicionamento) com o aprendizado não associativo (habituação e sensibilização), explicando as diferenças entre esses processos.",
+      "modelAnswer": "A memória implícita associativa é aquela estimulada por meio de processos de condicionamento, envolvendo a associação entre dois ou mais eventos. Pode ocorrer via condicionamento clássico, quando dois ou mais estímulos são emparelhados repetidamente (por exemplo, um som associado à comida, levando o organismo a responder ao som isoladamente), ou via condicionamento operante, quando uma resposta comportamental é reforçada de forma contextual, aumentando sua frequência futura. Já o aprendizado não associativo não depende da associação entre dois estímulos distintos, mas sim da repetição de um único e mesmo estímulo, e forma um último tipo de memória que abrange dois processos opostos: a habituação, que corresponde à atenuação (diminuição) de uma resposta pela repetição da mesma estimulação — por exemplo, aprender a ignorar um latido constante de um cão que não representa risco; e a sensibilização, que corresponde ao aumento dessa resposta também pela repetição da estimulação, frequentemente observada após eventos intensos ou aversivos. A diferença central, portanto, está em que a memória associativa depende da relação entre estímulos distintos (ou entre estímulo e resposta), enquanto o aprendizado não associativo depende apenas da repetição de um único estímulo ao longo do tempo.",
+      "keyPoints": [
+        {
+          "text": "Explica a memória associativa via condicionamento clássico e operante",
+          "weight": 3,
+          "keywords": [
+            "condicionamento clássico",
+            "condicionamento operante",
+            "associativa"
+          ]
+        },
+        {
+          "text": "Explica a habituação (atenuação da resposta)",
+          "weight": 3,
+          "keywords": [
+            "habituação",
+            "atenuação"
+          ]
+        },
+        {
+          "text": "Explica a sensibilização (aumento da resposta) e a diferença central entre associativo e não associativo",
+          "weight": 3,
+          "keywords": [
+            "sensibilização",
+            "aumento",
+            "não associativo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-027",
+      "topic": "Fatores que influenciam a formação da memória",
+      "question": "Explique os quatro fatores citados no material que influenciam a nossa capacidade de reter informações na memória: nível de consciência/atenção, estado emocional, motivação e contexto.",
+      "modelAnswer": "A nossa capacidade de reter informações na memória depende de um conjunto de fatores comuns. O nível de consciência e a atenção no momento em que a memória está se formando são determinantes: a atenção que damos a determinado estímulo interfere diretamente em como vamos armazená-lo e por quanto tempo. O estado emocional funciona como um 'background' de emoções presente no momento da memorização; memórias que possuem um vínculo forte com esse pano de fundo emocional se formam com mais facilidade e também são evocadas futuramente com mais facilidade, o que explica por que eventos marcantes emocionalmente costumam ser lembrados com riqueza de detalhes. A motivação diz respeito ao quanto a pessoa dá importância ao estímulo que está tentando reter — quanto maior a relevância percebida, maior a chance de retenção eficaz. Por fim, o contexto se refere a como todo o ambiente em que a pessoa está inserida no momento da memorização influencia os processos mnemônicos, podendo inclusive servir como pista facilitadora para a evocação futura da informação, quando o mesmo contexto é reencontrado.",
+      "keyPoints": [
+        {
+          "text": "Explica o papel da atenção/nível de consciência",
+          "weight": 2,
+          "keywords": [
+            "atenção",
+            "nível de consciência"
+          ]
+        },
+        {
+          "text": "Explica o estado emocional como facilitador da retenção e evocação",
+          "weight": 3,
+          "keywords": [
+            "estado emocional",
+            "background",
+            "vínculo emocional"
+          ]
+        },
+        {
+          "text": "Explica a motivação (importância do estímulo)",
+          "weight": 2,
+          "keywords": [
+            "motivação",
+            "importância"
+          ]
+        },
+        {
+          "text": "Explica o contexto e seu papel como pista",
+          "weight": 3,
+          "keywords": [
+            "contexto",
+            "ambiente",
+            "pista"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-028",
+      "topic": "Memória sensorial e sua função na cadeia mnemônica",
+      "question": "Explique o que é a memória sensorial, suas características e o papel que ela desempenha como porta de entrada para a memória de curto prazo.",
+      "modelAnswer": "A memória sensorial se refere aos diferentes órgãos dos sentidos (como a memória auditiva ou a memória visual), caracterizando-se por um armazenamento ultrarrápido das informações, que dura apenas milissegundos. É um tipo de memória muito breve que reage diretamente aos inputs recebidos pelos órgãos dos sentidos, funcionando como uma espécie de 'flash' do mundo, permitindo que experimentemos a realidade como um fluxo contínuo em vez de sensações fragmentadas e distintas. Essa informação automática pode ser rapidamente perdida caso a pessoa não dê atenção a ela. No entanto, se a pessoa direciona sua atenção a esse conteúdo, ele pode ser passado adiante na cadeia mnemônica, sendo transferido para a memória de curto prazo, que, por sua vez, retém informações que precisam ser usadas ou testadas imediatamente, com duração de segundos a poucos minutos. Assim, a memória sensorial funciona como a primeira 'porta de entrada' do processamento mnemônico, filtrando, por meio da atenção, quais estímulos merecem prosseguir para etapas de retenção mais duradouras.",
+      "keyPoints": [
+        {
+          "text": "Define memória sensorial (ligada aos órgãos dos sentidos, ultrarrápida)",
+          "weight": 3,
+          "keywords": [
+            "memória sensorial",
+            "órgãos dos sentidos",
+            "ultrarrápido"
+          ]
+        },
+        {
+          "text": "Explica que pode ser perdida ou passada adiante conforme a atenção dada",
+          "weight": 3,
+          "keywords": [
+            "atenção",
+            "perdida",
+            "passada adiante"
+          ]
+        },
+        {
+          "text": "Relaciona à memória de curto prazo como próxima etapa",
+          "weight": 3,
+          "keywords": [
+            "memória de curto prazo",
+            "porta de entrada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-029",
+      "topic": "Memória procedural: características e importância",
+      "question": "Explique o que é a memória procedural, suas principais características e por que ela é considerada uma memória implícita e inflexível.",
+      "modelAnswer": "A memória procedural (ou de procedimento) é um tipo de memória não declarativa (implícita) que guarda hábitos motores, procedimentos e habilidades adquiridos por meio da prática repetida — como dirigir um carro, passar uma roupa, pintar uma parede ou executar uma peça de piano ensaiada desde a infância. Ela é considerada implícita porque não permite uma evocação consciente e verbalizável das informações armazenadas: a pessoa consegue executar a habilidade, mas frequentemente não consegue descrever verbalmente, em detalhes, cada etapa do processo motor envolvido. Além disso, esse tipo de memória é caracterizado por movimentos automáticos com pouco processamento consciente, sendo mais inflexível e estável do que as memórias declarativas, pois está intimamente relacionado às condições originais em que o aprendizado ocorreu, sendo sempre evocado dentro dessas condições. Por essa razão, habilidades procedurais bem consolidadas, como andar de bicicleta, tendem a ser extremamente resistentes ao esquecimento, mesmo após longos períodos sem prática.",
+      "keyPoints": [
+        {
+          "text": "Define memória procedural (hábitos motores, procedimentos, habilidades)",
+          "weight": 3,
+          "keywords": [
+            "memória procedural",
+            "hábitos motores",
+            "habilidades"
+          ]
+        },
+        {
+          "text": "Explica por que é implícita (não verbalizável)",
+          "weight": 3,
+          "keywords": [
+            "implícita",
+            "não verbalizável",
+            "não declarativa"
+          ]
+        },
+        {
+          "text": "Explica a inflexibilidade e estabilidade relacionadas às condições originais de aprendizado",
+          "weight": 3,
+          "keywords": [
+            "inflexível",
+            "estável",
+            "condições originais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-030",
+      "topic": "Memória recente/remota versus memória de curto/longo prazo",
+      "question": "Explique a diferença entre os pares de conceitos 'memória recente/memória remota' e 'memória de curto prazo/memória de longo prazo', que frequentemente são confundidos.",
+      "modelAnswer": "Embora frequentemente confundidos, esses dois pares de conceitos se referem a dimensões diferentes da memória. Os termos memória recente e memória remota se referem ao tempo em que a informação foi adquirida — isto é, a quando a pessoa memorizou aquela informação: a memória recente é aquela adquirida há pouco tempo, enquanto a remota se refere ao que foi retido há muito tempo, como na infância. Já os termos curto prazo e longo prazo se referem à duração ou à manutenção da informação retida — ou seja, por quanto tempo essa informação permanece disponível na memória, independentemente de quando foi adquirida. A distinção fica clara com um exemplo: uma pessoa pode ter decorado, há dez anos, algumas informações especificamente para realizar uma prova, mas hoje já não se lembra mais desse conteúdo. Nesse caso, trata-se de uma memória remota (adquirida há muito tempo) de curto prazo (não foi consolidada e mantida ao longo do tempo, sendo perdida). Assim, memória recente pode ser tanto de curto quanto de longo prazo (dependendo de sua consolidação), e o mesmo vale para a memória remota.",
+      "keyPoints": [
+        {
+          "text": "Define memória recente/remota como referente ao tempo de aquisição",
+          "weight": 3,
+          "keywords": [
+            "memória recente",
+            "memória remota",
+            "tempo de aquisição"
+          ]
+        },
+        {
+          "text": "Define curto/longo prazo como referente à duração da retenção",
+          "weight": 3,
+          "keywords": [
+            "curto prazo",
+            "longo prazo",
+            "duração"
+          ]
+        },
+        {
+          "text": "Usa o exemplo da prova de dez anos atrás para ilustrar a distinção",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "dez anos",
+            "não consolidada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "18"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-031",
+      "topic": "Memória e modificação de comportamento",
+      "question": "Explique como o conjunto de processos entre memória e aprendizagem pode desencadear a modificação de comportamento, segundo o material estudado.",
+      "modelAnswer": "Segundo o material, os processos de memória e aprendizagem estão intimamente conectados: a aprendizagem é a aquisição de conhecimentos, e a memória é a retenção desse aprendizado para uso futuro — sem a capacidade de reter informações, não seria possível tirar proveito eficaz das experiências vividas. Esse conjunto de processos entre memória e aprendizagem pode desencadear diretamente a modificação de comportamento: os comportamentos não surgem do nada, mas ocorrem a partir daquilo que a história do indivíduo proporcionou aprender, com base também em determinações genéticas. Isto é, os seres humanos possuem um banco de informações formado tanto pela herança biológica quanto pelas experiências vivenciadas, e esse banco de memórias serve de base para a emissão de comportamentos futuros. No contato com novos fenômenos ou fatores, esse sistema pode reestruturar-se ou incorporar novas informações ao banco de memórias existente, e, desse encadeamento de processos, surge uma resposta de saída (output) cognitiva ou motora na pessoa — ou seja, novos comportamentos emergem a partir da integração entre a experiência vivida, sua memorização e sua posterior evocação diante de situações similares.",
+      "keyPoints": [
+        {
+          "text": "Explica a relação entre aprendizagem (aquisição) e memória (retenção)",
+          "weight": 3,
+          "keywords": [
+            "aprendizagem",
+            "aquisição",
+            "retenção"
+          ]
+        },
+        {
+          "text": "Explica que comportamentos não surgem do nada, mas da história e memórias do indivíduo",
+          "weight": 3,
+          "keywords": [
+            "comportamentos",
+            "história",
+            "banco de informações"
+          ]
+        },
+        {
+          "text": "Explica o encadeamento (nova informação → reestruturação → novo comportamento/output)",
+          "weight": 3,
+          "keywords": [
+            "reestruturação",
+            "output",
+            "novo comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17-18"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-032",
+      "topic": "Análise de caso: múltiplos tipos de memória em uma mesma situação",
+      "question": "Uma pessoa, ao visitar a casa onde morou na infância após muitos anos, imediatamente reconhece o cheiro da casa (sentindo uma onda de emoções antigas), lembra automaticamente onde ficava o interruptor de luz da sala sem precisar procurar, e recorda verbalmente uma festa de aniversário específica que ocorreu ali quando tinha 8 anos. Identifique e explique os diferentes tipos de memória envolvidos nessa situação.",
+      "modelAnswer": "Essa situação ilustra a atuação simultânea de diferentes sistemas de memória. O reconhecimento imediato do cheiro da casa, associado a uma onda de emoções antigas sem necessidade de esforço consciente de recordação, envolve a memória implícita, particularmente ligada ao priming (o cheiro funciona como uma dica sensorial que reativa associações antigas) e ao componente emocional da memória, fortemente vinculado ao estado emocional presente no momento original da memorização. A lembrança automática da localização do interruptor de luz, sem necessidade de reflexão consciente, ilustra a memória procedural (não declarativa): um hábito motor-espacial automatizado pela repetição, evocado sem verbalização. Já a recordação verbal e detalhada da festa de aniversário específica, incluindo quando e onde ocorreu, é um exemplo clássico de memória episódica (declarativa, autobiográfica): um evento pessoal datado, conscientemente acessível e relatável. Essa análise demonstra como diferentes sistemas de memória — implícitos e explícitos, emocionais e procedurais — coexistem e são ativados simultaneamente diante de um mesmo contexto rico em estímulos.",
+      "keyPoints": [
+        {
+          "text": "Identifica o cheiro como priming/memória emocional implícita",
+          "weight": 3,
+          "keywords": [
+            "cheiro",
+            "priming",
+            "memória emocional"
+          ]
+        },
+        {
+          "text": "Identifica a localização do interruptor como memória procedural",
+          "weight": 3,
+          "keywords": [
+            "interruptor",
+            "memória procedural",
+            "automatizado"
+          ]
+        },
+        {
+          "text": "Identifica a festa de aniversário como memória episódica",
+          "weight": 3,
+          "keywords": [
+            "festa de aniversário",
+            "memória episódica",
+            "evento datado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "20-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -1801,6 +4029,636 @@
       },
       "subject": "Neurociência cognitiva: lobos cerebrais e neuroplasticidade",
       "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-oral-013",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que é assimilação, na teoria de Piaget?",
+      "modelAnswer": "É o processo pelo qual a criança incorpora uma nova informação a um esquema cognitivo que ela já domina, tentando encaixar o novo objeto no que já conhece.",
+      "keyPoints": [
+        {
+          "text": "Define assimilação (incorporar a esquema existente)",
+          "weight": 3,
+          "keywords": [
+            "assimilação",
+            "esquema",
+            "incorporar"
+          ]
+        },
+        {
+          "text": "Menciona que é um processo de adaptação de Piaget",
+          "weight": 3,
+          "keywords": [
+            "Piaget",
+            "adaptação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é assimilação, na teoria de Piaget? É o processo pelo qual a criança incorpora uma nova informação a um esquema cognitivo que ela já domina, tentando encaixar o novo objeto no que já conhece."
+    },
+    {
+      "id": "tcc-oral-014",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que é acomodação, na teoria de Piaget?",
+      "modelAnswer": "É o processo pelo qual a criança cria um novo esquema cognitivo quando a assimilação a um esquema já existente não é suficiente para comportar uma nova informação.",
+      "keyPoints": [
+        {
+          "text": "Define acomodação (criar novo esquema)",
+          "weight": 3,
+          "keywords": [
+            "acomodação",
+            "novo esquema"
+          ]
+        },
+        {
+          "text": "Contrasta com a assimilação",
+          "weight": 3,
+          "keywords": [
+            "assimilação",
+            "não suficiente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é acomodação, na teoria de Piaget? É o processo pelo qual a criança cria um novo esquema cognitivo quando a assimilação a um esquema já existente não é suficiente para comportar uma nova informação."
+    },
+    {
+      "id": "tcc-oral-015",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Quais são os quatro estágios do desenvolvimento cognitivo de Piaget?",
+      "modelAnswer": "Sensório-motor, pré-operatório, operatório concreto e operatório formal.",
+      "keyPoints": [
+        {
+          "text": "Nomeia os quatro estágios corretamente e na ordem",
+          "weight": 6,
+          "keywords": [
+            "sensório-motor",
+            "pré-operatório",
+            "operatório concreto",
+            "operatório formal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são os quatro estágios do desenvolvimento cognitivo de Piaget? Sensório-motor, pré-operatório, operatório concreto e operatório formal."
+    },
+    {
+      "id": "tcc-oral-016",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que caracteriza o estágio pré-operatório de Piaget?",
+      "modelAnswer": "A criança já tem capacidade de representação graças à linguagem, mas ainda é egocêntrica, incoerente e sem reversibilidade no pensamento.",
+      "keyPoints": [
+        {
+          "text": "Menciona a linguagem/representação",
+          "weight": 3,
+          "keywords": [
+            "linguagem",
+            "representação"
+          ]
+        },
+        {
+          "text": "Menciona o egocentrismo e a falta de reversibilidade",
+          "weight": 3,
+          "keywords": [
+            "egocentrismo",
+            "reversibilidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o estágio pré-operatório de Piaget? A criança já tem capacidade de representação graças à linguagem, mas ainda é egocêntrica, incoerente e sem reversibilidade no pensamento."
+    },
+    {
+      "id": "tcc-oral-017",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que é a zona de desenvolvimento proximal de Vygotsky?",
+      "modelAnswer": "É o espaço entre o que a criança consegue fazer sozinha (desenvolvimento real) e o que ela consegue fazer com a ajuda de outra pessoa (desenvolvimento potencial).",
+      "keyPoints": [
+        {
+          "text": "Define como espaço entre desenvolvimento real e potencial",
+          "weight": 3,
+          "keywords": [
+            "desenvolvimento real",
+            "desenvolvimento potencial"
+          ]
+        },
+        {
+          "text": "Menciona a mediação de outra pessoa",
+          "weight": 3,
+          "keywords": [
+            "ajuda",
+            "mediação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a zona de desenvolvimento proximal de Vygotsky? É o espaço entre o que a criança consegue fazer sozinha (desenvolvimento real) e o que ela consegue fazer com a ajuda de outra pessoa (desenvolvimento potencial)."
+    },
+    {
+      "id": "tcc-oral-018",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que é a fala egocêntrica, segundo Vygotsky?",
+      "modelAnswer": "É o estágio em que a criança passa a brincar falando sozinha, usando a linguagem de forma representativa e imaginária para descrever seus próprios pensamentos e fantasias.",
+      "keyPoints": [
+        {
+          "text": "Define fala egocêntrica (falar sozinha)",
+          "weight": 3,
+          "keywords": [
+            "falar sozinha",
+            "brincar"
+          ]
+        },
+        {
+          "text": "Menciona a função representativa/imaginária",
+          "weight": 3,
+          "keywords": [
+            "representativa",
+            "imaginária",
+            "pensamentos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a fala egocêntrica, segundo Vygotsky? É o estágio em que a criança passa a brincar falando sozinha, usando a linguagem de forma representativa e imaginária para descrever seus próprios pensamentos e fantasias."
+    },
+    {
+      "id": "tcc-oral-019",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que caracteriza o estágio de crescimento interior de Vygotsky?",
+      "modelAnswer": "É o estágio em que a criança passa a operar com fala interior, surgindo o pensamento verbal, as deduções lógicas e as representações mentais e simbólicas.",
+      "keyPoints": [
+        {
+          "text": "Menciona a fala interior",
+          "weight": 3,
+          "keywords": [
+            "fala interior"
+          ]
+        },
+        {
+          "text": "Menciona o surgimento do pensamento verbal",
+          "weight": 3,
+          "keywords": [
+            "pensamento verbal",
+            "deduções lógicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o estágio de crescimento interior de Vygotsky? É o estágio em que a criança passa a operar com fala interior, surgindo o pensamento verbal, as deduções lógicas e as representações mentais e simbólicas."
+    },
+    {
+      "id": "tcc-oral-020",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Quais são as três bases da teoria do desenvolvimento cognitivo de Piaget?",
+      "modelAnswer": "O biológico (maturação do sistema nervoso), as experiências e exercícios (interação com objetos) e as interações sociais (linguagem, modelos e educação).",
+      "keyPoints": [
+        {
+          "text": "Nomeia as três bases corretamente",
+          "weight": 6,
+          "keywords": [
+            "biológico",
+            "experiências",
+            "interações sociais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as três bases da teoria do desenvolvimento cognitivo de Piaget? O biológico (maturação do sistema nervoso), as experiências e exercícios (interação com objetos) e as interações sociais (linguagem, modelos e educação)."
+    },
+    {
+      "id": "tcc-oral-021",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "O que caracteriza o estágio operatório concreto de Piaget?",
+      "modelAnswer": "A criança alcança o raciocínio lógico aplicado a problemas reais, com conservação, reversibilidade e diminuição do egocentrismo, entre os 7 e 11 anos.",
+      "keyPoints": [
+        {
+          "text": "Menciona conservação e reversibilidade",
+          "weight": 3,
+          "keywords": [
+            "conservação",
+            "reversibilidade"
+          ]
+        },
+        {
+          "text": "Menciona a faixa etária (7-11 anos) e a diminuição do egocentrismo",
+          "weight": 3,
+          "keywords": [
+            "7 a 11",
+            "diminuição do egocentrismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o estágio operatório concreto de Piaget? A criança alcança o raciocínio lógico aplicado a problemas reais, com conservação, reversibilidade e diminuição do egocentrismo, entre os 7 e 11 anos."
+    },
+    {
+      "id": "tcc-oral-022",
+      "topic": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "question": "Qual a principal diferença entre a ênfase de Piaget e a de Vygotsky no desenvolvimento cognitivo?",
+      "modelAnswer": "Piaget enfatiza estágios universais ligados à maturação biológica e à ação da criança sobre objetos. Vygotsky enfatiza a mediação social e o papel do outro, por meio da zona de desenvolvimento proximal.",
+      "keyPoints": [
+        {
+          "text": "Explica a ênfase biológica/individual de Piaget",
+          "weight": 3,
+          "keywords": [
+            "Piaget",
+            "maturação",
+            "estágios"
+          ]
+        },
+        {
+          "text": "Explica a ênfase social de Vygotsky",
+          "weight": 3,
+          "keywords": [
+            "Vygotsky",
+            "mediação social"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "27-28"
+      },
+      "subject": "Desenvolvimento cognitivo (Piaget e Vygotsky)",
+      "difficulty": "dificil",
+      "miniLesson": "Qual a principal diferença entre a ênfase de Piaget e a de Vygotsky no desenvolvimento cognitivo? Piaget enfatiza estágios universais ligados à maturação biológica e à ação da criança sobre objetos. Vygotsky enfatiza a mediação social e o papel do outro, por meio da zona de desenvolvimento proximal."
+    },
+    {
+      "id": "tcc-oral-023",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é a memória sensorial?",
+      "modelAnswer": "É um tipo de memória muito breve, ligada aos órgãos dos sentidos, com armazenamento ultrarrápido (milissegundos) das informações captadas.",
+      "keyPoints": [
+        {
+          "text": "Define como ligada aos órgãos dos sentidos",
+          "weight": 3,
+          "keywords": [
+            "órgãos dos sentidos",
+            "sensorial"
+          ]
+        },
+        {
+          "text": "Menciona a brevidade (milissegundos)",
+          "weight": 3,
+          "keywords": [
+            "ultrarrápido",
+            "milissegundos",
+            "breve"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a memória sensorial? É um tipo de memória muito breve, ligada aos órgãos dos sentidos, com armazenamento ultrarrápido (milissegundos) das informações captadas."
+    },
+    {
+      "id": "tcc-oral-024",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é a alça fonológica, no modelo de memória de trabalho?",
+      "modelAnswer": "É o subsistema que armazena e processa informações codificadas verbalmente, apresentadas por vias auditivas ou visuais.",
+      "keyPoints": [
+        {
+          "text": "Define como armazenamento de informação verbal",
+          "weight": 3,
+          "keywords": [
+            "informação verbal",
+            "codificadas verbalmente"
+          ]
+        },
+        {
+          "text": "Menciona vias auditivas ou visuais",
+          "weight": 3,
+          "keywords": [
+            "auditivas",
+            "visuais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O que é a alça fonológica, no modelo de memória de trabalho? É o subsistema que armazena e processa informações codificadas verbalmente, apresentadas por vias auditivas ou visuais."
+    },
+    {
+      "id": "tcc-oral-025",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é o esboço visuoespacial?",
+      "modelAnswer": "É o subsistema da memória de trabalho responsável pelo processamento e manutenção de informações visuais e espaciais, e pela manipulação de imagens mentais.",
+      "keyPoints": [
+        {
+          "text": "Define como processamento de informações visuais e espaciais",
+          "weight": 3,
+          "keywords": [
+            "visuais",
+            "espaciais"
+          ]
+        },
+        {
+          "text": "Menciona a manipulação de imagens mentais",
+          "weight": 3,
+          "keywords": [
+            "imagens mentais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O que é o esboço visuoespacial? É o subsistema da memória de trabalho responsável pelo processamento e manutenção de informações visuais e espaciais, e pela manipulação de imagens mentais."
+    },
+    {
+      "id": "tcc-oral-026",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é o buffer episódico?",
+      "modelAnswer": "É o componente da memória de trabalho responsável por integrar as informações mantidas temporariamente com aquelas da memória de longo prazo, formando uma representação única.",
+      "keyPoints": [
+        {
+          "text": "Define como componente integrador",
+          "weight": 3,
+          "keywords": [
+            "integrar",
+            "buffer episódico"
+          ]
+        },
+        {
+          "text": "Menciona a ligação com a memória de longo prazo",
+          "weight": 3,
+          "keywords": [
+            "memória de longo prazo",
+            "representação única"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "19"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "O que é o buffer episódico? É o componente da memória de trabalho responsável por integrar as informações mantidas temporariamente com aquelas da memória de longo prazo, formando uma representação única."
+    },
+    {
+      "id": "tcc-oral-027",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é a memória procedural? Dê um exemplo.",
+      "modelAnswer": "É a memória implícita que guarda hábitos motores, procedimentos e habilidades aprendidos por prática, como dirigir um carro ou tocar um instrumento.",
+      "keyPoints": [
+        {
+          "text": "Define como memória implícita de hábitos/habilidades",
+          "weight": 3,
+          "keywords": [
+            "implícita",
+            "hábitos",
+            "habilidades"
+          ]
+        },
+        {
+          "text": "Dá um exemplo correto",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "dirigir",
+            "instrumento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "21-22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a memória procedural? Dê um exemplo. É a memória implícita que guarda hábitos motores, procedimentos e habilidades aprendidos por prática, como dirigir um carro ou tocar um instrumento."
+    },
+    {
+      "id": "tcc-oral-028",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é priming?",
+      "modelAnswer": "É um tipo de memória implícita adquirida e evocada por meio de dicas, como fragmentos de imagem, palavras, gestos ou odores.",
+      "keyPoints": [
+        {
+          "text": "Define priming como memória implícita evocada por dicas",
+          "weight": 3,
+          "keywords": [
+            "priming",
+            "dicas"
+          ]
+        },
+        {
+          "text": "Cita exemplos de dicas",
+          "weight": 3,
+          "keywords": [
+            "imagem",
+            "palavra",
+            "gestos",
+            "odores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "22"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "medio",
+      "miniLesson": "O que é priming? É um tipo de memória implícita adquirida e evocada por meio de dicas, como fragmentos de imagem, palavras, gestos ou odores."
+    },
+    {
+      "id": "tcc-oral-029",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é habituação?",
+      "modelAnswer": "É a atenuação (diminuição) de uma resposta pela repetição de uma mesma estimulação, como aprender a ignorar um barulho constante e inofensivo.",
+      "keyPoints": [
+        {
+          "text": "Define habituação como diminuição da resposta pela repetição",
+          "weight": 3,
+          "keywords": [
+            "atenuação",
+            "diminuição",
+            "repetição"
+          ]
+        },
+        {
+          "text": "Dá um exemplo",
+          "weight": 3,
+          "keywords": [
+            "exemplo",
+            "barulho",
+            "ignorar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "O que é habituação? É a atenuação (diminuição) de uma resposta pela repetição de uma mesma estimulação, como aprender a ignorar um barulho constante e inofensivo."
+    },
+    {
+      "id": "tcc-oral-030",
+      "topic": "Processos cognitivos: memória",
+      "question": "O que é sensibilização?",
+      "modelAnswer": "É o aumento de uma resposta pela repetição de uma mesma estimulação, processo oposto à habituação, comum após eventos intensos.",
+      "keyPoints": [
+        {
+          "text": "Define sensibilização como aumento da resposta",
+          "weight": 3,
+          "keywords": [
+            "aumento",
+            "resposta"
+          ]
+        },
+        {
+          "text": "Contrasta com a habituação",
+          "weight": 3,
+          "keywords": [
+            "oposto",
+            "habituação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "23"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "O que é sensibilização? É o aumento de uma resposta pela repetição de uma mesma estimulação, processo oposto à habituação, comum após eventos intensos."
+    },
+    {
+      "id": "tcc-oral-031",
+      "topic": "Processos cognitivos: memória",
+      "question": "Qual a diferença entre memória recente/remota e memória de curto/longo prazo?",
+      "modelAnswer": "Recente e remota se referem a quando a informação foi adquirida. Curto e longo prazo se referem a quanto tempo a informação é mantida.",
+      "keyPoints": [
+        {
+          "text": "Define recente/remota (tempo de aquisição)",
+          "weight": 3,
+          "keywords": [
+            "quando foi adquirida",
+            "recente",
+            "remota"
+          ]
+        },
+        {
+          "text": "Define curto/longo prazo (duração da retenção)",
+          "weight": 3,
+          "keywords": [
+            "duração",
+            "mantida",
+            "curto prazo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "18"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "dificil",
+      "miniLesson": "Qual a diferença entre memória recente/remota e memória de curto/longo prazo? Recente e remota se referem a quando a informação foi adquirida. Curto e longo prazo se referem a quanto tempo a informação é mantida."
+    },
+    {
+      "id": "tcc-oral-032",
+      "topic": "Processos cognitivos: memória",
+      "question": "Quais são as três fases do processamento da memória?",
+      "modelAnswer": "Codificação (entrada dos conteúdos), armazenamento (conservação) e evocação (recuperação dos conteúdos).",
+      "keyPoints": [
+        {
+          "text": "Nomeia as três fases corretamente",
+          "weight": 6,
+          "keywords": [
+            "codificação",
+            "armazenamento",
+            "evocação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "17"
+      },
+      "subject": "Processos cognitivos: memória",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três fases do processamento da memória? Codificação (entrada dos conteúdos), armazenamento (conservação) e evocação (recuperação dos conteúdos)."
     }
   ]
 }
