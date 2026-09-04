@@ -2605,6 +2605,1414 @@
       "subject": "Sistema límbico",
       "difficulty": "dificil",
       "miniLesson": "Diferentemente da doença de Alzheimer, na qual placas senis e emaranhados neurofibrilares estão dispersos por todo o córtex cerebral, a doença de Pick é caracterizada por: A doença de Pick é uma demência pré-senil (entre 40 e 60 anos) em que o comportamento, o humor e a personalidade são afetados antes da memória, com atrofia acentuada e focal no sistema límbico, notadamente no giro denteado e no hipocampo."
+    },
+    {
+      "id": "neuro-obj-122",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, os nervos espinhais apresentam três bainhas conjuntivas que conferem grande resistência ao nervo. São elas:",
+      "options": {
+        "a": "Epineuro, perineuro e endoneuro",
+        "b": "Dura-máter, aracnoide e pia-máter",
+        "c": "Epicárdio, miocárdio e endocárdio",
+        "d": "Epitélio, derme e hipoderme",
+        "e": "Substância branca, substância cinzenta e líquor"
+      },
+      "correct": "a",
+      "explanation": "Os nervos apresentam três bainhas conjuntivas — epineuro, perineuro e endoneuro — que conferem grande resistência ao nervo, sendo considerado um importante conduto tubular organizado que orienta o fluxo de nutrientes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos espinhais apresentam três bainhas conjuntivas que conferem grande resistência ao nervo. São elas: Os nervos apresentam três bainhas conjuntivas — epineuro, perineuro e endoneuro — que conferem grande resistência ao nervo, sendo considerado um importante conduto tubular organizado que orienta o fluxo de nutrientes."
+    },
+    {
+      "id": "neuro-obj-123",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Os nervos espinhais são 31 pares, correspondentes aos segmentos medulares existentes. Segundo o material, essa divisão é composta por:",
+      "options": {
+        "a": "8 pares cervicais, 12 torácicos, 5 lombares, 5 sacrais e 1 coccígeo",
+        "b": "7 pares cervicais, 10 torácicos, 4 lombares, 4 sacrais e 2 coccígeos",
+        "c": "12 pares cervicais, 8 torácicos, 5 lombares, 5 sacrais e 1 coccígeo",
+        "d": "8 pares cervicais, 12 torácicos, 4 lombares, 4 sacrais e nenhum coccígeo",
+        "e": "6 pares cervicais, 12 torácicos, 6 lombares, 6 sacrais e 1 coccígeo"
+      },
+      "correct": "a",
+      "explanation": "Os nervos espinhais são 31 pares, correspondentes aos segmentos medulares: 8 pares de nervos cervicais, 12 pares torácicos, 5 pares lombares, 5 sacrais e 1 coccígeo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Os nervos espinhais são 31 pares, correspondentes aos segmentos medulares existentes. Segundo o material, essa divisão é composta por: Os nervos espinhais são 31 pares, correspondentes aos segmentos medulares: 8 pares de nervos cervicais, 12 pares torácicos, 5 pares lombares, 5 sacrais e 1 coccígeo."
+    },
+    {
+      "id": "neuro-obj-124",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Cada nervo espinhal é formado pela união de duas raízes. A raiz responsável pelo recebimento da informação sensitiva vinda da periferia é a raiz:",
+      "options": {
+        "a": "Dorsal",
+        "b": "Ventral",
+        "c": "Lateral",
+        "d": "Anterior motora",
+        "e": "Nenhuma das anteriores"
+      },
+      "correct": "a",
+      "explanation": "A raiz dorsal é responsável pelo recebimento da informação sensitiva vinda da periferia, sendo nela localizado o gânglio espinhal, onde estão os corpos dos neurônios sensitivos; já a raiz ventral é responsável pela saída da informação motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Cada nervo espinhal é formado pela união de duas raízes. A raiz responsável pelo recebimento da informação sensitiva vinda da periferia é a raiz: A raiz dorsal é responsável pelo recebimento da informação sensitiva vinda da periferia, sendo nela localizado o gânglio espinhal, onde estão os corpos dos neurônios sensitivos; já a raiz ventral é responsável pela saída da informação motora."
+    },
+    {
+      "id": "neuro-obj-125",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Por apresentar componentes motor (raiz ventral) e sensitivo (raiz dorsal), o nervo espinhal é classificado como um nervo:",
+      "options": {
+        "a": "Misto",
+        "b": "Puramente sensitivo",
+        "c": "Puramente motor",
+        "d": "Autônomo exclusivo",
+        "e": "Craniano exclusivo"
+      },
+      "correct": "a",
+      "explanation": "A união da raiz dorsal (sensitiva) e da raiz ventral (motora) forma o tronco do nervo espinhal, que por apresentar esses dois componentes é considerado um nervo misto.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo",
+      "miniLesson": "Por apresentar componentes motor (raiz ventral) e sensitivo (raiz dorsal), o nervo espinhal é classificado como um nervo: A união da raiz dorsal (sensitiva) e da raiz ventral (motora) forma o tronco do nervo espinhal, que por apresentar esses dois componentes é considerado um nervo misto."
+    },
+    {
+      "id": "neuro-obj-126",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O território cutâneo situado na pele, inervado por fibras de uma única raiz dorsal, que recebe o nome da raiz que o inerva, é denominado:",
+      "options": {
+        "a": "Dermátomo",
+        "b": "Miótomo",
+        "c": "Esclerótomo",
+        "d": "Plexo",
+        "e": "Fascículo"
+      },
+      "correct": "a",
+      "explanation": "O dermátomo é o território situado na pele, inervado por fibras de uma única raiz dorsal, recebendo o nome da raiz que o inerva; conhecer o mapa dos dermátomos permite, diante de uma perda de sensibilidade, localizar a lesão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O território cutâneo situado na pele, inervado por fibras de uma única raiz dorsal, que recebe o nome da raiz que o inerva, é denominado: O dermátomo é o território situado na pele, inervado por fibras de uma única raiz dorsal, recebendo o nome da raiz que o inerva; conhecer o mapa dos dermátomos permite, diante de uma perda de sensibilidade, localizar a lesão."
+    },
+    {
+      "id": "neuro-obj-127",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O território muscular inervado por uma única raiz ventral (raiz motora) é denominado:",
+      "options": {
+        "a": "Miótomo",
+        "b": "Dermátomo",
+        "c": "Plexo lombossacro",
+        "d": "Nervo unissegmentar",
+        "e": "Fascículo lateral"
+      },
+      "correct": "a",
+      "explanation": "O miótomo refere-se ao território inervado por uma única raiz ventral, ou seja, raiz motora; por meio dos miótomos é possível identificar se uma alteração motora decorre de lesão no sistema nervoso periférico ou na medula espinhal, e em que nível ocorreu.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O território muscular inervado por uma única raiz ventral (raiz motora) é denominado: O miótomo refere-se ao território inervado por uma única raiz ventral, ou seja, raiz motora; por meio dos miótomos é possível identificar se uma alteração motora decorre de lesão no sistema nervoso periférico ou na medula espinhal, e em que nível ocorreu."
+    },
+    {
+      "id": "neuro-obj-128",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, os nervos intercostais são classificados como unissegmentares porque:",
+      "options": {
+        "a": "Suas fibras se originam em apenas um segmento medular",
+        "b": "Não possuem qualquer relação com a medula espinhal",
+        "c": "Suas fibras se originam em mais de um segmento medular",
+        "d": "São formados exclusivamente por fibras motoras",
+        "e": "Originam-se diretamente do encéfalo"
+      },
+      "correct": "a",
+      "explanation": "Os nervos intercostais são unissegmentares, pois suas fibras se originam em apenas um segmento medular, diferentemente dos nervos originados dos plexos, que são plurissegmentares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos intercostais são classificados como unissegmentares porque: Os nervos intercostais são unissegmentares, pois suas fibras se originam em apenas um segmento medular, diferentemente dos nervos originados dos plexos, que são plurissegmentares."
+    },
+    {
+      "id": "neuro-obj-129",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "A palavra 'plexo' significa trançado e se refere à união das raízes nervosas para a formação dos nervos terminais. Segundo o material, existem cinco plexos nervosos, que são:",
+      "options": {
+        "a": "Cervical, braquial, lombar, sacral e coccígeo",
+        "b": "Cervical, torácico, lombar, sacral e occipital",
+        "c": "Braquial, femoral, tibial, fibular e plantar",
+        "d": "Cervical, braquial, torácico, sacral e coccígeo",
+        "e": "Lombar, sacral, coccígeo, torácico e cervical apenas"
+      },
+      "correct": "a",
+      "explanation": "Existem cinco plexos nervosos: cervical, braquial, lombar, sacral e coccígeo. Vale ressaltar que, na região torácica, não há a formação de plexos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "A palavra 'plexo' significa trançado e se refere à união das raízes nervosas para a formação dos nervos terminais. Segundo o material, existem cinco plexos nervosos, que são: Existem cinco plexos nervosos: cervical, braquial, lombar, sacral e coccígeo. Vale ressaltar que, na região torácica, não há a formação de plexos."
+    },
+    {
+      "id": "neuro-obj-130",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O plexo cervical é formado pelas quatro primeiras raízes cervicais, sendo responsável pela inervação da pele e músculos da cabeça, pescoço e cintura escapular, além do músculo diafragma. Seu nervo principal e terminal, essencial para a respiração, é o nervo:",
+      "options": {
+        "a": "Frênico",
+        "b": "Vago",
+        "c": "Acessório",
+        "d": "Hipoglosso",
+        "e": "Facial"
+      },
+      "correct": "a",
+      "explanation": "O nervo frênico é o nervo principal e terminal do plexo cervical, inervando o músculo diafragma, que exerce importante função no processo de respiração — daí a gravidade de lesões em estruturas altas como a região cervical.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O plexo cervical é formado pelas quatro primeiras raízes cervicais, sendo responsável pela inervação da pele e músculos da cabeça, pescoço e cintura escapular, além do músculo diafragma. Seu nervo principal e terminal, essencial para a respiração, é o nervo: O nervo frênico é o nervo principal e terminal do plexo cervical, inervando o músculo diafragma, que exerce importante função no processo de respiração — daí a gravidade de lesões em estruturas altas como a região cervical."
+    },
+    {
+      "id": "neuro-obj-131",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, sendo responsável pela inervação da pele e dos músculos da cintura escapular e do membro superior. Sua organização anatômica segue a sequência:",
+      "options": {
+        "a": "Raízes, troncos, divisões, fascículos e ramos terminais",
+        "b": "Fascículos, raízes, troncos e divisões",
+        "c": "Ramos terminais, raízes e fascículos apenas",
+        "d": "Divisões, raízes e ramos terminais apenas",
+        "e": "Troncos, ramos terminais e raízes apenas"
+      },
+      "correct": "a",
+      "explanation": "O plexo braquial se organiza na sequência: raízes (C5 a T1), troncos (superior, médio e inferior), divisões (anterior e posterior), fascículos (lateral, medial e posterior) e, por fim, os ramos ou nervos terminais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8-9"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, sendo responsável pela inervação da pele e dos músculos da cintura escapular e do membro superior. Sua organização anatômica segue a sequência: O plexo braquial se organiza na sequência: raízes (C5 a T1), troncos (superior, médio e inferior), divisões (anterior e posterior), fascículos (lateral, medial e posterior) e, por fim, os ramos ou nervos terminais."
+    },
+    {
+      "id": "neuro-obj-132",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, o fascículo medial do plexo braquial é formado pela divisão anterior do tronco inferior, e a partir dele origina-se, entre outros, o nervo:",
+      "options": {
+        "a": "Ulnar",
+        "b": "Radial",
+        "c": "Axilar",
+        "d": "Musculocutâneo",
+        "e": "Supraescapular"
+      },
+      "correct": "a",
+      "explanation": "O fascículo medial é formado pela divisão anterior do tronco inferior; a partir dos fascículos medial e lateral origina-se o nervo mediano, e do fascículo medial isoladamente originam-se os nervos peitoral medial e ulnar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8-9"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o fascículo medial do plexo braquial é formado pela divisão anterior do tronco inferior, e a partir dele origina-se, entre outros, o nervo: O fascículo medial é formado pela divisão anterior do tronco inferior; a partir dos fascículos medial e lateral origina-se o nervo mediano, e do fascículo medial isoladamente originam-se os nervos peitoral medial e ulnar."
+    },
+    {
+      "id": "neuro-obj-133",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Após lesão do nervo radial, oriundo do fascículo posterior do plexo braquial, a principal dificuldade apresentada pelo paciente é:",
+      "options": {
+        "a": "Extensão de cotovelo, punho e dedos",
+        "b": "Flexão de ombro e cotovelo",
+        "c": "Abdução de ombro",
+        "d": "Pronação e flexão de punho",
+        "e": "Flexão do punho e dedos com desvio ulnar"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela do material, a lesão do nervo radial causa dificuldade de extensão de cotovelo, punho e dedos, já que esse nervo inerva os músculos do compartimento posterior do braço e antebraço.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "10-11"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Após lesão do nervo radial, oriundo do fascículo posterior do plexo braquial, a principal dificuldade apresentada pelo paciente é: Segundo a tabela do material, a lesão do nervo radial causa dificuldade de extensão de cotovelo, punho e dedos, já que esse nervo inerva os músculos do compartimento posterior do braço e antebraço."
+    },
+    {
+      "id": "neuro-obj-134",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O plexo lombar e sacral, que juntos formam o plexo lombossacro, inerva a pele e os músculos do abdome, dos órgãos genitais, da cintura pélvica e do membro inferior. Segundo o material, o maior nervo do plexo lombar, responsável pelos flexores de quadril e extensores de joelho, é o nervo:",
+      "options": {
+        "a": "Femoral",
+        "b": "Obturatório",
+        "c": "Ciático",
+        "d": "Tibial",
+        "e": "Fibular"
+      },
+      "correct": "a",
+      "explanation": "O maior nervo do plexo lombar é o femoral, que se distribui para os músculos flexores de quadril e extensores do joelho, além da pele sobre a face medial e anterior da coxa e lado medial da perna e do pé.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O plexo lombar e sacral, que juntos formam o plexo lombossacro, inerva a pele e os músculos do abdome, dos órgãos genitais, da cintura pélvica e do membro inferior. Segundo o material, o maior nervo do plexo lombar, responsável pelos flexores de quadril e extensores de joelho, é o nervo: O maior nervo do plexo lombar é o femoral, que se distribui para os músculos flexores de quadril e extensores do joelho, além da pele sobre a face medial e anterior da coxa e lado medial da perna e do pé."
+    },
+    {
+      "id": "neuro-obj-135",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O principal e maior nervo do plexo sacral, que inerva a musculatura da região posterior da coxa (isquiotibiais e piriforme) e se divide, na fossa poplítea, em nervo fibular comum e nervo tibial, é o nervo:",
+      "options": {
+        "a": "Ciático",
+        "b": "Femoral",
+        "c": "Obturatório",
+        "d": "Pudendo",
+        "e": "Glúteo superior"
+      },
+      "correct": "a",
+      "explanation": "O principal e maior nervo do plexo sacral é o ciático, que inerva a musculatura da região posterior da coxa; na altura da fossa poplítea, ele se divide em nervo fibular comum (musculatura anterior da perna e pé) e nervo tibial (musculatura posterior da perna e pé).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O principal e maior nervo do plexo sacral, que inerva a musculatura da região posterior da coxa (isquiotibiais e piriforme) e se divide, na fossa poplítea, em nervo fibular comum e nervo tibial, é o nervo: O principal e maior nervo do plexo sacral é o ciático, que inerva a musculatura da região posterior da coxa; na altura da fossa poplítea, ele se divide em nervo fibular comum (musculatura anterior da perna e pé) e nervo tibial (musculatura posterior da perna e pé)."
+    },
+    {
+      "id": "neuro-obj-136",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, o padrão anatômico do plexo lombossacro é mais simples que o do plexo braquial porque:",
+      "options": {
+        "a": "Os nervos periféricos originam-se diretamente das divisões anteriores ou posteriores das raízes, sem formação de troncos, divisões e fascículos",
+        "b": "Não existe qualquer raiz nervosa envolvida em sua formação",
+        "c": "É formado por um único nervo, sem qualquer ramificação",
+        "d": "Envolve apenas a região torácica da medula",
+        "e": "Não apresenta qualquer relação com músculos do membro inferior"
+      },
+      "correct": "a",
+      "explanation": "O plexo lombossacro é mais simples que o plexo braquial porque seus nervos periféricos derivam diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, sem formação de troncos, divisões e fascículos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o padrão anatômico do plexo lombossacro é mais simples que o do plexo braquial porque: O plexo lombossacro é mais simples que o plexo braquial porque seus nervos periféricos derivam diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, sem formação de troncos, divisões e fascículos."
+    },
+    {
+      "id": "neuro-obj-137",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Entre os três tipos de lesões nervosas periféricas descritas no material, aquela considerada mais leve, na qual a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida (perda temporária da função, com bom prognóstico), é denominada:",
+      "options": {
+        "a": "Neuropraxia",
+        "b": "Axonotmese",
+        "c": "Neurotmese",
+        "d": "Desmielinização primária",
+        "e": "Poliradiculopatia"
+      },
+      "correct": "a",
+      "explanation": "A neuropraxia é o tipo de lesão mais leve, pois a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida, ocorrendo perda temporária da função e, portanto, apresentando bom prognóstico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Entre os três tipos de lesões nervosas periféricas descritas no material, aquela considerada mais leve, na qual a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida (perda temporária da função, com bom prognóstico), é denominada: A neuropraxia é o tipo de lesão mais leve, pois a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida, ocorrendo perda temporária da função e, portanto, apresentando bom prognóstico."
+    },
+    {
+      "id": "neuro-obj-138",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "A axonotmese, segundo o material, é o tipo de lesão nervosa periférica em que:",
+      "options": {
+        "a": "Ocorre lesão do axônio, mas as bainhas conjuntivas permanecem intactas e o endoneuro é mantido, favorecendo a regeneração",
+        "b": "O nervo é totalmente seccionado, com prognóstico ruim",
+        "c": "Não há qualquer comprometimento estrutural do nervo",
+        "d": "Ocorre apenas em nervos encefálicos, nunca em nervos espinhais",
+        "e": "É sempre irreversível, independentemente do tratamento"
+      },
+      "correct": "a",
+      "explanation": "Na axonotmese já ocorre a lesão do axônio, porém ainda há bom prognóstico, pois as bainhas conectivas permanecem intactas e o endoneuro está mantido, representando um curso anatômico favorável para o processo de regeneração.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "A axonotmese, segundo o material, é o tipo de lesão nervosa periférica em que: Na axonotmese já ocorre a lesão do axônio, porém ainda há bom prognóstico, pois as bainhas conectivas permanecem intactas e o endoneuro está mantido, representando um curso anatômico favorável para o processo de regeneração."
+    },
+    {
+      "id": "neuro-obj-139",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "A neurotmese, tipo de lesão nervosa periférica mais grave, ocorre quando:",
+      "options": {
+        "a": "O nervo é totalmente seccionado, com lesão do axônio e do endoneuro e prognóstico ruim para a regeneração",
+        "b": "Apenas a condução do impulso nervoso é temporariamente interrompida",
+        "c": "Somente as bainhas conjuntivas são lesadas, mantendo o axônio íntegro",
+        "d": "Ocorre exclusivamente em processos infecciosos virais",
+        "e": "É sempre reversível espontaneamente em poucos dias"
+      },
+      "correct": "a",
+      "explanation": "A neurotmese ocorre quando o nervo é totalmente seccionado, havendo lesão tanto do axônio quanto do endoneuro; a distância variável entre os cotos nervosos dificulta muito o processo de regeneração, conferindo prognóstico ruim.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "A neurotmese, tipo de lesão nervosa periférica mais grave, ocorre quando: A neurotmese ocorre quando o nervo é totalmente seccionado, havendo lesão tanto do axônio quanto do endoneuro; a distância variável entre os cotos nervosos dificulta muito o processo de regeneração, conferindo prognóstico ruim."
+    },
+    {
+      "id": "neuro-obj-140",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Os nervos encefálicos surgem do encéfalo como 12 pares, numerados de I a XII. Segundo o material, os nervos encefálicos considerados apenas aferentes (sensoriais) são:",
+      "options": {
+        "a": "I olfatório, II óptico e VIII vestibulococlear",
+        "b": "III oculomotor, IV troclear e VI abducente",
+        "c": "V trigêmeo, VII facial e X vago",
+        "d": "XI acessório e XII hipoglosso",
+        "e": "IX glossofaríngeo e X vago apenas"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos I olfatório, II óptico e VIII vestibulococlear são considerados apenas aferentes (sensoriais), enquanto III, IV, VI, XI e XII são apenas eferentes (motores), e V, VII, IX e X são funcionalmente mistos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Os nervos encefálicos surgem do encéfalo como 12 pares, numerados de I a XII. Segundo o material, os nervos encefálicos considerados apenas aferentes (sensoriais) são: Os nervos encefálicos I olfatório, II óptico e VIII vestibulococlear são considerados apenas aferentes (sensoriais), enquanto III, IV, VI, XI e XII são apenas eferentes (motores), e V, VII, IX e X são funcionalmente mistos."
+    },
+    {
+      "id": "neuro-obj-141",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Os nervos encefálicos funcionalmente mistos (sensoriais e motores), segundo o material, são:",
+      "options": {
+        "a": "V trigêmeo, VII facial, IX glossofaríngeo e X vago",
+        "b": "I olfatório, II óptico e VIII vestibulococlear",
+        "c": "III oculomotor, IV troclear e VI abducente",
+        "d": "XI acessório e XII hipoglosso apenas",
+        "e": "Apenas o X vago"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos V trigêmeo, VII facial, IX glossofaríngeo e X vago são funcionalmente mistos, apresentando componentes sensoriais e motores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Os nervos encefálicos funcionalmente mistos (sensoriais e motores), segundo o material, são: Os nervos encefálicos V trigêmeo, VII facial, IX glossofaríngeo e X vago são funcionalmente mistos, apresentando componentes sensoriais e motores."
+    },
+    {
+      "id": "neuro-obj-142",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "A secção de um nervo óptico (II par encefálico) causa, segundo o material, o seguinte quadro clínico:",
+      "options": {
+        "a": "Amaurose (cegueira) em um dos olhos",
+        "b": "Anosmia (perda do olfato)",
+        "c": "Paralisia facial periférica",
+        "d": "Nevralgia intensa na face",
+        "e": "Perda da audição unilateral"
+      },
+      "correct": "a",
+      "explanation": "A secção de um nervo óptico causa amaurose (cegueira) em um dos olhos; já a destruição de fibras cruzadas no quiasma óptico, por exemplo por tumor hipofisário, pode causar amaurose em ambos os olhos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "A secção de um nervo óptico (II par encefálico) causa, segundo o material, o seguinte quadro clínico: A secção de um nervo óptico causa amaurose (cegueira) em um dos olhos; já a destruição de fibras cruzadas no quiasma óptico, por exemplo por tumor hipofisário, pode causar amaurose em ambos os olhos."
+    },
+    {
+      "id": "neuro-obj-143",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O nervo trigêmeo (V par encefálico) é constituído por três ramos responsáveis pela sensibilidade somática geral de grande parte da cabeça. Segundo o material, a disfunção mais comum desse nervo, caracterizada por crises dolorosas muito intensas, é denominada:",
+      "options": {
+        "a": "Nevralgia do trigêmeo",
+        "b": "Paralisia facial periférica",
+        "c": "Amaurose bilateral",
+        "d": "Anosmia pós-traumática",
+        "e": "Síndrome de Guillain-Barré"
+      },
+      "correct": "a",
+      "explanation": "A nevralgia do nervo trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo, causando grande sofrimento e, em muitos casos, exigindo tratamento cirúrgico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "23"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O nervo trigêmeo (V par encefálico) é constituído por três ramos responsáveis pela sensibilidade somática geral de grande parte da cabeça. Segundo o material, a disfunção mais comum desse nervo, caracterizada por crises dolorosas muito intensas, é denominada: A nevralgia do nervo trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo, causando grande sofrimento e, em muitos casos, exigindo tratamento cirúrgico."
+    },
+    {
+      "id": "neuro-obj-144",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, a paralisia facial periférica, decorrente da lesão do neurônio motor inferior do nervo facial (VII par), apresenta a seguinte característica:",
+      "options": {
+        "a": "É homolateral (mesmo lado da lesão) e acomete toda a hemiface",
+        "b": "É contralateral e poupa os músculos da metade inferior da face",
+        "c": "Não causa qualquer alteração motora facial",
+        "d": "Ocorre exclusivamente nos músculos mastigatórios",
+        "e": "Afeta apenas a sensibilidade da face, sem comprometimento motor"
+      },
+      "correct": "a",
+      "explanation": "A paralisia facial periférica é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface, diferentemente da paralisia central, que é contralateral e poupa os músculos da metade superior da face.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a paralisia facial periférica, decorrente da lesão do neurônio motor inferior do nervo facial (VII par), apresenta a seguinte característica: A paralisia facial periférica é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface, diferentemente da paralisia central, que é contralateral e poupa os músculos da metade superior da face."
+    },
+    {
+      "id": "neuro-obj-145",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O nervo vestíbulo-coclear (VIII par encefálico) é somente sensitivo e composto por duas partes. A parte relacionada à condução de impulsos nervosos do equilíbrio é a parte:",
+      "options": {
+        "a": "Vestibular",
+        "b": "Coclear",
+        "c": "Motora",
+        "d": "Autonômica",
+        "e": "Simpática"
+      },
+      "correct": "a",
+      "explanation": "O nervo vestíbulo-coclear é composto pela parte vestibular, que conduz impulsos relacionados ao equilíbrio, e pela parte coclear, que conduz impulsos relacionados à audição; lesões da parte vestibular causam vertigem e alterações do equilíbrio, incluindo nistagmo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24-25"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O nervo vestíbulo-coclear (VIII par encefálico) é somente sensitivo e composto por duas partes. A parte relacionada à condução de impulsos nervosos do equilíbrio é a parte: O nervo vestíbulo-coclear é composto pela parte vestibular, que conduz impulsos relacionados ao equilíbrio, e pela parte coclear, que conduz impulsos relacionados à audição; lesões da parte vestibular causam vertigem e alterações do equilíbrio, incluindo nistagmo."
+    },
+    {
+      "id": "neuro-obj-146",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O maior dos nervos encefálicos, de função mista e exclusivamente visceral, responsável pela inervação da laringe e faringe e pela formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais, é o nervo:",
+      "options": {
+        "a": "Vago (X par)",
+        "b": "Glossofaríngeo (IX par)",
+        "c": "Acessório (XI par)",
+        "d": "Hipoglosso (XII par)",
+        "e": "Facial (VII par)"
+      },
+      "correct": "a",
+      "explanation": "O nervo vago é o maior dos nervos encefálicos, tem função mista e exclusivamente visceral, sendo responsável pela inervação da laringe e da faringe e fazendo parte da formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "26"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O maior dos nervos encefálicos, de função mista e exclusivamente visceral, responsável pela inervação da laringe e faringe e pela formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais, é o nervo: O nervo vago é o maior dos nervos encefálicos, tem função mista e exclusivamente visceral, sendo responsável pela inervação da laringe e da faringe e fazendo parte da formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais."
+    },
+    {
+      "id": "neuro-obj-147",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O nervo hipoglosso (XII par), puramente motor, distribui-se para os músculos da língua. Segundo o material, na lesão desse nervo, ao fazer a protrusão da língua, o paciente apresenta:",
+      "options": {
+        "a": "Desvio da língua para o lado da lesão, por ação da musculatura do lado normal não contrabalançada",
+        "b": "Nenhuma alteração perceptível",
+        "c": "Perda completa do paladar",
+        "d": "Paralisia total da face do lado contrário à lesão",
+        "e": "Surdez unilateral"
+      },
+      "correct": "a",
+      "explanation": "Na lesão do nervo hipoglosso, ocorre paralisia dos músculos de uma das metades da língua; ao fazer a protrusão, a língua se desvia para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelos músculos da metade paralisada.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "29"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O nervo hipoglosso (XII par), puramente motor, distribui-se para os músculos da língua. Segundo o material, na lesão desse nervo, ao fazer a protrusão da língua, o paciente apresenta: Na lesão do nervo hipoglosso, ocorre paralisia dos músculos de uma das metades da língua; ao fazer a protrusão, a língua se desvia para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelos músculos da metade paralisada."
+    },
+    {
+      "id": "neuro-obj-148",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Diferentemente da via periférica do Sistema Nervoso Somático, constituída por apenas um neurônio, a via periférica do Sistema Nervoso Autônomo é formada por dois neurônios. O primeiro neurônio, com corpo celular no Sistema Nervoso Central, é denominado:",
+      "options": {
+        "a": "Pré-ganglionar",
+        "b": "Pós-ganglionar",
+        "c": "Interneurônio sensitivo",
+        "d": "Motoneurônio alfa",
+        "e": "Neurônio bipolar"
+      },
+      "correct": "a",
+      "explanation": "No Sistema Nervoso Autônomo, o primeiro neurônio, com corpo celular situado no Sistema Nervoso Central, é designado pré-ganglionar, e o segundo, com corpo celular situado nos gânglios autônomos fora do SNC, é designado pós-ganglionar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Diferentemente da via periférica do Sistema Nervoso Somático, constituída por apenas um neurônio, a via periférica do Sistema Nervoso Autônomo é formada por dois neurônios. O primeiro neurônio, com corpo celular no Sistema Nervoso Central, é denominado: No Sistema Nervoso Autônomo, o primeiro neurônio, com corpo celular situado no Sistema Nervoso Central, é designado pré-ganglionar, e o segundo, com corpo celular situado nos gânglios autônomos fora do SNC, é designado pós-ganglionar."
+    },
+    {
+      "id": "neuro-obj-149",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o quadro comparativo do material, no coração, a ação do sistema nervoso simpático provoca taquicardia, enquanto a ação do sistema parassimpático provoca:",
+      "options": {
+        "a": "Bradicardia",
+        "b": "Vasoconstrição coronariana",
+        "c": "Nenhuma ação",
+        "d": "Aumento da força de contração apenas",
+        "e": "Fibrilação ventricular"
+      },
+      "correct": "a",
+      "explanation": "Segundo o quadro do material, no coração, o sistema simpático provoca taquicardia, enquanto o parassimpático provoca bradicardia, exemplificando as respostas opostas e complementares dos dois sistemas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o quadro comparativo do material, no coração, a ação do sistema nervoso simpático provoca taquicardia, enquanto a ação do sistema parassimpático provoca: Segundo o quadro do material, no coração, o sistema simpático provoca taquicardia, enquanto o parassimpático provoca bradicardia, exemplificando as respostas opostas e complementares dos dois sistemas."
+    },
+    {
+      "id": "neuro-obj-150",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O sistema simpático é também chamado de sistema toracolombar porque seus neurônios pré-ganglionares localizam-se na medula torácica e nos primeiros segmentos lombares. Já o sistema parassimpático é chamado de sistema craniossacral porque seus neurônios pré-ganglionares localizam-se:",
+      "options": {
+        "a": "No tronco cerebral e nos segmentos medulares sacrais (S2, S3 e S4)",
+        "b": "Exclusivamente na medula cervical",
+        "c": "Apenas nos gânglios pré-vertebrais torácicos",
+        "d": "Exclusivamente no córtex cerebral",
+        "e": "Apenas nos nervos espinhais lombares"
+      },
+      "correct": "a",
+      "explanation": "Os corpos celulares do neurônio pré-ganglionar parassimpático encontram-se no tronco cerebral e nos segmentos medulares sacrais (S2, S3 e S4), sendo por isso chamado de sistema craniossacral, em contraposição ao sistema simpático, toracolombar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "37"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O sistema simpático é também chamado de sistema toracolombar porque seus neurônios pré-ganglionares localizam-se na medula torácica e nos primeiros segmentos lombares. Já o sistema parassimpático é chamado de sistema craniossacral porque seus neurônios pré-ganglionares localizam-se: Os corpos celulares do neurônio pré-ganglionar parassimpático encontram-se no tronco cerebral e nos segmentos medulares sacrais (S2, S3 e S4), sendo por isso chamado de sistema craniossacral, em contraposição ao sistema simpático, toracolombar."
+    },
+    {
+      "id": "neuro-obj-151",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, a inervação simpática da pupila, que estabelece sinapse com os neurônios pós-ganglionares do gânglio cervical superior, promove como resposta a:",
+      "options": {
+        "a": "Dilatação da pupila (midríase)",
+        "b": "Contração da pupila (miose)",
+        "c": "Paralisia completa do músculo esfíncter da pupila",
+        "d": "Nenhuma alteração pupilar",
+        "e": "Contração do músculo ciliar apenas"
+      },
+      "correct": "a",
+      "explanation": "A inervação simpática da pupila apresenta como resposta a sua dilatação, chamada de midríase; já a inervação parassimpática (via núcleo Edinger-Westphal e III par encefálico) promove a contração da pupila, chamada de miose.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "36-41"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a inervação simpática da pupila, que estabelece sinapse com os neurônios pós-ganglionares do gânglio cervical superior, promove como resposta a: A inervação simpática da pupila apresenta como resposta a sua dilatação, chamada de midríase; já a inervação parassimpática (via núcleo Edinger-Westphal e III par encefálico) promove a contração da pupila, chamada de miose."
+    },
+    {
+      "id": "neuro-obj-152",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "No sistema parassimpático craniano, as fibras pré-ganglionares do núcleo salivatório caudal, situado no bulbo, atingem o gânglio ótico, cujas fibras pós-ganglionares inervam a:",
+      "options": {
+        "a": "Glândula parótida",
+        "b": "Glândula lacrimal",
+        "c": "Glândula submandibular",
+        "d": "Glândula sublingual",
+        "e": "Glândula tireoide"
+      },
+      "correct": "a",
+      "explanation": "No bulbo situa-se o núcleo salivatório caudal, cujas fibras pré-ganglionares (via IX par, glossofaríngeo) atingem o gânglio ótico; as fibras pós-ganglionares, por sua vez, dirigem-se à glândula parótida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil",
+      "miniLesson": "No sistema parassimpático craniano, as fibras pré-ganglionares do núcleo salivatório caudal, situado no bulbo, atingem o gânglio ótico, cujas fibras pós-ganglionares inervam a: No bulbo situa-se o núcleo salivatório caudal, cujas fibras pré-ganglionares (via IX par, glossofaríngeo) atingem o gânglio ótico; as fibras pós-ganglionares, por sua vez, dirigem-se à glândula parótida."
+    },
+    {
+      "id": "neuro-obj-153",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, o componente eferente do Sistema Nervoso Visceral, que leva impulsos até as estruturas viscerais terminando em glândulas, musculatura lisa ou cardíaca, é denominado:",
+      "options": {
+        "a": "Sistema Nervoso Autônomo (SNA)",
+        "b": "Sistema Nervoso Somático",
+        "c": "Sistema Nervoso Central exclusivamente",
+        "d": "Visceroceptores",
+        "e": "Exteroceptores"
+      },
+      "correct": "a",
+      "explanation": "A porção eferente do Sistema Nervoso Visceral é denominada Sistema Nervoso Autônomo (SNA), que se divide em simpático e parassimpático, terminando nas glândulas, na musculatura lisa ou cardíaca.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "32-33"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o componente eferente do Sistema Nervoso Visceral, que leva impulsos até as estruturas viscerais terminando em glândulas, musculatura lisa ou cardíaca, é denominado: A porção eferente do Sistema Nervoso Visceral é denominada Sistema Nervoso Autônomo (SNA), que se divide em simpático e parassimpático, terminando nas glândulas, na musculatura lisa ou cardíaca."
+    },
+    {
+      "id": "neuro-obj-154",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, as ações do sistema parassimpático, cujos gânglios estão situados próximos das vísceras, tendem a ser:",
+      "options": {
+        "a": "Localizadas em um órgão ou setor específico do organismo",
+        "b": "Sempre difundidas, atingindo simultaneamente todos os órgãos do corpo",
+        "c": "Idênticas às ações do sistema simpático em todos os órgãos",
+        "d": "Restritas exclusivamente ao sistema cardiovascular",
+        "e": "Inexistentes em condições de repouso"
+      },
+      "correct": "a",
+      "explanation": "As ações do sistema parassimpático (gânglios situados próximos das vísceras) tendem a ser localizadas em um órgão ou setor do organismo, enquanto as ações do sistema simpático (gânglios situados longe das vísceras) tendem a ser mais difundidas, atingindo vários órgãos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as ações do sistema parassimpático, cujos gânglios estão situados próximos das vísceras, tendem a ser: As ações do sistema parassimpático (gânglios situados próximos das vísceras) tendem a ser localizadas em um órgão ou setor do organismo, enquanto as ações do sistema simpático (gânglios situados longe das vísceras) tendem a ser mais difundidas, atingindo vários órgãos."
+    },
+    {
+      "id": "neuro-obj-155",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Segundo o material, uma informação de grande importância clínica é que o Sistema Nervoso Autônomo apresenta forte ligação com o sistema emocional, de modo que muitos pacientes podem apresentar quadros de reações psicossomáticas, destituídas de causas orgânicas, decorrentes de ações desse sistema. Essa relação envolve especialmente as áreas do telencéfalo e do diencéfalo conhecidas como:",
+      "options": {
+        "a": "Hipotálamo e sistema límbico",
+        "b": "Cerebelo e bulbo",
+        "c": "Núcleos da base exclusivamente",
+        "d": "Córtex occipital",
+        "e": "Medula espinhal exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Existem áreas no telencéfalo e no diencéfalo que regulam as funções viscerais, como o hipotálamo e o sistema límbico, ligadas a certos tipos de comportamento, principalmente o emocional, o que explica a relação entre distúrbios emocionais e alterações do funcionamento visceral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, uma informação de grande importância clínica é que o Sistema Nervoso Autônomo apresenta forte ligação com o sistema emocional, de modo que muitos pacientes podem apresentar quadros de reações psicossomáticas, destituídas de causas orgânicas, decorrentes de ações desse sistema. Essa relação envolve especialmente as áreas do telencéfalo e do diencéfalo conhecidas como: Existem áreas no telencéfalo e no diencéfalo que regulam as funções viscerais, como o hipotálamo e o sistema límbico, ligadas a certos tipos de comportamento, principalmente o emocional, o que explica a relação entre distúrbios emocionais e alterações do funcionamento visceral."
+    },
+    {
+      "id": "neuro-obj-156",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, a plasticidade neural é definida como a capacidade de:",
+      "options": {
+        "a": "Mudança do sistema nervoso, incluindo mudanças estruturais em resposta a demandas internas e externas",
+        "b": "Manutenção rígida e imutável das conexões neurais ao longo da vida",
+        "c": "Produção exclusiva de neurônios apenas durante a fase embrionária",
+        "d": "Regeneração completa e automática de qualquer lesão nervosa",
+        "e": "Ausência total de resposta a estímulos ambientais"
+      },
+      "correct": "a",
+      "explanation": "A plasticidade neural é a capacidade de mudança do sistema nervoso; o conceito de plasticidade inclui a capacidade de o sistema nervoso fazer mudanças estruturais em resposta às demandas internas e externas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a plasticidade neural é definida como a capacidade de: A plasticidade neural é a capacidade de mudança do sistema nervoso; o conceito de plasticidade inclui a capacidade de o sistema nervoso fazer mudanças estruturais em resposta às demandas internas e externas."
+    },
+    {
+      "id": "neuro-obj-157",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, os períodos críticos relacionados com maior expressividade de neuroplasticidade são aqueles em que:",
+      "options": {
+        "a": "Os neurônios competem por locais sinápticos, sendo o organismo mais sensível aos efeitos das experiências vivenciadas",
+        "b": "O sistema nervoso está completamente formado e não sofre mais nenhuma alteração",
+        "c": "Não há qualquer atividade neural dependente da experiência",
+        "d": "Ocorre exclusivamente após os 60 anos de idade",
+        "e": "O cérebro perde definitivamente sua capacidade de mudança"
+      },
+      "correct": "a",
+      "explanation": "Os períodos críticos de maior expressividade da neuroplasticidade são aqueles em que os neurônios competem por locais sinápticos; mudanças nos circuitos neurais dependentes da atividade neural ocorrem geralmente durante um período restrito do desenvolvimento, quando o organismo é mais sensível aos efeitos das experiências.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os períodos críticos relacionados com maior expressividade de neuroplasticidade são aqueles em que: Os períodos críticos de maior expressividade da neuroplasticidade são aqueles em que os neurônios competem por locais sinápticos; mudanças nos circuitos neurais dependentes da atividade neural ocorrem geralmente durante um período restrito do desenvolvimento, quando o organismo é mais sensível aos efeitos das experiências."
+    },
+    {
+      "id": "neuro-obj-158",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, dois tipos de plasticidade neural foram descritos na literatura: um que é esperado da experiência e outro dependente da experiência. O tipo exemplificado pelos sistemas sensoriais que estão prontos para funcionar no nascimento, mas requerem experiência com luz e som para completar a maturação, é a plasticidade:",
+      "options": {
+        "a": "Expectante de experiência",
+        "b": "Dependente de experiência",
+        "c": "Puramente genética",
+        "d": "Exclusivamente patológica",
+        "e": "Restrita à vida adulta"
+      },
+      "correct": "a",
+      "explanation": "A plasticidade neural expectante de experiência (ou esperada) é exemplificada nos sistemas sensoriais que estão prontos para funcionar no nascimento, mas requerem experiência com luz e som para completar a maturação; a privação durante períodos críticos pode resultar na falta do desenvolvimento esperado da visão e audição.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "4"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, dois tipos de plasticidade neural foram descritos na literatura: um que é esperado da experiência e outro dependente da experiência. O tipo exemplificado pelos sistemas sensoriais que estão prontos para funcionar no nascimento, mas requerem experiência com luz e som para completar a maturação, é a plasticidade: A plasticidade neural expectante de experiência (ou esperada) é exemplificada nos sistemas sensoriais que estão prontos para funcionar no nascimento, mas requerem experiência com luz e som para completar a maturação; a privação durante períodos críticos pode resultar na falta do desenvolvimento esperado da visão e audição."
+    },
+    {
+      "id": "neuro-obj-159",
+      "topic": "Plasticidade neural",
+      "question": "A plasticidade neural dependente da experiência, também referida como plasticidade ecológica ou dependente de atividade, permite que o sistema nervoso:",
+      "options": {
+        "a": "Incorpore informações de experiências ambientais relativamente imprevisíveis e individuais, dependentes do contexto físico, social e cultural",
+        "b": "Ignore completamente qualquer influência do ambiente físico ou social",
+        "c": "Seja idêntica em todos os indivíduos, independentemente do contexto vivido",
+        "d": "Funcione exclusivamente durante o período pré-natal",
+        "e": "Seja determinada unicamente por fatores genéticos herdados"
+      },
+      "correct": "a",
+      "explanation": "A plasticidade dependente da experiência permite que o sistema nervoso incorpore informações vindas de experiências ambientais relativamente imprevisíveis e individuais, exclusivas do indivíduo e dependentes do contexto de desenvolvimento (ambiente físico, social e cultural).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "4"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "A plasticidade neural dependente da experiência, também referida como plasticidade ecológica ou dependente de atividade, permite que o sistema nervoso: A plasticidade dependente da experiência permite que o sistema nervoso incorpore informações vindas de experiências ambientais relativamente imprevisíveis e individuais, exclusivas do indivíduo e dependentes do contexto de desenvolvimento (ambiente físico, social e cultural)."
+    },
+    {
+      "id": "neuro-obj-160",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, a aprendizagem motora, como parte do desenvolvimento motor, é um exemplo de:",
+      "options": {
+        "a": "Plasticidade neural dependente da experiência",
+        "b": "Plasticidade neural expectante de experiência exclusivamente",
+        "c": "Neurogênese embrionária apenas",
+        "d": "Depressão de longo prazo exclusivamente",
+        "e": "Ausência total de plasticidade"
+      },
+      "correct": "a",
+      "explanation": "A aprendizagem motora, como parte do desenvolvimento motor, é um exemplo de plasticidade neural dependente da experiência, já que experiências de bebês em diferentes culturas podem resultar em alterações na aquisição de habilidades motoras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "5"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a aprendizagem motora, como parte do desenvolvimento motor, é um exemplo de: A aprendizagem motora, como parte do desenvolvimento motor, é um exemplo de plasticidade neural dependente da experiência, já que experiências de bebês em diferentes culturas podem resultar em alterações na aquisição de habilidades motoras."
+    },
+    {
+      "id": "neuro-obj-161",
+      "topic": "Plasticidade neural",
+      "question": "A neurogênese é definida no material como:",
+      "options": {
+        "a": "O processo pelo qual novos neurônios são formados no cérebro",
+        "b": "A morte programada de neurônios antigos",
+        "c": "A degeneração progressiva da mielina",
+        "d": "A formação exclusiva de células gliais",
+        "e": "O processo de perda de sinapses ao longo da vida"
+      },
+      "correct": "a",
+      "explanation": "A neurogênese é o processo pelo qual novos neurônios são formados no cérebro; é crucial durante o desenvolvimento embrionário, mas também continua em certas regiões do cérebro após o nascimento e ao longo da vida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "5"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo",
+      "miniLesson": "A neurogênese é definida no material como: A neurogênese é o processo pelo qual novos neurônios são formados no cérebro; é crucial durante o desenvolvimento embrionário, mas também continua em certas regiões do cérebro após o nascimento e ao longo da vida."
+    },
+    {
+      "id": "neuro-obj-162",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, o hipocampo, região do cérebro que desempenha papel importante na memória e na orientação espacial, possui, sozinho, pelo menos quantos tipos diferentes de neurônios?",
+      "options": {
+        "a": "27",
+        "b": "5",
+        "c": "100",
+        "d": "2",
+        "e": "1000"
+      },
+      "correct": "a",
+      "explanation": "O hipocampo, região do cérebro com papel importante na memória e orientação espacial, possui, sozinho, pelo menos 27 tipos diferentes de neurônios, resultado da neurogênese regulada durante o desenvolvimento embrionário.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "5"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o hipocampo, região do cérebro que desempenha papel importante na memória e na orientação espacial, possui, sozinho, pelo menos quantos tipos diferentes de neurônios? O hipocampo, região do cérebro com papel importante na memória e orientação espacial, possui, sozinho, pelo menos 27 tipos diferentes de neurônios, resultado da neurogênese regulada durante o desenvolvimento embrionário."
+    },
+    {
+      "id": "neuro-obj-163",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, tornou-se evidente que, no cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente ao longo da vida. São elas:",
+      "options": {
+        "a": "A zona subependimal (subventricular) do ventrículo lateral e a camada subgranular do giro denteado no hipocampo",
+        "b": "O córtex occipital e o cerebelo exclusivamente",
+        "c": "O tronco encefálico e a medula espinhal exclusivamente",
+        "d": "Apenas o bulbo olfatório, sem qualquer outra região",
+        "e": "O tálamo e o hipotálamo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "No cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente ao longo da vida: a zona subependimal (ou subventricular) do ventrículo lateral e a camada subgranular do giro denteado no hipocampo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "6"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, tornou-se evidente que, no cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente ao longo da vida. São elas: No cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente ao longo da vida: a zona subependimal (ou subventricular) do ventrículo lateral e a camada subgranular do giro denteado no hipocampo."
+    },
+    {
+      "id": "neuro-obj-164",
+      "topic": "Plasticidade neural",
+      "question": "Os novos neurônios gerados na zona subependimária do ventrículo lateral adulto entram em uma via bem definida, denominada corrente migratória rostral, migrando até se diferenciarem em novos neurônios no:",
+      "options": {
+        "a": "Bulbo olfatório",
+        "b": "Cerebelo",
+        "c": "Tronco encefálico",
+        "d": "Córtex motor primário",
+        "e": "Nervo óptico"
+      },
+      "correct": "a",
+      "explanation": "No adulto, os novos neurônios gerados na zona subependimária entram na corrente migratória rostral, completam suas últimas divisões e continuam a migrar para o bulbo olfatório, onde se diferenciam em novos neurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "7-8"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Os novos neurônios gerados na zona subependimária do ventrículo lateral adulto entram em uma via bem definida, denominada corrente migratória rostral, migrando até se diferenciarem em novos neurônios no: No adulto, os novos neurônios gerados na zona subependimária entram na corrente migratória rostral, completam suas últimas divisões e continuam a migrar para o bulbo olfatório, onde se diferenciam em novos neurônios."
+    },
+    {
+      "id": "neuro-obj-165",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, o termo 'engrama', utilizado pela primeira vez pelo biólogo alemão Richard Semon, refere-se a:",
+      "options": {
+        "a": "Mecanismos (ou tags) pelos quais as memórias são armazenadas",
+        "b": "Um tipo específico de lesão nervosa periférica",
+        "c": "A ausência completa de qualquer atividade neural",
+        "d": "Um método de neuroimagem específico",
+        "e": "Um tipo de célula glial"
+      },
+      "correct": "a",
+      "explanation": "O termo engrama foi utilizado pela primeira vez por Richard Semon, biólogo alemão, e geralmente se refere a mecanismos (ou tags) pelos quais as memórias são armazenadas, envolvendo alterações físicas distribuídas no tecido neuronal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "10"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o termo 'engrama', utilizado pela primeira vez pelo biólogo alemão Richard Semon, refere-se a: O termo engrama foi utilizado pela primeira vez por Richard Semon, biólogo alemão, e geralmente se refere a mecanismos (ou tags) pelos quais as memórias são armazenadas, envolvendo alterações físicas distribuídas no tecido neuronal."
+    },
+    {
+      "id": "neuro-obj-166",
+      "topic": "Plasticidade neural",
+      "question": "Segundo estudos citados no material, ratos com o menor número de novos neurônios apresentaram desempenho pior em uma tarefa de navegação espacial. Esse teste comportamental, amplamente utilizado nesse contexto, é conhecido como:",
+      "options": {
+        "a": "Labirinto de água (Labirinto Aquático de Morris)",
+        "b": "Teste de reconhecimento facial",
+        "c": "Teste de estimulação magnética transcraniana",
+        "d": "Teste de reflexo patelar",
+        "e": "Teste de acuidade visual"
+      },
+      "correct": "a",
+      "explanation": "O Teste do Labirinto Aquático de Morris (labirinto de água) foi utilizado para avaliar a navegação espacial; ratos com menor número de novos neurônios apresentaram desempenho pior nessa tarefa, sugerindo correlação positiva entre neurogênese e aprendizagem.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "11-12"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo estudos citados no material, ratos com o menor número de novos neurônios apresentaram desempenho pior em uma tarefa de navegação espacial. Esse teste comportamental, amplamente utilizado nesse contexto, é conhecido como: O Teste do Labirinto Aquático de Morris (labirinto de água) foi utilizado para avaliar a navegação espacial; ratos com menor número de novos neurônios apresentaram desempenho pior nessa tarefa, sugerindo correlação positiva entre neurogênese e aprendizagem."
+    },
+    {
+      "id": "neuro-obj-167",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, alguns fatores prejudicam a neurogênese e o aprendizado, como envelhecimento normal, estresse e diabetes, além de drogas associadas a diminuições na neurogênese, tais como:",
+      "options": {
+        "a": "Álcool, nicotina e opiáceos",
+        "b": "Vitaminas do complexo B",
+        "c": "Antibióticos de amplo espectro",
+        "d": "Água e sais minerais",
+        "e": "Proteínas vegetais"
+      },
+      "correct": "a",
+      "explanation": "Há uma série de drogas associadas a diminuições na neurogênese, como álcool, nicotina e opiáceos, que podem, em doses adequadas, resultar em déficits de desempenho durante tarefas de aprendizagem.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "12"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, alguns fatores prejudicam a neurogênese e o aprendizado, como envelhecimento normal, estresse e diabetes, além de drogas associadas a diminuições na neurogênese, tais como: Há uma série de drogas associadas a diminuições na neurogênese, como álcool, nicotina e opiáceos, que podem, em doses adequadas, resultar em déficits de desempenho durante tarefas de aprendizagem."
+    },
+    {
+      "id": "neuro-obj-168",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, o exercício voluntário (como corrida em roda de corrida) e a exposição a um ambiente enriquecido têm sido associados, respectivamente, a:",
+      "options": {
+        "a": "Aumento da proliferação celular e promoção da sobrevivência de neurônios imaturos",
+        "b": "Redução completa da neurogênese em todas as idades",
+        "c": "Nenhum efeito mensurável sobre a neurogênese hipocampal",
+        "d": "Diminuição da memória de reconhecimento",
+        "e": "Bloqueio total da corrente migratória rostral"
+      },
+      "correct": "a",
+      "explanation": "Estudos relatam que a corrida voluntária aumenta a proliferação celular, enquanto a exposição a um ambiente enriquecido promove a sobrevivência de neurônios imaturos de 1 a 3 semanas de idade, melhorando o desempenho em tarefas como o labirinto aquático e conduzindo a melhor memória de reconhecimento.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "11-12"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o exercício voluntário (como corrida em roda de corrida) e a exposição a um ambiente enriquecido têm sido associados, respectivamente, a: Estudos relatam que a corrida voluntária aumenta a proliferação celular, enquanto a exposição a um ambiente enriquecido promove a sobrevivência de neurônios imaturos de 1 a 3 semanas de idade, melhorando o desempenho em tarefas como o labirinto aquático e conduzindo a melhor memória de reconhecimento."
+    },
+    {
+      "id": "neuro-obj-169",
+      "topic": "Plasticidade neural",
+      "question": "Entre os quatro principais tipos de adaptações de neuroplasticidade descritos no material, aquele que se refere ao fortalecimento das sinapses, sendo uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica, é a:",
+      "options": {
+        "a": "Potenciação de longo prazo",
+        "b": "Depressão de longo prazo",
+        "c": "Neurogênese",
+        "d": "Sinaptogênese",
+        "e": "Desmielinização"
+      },
+      "correct": "a",
+      "explanation": "A potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica, sendo um dos quatro principais tipos de adaptações de neuroplasticidade descritos no material.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "13"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Entre os quatro principais tipos de adaptações de neuroplasticidade descritos no material, aquele que se refere ao fortalecimento das sinapses, sendo uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica, é a: A potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica, sendo um dos quatro principais tipos de adaptações de neuroplasticidade descritos no material."
+    },
+    {
+      "id": "neuro-obj-170",
+      "topic": "Plasticidade neural",
+      "question": "A depressão de longo prazo, um dos quatro principais tipos de neuroplasticidade citados no material, refere-se ao:",
+      "options": {
+        "a": "Enfraquecimento das sinapses que não estão sendo usadas, associado à memória e ao aprendizado motor",
+        "b": "Fortalecimento permanente e irreversível de todas as sinapses do cérebro",
+        "c": "Processo exclusivo de formação de novos neurônios no hipocampo",
+        "d": "Aumento súbito e definitivo da mielinização axonal",
+        "e": "Bloqueio total da neurogênese em qualquer idade"
+      },
+      "correct": "a",
+      "explanation": "A depressão de longo prazo é o enfraquecimento das sinapses que não estão sendo usadas, estando associada à memória e ao aprendizado motor; pesquisas estudaram seu papel na perda de memória em distúrbios como a doença de Alzheimer.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "13"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "A depressão de longo prazo, um dos quatro principais tipos de neuroplasticidade citados no material, refere-se ao: A depressão de longo prazo é o enfraquecimento das sinapses que não estão sendo usadas, estando associada à memória e ao aprendizado motor; pesquisas estudaram seu papel na perda de memória em distúrbios como a doença de Alzheimer."
+    },
+    {
+      "id": "neuro-obj-171",
+      "topic": "Plasticidade neural",
+      "question": "A sinaptogênese, segundo o material, é a criação de novas conexões neurais, ocorrendo especialmente quando o cérebro é exposto a:",
+      "options": {
+        "a": "Novos ambientes e experiências, como viajar ou aprender um novo instrumento musical",
+        "b": "Nenhum tipo de estímulo externo",
+        "c": "Privação sensorial completa e prolongada",
+        "d": "Repouso absoluto sem qualquer atividade cognitiva",
+        "e": "Ambientes idênticos e repetitivos exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A sinaptogênese é a criação de novas conexões neurais, ocorrendo quando o cérebro é exposto a novos ambientes e experiências em atividades como viajar ou aprender um novo instrumento musical.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "13"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo",
+      "miniLesson": "A sinaptogênese, segundo o material, é a criação de novas conexões neurais, ocorrendo especialmente quando o cérebro é exposto a: A sinaptogênese é a criação de novas conexões neurais, ocorrendo quando o cérebro é exposto a novos ambientes e experiências em atividades como viajar ou aprender um novo instrumento musical."
+    },
+    {
+      "id": "neuro-obj-172",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, a 'neuroplasticidade negativa' é exemplificada pela relação entre neuroplasticidade e:",
+      "options": {
+        "a": "Depressão e vício, que podem fortalecer vias neurais prejudiciais à saúde",
+        "b": "Recuperação total e definitiva de qualquer lesão",
+        "c": "Melhora automática do desempenho cognitivo em todos os casos",
+        "d": "Formação exclusiva de conexões neurais saudáveis",
+        "e": "Ausência completa de qualquer mudança cerebral"
+      },
+      "correct": "a",
+      "explanation": "A conexão entre neuroplasticidade e depressão é semelhante à da neuroplasticidade e do vício: a depressão pode causar traumas no cérebro, fortalecendo vias prejudiciais à saúde — mudanças chamadas de 'neuroplasticidade negativa'.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "18"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a 'neuroplasticidade negativa' é exemplificada pela relação entre neuroplasticidade e: A conexão entre neuroplasticidade e depressão é semelhante à da neuroplasticidade e do vício: a depressão pode causar traumas no cérebro, fortalecendo vias prejudiciais à saúde — mudanças chamadas de 'neuroplasticidade negativa'."
+    },
+    {
+      "id": "neuro-obj-173",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, as atividades que ajudam a aumentar a neuroplasticidade se enquadram em duas categorias principais:",
+      "options": {
+        "a": "Novas experiências (que estabelecem novas vias neurais) e prática em intensidade (que fortalece conexões existentes)",
+        "b": "Exclusivamente o repouso prolongado e a ausência de estímulos",
+        "c": "Apenas a ingestão de suplementos vitamínicos específicos",
+        "d": "Exclusivamente atividades sedentárias sem qualquer novidade",
+        "e": "Apenas a repetição de tarefas já automatizadas, sem qualquer novidade"
+      },
+      "correct": "a",
+      "explanation": "As atividades que ajudam o cérebro se enquadram em duas categorias: novas experiências, a partir das quais a novidade estabelece novas vias neurais, e prática em intensidade, na qual a repetição intensificada de uma habilidade fortalece as conexões neurais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "18"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as atividades que ajudam a aumentar a neuroplasticidade se enquadram em duas categorias principais: As atividades que ajudam o cérebro se enquadram em duas categorias: novas experiências, a partir das quais a novidade estabelece novas vias neurais, e prática em intensidade, na qual a repetição intensificada de uma habilidade fortalece as conexões neurais."
+    },
+    {
+      "id": "neuro-obj-174",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, após uma lesão unilateral no córtex motor (como no AVC), o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado, que passa a exercer ação inibitória sobre o hemisfério lesado. Esse fenômeno é denominado:",
+      "options": {
+        "a": "Inibição inter-hemisférica",
+        "b": "Potenciação de longo prazo bilateral",
+        "c": "Neurogênese compensatória automática",
+        "d": "Sinaptogênese reversa",
+        "e": "Depressão de curto prazo global"
+      },
+      "correct": "a",
+      "explanation": "Após uma lesão unilateral, o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado; o hemisfério intacto exerce, então, ação inibitória sobre o hemisfério lesado, fenômeno denominado inibição inter-hemisférica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "22"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, após uma lesão unilateral no córtex motor (como no AVC), o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado, que passa a exercer ação inibitória sobre o hemisfério lesado. Esse fenômeno é denominado: Após uma lesão unilateral, o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado; o hemisfério intacto exerce, então, ação inibitória sobre o hemisfério lesado, fenômeno denominado inibição inter-hemisférica."
+    },
+    {
+      "id": "neuro-obj-175",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, as técnicas não invasivas de estimulação cerebral, como a estimulação magnética transcraniana repetitiva (EMTR) e a estimulação transcraniana por corrente contínua (ETCC), demonstraram em estudos-piloto:",
+      "options": {
+        "a": "Efeitos benéficos nas habilidades motoras e na aprendizagem motora",
+        "b": "Efeitos exclusivamente negativos sobre a recuperação pós-AVC",
+        "c": "Nenhum impacto mensurável sobre a excitabilidade cortical",
+        "d": "Bloqueio completo e permanente da neuroplasticidade",
+        "e": "Efeitos restritos apenas ao sistema nervoso periférico"
+      },
+      "correct": "a",
+      "explanation": "Estudos-piloto usando as técnicas EMTR e ETCC mostraram efeitos benéficos nas habilidades motoras e na aprendizagem motora; a combinação de ETCC com estimulação periférica parece aumentar os efeitos de cada intervenção isoladamente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "23"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as técnicas não invasivas de estimulação cerebral, como a estimulação magnética transcraniana repetitiva (EMTR) e a estimulação transcraniana por corrente contínua (ETCC), demonstraram em estudos-piloto: Estudos-piloto usando as técnicas EMTR e ETCC mostraram efeitos benéficos nas habilidades motoras e na aprendizagem motora; a combinação de ETCC com estimulação periférica parece aumentar os efeitos de cada intervenção isoladamente."
+    },
+    {
+      "id": "neuro-obj-176",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, a principal consequência das lesões do Sistema Nervoso Central decorrentes do AVC é a:",
+      "options": {
+        "a": "Espasticidade",
+        "b": "Hipotensão arterial permanente",
+        "c": "Hipoglicemia crônica",
+        "d": "Anosmia bilateral",
+        "e": "Surdez neurossensorial"
+      },
+      "correct": "a",
+      "explanation": "As lesões do Sistema Nervoso Central decorrentes do AVC apresentam como principal consequência a espasticidade (hipertonia), uma das principais causas de perda funcional, que deve ser priorizada nas intervenções terapêuticas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "27-28"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a principal consequência das lesões do Sistema Nervoso Central decorrentes do AVC é a: As lesões do Sistema Nervoso Central decorrentes do AVC apresentam como principal consequência a espasticidade (hipertonia), uma das principais causas de perda funcional, que deve ser priorizada nas intervenções terapêuticas."
+    },
+    {
+      "id": "neuro-obj-177",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, o treino de atividades funcionais em programas de reabilitação neurológica é considerado essencial porque:",
+      "options": {
+        "a": "Interfere de forma benéfica na neuroplasticidade, estimulando-a",
+        "b": "Não exerce qualquer efeito direto sobre o Sistema Nervoso Central",
+        "c": "Limita e prejudica a neuroplasticidade do paciente",
+        "d": "É eficiente apenas em nível de Sistema Nervoso Periférico",
+        "e": "Não possui qualquer relação com a recuperação funcional"
+      },
+      "correct": "a",
+      "explanation": "Acredita-se que o treino de atividades funcionais interfere de forma benéfica na neuroplasticidade, estimulando-a, contribuindo para a evolução clínica e a maior independência de pacientes com doenças neurológicas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "29"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o treino de atividades funcionais em programas de reabilitação neurológica é considerado essencial porque: Acredita-se que o treino de atividades funcionais interfere de forma benéfica na neuroplasticidade, estimulando-a, contribuindo para a evolução clínica e a maior independência de pacientes com doenças neurológicas."
+    },
+    {
+      "id": "neuro-obj-178",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, a neuroplasticidade funcional está relacionada a mudanças no funcionamento fisiológico dos neurônios (excitabilidade, nível de resposta, sincronicidade), enquanto a neuroplasticidade estrutural envolve:",
+      "options": {
+        "a": "Mudanças regionais de volume ou formação de novas vias neurais, por sinaptogênese, brotamento axonal ou dendrítico e mudanças na mielina",
+        "b": "Exclusivamente alterações momentâneas na liberação de neurotransmissores",
+        "c": "Apenas mudanças comportamentais observáveis, sem qualquer base biológica",
+        "d": "A ausência completa de qualquer alteração anatômica no cérebro",
+        "e": "Mudanças restritas exclusivamente ao sistema nervoso periférico"
+      },
+      "correct": "a",
+      "explanation": "A neuroplasticidade estrutural, em escala mais ampla, envolve mudanças regionais de volume ou formação de novas vias neurais, por meio de sinaptogênese, brotamento axonal ou dendrítico, mudanças na mielina ou produção de novos neurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "26-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a neuroplasticidade funcional está relacionada a mudanças no funcionamento fisiológico dos neurônios (excitabilidade, nível de resposta, sincronicidade), enquanto a neuroplasticidade estrutural envolve: A neuroplasticidade estrutural, em escala mais ampla, envolve mudanças regionais de volume ou formação de novas vias neurais, por meio de sinaptogênese, brotamento axonal ou dendrítico, mudanças na mielina ou produção de novos neurônios."
+    },
+    {
+      "id": "neuro-obj-179",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, o mecanismo denominado 'surgimento axonal' (brotamento axonal), importante na reorganização do cérebro após lesão, consiste em:",
+      "options": {
+        "a": "Axônios não danificados desenvolverem novas terminações nervosas para reconectar neurônios cujas ligações foram rompidas",
+        "b": "A morte definitiva e irreversível de todos os neurônios da região lesada",
+        "c": "A substituição total do tecido nervoso por tecido conjuntivo cicatricial",
+        "d": "A interrupção completa e permanente da atividade neural na área lesada",
+        "e": "A regeneração espontânea da medula espinhal seccionada, sem qualquer intervenção"
+      },
+      "correct": "a",
+      "explanation": "A reorganização do cérebro ocorre por mecanismos como o 'surgimento axonal', no qual axônios não danificados desenvolvem novas terminações nervosas para reconectar neurônios cujas ligações foram danificadas ou rompidas, formando novas vias neurais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "30"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o mecanismo denominado 'surgimento axonal' (brotamento axonal), importante na reorganização do cérebro após lesão, consiste em: A reorganização do cérebro ocorre por mecanismos como o 'surgimento axonal', no qual axônios não danificados desenvolvem novas terminações nervosas para reconectar neurônios cujas ligações foram danificadas ou rompidas, formando novas vias neurais."
+    },
+    {
+      "id": "neuro-obj-180",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, pesquisas baseadas em modelos humanos e animais evidenciam que o exercício aeróbio promove a neuroplasticidade e a recuperação funcional em muitos distúrbios neurológicos, sendo os resultados da neuroplasticidade maiores naqueles indivíduos com:",
+      "options": {
+        "a": "Maior aptidão cardiorrespiratória e menos gordura corporal",
+        "b": "Menor aptidão física e maior sedentarismo",
+        "c": "Ausência completa de qualquer atividade física",
+        "d": "Maior consumo de bebidas alcoólicas",
+        "e": "Restrição alimentar severa e prolongada"
+      },
+      "correct": "a",
+      "explanation": "Os estudos envolvendo exercícios aeróbios apontam que os resultados da neuroplasticidade são maiores naqueles indivíduos com maior aptidão cardiorrespiratória e menos gordura corporal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "25"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, pesquisas baseadas em modelos humanos e animais evidenciam que o exercício aeróbio promove a neuroplasticidade e a recuperação funcional em muitos distúrbios neurológicos, sendo os resultados da neuroplasticidade maiores naqueles indivíduos com: Os estudos envolvendo exercícios aeróbios apontam que os resultados da neuroplasticidade são maiores naqueles indivíduos com maior aptidão cardiorrespiratória e menos gordura corporal."
+    },
+    {
+      "id": "neuro-obj-181",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, um dos mecanismos envolvidos na relação entre exercício físico e Sistema Nervoso Central é a ação de moléculas relacionadas à melhor função cognitiva, neurogênese, angiogênese e plasticidade cerebral, denominadas:",
+      "options": {
+        "a": "Fatores neurotróficos",
+        "b": "Neurotransmissores inibitórios exclusivamente",
+        "c": "Hormônios tireoidianos apenas",
+        "d": "Enzimas digestivas",
+        "e": "Anticorpos monoclonais"
+      },
+      "correct": "a",
+      "explanation": "Outro mecanismo envolvido na relação entre exercício e Sistema Nervoso Central é a ação dos fatores neurotróficos, relacionados à melhor função cognitiva, neurogênese, angiogênese e plasticidade cerebral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "29"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um dos mecanismos envolvidos na relação entre exercício físico e Sistema Nervoso Central é a ação de moléculas relacionadas à melhor função cognitiva, neurogênese, angiogênese e plasticidade cerebral, denominadas: Outro mecanismo envolvido na relação entre exercício e Sistema Nervoso Central é a ação dos fatores neurotróficos, relacionados à melhor função cognitiva, neurogênese, angiogênese e plasticidade cerebral."
+    },
+    {
+      "id": "neuro-obj-182",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, no início do desenvolvimento, os dendritos têm relativamente poucas espinhas; processos moleculares subsequentes resultam na formação de muitas espinhas, que sofrem mudanças na estrutura e função. Esse processo, em grande parte resultado do uso sináptico por meio das experiências, estabelece uma ligação importante entre:",
+      "options": {
+        "a": "A neuroplasticidade funcional e a neuroplasticidade estrutural",
+        "b": "A neurogênese e a morte celular programada exclusivamente",
+        "c": "A memória de curto prazo e o sistema límbico apenas",
+        "d": "O sistema nervoso periférico e o sistema endócrino",
+        "e": "A depressão de longo prazo e a inibição inter-hemisférica"
+      },
+      "correct": "a",
+      "explanation": "A plasticidade sináptica intensa que ocorre nas espinhas dendríticas dos neurônios estabelece uma ligação importante entre a neuroplasticidade funcional e a estrutural, moldando as trajetórias de desenvolvimento e aprendizagem do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "26"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, no início do desenvolvimento, os dendritos têm relativamente poucas espinhas; processos moleculares subsequentes resultam na formação de muitas espinhas, que sofrem mudanças na estrutura e função. Esse processo, em grande parte resultado do uso sináptico por meio das experiências, estabelece uma ligação importante entre: A plasticidade sináptica intensa que ocorre nas espinhas dendríticas dos neurônios estabelece uma ligação importante entre a neuroplasticidade funcional e a estrutural, moldando as trajetórias de desenvolvimento e aprendizagem do indivíduo."
+    },
+    {
+      "id": "neuro-obj-183",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, após ter alta de um centro de reabilitação, a porcentagem de pacientes pós-AVC capazes de andar de forma independente varia entre:",
+      "options": {
+        "a": "60% a 80%",
+        "b": "5% a 10%",
+        "c": "95% a 100%",
+        "d": "20% a 30%",
+        "e": "Nenhum paciente recupera essa capacidade"
+      },
+      "correct": "a",
+      "explanation": "Depois de ter alta de um centro de reabilitação, de 60% a 80% dos pacientes pós-AVC são capazes de andar de forma independente; porém, a recuperação motora dos membros superiores ainda é um desafio maior para a reabilitação neurológica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "22"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após ter alta de um centro de reabilitação, a porcentagem de pacientes pós-AVC capazes de andar de forma independente varia entre: Depois de ter alta de um centro de reabilitação, de 60% a 80% dos pacientes pós-AVC são capazes de andar de forma independente; porém, a recuperação motora dos membros superiores ainda é um desafio maior para a reabilitação neurológica."
+    },
+    {
+      "id": "neuro-obj-184",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, inicialmente, mais de 85% dos indivíduos com AVC apresentam déficit motor no membro superior afetado, sendo que a recuperação funcional desse membro é relatada apenas por qual proporção de indivíduos acometidos?",
+      "options": {
+        "a": "25% a 35%",
+        "b": "90% a 100%",
+        "c": "5% apenas",
+        "d": "60% a 70%",
+        "e": "Nenhum caso de recuperação é relatado"
+      },
+      "correct": "a",
+      "explanation": "Inicialmente, mais de 85% dos indivíduos apresentam déficit motor no membro superior afetado após o AVC, com recuperação funcional sendo relatada apenas por 25% a 35% dos indivíduos acometidos, evidenciando o desafio da reabilitação dos membros superiores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "22"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, inicialmente, mais de 85% dos indivíduos com AVC apresentam déficit motor no membro superior afetado, sendo que a recuperação funcional desse membro é relatada apenas por qual proporção de indivíduos acometidos? Inicialmente, mais de 85% dos indivíduos apresentam déficit motor no membro superior afetado após o AVC, com recuperação funcional sendo relatada apenas por 25% a 35% dos indivíduos acometidos, evidenciando o desafio da reabilitação dos membros superiores."
+    },
+    {
+      "id": "neuro-obj-185",
+      "topic": "Plasticidade neural",
+      "question": "Segundo o material, embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam, após o nascimento, a:",
+      "options": {
+        "a": "Fazer novas conexões com outras estruturas por meio de ramificações dendríticas e remodelar conexões já existentes",
+        "b": "Perder completamente a capacidade de formar novas conexões",
+        "c": "Reduzir em número até restarem apenas as células gliais",
+        "d": "Permanecer estruturalmente idênticos ao longo de toda a vida",
+        "e": "Interromper toda atividade sináptica após os primeiros meses de vida"
+      },
+      "correct": "a",
+      "explanation": "Após o nascimento, o sistema nervoso continua a amadurecer: embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam a fazer novas conexões com outras estruturas por meio de ramificações dendríticas, além de remodelar outras conexões já existentes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam, após o nascimento, a: Após o nascimento, o sistema nervoso continua a amadurecer: embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam a fazer novas conexões com outras estruturas por meio de ramificações dendríticas, além de remodelar outras conexões já existentes."
     }
   ],
   "discursive": [
@@ -4274,6 +5682,856 @@
       },
       "subject": "Sistema límbico",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-036",
+      "topic": "Estrutura do nervo espinhal",
+      "question": "Descreva a estrutura do nervo espinhal, explicando as funções da raiz dorsal e da raiz ventral, e por que ele é classificado como nervo misto.",
+      "modelAnswer": "Cada nervo espinhal é formado pela união de duas raízes: a raiz dorsal, responsável pelo recebimento da informação sensitiva vinda da periferia, onde se localiza o gânglio espinhal (com os corpos dos neurônios sensitivos); e a raiz ventral, responsável pela saída da informação motora, formada por axônios de neurônios motores das colunas anterior e lateral da medula, sem apresentar gânglios. A união dessas duas raízes forma o tronco do nervo espinhal, que por apresentar componentes motor e sensitivo é classificado como nervo misto.",
+      "keyPoints": [
+        {
+          "text": "Raiz dorsal: recebe informação sensitiva, contém o gânglio espinhal",
+          "weight": 0.35,
+          "keywords": [
+            "raiz dorsal",
+            "sensitiva",
+            "gânglio espinhal"
+          ]
+        },
+        {
+          "text": "Raiz ventral: saída da informação motora, sem gânglios",
+          "weight": 0.35,
+          "keywords": [
+            "raiz ventral",
+            "motora",
+            "sem gânglios"
+          ]
+        },
+        {
+          "text": "União das raízes forma o nervo misto",
+          "weight": 0.3,
+          "keywords": [
+            "nervo misto",
+            "união das raízes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-037",
+      "topic": "Dermátomos e miótomos",
+      "question": "Explique os conceitos de dermátomo e miótomo e sua relevância clínica na identificação de lesões do sistema nervoso.",
+      "modelAnswer": "O dermátomo é o território cutâneo inervado por fibras de uma única raiz dorsal, recebendo o nome dessa raiz. O miótomo é o território muscular inervado por uma única raiz ventral (motora). Conhecer o mapa de dermátomos e miótomos tem grande relevância clínica: diante de um quadro de perda de sensibilidade, é possível determinar se a lesão ocorreu em um nervo periférico, na medula ou nas raízes espinhais; da mesma forma, por meio dos miótomos, é possível identificar se uma alteração motora decorre de lesão no sistema nervoso periférico ou na medula espinhal, e em que nível ela ocorreu.",
+      "keyPoints": [
+        {
+          "text": "Dermátomo: território cutâneo de uma única raiz dorsal",
+          "weight": 0.3,
+          "keywords": [
+            "dermátomo",
+            "raiz dorsal",
+            "cutâneo"
+          ]
+        },
+        {
+          "text": "Miótomo: território muscular de uma única raiz ventral",
+          "weight": 0.3,
+          "keywords": [
+            "miótomo",
+            "raiz ventral",
+            "muscular"
+          ]
+        },
+        {
+          "text": "Relevância clínica: localizar o nível da lesão nervosa",
+          "weight": 0.4,
+          "keywords": [
+            "relevância clínica",
+            "localizar lesão",
+            "nível"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-038",
+      "topic": "Plexo braquial",
+      "question": "Descreva a organização anatômica do plexo braquial, desde as raízes até os ramos terminais, e cite dois nervos terminais com seus respectivos músculos inervados.",
+      "modelAnswer": "O plexo braquial é formado pelas quatro últimas raízes cervicais (C5 a C8) e pela primeira raiz torácica (T1), organizando-se na sequência: raízes, troncos (superior — C5/C6, médio — C7, inferior — C8/T1), divisões (anterior e posterior de cada tronco), fascículos (lateral, medial e posterior, nomeados por sua relação com a artéria axilar) e, por fim, os ramos ou nervos terminais. Como exemplos de nervos terminais: o nervo musculocutâneo, originado do fascículo lateral, inerva os músculos do compartimento anterior do braço; e o nervo radial, originado do fascículo posterior, inerva os músculos do compartimento posterior do braço e antebraço.",
+      "keyPoints": [
+        {
+          "text": "Raízes C5-T1, formando troncos superior, médio e inferior",
+          "weight": 0.3,
+          "keywords": [
+            "raízes",
+            "troncos",
+            "C5",
+            "T1"
+          ]
+        },
+        {
+          "text": "Divisões anterior/posterior e fascículos lateral, medial e posterior",
+          "weight": 0.3,
+          "keywords": [
+            "divisões",
+            "fascículos",
+            "lateral",
+            "medial",
+            "posterior"
+          ]
+        },
+        {
+          "text": "Exemplos de nervos terminais e músculos inervados (musculocutâneo, radial, etc.)",
+          "weight": 0.4,
+          "keywords": [
+            "musculocutâneo",
+            "radial",
+            "músculos inervados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8-10"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-039",
+      "topic": "Plexo lombossacro",
+      "question": "Compare a organização anatômica do plexo lombossacro com a do plexo braquial, e cite os dois principais nervos do plexo lombossacro com suas funções.",
+      "modelAnswer": "O padrão anatômico do plexo lombossacro é mais simples que o do plexo braquial, pois seus nervos periféricos derivam diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, não havendo formação de troncos, divisões e fascículos como no plexo braquial. O plexo lombar (raízes L1-L3, com eventual contribuição de T12 e L4) tem como maior nervo o femoral, responsável pelos flexores de quadril e extensores de joelho. O plexo sacral (raízes L4-S4) tem como principal e maior nervo o ciático, que inerva a musculatura posterior da coxa e se divide, na fossa poplítea, em nervo fibular comum e nervo tibial.",
+      "keyPoints": [
+        {
+          "text": "Plexo lombossacro mais simples, sem troncos/divisões/fascículos",
+          "weight": 0.3,
+          "keywords": [
+            "mais simples",
+            "sem troncos",
+            "T12",
+            "S4"
+          ]
+        },
+        {
+          "text": "Nervo femoral: flexores de quadril e extensores de joelho",
+          "weight": 0.35,
+          "keywords": [
+            "femoral",
+            "flexores de quadril",
+            "extensores de joelho"
+          ]
+        },
+        {
+          "text": "Nervo ciático: musculatura posterior da coxa, divide-se em fibular comum e tibial",
+          "weight": 0.35,
+          "keywords": [
+            "ciático",
+            "posterior da coxa",
+            "fibular comum",
+            "tibial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11-12"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-040",
+      "topic": "Tipos de lesão nervosa periférica",
+      "question": "Descreva os três tipos de lesões nervosas periféricas (neuropraxia, axonotmese e neurotmese), indicando o grau de comprometimento estrutural e o prognóstico de cada uma.",
+      "modelAnswer": "Existem três tipos de lesões nervosas periféricas. A neuropraxia é a mais leve: a estrutura do nervo permanece intacta, ocorrendo apenas interrupção da condução axonal, com perda temporária da função e bom prognóstico. A axonotmese envolve lesão do axônio, mas as bainhas conjuntivas permanecem intactas e o endoneuro é mantido, o que representa um curso anatômico favorável para a regeneração, mantendo bom prognóstico. Já a neurotmese é a mais grave: o nervo é totalmente seccionado, com lesão do axônio e do endoneuro; a distância variável entre os cotos nervosos dificulta muito a regeneração, resultando em prognóstico ruim.",
+      "keyPoints": [
+        {
+          "text": "Neuropraxia: estrutura intacta, apenas condução interrompida, bom prognóstico",
+          "weight": 0.3,
+          "keywords": [
+            "neuropraxia",
+            "estrutura intacta",
+            "bom prognóstico"
+          ]
+        },
+        {
+          "text": "Axonotmese: lesão do axônio, bainhas intactas, ainda bom prognóstico",
+          "weight": 0.35,
+          "keywords": [
+            "axonotmese",
+            "lesão do axônio",
+            "bainhas intactas"
+          ]
+        },
+        {
+          "text": "Neurotmese: secção total, prognóstico ruim",
+          "weight": 0.35,
+          "keywords": [
+            "neurotmese",
+            "secção total",
+            "prognóstico ruim"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-041",
+      "topic": "Nervos encefálicos: classificação funcional",
+      "question": "Explique como os 12 pares de nervos encefálicos são classificados quanto à função (aferentes, eferentes e mistos), citando exemplos de cada categoria.",
+      "modelAnswer": "Os 12 pares de nervos encefálicos são classificados em três categorias funcionais. Os nervos I (olfatório), II (óptico) e VIII (vestibulococlear) são considerados apenas aferentes (sensoriais), transmitindo informações do olfato, visão e equilíbrio/audição, respectivamente. Os nervos III (oculomotor), IV (troclear), VI (abducente), XI (acessório) e XII (hipoglosso) são apenas eferentes (motores), controlando movimentos oculares, musculatura cervical e da língua. Já os nervos V (trigêmeo), VII (facial), IX (glossofaríngeo) e X (vago) são funcionalmente mistos, apresentando componentes sensoriais e motores simultaneamente.",
+      "keyPoints": [
+        {
+          "text": "Aferentes (sensoriais): I olfatório, II óptico, VIII vestibulococlear",
+          "weight": 0.35,
+          "keywords": [
+            "aferentes",
+            "olfatório",
+            "óptico",
+            "vestibulococlear"
+          ]
+        },
+        {
+          "text": "Eferentes (motores): III, IV, VI, XI, XII",
+          "weight": 0.35,
+          "keywords": [
+            "eferentes",
+            "oculomotor",
+            "troclear",
+            "abducente",
+            "acessório",
+            "hipoglosso"
+          ]
+        },
+        {
+          "text": "Mistos: V trigêmeo, VII facial, IX glossofaríngeo, X vago",
+          "weight": 0.3,
+          "keywords": [
+            "mistos",
+            "trigêmeo",
+            "facial",
+            "glossofaríngeo",
+            "vago"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-042",
+      "topic": "Paralisia facial periférica x central",
+      "question": "Diferencie a paralisia facial periférica da paralisia facial central quanto à lateralidade e à extensão do comprometimento muscular, explicando a razão anatômica dessa diferença.",
+      "modelAnswer": "A paralisia facial periférica é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface, causando paralisia total da metade dos músculos da face. Já a paralisia facial central é contralateral (ocorre do lado oposto à lesão) e manifesta-se apenas nos músculos da metade inferior da face, poupando os músculos da metade superior, como o orbicular do olho. Isso ocorre porque as fibras córtico-nucleares que vão para os neurônios motores que inervam a metade superior da face são homo e heterolaterais (terminam nos núcleos de ambos os lados), enquanto as fibras que controlam a metade inferior da face são todas heterolaterais — por isso, na lesão central, a metade superior permanece funcional graças às fibras homolaterais intactas.",
+      "keyPoints": [
+        {
+          "text": "Periférica: homolateral, acomete toda a hemiface",
+          "weight": 0.3,
+          "keywords": [
+            "periférica",
+            "homolateral",
+            "toda hemiface"
+          ]
+        },
+        {
+          "text": "Central: contralateral, poupa a metade superior da face",
+          "weight": 0.3,
+          "keywords": [
+            "central",
+            "contralateral",
+            "poupa metade superior"
+          ]
+        },
+        {
+          "text": "Explicação anatômica: fibras córtico-nucleares homo/heterolaterais na parte superior vs. só heterolaterais na inferior",
+          "weight": 0.4,
+          "keywords": [
+            "córtico-nucleares",
+            "homo e heterolaterais",
+            "heterolaterais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-043",
+      "topic": "Sistema Nervoso Autônomo: organização geral",
+      "question": "Explique a organização do Sistema Nervoso Autônomo em dois neurônios (pré-ganglionar e pós-ganglionar), diferenciando-a da via periférica do Sistema Nervoso Somático.",
+      "modelAnswer": "Enquanto a via periférica do Sistema Nervoso Somático é constituída por apenas um neurônio, a via periférica do Sistema Nervoso Autônomo é formada por dois neurônios. O primeiro neurônio, chamado pré-ganglionar, possui corpo celular situado no Sistema Nervoso Central (medula ou tronco encefálico). O segundo neurônio, chamado pós-ganglionar, tem corpo celular situado fora do SNC, nos gânglios autônomos. Assim, o Sistema Nervoso Autônomo, assim como o Somático, possui uma porção central e uma periférica, mas com essa diferença fundamental na cadeia neuronal, que reflete sua divisão em simpático e parassimpático.",
+      "keyPoints": [
+        {
+          "text": "SN Somático: via periférica com apenas um neurônio",
+          "weight": 0.25,
+          "keywords": [
+            "somático",
+            "um neurônio"
+          ]
+        },
+        {
+          "text": "SNA: via periférica com dois neurônios (pré e pós-ganglionar)",
+          "weight": 0.4,
+          "keywords": [
+            "dois neurônios",
+            "pré-ganglionar",
+            "pós-ganglionar"
+          ]
+        },
+        {
+          "text": "Pré-ganglionar: corpo no SNC; pós-ganglionar: corpo nos gânglios autônomos",
+          "weight": 0.35,
+          "keywords": [
+            "corpo celular",
+            "gânglios autônomos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-044",
+      "topic": "SNA simpático x parassimpático",
+      "question": "Compare os sistemas simpático e parassimpático quanto à localização anatômica dos neurônios pré-ganglionares e à natureza de suas ações (localizadas x difusas), com exemplos.",
+      "modelAnswer": "O sistema simpático, também chamado toracolombar, tem seus neurônios pré-ganglionares localizados na medula torácica e nos dois primeiros segmentos lombares; seus gânglios (tronco simpático) situam-se longe das vísceras, o que faz suas ações tenderem a ser difundidas, atingindo vários órgãos simultaneamente — por exemplo, taquicardia, dilatação de brônquios e diminuição do peristaltismo. O sistema parassimpático, também chamado craniossacral, tem seus neurônios pré-ganglionares localizados no tronco cerebral (associados aos nervos III, VII, IX e X) e nos segmentos sacrais S2-S4; seus gânglios situam-se próximos das vísceras, tornando suas ações mais localizadas em um órgão ou setor específico — por exemplo, bradicardia, constrição de brônquios e aumento do peristaltismo.",
+      "keyPoints": [
+        {
+          "text": "Simpático (toracolombar): gânglios longe das vísceras, ações difusas",
+          "weight": 0.4,
+          "keywords": [
+            "simpático",
+            "toracolombar",
+            "difusas"
+          ]
+        },
+        {
+          "text": "Parassimpático (craniossacral): gânglios próximos das vísceras, ações localizadas",
+          "weight": 0.4,
+          "keywords": [
+            "parassimpático",
+            "craniossacral",
+            "localizadas"
+          ]
+        },
+        {
+          "text": "Exemplos de funções opostas (taquicardia/bradicardia, etc.)",
+          "weight": 0.2,
+          "keywords": [
+            "taquicardia",
+            "bradicardia",
+            "exemplos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33-38"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-045",
+      "topic": "SNA e emoções",
+      "question": "Explique a relação entre o Sistema Nervoso Autônomo e o sistema emocional, citando as estruturas cerebrais envolvidas e sua relevância clínica.",
+      "modelAnswer": "Existem áreas no telencéfalo e no diencéfalo, como o hipotálamo e o sistema límbico, que regulam as funções viscerais e estão ligadas a certos tipos de comportamento, principalmente o emocional. Os impulsos nervosos dessas áreas terminam fazendo sinapse com os neurônios pré-ganglionares do tronco encefálico e da medula, sendo esse o mecanismo pelo qual o Sistema Nervoso Central influencia o funcionamento das vísceras. Essa relação explica por que muitos pacientes apresentam quadros de reações psicossomáticas, destituídas de causas orgânicas, decorrentes de ações no Sistema Nervoso Autônomo — sendo, portanto, um conhecimento de grande relevância clínica para profissionais da saúde, incluindo psicólogos.",
+      "keyPoints": [
+        {
+          "text": "Hipotálamo e sistema límbico regulam funções viscerais ligadas às emoções",
+          "weight": 0.4,
+          "keywords": [
+            "hipotálamo",
+            "sistema límbico",
+            "emocional"
+          ]
+        },
+        {
+          "text": "Sinapse com neurônios pré-ganglionares do tronco encefálico e medula",
+          "weight": 0.3,
+          "keywords": [
+            "sinapse",
+            "pré-ganglionares",
+            "tronco encefálico"
+          ]
+        },
+        {
+          "text": "Relevância clínica: reações psicossomáticas sem causa orgânica",
+          "weight": 0.3,
+          "keywords": [
+            "psicossomáticas",
+            "sem causa orgânica",
+            "relevância clínica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33-39"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-046",
+      "topic": "Tipos de plasticidade neural",
+      "question": "Diferencie a plasticidade neural expectante de experiência da plasticidade neural dependente de experiência, com exemplos de cada uma.",
+      "modelAnswer": "A plasticidade neural expectante de experiência (esperada) é exemplificada pelos sistemas sensoriais, que estão prontos para funcionar no nascimento, mas requerem experiência com luz e som para completar sua maturação; a privação durante períodos críticos pode resultar na falta do desenvolvimento esperado da visão e da audição. Já a plasticidade neural dependente da experiência (também chamada ecológica ou dependente de atividade) permite que o sistema nervoso incorpore informações de experiências ambientais imprevisíveis e individuais, dependentes do contexto físico, social e cultural — como a aprendizagem motora, que varia conforme os desafios físicos únicos encontrados por cada criança em diferentes culturas.",
+      "keyPoints": [
+        {
+          "text": "Expectante de experiência: sistemas sensoriais precisam de estímulo (luz/som) para maturar",
+          "weight": 0.4,
+          "keywords": [
+            "expectante",
+            "sistemas sensoriais",
+            "luz",
+            "som"
+          ]
+        },
+        {
+          "text": "Dependente de experiência: incorpora informações imprevisíveis e individuais do contexto",
+          "weight": 0.4,
+          "keywords": [
+            "dependente da experiência",
+            "imprevisíveis",
+            "contexto"
+          ]
+        },
+        {
+          "text": "Exemplo: aprendizagem motora varia conforme cultura/experiência",
+          "weight": 0.2,
+          "keywords": [
+            "aprendizagem motora",
+            "cultura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "4-5"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-047",
+      "topic": "Neurogênese adulta",
+      "question": "Explique o que é a neurogênese e descreva as duas regiões do cérebro adulto onde ela ocorre continuamente, segundo o material.",
+      "modelAnswer": "A neurogênese é o processo pelo qual novos neurônios são formados no cérebro, sendo crucial durante o desenvolvimento embrionário, mas também presente em certas regiões do cérebro após o nascimento e ao longo da vida. Até a década de 1990, acreditava-se que o Sistema Nervoso Central adulto era incapaz de regeneração, mas descobriu-se que existem duas regiões de proliferação ativa que geram neurônios continuamente na vida adulta: a zona subependimal (subventricular) do ventrículo lateral, cujos novos neurônios migram pela corrente migratória rostral até o bulbo olfatório; e a camada subgranular do giro denteado no hipocampo, região relacionada à memória e à orientação espacial.",
+      "keyPoints": [
+        {
+          "text": "Neurogênese: formação de novos neurônios, presente também na vida adulta",
+          "weight": 0.3,
+          "keywords": [
+            "neurogênese",
+            "novos neurônios",
+            "vida adulta"
+          ]
+        },
+        {
+          "text": "Zona subependimal (subventricular), com migração via corrente rostral até o bulbo olfatório",
+          "weight": 0.35,
+          "keywords": [
+            "zona subependimal",
+            "corrente migratória rostral",
+            "bulbo olfatório"
+          ]
+        },
+        {
+          "text": "Camada subgranular do giro denteado no hipocampo",
+          "weight": 0.35,
+          "keywords": [
+            "giro denteado",
+            "hipocampo",
+            "camada subgranular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "5-6"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-048",
+      "topic": "Neurogênese e aprendizagem",
+      "question": "Descreva as evidências apresentadas no material sobre a correlação entre neurogênese hipocampal e desempenho de aprendizagem, incluindo fatores que favorecem e que prejudicam essa relação.",
+      "modelAnswer": "Várias linhas de evidência sugerem correlação positiva entre neurogênese e aprendizagem em mamíferos: ratos com menor número de novos neurônios apresentaram desempenho pior em tarefas de navegação espacial (Labirinto Aquático de Morris), e ratos mutantes com neurogênese hipocampal diminuída mostraram desempenho prejudicado em tarefas dependentes do hipocampo. Fatores que favorecem a neurogênese e o aprendizado incluem exercício voluntário (aumenta a proliferação celular) e ambiente enriquecido (promove a sobrevivência de neurônios imaturos, melhora a memória de reconhecimento). Já fatores como envelhecimento normal, estresse, diabetes e drogas como álcool, nicotina e opiáceos prejudicam a neurogênese e o aprendizado — embora, em alguns casos, o estresse tenha até aumentado o aprendizado de certas tarefas, sugerindo que a relação nem sempre é causal ou linear.",
+      "keyPoints": [
+        {
+          "text": "Correlação positiva: menos neurônios novos = pior desempenho em navegação espacial",
+          "weight": 0.3,
+          "keywords": [
+            "correlação positiva",
+            "labirinto aquático",
+            "navegação espacial"
+          ]
+        },
+        {
+          "text": "Fatores favoráveis: exercício voluntário e ambiente enriquecido",
+          "weight": 0.35,
+          "keywords": [
+            "exercício voluntário",
+            "ambiente enriquecido"
+          ]
+        },
+        {
+          "text": "Fatores prejudiciais: envelhecimento, estresse, diabetes, álcool/nicotina/opiáceos",
+          "weight": 0.35,
+          "keywords": [
+            "envelhecimento",
+            "estresse",
+            "diabetes",
+            "álcool"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "11-12"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-049",
+      "topic": "Quatro tipos de neuroplasticidade",
+      "question": "Descreva os quatro principais tipos de adaptações de neuroplasticidade apresentados no material: neurogênese, sinaptogênese, potenciação de longo prazo e depressão de longo prazo.",
+      "modelAnswer": "A neurogênese é a criação de novos neurônios nas partes centrais do cérebro (hipocampo e bulbo olfatório), ocorrendo em altas taxas no cérebro jovem e podendo persistir no cérebro adulto até a décima década de vida. A sinaptogênese é a criação de novas conexões neurais, ocorrendo quando o cérebro é exposto a novos ambientes e experiências, como viajar ou aprender um instrumento musical. A potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica. Já a depressão de longo prazo é o enfraquecimento das sinapses não utilizadas, associada à memória e ao aprendizado motor, e estudada em relação à perda de memória em distúrbios como a doença de Alzheimer.",
+      "keyPoints": [
+        {
+          "text": "Neurogênese: criação de novos neurônios (hipocampo/bulbo olfatório)",
+          "weight": 0.25,
+          "keywords": [
+            "neurogênese",
+            "novos neurônios"
+          ]
+        },
+        {
+          "text": "Sinaptogênese: criação de novas conexões neurais",
+          "weight": 0.25,
+          "keywords": [
+            "sinaptogênese",
+            "novas conexões"
+          ]
+        },
+        {
+          "text": "Potenciação de longo prazo: aumento persistente da transmissão sináptica",
+          "weight": 0.25,
+          "keywords": [
+            "potenciação de longo prazo",
+            "aumento persistente"
+          ]
+        },
+        {
+          "text": "Depressão de longo prazo: enfraquecimento de sinapses não usadas",
+          "weight": 0.25,
+          "keywords": [
+            "depressão de longo prazo",
+            "enfraquecimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "13"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-050",
+      "topic": "Neuroplasticidade positiva e negativa",
+      "question": "Explique a diferença entre neuroplasticidade positiva e negativa, com exemplos de aplicação clínica citados no material.",
+      "modelAnswer": "A neuroplasticidade negativa refere-se a mudanças no cérebro que fortalecem vias prejudiciais à saúde — por exemplo, a relação entre neuroplasticidade e depressão é semelhante à observada entre neuroplasticidade e vício, já que a depressão pode causar traumas cerebrais que reforçam padrões disfuncionais. Já a neuroplasticidade positiva refere-se ao crescimento e fortalecimento de conexões neurais saudáveis, representando o potencial de cura da neuroplasticidade. Pesquisadores estudam maneiras de induzir a neuroplasticidade positiva e interromper a negativa para tratar distúrbios como depressão, ansiedade, TDAH e dependência.",
+      "keyPoints": [
+        {
+          "text": "Neuroplasticidade negativa: fortalece vias prejudiciais (ex.: depressão, vício)",
+          "weight": 0.4,
+          "keywords": [
+            "negativa",
+            "vias prejudiciais",
+            "depressão",
+            "vício"
+          ]
+        },
+        {
+          "text": "Neuroplasticidade positiva: fortalece conexões saudáveis (potencial de cura)",
+          "weight": 0.4,
+          "keywords": [
+            "positiva",
+            "conexões saudáveis",
+            "cura"
+          ]
+        },
+        {
+          "text": "Aplicação clínica: tratamento de depressão, ansiedade, TDAH, dependência",
+          "weight": 0.2,
+          "keywords": [
+            "depressão",
+            "ansiedade",
+            "TDAH",
+            "dependência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "18"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-051",
+      "topic": "Reorganização cerebral após lesão",
+      "question": "Explique como o cérebro se reorganiza após uma lesão focal, como o AVC, mencionando o conceito de inibição inter-hemisférica.",
+      "modelAnswer": "Após lesão cerebral, como o AVC, o cérebro compensa os danos reorganizando e formando novas conexões entre neurônios intactos — se um hemisfério está danificado, o hemisfério intacto pode assumir parte de suas funções. Em um córtex saudável, um equilíbrio entre as interações dos hemisférios, via corpo caloso, é necessário para movimentos voluntários normais. Após uma lesão unilateral, esse equilíbrio é alterado, resultando em hiperexcitabilidade do córtex motor não afetado, que passa a exercer ação inibitória sobre o hemisfério lesado — fenômeno denominado inibição inter-hemisférica. Esse modelo de desequilíbrio fornece a base para estratégias de reabilitação, como a regulação positiva da excitabilidade do hemisfério lesado ou a regulação negativa (redução da inibição) do hemisfério contralesional.",
+      "keyPoints": [
+        {
+          "text": "Cérebro reorganiza-se formando novas conexões entre neurônios intactos",
+          "weight": 0.3,
+          "keywords": [
+            "reorganização",
+            "novas conexões",
+            "neurônios intactos"
+          ]
+        },
+        {
+          "text": "Inibição inter-hemisférica: hemisfério intacto inibe o hemisfério lesado",
+          "weight": 0.4,
+          "keywords": [
+            "inibição inter-hemisférica",
+            "hemisfério lesado"
+          ]
+        },
+        {
+          "text": "Base para estratégias de regulação positiva/negativa na reabilitação",
+          "weight": 0.3,
+          "keywords": [
+            "regulação positiva",
+            "regulação negativa",
+            "reabilitação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "16-22"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-052",
+      "topic": "Neuroplasticidade funcional x estrutural",
+      "question": "Diferencie a neuroplasticidade funcional da neuroplasticidade estrutural, com exemplos de cada uma citados no material.",
+      "modelAnswer": "A neuroplasticidade funcional está relacionada a mudanças no funcionamento fisiológico dos neurônios, como excitabilidade, nível de resposta ou sincronicidade dentro das redes neurais — por exemplo, a plasticidade sináptica de curto prazo, que corresponde a um aumento ou diminuição da probabilidade de liberação do neurotransmissor em poucos minutos ou até milissegundos. Já a neuroplasticidade estrutural, em uma escala mais ampla, envolve mudanças regionais de volume ou formação de novas vias neurais, por meio de sinaptogênese, brotamento axonal ou dendrítico, mudanças na mielina ou produção de novos neurônios, sendo esta última documentada em várias partes do cérebro humano adulto.",
+      "keyPoints": [
+        {
+          "text": "Funcional: mudanças fisiológicas (excitabilidade, resposta, sincronicidade)",
+          "weight": 0.4,
+          "keywords": [
+            "funcional",
+            "excitabilidade",
+            "sincronicidade"
+          ]
+        },
+        {
+          "text": "Estrutural: mudanças de volume, novas vias, sinaptogênese, brotamento axonal",
+          "weight": 0.4,
+          "keywords": [
+            "estrutural",
+            "novas vias",
+            "sinaptogênese",
+            "brotamento axonal"
+          ]
+        },
+        {
+          "text": "Exemplo: plasticidade sináptica de curto prazo (funcional)",
+          "weight": 0.2,
+          "keywords": [
+            "curto prazo",
+            "liberação do neurotransmissor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "26-27"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-053",
+      "topic": "Exercício aeróbio e neuroplasticidade",
+      "question": "Explique a relação entre exercício aeróbio e neuroplasticidade, citando os mecanismos envolvidos segundo o material.",
+      "modelAnswer": "Pesquisas baseadas em modelos humanos e animais evidenciam que o exercício aeróbio promove a neuroplasticidade e a recuperação funcional em muitos distúrbios neurológicos. Estudos com estimulação magnética transcraniana mostraram melhorias na excitabilidade cerebral após sessões de exercício aeróbio, mesmo em populações com condições neurológicas graves, como a esclerose múltipla progressiva. Os resultados são maiores em indivíduos com maior aptidão cardiorrespiratória e menos gordura corporal. Um dos mecanismos envolvidos é a ação dos fatores neurotróficos, relacionados à melhor função cognitiva, neurogênese, angiogênese e plasticidade cerebral; além disso, o exercício pode alterar sinapses ou reduzir eventos moleculares nocivos na área perilesionada em encéfalos lesados.",
+      "keyPoints": [
+        {
+          "text": "Exercício aeróbio promove neuroplasticidade e recuperação funcional",
+          "weight": 0.3,
+          "keywords": [
+            "exercício aeróbio",
+            "neuroplasticidade",
+            "recuperação funcional"
+          ]
+        },
+        {
+          "text": "Melhores resultados com maior aptidão cardiorrespiratória e menos gordura corporal",
+          "weight": 0.3,
+          "keywords": [
+            "aptidão cardiorrespiratória",
+            "gordura corporal"
+          ]
+        },
+        {
+          "text": "Mecanismo: fatores neurotróficos (neurogênese, angiogênese)",
+          "weight": 0.4,
+          "keywords": [
+            "fatores neurotróficos",
+            "neurogênese",
+            "angiogênese"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "25-29"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-054",
+      "topic": "Neurorreabilitação e plasticidade positiva",
+      "question": "O que é a neurorreabilitação, segundo o material, e como ela se relaciona com o conceito de aprendizagem adaptativa e a recuperação de pacientes pós-AVC?",
+      "modelAnswer": "A neurorreabilitação pode ser definida como a facilitação da aprendizagem adaptativa. A reabilitação do AVC baseada na neurociência é reconhecida por sua capacidade de alcançar resultados mais restauradores, sendo a experiência e a plasticidade dependente de aprendizagem fundamentais para essa mudança. As mudanças neurais plásticas após o AVC dependem da experiência e do aprendizado, podendo ser adaptativas (facilitando a recuperação) ou não adaptativas (por exemplo, uma pessoa pode aprender a não usar o membro afetado ou desenvolver posturas distônicas após perda sensorial). O contínuo de recuperação após o AVC representa uma janela de oportunidade para a reabilitação direcionada, que busca aproveitar e aprimorar esses mecanismos de plasticidade neural para melhores resultados funcionais.",
+      "keyPoints": [
+        {
+          "text": "Neurorreabilitação: facilitação da aprendizagem adaptativa",
+          "weight": 0.35,
+          "keywords": [
+            "neurorreabilitação",
+            "aprendizagem adaptativa"
+          ]
+        },
+        {
+          "text": "Mudanças plásticas podem ser adaptativas ou não adaptativas",
+          "weight": 0.35,
+          "keywords": [
+            "adaptativas",
+            "não adaptativas",
+            "posturas distônicas"
+          ]
+        },
+        {
+          "text": "Janela de oportunidade para reabilitação direcionada pós-AVC",
+          "weight": 0.3,
+          "keywords": [
+            "janela de oportunidade",
+            "reabilitação direcionada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "20"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-055",
+      "topic": "Espinhas dendríticas e plasticidade sináptica",
+      "question": "Explique o papel das espinhas dendríticas no desenvolvimento e na plasticidade sináptica, segundo o material.",
+      "modelAnswer": "No início do desenvolvimento, os dendritos têm relativamente poucas espinhas. Processos moleculares subsequentes resultam na formação de muitas espinhas dendríticas, que então sofrem mudanças na estrutura e função, esculpindo a conectividade do sistema nervoso do indivíduo, em grande parte como resultado do uso sináptico proporcionado pelas experiências vividas. A plasticidade sináptica intensa que ocorre nessas espinhas dendríticas estabelece uma ligação importante entre a neuroplasticidade funcional e a estrutural, moldando as trajetórias de desenvolvimento e permitindo que o indivíduo aprenda e se adapte a condições existentes ou novas — o tamanho da coluna vertebral (espinha dendrítica) está, inclusive, correlacionado com a força da sinapse ali manifestada.",
+      "keyPoints": [
+        {
+          "text": "Poucas espinhas no início do desenvolvimento; formação progressiva pela experiência",
+          "weight": 0.35,
+          "keywords": [
+            "poucas espinhas",
+            "formação progressiva",
+            "experiência"
+          ]
+        },
+        {
+          "text": "Espinhas esculpem a conectividade neural pelo uso sináptico",
+          "weight": 0.35,
+          "keywords": [
+            "conectividade",
+            "uso sináptico"
+          ]
+        },
+        {
+          "text": "Ligação entre neuroplasticidade funcional e estrutural",
+          "weight": 0.3,
+          "keywords": [
+            "funcional",
+            "estrutural",
+            "ligação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "4-26"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -5483,6 +7741,689 @@
       "subject": "Sistema límbico",
       "difficulty": "medio",
       "miniLesson": "Qual estrutura está no centro do circuito de recompensa relacionado ao vício, e qual seu papel na recaída? A amígdala, junto ao núcleo accumbens, é central no circuito de recompensa. A amígdala tem papel fundamental na recaída induzida por estímulos associados ao uso prévio de drogas de abuso."
+    },
+    {
+      "id": "neuro-oral-036",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Por que o nervo espinhal é considerado um nervo misto?",
+      "modelAnswer": "O nervo espinhal é formado pela união da raiz dorsal, responsável pela informação sensitiva vinda da periferia, e da raiz ventral, responsável pela saída da informação motora. Como apresenta esses dois componentes, motor e sensitivo, o nervo espinhal é classificado como um nervo misto.",
+      "keyPoints": [
+        {
+          "text": "União da raiz dorsal (sensitiva) e raiz ventral (motora)",
+          "weight": 0.6,
+          "keywords": [
+            "raiz dorsal",
+            "raiz ventral"
+          ]
+        },
+        {
+          "text": "Presença de componentes motor e sensitivo = nervo misto",
+          "weight": 0.4,
+          "keywords": [
+            "nervo misto",
+            "motor e sensitivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo",
+      "miniLesson": "Por que o nervo espinhal é considerado um nervo misto? O nervo espinhal é formado pela união da raiz dorsal, responsável pela informação sensitiva vinda da periferia, e da raiz ventral, responsável pela saída da informação motora. Como apresenta esses dois componentes, motor e sensitivo, o nervo espinhal é classificado como um nervo misto."
+    },
+    {
+      "id": "neuro-oral-037",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O que é um dermátomo?",
+      "modelAnswer": "Dermátomo é o território cutâneo inervado por fibras de uma única raiz dorsal, recebendo o nome da raiz que o inerva. O conhecimento do mapa de dermátomos permite, diante de uma perda de sensibilidade, determinar se a lesão ocorreu em um nervo periférico, na medula ou nas raízes espinhais.",
+      "keyPoints": [
+        {
+          "text": "Território cutâneo de uma única raiz dorsal",
+          "weight": 0.5,
+          "keywords": [
+            "território cutâneo",
+            "raiz dorsal"
+          ]
+        },
+        {
+          "text": "Utilidade clínica: localizar a lesão",
+          "weight": 0.5,
+          "keywords": [
+            "localizar lesão",
+            "utilidade clínica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é um dermátomo? Dermátomo é o território cutâneo inervado por fibras de uma única raiz dorsal, recebendo o nome da raiz que o inerva. O conhecimento do mapa de dermátomos permite, diante de uma perda de sensibilidade, determinar se a lesão ocorreu em um nervo periférico, na medula ou nas raízes espinhais."
+    },
+    {
+      "id": "neuro-oral-038",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Explique a organização do plexo braquial, das raízes até os ramos terminais.",
+      "modelAnswer": "O plexo braquial é formado pelas raízes C5 a T1, que se organizam em troncos (superior, médio e inferior), cada um com uma divisão anterior e posterior; as divisões formam os fascículos (lateral, medial e posterior), nomeados por sua relação com a artéria axilar; e, por fim, dos fascículos originam-se os nervos ou ramos terminais, como o musculocutâneo, o mediano, o ulnar, o radial e o axilar.",
+      "keyPoints": [
+        {
+          "text": "Sequência: raízes, troncos, divisões, fascículos, ramos terminais",
+          "weight": 0.6,
+          "keywords": [
+            "raízes",
+            "troncos",
+            "divisões",
+            "fascículos"
+          ]
+        },
+        {
+          "text": "Exemplos de nervos terminais",
+          "weight": 0.4,
+          "keywords": [
+            "musculocutâneo",
+            "mediano",
+            "ulnar",
+            "radial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8-9"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Explique a organização do plexo braquial, das raízes até os ramos terminais. O plexo braquial é formado pelas raízes C5 a T1, que se organizam em troncos (superior, médio e inferior), cada um com uma divisão anterior e posterior; as divisões formam os fascículos (lateral, medial e posterior), nomeados por sua relação com a artéria axilar; e, por fim, dos fascículos originam-se os nervos ou ramos terminais, como o musculocutâneo, o mediano, o ulnar, o radial e o axilar."
+    },
+    {
+      "id": "neuro-oral-039",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Qual é o principal nervo do plexo sacral e qual sua área de inervação?",
+      "modelAnswer": "O principal e maior nervo do plexo sacral é o nervo ciático, que inerva a musculatura da região posterior da coxa, como os isquiotibiais e o piriforme. Na altura da fossa poplítea, ele se divide em nervo fibular comum, que inerva a musculatura anterior da perna e do pé, e nervo tibial, que inerva a musculatura posterior da perna e do pé.",
+      "keyPoints": [
+        {
+          "text": "Nervo ciático: maior nervo do plexo sacral",
+          "weight": 0.4,
+          "keywords": [
+            "ciático",
+            "plexo sacral"
+          ]
+        },
+        {
+          "text": "Inerva musculatura posterior da coxa",
+          "weight": 0.3,
+          "keywords": [
+            "posterior da coxa",
+            "isquiotibiais"
+          ]
+        },
+        {
+          "text": "Divide-se em fibular comum e tibial na fossa poplítea",
+          "weight": 0.3,
+          "keywords": [
+            "fibular comum",
+            "tibial",
+            "fossa poplítea"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o principal nervo do plexo sacral e qual sua área de inervação? O principal e maior nervo do plexo sacral é o nervo ciático, que inerva a musculatura da região posterior da coxa, como os isquiotibiais e o piriforme. Na altura da fossa poplítea, ele se divide em nervo fibular comum, que inerva a musculatura anterior da perna e do pé, e nervo tibial, que inerva a musculatura posterior da perna e do pé."
+    },
+    {
+      "id": "neuro-oral-040",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Diferencie neuropraxia e neurotmese quanto à gravidade e ao prognóstico.",
+      "modelAnswer": "A neuropraxia é o tipo de lesão nervosa periférica mais leve, na qual a estrutura do nervo permanece intacta, com apenas interrupção temporária da condução axonal e bom prognóstico. A neurotmese, em contraste, é o tipo mais grave, ocorrendo quando o nervo é totalmente seccionado, com lesão do axônio e do endoneuro, dificultando muito a regeneração e resultando em prognóstico ruim.",
+      "keyPoints": [
+        {
+          "text": "Neuropraxia: estrutura intacta, condução interrompida, bom prognóstico",
+          "weight": 0.5,
+          "keywords": [
+            "neuropraxia",
+            "estrutura intacta",
+            "bom prognóstico"
+          ]
+        },
+        {
+          "text": "Neurotmese: secção total, prognóstico ruim",
+          "weight": 0.5,
+          "keywords": [
+            "neurotmese",
+            "secção total",
+            "prognóstico ruim"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Diferencie neuropraxia e neurotmese quanto à gravidade e ao prognóstico. A neuropraxia é o tipo de lesão nervosa periférica mais leve, na qual a estrutura do nervo permanece intacta, com apenas interrupção temporária da condução axonal e bom prognóstico. A neurotmese, em contraste, é o tipo mais grave, ocorrendo quando o nervo é totalmente seccionado, com lesão do axônio e do endoneuro, dificultando muito a regeneração e resultando em prognóstico ruim."
+    },
+    {
+      "id": "neuro-oral-041",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Quais nervos encefálicos são considerados apenas aferentes (sensoriais)?",
+      "modelAnswer": "Os nervos encefálicos I (olfatório), II (óptico) e VIII (vestibulococlear) são considerados apenas aferentes, ou seja, exclusivamente sensoriais, responsáveis, respectivamente, pela transmissão de impulsos olfativos, visuais e de equilíbrio/audição.",
+      "keyPoints": [
+        {
+          "text": "I olfatório, II óptico e VIII vestibulococlear",
+          "weight": 0.7,
+          "keywords": [
+            "olfatório",
+            "óptico",
+            "vestibulococlear"
+          ]
+        },
+        {
+          "text": "São exclusivamente sensoriais/aferentes",
+          "weight": 0.3,
+          "keywords": [
+            "aferentes",
+            "sensoriais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "baixo",
+      "miniLesson": "Quais nervos encefálicos são considerados apenas aferentes (sensoriais)? Os nervos encefálicos I (olfatório), II (óptico) e VIII (vestibulococlear) são considerados apenas aferentes, ou seja, exclusivamente sensoriais, responsáveis, respectivamente, pela transmissão de impulsos olfativos, visuais e de equilíbrio/audição."
+    },
+    {
+      "id": "neuro-oral-042",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "O que caracteriza a nevralgia do nervo trigêmeo?",
+      "modelAnswer": "A nevralgia do trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo (oftálmico, maxilar ou mandibular). Trata-se de um quadro clínico que causa grande sofrimento ao paciente e, em muitos casos, exige tratamento cirúrgico.",
+      "keyPoints": [
+        {
+          "text": "Disfunção mais comum do V par encefálico",
+          "weight": 0.3,
+          "keywords": [
+            "V par",
+            "disfunção mais comum"
+          ]
+        },
+        {
+          "text": "Crises dolorosas intensas em um dos ramos",
+          "weight": 0.4,
+          "keywords": [
+            "crises dolorosas",
+            "ramos"
+          ]
+        },
+        {
+          "text": "Tratamento frequentemente cirúrgico",
+          "weight": 0.3,
+          "keywords": [
+            "tratamento cirúrgico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "23"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a nevralgia do nervo trigêmeo? A nevralgia do trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo (oftálmico, maxilar ou mandibular). Trata-se de um quadro clínico que causa grande sofrimento ao paciente e, em muitos casos, exige tratamento cirúrgico."
+    },
+    {
+      "id": "neuro-oral-043",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Explique a diferença de lateralidade entre a paralisia facial periférica e a central.",
+      "modelAnswer": "A paralisia facial periférica é homolateral, ou seja, ocorre do mesmo lado da lesão, e acomete toda a hemiface. Já a paralisia facial central é contralateral, ocorrendo do lado oposto ao da lesão, e afeta apenas a metade inferior da face, poupando os músculos da metade superior, como o orbicular do olho.",
+      "keyPoints": [
+        {
+          "text": "Periférica: homolateral, toda a hemiface",
+          "weight": 0.5,
+          "keywords": [
+            "homolateral",
+            "toda hemiface"
+          ]
+        },
+        {
+          "text": "Central: contralateral, poupa a metade superior",
+          "weight": 0.5,
+          "keywords": [
+            "contralateral",
+            "poupa metade superior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Explique a diferença de lateralidade entre a paralisia facial periférica e a central. A paralisia facial periférica é homolateral, ou seja, ocorre do mesmo lado da lesão, e acomete toda a hemiface. Já a paralisia facial central é contralateral, ocorrendo do lado oposto ao da lesão, e afeta apenas a metade inferior da face, poupando os músculos da metade superior, como o orbicular do olho."
+    },
+    {
+      "id": "neuro-oral-044",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Qual a diferença entre o número de neurônios na via periférica do Sistema Nervoso Somático e do Sistema Nervoso Autônomo?",
+      "modelAnswer": "A via periférica do Sistema Nervoso Somático é constituída por apenas um neurônio. Já a via periférica do Sistema Nervoso Autônomo é formada por dois neurônios: o pré-ganglionar, com corpo celular no Sistema Nervoso Central, e o pós-ganglionar, com corpo celular situado nos gânglios autônomos, fora do SNC.",
+      "keyPoints": [
+        {
+          "text": "SN Somático: apenas um neurônio na via periférica",
+          "weight": 0.4,
+          "keywords": [
+            "somático",
+            "um neurônio"
+          ]
+        },
+        {
+          "text": "SNA: dois neurônios (pré e pós-ganglionar)",
+          "weight": 0.6,
+          "keywords": [
+            "dois neurônios",
+            "pré-ganglionar",
+            "pós-ganglionar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "33"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Qual a diferença entre o número de neurônios na via periférica do Sistema Nervoso Somático e do Sistema Nervoso Autônomo? A via periférica do Sistema Nervoso Somático é constituída por apenas um neurônio. Já a via periférica do Sistema Nervoso Autônomo é formada por dois neurônios: o pré-ganglionar, com corpo celular no Sistema Nervoso Central, e o pós-ganglionar, com corpo celular situado nos gânglios autônomos, fora do SNC."
+    },
+    {
+      "id": "neuro-oral-045",
+      "topic": "Sistema nervoso periférico (organização geral)",
+      "question": "Por que as ações do sistema nervoso simpático tendem a ser mais difusas do que as do parassimpático?",
+      "modelAnswer": "Isso ocorre porque os gânglios do sistema simpático situam-se longe das vísceras, o que faz com que suas ações, embora possam ser localizadas, tendam a ser difundidas, atingindo vários órgãos simultaneamente. Já os gânglios do sistema parassimpático situam-se próximos das vísceras, tornando suas ações mais localizadas em um órgão ou setor específico do organismo.",
+      "keyPoints": [
+        {
+          "text": "Gânglios simpáticos longe das vísceras → ações difusas",
+          "weight": 0.5,
+          "keywords": [
+            "gânglios longe",
+            "ações difusas"
+          ]
+        },
+        {
+          "text": "Gânglios parassimpáticos perto das vísceras → ações localizadas",
+          "weight": 0.5,
+          "keywords": [
+            "gânglios perto",
+            "ações localizadas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso periférico (organização geral)",
+      "difficulty": "medio",
+      "miniLesson": "Por que as ações do sistema nervoso simpático tendem a ser mais difusas do que as do parassimpático? Isso ocorre porque os gânglios do sistema simpático situam-se longe das vísceras, o que faz com que suas ações, embora possam ser localizadas, tendam a ser difundidas, atingindo vários órgãos simultaneamente. Já os gânglios do sistema parassimpático situam-se próximos das vísceras, tornando suas ações mais localizadas em um órgão ou setor específico do organismo."
+    },
+    {
+      "id": "neuro-oral-046",
+      "topic": "Plasticidade neural",
+      "question": "O que é plasticidade neural?",
+      "modelAnswer": "Plasticidade neural é a capacidade de mudança do sistema nervoso, incluindo a capacidade de fazer mudanças estruturais em resposta a demandas internas e externas. Contrariando ideias antigas de que o cérebro seria imutável, hoje há ampla evidência de que ele mantém essa capacidade de reorganização ao longo de toda a vida.",
+      "keyPoints": [
+        {
+          "text": "Capacidade de mudança do sistema nervoso",
+          "weight": 0.5,
+          "keywords": [
+            "capacidade de mudança",
+            "sistema nervoso"
+          ]
+        },
+        {
+          "text": "Mudanças estruturais em resposta a demandas internas/externas",
+          "weight": 0.3,
+          "keywords": [
+            "mudanças estruturais",
+            "demandas"
+          ]
+        },
+        {
+          "text": "Persiste ao longo de toda a vida, não apenas na infância",
+          "weight": 0.2,
+          "keywords": [
+            "toda a vida",
+            "não apenas infância"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "3"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "baixo",
+      "miniLesson": "O que é plasticidade neural? Plasticidade neural é a capacidade de mudança do sistema nervoso, incluindo a capacidade de fazer mudanças estruturais em resposta a demandas internas e externas. Contrariando ideias antigas de que o cérebro seria imutável, hoje há ampla evidência de que ele mantém essa capacidade de reorganização ao longo de toda a vida."
+    },
+    {
+      "id": "neuro-oral-047",
+      "topic": "Plasticidade neural",
+      "question": "Onde ocorre a neurogênese no cérebro adulto?",
+      "modelAnswer": "No cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente: a zona subependimal (subventricular) do ventrículo lateral, cujos novos neurônios migram até o bulbo olfatório pela corrente migratória rostral; e a camada subgranular do giro denteado no hipocampo.",
+      "keyPoints": [
+        {
+          "text": "Zona subependimal do ventrículo lateral",
+          "weight": 0.5,
+          "keywords": [
+            "zona subependimal",
+            "ventrículo lateral"
+          ]
+        },
+        {
+          "text": "Camada subgranular do giro denteado no hipocampo",
+          "weight": 0.5,
+          "keywords": [
+            "giro denteado",
+            "hipocampo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "6"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Onde ocorre a neurogênese no cérebro adulto? No cérebro adulto, existem duas regiões de proliferação ativa que geram neurônios continuamente: a zona subependimal (subventricular) do ventrículo lateral, cujos novos neurônios migram até o bulbo olfatório pela corrente migratória rostral; e a camada subgranular do giro denteado no hipocampo."
+    },
+    {
+      "id": "neuro-oral-048",
+      "topic": "Plasticidade neural",
+      "question": "O que é a corrente migratória rostral?",
+      "modelAnswer": "A corrente migratória rostral é a via bem definida pela qual as células progenitoras localizadas na zona subependimária migram em direção ao bulbo olfatório, onde completam suas últimas divisões e se diferenciam em novos neurônios.",
+      "keyPoints": [
+        {
+          "text": "Via de migração das células progenitoras",
+          "weight": 0.5,
+          "keywords": [
+            "via de migração",
+            "células progenitoras"
+          ]
+        },
+        {
+          "text": "Da zona subependimária até o bulbo olfatório",
+          "weight": 0.5,
+          "keywords": [
+            "zona subependimária",
+            "bulbo olfatório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "8"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "O que é a corrente migratória rostral? A corrente migratória rostral é a via bem definida pela qual as células progenitoras localizadas na zona subependimária migram em direção ao bulbo olfatório, onde completam suas últimas divisões e se diferenciam em novos neurônios."
+    },
+    {
+      "id": "neuro-oral-049",
+      "topic": "Plasticidade neural",
+      "question": "Que fatores ambientais favorecem a neurogênese hipocampal, segundo o material?",
+      "modelAnswer": "Segundo o material, a corrida voluntária aumenta a proliferação celular no hipocampo, enquanto a exposição a um ambiente enriquecido promove a sobrevivência de neurônios imaturos, melhora o desempenho em tarefas de aprendizagem espacial (como o labirinto aquático) e conduz a melhor memória de reconhecimento.",
+      "keyPoints": [
+        {
+          "text": "Corrida voluntária/exercício físico aumenta proliferação celular",
+          "weight": 0.5,
+          "keywords": [
+            "corrida voluntária",
+            "exercício",
+            "proliferação celular"
+          ]
+        },
+        {
+          "text": "Ambiente enriquecido promove sobrevivência de neurônios imaturos",
+          "weight": 0.5,
+          "keywords": [
+            "ambiente enriquecido",
+            "sobrevivência",
+            "neurônios imaturos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "11-12"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Que fatores ambientais favorecem a neurogênese hipocampal, segundo o material? Segundo o material, a corrida voluntária aumenta a proliferação celular no hipocampo, enquanto a exposição a um ambiente enriquecido promove a sobrevivência de neurônios imaturos, melhora o desempenho em tarefas de aprendizagem espacial (como o labirinto aquático) e conduz a melhor memória de reconhecimento."
+    },
+    {
+      "id": "neuro-oral-050",
+      "topic": "Plasticidade neural",
+      "question": "O que é o 'engrama' e quem cunhou esse termo?",
+      "modelAnswer": "O termo engrama foi utilizado pela primeira vez pelo biólogo alemão Richard Semon e geralmente se refere aos mecanismos (ou 'tags') pelos quais as memórias são armazenadas. A visão predominante hoje é de que a memória deixa alterações físicas, muitas vezes distribuídas no tecido neuronal.",
+      "keyPoints": [
+        {
+          "text": "Cunhado por Richard Semon, biólogo alemão",
+          "weight": 0.4,
+          "keywords": [
+            "Richard Semon",
+            "biólogo alemão"
+          ]
+        },
+        {
+          "text": "Refere-se aos mecanismos de armazenamento da memória",
+          "weight": 0.6,
+          "keywords": [
+            "mecanismos",
+            "armazenamento",
+            "memória"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "10"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "O que é o 'engrama' e quem cunhou esse termo? O termo engrama foi utilizado pela primeira vez pelo biólogo alemão Richard Semon e geralmente se refere aos mecanismos (ou 'tags') pelos quais as memórias são armazenadas. A visão predominante hoje é de que a memória deixa alterações físicas, muitas vezes distribuídas no tecido neuronal."
+    },
+    {
+      "id": "neuro-oral-051",
+      "topic": "Plasticidade neural",
+      "question": "Diferencie sinaptogênese e potenciação de longo prazo.",
+      "modelAnswer": "A sinaptogênese é a criação de novas conexões neurais, ocorrendo quando o cérebro é exposto a novos ambientes e experiências, como viajar ou aprender um novo instrumento. Já a potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica em conexões já existentes.",
+      "keyPoints": [
+        {
+          "text": "Sinaptogênese: criação de novas conexões neurais",
+          "weight": 0.5,
+          "keywords": [
+            "sinaptogênese",
+            "novas conexões"
+          ]
+        },
+        {
+          "text": "Potenciação de longo prazo: aumento persistente da transmissão sináptica",
+          "weight": 0.5,
+          "keywords": [
+            "potenciação de longo prazo",
+            "transmissão sináptica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "13"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Diferencie sinaptogênese e potenciação de longo prazo. A sinaptogênese é a criação de novas conexões neurais, ocorrendo quando o cérebro é exposto a novos ambientes e experiências, como viajar ou aprender um novo instrumento. Já a potenciação de longo prazo é uma forma de plasticidade dependente da atividade que resulta em um aumento persistente da transmissão sináptica em conexões já existentes."
+    },
+    {
+      "id": "neuro-oral-052",
+      "topic": "Plasticidade neural",
+      "question": "O que caracteriza a inibição inter-hemisférica após um AVC?",
+      "modelAnswer": "Após uma lesão unilateral, como o AVC, o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado. Esse hemisfério intacto passa a exercer ação inibitória sobre o hemisfério lesado, fenômeno denominado inibição inter-hemisférica, que interfere no processo de recuperação.",
+      "keyPoints": [
+        {
+          "text": "Hiperexcitabilidade do córtex motor não afetado após lesão unilateral",
+          "weight": 0.5,
+          "keywords": [
+            "hiperexcitabilidade",
+            "não afetado"
+          ]
+        },
+        {
+          "text": "Hemisfério intacto inibe o hemisfério lesado",
+          "weight": 0.5,
+          "keywords": [
+            "inibe",
+            "hemisfério lesado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "22"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "dificil",
+      "miniLesson": "O que caracteriza a inibição inter-hemisférica após um AVC? Após uma lesão unilateral, como o AVC, o equilíbrio entre os hemisférios cerebrais é alterado, resultando em hiperexcitabilidade do córtex motor não afetado. Esse hemisfério intacto passa a exercer ação inibitória sobre o hemisfério lesado, fenômeno denominado inibição inter-hemisférica, que interfere no processo de recuperação."
+    },
+    {
+      "id": "neuro-oral-053",
+      "topic": "Plasticidade neural",
+      "question": "Quais são as duas categorias de atividades que ajudam a aumentar a neuroplasticidade?",
+      "modelAnswer": "As atividades que ajudam a aumentar a neuroplasticidade se enquadram em duas categorias: novas experiências, a partir das quais a novidade estabelece novas vias neurais; e prática em intensidade, na qual a repetição mais intensificada de uma habilidade ou atividade fortalece as conexões neurais já existentes.",
+      "keyPoints": [
+        {
+          "text": "Novas experiências: estabelecem novas vias neurais",
+          "weight": 0.5,
+          "keywords": [
+            "novas experiências",
+            "novas vias neurais"
+          ]
+        },
+        {
+          "text": "Prática em intensidade: fortalece conexões existentes",
+          "weight": 0.5,
+          "keywords": [
+            "prática em intensidade",
+            "fortalece conexões"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "18"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as duas categorias de atividades que ajudam a aumentar a neuroplasticidade? As atividades que ajudam a aumentar a neuroplasticidade se enquadram em duas categorias: novas experiências, a partir das quais a novidade estabelece novas vias neurais; e prática em intensidade, na qual a repetição mais intensificada de uma habilidade ou atividade fortalece as conexões neurais já existentes."
+    },
+    {
+      "id": "neuro-oral-054",
+      "topic": "Plasticidade neural",
+      "question": "Qual é a principal consequência das lesões do Sistema Nervoso Central decorrentes do AVC?",
+      "modelAnswer": "A principal consequência das lesões do SNC decorrentes do AVC é a espasticidade (hipertonia), uma das principais causas de perda funcional do paciente, devendo ser priorizada nas intervenções terapêuticas de reabilitação.",
+      "keyPoints": [
+        {
+          "text": "Espasticidade/hipertonia como principal consequência",
+          "weight": 0.6,
+          "keywords": [
+            "espasticidade",
+            "hipertonia"
+          ]
+        },
+        {
+          "text": "Principal causa de perda funcional, prioridade na reabilitação",
+          "weight": 0.4,
+          "keywords": [
+            "perda funcional",
+            "reabilitação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "27-28"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a principal consequência das lesões do Sistema Nervoso Central decorrentes do AVC? A principal consequência das lesões do SNC decorrentes do AVC é a espasticidade (hipertonia), uma das principais causas de perda funcional do paciente, devendo ser priorizada nas intervenções terapêuticas de reabilitação."
+    },
+    {
+      "id": "neuro-oral-055",
+      "topic": "Plasticidade neural",
+      "question": "Como o exercício físico influencia a recuperação de encéfalos lesados, segundo o material?",
+      "modelAnswer": "O aumento dos mecanismos celulares e sinápticos da plasticidade promovidos pelo exercício aeróbio pode contribuir para efeitos benéficos, reduzindo a degeneração e promovendo a recuperação da função em encéfalos lesados. A prática de exercícios pode alterar sinapses ou reduzir eventos moleculares nocivos na área perilesionada, além de estimular a ação de fatores neurotróficos relacionados à neurogênese, angiogênese e plasticidade cerebral.",
+      "keyPoints": [
+        {
+          "text": "Exercício aeróbio reduz degeneração e promove recuperação funcional",
+          "weight": 0.4,
+          "keywords": [
+            "reduz degeneração",
+            "recuperação funcional"
+          ]
+        },
+        {
+          "text": "Altera sinapses na área perilesionada",
+          "weight": 0.3,
+          "keywords": [
+            "sinapses",
+            "área perilesionada"
+          ]
+        },
+        {
+          "text": "Ação de fatores neurotróficos (neurogênese, angiogênese)",
+          "weight": 0.3,
+          "keywords": [
+            "fatores neurotróficos",
+            "angiogênese"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Plasticidade neural e aprendizagem.pdf",
+        "page": "29"
+      },
+      "subject": "Plasticidade neural",
+      "difficulty": "medio",
+      "miniLesson": "Como o exercício físico influencia a recuperação de encéfalos lesados, segundo o material? O aumento dos mecanismos celulares e sinápticos da plasticidade promovidos pelo exercício aeróbio pode contribuir para efeitos benéficos, reduzindo a degeneração e promovendo a recuperação da função em encéfalos lesados. A prática de exercícios pode alterar sinapses ou reduzir eventos moleculares nocivos na área perilesionada, além de estimular a ação de fatores neurotróficos relacionados à neurogênese, angiogênese e plasticidade cerebral."
     }
   ]
 }
