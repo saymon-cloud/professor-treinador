@@ -18,3 +18,5 @@ usado pelo app.
 | 10 | O Estudo do Desenvolvimento Humano | Adolescência | 2026-09-03 | `c7ed4ae` |
 | 11 | Fundamentos Históricos e Epistemológicos da Psicologia | Estruturalismo (Wundt e Titchener) | 2026-09-03 | `f7861e3` |
 | 12 | Fundamentos Históricos e Epistemológicos da Psicologia | Funcionalismo e pragmatismo | 2026-09-03 | `f7861e3` |
+| 13 | Neuroanatomofisiologia | Sistema nervoso periférico (organização geral) | 2026-09-03 | `7388190` |
+| 14 | Neuroanatomofisiologia | Plasticidade neural | 2026-09-03 | `7388190` |
