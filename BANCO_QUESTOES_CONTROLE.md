@@ -20,3 +20,5 @@ usado pelo app.
 | 12 | Fundamentos Históricos e Epistemológicos da Psicologia | Funcionalismo e pragmatismo | 2026-09-03 | `f7861e3` |
 | 13 | Neuroanatomofisiologia | Sistema nervoso periférico (organização geral) | 2026-09-03 | `7388190` |
 | 14 | Neuroanatomofisiologia | Plasticidade neural | 2026-09-03 | `7388190` |
+| 15 | As Teorias Cognitivo-Comportamentais | Condicionamento clássico (Pavlov) | 2026-09-03 | `b10c328` |
+| 16 | As Teorias Cognitivo-Comportamentais | Behaviorismo radical e comportamento operante (Skinner) | 2026-09-03 | `b10c328` |
