@@ -1954,6 +1954,1414 @@
       "subject": "Processos cognitivos: memória",
       "difficulty": "medio",
       "miniLesson": "Diferentemente da memória de curto prazo, considerada mais passiva e limitada a reter brevemente uma quantidade limitada de informações, a memória de trabalho (ou operacional) é caracterizada por: A memória de trabalho funciona como um sistema de capacidade limitada que permite o armazenamento temporário e o gerenciamento ativo de informações, deixando de ser apenas um armazenamento passivo (como a memória de curto prazo) para ser um processador ativo capaz de manipular informações novas articulando-as com antigas."
+    },
+    {
+      "id": "tcc-obj-091",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, os behavioristas têm como pressuposto:",
+      "options": {
+        "a": "Analisar as ações emitidas pelos organismos, promovendo o estudo científico do comportamento de animais ou pessoas",
+        "b": "Estudar exclusivamente a experiência consciente por meio da introspecção",
+        "c": "Investigar apenas o inconsciente e as pulsões humanas",
+        "d": "Rejeitar totalmente o método científico na psicologia",
+        "e": "Concentrar-se exclusivamente em fenômenos metafísicos"
+      },
+      "correct": "a",
+      "explanation": "Os behavioristas têm como pressuposto analisar as ações emitidas pelos organismos, cujo objetivo é promover o estudo científico do comportamento de organismos individuais, de animais ou pessoas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, os behavioristas têm como pressuposto: Os behavioristas têm como pressuposto analisar as ações emitidas pelos organismos, cujo objetivo é promover o estudo científico do comportamento de organismos individuais, de animais ou pessoas."
+    },
+    {
+      "id": "tcc-obj-092",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Edward L. Thorndike, ao estudar gatos que aprendiam a escapar de uma caixa pressionando uma alavanca, elaborou uma importante lei da aprendizagem segundo a qual um comportamento seguido de satisfação será fortalecido, e um comportamento seguido de castigo será enfraquecido. Essa lei é conhecida como:",
+      "options": {
+        "a": "Lei do efeito",
+        "b": "Lei do limiar",
+        "c": "Lei de latência",
+        "d": "Lei da habituação",
+        "e": "Lei da extinção"
+      },
+      "correct": "a",
+      "explanation": "Thorndike elaborou a Lei do efeito, que diz que se um comportamento for seguido de satisfação, será fortalecido, mas se for seguido de castigo, será enfraquecido — resultado de seus experimentos com gatos em caixas-problema.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4-5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Edward L. Thorndike, ao estudar gatos que aprendiam a escapar de uma caixa pressionando uma alavanca, elaborou uma importante lei da aprendizagem segundo a qual um comportamento seguido de satisfação será fortalecido, e um comportamento seguido de castigo será enfraquecido. Essa lei é conhecida como: Thorndike elaborou a Lei do efeito, que diz que se um comportamento for seguido de satisfação, será fortalecido, mas se for seguido de castigo, será enfraquecido — resultado de seus experimentos com gatos em caixas-problema."
+    },
+    {
+      "id": "tcc-obj-093",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, Ivan Pavlov, importante fisiologista russo, estudava originalmente o papel das enzimas digestivas e a liberação de saliva na presença de comida em cachorros. A partir dessas observações, ele descobriu que:",
+      "options": {
+        "a": "Comportamentos reflexos poderiam ser produzidos a partir da associação de estímulos com respostas reflexas",
+        "b": "A mente humana era completamente inacessível a qualquer investigação",
+        "c": "Todos os comportamentos são exclusivamente inatos e imutáveis",
+        "d": "A introspecção era o único método científico válido",
+        "e": "Os reflexos não têm qualquer relação com a sobrevivência do organismo"
+      },
+      "correct": "a",
+      "explanation": "Pavlov observou que os cachorros começavam a salivar antes mesmo que o alimento fosse apresentado, o que o levou a descobrir que comportamentos reflexos poderiam ser produzidos a partir da associação de estímulos com respostas reflexas — dando origem ao condicionamento clássico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Ivan Pavlov, importante fisiologista russo, estudava originalmente o papel das enzimas digestivas e a liberação de saliva na presença de comida em cachorros. A partir dessas observações, ele descobriu que: Pavlov observou que os cachorros começavam a salivar antes mesmo que o alimento fosse apresentado, o que o levou a descobrir que comportamentos reflexos poderiam ser produzidos a partir da associação de estímulos com respostas reflexas — dando origem ao condicionamento clássico."
+    },
+    {
+      "id": "tcc-obj-094",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "John B. Watson é conhecido como o pai do behaviorismo devido à publicação, em 1913, do trabalho intitulado, em português:",
+      "options": {
+        "a": "'Psicologia como um comportamentista a vê'",
+        "b": "'Ciência e comportamento humano'",
+        "c": "'Contingências de reforçamento'",
+        "d": "'Princípios de psicologia'",
+        "e": "'A estrutura das revoluções científicas'"
+      },
+      "correct": "a",
+      "explanation": "Watson é conhecido como o pai do behaviorismo desde a publicação, em 1913, de seu trabalho 'Psychology as the behaviorist views it' ('Psicologia como um comportamentista a vê'), influenciado pelos estudos de Pavlov.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "John B. Watson é conhecido como o pai do behaviorismo devido à publicação, em 1913, do trabalho intitulado, em português: Watson é conhecido como o pai do behaviorismo desde a publicação, em 1913, de seu trabalho 'Psychology as the behaviorist views it' ('Psicologia como um comportamentista a vê'), influenciado pelos estudos de Pavlov."
+    },
+    {
+      "id": "tcc-obj-095",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Watson postulou a relação entre estímulo e resposta, representada pela equação S→R, segundo a qual:",
+      "options": {
+        "a": "Uma alteração no ambiente (estímulo) gera uma alteração no organismo (resposta)",
+        "b": "Uma mudança no organismo sempre precede qualquer mudança no ambiente",
+        "c": "Estímulo e resposta não possuem qualquer relação causal",
+        "d": "Apenas eventos internos e subjetivos determinam o comportamento",
+        "e": "A resposta sempre elicia o estímulo, e não o contrário"
+      },
+      "correct": "a",
+      "explanation": "Watson postulou a relação S→R: uma alteração no ambiente (estímulo) gera uma alteração no organismo (resposta) — base do paradigma respondente do behaviorismo metodológico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Watson postulou a relação entre estímulo e resposta, representada pela equação S→R, segundo a qual: Watson postulou a relação S→R: uma alteração no ambiente (estímulo) gera uma alteração no organismo (resposta) — base do paradigma respondente do behaviorismo metodológico."
+    },
+    {
+      "id": "tcc-obj-096",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo Moreira e Medeiros (2007, citados no material), 'reflexos não são apenas comportamentos, mas sim a relação entre estímulo e resposta'. Isso significa que:",
+      "options": {
+        "a": "Diante de determinado estímulo (mudança do ambiente), uma resposta relacionada (mudança no organismo) é eliciada",
+        "b": "Qualquer estímulo pode eliciar qualquer resposta de forma aleatória",
+        "c": "A resposta ocorre independentemente da presença de um estímulo",
+        "d": "Reflexos são fenômenos exclusivamente conscientes e voluntários",
+        "e": "Não existe qualquer relação causal entre estímulo e resposta"
+      },
+      "correct": "a",
+      "explanation": "O reflexo é uma relação causal entre estímulo e resposta: diante de determinado estímulo (mudança do ambiente), uma resposta relacionada (mudança no organismo) é eliciada — por exemplo, um ambiente muito quente elicia a resposta de suar.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Moreira e Medeiros (2007, citados no material), 'reflexos não são apenas comportamentos, mas sim a relação entre estímulo e resposta'. Isso significa que: O reflexo é uma relação causal entre estímulo e resposta: diante de determinado estímulo (mudança do ambiente), uma resposta relacionada (mudança no organismo) é eliciada — por exemplo, um ambiente muito quente elicia a resposta de suar."
+    },
+    {
+      "id": "tcc-obj-097",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, muitos reflexos são eliciados sem uma aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história:",
+      "options": {
+        "a": "Filogenética",
+        "b": "Exclusivamente cultural",
+        "c": "Terapêutica",
+        "d": "Institucional",
+        "e": "Legislativa"
+      },
+      "correct": "a",
+      "explanation": "Muitos reflexos são eliciados sem aprendizagem prévia porque cada organismo nasce com um conjunto de comportamentos herdados ao longo de sua história filogenética (a história evolutiva de uma espécie) — como filhotes de pássaros que abrem o bico para receber comida.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, muitos reflexos são eliciados sem uma aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história: Muitos reflexos são eliciados sem aprendizagem prévia porque cada organismo nasce com um conjunto de comportamentos herdados ao longo de sua história filogenética (a história evolutiva de uma espécie) — como filhotes de pássaros que abrem o bico para receber comida."
+    },
+    {
+      "id": "tcc-obj-098",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Entre as propriedades dos reflexos descritas no material, aquela que estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo é denominada:",
+      "options": {
+        "a": "Lei do limiar",
+        "b": "Lei de latência",
+        "c": "Habituação",
+        "d": "Sensibilização",
+        "e": "Lei do efeito"
+      },
+      "correct": "a",
+      "explanation": "A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo — por exemplo, somente a partir de uma determinada intensidade um barulho eliciará a resposta de fechar as pálpebras.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Entre as propriedades dos reflexos descritas no material, aquela que estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo é denominada: A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo — por exemplo, somente a partir de uma determinada intensidade um barulho eliciará a resposta de fechar as pálpebras."
+    },
+    {
+      "id": "tcc-obj-099",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "A propriedade dos reflexos que descreve o tempo compreendido entre a apresentação do estímulo e a eliciação da resposta, sendo que quanto maior a intensidade do estímulo, menor será esse tempo, é denominada:",
+      "options": {
+        "a": "Lei de latência",
+        "b": "Lei do limiar",
+        "c": "Habituação",
+        "d": "Sensibilização",
+        "e": "Extinção respondente"
+      },
+      "correct": "a",
+      "explanation": "A lei de latência é o tempo compreendido entre apresentar o estímulo e eliciar a resposta; quanto maior a intensidade do estímulo, menor será o tempo de latência.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "A propriedade dos reflexos que descreve o tempo compreendido entre a apresentação do estímulo e a eliciação da resposta, sendo que quanto maior a intensidade do estímulo, menor será esse tempo, é denominada: A lei de latência é o tempo compreendido entre apresentar o estímulo e eliciar a resposta; quanto maior a intensidade do estímulo, menor será o tempo de latência."
+    },
+    {
+      "id": "tcc-obj-100",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta — como quando, após certo tempo em um ambiente malcheiroso, o cheiro deixa de incomodar — ocorre o fenômeno denominado:",
+      "options": {
+        "a": "Habituação",
+        "b": "Sensibilização",
+        "c": "Lei do limiar",
+        "d": "Generalização respondente",
+        "e": "Extinção operante"
+      },
+      "correct": "a",
+      "explanation": "A habituação ocorre quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta — por exemplo, deixar de perceber um cheiro desagradável após permanecer certo tempo no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta — como quando, após certo tempo em um ambiente malcheiroso, o cheiro deixa de incomodar — ocorre o fenômeno denominado: A habituação ocorre quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta — por exemplo, deixar de perceber um cheiro desagradável após permanecer certo tempo no ambiente."
+    },
+    {
+      "id": "tcc-obj-101",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Ao contrário da habituação, quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — como quando um barulho incômodo se torna insuportável após algum tempo — ocorre o fenômeno denominado:",
+      "options": {
+        "a": "Sensibilização",
+        "b": "Habituação",
+        "c": "Extinção respondente",
+        "d": "Generalização respondente",
+        "e": "Modelagem"
+      },
+      "correct": "a",
+      "explanation": "A sensibilização ocorre quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — por exemplo, um barulho bastante incômodo pode se tornar insuportável depois de algum tempo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Ao contrário da habituação, quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — como quando um barulho incômodo se torna insuportável após algum tempo — ocorre o fenômeno denominado: A sensibilização ocorre quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — por exemplo, um barulho bastante incômodo pode se tornar insuportável depois de algum tempo."
+    },
+    {
+      "id": "tcc-obj-102",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No experimento clássico de condicionamento de Pavlov, antes de qualquer associação, o som do sino não eliciava salivação no cachorro. Nessa fase inicial, o som do sino é classificado como:",
+      "options": {
+        "a": "Estímulo neutro",
+        "b": "Estímulo incondicionado",
+        "c": "Estímulo condicionado",
+        "d": "Resposta incondicionada",
+        "e": "Resposta condicionada"
+      },
+      "correct": "a",
+      "explanation": "O estímulo neutro é aquele que não possui relação com as respostas esperadas no organismo observado; no experimento de Pavlov, o som do sino, inicialmente, não era esperado eliciar salivação, sendo, portanto, um estímulo neutro.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No experimento clássico de condicionamento de Pavlov, antes de qualquer associação, o som do sino não eliciava salivação no cachorro. Nessa fase inicial, o som do sino é classificado como: O estímulo neutro é aquele que não possui relação com as respostas esperadas no organismo observado; no experimento de Pavlov, o som do sino, inicialmente, não era esperado eliciar salivação, sendo, portanto, um estímulo neutro."
+    },
+    {
+      "id": "tcc-obj-103",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No experimento de Pavlov, a comida, que eliciava uma resposta automática de salivação sem qualquer aprendizagem prévia, é classificada como:",
+      "options": {
+        "a": "Estímulo incondicionado",
+        "b": "Estímulo neutro",
+        "c": "Estímulo condicionado",
+        "d": "Resposta condicionada",
+        "e": "Reforçador secundário"
+      },
+      "correct": "a",
+      "explanation": "O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo; no experimento de Pavlov, a comida era o estímulo incondicionado, e a salivação diante dela, a resposta incondicionada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No experimento de Pavlov, a comida, que eliciava uma resposta automática de salivação sem qualquer aprendizagem prévia, é classificada como: O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo; no experimento de Pavlov, a comida era o estímulo incondicionado, e a salivação diante dela, a resposta incondicionada."
+    },
+    {
+      "id": "tcc-obj-104",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Após diversas repetições do pareamento entre o som do sino e a comida, o sino passou a eliciar salivação sozinho. Nessa fase final do experimento, o sino é classificado como estímulo:",
+      "options": {
+        "a": "Condicionado",
+        "b": "Neutro",
+        "c": "Incondicionado",
+        "d": "Aversivo primário",
+        "e": "Reforçador primário"
+      },
+      "correct": "a",
+      "explanation": "O estímulo condicionado é aquele que previamente era neutro e que passa a eliciar uma resposta condicionada após o emparelhamento repetido com o estímulo incondicionado; no experimento de Pavlov, o sino tornou-se o estímulo condicionado, e a salivação diante dele, a resposta condicionada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Após diversas repetições do pareamento entre o som do sino e a comida, o sino passou a eliciar salivação sozinho. Nessa fase final do experimento, o sino é classificado como estímulo: O estímulo condicionado é aquele que previamente era neutro e que passa a eliciar uma resposta condicionada após o emparelhamento repetido com o estímulo incondicionado; no experimento de Pavlov, o sino tornou-se o estímulo condicionado, e a salivação diante dele, a resposta condicionada."
+    },
+    {
+      "id": "tcc-obj-105",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O behaviorismo metodológico, escola proposta por Watson, caracteriza-se, segundo o material, por:",
+      "options": {
+        "a": "Não negar a existência da mente, mas afirmar que ela não poderia ser estudada de forma objetiva e científica, descartando eventos internos das análises",
+        "b": "Negar radicalmente a existência da mente, considerando pensamentos e emoções como comportamentos",
+        "c": "Aceitar plenamente a introspecção como método científico válido",
+        "d": "Concentrar-se exclusivamente em eventos internos subjetivos",
+        "e": "Rejeitar totalmente qualquer forma de estudo do comportamento observável"
+      },
+      "correct": "a",
+      "explanation": "O behaviorismo metodológico não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica, descartando de suas análises eventos internos como pensamentos e emoções, pautando-se em observações e experimentações.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O behaviorismo metodológico, escola proposta por Watson, caracteriza-se, segundo o material, por: O behaviorismo metodológico não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica, descartando de suas análises eventos internos como pensamentos e emoções, pautando-se em observações e experimentações."
+    },
+    {
+      "id": "tcc-obj-106",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Para Watson, o propósito do behaviorismo seria:",
+      "options": {
+        "a": "Prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou",
+        "b": "Analisar exclusivamente a natureza subjetiva das emoções internas",
+        "c": "Investigar o inconsciente coletivo por meio de símbolos universais",
+        "d": "Estudar unicamente a herança genética, sem qualquer influência ambiental",
+        "e": "Compreender a estrutura da mente por meio de elementos sensoriais básicos"
+      },
+      "correct": "a",
+      "explanation": "Para Watson, o propósito do behaviorismo seria prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou — objetivo importante, por exemplo, para compreender as fobias como comportamentos aprendidos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Para Watson, o propósito do behaviorismo seria: Para Watson, o propósito do behaviorismo seria prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou — objetivo importante, por exemplo, para compreender as fobias como comportamentos aprendidos."
+    },
+    {
+      "id": "tcc-obj-107",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No famoso experimento do 'pequeno Albert', conduzido por Watson, o bebê de 9 meses passou a apresentar choro e gritos diante da aproximação de objetos com textura semelhante ao rato branco condicionado (como um coelho ou um ursinho de pelúcia). Esse fenômeno é denominado:",
+      "options": {
+        "a": "Generalização respondente",
+        "b": "Extinção respondente",
+        "c": "Habituação",
+        "d": "Modelagem",
+        "e": "Reforço negativo"
+      },
+      "correct": "a",
+      "explanation": "A generalização respondente ocorre quando, após um processo de condicionamento, o organismo elicia uma resposta de intensidade variável para estímulos semelhantes ao condicionado — como Albert temendo objetos felpudos semelhantes ao rato branco.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No famoso experimento do 'pequeno Albert', conduzido por Watson, o bebê de 9 meses passou a apresentar choro e gritos diante da aproximação de objetos com textura semelhante ao rato branco condicionado (como um coelho ou um ursinho de pelúcia). Esse fenômeno é denominado: A generalização respondente ocorre quando, após um processo de condicionamento, o organismo elicia uma resposta de intensidade variável para estímulos semelhantes ao condicionado — como Albert temendo objetos felpudos semelhantes ao rato branco."
+    },
+    {
+      "id": "tcc-obj-108",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Para eliminar ou reduzir a resposta de medo condicionada em Albert, seria necessário apresentar o estímulo aversivo de forma sucessiva, sem a presença do estímulo incondicionado, de modo que a intensidade da resposta reduzisse progressivamente. Esse processo é denominado:",
+      "options": {
+        "a": "Extinção respondente",
+        "b": "Generalização respondente",
+        "c": "Sensibilização",
+        "d": "Reforço positivo",
+        "e": "Punição positiva"
+      },
+      "correct": "a",
+      "explanation": "A extinção respondente é o processo pelo qual, ao apresentar sucessivamente o estímulo condicionado sem o estímulo incondicionado, a intensidade da resposta condicionada reduz proporcionalmente até desaparecer.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Para eliminar ou reduzir a resposta de medo condicionada em Albert, seria necessário apresentar o estímulo aversivo de forma sucessiva, sem a presença do estímulo incondicionado, de modo que a intensidade da resposta reduzisse progressivamente. Esse processo é denominado: A extinção respondente é o processo pelo qual, ao apresentar sucessivamente o estímulo condicionado sem o estímulo incondicionado, a intensidade da resposta condicionada reduz proporcionalmente até desaparecer."
+    },
+    {
+      "id": "tcc-obj-109",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No exemplo do motorista que desenvolveu medo de dirigir após um grave acidente, apresentado no material, o carro (inicialmente neutro) passou a ser considerado, após o acidente, o estímulo:",
+      "options": {
+        "a": "Condicionado",
+        "b": "Incondicionado",
+        "c": "Neutro permanente",
+        "d": "Reforçador primário",
+        "e": "Reforçador secundário"
+      },
+      "correct": "a",
+      "explanation": "No exemplo, o acidente foi o estímulo incondicionado que gerou medo (resposta incondicionada); como o carro estava associado ao acidente, ele passou a ser o estímulo condicionado, e o medo ao dirigir, a resposta condicionada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo do motorista que desenvolveu medo de dirigir após um grave acidente, apresentado no material, o carro (inicialmente neutro) passou a ser considerado, após o acidente, o estímulo: No exemplo, o acidente foi o estímulo incondicionado que gerou medo (resposta incondicionada); como o carro estava associado ao acidente, ele passou a ser o estímulo condicionado, e o medo ao dirigir, a resposta condicionada."
+    },
+    {
+      "id": "tcc-obj-110",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no início do século XX havia uma forte corrente defensora da eugenia, que buscava aplicar características genéticas para o melhoramento da espécie humana, gerando discursos preconceituosos. O trabalho de Watson seguia o caminho oposto porque demonstrava que:",
+      "options": {
+        "a": "O desenvolvimento dos comportamentos humanos não dependia apenas da herança genética, mas sim das interações com o ambiente",
+        "b": "Toda característica humana era exclusivamente determinada pela genética",
+        "c": "A eugenia era um método científico válido e deveria ser adotado",
+        "d": "O ambiente não tinha qualquer influência sobre o comportamento",
+        "e": "Apenas fatores metafísicos explicavam a natureza humana"
+      },
+      "correct": "a",
+      "explanation": "O trabalho de Watson, por meio do método científico e da aplicação prática dos conceitos, demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética de cada indivíduo, mas sim das interações com o ambiente — indo na contramão dos discursos eugenistas da época.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "12"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no início do século XX havia uma forte corrente defensora da eugenia, que buscava aplicar características genéticas para o melhoramento da espécie humana, gerando discursos preconceituosos. O trabalho de Watson seguia o caminho oposto porque demonstrava que: O trabalho de Watson, por meio do método científico e da aplicação prática dos conceitos, demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética de cada indivíduo, mas sim das interações com o ambiente — indo na contramão dos discursos eugenistas da época."
+    },
+    {
+      "id": "tcc-obj-111",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Wilhelm Wundt, com seu Laboratório de Psicologia Experimental em Leipzig, elaborou importantes estudos no movimento conhecido como escola estruturalista. Segundo o material, os estruturalistas receberam críticas por:",
+      "options": {
+        "a": "Eleger objeto de estudo e método de análise (experiências conscientes e introspecção) vulneráveis à experiência subjetiva do pesquisador",
+        "b": "Rejeitar completamente qualquer forma de investigação científica",
+        "c": "Estudar exclusivamente o comportamento animal, sem qualquer aplicação humana",
+        "d": "Não terem qualquer contribuição para a psicologia científica",
+        "e": "Utilizarem apenas métodos quantitativos rigorosos, sem qualquer subjetividade"
+      },
+      "correct": "a",
+      "explanation": "Os estruturalistas, apesar de suas contribuições, receberam críticas por eleger como objeto de estudo as experiências conscientes e como método a introspecção, ambos vulneráveis à experiência subjetiva do pesquisador — o que dificultava a obtenção de generalizações seguras e replicáveis.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3-4"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Wilhelm Wundt, com seu Laboratório de Psicologia Experimental em Leipzig, elaborou importantes estudos no movimento conhecido como escola estruturalista. Segundo o material, os estruturalistas receberam críticas por: Os estruturalistas, apesar de suas contribuições, receberam críticas por eleger como objeto de estudo as experiências conscientes e como método a introspecção, ambos vulneráveis à experiência subjetiva do pesquisador — o que dificultava a obtenção de generalizações seguras e replicáveis."
+    },
+    {
+      "id": "tcc-obj-112",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Watson demonstrou a importância do condicionamento clássico para entendermos o aprendizado de padrões de respostas emocionais. Segundo o material, esse achado foi de grande importância especialmente para compreender:",
+      "options": {
+        "a": "As fobias, demonstrando que a resposta de medo é um comportamento aprendido",
+        "b": "Exclusivamente os reflexos inatos de sobrevivência",
+        "c": "Os processos exclusivamente conscientes e voluntários",
+        "d": "A herança genética isolada de qualquer influência ambiental",
+        "e": "A modelagem de comportamentos complexos"
+      },
+      "correct": "a",
+      "explanation": "O achado de Watson foi de grande importância para compreender as fobias, demonstrando que a resposta de medo é um comportamento aprendido por meio do condicionamento clássico, e não uma reação inata imutável.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Watson demonstrou a importância do condicionamento clássico para entendermos o aprendizado de padrões de respostas emocionais. Segundo o material, esse achado foi de grande importância especialmente para compreender: O achado de Watson foi de grande importância para compreender as fobias, demonstrando que a resposta de medo é um comportamento aprendido por meio do condicionamento clássico, e não uma reação inata imutável."
+    },
+    {
+      "id": "tcc-obj-113",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a equação Sn → Rn representa a relação básica do reflexo, na qual:",
+      "options": {
+        "a": "Determinado estímulo elicia uma resposta",
+        "b": "Uma resposta sempre precede o estímulo que a causou",
+        "c": "Não há qualquer relação causal identificável",
+        "d": "O estímulo é sempre gerado pela própria resposta do organismo",
+        "e": "A resposta ocorre de forma totalmente aleatória e imprevisível"
+      },
+      "correct": "a",
+      "explanation": "A equação Sn → Rn representa que determinado estímulo elicia uma resposta, sendo essa a relação causal fundamental que caracteriza o reflexo no paradigma respondente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a equação Sn → Rn representa a relação básica do reflexo, na qual: A equação Sn → Rn representa que determinado estímulo elicia uma resposta, sendo essa a relação causal fundamental que caracteriza o reflexo no paradigma respondente."
+    },
+    {
+      "id": "tcc-obj-114",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, exemplos de reflexos citados incluem a contração da perna diante do golpe no joelho, a dilatação da pupila em ambiente iluminado, o aumento da salivação diante de um alimento saboroso e:",
+      "options": {
+        "a": "A sucção que o bebê realiza quando encontra o mamilo da mãe",
+        "b": "A decisão consciente de estudar para uma prova",
+        "c": "A escolha voluntária de uma profissão",
+        "d": "O planejamento de uma viagem de férias",
+        "e": "A leitura de um livro por prazer"
+      },
+      "correct": "a",
+      "explanation": "Entre os exemplos de reflexos citados no material estão a contração da perna diante do golpe no joelho, a dilatação da pupila em ambiente mais iluminado, o aumento da salivação diante de alimento saboroso e a sucção que o bebê realiza ao encontrar o mamilo da mãe.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, exemplos de reflexos citados incluem a contração da perna diante do golpe no joelho, a dilatação da pupila em ambiente iluminado, o aumento da salivação diante de um alimento saboroso e: Entre os exemplos de reflexos citados no material estão a contração da perna diante do golpe no joelho, a dilatação da pupila em ambiente mais iluminado, o aumento da salivação diante de alimento saboroso e a sucção que o bebê realiza ao encontrar o mamilo da mãe."
+    },
+    {
+      "id": "tcc-obj-115",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No exemplo do material sobre uma pessoa alérgica exposta a um ambiente com pólen no ar, a relação entre o aumento drástico da quantidade de pólen e o aumento mais rápido da frequência dos espirros ilustra a propriedade dos reflexos denominada:",
+      "options": {
+        "a": "Lei de latência",
+        "b": "Lei do limiar",
+        "c": "Habituação",
+        "d": "Sensibilização",
+        "e": "Extinção respondente"
+      },
+      "correct": "a",
+      "explanation": "O exemplo ilustra a lei de latência: quanto maior a intensidade do estímulo (quantidade de pólen), menor será o tempo de latência, ou seja, mais rapidamente a resposta (espirros) ocorrerá.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo do material sobre uma pessoa alérgica exposta a um ambiente com pólen no ar, a relação entre o aumento drástico da quantidade de pólen e o aumento mais rápido da frequência dos espirros ilustra a propriedade dos reflexos denominada: O exemplo ilustra a lei de latência: quanto maior a intensidade do estímulo (quantidade de pólen), menor será o tempo de latência, ou seja, mais rapidamente a resposta (espirros) ocorrerá."
+    },
+    {
+      "id": "tcc-obj-116",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a relação entre a intensidade do estímulo e a intensidade da resposta estabelece que:",
+      "options": {
+        "a": "Quanto maior a intensidade do estímulo, maior será a intensidade da resposta",
+        "b": "A intensidade do estímulo não guarda qualquer relação com a intensidade da resposta",
+        "c": "Quanto maior a intensidade do estímulo, menor será a intensidade da resposta",
+        "d": "A intensidade da resposta é sempre constante, independentemente do estímulo",
+        "e": "Apenas estímulos de baixa intensidade produzem qualquer resposta"
+      },
+      "correct": "a",
+      "explanation": "Uma das propriedades dos reflexos é a relação direta entre a intensidade do estímulo e da resposta: quanto maior a intensidade do estímulo, maior será a intensidade da resposta — por exemplo, um golpe mais forte na patela gera uma contração muscular maior.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7-8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a relação entre a intensidade do estímulo e a intensidade da resposta estabelece que: Uma das propriedades dos reflexos é a relação direta entre a intensidade do estímulo e da resposta: quanto maior a intensidade do estímulo, maior será a intensidade da resposta — por exemplo, um golpe mais forte na patela gera uma contração muscular maior."
+    },
+    {
+      "id": "tcc-obj-117",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, os estudos experimentais sobre comportamento aprendido de Watson eram realizados com animais, mas o próprio psicólogo deixava claro que:",
+      "options": {
+        "a": "Esse era um modelo experimental que poderia ser replicado inclusive em humanos",
+        "b": "Os resultados obtidos com animais jamais poderiam ser aplicados a humanos",
+        "c": "Seus experimentos não tinham qualquer valor científico",
+        "d": "O condicionamento clássico só funcionava em cães",
+        "e": "A pesquisa com animais deveria ser completamente abandonada"
+      },
+      "correct": "a",
+      "explanation": "Watson deixava claro que os modelos experimentais desenvolvidos com animais poderiam ser replicados inclusive em humanos, o que ele demonstrou posteriormente com o experimento do pequeno Albert.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os estudos experimentais sobre comportamento aprendido de Watson eram realizados com animais, mas o próprio psicólogo deixava claro que: Watson deixava claro que os modelos experimentais desenvolvidos com animais poderiam ser replicados inclusive em humanos, o que ele demonstrou posteriormente com o experimento do pequeno Albert."
+    },
+    {
+      "id": "tcc-obj-118",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, Thorndike calculava o tempo necessário para que o gato chegasse a uma resposta adequada de escape da caixa-problema. Ele observou que, após o animal acidentalmente pressionar a barra ou puxar a alavanca, nas vezes seguintes:",
+      "options": {
+        "a": "O tempo da resposta correta diminuía de forma progressiva",
+        "b": "O tempo da resposta correta permanecia exatamente o mesmo",
+        "c": "O gato perdia completamente a capacidade de escapar da caixa",
+        "d": "O animal parava de tentar escapar após a primeira tentativa",
+        "e": "O tempo de resposta aumentava indefinidamente a cada tentativa"
+      },
+      "correct": "a",
+      "explanation": "Thorndike observou que, após o gato pressionar a barra ou puxar a alavanca acidentalmente, o tempo da resposta correta diminuía progressivamente nas tentativas seguintes, reproduzindo uma curva de aprendizado que deu origem à Lei do efeito.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Thorndike calculava o tempo necessário para que o gato chegasse a uma resposta adequada de escape da caixa-problema. Ele observou que, após o animal acidentalmente pressionar a barra ou puxar a alavanca, nas vezes seguintes: Thorndike observou que, após o gato pressionar a barra ou puxar a alavanca acidentalmente, o tempo da resposta correta diminuía progressivamente nas tentativas seguintes, reproduzindo uma curva de aprendizado que deu origem à Lei do efeito."
+    },
+    {
+      "id": "tcc-obj-119",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, é esperado que um ambiente muito quente elicie na pessoa a resposta de suar, e não a de esticar a perna. Esse exemplo ilustra que:",
+      "options": {
+        "a": "O reflexo envolve uma resposta específica e relacionada ao estímulo apresentado, não uma resposta aleatória qualquer",
+        "b": "Qualquer estímulo pode eliciar qualquer resposta indiscriminadamente",
+        "c": "Não existe relação causal entre estímulo e resposta",
+        "d": "As respostas reflexas são sempre conscientes e voluntárias",
+        "e": "O calor nunca gera qualquer resposta fisiológica"
+      },
+      "correct": "a",
+      "explanation": "O exemplo ilustra que o reflexo envolve uma resposta específica relacionada ao estímulo, não uma resposta aleatória: diante de um ambiente quente, é esperada a resposta de suar, e não outra resposta desconectada do estímulo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, é esperado que um ambiente muito quente elicie na pessoa a resposta de suar, e não a de esticar a perna. Esse exemplo ilustra que: O exemplo ilustra que o reflexo envolve uma resposta específica relacionada ao estímulo, não uma resposta aleatória: diante de um ambiente quente, é esperada a resposta de suar, e não outra resposta desconectada do estímulo."
+    },
+    {
+      "id": "tcc-obj-120",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o experimento do pequeno Albert, conduzido por Watson, não seria aprovado atualmente em nenhum conselho de ética em pesquisa. Isso evidencia, no contexto histórico da psicologia, a importância de:",
+      "options": {
+        "a": "Considerações éticas na condução de experimentos científicos, especialmente com participantes vulneráveis como crianças",
+        "b": "Ignorar completamente qualquer padrão ético em pesquisas científicas",
+        "c": "Repetir experimentos antigos exatamente como foram conduzidos originalmente",
+        "d": "Abandonar totalmente o estudo do condicionamento clássico",
+        "e": "Desconsiderar qualquer contribuição histórica de Watson à psicologia"
+      },
+      "correct": "a",
+      "explanation": "O reconhecimento de que o experimento do pequeno Albert não seria aprovado por um conselho de ética atual evidencia a evolução das considerações éticas na pesquisa científica, especialmente envolvendo participantes vulneráveis como crianças.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o experimento do pequeno Albert, conduzido por Watson, não seria aprovado atualmente em nenhum conselho de ética em pesquisa. Isso evidencia, no contexto histórico da psicologia, a importância de: O reconhecimento de que o experimento do pequeno Albert não seria aprovado por um conselho de ética atual evidencia a evolução das considerações éticas na pesquisa científica, especialmente envolvendo participantes vulneráveis como crianças."
+    },
+    {
+      "id": "tcc-obj-121",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No exemplo de João, apresentado no material, que desenvolveu medo de elevadores após dois eventos traumáticos (queda e falha prolongada), o elevador, inicialmente sem qualquer carga emocional associada, é classificado, após o condicionamento, como estímulo:",
+      "options": {
+        "a": "Condicionado",
+        "b": "Incondicionado",
+        "c": "Neutro permanentemente",
+        "d": "Reforçador primário",
+        "e": "Punitivo positivo"
+      },
+      "correct": "a",
+      "explanation": "No exemplo de João, o elevador era inicialmente o estímulo neutro; após ser repetidamente associado aos eventos traumáticos (estímulos incondicionados que geravam medo, a resposta incondicionada), o elevador passou a ser o estímulo condicionado, eliciando a resposta condicionada de medo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "13-14"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo de João, apresentado no material, que desenvolveu medo de elevadores após dois eventos traumáticos (queda e falha prolongada), o elevador, inicialmente sem qualquer carga emocional associada, é classificado, após o condicionamento, como estímulo: No exemplo de João, o elevador era inicialmente o estímulo neutro; após ser repetidamente associado aos eventos traumáticos (estímulos incondicionados que geravam medo, a resposta incondicionada), o elevador passou a ser o estímulo condicionado, eliciando a resposta condicionada de medo."
+    },
+    {
+      "id": "tcc-obj-122",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, para uma mudança no organismo dá-se o termo resposta ou comportamento, enquanto para uma mudança do ambiente utiliza-se o termo:",
+      "options": {
+        "a": "Estímulo",
+        "b": "Reforçador",
+        "c": "Punição",
+        "d": "Modelagem",
+        "e": "Contingência"
+      },
+      "correct": "a",
+      "explanation": "Segundo o material, para uma mudança no organismo, dá-se o termo resposta ou comportamento, enquanto estímulo é o termo usado para uma mudança do ambiente; o reflexo é a relação causal entre esses dois termos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, para uma mudança no organismo dá-se o termo resposta ou comportamento, enquanto para uma mudança do ambiente utiliza-se o termo: Segundo o material, para uma mudança no organismo, dá-se o termo resposta ou comportamento, enquanto estímulo é o termo usado para uma mudança do ambiente; o reflexo é a relação causal entre esses dois termos."
+    },
+    {
+      "id": "tcc-obj-123",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no processo de condicionamento clássico, é necessário que a associação entre o estímulo neutro e o estímulo incondicionado seja repetida algumas vezes, sendo que o número necessário de repetições pode variar conforme:",
+      "options": {
+        "a": "As características do próprio organismo e o tempo entre a apresentação dos estímulos",
+        "b": "Exclusivamente a cor do estímulo neutro utilizado",
+        "c": "O tamanho físico do animal ou pessoa envolvida",
+        "d": "Fatores que não têm qualquer relação com o processo de aprendizagem",
+        "e": "A hora do dia em que o experimento é realizado, exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O número de repetições necessárias para o pareamento entre estímulo neutro e incondicionado deve ser alterado conforme algumas variáveis, tais como as características do próprio organismo e o tempo entre a apresentação dos estímulos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no processo de condicionamento clássico, é necessário que a associação entre o estímulo neutro e o estímulo incondicionado seja repetida algumas vezes, sendo que o número necessário de repetições pode variar conforme: O número de repetições necessárias para o pareamento entre estímulo neutro e incondicionado deve ser alterado conforme algumas variáveis, tais como as características do próprio organismo e o tempo entre a apresentação dos estímulos."
+    },
+    {
+      "id": "tcc-obj-124",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, Skinner elaborou a teoria do condicionamento operante, complementando a obra de Watson. Essa teoria postula que:",
+      "options": {
+        "a": "Uma mudança no organismo (resposta) gera uma mudança no ambiente (estímulo) que aumentará ou diminuirá a chance de o organismo repetir aquela resposta",
+        "b": "Apenas estímulos ambientais determinam o comportamento, sem qualquer influência da resposta emitida",
+        "c": "O comportamento nunca gera qualquer consequência no ambiente",
+        "d": "A relação entre resposta e ambiente é sempre unidirecional, do ambiente para o organismo",
+        "e": "Não existe qualquer relação entre resposta e consequência"
+      },
+      "correct": "a",
+      "explanation": "Skinner postulou a teoria do condicionamento operante (representada pela equação R→S), segundo a qual uma mudança no organismo (resposta) gera uma mudança no ambiente (estímulo/consequência) que aumentará ou diminuirá a chance de o organismo repetir aquela resposta.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Skinner elaborou a teoria do condicionamento operante, complementando a obra de Watson. Essa teoria postula que: Skinner postulou a teoria do condicionamento operante (representada pela equação R→S), segundo a qual uma mudança no organismo (resposta) gera uma mudança no ambiente (estímulo/consequência) que aumentará ou diminuirá a chance de o organismo repetir aquela resposta."
+    },
+    {
+      "id": "tcc-obj-125",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, o principal instrumento de pesquisa desenvolvido por Skinner durante seu trabalho na Universidade de Harvard, utilizado para investigar as relações entre comportamento e ambiente, ficou conhecido como:",
+      "options": {
+        "a": "Caixa de Skinner",
+        "b": "Labirinto de Thorndike",
+        "c": "Câmara de Pavlov",
+        "d": "Painel de Watson",
+        "e": "Cubo de Wundt"
+      },
+      "correct": "a",
+      "explanation": "Durante seu trabalho como pesquisador na Universidade de Harvard, Skinner desenvolveu seus principais instrumentos de pesquisa, como a 'Caixa de Skinner', e elaborou os conceitos de modelagem e controle do comportamento que definiram sua obra.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o principal instrumento de pesquisa desenvolvido por Skinner durante seu trabalho na Universidade de Harvard, utilizado para investigar as relações entre comportamento e ambiente, ficou conhecido como: Durante seu trabalho como pesquisador na Universidade de Harvard, Skinner desenvolveu seus principais instrumentos de pesquisa, como a 'Caixa de Skinner', e elaborou os conceitos de modelagem e controle do comportamento que definiram sua obra."
+    },
+    {
+      "id": "tcc-obj-126",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O behaviorismo de Skinner é considerado radical porque:",
+      "options": {
+        "a": "Nega em absoluto a existência de algo fora do mundo físico (mente, alma, consciência) e considera toda manifestação do organismo, expressada ou encoberta, como comportamento",
+        "b": "Aceita plenamente a existência de uma mente separada do corpo, de natureza dualista",
+        "c": "Rejeita completamente a possibilidade de estudar pensamentos e emoções",
+        "d": "Concorda integralmente com todos os pressupostos do behaviorismo metodológico de Watson, sem qualquer crítica",
+        "e": "Defende que apenas comportamentos expressos externamente podem ser considerados comportamento"
+      },
+      "correct": "a",
+      "explanation": "O behaviorismo de Skinner é radical por negar em absoluto a existência de algo que não faz parte do mundo físico, como a mente, a alma ou a consciência, e por compreender toda e qualquer manifestação do organismo — expressada (correr, comer) ou encoberta (pensamentos) — como comportamento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O behaviorismo de Skinner é considerado radical porque: O behaviorismo de Skinner é radical por negar em absoluto a existência de algo que não faz parte do mundo físico, como a mente, a alma ou a consciência, e por compreender toda e qualquer manifestação do organismo — expressada (correr, comer) ou encoberta (pensamentos) — como comportamento."
+    },
+    {
+      "id": "tcc-obj-127",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o quadro comparativo do material, em relação à concepção mente x corpo, Watson é classificado como dualista, enquanto Skinner é classificado como:",
+      "options": {
+        "a": "Monista",
+        "b": "Também dualista",
+        "c": "Idealista",
+        "d": "Empirista puro",
+        "e": "Racionalista cartesiano"
+      },
+      "correct": "a",
+      "explanation": "Segundo o quadro comparativo, Watson tinha uma concepção dualista de mente e corpo, enquanto Skinner adotava uma concepção monista, negando radicalmente a existência de uma mente separada do corpo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o quadro comparativo do material, em relação à concepção mente x corpo, Watson é classificado como dualista, enquanto Skinner é classificado como: Segundo o quadro comparativo, Watson tinha uma concepção dualista de mente e corpo, enquanto Skinner adotava uma concepção monista, negando radicalmente a existência de uma mente separada do corpo."
+    },
+    {
+      "id": "tcc-obj-128",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Diferentemente de Watson, que não aceitava a introspecção como método válido, Skinner aceitava a introspecção, mas apenas como método de estudo do:",
+      "options": {
+        "a": "Comportamento verbal",
+        "b": "Inconsciente coletivo",
+        "c": "Sistema límbico",
+        "d": "Reflexo patelar",
+        "e": "Condicionamento clássico exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Segundo o quadro comparativo do material, Skinner aceitava a introspecção, mas apenas como método de estudo do comportamento verbal — já que, para ele, pensamentos e emoções também são considerados comportamentos, ainda que encobertos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Diferentemente de Watson, que não aceitava a introspecção como método válido, Skinner aceitava a introspecção, mas apenas como método de estudo do: Segundo o quadro comparativo do material, Skinner aceitava a introspecção, mas apenas como método de estudo do comportamento verbal — já que, para ele, pensamentos e emoções também são considerados comportamentos, ainda que encobertos."
+    },
+    {
+      "id": "tcc-obj-129",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o quadro comparativo do material, enquanto para Watson o comportamento é explicado pela relação entre a alteração do ambiente e do organismo, para Skinner o comportamento é influenciado por:",
+      "options": {
+        "a": "Aspectos filogenéticos, ontogenéticos e culturais que influenciam as contingências ambientais",
+        "b": "Exclusivamente fatores metafísicos e espirituais",
+        "c": "Unicamente a introspecção do próprio indivíduo",
+        "d": "Nenhum fator ambiental, apenas a genética",
+        "e": "Exclusivamente decisões conscientes e racionais"
+      },
+      "correct": "a",
+      "explanation": "Para Skinner, aspectos filogenéticos (história evolutiva da espécie), ontogenéticos (história de vida do indivíduo) e culturais influenciam as contingências ambientais que determinam o comportamento — uma visão mais ampla que a de Watson.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o quadro comparativo do material, enquanto para Watson o comportamento é explicado pela relação entre a alteração do ambiente e do organismo, para Skinner o comportamento é influenciado por: Para Skinner, aspectos filogenéticos (história evolutiva da espécie), ontogenéticos (história de vida do indivíduo) e culturais influenciam as contingências ambientais que determinam o comportamento — uma visão mais ampla que a de Watson."
+    },
+    {
+      "id": "tcc-obj-130",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o quadro comparativo do material, a equação que representa o behaviorismo metodológico de Watson é S-R, enquanto a equação que representa o behaviorismo radical de Skinner é:",
+      "options": {
+        "a": "S-R-S",
+        "b": "R-S-R",
+        "c": "S-S-S",
+        "d": "R-R-R",
+        "e": "S apenas, sem R"
+      },
+      "correct": "a",
+      "explanation": "Enquanto a equação de Watson é S-R (estímulo gera resposta), a equação de Skinner é S-R-S, representando que um estímulo antecedente evoca uma resposta que, por sua vez, produz uma consequência (novo estímulo) no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o quadro comparativo do material, a equação que representa o behaviorismo metodológico de Watson é S-R, enquanto a equação que representa o behaviorismo radical de Skinner é: Enquanto a equação de Watson é S-R (estímulo gera resposta), a equação de Skinner é S-R-S, representando que um estímulo antecedente evoca uma resposta que, por sua vez, produz uma consequência (novo estímulo) no ambiente."
+    },
+    {
+      "id": "tcc-obj-131",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "No paradigma operante, diferentemente do paradigma respondente (no qual um estímulo elicia uma resposta), a análise parte de:",
+      "options": {
+        "a": "Comportamentos aleatórios emitidos espontaneamente pelo organismo, que provocam uma consequência no ambiente",
+        "b": "Estímulos que sempre precedem e causam diretamente qualquer resposta",
+        "c": "Respostas reflexas inatas exclusivamente",
+        "d": "Processos exclusivamente inconscientes e não observáveis",
+        "e": "Reflexos condicionados exclusivamente clássicos"
+      },
+      "correct": "a",
+      "explanation": "No paradigma operante, a análise parte de comportamentos aleatórios (R), que são emitidos espontaneamente pelo organismo, provocam uma consequência (S) no ambiente, e esta, por sua vez, aumentará ou diminuirá a probabilidade de o comportamento ser emitido novamente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "No paradigma operante, diferentemente do paradigma respondente (no qual um estímulo elicia uma resposta), a análise parte de: No paradigma operante, a análise parte de comportamentos aleatórios (R), que são emitidos espontaneamente pelo organismo, provocam uma consequência (S) no ambiente, e esta, por sua vez, aumentará ou diminuirá a probabilidade de o comportamento ser emitido novamente."
+    },
+    {
+      "id": "tcc-obj-132",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, o reforço positivo ocorre quando um comportamento tem sua frequência aumentada:",
+      "options": {
+        "a": "Pelo acréscimo de um estímulo",
+        "b": "Pela retirada de um estímulo aversivo",
+        "c": "Pela adição de um estímulo aversivo",
+        "d": "Pela retirada de um reforçador de outros comportamentos",
+        "e": "Sem qualquer alteração no ambiente"
+      },
+      "correct": "a",
+      "explanation": "O reforço positivo ocorre quando um comportamento tem sua frequência aumentada pelo acréscimo de um estímulo — por exemplo, um elogio recebido ao vestir uma roupa nova.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o reforço positivo ocorre quando um comportamento tem sua frequência aumentada: O reforço positivo ocorre quando um comportamento tem sua frequência aumentada pelo acréscimo de um estímulo — por exemplo, um elogio recebido ao vestir uma roupa nova."
+    },
+    {
+      "id": "tcc-obj-133",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O reforço negativo, segundo o material, ocorre quando a frequência de um comportamento aumenta pela:",
+      "options": {
+        "a": "Retirada de um estímulo aversivo",
+        "b": "Adição de um estímulo agradável",
+        "c": "Adição de um estímulo aversivo",
+        "d": "Retirada de um estímulo agradável",
+        "e": "Manutenção constante do ambiente, sem qualquer mudança"
+      },
+      "correct": "a",
+      "explanation": "O reforço negativo ocorre quando a frequência de um comportamento aumenta pela retirada de um estímulo aversivo — por exemplo, o comportamento de correr para fugir de um cachorro agressivo tende a se repetir com a fuga do estímulo aversivo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O reforço negativo, segundo o material, ocorre quando a frequência de um comportamento aumenta pela: O reforço negativo ocorre quando a frequência de um comportamento aumenta pela retirada de um estímulo aversivo — por exemplo, o comportamento de correr para fugir de um cachorro agressivo tende a se repetir com a fuga do estímulo aversivo."
+    },
+    {
+      "id": "tcc-obj-134",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, é comum confundir reforço negativo com punição. É importante destacar que:",
+      "options": {
+        "a": "O reforço, seja positivo ou negativo, sempre resultará no aumento de um comportamento",
+        "b": "O reforço negativo sempre reduz a frequência do comportamento, assim como a punição",
+        "c": "Reforço e punição são exatamente o mesmo conceito, apenas com nomes diferentes",
+        "d": "Apenas o reforço positivo aumenta a frequência de comportamentos",
+        "e": "O reforço negativo é sinônimo de punição negativa"
+      },
+      "correct": "a",
+      "explanation": "O reforço, seja positivo (adição de estímulo) ou negativo (retirada de estímulo aversivo), sempre resultará no aumento da frequência do comportamento — diferentemente da punição, que sempre reduz a frequência do comportamento.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, é comum confundir reforço negativo com punição. É importante destacar que: O reforço, seja positivo (adição de estímulo) ou negativo (retirada de estímulo aversivo), sempre resultará no aumento da frequência do comportamento — diferentemente da punição, que sempre reduz a frequência do comportamento."
+    },
+    {
+      "id": "tcc-obj-135",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Entre os dois tipos de reforçadores (fuga e evitação) descritos no material, aquele que ocorre quando o estímulo aversivo está presente na situação, sendo o comportamento emitido para se livrar dele, é denominado:",
+      "options": {
+        "a": "Fuga",
+        "b": "Evitação",
+        "c": "Punição positiva",
+        "d": "Extinção operante",
+        "e": "Reforçador secundário"
+      },
+      "correct": "a",
+      "explanation": "A fuga ocorre quando o estímulo aversivo está presente na situação, e o comportamento emitido serve para se livrar dele — por exemplo, correr diante de um cachorro agressivo já presente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Entre os dois tipos de reforçadores (fuga e evitação) descritos no material, aquele que ocorre quando o estímulo aversivo está presente na situação, sendo o comportamento emitido para se livrar dele, é denominado: A fuga ocorre quando o estímulo aversivo está presente na situação, e o comportamento emitido serve para se livrar dele — por exemplo, correr diante de um cachorro agressivo já presente."
+    },
+    {
+      "id": "tcc-obj-136",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Já a evitação, segundo o material, ocorre quando:",
+      "options": {
+        "a": "O estímulo aversivo não está presente, e o comportamento é emitido para prevenir seu surgimento",
+        "b": "O estímulo aversivo está diretamente presente e ativo no momento",
+        "c": "Não há qualquer consequência associada ao comportamento",
+        "d": "O organismo busca ativamente o estímulo aversivo",
+        "e": "A resposta é sempre eliciada de forma automática e involuntária"
+      },
+      "correct": "a",
+      "explanation": "A evitação ocorre quando o estímulo aversivo não está presente, e o comportamento é emitido justamente para evitar que ele surja — como faltar à escola para evitar uma apresentação de trabalho futura.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Já a evitação, segundo o material, ocorre quando: A evitação ocorre quando o estímulo aversivo não está presente, e o comportamento é emitido justamente para evitar que ele surja — como faltar à escola para evitar uma apresentação de trabalho futura."
+    },
+    {
+      "id": "tcc-obj-137",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, o reforçador primário é aquele que tem valor inato para o organismo, tendo sido selecionado ao longo da história evolutiva. São exemplos de reforçadores primários:",
+      "options": {
+        "a": "Alimento, água, sexo e dor",
+        "b": "Dinheiro, diploma, carro e imóveis",
+        "c": "Elogios verbais exclusivamente",
+        "d": "Certificados acadêmicos exclusivamente",
+        "e": "Aplausos em uma plateia exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O reforçador primário tem valor inato para o organismo, selecionado ao longo da história evolutiva, sendo exemplos alimento, água, sexo e dor.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o reforçador primário é aquele que tem valor inato para o organismo, tendo sido selecionado ao longo da história evolutiva. São exemplos de reforçadores primários: O reforçador primário tem valor inato para o organismo, selecionado ao longo da história evolutiva, sendo exemplos alimento, água, sexo e dor."
+    },
+    {
+      "id": "tcc-obj-138",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Já o reforçador secundário, segundo o material, não tem valor biológico intrínseco, sendo aprendido ao longo do desenvolvimento. São exemplos de reforçadores secundários:",
+      "options": {
+        "a": "Dinheiro, diploma, carro e imóveis",
+        "b": "Alimento, água, sexo e dor",
+        "c": "Reflexos patelares",
+        "d": "Sensações táteis inatas",
+        "e": "Respostas fisiológicas automáticas"
+      },
+      "correct": "a",
+      "explanation": "O reforçador secundário não tem valor biológico intrínseco, sendo aprendido ao longo do desenvolvimento; exemplos citados no material incluem dinheiro, diploma, carro e imóveis.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Já o reforçador secundário, segundo o material, não tem valor biológico intrínseco, sendo aprendido ao longo do desenvolvimento. São exemplos de reforçadores secundários: O reforçador secundário não tem valor biológico intrínseco, sendo aprendido ao longo do desenvolvimento; exemplos citados no material incluem dinheiro, diploma, carro e imóveis."
+    },
+    {
+      "id": "tcc-obj-139",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "A modelagem, conceito desenvolvido por Skinner, é definida no material como:",
+      "options": {
+        "a": "Um método de reforçamento de aproximações sucessivas do comportamento alvo",
+        "b": "Um processo de aprendizagem por observação e comparação com modelos, proposto por Bandura",
+        "c": "A eliminação total de um comportamento indesejado por meio de punição",
+        "d": "A associação entre um estímulo neutro e um estímulo incondicionado",
+        "e": "Um esquema de reforçamento em que a resposta é sempre reforçada continuamente, sem exceção"
+      },
+      "correct": "a",
+      "explanation": "A modelagem é um método de reforçamento de aproximações sucessivas do comportamento alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento terminal deve ser reforçado positivamente em curto espaço de tempo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A modelagem, conceito desenvolvido por Skinner, é definida no material como: A modelagem é um método de reforçamento de aproximações sucessivas do comportamento alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento terminal deve ser reforçado positivamente em curto espaço de tempo."
+    },
+    {
+      "id": "tcc-obj-140",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, é importante não confundir modelagem com modelação. A modelação, diferentemente da modelagem, é um processo de aprendizagem proposto por:",
+      "options": {
+        "a": "Albert Bandura",
+        "b": "B. F. Skinner",
+        "c": "Ivan Pavlov",
+        "d": "John B. Watson",
+        "e": "Edward Thorndike"
+      },
+      "correct": "a",
+      "explanation": "Modelagem é o processo de aprendizagem por aproximações sucessivas proposto por Skinner; já modelação é um processo de aprendizagem proposto por Albert Bandura, que ocorre por observação e comparação com modelos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, é importante não confundir modelagem com modelação. A modelação, diferentemente da modelagem, é um processo de aprendizagem proposto por: Modelagem é o processo de aprendizagem por aproximações sucessivas proposto por Skinner; já modelação é um processo de aprendizagem proposto por Albert Bandura, que ocorre por observação e comparação com modelos."
+    },
+    {
+      "id": "tcc-obj-141",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Durante a Segunda Guerra Mundial, Skinner foi considerado o precursor da 'engenharia do comportamento' ao receber um convite do exército norte-americano para solucionar um problema de direcionamento de mísseis. Sua solução envolveu treinar, por meio de modelagem, o seguinte animal:",
+      "options": {
+        "a": "Pombos",
+        "b": "Ratos",
+        "c": "Cães",
+        "d": "Golfinhos",
+        "e": "Gatos"
+      },
+      "correct": "a",
+      "explanation": "A partir da modelagem, Skinner treinou pombos, inseridos em uma câmara dentro do míssil, a dar bicadas em uma janela que apresentava a imagem do alvo, controlando assim a direção do projétil — o chamado 'Projeto Pombo' (Project Pigeon).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "21"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Durante a Segunda Guerra Mundial, Skinner foi considerado o precursor da 'engenharia do comportamento' ao receber um convite do exército norte-americano para solucionar um problema de direcionamento de mísseis. Sua solução envolveu treinar, por meio de modelagem, o seguinte animal: A partir da modelagem, Skinner treinou pombos, inseridos em uma câmara dentro do míssil, a dar bicadas em uma janela que apresentava a imagem do alvo, controlando assim a direção do projétil — o chamado 'Projeto Pombo' (Project Pigeon)."
+    },
+    {
+      "id": "tcc-obj-142",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "A extinção operante, segundo o material, é definida como:",
+      "options": {
+        "a": "O meio pelo qual a retirada do estímulo reforçador resultará na redução ou eliminação da frequência da resposta reforçada",
+        "b": "O processo de reforçamento contínuo de todo comportamento emitido",
+        "c": "A adição de um estímulo aversivo para reduzir um comportamento",
+        "d": "A associação repetida entre um estímulo neutro e um incondicionado",
+        "e": "O aumento súbito e permanente da frequência de um comportamento"
+      },
+      "correct": "a",
+      "explanation": "A extinção operante é o meio pelo qual a retirada do estímulo reforçador resultará na redução ou eliminação da frequência da resposta reforçada — por exemplo, deixar de apertar os botões de um controle remoto que parou de funcionar.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A extinção operante, segundo o material, é definida como: A extinção operante é o meio pelo qual a retirada do estímulo reforçador resultará na redução ou eliminação da frequência da resposta reforçada — por exemplo, deixar de apertar os botões de um controle remoto que parou de funcionar."
+    },
+    {
+      "id": "tcc-obj-143",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, existem cinco esquemas de reforçamento: um contínuo e quatro variáveis (intermitentes). O esquema de reforçamento contínuo, no qual toda resposta emitida é reforçada, é especialmente eficaz para:",
+      "options": {
+        "a": "O desenvolvimento de um novo comportamento, no processo de modelagem",
+        "b": "Tornar um comportamento mais resistente à extinção",
+        "c": "Eliminar completamente qualquer comportamento indesejado",
+        "d": "Reduzir a frequência de comportamentos já estabelecidos",
+        "e": "Provocar generalização respondente"
+      },
+      "correct": "a",
+      "explanation": "O esquema de reforçamento contínuo, no qual a emissão de uma resposta sempre é reforçada, é muito eficaz para o desenvolvimento de um novo comportamento (processo de modelagem), embora seja mais vulnerável à extinção.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem cinco esquemas de reforçamento: um contínuo e quatro variáveis (intermitentes). O esquema de reforçamento contínuo, no qual toda resposta emitida é reforçada, é especialmente eficaz para: O esquema de reforçamento contínuo, no qual a emissão de uma resposta sempre é reforçada, é muito eficaz para o desenvolvimento de um novo comportamento (processo de modelagem), embora seja mais vulnerável à extinção."
+    },
+    {
+      "id": "tcc-obj-144",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O esquema de reforçamento intermitente conhecido como razão fixa, exemplificado no material pelo sistema de estrelinhas dadas a crianças em escolas primárias, ocorre quando:",
+      "options": {
+        "a": "É necessária uma quantidade regular de respostas antes da apresentação de cada reforço",
+        "b": "A quantidade de respostas para cada aplicação do reforço varia de forma imprevisível",
+        "c": "O reforço é dado em um intervalo de tempo sempre fixo, independentemente das respostas",
+        "d": "O intervalo de tempo para o reforço varia desde o último reforçamento",
+        "e": "Toda resposta emitida é sempre reforçada, sem qualquer exceção"
+      },
+      "correct": "a",
+      "explanation": "A razão fixa ocorre quando é necessária uma quantidade regular de respostas antes da apresentação de cada reforço — como o exemplo das estrelinhas dadas a cada número fixo de bons comportamentos.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O esquema de reforçamento intermitente conhecido como razão fixa, exemplificado no material pelo sistema de estrelinhas dadas a crianças em escolas primárias, ocorre quando: A razão fixa ocorre quando é necessária uma quantidade regular de respostas antes da apresentação de cada reforço — como o exemplo das estrelinhas dadas a cada número fixo de bons comportamentos."
+    },
+    {
+      "id": "tcc-obj-145",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O esquema de razão variável, exemplificado no material pela bonificação de motoristas de aplicativo (que varia o número de viagens necessárias para o bônus a cada dia), ocorre quando:",
+      "options": {
+        "a": "A quantidade de respostas para cada aplicação do reforço varia",
+        "b": "É necessária sempre a mesma quantidade fixa de respostas para o reforço",
+        "c": "O reforço ocorre em intervalos de tempo sempre idênticos",
+        "d": "Não há qualquer relação entre quantidade de respostas e reforço",
+        "e": "O reforço é retirado permanentemente após a primeira aplicação"
+      },
+      "correct": "a",
+      "explanation": "A razão variável ocorre quando a quantidade de respostas necessárias para cada aplicação do reforço varia, como no exemplo dos motoristas de aplicativo que precisam de números diferentes de viagens a cada dia para receber o bônus.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O esquema de razão variável, exemplificado no material pela bonificação de motoristas de aplicativo (que varia o número de viagens necessárias para o bônus a cada dia), ocorre quando: A razão variável ocorre quando a quantidade de respostas necessárias para cada aplicação do reforço varia, como no exemplo dos motoristas de aplicativo que precisam de números diferentes de viagens a cada dia para receber o bônus."
+    },
+    {
+      "id": "tcc-obj-146",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O esquema de intervalo fixo, exemplificado no material pela ligação diária feita sempre no mesmo horário para uma pessoa amada em outro país, ocorre quando:",
+      "options": {
+        "a": "Se fixa o intervalo de tempo desde o último reforço",
+        "b": "A quantidade de respostas necessárias varia a cada aplicação",
+        "c": "O intervalo de tempo para o reforço varia de forma imprevisível",
+        "d": "Não há qualquer regularidade temporal associada ao reforço",
+        "e": "O reforço ocorre apenas uma única vez, sem qualquer repetição"
+      },
+      "correct": "a",
+      "explanation": "O intervalo fixo ocorre quando se fixa o intervalo de tempo desde o último reforço — como a ligação feita todos os dias, sempre às 8h, para uma pessoa amada em outro fuso horário.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "25"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O esquema de intervalo fixo, exemplificado no material pela ligação diária feita sempre no mesmo horário para uma pessoa amada em outro país, ocorre quando: O intervalo fixo ocorre quando se fixa o intervalo de tempo desde o último reforço — como a ligação feita todos os dias, sempre às 8h, para uma pessoa amada em outro fuso horário."
+    },
+    {
+      "id": "tcc-obj-147",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O esquema de intervalo variável, exemplificado no material pela checagem de mensagens de celular (cujo horário de chegada não pode ser controlado), ocorre quando:",
+      "options": {
+        "a": "O intervalo de tempo aplicado para o reforço varia desde o último reforçamento",
+        "b": "O intervalo de tempo é sempre fixo e previsível",
+        "c": "A quantidade de respostas necessárias é sempre constante",
+        "d": "Não existe qualquer reforço associado ao comportamento",
+        "e": "O reforço ocorre imediatamente após cada resposta, sem qualquer variação"
+      },
+      "correct": "a",
+      "explanation": "O intervalo variável ocorre quando o intervalo de tempo aplicado para o reforço varia desde o último reforçamento, como na checagem de mensagens, cujo momento de chegada não pode ser previsto ou controlado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "25"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O esquema de intervalo variável, exemplificado no material pela checagem de mensagens de celular (cujo horário de chegada não pode ser controlado), ocorre quando: O intervalo variável ocorre quando o intervalo de tempo aplicado para o reforço varia desde o último reforçamento, como na checagem de mensagens, cujo momento de chegada não pode ser previsto ou controlado."
+    },
+    {
+      "id": "tcc-obj-148",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "A punição positiva, segundo o material, é aquela que diminui a frequência de um comportamento:",
+      "options": {
+        "a": "Pela adição de um estímulo aversivo",
+        "b": "Pela retirada de um estímulo aversivo",
+        "c": "Pela adição de um estímulo agradável",
+        "d": "Pela retirada de um reforçador de outros comportamentos",
+        "e": "Sem qualquer alteração no ambiente"
+      },
+      "correct": "a",
+      "explanation": "A punição positiva é aquela que diminui a frequência de um comportamento pela adição de um estímulo aversivo, como broncas, multas ou notas baixas.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A punição positiva, segundo o material, é aquela que diminui a frequência de um comportamento: A punição positiva é aquela que diminui a frequência de um comportamento pela adição de um estímulo aversivo, como broncas, multas ou notas baixas."
+    },
+    {
+      "id": "tcc-obj-149",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "A punição negativa, segundo o material, é aquela que diminui a frequência de um comportamento pela:",
+      "options": {
+        "a": "Retirada de um reforçador de outros comportamentos do ambiente",
+        "b": "Adição de um estímulo aversivo",
+        "c": "Retirada do próprio estímulo que reforça aquele comportamento específico",
+        "d": "Adição de um novo reforçador ao comportamento",
+        "e": "Manutenção de todos os reforçadores presentes"
+      },
+      "correct": "a",
+      "explanation": "A punição negativa é aquela que diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do ambiente — por exemplo, retirar o celular e o videogame de uma criança para reduzir um comportamento inadequado específico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "A punição negativa, segundo o material, é aquela que diminui a frequência de um comportamento pela: A punição negativa é aquela que diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do ambiente — por exemplo, retirar o celular e o videogame de uma criança para reduzir um comportamento inadequado específico."
+    },
+    {
+      "id": "tcc-obj-150",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, a diferença fundamental entre punição negativa e extinção é que:",
+      "options": {
+        "a": "Na extinção, retira-se o estímulo reforçador principal do próprio comportamento; na punição negativa, retira-se algum reforçador de outros comportamentos importantes",
+        "b": "Não existe qualquer diferença conceitual entre os dois processos",
+        "c": "A extinção sempre aumenta a frequência do comportamento, e a punição negativa sempre a diminui",
+        "d": "A punição negativa envolve exclusivamente a adição de estímulos aversivos",
+        "e": "A extinção só pode ocorrer em animais, nunca em humanos"
+      },
+      "correct": "a",
+      "explanation": "A diferença está no fato de que, na extinção, retira-se o estímulo reforçador principal do próprio comportamento (por exemplo, o prato que reforçava ir ao restaurante); na punição negativa, retira-se algum reforçador de outros comportamentos importantes para o organismo (por exemplo, celular e videogame).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a diferença fundamental entre punição negativa e extinção é que: A diferença está no fato de que, na extinção, retira-se o estímulo reforçador principal do próprio comportamento (por exemplo, o prato que reforçava ir ao restaurante); na punição negativa, retira-se algum reforçador de outros comportamentos importantes para o organismo (por exemplo, celular e videogame)."
+    },
+    {
+      "id": "tcc-obj-151",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo Mayer e Gongora (2011, citados no material), a eficácia e a segurança do emprego de estímulos punitivos devem levar em consideração três pontos, entre eles:",
+      "options": {
+        "a": "Compreender que o alvo da punição é apenas o comportamento, não o indivíduo",
+        "b": "Utilizar punição para qualquer comportamento, independentemente da gravidade",
+        "c": "Aplicar punição sem qualquer preocupação com a segurança do indivíduo",
+        "d": "Banalizar o uso de estímulos punitivos no dia a dia",
+        "e": "Ignorar completamente critérios éticos na aplicação de punições"
+      },
+      "correct": "a",
+      "explanation": "Segundo Mayer e Gongora (2011), a eficácia e segurança de estímulos punitivos devem considerar: pensar sempre na segurança do indivíduo, compreender que o alvo da punição é o comportamento (não o indivíduo), e usar medidas punitivas apenas quando os comportamentos estiverem prejudicando a vida do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26-27"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Mayer e Gongora (2011, citados no material), a eficácia e a segurança do emprego de estímulos punitivos devem levar em consideração três pontos, entre eles: Segundo Mayer e Gongora (2011), a eficácia e segurança de estímulos punitivos devem considerar: pensar sempre na segurança do indivíduo, compreender que o alvo da punição é o comportamento (não o indivíduo), e usar medidas punitivas apenas quando os comportamentos estiverem prejudicando a vida do indivíduo."
+    },
+    {
+      "id": "tcc-obj-152",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Entre os possíveis efeitos colaterais da punição citados por analistas do comportamento no material, estão o retraimento social do indivíduo punido, o contra-ataque à fonte punidora e:",
+      "options": {
+        "a": "O aumento da emissão de comportamentos violentos, inclusive para indivíduos fora da contingência",
+        "b": "A eliminação completa e permanente de qualquer comportamento indesejado, sem qualquer efeito colateral",
+        "c": "O fortalecimento automático da relação entre punidor e punido",
+        "d": "A ausência total de qualquer resposta emocional",
+        "e": "O aumento imediato da autoestima do indivíduo punido"
+      },
+      "correct": "a",
+      "explanation": "Entre os efeitos colaterais da punição citados estão o retraimento social do indivíduo punido, o aumento da emissão de comportamentos violentos (inclusive para indivíduos fora da contingência), o contra-ataque à fonte punidora e respostas emocionais de estresse, raiva e ansiedade.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Entre os possíveis efeitos colaterais da punição citados por analistas do comportamento no material, estão o retraimento social do indivíduo punido, o contra-ataque à fonte punidora e: Entre os efeitos colaterais da punição citados estão o retraimento social do indivíduo punido, o aumento da emissão de comportamentos violentos (inclusive para indivíduos fora da contingência), o contra-ataque à fonte punidora e respostas emocionais de estresse, raiva e ansiedade."
+    },
+    {
+      "id": "tcc-obj-153",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Skinner, antes de se dedicar à Psicologia, graduou-se na faculdade de Letras, mas não obteve bom desempenho como escritor. Segundo o material, sua decisão de seguir um doutorado em Psicologia ocorreu após:",
+      "options": {
+        "a": "Ser apresentado às obras de Watson e Pavlov, encantando-se pelo estudo do comportamento animal",
+        "b": "Trabalhar diretamente com Thorndike em pesquisas sobre gatos",
+        "c": "Fundar o Laboratório de Psicologia Experimental de Leipzig",
+        "d": "Publicar seu primeiro romance de grande sucesso comercial",
+        "e": "Ser convidado diretamente pelo governo, sem qualquer interesse prévio pelo tema"
+      },
+      "correct": "a",
+      "explanation": "Anos após se graduar em Letras, foram apresentadas a Skinner as obras de Watson e Pavlov, e ele se encantou pelo estudo do comportamento animal, decidindo seguir com um doutorado em Psicologia.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Skinner, antes de se dedicar à Psicologia, graduou-se na faculdade de Letras, mas não obteve bom desempenho como escritor. Segundo o material, sua decisão de seguir um doutorado em Psicologia ocorreu após: Anos após se graduar em Letras, foram apresentadas a Skinner as obras de Watson e Pavlov, e ele se encantou pelo estudo do comportamento animal, decidindo seguir com um doutorado em Psicologia."
+    },
+    {
+      "id": "tcc-obj-154",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Segundo o material, no exemplo de Júlio, que passou a frequentar a academia todos os dias após sentir-se bem com os exercícios, mas reduziu drasticamente a frequência após assumir um novo emprego distante, o processo que ocorreu com a redução da frequência de idas à academia é denominado:",
+      "options": {
+        "a": "Extinção operante",
+        "b": "Punição positiva",
+        "c": "Reforço negativo",
+        "d": "Generalização respondente",
+        "e": "Modelagem"
+      },
+      "correct": "a",
+      "explanation": "O bem-estar gerado pelos exercícios funcionava como reforço positivo; quando as idas à academia diminuíram (retirada da oportunidade de obter esse reforço), o comportamento de ir à academia entrou em um processo de extinção operante.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "27-28"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo de Júlio, que passou a frequentar a academia todos os dias após sentir-se bem com os exercícios, mas reduziu drasticamente a frequência após assumir um novo emprego distante, o processo que ocorreu com a redução da frequência de idas à academia é denominado: O bem-estar gerado pelos exercícios funcionava como reforço positivo; quando as idas à academia diminuíram (retirada da oportunidade de obter esse reforço), o comportamento de ir à academia entrou em um processo de extinção operante."
     }
   ],
   "discursive": [
@@ -3542,6 +4950,850 @@
       },
       "subject": "Processos cognitivos: memória",
       "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-033",
+      "topic": "Origens do behaviorismo",
+      "question": "Explique como os estudos de Thorndike, Pavlov e Watson, no final do século XIX e início do XX, contribuíram para o surgimento do behaviorismo como alternativa à psicologia estruturalista.",
+      "modelAnswer": "A escola estruturalista de Wundt, apesar de suas contribuições, recebia críticas por eleger como objeto de estudo as experiências conscientes e como método a introspecção, vulneráveis à subjetividade do pesquisador, dificultando generalizações replicáveis. Thorndike, estudando gatos em caixas-problema, elaborou a Lei do efeito, mostrando que comportamentos seguidos de satisfação se fortalecem. Pavlov, estudando reflexos digestivos em cães, descobriu o condicionamento clássico, associando estímulos a respostas reflexas. Watson, influenciado por Pavlov, defendeu que a Psicologia deveria ser a ciência do comportamento observável, e não da mente, postulando a relação S→R e fundando formalmente o behaviorismo em 1913.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: crítica pela subjetividade da introspecção",
+          "weight": 0.25,
+          "keywords": [
+            "estruturalismo",
+            "introspecção",
+            "subjetividade"
+          ]
+        },
+        {
+          "text": "Thorndike: Lei do efeito a partir de gatos em caixas-problema",
+          "weight": 0.25,
+          "keywords": [
+            "Thorndike",
+            "Lei do efeito",
+            "caixa-problema"
+          ]
+        },
+        {
+          "text": "Pavlov: descoberta do condicionamento clássico via reflexos digestivos",
+          "weight": 0.25,
+          "keywords": [
+            "Pavlov",
+            "condicionamento clássico",
+            "reflexos digestivos"
+          ]
+        },
+        {
+          "text": "Watson: fundação formal do behaviorismo, S→R, comportamento observável",
+          "weight": 0.25,
+          "keywords": [
+            "Watson",
+            "S→R",
+            "comportamento observável"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3-5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-034",
+      "topic": "Propriedades dos reflexos",
+      "question": "Descreva as quatro propriedades dos reflexos apresentadas no material (relação de intensidade, lei do limiar, lei de latência, habituação e sensibilização), com um exemplo para cada uma.",
+      "modelAnswer": "A primeira propriedade é a relação de intensidade: quanto maior a intensidade do estímulo, maior a intensidade da resposta (um golpe forte na patela gera contração maior que um golpe fraco). A lei do limiar estabelece que há uma intensidade mínima de estímulo necessária para eliciar a resposta (um barulho só faz fechar as pálpebras a partir de certa intensidade). A lei de latência é o tempo entre estímulo e resposta, que diminui quanto maior a intensidade do estímulo (mais pólen no ar gera espirros mais rapidamente). A habituação ocorre quando a repetição do estímulo reduz a intensidade da resposta (deixar de perceber um cheiro após um tempo). A sensibilização, ao contrário, ocorre quando a repetição aumenta a intensidade da resposta (um barulho incômodo tornando-se insuportável).",
+      "keyPoints": [
+        {
+          "text": "Relação de intensidade: estímulo maior gera resposta maior",
+          "weight": 0.2,
+          "keywords": [
+            "relação de intensidade",
+            "golpe forte"
+          ]
+        },
+        {
+          "text": "Lei do limiar: intensidade mínima necessária",
+          "weight": 0.2,
+          "keywords": [
+            "lei do limiar",
+            "intensidade mínima"
+          ]
+        },
+        {
+          "text": "Lei de latência: tempo entre estímulo e resposta",
+          "weight": 0.2,
+          "keywords": [
+            "lei de latência",
+            "tempo"
+          ]
+        },
+        {
+          "text": "Habituação: redução da resposta com repetição",
+          "weight": 0.2,
+          "keywords": [
+            "habituação",
+            "redução"
+          ]
+        },
+        {
+          "text": "Sensibilização: aumento da resposta com repetição",
+          "weight": 0.2,
+          "keywords": [
+            "sensibilização",
+            "aumento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7-8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-035",
+      "topic": "Experimento de Pavlov",
+      "question": "Descreva as etapas do experimento clássico de Pavlov com os cães, definindo estímulo neutro, estímulo incondicionado, resposta incondicionada, estímulo condicionado e resposta condicionada.",
+      "modelAnswer": "No experimento de Pavlov, inicialmente o som do sino (estímulo neutro) não eliciava salivação. A apresentação de comida (estímulo incondicionado) eliciava salivação automaticamente (resposta incondicionada). Pavlov então passou a apresentar o sino junto com a comida repetidas vezes; após várias repetições desse pareamento, o sino sozinho passou a eliciar salivação. Nesse momento, o sino se tornou o estímulo condicionado, e a salivação diante dele, a resposta condicionada — demonstrando que um estímulo antes neutro pode, por associação repetida com um estímulo incondicionado, passar a eliciar uma resposta automaticamente.",
+      "keyPoints": [
+        {
+          "text": "Estímulo neutro: sino, inicialmente sem eliciar resposta",
+          "weight": 0.2,
+          "keywords": [
+            "estímulo neutro",
+            "sino"
+          ]
+        },
+        {
+          "text": "Estímulo incondicionado (comida) e resposta incondicionada (salivação)",
+          "weight": 0.25,
+          "keywords": [
+            "estímulo incondicionado",
+            "resposta incondicionada",
+            "comida"
+          ]
+        },
+        {
+          "text": "Pareamento repetido entre sino e comida",
+          "weight": 0.2,
+          "keywords": [
+            "pareamento",
+            "repetido"
+          ]
+        },
+        {
+          "text": "Estímulo condicionado (sino) e resposta condicionada (salivação)",
+          "weight": 0.35,
+          "keywords": [
+            "estímulo condicionado",
+            "resposta condicionada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-036",
+      "topic": "Behaviorismo metodológico de Watson",
+      "question": "Explique os principais pressupostos do behaviorismo metodológico proposto por Watson, incluindo sua posição em relação à mente e aos eventos internos.",
+      "modelAnswer": "O behaviorismo metodológico, proposto por Watson, não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica. Por isso, Watson descartava de suas análises os eventos internos, como pensamentos e emoções, pautando seus estudos exclusivamente em observações e experimentações do comportamento externo e observável. Para ele, o comportamento poderia ser controlado e previsto, bastando conhecer o estímulo e a resposta relacionada — o propósito do behaviorismo seria prever a resposta com base no estímulo, ou, dada uma resposta, descobrir qual estímulo a causou.",
+      "keyPoints": [
+        {
+          "text": "Não nega a mente, mas afirma que não pode ser estudada objetivamente",
+          "weight": 0.35,
+          "keywords": [
+            "não nega a mente",
+            "não pode ser estudada objetivamente"
+          ]
+        },
+        {
+          "text": "Descarta eventos internos (pensamentos, emoções) das análises",
+          "weight": 0.35,
+          "keywords": [
+            "eventos internos",
+            "descarta"
+          ]
+        },
+        {
+          "text": "Objetivo: prever resposta a partir do estímulo, ou vice-versa",
+          "weight": 0.3,
+          "keywords": [
+            "prever resposta",
+            "estímulo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-037",
+      "topic": "Experimento do pequeno Albert",
+      "question": "Descreva o experimento do pequeno Albert conduzido por Watson, explicando os fenômenos de generalização respondente e extinção respondente demonstrados por ele.",
+      "modelAnswer": "Watson apresentou ao pequeno Albert, de 9 meses, diversos estímulos neutros (papel em chamas, máscara, cachorro, rato branco), sem que a criança demonstrasse reação aversiva. Em seguida, associou repetidamente a apresentação do rato branco a um som estridente e assustador, até que a simples aproximação do rato passou a eliciar choro e medo — condicionando uma resposta de medo. Ao avaliar a resposta de Albert a objetos com textura similar (coelho, ursinho de pelúcia, máscara com barba branca), observou que ele também reagia com medo, fenômeno denominado generalização respondente. Para eliminar essa resposta condicionada, seria necessário apresentar repetidamente o estímulo condicionado sem o estímulo incondicionado (o barulho), processo conhecido como extinção respondente.",
+      "keyPoints": [
+        {
+          "text": "Condicionamento do medo: pareamento do rato branco com som estridente",
+          "weight": 0.35,
+          "keywords": [
+            "rato branco",
+            "som estridente",
+            "condicionamento"
+          ]
+        },
+        {
+          "text": "Generalização respondente: medo se estende a objetos semelhantes",
+          "weight": 0.35,
+          "keywords": [
+            "generalização respondente",
+            "objetos semelhantes"
+          ]
+        },
+        {
+          "text": "Extinção respondente: apresentar o estímulo condicionado sem o incondicionado",
+          "weight": 0.3,
+          "keywords": [
+            "extinção respondente",
+            "sem o incondicionado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-038",
+      "topic": "O reflexo como relação causal",
+      "question": "Explique por que, segundo Moreira e Medeiros (2007), os reflexos não devem ser entendidos como comportamentos isolados, mas como uma relação entre estímulo e resposta, e qual é o papel da história filogenética nesse processo.",
+      "modelAnswer": "Segundo Moreira e Medeiros (2007), 'reflexos não são apenas comportamentos, mas sim a relação entre estímulo e resposta'. Isso significa que diante de determinado estímulo (mudança do ambiente), uma resposta relacionada (mudança no organismo) é eliciada de forma específica e previsível — por exemplo, um ambiente quente elicia a resposta de suar, não a de esticar a perna. Essa relação é essencial para a sobrevivência dos organismos, pois muitos reflexos são eliciados sem aprendizagem prévia: o organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história filogenética (a história evolutiva da espécie), como demonstra o exemplo de filhotes de pássaros que abrem o bico para receber comida, mas não conseguem fazer o movimento de sucção.",
+      "keyPoints": [
+        {
+          "text": "Reflexo é a relação causal entre estímulo e resposta, não a resposta isolada",
+          "weight": 0.4,
+          "keywords": [
+            "relação causal",
+            "estímulo e resposta"
+          ]
+        },
+        {
+          "text": "Resposta específica e previsível relacionada ao estímulo",
+          "weight": 0.3,
+          "keywords": [
+            "específica",
+            "previsível"
+          ]
+        },
+        {
+          "text": "História filogenética: comportamentos herdados ao longo da evolução da espécie",
+          "weight": 0.3,
+          "keywords": [
+            "filogenética",
+            "herdados",
+            "evolução"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-039",
+      "topic": "Comportamentos reflexos no cotidiano",
+      "question": "Cite e explique quatro exemplos de reflexos apresentados no material, indicando o estímulo e a resposta envolvida em cada um.",
+      "modelAnswer": "O material cita quatro exemplos de reflexos: (1) o reflexo patelar, no qual um leve golpe no tendão patelar (estímulo) elicia a contração dos músculos da perna (resposta); (2) a dilatação da pupila diante de ambiente iluminado (estímulo: luz; resposta: mudança pupilar); (3) o aumento da salivação diante de alimento saboroso (estímulo: comida; resposta: salivação); (4) a sucção que o bebê realiza ao encontrar o mamilo da mãe (estímulo: contato com o mamilo; resposta: sucção). Todos são respostas automáticas do organismo a mudanças do ambiente, não necessariamente conscientes.",
+      "keyPoints": [
+        {
+          "text": "Reflexo patelar: golpe no tendão → contração muscular",
+          "weight": 0.25,
+          "keywords": [
+            "reflexo patelar",
+            "golpe",
+            "contração"
+          ]
+        },
+        {
+          "text": "Dilatação pupilar diante da luz",
+          "weight": 0.25,
+          "keywords": [
+            "dilatação",
+            "pupila",
+            "luz"
+          ]
+        },
+        {
+          "text": "Salivação diante de alimento",
+          "weight": 0.25,
+          "keywords": [
+            "salivação",
+            "alimento"
+          ]
+        },
+        {
+          "text": "Sucção do bebê ao encontrar o mamilo",
+          "weight": 0.25,
+          "keywords": [
+            "sucção",
+            "bebê",
+            "mamilo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "6-7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo"
+    },
+    {
+      "id": "tcc-disc-040",
+      "topic": "Watson e a eugenia",
+      "question": "Explique como o trabalho de Watson se contrapunha à corrente eugenista dominante no início do século XX, segundo o material.",
+      "modelAnswer": "No início do século XX, havia uma forte corrente defensora da eugenia — o estudo das características genéticas aplicadas ao melhoramento da espécie humana —, que viabilizou diversos discursos preconceituosos e absurdos. O trabalho de Watson seguia o caminho oposto: por meio do emprego do método científico e da aplicação prática de seus conceitos, ele demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética de cada indivíduo, mas sim das interações com o ambiente. Ao mostrar, por exemplo, que respostas emocionais como o medo são aprendidas por condicionamento (e não determinadas geneticamente), Watson contribuiu para desmistificar visões deterministas baseadas exclusivamente na hereditariedade.",
+      "keyPoints": [
+        {
+          "text": "Contexto: forte corrente eugenista no início do século XX",
+          "weight": 0.3,
+          "keywords": [
+            "eugenia",
+            "início do século XX"
+          ]
+        },
+        {
+          "text": "Watson demonstrava que comportamento depende das interações com o ambiente",
+          "weight": 0.4,
+          "keywords": [
+            "interações com o ambiente",
+            "não apenas genética"
+          ]
+        },
+        {
+          "text": "Exemplo: medo como comportamento aprendido por condicionamento",
+          "weight": 0.3,
+          "keywords": [
+            "medo aprendido",
+            "condicionamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "12"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-041",
+      "topic": "Estímulo condicionado no cotidiano",
+      "question": "Utilizando o exemplo do motorista que desenvolveu medo de dirigir após um acidente, explique como um estímulo neutro pode se transformar em estímulo condicionado no cotidiano.",
+      "modelAnswer": "No exemplo apresentado, o carro, inicialmente, não eliciava nenhuma resposta emocional negativa, sendo, portanto, um estímulo neutro. Sofrer um grave acidente foi uma experiência intensa que colocou a vida do motorista em risco, gerando uma resposta automática de medo — nesse caso, o acidente funcionou como estímulo incondicionado, e o medo, como resposta incondicionada. Como o carro estava associado à experiência do acidente, ele passou a ser o estímulo condicionado, e o medo ao dirigir tornou-se a resposta condicionada. Esse exemplo ilustra como situações traumáticas do cotidiano podem condicionar respostas emocionais duradouras a estímulos antes neutros, mecanismo relevante para compreender fobias e o transtorno de estresse pós-traumático.",
+      "keyPoints": [
+        {
+          "text": "Carro: inicialmente estímulo neutro, sem carga emocional",
+          "weight": 0.3,
+          "keywords": [
+            "carro",
+            "estímulo neutro"
+          ]
+        },
+        {
+          "text": "Acidente como estímulo incondicionado; medo como resposta incondicionada",
+          "weight": 0.35,
+          "keywords": [
+            "acidente",
+            "estímulo incondicionado",
+            "medo"
+          ]
+        },
+        {
+          "text": "Associação transforma o carro em estímulo condicionado",
+          "weight": 0.35,
+          "keywords": [
+            "estímulo condicionado",
+            "associação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-042",
+      "topic": "Estruturalismo x Behaviorismo",
+      "question": "Compare o objeto de estudo e o método da escola estruturalista de Wundt com o objeto de estudo e o método propostos por Watson para o behaviorismo.",
+      "modelAnswer": "A escola estruturalista, fundada por Wundt em seu Laboratório de Psicologia Experimental em Leipzig, elegia como objeto de estudo as experiências conscientes, utilizando a introspecção como método de análise. Esse método, porém, era vulnerável à experiência subjetiva do pesquisador, dificultando a obtenção de regras seguras e replicáveis exigidas pelo método científico. Watson, em contraposição, defendeu que a Psicologia deveria mudar seu objeto de estudo da mente para o comportamento observável, já que este poderia ser observado, controlado, quantificado e replicado experimentalmente — fundando, assim, as bases do behaviorismo como alternativa mais rigorosa à psicologia estruturalista.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo: objeto = experiências conscientes; método = introspecção",
+          "weight": 0.4,
+          "keywords": [
+            "estruturalismo",
+            "experiências conscientes",
+            "introspecção"
+          ]
+        },
+        {
+          "text": "Crítica: subjetividade do pesquisador dificulta replicabilidade",
+          "weight": 0.3,
+          "keywords": [
+            "subjetividade",
+            "replicabilidade"
+          ]
+        },
+        {
+          "text": "Watson: objeto = comportamento observável, controlável e replicável",
+          "weight": 0.3,
+          "keywords": [
+            "comportamento observável",
+            "replicável"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3-5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-043",
+      "topic": "Behaviorismo metodológico x radical",
+      "question": "Compare o behaviorismo metodológico de Watson com o behaviorismo radical de Skinner quanto à concepção de mente, aceitação da introspecção e explicação do comportamento.",
+      "modelAnswer": "Watson, no behaviorismo metodológico, tinha uma concepção dualista de mente e corpo: não negava a existência da mente, mas afirmava que ela não poderia ser estudada objetivamente, por isso não aceitava a introspecção e explicava o comportamento pela relação direta entre alteração do ambiente e do organismo (equação S-R). Skinner, no behaviorismo radical, adotava uma concepção monista, negando radicalmente a existência de uma mente separada — mas, diferentemente de Watson, aceitava a introspecção como método de estudo do comportamento verbal, já que considerava pensamentos e emoções como comportamentos (encobertos). Para Skinner, o comportamento é influenciado por aspectos filogenéticos, ontogenéticos e culturais que moldam as contingências ambientais, representado pela equação S-R-S.",
+      "keyPoints": [
+        {
+          "text": "Watson: dualista, não aceita introspecção, equação S-R",
+          "weight": 0.4,
+          "keywords": [
+            "Watson",
+            "dualista",
+            "S-R"
+          ]
+        },
+        {
+          "text": "Skinner: monista, aceita introspecção como comportamento verbal",
+          "weight": 0.35,
+          "keywords": [
+            "Skinner",
+            "monista",
+            "comportamento verbal"
+          ]
+        },
+        {
+          "text": "Skinner: aspectos filogenéticos/ontogenéticos/culturais, equação S-R-S",
+          "weight": 0.25,
+          "keywords": [
+            "filogenéticos",
+            "ontogenéticos",
+            "S-R-S"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-044",
+      "topic": "Reforço positivo e negativo",
+      "question": "Diferencie reforço positivo de reforço negativo, esclarecendo o mal-entendido comum de que reforço negativo seria sinônimo de punição.",
+      "modelAnswer": "O reforço positivo ocorre quando um comportamento tem sua frequência aumentada pelo acréscimo de um estímulo — por exemplo, receber um elogio ao vestir uma roupa nova. O reforço negativo ocorre quando a frequência de um comportamento aumenta pela retirada de um estímulo aversivo — por exemplo, correr para fugir de um cachorro agressivo, comportamento que se repetirá pela fuga do estímulo aversivo. É comum o mal-entendido de que reforço negativo seria a retirada de um comportamento inadequado ou uma forma de punição; porém, o reforço, seja positivo ou negativo, sempre resulta no aumento da frequência de um comportamento — a diferença está apenas em se a frequência aumenta pela adição (positivo) ou pela subtração (negativo) de um estímulo.",
+      "keyPoints": [
+        {
+          "text": "Reforço positivo: aumento pela adição de estímulo",
+          "weight": 0.3,
+          "keywords": [
+            "reforço positivo",
+            "adição"
+          ]
+        },
+        {
+          "text": "Reforço negativo: aumento pela retirada de estímulo aversivo",
+          "weight": 0.3,
+          "keywords": [
+            "reforço negativo",
+            "retirada",
+            "aversivo"
+          ]
+        },
+        {
+          "text": "Esclarecimento: reforço, seja positivo ou negativo, sempre aumenta a frequência",
+          "weight": 0.4,
+          "keywords": [
+            "sempre aumenta",
+            "não é punição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18-19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-045",
+      "topic": "Fuga e evitação",
+      "question": "Diferencie os conceitos de fuga e evitação como tipos de reforço negativo, com exemplos.",
+      "modelAnswer": "Tanto a fuga quanto a evitação são formas de reforço negativo, nas quais o comportamento aumenta de frequência pela relação com um estímulo aversivo. Na fuga, o estímulo aversivo já está presente na situação, e o comportamento emitido serve para se livrar dele — como no exemplo de Karina, que corre desesperadamente ao se deparar com um cachorro agressivo já presente. Na evitação, o estímulo aversivo ainda não está presente, e o comportamento é emitido justamente para prevenir seu surgimento — como no exemplo de Ivan, que falta à escola para evitar uma apresentação de trabalho que ainda ocorreria.",
+      "keyPoints": [
+        {
+          "text": "Fuga: estímulo aversivo já presente, comportamento remove esse estímulo",
+          "weight": 0.5,
+          "keywords": [
+            "fuga",
+            "presente",
+            "remove"
+          ]
+        },
+        {
+          "text": "Evitação: estímulo aversivo ainda não presente, comportamento previne seu surgimento",
+          "weight": 0.5,
+          "keywords": [
+            "evitação",
+            "não presente",
+            "previne"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "19"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-046",
+      "topic": "Reforçador primário e secundário",
+      "question": "Diferencie reforçador primário de reforçador secundário, com exemplos, explicando a origem do valor de cada tipo.",
+      "modelAnswer": "O reforçador primário tem valor inato para o organismo, tendo sido selecionado ao longo da história evolutiva da espécie — são exemplos alimento, água, sexo e dor, que possuem valor biológico intrínseco independentemente de qualquer aprendizagem. Já o reforçador secundário não possui valor biológico intrínseco; seu valor é aprendido ao longo do desenvolvimento individual, por meio de associações com reforçadores primários ou com outros contextos sociais e culturais — são exemplos dinheiro, diploma, carro e imóveis, cujo valor reforçador é construído socialmente, não sendo inato.",
+      "keyPoints": [
+        {
+          "text": "Reforçador primário: valor inato, selecionado pela evolução",
+          "weight": 0.5,
+          "keywords": [
+            "primário",
+            "valor inato",
+            "evolução"
+          ]
+        },
+        {
+          "text": "Reforçador secundário: valor aprendido ao longo do desenvolvimento",
+          "weight": 0.5,
+          "keywords": [
+            "secundário",
+            "valor aprendido",
+            "desenvolvimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-047",
+      "topic": "Modelagem",
+      "question": "Explique o processo de modelagem descrito por Skinner, utilizando o exemplo da aquisição da fala pela criança.",
+      "modelAnswer": "A modelagem é um método de reforçamento de aproximações sucessivas do comportamento alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento terminal deve ser reforçado positivamente, em curto espaço de tempo. No exemplo da fala, desde os primeiros sons de choro emitidos pela criança, os adultos ao redor reforçam-na com atenção ou reciprocidade. Os primeiros balbucios são reforçados, e gradualmente começam a surgir as primeiras sílabas e tentativas de palavras; com reforçadores positivos rotineiros, a criança consegue, aos poucos, elaborar suas primeiras palavras completas — cada aproximação sucessiva ao comportamento final (falar) é reforçada, ampliando progressivamente o repertório comportamental do indivíduo.",
+      "keyPoints": [
+        {
+          "text": "Modelagem: reforço de aproximações sucessivas ao comportamento alvo",
+          "weight": 0.4,
+          "keywords": [
+            "aproximações sucessivas",
+            "comportamento alvo"
+          ]
+        },
+        {
+          "text": "Exemplo: choro reforçado, balbucios, sílabas, primeiras palavras",
+          "weight": 0.4,
+          "keywords": [
+            "balbucios",
+            "sílabas",
+            "primeiras palavras"
+          ]
+        },
+        {
+          "text": "Reforço próximo no tempo amplia o repertório comportamental",
+          "weight": 0.2,
+          "keywords": [
+            "repertório comportamental",
+            "amplia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20-21"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-048",
+      "topic": "Esquemas de reforçamento",
+      "question": "Descreva os quatro tipos de esquemas de reforçamento intermitente (razão fixa, razão variável, intervalo fixo e intervalo variável), com um exemplo para cada um.",
+      "modelAnswer": "A razão fixa ocorre quando é necessária uma quantidade regular de respostas antes de cada reforço, como em escolas primárias que dão uma estrela dourada a cada número fixo de bons comportamentos. A razão variável ocorre quando a quantidade de respostas necessárias varia a cada aplicação do reforço, como na bonificação de motoristas de aplicativo, que precisam de números diferentes de viagens a cada dia para receber o bônus. O intervalo fixo ocorre quando se fixa o intervalo de tempo desde o último reforço, como a ligação feita todos os dias sempre no mesmo horário para uma pessoa amada em outro país. O intervalo variável ocorre quando o intervalo de tempo para o reforço varia de forma imprevisível, como a checagem de mensagens de celular, cujo momento de chegada não pode ser controlado.",
+      "keyPoints": [
+        {
+          "text": "Razão fixa: quantidade regular de respostas (estrelinhas escolares)",
+          "weight": 0.25,
+          "keywords": [
+            "razão fixa",
+            "quantidade regular"
+          ]
+        },
+        {
+          "text": "Razão variável: quantidade de respostas varia (bônus de motoristas)",
+          "weight": 0.25,
+          "keywords": [
+            "razão variável",
+            "varia"
+          ]
+        },
+        {
+          "text": "Intervalo fixo: tempo fixo desde o último reforço (ligação diária)",
+          "weight": 0.25,
+          "keywords": [
+            "intervalo fixo",
+            "tempo fixo"
+          ]
+        },
+        {
+          "text": "Intervalo variável: tempo imprevisível (mensagens de celular)",
+          "weight": 0.25,
+          "keywords": [
+            "intervalo variável",
+            "imprevisível"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24-25"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-049",
+      "topic": "Punição positiva e negativa",
+      "question": "Diferencie punição positiva de punição negativa, com exemplos, e explique a diferença entre punição negativa e extinção.",
+      "modelAnswer": "A punição positiva é aquela que diminui a frequência de um comportamento pela adição de um estímulo aversivo, como broncas, multas ou notas baixas. A punição negativa é aquela que diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do ambiente — como quando pais retiram o celular e o videogame de um filho para reduzir um comportamento inadequado específico (gritar com a professora). A diferença entre punição negativa e extinção é que, na extinção, retira-se o próprio estímulo reforçador do comportamento que se quer reduzir (por exemplo, tirar um prato específico do cardápio de um restaurante, o que reduz a frequência de ir até lá); já na punição negativa, retira-se um reforçador de outro comportamento importante para o indivíduo, não relacionado diretamente ao comportamento-alvo.",
+      "keyPoints": [
+        {
+          "text": "Punição positiva: adição de estímulo aversivo",
+          "weight": 0.3,
+          "keywords": [
+            "punição positiva",
+            "adição",
+            "aversivo"
+          ]
+        },
+        {
+          "text": "Punição negativa: retirada de reforçador de outros comportamentos",
+          "weight": 0.3,
+          "keywords": [
+            "punição negativa",
+            "retirada",
+            "outros comportamentos"
+          ]
+        },
+        {
+          "text": "Extinção: retirada do próprio reforçador do comportamento-alvo",
+          "weight": 0.4,
+          "keywords": [
+            "extinção",
+            "próprio reforçador",
+            "comportamento-alvo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-050",
+      "topic": "Críticas ao uso da punição",
+      "question": "Explique as críticas ao uso da punição no controle do comportamento, tanto do senso comum quanto da análise do comportamento, e os critérios recomendados para seu uso responsável.",
+      "modelAnswer": "Segundo Mayer e Gongora (2011), há críticas ao uso da punição tanto pelo senso comum, que a associa a sofrimento e a uma prática desumana ou de vingança, quanto por analistas do comportamento, que apontam possíveis efeitos colaterais: retraimento social do punido, aumento de comportamentos violentos (inclusive fora da contingência), contra-ataque à fonte punidora e respostas emocionais de estresse, raiva e ansiedade. Apesar dessas críticas, alguns analistas não condenam totalmente seu uso, desde que sejam observados três critérios: pensar sempre na segurança do indivíduo envolvido, compreender que o alvo da punição é o comportamento e não o indivíduo, e reservar medidas punitivas apenas para comportamentos que estejam efetivamente prejudicando a vida do indivíduo, quando outras estratégias não foram eficazes.",
+      "keyPoints": [
+        {
+          "text": "Crítica do senso comum: sofrimento, vingança, prática desumana",
+          "weight": 0.25,
+          "keywords": [
+            "senso comum",
+            "vingança",
+            "sofrimento"
+          ]
+        },
+        {
+          "text": "Efeitos colaterais: retraimento, comportamentos violentos, contra-ataque, respostas emocionais",
+          "weight": 0.35,
+          "keywords": [
+            "retraimento",
+            "violentos",
+            "contra-ataque"
+          ]
+        },
+        {
+          "text": "Três critérios: segurança, alvo é o comportamento, uso apenas para casos graves",
+          "weight": 0.4,
+          "keywords": [
+            "segurança",
+            "alvo comportamento",
+            "casos graves"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26-27"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-051",
+      "topic": "O Projeto Pombo de Skinner",
+      "question": "Descreva o experimento de Skinner com pombos durante a Segunda Guerra Mundial, explicando como o processo de modelagem foi aplicado nesse contexto.",
+      "modelAnswer": "Durante a Segunda Guerra Mundial, Skinner foi convidado pelo exército norte-americano a resolver um problema: não havia tecnologia para direcionar mísseis diretamente a seus alvos. A partir da modelagem, Skinner treinou pombos, colocando o animal dentro de uma câmara e ensinando-o a dar bicadas em uma janela que apresentava a imagem de um cenário, entre outras três janelas; sempre que o pombo bicasse a janela correta, recebia comida como reforço. Depois de treinado, o pombo era colocado dentro de uma câmara no interior de um míssil; quando disparado, o pombo bicava a imagem do alvo que aparecia na janela, e essas bicadas eram responsáveis por direcionar corretamente o míssil. Esse experimento demonstrou que a modelagem poderia explicar e produzir a aprendizagem de comportamentos complexos até mesmo em contextos aplicados não convencionais.",
+      "keyPoints": [
+        {
+          "text": "Contexto: exército pede solução para direcionamento de mísseis na 2ª Guerra",
+          "weight": 0.25,
+          "keywords": [
+            "exército",
+            "mísseis",
+            "Segunda Guerra"
+          ]
+        },
+        {
+          "text": "Treinamento por modelagem: bicar a janela correta, reforçado com comida",
+          "weight": 0.4,
+          "keywords": [
+            "bicar",
+            "janela",
+            "comida",
+            "reforço"
+          ]
+        },
+        {
+          "text": "Aplicação: pombo dentro do míssil controlando a direção via bicadas",
+          "weight": 0.35,
+          "keywords": [
+            "míssil",
+            "direção",
+            "bicadas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "21"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-052",
+      "topic": "Extinção operante e o comportamento superticioso",
+      "question": "Explique o fenômeno da extinção operante utilizando o exemplo do controle remoto que para de funcionar, e descreva o comportamento observado imediatamente antes da extinção completa.",
+      "modelAnswer": "A extinção operante é o processo pelo qual a retirada do estímulo reforçador resulta na redução ou eliminação gradual da frequência da resposta reforçada. No exemplo do controle remoto que para de funcionar, o comportamento de apertar botões é normalmente reforçado pela consequência esperada (mudança de canal, aumento de volume). Quando o reforço é retirado (o controle para de funcionar), a pessoa tende a intensificar temporariamente as tentativas — mudando a posição das mãos, batendo no controle, tentando com diferentes ângulos — antes de reduzir e finalmente parar de apertar os botões. Esse aumento momentâneo na frequência ou intensidade da resposta, imediatamente antes de ela diminuir de fato, é um fenômeno característico do início do processo de extinção operante.",
+      "keyPoints": [
+        {
+          "text": "Extinção operante: retirada do reforço reduz gradualmente a frequência da resposta",
+          "weight": 0.4,
+          "keywords": [
+            "extinção operante",
+            "retirada do reforço",
+            "redução gradual"
+          ]
+        },
+        {
+          "text": "Exemplo do controle remoto: tentativas variadas antes de desistir",
+          "weight": 0.3,
+          "keywords": [
+            "controle remoto",
+            "tentativas"
+          ]
+        },
+        {
+          "text": "Aumento momentâneo da resposta imediatamente antes da extinção completa",
+          "weight": 0.3,
+          "keywords": [
+            "aumento momentâneo",
+            "antes da extinção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22-25"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -4659,6 +6911,658 @@
       "subject": "Processos cognitivos: memória",
       "difficulty": "baixo",
       "miniLesson": "Quais são as três fases do processamento da memória? Codificação (entrada dos conteúdos), armazenamento (conservação) e evocação (recuperação dos conteúdos)."
+    },
+    {
+      "id": "tcc-oral-033",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a Lei do efeito de Thorndike?",
+      "modelAnswer": "A Lei do efeito, elaborada por Thorndike a partir de experimentos com gatos em caixas-problema, diz que se um comportamento for seguido de satisfação, ele será fortalecido, mas se for seguido de castigo, será enfraquecido. Foi um marco inicial para a teoria da aprendizagem.",
+      "keyPoints": [
+        {
+          "text": "Comportamento seguido de satisfação é fortalecido",
+          "weight": 0.5,
+          "keywords": [
+            "satisfação",
+            "fortalecido"
+          ]
+        },
+        {
+          "text": "Comportamento seguido de castigo é enfraquecido",
+          "weight": 0.5,
+          "keywords": [
+            "castigo",
+            "enfraquecido"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4-5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a Lei do efeito de Thorndike? A Lei do efeito, elaborada por Thorndike a partir de experimentos com gatos em caixas-problema, diz que se um comportamento for seguido de satisfação, ele será fortalecido, mas se for seguido de castigo, será enfraquecido. Foi um marco inicial para a teoria da aprendizagem."
+    },
+    {
+      "id": "tcc-oral-034",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique a diferença entre estímulo neutro e estímulo incondicionado no condicionamento clássico.",
+      "modelAnswer": "O estímulo neutro é aquele que não possui relação com as respostas esperadas do organismo — não elicia a resposta em questão. O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo, sem necessidade de aprendizagem prévia. No experimento de Pavlov, o sino era o estímulo neutro, e a comida, o estímulo incondicionado.",
+      "keyPoints": [
+        {
+          "text": "Estímulo neutro: não elicia a resposta esperada",
+          "weight": 0.5,
+          "keywords": [
+            "neutro",
+            "não elicia"
+          ]
+        },
+        {
+          "text": "Estímulo incondicionado: elicia resposta automática, sem aprendizagem",
+          "weight": 0.5,
+          "keywords": [
+            "incondicionado",
+            "resposta automática"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Explique a diferença entre estímulo neutro e estímulo incondicionado no condicionamento clássico. O estímulo neutro é aquele que não possui relação com as respostas esperadas do organismo — não elicia a resposta em questão. O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo, sem necessidade de aprendizagem prévia. No experimento de Pavlov, o sino era o estímulo neutro, e a comida, o estímulo incondicionado."
+    },
+    {
+      "id": "tcc-oral-035",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a lei do limiar dos reflexos?",
+      "modelAnswer": "A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo necessária para que a resposta seja eliciada pelo organismo. Por exemplo, um determinado barulho só eliciará a resposta de fechar as pálpebras a partir de uma certa intensidade mínima.",
+      "keyPoints": [
+        {
+          "text": "Intensidade mínima necessária para eliciar a resposta",
+          "weight": 0.7,
+          "keywords": [
+            "intensidade mínima",
+            "eliciar"
+          ]
+        },
+        {
+          "text": "Exemplo: barulho e fechamento das pálpebras",
+          "weight": 0.3,
+          "keywords": [
+            "exemplo",
+            "pálpebras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a lei do limiar dos reflexos? A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo necessária para que a resposta seja eliciada pelo organismo. Por exemplo, um determinado barulho só eliciará a resposta de fechar as pálpebras a partir de uma certa intensidade mínima."
+    },
+    {
+      "id": "tcc-oral-036",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Diferencie habituação e sensibilização.",
+      "modelAnswer": "A habituação ocorre quando um estímulo é apresentado repetidamente a ponto de reduzir a intensidade da resposta, como deixar de perceber um cheiro após certo tempo em um ambiente. A sensibilização é o oposto: um estímulo apresentado repetidamente aumenta a intensidade da resposta, como um barulho incômodo se tornando insuportável com o tempo.",
+      "keyPoints": [
+        {
+          "text": "Habituação: reduz a intensidade da resposta com a repetição",
+          "weight": 0.5,
+          "keywords": [
+            "habituação",
+            "reduz"
+          ]
+        },
+        {
+          "text": "Sensibilização: aumenta a intensidade da resposta com a repetição",
+          "weight": 0.5,
+          "keywords": [
+            "sensibilização",
+            "aumenta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Diferencie habituação e sensibilização. A habituação ocorre quando um estímulo é apresentado repetidamente a ponto de reduzir a intensidade da resposta, como deixar de perceber um cheiro após certo tempo em um ambiente. A sensibilização é o oposto: um estímulo apresentado repetidamente aumenta a intensidade da resposta, como um barulho incômodo se tornando insuportável com o tempo."
+    },
+    {
+      "id": "tcc-oral-037",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que caracteriza o behaviorismo metodológico de Watson em relação aos eventos internos?",
+      "modelAnswer": "O behaviorismo metodológico não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica. Por isso, Watson descartava eventos internos, como pensamentos e emoções, de suas análises, pautando seus estudos exclusivamente em observações e experimentações do comportamento externo.",
+      "keyPoints": [
+        {
+          "text": "Não nega a mente, mas afirma que não pode ser estudada objetivamente",
+          "weight": 0.5,
+          "keywords": [
+            "não pode ser estudada objetivamente"
+          ]
+        },
+        {
+          "text": "Descarta eventos internos das análises",
+          "weight": 0.5,
+          "keywords": [
+            "descarta",
+            "eventos internos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza o behaviorismo metodológico de Watson em relação aos eventos internos? O behaviorismo metodológico não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica. Por isso, Watson descartava eventos internos, como pensamentos e emoções, de suas análises, pautando seus estudos exclusivamente em observações e experimentações do comportamento externo."
+    },
+    {
+      "id": "tcc-oral-038",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a generalização respondente, demonstrada no experimento do pequeno Albert?",
+      "modelAnswer": "A generalização respondente é o fenômeno pelo qual, após um processo de condicionamento, o organismo passa a eliciar uma resposta de intensidade variável diante de estímulos semelhantes ao estímulo condicionado. No caso de Albert, após ser condicionado a temer o rato branco, ele também passou a temer objetos com textura similar, como um coelho ou um ursinho de pelúcia.",
+      "keyPoints": [
+        {
+          "text": "Resposta condicionada se estende a estímulos semelhantes",
+          "weight": 0.6,
+          "keywords": [
+            "estímulos semelhantes",
+            "se estende"
+          ]
+        },
+        {
+          "text": "Exemplo: Albert temendo objetos felpudos após condicionamento ao rato",
+          "weight": 0.4,
+          "keywords": [
+            "Albert",
+            "objetos felpudos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a generalização respondente, demonstrada no experimento do pequeno Albert? A generalização respondente é o fenômeno pelo qual, após um processo de condicionamento, o organismo passa a eliciar uma resposta de intensidade variável diante de estímulos semelhantes ao estímulo condicionado. No caso de Albert, após ser condicionado a temer o rato branco, ele também passou a temer objetos com textura similar, como um coelho ou um ursinho de pelúcia."
+    },
+    {
+      "id": "tcc-oral-039",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a extinção respondente?",
+      "modelAnswer": "A extinção respondente é o processo pelo qual, para eliminar ou reduzir uma resposta condicionada, o estímulo condicionado é apresentado sucessivamente sem a presença do estímulo incondicionado, fazendo com que a intensidade da resposta condicionada reduza gradualmente até desaparecer.",
+      "keyPoints": [
+        {
+          "text": "Apresentar o estímulo condicionado sem o incondicionado",
+          "weight": 0.5,
+          "keywords": [
+            "sem o incondicionado",
+            "apresentar"
+          ]
+        },
+        {
+          "text": "Redução gradual da intensidade da resposta condicionada",
+          "weight": 0.5,
+          "keywords": [
+            "redução gradual",
+            "resposta condicionada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a extinção respondente? A extinção respondente é o processo pelo qual, para eliminar ou reduzir uma resposta condicionada, o estímulo condicionado é apresentado sucessivamente sem a presença do estímulo incondicionado, fazendo com que a intensidade da resposta condicionada reduza gradualmente até desaparecer."
+    },
+    {
+      "id": "tcc-oral-040",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Por que Wundt e a escola estruturalista receberam críticas quanto ao estatuto científico de seus estudos?",
+      "modelAnswer": "Os estruturalistas elegiam como objeto de estudo as experiências conscientes e como método a introspecção, ambos vulneráveis à experiência subjetiva do pesquisador. Isso dificultava a obtenção de generalizações seguras e replicáveis, exigência fundamental do método científico, o que motivou críticas e, posteriormente, o surgimento do behaviorismo como alternativa mais objetiva.",
+      "keyPoints": [
+        {
+          "text": "Objeto de estudo (experiências conscientes) e método (introspecção) subjetivos",
+          "weight": 0.5,
+          "keywords": [
+            "experiências conscientes",
+            "introspecção",
+            "subjetivos"
+          ]
+        },
+        {
+          "text": "Dificuldade de replicabilidade científica",
+          "weight": 0.5,
+          "keywords": [
+            "replicabilidade",
+            "generalizações seguras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3-4"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Por que Wundt e a escola estruturalista receberam críticas quanto ao estatuto científico de seus estudos? Os estruturalistas elegiam como objeto de estudo as experiências conscientes e como método a introspecção, ambos vulneráveis à experiência subjetiva do pesquisador. Isso dificultava a obtenção de generalizações seguras e replicáveis, exigência fundamental do método científico, o que motivou críticas e, posteriormente, o surgimento do behaviorismo como alternativa mais objetiva."
+    },
+    {
+      "id": "tcc-oral-041",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Qual foi a contribuição de Pavlov para o entendimento do aprendizado de novos comportamentos?",
+      "modelAnswer": "Pavlov, ao observar que cães salivavam antes mesmo da apresentação do alimento, descobriu que comportamentos reflexos poderiam ser produzidos a partir da associação de um estímulo neutro com uma resposta reflexa previamente existente. Essa descoberta deu origem ao conceito de condicionamento clássico, base para entender como novos comportamentos e respostas emocionais podem ser aprendidos.",
+      "keyPoints": [
+        {
+          "text": "Descobriu que reflexos podem ser produzidos por associação de estímulos",
+          "weight": 0.5,
+          "keywords": [
+            "associação de estímulos",
+            "reflexos produzidos"
+          ]
+        },
+        {
+          "text": "Deu origem ao condicionamento clássico",
+          "weight": 0.5,
+          "keywords": [
+            "condicionamento clássico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Qual foi a contribuição de Pavlov para o entendimento do aprendizado de novos comportamentos? Pavlov, ao observar que cães salivavam antes mesmo da apresentação do alimento, descobriu que comportamentos reflexos poderiam ser produzidos a partir da associação de um estímulo neutro com uma resposta reflexa previamente existente. Essa descoberta deu origem ao conceito de condicionamento clássico, base para entender como novos comportamentos e respostas emocionais podem ser aprendidos."
+    },
+    {
+      "id": "tcc-oral-042",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique a equação S→R postulada por Watson.",
+      "modelAnswer": "A equação S→R representa a relação postulada por Watson entre estímulo e resposta: uma alteração no ambiente (estímulo) gera uma alteração no organismo (resposta). Essa relação é a base do paradigma respondente do behaviorismo metodológico, na qual o estímulo sempre precede e causa a resposta.",
+      "keyPoints": [
+        {
+          "text": "Estímulo (mudança do ambiente) gera resposta (mudança no organismo)",
+          "weight": 0.6,
+          "keywords": [
+            "estímulo",
+            "resposta",
+            "ambiente"
+          ]
+        },
+        {
+          "text": "Base do paradigma respondente do behaviorismo metodológico",
+          "weight": 0.4,
+          "keywords": [
+            "paradigma respondente",
+            "behaviorismo metodológico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "5"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Explique a equação S→R postulada por Watson. A equação S→R representa a relação postulada por Watson entre estímulo e resposta: uma alteração no ambiente (estímulo) gera uma alteração no organismo (resposta). Essa relação é a base do paradigma respondente do behaviorismo metodológico, na qual o estímulo sempre precede e causa a resposta."
+    },
+    {
+      "id": "tcc-oral-043",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Por que o behaviorismo de Skinner é chamado de 'radical'?",
+      "modelAnswer": "É chamado de radical porque Skinner nega em absoluto a existência de algo que não faz parte do mundo físico, como a mente, a alma ou a consciência. Além disso, ele considera qualquer manifestação do organismo, seja expressada (como correr ou comer) ou encoberta (como pensamentos), como comportamento, ampliando radicalmente o escopo de análise em relação ao behaviorismo metodológico de Watson.",
+      "keyPoints": [
+        {
+          "text": "Nega em absoluto a existência de mente, alma, consciência",
+          "weight": 0.5,
+          "keywords": [
+            "nega",
+            "mente",
+            "alma"
+          ]
+        },
+        {
+          "text": "Considera pensamentos (comportamento encoberto) também como comportamento",
+          "weight": 0.5,
+          "keywords": [
+            "comportamento encoberto",
+            "pensamentos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Por que o behaviorismo de Skinner é chamado de 'radical'? É chamado de radical porque Skinner nega em absoluto a existência de algo que não faz parte do mundo físico, como a mente, a alma ou a consciência. Além disso, ele considera qualquer manifestação do organismo, seja expressada (como correr ou comer) ou encoberta (como pensamentos), como comportamento, ampliando radicalmente o escopo de análise em relação ao behaviorismo metodológico de Watson."
+    },
+    {
+      "id": "tcc-oral-044",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O que é a Caixa de Skinner?",
+      "modelAnswer": "A Caixa de Skinner foi o principal instrumento de pesquisa desenvolvido por Skinner durante seu trabalho na Universidade de Harvard, utilizado para investigar experimentalmente as relações entre o comportamento de um organismo e as consequências geradas no ambiente, permitindo o estudo do condicionamento operante.",
+      "keyPoints": [
+        {
+          "text": "Instrumento de pesquisa desenvolvido por Skinner em Harvard",
+          "weight": 0.5,
+          "keywords": [
+            "instrumento",
+            "Harvard"
+          ]
+        },
+        {
+          "text": "Investiga relações entre comportamento e consequências ambientais",
+          "weight": 0.5,
+          "keywords": [
+            "comportamento",
+            "consequências"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "15"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a Caixa de Skinner? A Caixa de Skinner foi o principal instrumento de pesquisa desenvolvido por Skinner durante seu trabalho na Universidade de Harvard, utilizado para investigar experimentalmente as relações entre o comportamento de um organismo e as consequências geradas no ambiente, permitindo o estudo do condicionamento operante."
+    },
+    {
+      "id": "tcc-oral-045",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Qual é a diferença entre punição positiva e reforço positivo?",
+      "modelAnswer": "O reforço positivo aumenta a frequência de um comportamento pela adição de um estímulo agradável ou desejado. Já a punição positiva diminui a frequência de um comportamento pela adição de um estímulo aversivo. Ambos envolvem a adição de um estímulo, mas com efeitos opostos sobre a frequência do comportamento — um aumenta, o outro diminui.",
+      "keyPoints": [
+        {
+          "text": "Reforço positivo: adição de estímulo, aumenta a frequência",
+          "weight": 0.5,
+          "keywords": [
+            "reforço positivo",
+            "aumenta"
+          ]
+        },
+        {
+          "text": "Punição positiva: adição de estímulo aversivo, diminui a frequência",
+          "weight": 0.5,
+          "keywords": [
+            "punição positiva",
+            "diminui"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18-26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a diferença entre punição positiva e reforço positivo? O reforço positivo aumenta a frequência de um comportamento pela adição de um estímulo agradável ou desejado. Já a punição positiva diminui a frequência de um comportamento pela adição de um estímulo aversivo. Ambos envolvem a adição de um estímulo, mas com efeitos opostos sobre a frequência do comportamento — um aumenta, o outro diminui."
+    },
+    {
+      "id": "tcc-oral-046",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Explique o esquema de reforçamento contínuo e por que ele é vulnerável à extinção.",
+      "modelAnswer": "No esquema de reforçamento contínuo, toda vez que a resposta é emitida, ela é reforçada — sendo muito eficaz para o desenvolvimento de novos comportamentos, no processo de modelagem. Porém, esse esquema é mais vulnerável à extinção, pois basta que o reforço seja retirado uma única vez de forma consistente para que a frequência do comportamento comece a diminuir rapidamente, já que o organismo está acostumado a ser sempre reforçado.",
+      "keyPoints": [
+        {
+          "text": "Toda resposta é reforçada, eficaz para novos comportamentos",
+          "weight": 0.5,
+          "keywords": [
+            "toda resposta reforçada",
+            "novos comportamentos"
+          ]
+        },
+        {
+          "text": "Mais vulnerável à extinção, pois basta retirar o reforço",
+          "weight": 0.5,
+          "keywords": [
+            "vulnerável",
+            "retirar o reforço"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Explique o esquema de reforçamento contínuo e por que ele é vulnerável à extinção. No esquema de reforçamento contínuo, toda vez que a resposta é emitida, ela é reforçada — sendo muito eficaz para o desenvolvimento de novos comportamentos, no processo de modelagem. Porém, esse esquema é mais vulnerável à extinção, pois basta que o reforço seja retirado uma única vez de forma consistente para que a frequência do comportamento comece a diminuir rapidamente, já que o organismo está acostumado a ser sempre reforçado."
+    },
+    {
+      "id": "tcc-oral-047",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O que é modelagem, segundo Skinner?",
+      "modelAnswer": "Modelagem é um método de reforçamento de aproximações sucessivas do comportamento alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento terminal desejado deve ser reforçado positivamente em curto espaço de tempo, permitindo a aprendizagem gradual de comportamentos complexos.",
+      "keyPoints": [
+        {
+          "text": "Reforçamento de aproximações sucessivas do comportamento alvo",
+          "weight": 0.6,
+          "keywords": [
+            "aproximações sucessivas",
+            "comportamento alvo"
+          ]
+        },
+        {
+          "text": "Reforço imediato de cada aproximação, aprendizagem gradual",
+          "weight": 0.4,
+          "keywords": [
+            "reforço imediato",
+            "gradual"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "20"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "O que é modelagem, segundo Skinner? Modelagem é um método de reforçamento de aproximações sucessivas do comportamento alvo: todo novo comportamento emitido pelo organismo que se aproxime do comportamento terminal desejado deve ser reforçado positivamente em curto espaço de tempo, permitindo a aprendizagem gradual de comportamentos complexos."
+    },
+    {
+      "id": "tcc-oral-048",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Qual a diferença entre modelagem e modelação?",
+      "modelAnswer": "Modelagem é o processo de aprendizagem por aproximações sucessivas proposto por Skinner, no qual comportamentos que se aproximam do alvo desejado são reforçados. Modelação, por outro lado, é um processo de aprendizagem proposto por Albert Bandura, que ocorre por observação e comparação com modelos, sem necessidade de reforço direto do comportamento observador.",
+      "keyPoints": [
+        {
+          "text": "Modelagem: aproximações sucessivas, proposta por Skinner",
+          "weight": 0.5,
+          "keywords": [
+            "modelagem",
+            "Skinner",
+            "aproximações sucessivas"
+          ]
+        },
+        {
+          "text": "Modelação: aprendizagem por observação, proposta por Bandura",
+          "weight": 0.5,
+          "keywords": [
+            "modelação",
+            "Bandura",
+            "observação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "22"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Qual a diferença entre modelagem e modelação? Modelagem é o processo de aprendizagem por aproximações sucessivas proposto por Skinner, no qual comportamentos que se aproximam do alvo desejado são reforçados. Modelação, por outro lado, é um processo de aprendizagem proposto por Albert Bandura, que ocorre por observação e comparação com modelos, sem necessidade de reforço direto do comportamento observador."
+    },
+    {
+      "id": "tcc-oral-049",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Explique a diferença entre razão fixa e razão variável nos esquemas de reforçamento.",
+      "modelAnswer": "Na razão fixa, é necessária uma quantidade regular (constante) de respostas antes da apresentação de cada reforço, como uma estrela a cada certo número de bons comportamentos. Na razão variável, a quantidade de respostas necessárias para cada aplicação do reforço varia de forma imprevisível, como no exemplo dos motoristas de aplicativo que precisam de números diferentes de viagens a cada dia para receber o bônus.",
+      "keyPoints": [
+        {
+          "text": "Razão fixa: quantidade regular e constante de respostas",
+          "weight": 0.5,
+          "keywords": [
+            "razão fixa",
+            "constante"
+          ]
+        },
+        {
+          "text": "Razão variável: quantidade de respostas varia de forma imprevisível",
+          "weight": 0.5,
+          "keywords": [
+            "razão variável",
+            "varia",
+            "imprevisível"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "24"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Explique a diferença entre razão fixa e razão variável nos esquemas de reforçamento. Na razão fixa, é necessária uma quantidade regular (constante) de respostas antes da apresentação de cada reforço, como uma estrela a cada certo número de bons comportamentos. Na razão variável, a quantidade de respostas necessárias para cada aplicação do reforço varia de forma imprevisível, como no exemplo dos motoristas de aplicativo que precisam de números diferentes de viagens a cada dia para receber o bônus."
+    },
+    {
+      "id": "tcc-oral-050",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Quais são os três critérios recomendados por Mayer e Gongora (2011) para o uso responsável da punição?",
+      "modelAnswer": "Segundo Mayer e Gongora (2011), a eficácia e segurança do emprego de estímulos punitivos devem considerar três pontos: sempre pensar na segurança do indivíduo envolvido na prática; compreender que o alvo da punição é apenas o comportamento, não o indivíduo; e reservar medidas punitivas apenas para quando os comportamentos estiverem prejudicando a vida do indivíduo, geralmente após outras estratégias terem se mostrado ineficazes.",
+      "keyPoints": [
+        {
+          "text": "Segurança do indivíduo envolvido",
+          "weight": 0.33,
+          "keywords": [
+            "segurança"
+          ]
+        },
+        {
+          "text": "Alvo é o comportamento, não o indivíduo",
+          "weight": 0.34,
+          "keywords": [
+            "comportamento",
+            "não o indivíduo"
+          ]
+        },
+        {
+          "text": "Usar apenas para comportamentos que prejudicam a vida do indivíduo",
+          "weight": 0.33,
+          "keywords": [
+            "prejudicando a vida"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "26-27"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os três critérios recomendados por Mayer e Gongora (2011) para o uso responsável da punição? Segundo Mayer e Gongora (2011), a eficácia e segurança do emprego de estímulos punitivos devem considerar três pontos: sempre pensar na segurança do indivíduo envolvido na prática; compreender que o alvo da punição é apenas o comportamento, não o indivíduo; e reservar medidas punitivas apenas para quando os comportamentos estiverem prejudicando a vida do indivíduo, geralmente após outras estratégias terem se mostrado ineficazes."
+    },
+    {
+      "id": "tcc-oral-051",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "O que caracteriza a punição negativa, e como ela difere da retirada de um estímulo aversivo (reforço negativo)?",
+      "modelAnswer": "A punição negativa diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do ambiente — por exemplo, retirar o celular de uma criança para reduzir um comportamento inadequado. Isso é diferente do reforço negativo, que aumenta a frequência de um comportamento pela retirada de um estímulo aversivo; embora ambos envolvam 'retirada', o reforço negativo aumenta a frequência do comportamento, enquanto a punição negativa a diminui.",
+      "keyPoints": [
+        {
+          "text": "Punição negativa: retirada de reforçador, diminui a frequência",
+          "weight": 0.5,
+          "keywords": [
+            "punição negativa",
+            "diminui"
+          ]
+        },
+        {
+          "text": "Diferença do reforço negativo: retirada de aversivo, aumenta a frequência",
+          "weight": 0.5,
+          "keywords": [
+            "reforço negativo",
+            "aumenta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "18-26"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "dificil",
+      "miniLesson": "O que caracteriza a punição negativa, e como ela difere da retirada de um estímulo aversivo (reforço negativo)? A punição negativa diminui a frequência de um comportamento pela retirada de um reforçador de outros comportamentos do ambiente — por exemplo, retirar o celular de uma criança para reduzir um comportamento inadequado. Isso é diferente do reforço negativo, que aumenta a frequência de um comportamento pela retirada de um estímulo aversivo; embora ambos envolvam 'retirada', o reforço negativo aumenta a frequência do comportamento, enquanto a punição negativa a diminui."
+    },
+    {
+      "id": "tcc-oral-052",
+      "topic": "Behaviorismo radical e comportamento operante (Skinner)",
+      "question": "Como o Projeto Pombo de Skinner, desenvolvido durante a Segunda Guerra Mundial, exemplifica a aplicação prática da modelagem?",
+      "modelAnswer": "No Projeto Pombo, Skinner treinou pombos por modelagem, reforçando com comida cada bicada correta em uma janela que exibia a imagem de um alvo. Após o treinamento, o pombo era colocado dentro de um míssil e, ao reconhecer o alvo na janela, bicava-o, controlando a direção do projétil. Esse experimento demonstrou que o processo de modelagem podia ser aplicado com sucesso para ensinar comportamentos complexos e direcionados até mesmo em contextos práticos extremos, como o direcionamento de armamentos militares.",
+      "keyPoints": [
+        {
+          "text": "Treinamento por modelagem: bicadas reforçadas com comida",
+          "weight": 0.5,
+          "keywords": [
+            "bicadas",
+            "comida",
+            "treinamento"
+          ]
+        },
+        {
+          "text": "Aplicação prática: controle da direção do míssil pelo pombo",
+          "weight": 0.5,
+          "keywords": [
+            "míssil",
+            "direção",
+            "controle"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "21"
+      },
+      "subject": "Behaviorismo radical e comportamento operante (Skinner)",
+      "difficulty": "medio",
+      "miniLesson": "Como o Projeto Pombo de Skinner, desenvolvido durante a Segunda Guerra Mundial, exemplifica a aplicação prática da modelagem? No Projeto Pombo, Skinner treinou pombos por modelagem, reforçando com comida cada bicada correta em uma janela que exibia a imagem de um alvo. Após o treinamento, o pombo era colocado dentro de um míssil e, ao reconhecer o alvo na janela, bicava-o, controlando a direção do projétil. Esse experimento demonstrou que o processo de modelagem podia ser aplicado com sucesso para ensinar comportamentos complexos e direcionados até mesmo em contextos práticos extremos, como o direcionamento de armamentos militares."
     }
   ]
 }
