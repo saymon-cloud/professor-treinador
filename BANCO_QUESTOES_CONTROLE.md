@@ -48,3 +48,5 @@ usado pelo app.
 | 40 | Fundamentos Históricos e Epistemológicos da Psicologia | Positivismo e psicofísica | 2026-09-05 | `0c4efbe` |
 | 41 | Fundamentos Históricos e Epistemológicos da Psicologia | Revolução cognitiva | 2026-09-05 | `72048b1` |
 | 42 | Fundamentos Históricos e Epistemológicos da Psicologia | TCC e terceira onda | 2026-09-05 | `72048b1` |
+| 43 | Fundamentos Históricos e Epistemológicos da Psicologia | Behaviorismo metodológico (Watson) | 2026-09-05 | `533d757` |
+| 44 | Fundamentos Históricos e Epistemológicos da Psicologia | Condicionamento clássico (Pavlov) | 2026-09-05 | `533d757` |
