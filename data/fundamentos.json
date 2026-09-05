@@ -3695,6 +3695,1414 @@
       "subject": "Funcionalismo e pragmatismo",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o funcionalismo investigava como a mente e o comportamento auxiliam o organismo a se adaptar às demandas do meio. Esse pressuposto está diretamente relacionado a qual teoria biológica que influenciou a psicologia americana no final do século XIX? O funcionalismo foi diretamente influenciado pela teoria da evolução por seleção natural de Charles Darwin, publicada em 'A Origem das Espécies' (1859), que sugeriu que a consciência e os processos mentais teriam utilidade adaptativa, assim como as características físicas."
+    },
+    {
+      "id": "fund-obj-169",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o termo 'psique', que originalmente designava o sopro vital, passou com o tempo a representar:",
+      "options": {
+        "a": "A alma ou a mente",
+        "b": "Exclusivamente o corpo físico",
+        "c": "Exclusivamente a respiração",
+        "d": "Exclusivamente o sistema nervoso",
+        "e": "Exclusivamente o comportamento observável"
+      },
+      "correct": "a",
+      "explanation": "O termo psique originalmente designava o sopro vital e, com o tempo, passou a representar a alma ou a mente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o termo 'psique', que originalmente designava o sopro vital, passou com o tempo a representar: O termo psique originalmente designava o sopro vital e, com o tempo, passou a representar a alma ou a mente."
+    },
+    {
+      "id": "fund-obj-170",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, Platão defendia uma separação estrita entre o mundo inteligível das ideias e o mundo sensível da matéria, sugerindo que o conhecimento verdadeiro provinha:",
+      "options": {
+        "a": "Da razão, e não dos sentidos",
+        "b": "Exclusivamente dos sentidos, e não da razão",
+        "c": "Exclusivamente da experiência corporal",
+        "d": "Exclusivamente da observação empírica",
+        "e": "Exclusivamente da tradição religiosa"
+      },
+      "correct": "a",
+      "explanation": "Platão defendia que o conhecimento verdadeiro provinha da razão, e não dos sentidos, em uma separação estrita entre o mundo inteligível das ideias e o mundo sensível da matéria.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Platão defendia uma separação estrita entre o mundo inteligível das ideias e o mundo sensível da matéria, sugerindo que o conhecimento verdadeiro provinha: Platão defendia que o conhecimento verdadeiro provinha da razão, e não dos sentidos, em uma separação estrita entre o mundo inteligível das ideias e o mundo sensível da matéria."
+    },
+    {
+      "id": "fund-obj-171",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, Aristóteles, em sua obra 'De Anima', adotou uma postura mais empírica que Platão, argumentando que:",
+      "options": {
+        "a": "A alma e o corpo eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo",
+        "b": "A alma existia independentemente do corpo, em um mundo separado",
+        "c": "Apenas a razão pura, sem qualquer relação com o corpo, poderia gerar conhecimento",
+        "d": "O corpo era irrelevante para a compreensão da percepção e da memória",
+        "e": "A matéria e a forma eram substâncias totalmente incompatíveis entre si"
+      },
+      "correct": "a",
+      "explanation": "Aristóteles argumentava, em 'De Anima', que a alma e o corpo eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Aristóteles, em sua obra 'De Anima', adotou uma postura mais empírica que Platão, argumentando que: Aristóteles argumentava, em 'De Anima', que a alma e o corpo eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo."
+    },
+    {
+      "id": "fund-obj-172",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o cenário que preparou o terreno direto para a psicologia científica formou-se na Modernidade, a partir do século XVII, com o advento:",
+      "options": {
+        "a": "Da Revolução Científica",
+        "b": "Da Revolução Industrial exclusivamente",
+        "c": "Do Renascimento artístico exclusivamente",
+        "d": "Da Reforma Protestante exclusivamente",
+        "e": "Da Revolução Francesa exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O cenário que preparou o terreno direto para a psicologia científica formou-se a partir do século XVII, com o advento da Revolução Científica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cenário que preparou o terreno direto para a psicologia científica formou-se na Modernidade, a partir do século XVII, com o advento: O cenário que preparou o terreno direto para a psicologia científica formou-se a partir do século XVII, com o advento da Revolução Científica."
+    },
+    {
+      "id": "fund-obj-173",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, com a Revolução Científica, o universo passou a ser concebido como uma grande máquina, regida por:",
+      "options": {
+        "a": "Leis matemáticas e mecânicas que poderiam ser descobertas por meio da observação rigorosa e da dedução lógica",
+        "b": "Forças exclusivamente espirituais e inexplicáveis",
+        "c": "Princípios exclusivamente teológicos, sem qualquer base racional",
+        "d": "Regras arbitrárias sem qualquer possibilidade de investigação",
+        "e": "Fenômenos exclusivamente aleatórios e imprevisíveis"
+      },
+      "correct": "a",
+      "explanation": "Com a Revolução Científica, o universo passou a ser concebido como uma grande máquina, regida por leis matemáticas e mecânicas que poderiam ser descobertas por meio da observação rigorosa e da dedução lógica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, com a Revolução Científica, o universo passou a ser concebido como uma grande máquina, regida por: Com a Revolução Científica, o universo passou a ser concebido como uma grande máquina, regida por leis matemáticas e mecânicas que poderiam ser descobertas por meio da observação rigorosa e da dedução lógica."
+    },
+    {
+      "id": "fund-obj-174",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o filósofo John Locke, representante do empirismo britânico, rejeitou a ideia de ideias inatas, propondo que a mente humana, ao nascer, assemelhava-se a uma:",
+      "options": {
+        "a": "Folha em branco (tábula rasa)",
+        "b": "Estrutura já plenamente desenvolvida",
+        "c": "Máquina mecânica autônoma",
+        "d": "Fonte exclusiva de conhecimento racional inato",
+        "e": "Cópia perfeita da mente dos pais"
+      },
+      "correct": "a",
+      "explanation": "Locke rejeitou a ideia de ideias inatas, propondo que a mente humana, ao nascer, assemelhava-se a uma folha em branco (tábula rasa), e que todo o conhecimento derivaria da experiência sensorial.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o filósofo John Locke, representante do empirismo britânico, rejeitou a ideia de ideias inatas, propondo que a mente humana, ao nascer, assemelhava-se a uma: Locke rejeitou a ideia de ideias inatas, propondo que a mente humana, ao nascer, assemelhava-se a uma folha em branco (tábula rasa), e que todo o conhecimento derivaria da experiência sensorial."
+    },
+    {
+      "id": "fund-obj-175",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o racionalismo, representado por René Descartes, contribuiu de forma decisiva para o desenvolvimento da Psicologia ao propor:",
+      "options": {
+        "a": "A separação entre mente e corpo e a defesa da existência de ideias inatas",
+        "b": "Que todo conhecimento derivava exclusivamente da experiência sensorial",
+        "c": "A rejeição total de qualquer ideia inata",
+        "d": "A inexistência de qualquer distinção entre mente e corpo",
+        "e": "Que a razão era irrelevante para o conhecimento humano"
+      },
+      "correct": "a",
+      "explanation": "O racionalismo de Descartes contribuiu de forma decisiva ao propor a separação entre mente e corpo e ao defender a existência de ideias inatas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o racionalismo, representado por René Descartes, contribuiu de forma decisiva para o desenvolvimento da Psicologia ao propor: O racionalismo de Descartes contribuiu de forma decisiva ao propor a separação entre mente e corpo e ao defender a existência de ideias inatas."
+    },
+    {
+      "id": "fund-obj-176",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o racionalismo enfatiza a razão e a dedução lógica como fontes primárias do conhecimento, enquanto o empirismo sustenta que:",
+      "options": {
+        "a": "Todo conhecimento deriva da experiência sensorial e da observação empírica, rejeitando conceitos inatos",
+        "b": "Todo conhecimento deriva exclusivamente de ideias inatas, sem qualquer papel da experiência",
+        "c": "Razão e experiência são sempre idênticas e indistinguíveis",
+        "d": "O conhecimento nunca pode ser alcançado por nenhum dos dois métodos",
+        "e": "Apenas a intuição mística é fonte válida de conhecimento"
+      },
+      "correct": "a",
+      "explanation": "O empirismo sustenta que todo conhecimento deriva da experiência sensorial e da observação empírica, rejeitando conceitos inatos — em contraste com o racionalismo, que enfatiza a razão e a dedução lógica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o racionalismo enfatiza a razão e a dedução lógica como fontes primárias do conhecimento, enquanto o empirismo sustenta que: O empirismo sustenta que todo conhecimento deriva da experiência sensorial e da observação empírica, rejeitando conceitos inatos — em contraste com o racionalismo, que enfatiza a razão e a dedução lógica."
+    },
+    {
+      "id": "fund-obj-177",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, René Descartes propôs um sistema filosófico conhecido como dualismo interacionista, segundo o qual o ser humano é composto por duas substâncias de naturezas distintas e incompatíveis: a res cogitans e a:",
+      "options": {
+        "a": "Res extensa",
+        "b": "Res cognita",
+        "c": "Res naturalis",
+        "d": "Res divina",
+        "e": "Res sensibilis"
+      },
+      "correct": "a",
+      "explanation": "Para Descartes, o ser humano é composto pela res cogitans (coisa pensante, a mente) e pela res extensa (coisa extensa, o corpo, material e sujeito às leis da mecânica).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, René Descartes propôs um sistema filosófico conhecido como dualismo interacionista, segundo o qual o ser humano é composto por duas substâncias de naturezas distintas e incompatíveis: a res cogitans e a: Para Descartes, o ser humano é composto pela res cogitans (coisa pensante, a mente) e pela res extensa (coisa extensa, o corpo, material e sujeito às leis da mecânica)."
+    },
+    {
+      "id": "fund-obj-178",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, a res cogitans, na filosofia cartesiana, corresponde à mente, sendo caracterizada como:",
+      "options": {
+        "a": "Imaterial e inextensa",
+        "b": "Material e mensurável",
+        "c": "Sujeita às leis da mecânica, como o corpo",
+        "d": "Idêntica à res extensa",
+        "e": "Passível de dissecação anatômica"
+      },
+      "correct": "a",
+      "explanation": "A res cogitans (coisa pensante) corresponde à mente, sendo imaterial e inextensa, diferentemente da res extensa (corpo), material e mensurável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a res cogitans, na filosofia cartesiana, corresponde à mente, sendo caracterizada como: A res cogitans (coisa pensante) corresponde à mente, sendo imaterial e inextensa, diferentemente da res extensa (corpo), material e mensurável."
+    },
+    {
+      "id": "fund-obj-179",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, para Descartes, o corpo humano funcionava como uma máquina complexa, cujos movimentos involuntários (reflexos) poderiam ser explicados por:",
+      "options": {
+        "a": "Princípios puramente físicos, sem a intervenção da mente",
+        "b": "Exclusivamente pela intervenção direta e constante da mente",
+        "c": "Exclusivamente por forças espirituais externas",
+        "d": "Nenhum princípio identificável, sendo fenômenos inexplicáveis",
+        "e": "Exclusivamente pela vontade consciente do indivíduo"
+      },
+      "correct": "a",
+      "explanation": "Para Descartes, os movimentos involuntários (reflexos) do corpo, concebido como uma máquina complexa, poderiam ser explicados por princípios puramente físicos, sem a intervenção da mente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para Descartes, o corpo humano funcionava como uma máquina complexa, cujos movimentos involuntários (reflexos) poderiam ser explicados por: Para Descartes, os movimentos involuntários (reflexos) do corpo, concebido como uma máquina complexa, poderiam ser explicados por princípios puramente físicos, sem a intervenção da mente."
+    },
+    {
+      "id": "fund-obj-180",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, essa concepção mecanicista do corpo, proposta por Descartes, permitiu o avanço da fisiologia e da anatomia porque:",
+      "options": {
+        "a": "O corpo físico poderia ser dissecado e estudado sem restrições teológicas",
+        "b": "A mente passou a ser o único objeto de estudo válido para a anatomia",
+        "c": "A dissecação de corpos humanos passou a ser proibida",
+        "d": "A fisiologia deixou de ter qualquer relevância científica",
+        "e": "O estudo do corpo tornou-se exclusivamente teórico, sem experimentação"
+      },
+      "correct": "a",
+      "explanation": "A concepção mecanicista do corpo permitiu o avanço da fisiologia e da anatomia, pois o corpo físico poderia ser dissecado e estudado sem restrições teológicas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, essa concepção mecanicista do corpo, proposta por Descartes, permitiu o avanço da fisiologia e da anatomia porque: A concepção mecanicista do corpo permitiu o avanço da fisiologia e da anatomia, pois o corpo físico poderia ser dissecado e estudado sem restrições teológicas."
+    },
+    {
+      "id": "fund-obj-181",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, apesar de conceber o corpo como uma máquina, Descartes preservou a ideia do livre-arbítrio e do pensamento consciente, atribuindo essas funções exclusivamente:",
+      "options": {
+        "a": "À mente imaterial",
+        "b": "Ao corpo material",
+        "c": "Aos reflexos automáticos",
+        "d": "Aos órgãos sensoriais",
+        "e": "Ao sistema circulatório"
+      },
+      "correct": "a",
+      "explanation": "Descartes preservou a ideia do livre-arbítrio e do pensamento consciente ao atribuir essas funções exclusivamente à mente imaterial.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, apesar de conceber o corpo como uma máquina, Descartes preservou a ideia do livre-arbítrio e do pensamento consciente, atribuindo essas funções exclusivamente: Descartes preservou a ideia do livre-arbítrio e do pensamento consciente ao atribuir essas funções exclusivamente à mente imaterial."
+    },
+    {
+      "id": "fund-obj-182",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o grande desafio do sistema cartesiano consistia em explicar como duas substâncias de naturezas tão diferentes (mente e corpo) poderiam:",
+      "options": {
+        "a": "Interagir",
+        "b": "Ser exatamente idênticas",
+        "c": "Ser completamente eliminadas do sistema",
+        "d": "Fundir-se em uma única substância desde o nascimento",
+        "e": "Não ter qualquer relação, nem mesmo causal"
+      },
+      "correct": "a",
+      "explanation": "O grande desafio do sistema cartesiano consistia em explicar como duas substâncias de naturezas tão diferentes poderiam interagir, como uma vontade imaterial poderia causar o movimento de um braço físico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o grande desafio do sistema cartesiano consistia em explicar como duas substâncias de naturezas tão diferentes (mente e corpo) poderiam: O grande desafio do sistema cartesiano consistia em explicar como duas substâncias de naturezas tão diferentes poderiam interagir, como uma vontade imaterial poderia causar o movimento de um braço físico."
+    },
+    {
+      "id": "fund-obj-183",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, Descartes localizou o ponto de interação entre mente e corpo em uma pequena estrutura no centro do cérebro, denominada:",
+      "options": {
+        "a": "Glândula pineal",
+        "b": "Glândula pituitária",
+        "c": "Amígdala",
+        "d": "Hipocampo",
+        "e": "Núcleo caudado"
+      },
+      "correct": "a",
+      "explanation": "Descartes localizou o ponto de interação entre mente e corpo na glândula pineal, uma pequena estrutura no centro do cérebro.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Descartes localizou o ponto de interação entre mente e corpo em uma pequena estrutura no centro do cérebro, denominada: Descartes localizou o ponto de interação entre mente e corpo na glândula pineal, uma pequena estrutura no centro do cérebro."
+    },
+    {
+      "id": "fund-obj-184",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, Descartes supunha que os 'espíritos animais' (fluidos sutis que percorriam os nervos) transmitiam impressões físicas à glândula pineal, onde:",
+      "options": {
+        "a": "A mente as interpretava e, em sentido inverso, movia a glândula para direcionar os fluidos e causar o movimento muscular",
+        "b": "As impressões eram automaticamente destruídas sem qualquer interpretação",
+        "c": "Ocorria exclusivamente a digestão dos alimentos",
+        "d": "O corpo se tornava totalmente independente da mente",
+        "e": "Nenhuma interação entre mente e corpo era necessária"
+      },
+      "correct": "a",
+      "explanation": "Descartes supunha que os espíritos animais transmitiam impressões físicas à glândula pineal, onde a mente as interpretava e, em sentido inverso, movia a glândula para direcionar os fluidos e causar o movimento muscular.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, Descartes supunha que os 'espíritos animais' (fluidos sutis que percorriam os nervos) transmitiam impressões físicas à glândula pineal, onde: Descartes supunha que os espíritos animais transmitiam impressões físicas à glândula pineal, onde a mente as interpretava e, em sentido inverso, movia a glândula para direcionar os fluidos e causar o movimento muscular."
+    },
+    {
+      "id": "fund-obj-185",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, embora a explicação anatômica da glândula pineal tenha sido refutada pelos avanços da fisiologia, o problema mente-corpo formulado por Descartes:",
+      "options": {
+        "a": "Definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes",
+        "b": "Foi completamente esquecido e sem qualquer influência posterior",
+        "c": "Resolveu definitivamente todas as questões sobre a consciência",
+        "d": "Impediu qualquer avanço posterior na filosofia da mente",
+        "e": "Não teve qualquer relação com o desenvolvimento da psicologia"
+      },
+      "correct": "a",
+      "explanation": "Embora a explicação anatômica da glândula pineal tenha sido refutada, o problema mente-corpo formulado por Descartes definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, embora a explicação anatômica da glândula pineal tenha sido refutada pelos avanços da fisiologia, o problema mente-corpo formulado por Descartes: Embora a explicação anatômica da glândula pineal tenha sido refutada, o problema mente-corpo formulado por Descartes definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes."
+    },
+    {
+      "id": "fund-obj-186",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, a separação radical entre o físico e o mental, proposta por Descartes, criou um dilema epistemológico, pois, se a ciência exige a observação e a medição de fenômenos materiais:",
+      "options": {
+        "a": "Como seria possível estudar cientificamente a mente imaterial?",
+        "b": "Não haveria qualquer problema, pois a mente também é material",
+        "c": "A ciência deveria abandonar completamente o estudo do corpo",
+        "d": "A ciência jamais poderia avançar em qualquer área",
+        "e": "O corpo se tornaria irrelevante para qualquer investigação científica"
+      },
+      "correct": "a",
+      "explanation": "A separação radical entre o físico e o mental criou um dilema epistemológico: se a ciência exige a observação e a medição de fenômenos materiais, como seria possível estudar cientificamente a mente imaterial?",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a separação radical entre o físico e o mental, proposta por Descartes, criou um dilema epistemológico, pois, se a ciência exige a observação e a medição de fenômenos materiais: A separação radical entre o físico e o mental criou um dilema epistemológico: se a ciência exige a observação e a medição de fenômenos materiais, como seria possível estudar cientificamente a mente imaterial?"
+    },
+    {
+      "id": "fund-obj-187",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, de acordo com Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas que influenciaram diretamente as matrizes teóricas da psicologia, desde o paralelismo psicofísico até:",
+      "options": {
+        "a": "O monismo materialista",
+        "b": "O empirismo britânico exclusivamente",
+        "c": "O racionalismo cartesiano exclusivamente",
+        "d": "A pangênese exclusivamente",
+        "e": "O positivismo lógico exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Segundo Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas que influenciaram as matrizes teóricas da psicologia, desde o paralelismo psicofísico até o monismo materialista.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, de acordo com Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas que influenciaram diretamente as matrizes teóricas da psicologia, desde o paralelismo psicofísico até: Segundo Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas que influenciaram as matrizes teóricas da psicologia, desde o paralelismo psicofísico até o monismo materialista."
+    },
+    {
+      "id": "fund-obj-188",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, na prática profissional contemporânea, os ecos do dualismo cartesiano se fazem presentes em contextos hospitalares e clínicos, na frequente divisão do cuidado em saúde, na qual:",
+      "options": {
+        "a": "Profissionais da medicina tratam o corpo, enquanto profissionais da psicologia tratam a mente",
+        "b": "Apenas profissionais da medicina cuidam tanto do corpo quanto da mente",
+        "c": "Apenas profissionais da psicologia cuidam tanto do corpo quanto da mente",
+        "d": "Não existe mais qualquer divisão entre corpo e mente na prática de saúde",
+        "e": "A mente é tratada exclusivamente por meios cirúrgicos"
+      },
+      "correct": "a",
+      "explanation": "Na prática profissional contemporânea, observa-se a divisão do cuidado em saúde: profissionais da medicina tratam o corpo, enquanto profissionais da psicologia tratam a mente — um eco do dualismo cartesiano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na prática profissional contemporânea, os ecos do dualismo cartesiano se fazem presentes em contextos hospitalares e clínicos, na frequente divisão do cuidado em saúde, na qual: Na prática profissional contemporânea, observa-se a divisão do cuidado em saúde: profissionais da medicina tratam o corpo, enquanto profissionais da psicologia tratam a mente — um eco do dualismo cartesiano."
+    },
+    {
+      "id": "fund-obj-189",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o esforço atual da psicossomática e das abordagens biopsicossociais consiste em:",
+      "options": {
+        "a": "Superar a dicotomia mente-corpo, reconhecendo a integração indissociável entre processos biológicos, psicológicos e sociais",
+        "b": "Reforçar ainda mais a separação absoluta entre mente e corpo",
+        "c": "Eliminar completamente o estudo dos processos biológicos",
+        "d": "Ignorar completamente os fatores sociais na saúde",
+        "e": "Restringir a saúde exclusivamente aos aspectos mentais"
+      },
+      "correct": "a",
+      "explanation": "O esforço da psicossomática e das abordagens biopsicossociais consiste em superar a dicotomia dualista, reconhecendo a integração indissociável entre os processos biológicos, psicológicos e sociais na saúde e no adoecimento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o esforço atual da psicossomática e das abordagens biopsicossociais consiste em: O esforço da psicossomática e das abordagens biopsicossociais consiste em superar a dicotomia dualista, reconhecendo a integração indissociável entre os processos biológicos, psicológicos e sociais na saúde e no adoecimento."
+    },
+    {
+      "id": "fund-obj-190",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, para superar o impasse dualista e tornar a mente um objeto de estudo científico, pesquisadores do século XIX precisaram encontrar formas de:",
+      "options": {
+        "a": "Medir a relação exata entre os estímulos físicos do ambiente e as sensações mentais correspondentes",
+        "b": "Abandonar completamente qualquer tentativa de estudar a mente",
+        "c": "Provar que a mente não existia de forma alguma",
+        "d": "Reduzir toda a psicologia exclusivamente à teologia",
+        "e": "Ignorar completamente os estímulos físicos do ambiente"
+      },
+      "correct": "a",
+      "explanation": "Para superar o impasse dualista, pesquisadores do século XIX precisaram encontrar formas de medir a relação exata entre os estímulos físicos do ambiente e as sensações mentais correspondentes, o que culminou no desenvolvimento da psicofísica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para superar o impasse dualista e tornar a mente um objeto de estudo científico, pesquisadores do século XIX precisaram encontrar formas de: Para superar o impasse dualista, pesquisadores do século XIX precisaram encontrar formas de medir a relação exata entre os estímulos físicos do ambiente e as sensações mentais correspondentes, o que culminou no desenvolvimento da psicofísica."
+    },
+    {
+      "id": "fund-obj-191",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, pensadores como Platão e Aristóteles, na filosofia grega clássica, propuseram os primeiros modelos explicativos para quais processos psicológicos?",
+      "options": {
+        "a": "A percepção, a memória e a aprendizagem",
+        "b": "Exclusivamente o comportamento operante",
+        "c": "Exclusivamente o inconsciente",
+        "d": "Exclusivamente os reflexos condicionados",
+        "e": "Exclusivamente a psicofísica"
+      },
+      "correct": "a",
+      "explanation": "Pensadores como Platão e Aristóteles propuseram modelos explicativos para a percepção, a memória e a aprendizagem.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, pensadores como Platão e Aristóteles, na filosofia grega clássica, propuseram os primeiros modelos explicativos para quais processos psicológicos? Pensadores como Platão e Aristóteles propuseram modelos explicativos para a percepção, a memória e a aprendizagem."
+    },
+    {
+      "id": "fund-obj-192",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, a filosofia empirista britânica, representada por Locke e David Hume, desempenhou papel decisivo ao fornecer:",
+      "options": {
+        "a": "A base metodológica para o futuro estudo experimental da percepção e da aprendizagem",
+        "b": "As bases exclusivas do racionalismo cartesiano",
+        "c": "A justificativa teológica para o dualismo mente-corpo",
+        "d": "A comprovação empírica da existência de ideias inatas",
+        "e": "As bases exclusivas da psicanálise freudiana"
+      },
+      "correct": "a",
+      "explanation": "A ênfase do empirismo britânico na experiência e na observação dos sentidos forneceu a base metodológica para o futuro estudo experimental da percepção e da aprendizagem.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a filosofia empirista britânica, representada por Locke e David Hume, desempenhou papel decisivo ao fornecer: A ênfase do empirismo britânico na experiência e na observação dos sentidos forneceu a base metodológica para o futuro estudo experimental da percepção e da aprendizagem."
+    },
+    {
+      "id": "fund-obj-193",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o núcleo central do debate filosófico sobre mente, consciência e comportamento, que reverbera até as práticas clínicas contemporâneas, reside na tentativa de explicar:",
+      "options": {
+        "a": "A relação entre os processos mentais e os processos físicos",
+        "b": "Exclusivamente a origem biológica da espécie humana",
+        "c": "Exclusivamente a estrutura anatômica do cérebro",
+        "d": "Exclusivamente as leis da física newtoniana",
+        "e": "Exclusivamente os processos digestivos"
+      },
+      "correct": "a",
+      "explanation": "O núcleo central do debate filosófico sobre mente, consciência e comportamento reside na tentativa de explicar a relação entre os processos mentais e os processos físicos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "4"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o núcleo central do debate filosófico sobre mente, consciência e comportamento, que reverbera até as práticas clínicas contemporâneas, reside na tentativa de explicar: O núcleo central do debate filosófico sobre mente, consciência e comportamento reside na tentativa de explicar a relação entre os processos mentais e os processos físicos."
+    },
+    {
+      "id": "fund-obj-194",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, antes de se consolidar em laboratórios e clínicas, as questões sobre a natureza humana, o comportamento e a consciência eram debatidas no campo:",
+      "options": {
+        "a": "Da filosofia e da fisiologia",
+        "b": "Exclusivamente da teologia",
+        "c": "Exclusivamente da matemática pura",
+        "d": "Exclusivamente da engenharia mecânica",
+        "e": "Exclusivamente da política"
+      },
+      "correct": "a",
+      "explanation": "Antes de se consolidar em laboratórios e clínicas, as questões sobre a natureza humana, o comportamento e a consciência eram debatidas no campo da filosofia e da fisiologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "3"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, antes de se consolidar em laboratórios e clínicas, as questões sobre a natureza humana, o comportamento e a consciência eram debatidas no campo: Antes de se consolidar em laboratórios e clínicas, as questões sobre a natureza humana, o comportamento e a consciência eram debatidas no campo da filosofia e da fisiologia."
+    },
+    {
+      "id": "fund-obj-195",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o percurso que transformou indagações filosóficas milenares em problemas de pesquisa empírica não ocorreu de modo linear, mas por meio de:",
+      "options": {
+        "a": "Debates intensos, rupturas metodológicas e transformações sociais profundas",
+        "b": "Um acúmulo simples e pacífico de descobertas, sem qualquer conflito",
+        "c": "Decisões exclusivamente políticas e sem qualquer base científica",
+        "d": "Um único evento isolado, sem qualquer processo histórico",
+        "e": "Uma continuidade perfeita sem qualquer ruptura"
+      },
+      "correct": "a",
+      "explanation": "O percurso que transformou indagações filosóficas em problemas de pesquisa empírica não ocorreu de modo linear, mas por meio de debates intensos, rupturas metodológicas e transformações sociais profundas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "3"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o percurso que transformou indagações filosóficas milenares em problemas de pesquisa empírica não ocorreu de modo linear, mas por meio de: O percurso que transformou indagações filosóficas em problemas de pesquisa empírica não ocorreu de modo linear, mas por meio de debates intensos, rupturas metodológicas e transformações sociais profundas."
+    },
+    {
+      "id": "fund-obj-196",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, compreender a origem da pluralidade de abordagens teóricas na psicologia contemporânea evita o dogmatismo e promove:",
+      "options": {
+        "a": "Uma postura crítica",
+        "b": "Uma adesão cega a uma única escola de pensamento",
+        "c": "A rejeição total de qualquer teoria científica",
+        "d": "O abandono da prática clínica",
+        "e": "A eliminação da necessidade de formação teórica"
+      },
+      "correct": "a",
+      "explanation": "Compreender a origem da pluralidade de abordagens teóricas evita o dogmatismo e promove uma postura crítica nos profissionais de psicologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "3"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, compreender a origem da pluralidade de abordagens teóricas na psicologia contemporânea evita o dogmatismo e promove: Compreender a origem da pluralidade de abordagens teóricas evita o dogmatismo e promove uma postura crítica nos profissionais de psicologia."
+    },
+    {
+      "id": "fund-obj-197",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, a capacidade de transitar entre diferentes perspectivas metodológicas, reconhecendo os limites e as contribuições de cada uma, constitui uma competência indispensável para:",
+      "options": {
+        "a": "A intervenção ética e eficaz diante da complexidade do sofrimento psíquico e das relações humanas",
+        "b": "A exclusão total de qualquer abordagem teórica da prática clínica",
+        "c": "A adoção de uma única técnica válida para todos os casos",
+        "d": "A eliminação da necessidade de supervisão clínica",
+        "e": "A substituição da psicologia pela medicina em todos os contextos"
+      },
+      "correct": "a",
+      "explanation": "A capacidade de transitar entre diferentes perspectivas metodológicas constitui uma competência indispensável para a intervenção ética e eficaz diante da complexidade do sofrimento psíquico e das relações humanas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "3"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a capacidade de transitar entre diferentes perspectivas metodológicas, reconhecendo os limites e as contribuições de cada uma, constitui uma competência indispensável para: A capacidade de transitar entre diferentes perspectivas metodológicas constitui uma competência indispensável para a intervenção ética e eficaz diante da complexidade do sofrimento psíquico e das relações humanas."
+    },
+    {
+      "id": "fund-obj-198",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, ao analisar o estabelecimento dos primeiros laboratórios experimentais no final do século XIX, torna-se possível identificar os esforços para:",
+      "options": {
+        "a": "Quantificar e medir fenômenos que, até então, pareciam inacessíveis à observação objetiva",
+        "b": "Eliminar completamente qualquer interesse pela mente humana",
+        "c": "Restringir a psicologia exclusivamente à filosofia especulativa",
+        "d": "Abandonar qualquer critério de rigor metodológico",
+        "e": "Provar definitivamente a inexistência da consciência"
+      },
+      "correct": "a",
+      "explanation": "Ao analisar o estabelecimento dos primeiros laboratórios experimentais, identifica-se o esforço para quantificar e medir fenômenos que, até então, pareciam inacessíveis à observação objetiva.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "3"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao analisar o estabelecimento dos primeiros laboratórios experimentais no final do século XIX, torna-se possível identificar os esforços para: Ao analisar o estabelecimento dos primeiros laboratórios experimentais, identifica-se o esforço para quantificar e medir fenômenos que, até então, pareciam inacessíveis à observação objetiva."
+    },
+    {
+      "id": "fund-obj-199",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, a divisão do cuidado em saúde entre o tratamento do corpo físico e o tratamento da mente imaterial, comum em contextos hospitalares, remonta à formulação de:",
+      "options": {
+        "a": "René Descartes, no século XVII",
+        "b": "Wilhelm Wundt, no século XIX",
+        "c": "Sigmund Freud, no século XX",
+        "d": "Aristóteles, na Antiguidade",
+        "e": "Auguste Comte, no século XIX"
+      },
+      "correct": "a",
+      "explanation": "A divisão do cuidado em saúde entre tratamento do corpo e da mente remonta à formulação de René Descartes no século XVII, com sua dicotomia entre res cogitans e res extensa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "12"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a divisão do cuidado em saúde entre o tratamento do corpo físico e o tratamento da mente imaterial, comum em contextos hospitalares, remonta à formulação de: A divisão do cuidado em saúde entre tratamento do corpo e da mente remonta à formulação de René Descartes no século XVII, com sua dicotomia entre res cogitans e res extensa."
+    },
+    {
+      "id": "fund-obj-200",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o dualismo interacionista de Descartes concebe o ser humano como composto por substâncias física e mental distintas, sendo esse princípio filosófico identificável, por exemplo, na situação em que:",
+      "options": {
+        "a": "Uma equipe médica trata dores físicas com medicamentos, enquanto a psicologia investiga conflitos emocionais separadamente",
+        "b": "Toda a equipe de saúde trata exclusivamente sintomas físicos, ignorando qualquer aspecto emocional",
+        "c": "Toda a equipe de saúde trata exclusivamente aspectos emocionais, ignorando qualquer sintoma físico",
+        "d": "Não há qualquer divisão de tarefas entre profissionais de saúde",
+        "e": "A mente e o corpo são tratados sempre pela mesma especialidade médica"
+      },
+      "correct": "a",
+      "explanation": "A divisão prática do cuidado, em que a equipe médica trata dores físicas e a equipe de psicologia investiga conflitos emocionais separadamente, reflete o princípio do dualismo interacionista cartesiano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "11"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o dualismo interacionista de Descartes concebe o ser humano como composto por substâncias física e mental distintas, sendo esse princípio filosófico identificável, por exemplo, na situação em que: A divisão prática do cuidado, em que a equipe médica trata dores físicas e a equipe de psicologia investiga conflitos emocionais separadamente, reflete o princípio do dualismo interacionista cartesiano."
+    },
+    {
+      "id": "fund-obj-201",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo o material, o racionalismo de Descartes, ao defender a existência de ideias inatas, se opõe diretamente à proposta de qual filósofo empirista sobre a tábula rasa?",
+      "options": {
+        "a": "John Locke",
+        "b": "Aristóteles",
+        "c": "Platão",
+        "d": "Auguste Comte",
+        "e": "Gustav Fechner"
+      },
+      "correct": "a",
+      "explanation": "O racionalismo de Descartes, com sua defesa de ideias inatas, se opõe diretamente à proposta de John Locke sobre a mente como tábula rasa, moldada exclusivamente pela experiência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o racionalismo de Descartes, ao defender a existência de ideias inatas, se opõe diretamente à proposta de qual filósofo empirista sobre a tábula rasa? O racionalismo de Descartes, com sua defesa de ideias inatas, se opõe diretamente à proposta de John Locke sobre a mente como tábula rasa, moldada exclusivamente pela experiência."
+    },
+    {
+      "id": "fund-obj-202",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, no final do século XIX e início do século XX, o modelo de ciência hegemônico, que exigia critérios rigorosos de cientificidade da psicologia, era fortemente influenciado pelo:",
+      "options": {
+        "a": "Positivismo",
+        "b": "Racionalismo cartesiano exclusivamente",
+        "c": "Empirismo britânico exclusivamente",
+        "d": "Idealismo alemão exclusivamente",
+        "e": "Existencialismo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "No final do século XIX e início do XX, o modelo de ciência hegemônico era fortemente influenciado pelo Positivismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no final do século XIX e início do século XX, o modelo de ciência hegemônico, que exigia critérios rigorosos de cientificidade da psicologia, era fortemente influenciado pelo: No final do século XIX e início do XX, o modelo de ciência hegemônico era fortemente influenciado pelo Positivismo."
+    },
+    {
+      "id": "fund-obj-203",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o positivismo, formulado pelo filósofo Auguste Comte, estabelecia que o conhecimento autêntico é aquele derivado da observação empírica rigorosa e da formulação de leis universais, rejeitando:",
+      "options": {
+        "a": "Explicações metafísicas ou teológicas",
+        "b": "Exclusivamente explicações matemáticas",
+        "c": "Exclusivamente explicações biológicas",
+        "d": "Exclusivamente explicações estatísticas",
+        "e": "Exclusivamente explicações experimentais"
+      },
+      "correct": "a",
+      "explanation": "O positivismo de Auguste Comte estabelecia que o conhecimento autêntico deriva da observação empírica rigorosa e da formulação de leis universais, rejeitando explicações metafísicas ou teológicas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o positivismo, formulado pelo filósofo Auguste Comte, estabelecia que o conhecimento autêntico é aquele derivado da observação empírica rigorosa e da formulação de leis universais, rejeitando: O positivismo de Auguste Comte estabelecia que o conhecimento autêntico deriva da observação empírica rigorosa e da formulação de leis universais, rejeitando explicações metafísicas ou teológicas."
+    },
+    {
+      "id": "fund-obj-204",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, para que uma disciplina fosse considerada científica sob a ótica positivista, ela precisava adotar métodos:",
+      "options": {
+        "a": "Objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica",
+        "b": "Exclusivamente subjetivos e privados a um único observador",
+        "c": "Exclusivamente especulativos, sem qualquer verificação",
+        "d": "Baseados exclusivamente em tradições filosóficas antigas",
+        "e": "Isentos de qualquer possibilidade de replicação"
+      },
+      "correct": "a",
+      "explanation": "Para ser considerada científica sob a ótica positivista, uma disciplina precisava adotar métodos objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para que uma disciplina fosse considerada científica sob a ótica positivista, ela precisava adotar métodos: Para ser considerada científica sob a ótica positivista, uma disciplina precisava adotar métodos objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica."
+    },
+    {
+      "id": "fund-obj-205",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o obstáculo considerável que a psicologia enfrentou diante das exigências positivistas foi que seu objeto de estudo tradicional — a mente, a consciência, as emoções — caracterizava-se por:",
+      "options": {
+        "a": "Subjetividade e inobservabilidade direta",
+        "b": "Total objetividade e observabilidade pública",
+        "c": "Ausência completa de qualquer variabilidade individual",
+        "d": "Uma natureza exclusivamente física e mensurável",
+        "e": "Simplicidade estrutural evidente"
+      },
+      "correct": "a",
+      "explanation": "O objeto de estudo tradicional da psicologia (mente, consciência, emoções) caracterizava-se pela subjetividade e pela inobservabilidade direta, o que representava um obstáculo diante das exigências positivistas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o obstáculo considerável que a psicologia enfrentou diante das exigências positivistas foi que seu objeto de estudo tradicional — a mente, a consciência, as emoções — caracterizava-se por: O objeto de estudo tradicional da psicologia (mente, consciência, emoções) caracterizava-se pela subjetividade e pela inobservabilidade direta, o que representava um obstáculo diante das exigências positivistas."
+    },
+    {
+      "id": "fund-obj-206",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a resposta metodológica ao desafio de transformar a experiência interna em um dado objetivo e público encontrou suporte:",
+      "options": {
+        "a": "Na quantificação e na medição",
+        "b": "Exclusivamente na especulação filosófica pura",
+        "c": "Exclusivamente na introspecção livre e não controlada",
+        "d": "Exclusivamente na revelação religiosa",
+        "e": "Exclusivamente na tradição oral"
+      },
+      "correct": "a",
+      "explanation": "A resposta metodológica ao desafio de transformar a experiência interna em dado objetivo encontrou suporte na quantificação e na medição, que se tornaram o principal critério de cientificidade da nova disciplina.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a resposta metodológica ao desafio de transformar a experiência interna em um dado objetivo e público encontrou suporte: A resposta metodológica ao desafio de transformar a experiência interna em dado objetivo encontrou suporte na quantificação e na medição, que se tornaram o principal critério de cientificidade da nova disciplina."
+    },
+    {
+      "id": "fund-obj-207",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o pesquisador britânico Francis Galton, influenciado pelas ideias evolutivas de seu primo Charles Darwin, introduziu na psicologia o uso sistemático:",
+      "options": {
+        "a": "Da estatística",
+        "b": "Exclusivamente da introspecção",
+        "c": "Exclusivamente da psicanálise",
+        "d": "Exclusivamente do método clínico",
+        "e": "Exclusivamente da fenomenologia"
+      },
+      "correct": "a",
+      "explanation": "Francis Galton, influenciado pelas ideias evolutivas de Darwin, introduziu o uso sistemático da estatística na psicologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o pesquisador britânico Francis Galton, influenciado pelas ideias evolutivas de seu primo Charles Darwin, introduziu na psicologia o uso sistemático: Francis Galton, influenciado pelas ideias evolutivas de Darwin, introduziu o uso sistemático da estatística na psicologia."
+    },
+    {
+      "id": "fund-obj-208",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Galton interessava-se pelas diferenças individuais e pela herança de características mentais, desenvolvendo, para medir essas diferenças:",
+      "options": {
+        "a": "Testes mentais rudimentares, aplicando métodos estatísticos como a curva normal e o conceito de correlação",
+        "b": "Exclusivamente métodos de introspecção experimental",
+        "c": "Exclusivamente técnicas de associação livre",
+        "d": "Exclusivamente experimentos de condicionamento clássico",
+        "e": "Exclusivamente entrevistas clínicas não estruturadas"
+      },
+      "correct": "a",
+      "explanation": "Galton desenvolveu testes mentais rudimentares e aplicou métodos estatísticos, como a curva normal e o conceito de correlação, para analisar dados coletados de milhares de pessoas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Galton interessava-se pelas diferenças individuais e pela herança de características mentais, desenvolvendo, para medir essas diferenças: Galton desenvolveu testes mentais rudimentares e aplicou métodos estatísticos, como a curva normal e o conceito de correlação, para analisar dados coletados de milhares de pessoas."
+    },
+    {
+      "id": "fund-obj-209",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a introdução da estatística por Galton permitiu que características psicológicas fossem:",
+      "options": {
+        "a": "Quantificadas, comparadas e tratadas com o mesmo rigor matemático aplicado nas ciências exatas",
+        "b": "Completamente eliminadas do escopo da psicologia científica",
+        "c": "Estudadas exclusivamente por meio de introspecção não controlada",
+        "d": "Reduzidas exclusivamente a fenômenos fisiológicos, sem qualquer medição",
+        "e": "Investigadas exclusivamente por métodos qualitativos, sem qualquer número"
+      },
+      "correct": "a",
+      "explanation": "A introdução da estatística permitiu que características psicológicas fossem quantificadas, comparadas e tratadas com o mesmo rigor matemático aplicado nas ciências exatas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a introdução da estatística por Galton permitiu que características psicológicas fossem: A introdução da estatística permitiu que características psicológicas fossem quantificadas, comparadas e tratadas com o mesmo rigor matemático aplicado nas ciências exatas."
+    },
+    {
+      "id": "fund-obj-210",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, antes mesmo de Wundt fundar seu laboratório, a formulação de leis matemáticas para fenômenos psicológicos já havia sido iniciada por um campo de estudo denominado:",
+      "options": {
+        "a": "Psicofísica",
+        "b": "Psicanálise",
+        "c": "Behaviorismo",
+        "d": "Gestalt",
+        "e": "Fenomenologia"
+      },
+      "correct": "a",
+      "explanation": "Antes de Wundt fundar seu laboratório, a formulação de leis matemáticas para fenômenos psicológicos já havia sido iniciada pela psicofísica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, antes mesmo de Wundt fundar seu laboratório, a formulação de leis matemáticas para fenômenos psicológicos já havia sido iniciada por um campo de estudo denominado: Antes de Wundt fundar seu laboratório, a formulação de leis matemáticas para fenômenos psicológicos já havia sido iniciada pela psicofísica."
+    },
+    {
+      "id": "fund-obj-211",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Gustav Fechner, físico e filósofo alemão, buscou estabelecer uma relação matemática exata entre:",
+      "options": {
+        "a": "A intensidade de um estímulo físico e a intensidade da sensação mental correspondente",
+        "b": "A idade do sujeito e sua capacidade de memorização",
+        "c": "O tamanho do cérebro e o nível de inteligência",
+        "d": "A hereditariedade e o comportamento social",
+        "e": "A cultura e a linguagem falada"
+      },
+      "correct": "a",
+      "explanation": "Gustav Fechner buscou estabelecer uma relação matemática exata entre a intensidade de um estímulo físico e a intensidade da sensação mental correspondente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Gustav Fechner, físico e filósofo alemão, buscou estabelecer uma relação matemática exata entre: Gustav Fechner buscou estabelecer uma relação matemática exata entre a intensidade de um estímulo físico e a intensidade da sensação mental correspondente."
+    },
+    {
+      "id": "fund-obj-212",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Fechner baseou-se nos trabalhos do fisiologista Ernst Weber, que havia descoberto o conceito de 'limiar diferencial' ou 'diferença apenas perceptível', também conhecido pela sigla:",
+      "options": {
+        "a": "JND (Just Noticeable Difference)",
+        "b": "PBE (Prática Baseada em Evidências)",
+        "c": "SNC (Sistema Nervoso Central)",
+        "d": "TCC (Terapia Cognitivo-Comportamental)",
+        "e": "PDE (Psicologia do Desenvolvimento Evolucionista)"
+      },
+      "correct": "a",
+      "explanation": "Ernst Weber descobriu o conceito de 'limiar diferencial' ou 'diferença apenas perceptível', conhecido pela sigla JND (Just Noticeable Difference).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Fechner baseou-se nos trabalhos do fisiologista Ernst Weber, que havia descoberto o conceito de 'limiar diferencial' ou 'diferença apenas perceptível', também conhecido pela sigla: Ernst Weber descobriu o conceito de 'limiar diferencial' ou 'diferença apenas perceptível', conhecido pela sigla JND (Just Noticeable Difference)."
+    },
+    {
+      "id": "fund-obj-213",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Weber demonstrou que a menor diferença detectável entre dois estímulos não é um valor absoluto, mas sim:",
+      "options": {
+        "a": "Uma proporção constante do estímulo original",
+        "b": "Um valor fixo e idêntico para todas as modalidades sensoriais",
+        "c": "Um fenômeno totalmente aleatório e imprevisível",
+        "d": "Uma medida exclusivamente subjetiva sem qualquer regularidade",
+        "e": "Uma constante universal, igual para todos os indivíduos"
+      },
+      "correct": "a",
+      "explanation": "Weber demonstrou que a menor diferença detectável entre dois estímulos não é um valor absoluto, mas uma proporção constante do estímulo original.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Weber demonstrou que a menor diferença detectável entre dois estímulos não é um valor absoluto, mas sim: Weber demonstrou que a menor diferença detectável entre dois estímulos não é um valor absoluto, mas uma proporção constante do estímulo original."
+    },
+    {
+      "id": "fund-obj-214",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Fechner formalizou a relação entre estímulo físico e sensação mental na Lei de Weber-Fechner, expressa pela equação S = k log R, na qual S representa:",
+      "options": {
+        "a": "A magnitude da sensação mental",
+        "b": "A magnitude do estímulo físico",
+        "c": "Uma constante específica para cada modalidade sensorial",
+        "d": "O tempo de reação do participante",
+        "e": "A intensidade da resposta motora"
+      },
+      "correct": "a",
+      "explanation": "Na equação S = k log R, S representa a magnitude da sensação mental, k é uma constante específica para cada modalidade sensorial, e R representa a magnitude do estímulo físico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, Fechner formalizou a relação entre estímulo físico e sensação mental na Lei de Weber-Fechner, expressa pela equação S = k log R, na qual S representa: Na equação S = k log R, S representa a magnitude da sensação mental, k é uma constante específica para cada modalidade sensorial, e R representa a magnitude do estímulo físico."
+    },
+    {
+      "id": "fund-obj-215",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, na equação da Lei de Weber-Fechner, a letra R representa:",
+      "options": {
+        "a": "A magnitude do estímulo físico",
+        "b": "A magnitude da sensação mental",
+        "c": "A constante da modalidade sensorial",
+        "d": "O tempo de latência da resposta",
+        "e": "O número de participantes do estudo"
+      },
+      "correct": "a",
+      "explanation": "Na equação S = k log R, R representa a magnitude do estímulo físico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na equação da Lei de Weber-Fechner, a letra R representa: Na equação S = k log R, R representa a magnitude do estímulo físico."
+    },
+    {
+      "id": "fund-obj-216",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a fórmula da Lei de Weber-Fechner significa que a sensação aumenta de forma logarítmica, ou seja:",
+      "options": {
+        "a": "Mais lentamente do que o estímulo físico",
+        "b": "Exatamente na mesma proporção e velocidade do estímulo físico",
+        "c": "Mais rapidamente do que o estímulo físico, de forma exponencial",
+        "d": "De forma completamente independente do estímulo físico",
+        "e": "De forma inversamente proporcional ao quadrado do estímulo"
+      },
+      "correct": "a",
+      "explanation": "A fórmula significa que a sensação aumenta de forma logarítmica, ou seja, mais lentamente do que o estímulo físico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a fórmula da Lei de Weber-Fechner significa que a sensação aumenta de forma logarítmica, ou seja: A fórmula significa que a sensação aumenta de forma logarítmica, ou seja, mais lentamente do que o estímulo físico."
+    },
+    {
+      "id": "fund-obj-217",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a formulação da Lei de Weber-Fechner teve um impacto profundo no estatuto científico da psicologia porque, pela primeira vez, demonstrou-se que:",
+      "options": {
+        "a": "A relação entre a mente e o corpo poderia ser descrita por meio de uma lei matemática precisa",
+        "b": "A mente era completamente inacessível a qualquer forma de investigação científica",
+        "c": "Os fenômenos mentais eram idênticos aos fenômenos físicos, sem qualquer distinção",
+        "d": "A psicologia deveria abandonar completamente a psicofísica",
+        "e": "Não havia qualquer relação possível entre estímulo físico e sensação mental"
+      },
+      "correct": "a",
+      "explanation": "A formulação da Lei de Weber-Fechner teve impacto profundo porque demonstrou, pela primeira vez, que a relação entre a mente e o corpo poderia ser descrita por meio de uma lei matemática precisa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a formulação da Lei de Weber-Fechner teve um impacto profundo no estatuto científico da psicologia porque, pela primeira vez, demonstrou-se que: A formulação da Lei de Weber-Fechner teve impacto profundo porque demonstrou, pela primeira vez, que a relação entre a mente e o corpo poderia ser descrita por meio de uma lei matemática precisa."
+    },
+    {
+      "id": "fund-obj-218",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a psicofísica provou que os fenômenos mentais poderiam ser medidos, satisfazendo:",
+      "options": {
+        "a": "O critério positivista de quantificação",
+        "b": "Exclusivamente o critério da introspecção estruturalista",
+        "c": "Exclusivamente o critério da psicanálise",
+        "d": "Exclusivamente o critério do funcionalismo",
+        "e": "Exclusivamente o critério do behaviorismo radical"
+      },
+      "correct": "a",
+      "explanation": "A psicofísica provou que os fenômenos mentais poderiam ser medidos, satisfazendo o critério positivista de quantificação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a psicofísica provou que os fenômenos mentais poderiam ser medidos, satisfazendo: A psicofísica provou que os fenômenos mentais poderiam ser medidos, satisfazendo o critério positivista de quantificação."
+    },
+    {
+      "id": "fund-obj-219",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o esforço para adequar a psicologia aos critérios de cientificidade positivistas culminou, mais tarde, no surgimento:",
+      "options": {
+        "a": "Do Behaviorismo, que propôs a exclusão completa da consciência como objeto de estudo",
+        "b": "Da psicanálise, focada exclusivamente no inconsciente",
+        "c": "Do estruturalismo de Titchener, sem qualquer relação com o positivismo",
+        "d": "Da fenomenologia existencial",
+        "e": "Da gestalt, focada na percepção da forma"
+      },
+      "correct": "a",
+      "explanation": "O esforço para adequar a psicologia aos critérios de cientificidade positivistas culminou, mais tarde, no surgimento do Behaviorismo, que propôs a exclusão completa da consciência como objeto de estudo, focando no comportamento observável e mensurável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o esforço para adequar a psicologia aos critérios de cientificidade positivistas culminou, mais tarde, no surgimento: O esforço para adequar a psicologia aos critérios de cientificidade positivistas culminou, mais tarde, no surgimento do Behaviorismo, que propôs a exclusão completa da consciência como objeto de estudo, focando no comportamento observável e mensurável."
+    },
+    {
+      "id": "fund-obj-220",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, na prática de pesquisa contemporânea e na ética científica, os critérios de cientificidade permanecem fundamentais, baseando-se a elaboração de dossiês e a condução de ensaios clínicos em psicologia:",
+      "options": {
+        "a": "Na validade estatística, no controle de variáveis e na transparência metodológica",
+        "b": "Exclusivamente na opinião pessoal do pesquisador",
+        "c": "Exclusivamente na tradição da escola teórica seguida",
+        "d": "Exclusivamente na experiência subjetiva do paciente, sem qualquer controle",
+        "e": "Exclusivamente em revisões bibliográficas não sistemáticas"
+      },
+      "correct": "a",
+      "explanation": "Na prática de pesquisa contemporânea, a elaboração de dossiês, a publicação de artigos e a condução de ensaios clínicos baseiam-se na validade estatística, no controle de variáveis e na transparência metodológica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na prática de pesquisa contemporânea e na ética científica, os critérios de cientificidade permanecem fundamentais, baseando-se a elaboração de dossiês e a condução de ensaios clínicos em psicologia: Na prática de pesquisa contemporânea, a elaboração de dossiês, a publicação de artigos e a condução de ensaios clínicos baseiam-se na validade estatística, no controle de variáveis e na transparência metodológica."
+    },
+    {
+      "id": "fund-obj-221",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a pessoa profissional que atua com Prática Baseada em Evidências (PBE) na clínica utiliza intervenções cuja eficácia foi comprovada por meio de:",
+      "options": {
+        "a": "Estudos controlados e randomizados",
+        "b": "Exclusivamente relatos de caso isolados",
+        "c": "Exclusivamente tradição oral entre profissionais",
+        "d": "Exclusivamente convicções pessoais do terapeuta",
+        "e": "Exclusivamente testemunhos não verificados de pacientes"
+      },
+      "correct": "a",
+      "explanation": "A Prática Baseada em Evidências (PBE) utiliza intervenções cuja eficácia foi comprovada por meio de estudos controlados e randomizados, refletindo a continuidade histórica da busca por rigor científico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a pessoa profissional que atua com Prática Baseada em Evidências (PBE) na clínica utiliza intervenções cuja eficácia foi comprovada por meio de: A Prática Baseada em Evidências (PBE) utiliza intervenções cuja eficácia foi comprovada por meio de estudos controlados e randomizados, refletindo a continuidade histórica da busca por rigor científico."
+    },
+    {
+      "id": "fund-obj-222",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a consolidação da psicologia como ciência exigiu mais do que a fundação de laboratórios ou a formulação de teorias sobre a adaptação, sendo necessário estabelecer:",
+      "options": {
+        "a": "Critérios rigorosos de cientificidade reconhecidos e validados pela comunidade científica",
+        "b": "Apenas o consenso entre filósofos especulativos",
+        "c": "Exclusivamente critérios teológicos de validação",
+        "d": "Nenhum critério, bastando o senso comum",
+        "e": "Exclusivamente a opinião pública sobre o tema"
+      },
+      "correct": "a",
+      "explanation": "A consolidação da psicologia como ciência exigiu o estabelecimento de critérios rigorosos de cientificidade que pudessem ser reconhecidos e validados pela comunidade científica mais ampla.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a consolidação da psicologia como ciência exigiu mais do que a fundação de laboratórios ou a formulação de teorias sobre a adaptação, sendo necessário estabelecer: A consolidação da psicologia como ciência exigiu o estabelecimento de critérios rigorosos de cientificidade que pudessem ser reconhecidos e validados pela comunidade científica mais ampla."
+    },
+    {
+      "id": "fund-obj-223",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a pergunta 'Como transformar a experiência interna em um dado objetivo e público?' resume o desafio metodológico enfrentado pela psicologia diante das exigências:",
+      "options": {
+        "a": "Positivistas",
+        "b": "Exclusivamente teológicas",
+        "c": "Exclusivamente estéticas",
+        "d": "Exclusivamente jurídicas",
+        "e": "Exclusivamente literárias"
+      },
+      "correct": "a",
+      "explanation": "Essa pergunta resume o desafio metodológico enfrentado pela psicologia diante das exigências positivistas de objetividade e observabilidade pública.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a pergunta 'Como transformar a experiência interna em um dado objetivo e público?' resume o desafio metodológico enfrentado pela psicologia diante das exigências: Essa pergunta resume o desafio metodológico enfrentado pela psicologia diante das exigências positivistas de objetividade e observabilidade pública."
+    },
+    {
+      "id": "fund-obj-224",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o principal avanço científico proporcionado pela Lei de Weber-Fechner consistiu em demonstrar a relação matemática exata entre um estímulo físico e:",
+      "options": {
+        "a": "A sensação mental",
+        "b": "A estrutura anatômica do cérebro",
+        "c": "O comportamento operante",
+        "d": "O inconsciente reprimido",
+        "e": "A herança genética"
+      },
+      "correct": "a",
+      "explanation": "O principal avanço científico da Lei de Weber-Fechner consistiu em demonstrar a relação matemática exata entre um estímulo físico e a sensação mental.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "20"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o principal avanço científico proporcionado pela Lei de Weber-Fechner consistiu em demonstrar a relação matemática exata entre um estímulo físico e: O principal avanço científico da Lei de Weber-Fechner consistiu em demonstrar a relação matemática exata entre um estímulo físico e a sensação mental."
+    },
+    {
+      "id": "fund-obj-225",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o positivismo rejeita explicações metafísicas ou teológicas, estabelecendo que o conhecimento autêntico deve derivar de:",
+      "options": {
+        "a": "Observação empírica rigorosa e formulação de leis universais",
+        "b": "Revelação divina e tradição religiosa",
+        "c": "Especulação filosófica pura, sem qualquer observação",
+        "d": "Intuição individual não verificável",
+        "e": "Autoridade de textos clássicos antigos"
+      },
+      "correct": "a",
+      "explanation": "O positivismo estabelece que o conhecimento autêntico deriva da observação empírica rigorosa e da formulação de leis universais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o positivismo rejeita explicações metafísicas ou teológicas, estabelecendo que o conhecimento autêntico deve derivar de: O positivismo estabelece que o conhecimento autêntico deriva da observação empírica rigorosa e da formulação de leis universais."
+    },
+    {
+      "id": "fund-obj-226",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, Francis Galton era primo de qual naturalista, cujas ideias evolutivas o influenciaram?",
+      "options": {
+        "a": "Charles Darwin",
+        "b": "Gregor Mendel",
+        "c": "Ernst Weber",
+        "d": "Auguste Comte",
+        "e": "Wilhelm Wundt"
+      },
+      "correct": "a",
+      "explanation": "Francis Galton, influenciado pelas ideias evolutivas de seu primo Charles Darwin, introduziu o uso sistemático da estatística na psicologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Francis Galton era primo de qual naturalista, cujas ideias evolutivas o influenciaram? Francis Galton, influenciado pelas ideias evolutivas de seu primo Charles Darwin, introduziu o uso sistemático da estatística na psicologia."
+    },
+    {
+      "id": "fund-obj-227",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o positivismo de Auguste Comte se tornou o modelo de ciência hegemônico em qual período histórico, quando a psicologia buscava se consolidar como disciplina científica?",
+      "options": {
+        "a": "Final do século XIX e início do século XX",
+        "b": "Idade Média",
+        "c": "Renascimento (século XV)",
+        "d": "Segunda metade do século XX exclusivamente",
+        "e": "Antiguidade Clássica"
+      },
+      "correct": "a",
+      "explanation": "No final do século XIX e início do século XX, o modelo de ciência hegemônico, sob o qual a psicologia buscou se consolidar, era fortemente influenciado pelo Positivismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o positivismo de Auguste Comte se tornou o modelo de ciência hegemônico em qual período histórico, quando a psicologia buscava se consolidar como disciplina científica? No final do século XIX e início do século XX, o modelo de ciência hegemônico, sob o qual a psicologia buscou se consolidar, era fortemente influenciado pelo Positivismo."
+    },
+    {
+      "id": "fund-obj-228",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o conceito de 'diferença apenas perceptível' (JND), descoberto por Ernst Weber, refere-se a:",
+      "options": {
+        "a": "A menor diferença detectável entre dois estímulos",
+        "b": "A diferença máxima possível entre dois estímulos",
+        "c": "Uma unidade fixa de medida aplicável a qualquer sensação",
+        "d": "A ausência total de qualquer percepção sensorial",
+        "e": "A intensidade máxima suportável por um órgão sensorial"
+      },
+      "correct": "a",
+      "explanation": "O conceito de 'limiar diferencial' ou 'diferença apenas perceptível' (JND) refere-se à menor diferença detectável entre dois estímulos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o conceito de 'diferença apenas perceptível' (JND), descoberto por Ernst Weber, refere-se a: O conceito de 'limiar diferencial' ou 'diferença apenas perceptível' (JND) refere-se à menor diferença detectável entre dois estímulos."
+    },
+    {
+      "id": "fund-obj-229",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, ao satisfazer o critério positivista de quantificação, a psicofísica contribuiu para resolver, ao menos parcialmente, o dilema epistemológico decorrente:",
+      "options": {
+        "a": "Do dualismo cartesiano entre mente imaterial e corpo material",
+        "b": "Da teoria da evolução de Darwin",
+        "c": "Do conceito de reforço de Skinner",
+        "d": "Da crítica de James ao estruturalismo",
+        "e": "Da fundação do laboratório de Leipzig por Wundt"
+      },
+      "correct": "a",
+      "explanation": "Ao demonstrar que a mente poderia ser medida matematicamente, a psicofísica ajudou a resolver, ao menos parcialmente, o dilema epistemológico decorrente do dualismo cartesiano entre mente imaterial e corpo material.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao satisfazer o critério positivista de quantificação, a psicofísica contribuiu para resolver, ao menos parcialmente, o dilema epistemológico decorrente: Ao demonstrar que a mente poderia ser medida matematicamente, a psicofísica ajudou a resolver, ao menos parcialmente, o dilema epistemológico decorrente do dualismo cartesiano entre mente imaterial e corpo material."
+    },
+    {
+      "id": "fund-obj-230",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, o uso de testes mentais rudimentares e de métodos estatísticos por Galton visava, principalmente, medir:",
+      "options": {
+        "a": "As diferenças individuais e a herança de características mentais",
+        "b": "Exclusivamente a velocidade do impulso nervoso",
+        "c": "Exclusivamente o tempo de reação a estímulos visuais",
+        "d": "Exclusivamente a capacidade pulmonar dos participantes",
+        "e": "Exclusivamente a temperatura corporal"
+      },
+      "correct": "a",
+      "explanation": "Galton interessava-se pelas diferenças individuais e pela herança de características mentais, desenvolvendo testes e métodos estatísticos para medir essas diferenças.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o uso de testes mentais rudimentares e de métodos estatísticos por Galton visava, principalmente, medir: Galton interessava-se pelas diferenças individuais e pela herança de características mentais, desenvolvendo testes e métodos estatísticos para medir essas diferenças."
+    },
+    {
+      "id": "fund-obj-231",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, a curva normal e o conceito de correlação, aplicados por Galton, são exemplos de ferramentas oriundas de qual campo do conhecimento, incorporado à psicologia sob influência positivista?",
+      "options": {
+        "a": "A estatística",
+        "b": "A anatomia",
+        "c": "A psicanálise",
+        "d": "A fenomenologia",
+        "e": "A pedagogia"
+      },
+      "correct": "a",
+      "explanation": "A curva normal e o conceito de correlação são ferramentas estatísticas que Galton aplicou para analisar dados psicológicos, sob influência do modelo positivista de ciência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a curva normal e o conceito de correlação, aplicados por Galton, são exemplos de ferramentas oriundas de qual campo do conhecimento, incorporado à psicologia sob influência positivista? A curva normal e o conceito de correlação são ferramentas estatísticas que Galton aplicou para analisar dados psicológicos, sob influência do modelo positivista de ciência."
+    },
+    {
+      "id": "fund-obj-232",
+      "topic": "Positivismo e psicofísica",
+      "question": "Segundo o material, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas, a Lei de Weber-Fechner atendeu diretamente aos critérios de cientificidade propostos pelo:",
+      "options": {
+        "a": "Positivismo",
+        "b": "Racionalismo cartesiano",
+        "c": "Empirismo britânico exclusivamente",
+        "d": "Idealismo platônico",
+        "e": "Existencialismo"
+      },
+      "correct": "a",
+      "explanation": "A Lei de Weber-Fechner atendeu diretamente aos critérios positivistas de cientificidade, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "20"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas, a Lei de Weber-Fechner atendeu diretamente aos critérios de cientificidade propostos pelo: A Lei de Weber-Fechner atendeu diretamente aos critérios positivistas de cientificidade, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas."
     }
   ],
   "discursive": [
@@ -6196,6 +7604,643 @@
       },
       "subject": "Funcionalismo e pragmatismo",
       "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-055",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Compare as visões de Platão e Aristóteles sobre a relação entre alma e corpo.",
+      "modelAnswer": "Platão defendia uma separação estrita entre o mundo inteligível das ideias e o mundo sensível da matéria, sugerindo que o conhecimento verdadeiro provinha da razão, e não dos sentidos. Aristóteles, em contraste, adotou uma postura mais empírica em 'De Anima', argumentando que a alma e o corpo eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo.",
+      "keyPoints": [
+        {
+          "text": "Platão: separação razão/ideias versus matéria/sentidos",
+          "weight": 0.5,
+          "keywords": [
+            "Platão",
+            "razão",
+            "ideias"
+          ]
+        },
+        {
+          "text": "Aristóteles: alma e corpo inseparáveis (forma e matéria)",
+          "weight": 0.5,
+          "keywords": [
+            "Aristóteles",
+            "inseparáveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-056",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique o dualismo interacionista de Descartes, incluindo os conceitos de res cogitans e res extensa.",
+      "modelAnswer": "Descartes propôs que o ser humano é composto por duas substâncias de naturezas distintas e incompatíveis: a res cogitans (coisa pensante), que corresponde à mente, imaterial e inextensa; e a res extensa (coisa extensa), que corresponde ao corpo, material, mensurável e sujeito às leis da mecânica. Por isso, seu sistema é chamado de dualismo interacionista: as duas substâncias, apesar de distintas, interagem entre si.",
+      "keyPoints": [
+        {
+          "text": "Res cogitans: mente, imaterial, inextensa",
+          "weight": 0.4,
+          "keywords": [
+            "res cogitans",
+            "mente"
+          ]
+        },
+        {
+          "text": "Res extensa: corpo, material, sujeito às leis da mecânica",
+          "weight": 0.4,
+          "keywords": [
+            "res extensa",
+            "corpo"
+          ]
+        },
+        {
+          "text": "Dualismo interacionista: duas substâncias que interagem",
+          "weight": 0.2,
+          "keywords": [
+            "interacionista"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-057",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique o papel da glândula pineal na teoria cartesiana sobre a interação mente-corpo.",
+      "modelAnswer": "Descartes localizou o ponto de interação entre a mente imaterial e o corpo material na glândula pineal, uma pequena estrutura no centro do cérebro. Ele supunha que os 'espíritos animais' (fluidos sutis que percorriam os nervos) transmitiam impressões físicas à glândula pineal, onde a mente as interpretava; em sentido inverso, a mente movia a glândula para direcionar os fluidos e causar o movimento muscular.",
+      "keyPoints": [
+        {
+          "text": "Glândula pineal: local de interação mente-corpo",
+          "weight": 0.4,
+          "keywords": [
+            "glândula pineal",
+            "interação"
+          ]
+        },
+        {
+          "text": "Espíritos animais transmitem impressões físicas à glândula",
+          "weight": 0.3,
+          "keywords": [
+            "espíritos animais"
+          ]
+        },
+        {
+          "text": "Mente interpreta e move a glândula para causar movimento",
+          "weight": 0.3,
+          "keywords": [
+            "move a glândula",
+            "movimento muscular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-058",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique o dilema epistemológico criado pelo dualismo cartesiano para o desenvolvimento futuro da psicologia científica.",
+      "modelAnswer": "A separação radical entre o físico e o mental proposta por Descartes criou um dilema epistemológico: se a ciência exige a observação e a medição de fenômenos materiais, como seria possível estudar cientificamente a mente imaterial? Esse dilema definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes, exigindo que pesquisadores posteriores, como os da psicofísica, encontrassem formas de medir a relação entre estímulos físicos e sensações mentais.",
+      "keyPoints": [
+        {
+          "text": "Dilema: como estudar cientificamente a mente imaterial",
+          "weight": 0.5,
+          "keywords": [
+            "dilema",
+            "mente imaterial"
+          ]
+        },
+        {
+          "text": "Definiu a agenda da psicologia; levou à busca de métodos de medição (psicofísica)",
+          "weight": 0.5,
+          "keywords": [
+            "agenda",
+            "psicofísica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-059",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Diferencie racionalismo e empirismo, situando Descartes e Locke em cada corrente.",
+      "modelAnswer": "O racionalismo enfatiza a razão e a dedução lógica como fontes primárias do conhecimento, muitas vezes postulando ideias inatas; Descartes é seu principal representante, ao propor a separação mente-corpo e a existência de ideias inatas. O empirismo sustenta que todo conhecimento deriva da experiência sensorial e da observação empírica, rejeitando ideias inatas; Locke é seu representante, com a proposta da tábula rasa.",
+      "keyPoints": [
+        {
+          "text": "Racionalismo: razão, ideias inatas, Descartes",
+          "weight": 0.5,
+          "keywords": [
+            "racionalismo",
+            "Descartes",
+            "ideias inatas"
+          ]
+        },
+        {
+          "text": "Empirismo: experiência sensorial, Locke, tábula rasa",
+          "weight": 0.5,
+          "keywords": [
+            "empirismo",
+            "Locke",
+            "tábula rasa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-060",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique como os ecos do dualismo cartesiano ainda se manifestam na prática profissional contemporânea de saúde.",
+      "modelAnswer": "Em contextos hospitalares e clínicos, observa-se com frequência a divisão do cuidado em saúde: profissionais da medicina tratam o corpo (sintomas físicos, prescrição de psicofármacos), enquanto profissionais da psicologia tratam a mente (conflitos emocionais, padrões de pensamento). Essa divisão prática reflete diretamente a separação cartesiana entre res cogitans e res extensa.",
+      "keyPoints": [
+        {
+          "text": "Medicina trata o corpo; psicologia trata a mente",
+          "weight": 0.6,
+          "keywords": [
+            "medicina",
+            "corpo",
+            "psicologia",
+            "mente"
+          ]
+        },
+        {
+          "text": "Reflete a separação cartesiana res cogitans/res extensa",
+          "weight": 0.4,
+          "keywords": [
+            "cartesiana",
+            "separação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-061",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique o esforço da psicossomática e das abordagens biopsicossociais em relação ao legado dualista.",
+      "modelAnswer": "O esforço atual da psicossomática e das abordagens biopsicossociais consiste em superar a dicotomia cartesiana entre mente e corpo, reconhecendo a integração indissociável entre os processos biológicos, psicológicos e sociais na determinação da saúde e do adoecimento, em vez de tratá-los como esferas separadas.",
+      "keyPoints": [
+        {
+          "text": "Buscam superar a dicotomia mente-corpo",
+          "weight": 0.5,
+          "keywords": [
+            "superar",
+            "dicotomia"
+          ]
+        },
+        {
+          "text": "Reconhecem integração de fatores biológicos, psicológicos e sociais",
+          "weight": 0.5,
+          "keywords": [
+            "biopsicossocial",
+            "integração"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-062",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique como a concepção mecanicista do corpo, proposta por Descartes, contribuiu para o avanço da fisiologia e da anatomia.",
+      "modelAnswer": "Para Descartes, o corpo humano funcionava como uma máquina complexa, cujos movimentos involuntários (reflexos) poderiam ser explicados por princípios puramente físicos, sem intervenção da mente. Essa concepção mecanicista permitiu que o corpo físico fosse dissecado e estudado sem restrições teológicas, impulsionando o avanço da fisiologia e da anatomia.",
+      "keyPoints": [
+        {
+          "text": "Corpo como máquina, reflexos explicados fisicamente",
+          "weight": 0.5,
+          "keywords": [
+            "máquina",
+            "reflexos"
+          ]
+        },
+        {
+          "text": "Permitiu dissecação/estudo sem restrições teológicas",
+          "weight": 0.5,
+          "keywords": [
+            "dissecação",
+            "teológicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-063",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo Figueiredo (2009), como a tentativa de resolver o problema mente-corpo influenciou as matrizes teóricas da psicologia?",
+      "modelAnswer": "Segundo Figueiredo (2009), a tentativa de resolver o problema mente-corpo, formulado por Descartes, gerou diversas posições filosóficas que influenciaram diretamente as matrizes teóricas da psicologia, desde o paralelismo psicofísico até o monismo materialista, moldando as diferentes maneiras de se fazer Psicologia.",
+      "keyPoints": [
+        {
+          "text": "Gerou diversas posições filosóficas (paralelismo psicofísico a monismo materialista)",
+          "weight": 0.6,
+          "keywords": [
+            "paralelismo psicofísico",
+            "monismo materialista"
+          ]
+        },
+        {
+          "text": "Moldou as diferentes matrizes teóricas/maneiras de fazer psicologia",
+          "weight": 0.4,
+          "keywords": [
+            "matrizes teóricas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-064",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Explique a importância da Revolução Científica do século XVII para a futura constituição da psicologia como ciência.",
+      "modelAnswer": "A Revolução Científica alterou a forma de investigar a natureza: o universo passou a ser concebido como uma grande máquina, regida por leis matemáticas e mecânicas descobertas por observação rigorosa e dedução lógica. Esse mecanicismo influenciou a visão sobre os organismos vivos, que passaram a ser estudados sob a ótica da física e da anatomia, preparando o terreno direto para a futura psicologia científica.",
+      "keyPoints": [
+        {
+          "text": "Universo como máquina regida por leis matemáticas/mecânicas",
+          "weight": 0.5,
+          "keywords": [
+            "máquina",
+            "leis matemáticas"
+          ]
+        },
+        {
+          "text": "Mecanicismo passou a orientar o estudo dos organismos vivos",
+          "weight": 0.5,
+          "keywords": [
+            "mecanicismo",
+            "organismos vivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-065",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique os princípios do positivismo de Auguste Comte e o desafio que ele representou para a psicologia.",
+      "modelAnswer": "O positivismo estabelece que o conhecimento autêntico é aquele derivado da observação empírica rigorosa e da formulação de leis universais, rejeitando explicações metafísicas ou teológicas. Isso representou um desafio para a psicologia, cujo objeto de estudo tradicional (mente, consciência, emoções) era subjetivo e inobservável diretamente, exigindo o desenvolvimento de métodos de quantificação e medição para se qualificar como ciência.",
+      "keyPoints": [
+        {
+          "text": "Positivismo: conhecimento da observação empírica e leis universais, rejeita metafísica",
+          "weight": 0.5,
+          "keywords": [
+            "observação empírica",
+            "leis universais"
+          ]
+        },
+        {
+          "text": "Desafio: objeto de estudo subjetivo exigiu quantificação/medição",
+          "weight": 0.5,
+          "keywords": [
+            "subjetivo",
+            "quantificação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-066",
+      "topic": "Positivismo e psicofísica",
+      "question": "Descreva a contribuição de Francis Galton para a introdução da estatística na psicologia.",
+      "modelAnswer": "Francis Galton, influenciado pelas ideias evolutivas de seu primo Charles Darwin, introduziu o uso sistemático da estatística na psicologia. Interessado nas diferenças individuais e na herança de características mentais, desenvolveu testes mentais rudimentares e aplicou métodos estatísticos, como a curva normal e o conceito de correlação, permitindo que características psicológicas fossem quantificadas e comparadas com rigor matemático.",
+      "keyPoints": [
+        {
+          "text": "Introduziu a estatística na psicologia, influenciado por Darwin",
+          "weight": 0.4,
+          "keywords": [
+            "estatística",
+            "Darwin"
+          ]
+        },
+        {
+          "text": "Estudou diferenças individuais/herança mental com testes e curva normal/correlação",
+          "weight": 0.6,
+          "keywords": [
+            "diferenças individuais",
+            "curva normal",
+            "correlação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-067",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique a Lei de Weber-Fechner, incluindo o papel do conceito de 'diferença apenas perceptível' (JND) de Ernst Weber.",
+      "modelAnswer": "Ernst Weber descobriu o conceito de limiar diferencial (JND), demonstrando que a menor diferença detectável entre dois estímulos é uma proporção constante do estímulo original, não um valor absoluto. Gustav Fechner formalizou essa relação na Lei de Weber-Fechner (S = k log R), em que S é a magnitude da sensação, k é uma constante da modalidade sensorial e R é a magnitude do estímulo físico — mostrando que a sensação cresce logaritmicamente, mais devagar que o estímulo.",
+      "keyPoints": [
+        {
+          "text": "Weber: JND, proporção constante do estímulo original",
+          "weight": 0.4,
+          "keywords": [
+            "JND",
+            "proporção constante"
+          ]
+        },
+        {
+          "text": "Fechner: equação S = k log R",
+          "weight": 0.3,
+          "keywords": [
+            "S = k log R"
+          ]
+        },
+        {
+          "text": "Sensação cresce logaritmicamente, mais devagar que o estímulo",
+          "weight": 0.3,
+          "keywords": [
+            "logaritmicamente",
+            "mais devagar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-068",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique por que a Lei de Weber-Fechner é considerada um marco epistemológico para a psicologia científica.",
+      "modelAnswer": "A Lei de Weber-Fechner foi um marco porque, pela primeira vez, provou que fenômenos mentais subjetivos (sensações) poderiam ser medidos e correlacionados de forma matemática e exata com magnitudes físicas (estímulos). Isso atendeu aos critérios positivistas de cientificidade, demonstrando que a relação mente-corpo era passível de investigação quantitativa rigorosa, e não apenas de especulação filosófica.",
+      "keyPoints": [
+        {
+          "text": "Provou que sensações subjetivas podem ser medidas matematicamente",
+          "weight": 0.5,
+          "keywords": [
+            "medidas",
+            "matematicamente"
+          ]
+        },
+        {
+          "text": "Atendeu aos critérios positivistas de cientificidade",
+          "weight": 0.5,
+          "keywords": [
+            "critérios positivistas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-069",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique a relação entre o positivismo e o surgimento posterior do Behaviorismo.",
+      "modelAnswer": "O esforço para adequar a psicologia aos critérios de cientificidade positivistas — objetividade, replicabilidade e formulação de leis preditivas — culminou, mais tarde, no surgimento do Behaviorismo, que propôs a exclusão completa da consciência como objeto de estudo, focando exclusivamente no comportamento observável e mensurável, considerado a solução definitiva para o problema da subjetividade da mente.",
+      "keyPoints": [
+        {
+          "text": "Positivismo exigia objetividade, replicabilidade, leis preditivas",
+          "weight": 0.5,
+          "keywords": [
+            "objetividade",
+            "replicabilidade"
+          ]
+        },
+        {
+          "text": "Behaviorismo excluiu a consciência, focou no comportamento observável",
+          "weight": 0.5,
+          "keywords": [
+            "behaviorismo",
+            "comportamento observável"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-070",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique como a Prática Baseada em Evidências (PBE) reflete a continuidade histórica dos critérios de cientificidade positivistas.",
+      "modelAnswer": "A pessoa profissional que atua com PBE na clínica utiliza intervenções cuja eficácia foi comprovada por meio de estudos controlados e randomizados. Isso reflete a continuidade histórica da busca por rigor científico iniciada pelos pioneiros da psicofísica e da estatística, baseando a prática clínica na validade estatística, no controle de variáveis e na transparência metodológica exigidos desde o positivismo.",
+      "keyPoints": [
+        {
+          "text": "PBE: intervenções comprovadas por estudos controlados/randomizados",
+          "weight": 0.5,
+          "keywords": [
+            "estudos controlados",
+            "randomizados"
+          ]
+        },
+        {
+          "text": "Reflete a busca histórica por rigor científico dos pioneiros da psicofísica/estatística",
+          "weight": 0.5,
+          "keywords": [
+            "rigor científico",
+            "psicofísica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-071",
+      "topic": "Positivismo e psicofísica",
+      "question": "Por que o objeto de estudo tradicional da psicologia representava um obstáculo diante das exigências positivistas de cientificidade?",
+      "modelAnswer": "O objeto de estudo tradicional da psicologia — a mente, a consciência, as emoções — caracterizava-se pela subjetividade e pela inobservabilidade direta, ao passo que o positivismo exigia métodos objetivos, observáveis por múltiplos pesquisadores e passíveis de verificação empírica. Isso gerou o desafio de transformar a experiência interna em um dado objetivo e público.",
+      "keyPoints": [
+        {
+          "text": "Objeto tradicional: subjetivo e inobservável diretamente",
+          "weight": 0.5,
+          "keywords": [
+            "subjetividade",
+            "inobservabilidade"
+          ]
+        },
+        {
+          "text": "Positivismo exige objetividade, observabilidade, verificação empírica",
+          "weight": 0.5,
+          "keywords": [
+            "objetivos",
+            "verificação empírica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-072",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique o significado da constante k na equação da Lei de Weber-Fechner (S = k log R).",
+      "modelAnswer": "Na equação S = k log R, a constante k é específica para cada modalidade sensorial (visão, audição, tato, etc.), refletindo que a relação entre o estímulo físico (R) e a sensação mental (S) varia conforme o tipo de sentido envolvido, embora a forma logarítmica da relação permaneça a mesma.",
+      "keyPoints": [
+        {
+          "text": "k é constante específica para cada modalidade sensorial",
+          "weight": 1,
+          "keywords": [
+            "constante",
+            "modalidade sensorial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-073",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique de que forma a psicofísica funcionou como uma 'ponte metodológica' entre a filosofia especulativa e a psicologia experimental de Wundt.",
+      "modelAnswer": "Antes mesmo de Wundt fundar seu laboratório em 1879, a psicofísica de Fechner e Weber já havia demonstrado, por meio da Lei de Weber-Fechner, que era possível estabelecer relações matemáticas precisas entre estímulos físicos e sensações mentais. Essa demonstração serviu de ponte metodológica, provando que a mente poderia ser objeto de medição científica e abrindo caminho para os métodos experimentais que Wundt viria a adaptar em seu laboratório.",
+      "keyPoints": [
+        {
+          "text": "Psicofísica (Fechner/Weber) precedeu o laboratório de Wundt (1879)",
+          "weight": 0.4,
+          "keywords": [
+            "antes de Wundt",
+            "1879"
+          ]
+        },
+        {
+          "text": "Demonstrou que a mente poderia ser medida matematicamente",
+          "weight": 0.6,
+          "keywords": [
+            "medida",
+            "matematicamente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-074",
+      "topic": "Positivismo e psicofísica",
+      "question": "Explique por que a adoção da matemática e da estatística se tornou o principal critério de cientificidade para a psicologia no contexto positivista.",
+      "modelAnswer": "Diante do desafio de transformar a experiência interna e subjetiva em um dado objetivo e público, a resposta metodológica encontrou suporte na quantificação e na medição. A adoção da matemática e da estatística — por meio de figuras como Galton, Weber e Fechner — permitiu que fenômenos psicológicos fossem tratados com o mesmo rigor aplicado nas ciências exatas, tornando-se assim o principal critério de cientificidade exigido pelo positivismo.",
+      "keyPoints": [
+        {
+          "text": "Quantificação/medição resolveu o desafio da subjetividade",
+          "weight": 0.5,
+          "keywords": [
+            "quantificação",
+            "medição"
+          ]
+        },
+        {
+          "text": "Permitiu tratar fenômenos psicológicos com rigor das ciências exatas",
+          "weight": 0.5,
+          "keywords": [
+            "rigor",
+            "ciências exatas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -8089,6 +10134,473 @@
       "subject": "Funcionalismo e pragmatismo",
       "difficulty": "medio",
       "miniLesson": "Segundo a mente funcionalista, qual é a principal função adaptativa relacionada à seletividade da consciência? Segundo William James, a capacidade de selecionar estímulos relevantes no ambiente e focar a atenção é a principal função adaptativa da mente, permitindo que o indivíduo faça escolhas e aja de forma eficaz diante das demandas do ambiente."
+    },
+    {
+      "id": "fund-oral-055",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "O que significava originalmente o termo 'psique'?",
+      "modelAnswer": "O sopro vital, que com o tempo passou a representar a alma ou a mente.",
+      "keyPoints": [
+        {
+          "text": "Sopro vital",
+          "weight": 1,
+          "keywords": [
+            "sopro vital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "baixo",
+      "miniLesson": "O que significava originalmente o termo 'psique'? O sopro vital, que com o tempo passou a representar a alma ou a mente."
+    },
+    {
+      "id": "fund-oral-056",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Para Aristóteles, qual era a relação entre alma e corpo?",
+      "modelAnswer": "Eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo.",
+      "keyPoints": [
+        {
+          "text": "Inseparáveis, forma e matéria",
+          "weight": 1,
+          "keywords": [
+            "inseparáveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Para Aristóteles, qual era a relação entre alma e corpo? Eram inseparáveis, funcionando como a forma e a matéria de um mesmo ser vivo."
+    },
+    {
+      "id": "fund-oral-057",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Quem propôs que a mente humana era como uma tábula rasa ao nascer?",
+      "modelAnswer": "John Locke.",
+      "keyPoints": [
+        {
+          "text": "John Locke",
+          "weight": 1,
+          "keywords": [
+            "Locke"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Quem propôs que a mente humana era como uma tábula rasa ao nascer? John Locke."
+    },
+    {
+      "id": "fund-oral-058",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Quais são as duas substâncias propostas por Descartes no dualismo interacionista?",
+      "modelAnswer": "Res cogitans (mente) e res extensa (corpo).",
+      "keyPoints": [
+        {
+          "text": "Res cogitans e res extensa",
+          "weight": 1,
+          "keywords": [
+            "res cogitans",
+            "res extensa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as duas substâncias propostas por Descartes no dualismo interacionista? Res cogitans (mente) e res extensa (corpo)."
+    },
+    {
+      "id": "fund-oral-059",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Em qual estrutura cerebral Descartes localizou o ponto de interação entre mente e corpo?",
+      "modelAnswer": "Na glândula pineal.",
+      "keyPoints": [
+        {
+          "text": "Glândula pineal",
+          "weight": 1,
+          "keywords": [
+            "glândula pineal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Em qual estrutura cerebral Descartes localizou o ponto de interação entre mente e corpo? Na glândula pineal."
+    },
+    {
+      "id": "fund-oral-060",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "O que Descartes chamava de 'espíritos animais'?",
+      "modelAnswer": "Fluidos sutis que percorriam os nervos, transmitindo impressões físicas à glândula pineal.",
+      "keyPoints": [
+        {
+          "text": "Fluidos que percorriam os nervos",
+          "weight": 1,
+          "keywords": [
+            "fluidos",
+            "nervos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "O que Descartes chamava de 'espíritos animais'? Fluidos sutis que percorriam os nervos, transmitindo impressões físicas à glândula pineal."
+    },
+    {
+      "id": "fund-oral-061",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Qual dilema epistemológico o dualismo cartesiano criou para a ciência?",
+      "modelAnswer": "Como seria possível estudar cientificamente a mente imaterial, se a ciência exige observação e medição de fenômenos materiais.",
+      "keyPoints": [
+        {
+          "text": "Como estudar cientificamente a mente imaterial",
+          "weight": 1,
+          "keywords": [
+            "mente imaterial",
+            "estudar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Qual dilema epistemológico o dualismo cartesiano criou para a ciência? Como seria possível estudar cientificamente a mente imaterial, se a ciência exige observação e medição de fenômenos materiais."
+    },
+    {
+      "id": "fund-oral-062",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "O que enfatiza o racionalismo como fonte primária do conhecimento?",
+      "modelAnswer": "A razão e a dedução lógica.",
+      "keyPoints": [
+        {
+          "text": "Razão e dedução lógica",
+          "weight": 1,
+          "keywords": [
+            "razão",
+            "dedução lógica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "O que enfatiza o racionalismo como fonte primária do conhecimento? A razão e a dedução lógica."
+    },
+    {
+      "id": "fund-oral-063",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "O que sustenta o empirismo sobre a origem do conhecimento?",
+      "modelAnswer": "Que todo conhecimento deriva da experiência sensorial e da observação empírica.",
+      "keyPoints": [
+        {
+          "text": "Deriva da experiência sensorial",
+          "weight": 1,
+          "keywords": [
+            "experiência sensorial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "O que sustenta o empirismo sobre a origem do conhecimento? Que todo conhecimento deriva da experiência sensorial e da observação empírica."
+    },
+    {
+      "id": "fund-oral-064",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Que esforço científico surgiu no século XIX para superar o impasse dualista e medir a mente?",
+      "modelAnswer": "O desenvolvimento da psicofísica.",
+      "keyPoints": [
+        {
+          "text": "Psicofísica",
+          "weight": 1,
+          "keywords": [
+            "psicofísica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Que esforço científico surgiu no século XIX para superar o impasse dualista e medir a mente? O desenvolvimento da psicofísica."
+    },
+    {
+      "id": "fund-oral-065",
+      "topic": "Positivismo e psicofísica",
+      "question": "Quem formulou o positivismo?",
+      "modelAnswer": "Auguste Comte.",
+      "keyPoints": [
+        {
+          "text": "Auguste Comte",
+          "weight": 1,
+          "keywords": [
+            "Comte"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "baixo",
+      "miniLesson": "Quem formulou o positivismo? Auguste Comte."
+    },
+    {
+      "id": "fund-oral-066",
+      "topic": "Positivismo e psicofísica",
+      "question": "O que o positivismo rejeita como fonte válida de conhecimento?",
+      "modelAnswer": "Explicações metafísicas ou teológicas.",
+      "keyPoints": [
+        {
+          "text": "Explicações metafísicas ou teológicas",
+          "weight": 1,
+          "keywords": [
+            "metafísicas",
+            "teológicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "O que o positivismo rejeita como fonte válida de conhecimento? Explicações metafísicas ou teológicas."
+    },
+    {
+      "id": "fund-oral-067",
+      "topic": "Positivismo e psicofísica",
+      "question": "Quem introduziu o uso sistemático da estatística na psicologia?",
+      "modelAnswer": "Francis Galton.",
+      "keyPoints": [
+        {
+          "text": "Francis Galton",
+          "weight": 1,
+          "keywords": [
+            "Galton"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "16"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Quem introduziu o uso sistemático da estatística na psicologia? Francis Galton."
+    },
+    {
+      "id": "fund-oral-068",
+      "topic": "Positivismo e psicofísica",
+      "question": "Quem descobriu o conceito de 'diferença apenas perceptível' (JND)?",
+      "modelAnswer": "Ernst Weber.",
+      "keyPoints": [
+        {
+          "text": "Ernst Weber",
+          "weight": 1,
+          "keywords": [
+            "Weber"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Quem descobriu o conceito de 'diferença apenas perceptível' (JND)? Ernst Weber."
+    },
+    {
+      "id": "fund-oral-069",
+      "topic": "Positivismo e psicofísica",
+      "question": "Quem formalizou a Lei de Weber-Fechner?",
+      "modelAnswer": "Gustav Fechner.",
+      "keyPoints": [
+        {
+          "text": "Gustav Fechner",
+          "weight": 1,
+          "keywords": [
+            "Fechner"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Quem formalizou a Lei de Weber-Fechner? Gustav Fechner."
+    },
+    {
+      "id": "fund-oral-070",
+      "topic": "Positivismo e psicofísica",
+      "question": "O que representa a letra S na equação S = k log R?",
+      "modelAnswer": "A magnitude da sensação mental.",
+      "keyPoints": [
+        {
+          "text": "Magnitude da sensação mental",
+          "weight": 1,
+          "keywords": [
+            "sensação mental"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "O que representa a letra S na equação S = k log R? A magnitude da sensação mental."
+    },
+    {
+      "id": "fund-oral-071",
+      "topic": "Positivismo e psicofísica",
+      "question": "O que representa a letra R na equação da Lei de Weber-Fechner?",
+      "modelAnswer": "A magnitude do estímulo físico.",
+      "keyPoints": [
+        {
+          "text": "Magnitude do estímulo físico",
+          "weight": 1,
+          "keywords": [
+            "estímulo físico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "O que representa a letra R na equação da Lei de Weber-Fechner? A magnitude do estímulo físico."
+    },
+    {
+      "id": "fund-oral-072",
+      "topic": "Positivismo e psicofísica",
+      "question": "A sensação aumenta de forma mais rápida ou mais lenta do que o estímulo físico, segundo a Lei de Weber-Fechner?",
+      "modelAnswer": "Mais lenta (de forma logarítmica).",
+      "keyPoints": [
+        {
+          "text": "Mais lenta, logarítmica",
+          "weight": 1,
+          "keywords": [
+            "mais lenta",
+            "logarítmica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "A sensação aumenta de forma mais rápida ou mais lenta do que o estímulo físico, segundo a Lei de Weber-Fechner? Mais lenta (de forma logarítmica)."
+    },
+    {
+      "id": "fund-oral-073",
+      "topic": "Positivismo e psicofísica",
+      "question": "Qual escola de pensamento surgiu, mais tarde, como resultado do esforço de adequar a psicologia aos critérios positivistas, excluindo a consciência como objeto de estudo?",
+      "modelAnswer": "O Behaviorismo.",
+      "keyPoints": [
+        {
+          "text": "Behaviorismo",
+          "weight": 1,
+          "keywords": [
+            "behaviorismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Qual escola de pensamento surgiu, mais tarde, como resultado do esforço de adequar a psicologia aos critérios positivistas, excluindo a consciência como objeto de estudo? O Behaviorismo."
+    },
+    {
+      "id": "fund-oral-074",
+      "topic": "Positivismo e psicofísica",
+      "question": "Que prática clínica contemporânea reflete a continuidade dos critérios de cientificidade positivistas, ao basear intervenções em estudos controlados e randomizados?",
+      "modelAnswer": "A Prática Baseada em Evidências (PBE).",
+      "keyPoints": [
+        {
+          "text": "Prática Baseada em Evidências",
+          "weight": 1,
+          "keywords": [
+            "PBE",
+            "evidências"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "17"
+      },
+      "subject": "Positivismo e psicofísica",
+      "difficulty": "medio",
+      "miniLesson": "Que prática clínica contemporânea reflete a continuidade dos critérios de cientificidade positivistas, ao basear intervenções em estudos controlados e randomizados? A Prática Baseada em Evidências (PBE)."
     }
   ]
 }
