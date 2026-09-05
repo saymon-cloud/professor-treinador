@@ -41,3 +41,6 @@ usado pelo app.
 | 33 | Neuroanatomofisiologia | Sistema nervoso autônomo | 2026-09-05 | `8479ae1` |
 | 34 | Neuroanatomofisiologia | Nervos espinhais e plexos | 2026-09-05 | `bc4b16b` |
 | 35 | Neuroanatomofisiologia | Nervos cranianos | 2026-09-05 | `bc4b16b` |
+| 36 | O Estudo do Desenvolvimento Humano | Fundamentos do desenvolvimento humano | 2026-09-05 | `b8a6be1` |
+| 37 | O Estudo do Desenvolvimento Humano | Desenvolvimento neuropsicomotor e vínculo (0-2 anos) | 2026-09-05 | `b8a6be1` |
+| 38 | O Estudo do Desenvolvimento Humano | Neuroplasticidade e privação afetiva | 2026-09-05 | `b8a6be1` |
