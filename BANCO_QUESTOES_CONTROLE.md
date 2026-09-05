@@ -46,3 +46,5 @@ usado pelo app.
 | 38 | O Estudo do Desenvolvimento Humano | Neuroplasticidade e privação afetiva | 2026-09-05 | `b8a6be1` |
 | 39 | Fundamentos Históricos e Epistemológicos da Psicologia | Dualismo e raízes filosóficas | 2026-09-05 | `0c4efbe` |
 | 40 | Fundamentos Históricos e Epistemológicos da Psicologia | Positivismo e psicofísica | 2026-09-05 | `0c4efbe` |
+| 41 | Fundamentos Históricos e Epistemológicos da Psicologia | Revolução cognitiva | 2026-09-05 | `72048b1` |
+| 42 | Fundamentos Históricos e Epistemológicos da Psicologia | TCC e terceira onda | 2026-09-05 | `72048b1` |
