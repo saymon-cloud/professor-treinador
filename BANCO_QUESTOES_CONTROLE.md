@@ -25,3 +25,5 @@ usado pelo app.
 | 17 | O Estudo do Desenvolvimento Humano | Idade adulta e terceira idade | 2026-09-04 | `e5cbd7f` |
 | 18 | Neuroanatomofisiologia | Medula espinhal | 2026-09-04 | `6d71517` |
 | 19 | Neuroanatomofisiologia | Cerebelo | 2026-09-04 | `6d71517` |
+| 20 | Neuroanatomofisiologia | Tronco encefálico | 2026-09-04 | `4416707` |
+| 21 | Neuroanatomofisiologia | Diencéfalo e núcleos da base | 2026-09-04 | `4416707` |
