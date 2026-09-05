@@ -6423,6 +6423,1326 @@
       "subject": "TCC e terceira onda",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a Terapia Cognitivo-Comportamental (TCC) representa um movimento de integração surgido a partir do impacto da revolução cognitiva sobre: A revolução cognitiva na pesquisa básica teve um impacto profundo na prática clínica, gerando um movimento de integração entre cognição e comportamento que deu origem à TCC."
+    },
+    {
+      "id": "fund-obj-293",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, na psicologia americana das primeiras décadas do século XX, o estruturalismo e o funcionalismo, apesar de suas diferenças, compartilhavam um objeto de estudo comum:",
+      "options": {
+        "a": "A consciência",
+        "b": "O comportamento observável exclusivamente",
+        "c": "O inconsciente exclusivamente",
+        "d": "As contingências ambientais exclusivamente",
+        "e": "A linguagem exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O estruturalismo e o funcionalismo, embora com métodos diferentes, compartilhavam um objeto de estudo comum: a consciência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na psicologia americana das primeiras décadas do século XX, o estruturalismo e o funcionalismo, apesar de suas diferenças, compartilhavam um objeto de estudo comum: O estruturalismo e o funcionalismo, embora com métodos diferentes, compartilhavam um objeto de estudo comum: a consciência."
+    },
+    {
+      "id": "fund-obj-294",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o método introspectivo, adotado pelo estruturalismo e pelo funcionalismo, gerava dados que eram:",
+      "options": {
+        "a": "Subjetivos, difíceis de replicar e impossíveis de verificar por observadores independentes",
+        "b": "Totalmente objetivos e facilmente replicáveis",
+        "c": "Verificáveis por qualquer observador externo sem qualquer dificuldade",
+        "d": "Isentos de qualquer viés subjetivo",
+        "e": "Idênticos aos dados obtidos por meio de eletroencefalograma"
+      },
+      "correct": "a",
+      "explanation": "O método introspectivo exigia que sujeitos treinados relatassem suas experiências internas, um processo que gerava dados subjetivos, difíceis de replicar e impossíveis de verificar por observadores independentes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o método introspectivo, adotado pelo estruturalismo e pelo funcionalismo, gerava dados que eram: O método introspectivo exigia que sujeitos treinados relatassem suas experiências internas, um processo que gerava dados subjetivos, difíceis de replicar e impossíveis de verificar por observadores independentes."
+    },
+    {
+      "id": "fund-obj-295",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, John B. Watson publicou, em 1913, um artigo que ficaria conhecido como:",
+      "options": {
+        "a": "O manifesto behaviorista",
+        "b": "A Epistemologia Genética",
+        "c": "O Comportamento Verbal",
+        "d": "Matrizes do Pensamento Psicológico",
+        "e": "A Estrutura das Revoluções Científicas"
+      },
+      "correct": "a",
+      "explanation": "Watson publicou, em 1913, um artigo que ficaria conhecido como o manifesto behaviorista.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, John B. Watson publicou, em 1913, um artigo que ficaria conhecido como: Watson publicou, em 1913, um artigo que ficaria conhecido como o manifesto behaviorista."
+    },
+    {
+      "id": "fund-obj-296",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a proposta de Watson era de que, se a psicologia desejava o status de ciência natural, ela deveria:",
+      "options": {
+        "a": "Abandonar por completo o estudo da consciência e da mente, focando no comportamento observável",
+        "b": "Ampliar ainda mais o método introspectivo",
+        "c": "Adotar exclusivamente a psicanálise como método",
+        "d": "Manter o foco exclusivo na estrutura da consciência",
+        "e": "Priorizar o estudo da utilidade adaptativa da mente"
+      },
+      "correct": "a",
+      "explanation": "Watson propôs que, para alcançar o status de ciência natural, a psicologia deveria abandonar por completo o estudo da consciência e da mente, focando no comportamento observável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a proposta de Watson era de que, se a psicologia desejava o status de ciência natural, ela deveria: Watson propôs que, para alcançar o status de ciência natural, a psicologia deveria abandonar por completo o estudo da consciência e da mente, focando no comportamento observável."
+    },
+    {
+      "id": "fund-obj-297",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo Goodwin (2017), citado no material, Watson argumentava que conceitos como 'sensação', 'percepção' e 'desejo' eram:",
+      "options": {
+        "a": "Resquícios de um pensamento filosófico ultrapassado, sem lugar em uma ciência empírica rigorosa",
+        "b": "Os únicos conceitos válidos para uma ciência rigorosa",
+        "c": "Fundamentais e insubstituíveis para qualquer teoria psicológica",
+        "d": "Comprovados empiricamente pelo método introspectivo",
+        "e": "Compatíveis com o modelo Estímulo-Resposta sem qualquer ressalva"
+      },
+      "correct": "a",
+      "explanation": "Watson argumentava que conceitos como 'sensação', 'percepção' e 'desejo' eram resquícios de um pensamento filosófico ultrapassado, sem lugar em uma ciência empírica rigorosa.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Goodwin (2017), citado no material, Watson argumentava que conceitos como 'sensação', 'percepção' e 'desejo' eram: Watson argumentava que conceitos como 'sensação', 'percepção' e 'desejo' eram resquícios de um pensamento filosófico ultrapassado, sem lugar em uma ciência empírica rigorosa."
+    },
+    {
+      "id": "fund-obj-298",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a base filosófica que sustentava a proposta de Watson era:",
+      "options": {
+        "a": "O positivismo de Auguste Comte",
+        "b": "O racionalismo de Descartes",
+        "c": "A fenomenologia existencial",
+        "d": "A epistemologia genética de Piaget",
+        "e": "O empirismo de David Hume exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A base filosófica que sustentava a proposta de Watson era o positivismo de Auguste Comte, que defendia que o conhecimento autêntico só poderia derivar da observação pública e de fatos mensuráveis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a base filosófica que sustentava a proposta de Watson era: A base filosófica que sustentava a proposta de Watson era o positivismo de Auguste Comte, que defendia que o conhecimento autêntico só poderia derivar da observação pública e de fatos mensuráveis."
+    },
+    {
+      "id": "fund-obj-299",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o behaviorismo metodológico baseava-se na premissa de que os eventos privados (pensamentos e sentimentos):",
+      "options": {
+        "a": "Poderiam até existir, mas não poderiam ser objeto de estudo científico por não serem acessíveis à observação direta de terceiros",
+        "b": "Não existiam de forma alguma",
+        "c": "Eram os únicos objetos válidos de estudo científico",
+        "d": "Deveriam ser estudados exclusivamente por meio da introspecção rigorosa",
+        "e": "Determinavam exclusivamente todo o comportamento observável, sem qualquer influência ambiental"
+      },
+      "correct": "a",
+      "explanation": "O behaviorismo metodológico baseava-se na premissa de que os eventos privados poderiam até existir, mas não poderiam ser objeto de estudo científico por não serem acessíveis à observação direta de terceiros.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o behaviorismo metodológico baseava-se na premissa de que os eventos privados (pensamentos e sentimentos): O behaviorismo metodológico baseava-se na premissa de que os eventos privados poderiam até existir, mas não poderiam ser objeto de estudo científico por não serem acessíveis à observação direta de terceiros."
+    },
+    {
+      "id": "fund-obj-300",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o núcleo do behaviorismo metodológico reside no modelo Estímulo-Resposta, abreviado como:",
+      "options": {
+        "a": "S-R",
+        "b": "A-B-C",
+        "c": "EI-RI",
+        "d": "EC-RC",
+        "e": "I-O"
+      },
+      "correct": "a",
+      "explanation": "O núcleo do behaviorismo metodológico reside no modelo Estímulo-Resposta, abreviado como S-R (do inglês, Stimulus-Response).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o núcleo do behaviorismo metodológico reside no modelo Estímulo-Resposta, abreviado como: O núcleo do behaviorismo metodológico reside no modelo Estímulo-Resposta, abreviado como S-R (do inglês, Stimulus-Response)."
+    },
+    {
+      "id": "fund-obj-301",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, Watson postulava que todo comportamento, por mais complexo que parecesse, poderia ser reduzido a:",
+      "options": {
+        "a": "Cadeias de reações fisiológicas e musculares desencadeadas por eventos ambientais",
+        "b": "Processos exclusivamente inconscientes e inacessíveis",
+        "c": "Estruturas cognitivas inatas e universais",
+        "d": "Esquemas de reforçamento intermitente exclusivamente",
+        "e": "Reflexos condicionados impossíveis de serem modificados"
+      },
+      "correct": "a",
+      "explanation": "Watson postulava que todo comportamento, por mais complexo que parecesse, poderia ser reduzido a cadeias de reações fisiológicas e musculares desencadeadas por eventos ambientais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Watson postulava que todo comportamento, por mais complexo que parecesse, poderia ser reduzido a: Watson postulava que todo comportamento, por mais complexo que parecesse, poderia ser reduzido a cadeias de reações fisiológicas e musculares desencadeadas por eventos ambientais."
+    },
+    {
+      "id": "fund-obj-302",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no experimento mais notório de Watson, envolvendo o condicionamento do medo em um bebê, o pesquisador apresentou um rato branco à criança e passou a associar sua presença a:",
+      "options": {
+        "a": "Um som alto e estridente, provocado pela batida de um martelo em uma barra de metal",
+        "b": "Um cheiro desagradável de origem química",
+        "c": "Um choque elétrico de baixa intensidade",
+        "d": "Uma luz muito intensa e ofuscante",
+        "e": "Uma temperatura extremamente baixa no ambiente"
+      },
+      "correct": "a",
+      "explanation": "Watson associou a presença do rato branco a um som alto e estridente, provocado pela batida de um martelo em uma barra de metal atrás da cabeça da criança.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no experimento mais notório de Watson, envolvendo o condicionamento do medo em um bebê, o pesquisador apresentou um rato branco à criança e passou a associar sua presença a: Watson associou a presença do rato branco a um som alto e estridente, provocado pela batida de um martelo em uma barra de metal atrás da cabeça da criança."
+    },
+    {
+      "id": "fund-obj-303",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, após algumas repetições no experimento do pequeno Albert, o bebê passou a chorar e a demonstrar medo apenas ao ver o rato branco, mesmo:",
+      "options": {
+        "a": "Na ausência do som",
+        "b": "Na presença constante e simultânea do som",
+        "c": "Apenas quando o som era muito mais intenso do que o original",
+        "d": "Somente após um ano de intervalo entre as sessões",
+        "e": "Exclusivamente sob supervisão médica direta"
+      },
+      "correct": "a",
+      "explanation": "Após algumas repetições, o bebê passou a chorar e a demonstrar medo apenas ao ver o rato branco, mesmo na ausência do som.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após algumas repetições no experimento do pequeno Albert, o bebê passou a chorar e a demonstrar medo apenas ao ver o rato branco, mesmo: Após algumas repetições, o bebê passou a chorar e a demonstrar medo apenas ao ver o rato branco, mesmo na ausência do som."
+    },
+    {
+      "id": "fund-obj-304",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o experimento do pequeno Albert, embora hoje seja considerado inaceitável sob os padrões da ética científica contemporânea, demonstrou que:",
+      "options": {
+        "a": "Uma reação emocional complexa poderia ser instalada por meio do controle rigoroso do ambiente",
+        "b": "As emoções humanas eram fenômenos puramente inatos, sem qualquer influência ambiental",
+        "c": "O medo não poderia, de forma alguma, ser generalizado para outros estímulos",
+        "d": "A introspecção era o único método válido para estudar emoções",
+        "e": "Crianças não conseguem desenvolver respostas de medo condicionadas"
+      },
+      "correct": "a",
+      "explanation": "O estudo cumpriu o objetivo de Watson de demonstrar que uma reação emocional complexa poderia ser instalada por meio do controle rigoroso do ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o experimento do pequeno Albert, embora hoje seja considerado inaceitável sob os padrões da ética científica contemporânea, demonstrou que: O estudo cumpriu o objetivo de Watson de demonstrar que uma reação emocional complexa poderia ser instalada por meio do controle rigoroso do ambiente."
+    },
+    {
+      "id": "fund-obj-305",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, além de demonstrar o condicionamento do medo, Watson observou que o medo da criança se generalizou para outros objetos:",
+      "options": {
+        "a": "Peludos, como um coelho e um casaco de pele",
+        "b": "Metálicos, como talheres e ferramentas",
+        "c": "Coloridos, especialmente objetos vermelhos",
+        "d": "Sonoros, como instrumentos musicais",
+        "e": "Líquidos, como água e outros fluidos"
+      },
+      "correct": "a",
+      "explanation": "Watson observou que o medo da criança se generalizou para outros objetos peludos, como um coelho e um casaco de pele.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além de demonstrar o condicionamento do medo, Watson observou que o medo da criança se generalizou para outros objetos: Watson observou que o medo da criança se generalizou para outros objetos peludos, como um coelho e um casaco de pele."
+    },
+    {
+      "id": "fund-obj-306",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo Watson (1913), citado por Schultz e Schultz (2019), a psicologia, tal como o behaviorista a vê, é um ramo puramente objetivo e experimental da ciência natural, cujo objetivo teórico é:",
+      "options": {
+        "a": "A previsão e o controle do comportamento",
+        "b": "A descrição da estrutura da consciência",
+        "c": "A interpretação de conteúdos inconscientes",
+        "d": "A compreensão da utilidade adaptativa da mente exclusivamente",
+        "e": "A catalogação de sensações e afetos"
+      },
+      "correct": "a",
+      "explanation": "Segundo Watson (1913), a psicologia, tal como o behaviorista a vê, é um ramo puramente objetivo e experimental da ciência natural, cujo objetivo teórico é a previsão e o controle do comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Watson (1913), citado por Schultz e Schultz (2019), a psicologia, tal como o behaviorista a vê, é um ramo puramente objetivo e experimental da ciência natural, cujo objetivo teórico é: Segundo Watson (1913), a psicologia, tal como o behaviorista a vê, é um ramo puramente objetivo e experimental da ciência natural, cujo objetivo teórico é a previsão e o controle do comportamento."
+    },
+    {
+      "id": "fund-obj-307",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a visão de Watson sobre a maleabilidade do comportamento humano era extrema, defendendo um:",
+      "options": {
+        "a": "Ambientalismo radical, sugerindo que as características inatas e genéticas tinham pouca ou nenhuma influência sobre o desenvolvimento humano",
+        "b": "Inatismo radical, defendendo que apenas a genética determina o comportamento",
+        "c": "Dualismo cartesiano, separando radicalmente mente e corpo",
+        "d": "Monismo materialista, reduzindo o comportamento a processos exclusivamente neuroquímicos",
+        "e": "Relativismo cultural, sem qualquer interesse pelo ambiente físico"
+      },
+      "correct": "a",
+      "explanation": "Watson defendia um ambientalismo radical, sugerindo que as características inatas e genéticas tinham pouca ou nenhuma influência sobre o desenvolvimento humano em comparação com a força do ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a visão de Watson sobre a maleabilidade do comportamento humano era extrema, defendendo um: Watson defendia um ambientalismo radical, sugerindo que as características inatas e genéticas tinham pouca ou nenhuma influência sobre o desenvolvimento humano em comparação com a força do ambiente."
+    },
+    {
+      "id": "fund-obj-308",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, na realidade profissional, os princípios do behaviorismo metodológico estabeleceram a base para:",
+      "options": {
+        "a": "As primeiras formas de terapia comportamental",
+        "b": "Exclusivamente a psicanálise clínica",
+        "c": "Exclusivamente a psicometria de traços de personalidade",
+        "d": "Exclusivamente a neuropsicologia cognitiva",
+        "e": "Exclusivamente a terapia centrada na pessoa"
+      },
+      "correct": "a",
+      "explanation": "Na realidade profissional, os princípios do behaviorismo metodológico estabeleceram a base para as primeiras formas de terapia comportamental.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na realidade profissional, os princípios do behaviorismo metodológico estabeleceram a base para: Na realidade profissional, os princípios do behaviorismo metodológico estabeleceram a base para as primeiras formas de terapia comportamental."
+    },
+    {
+      "id": "fund-obj-309",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a ideia de que comportamentos disfuncionais são aprendidos e, portanto, podem ser desaprendidos, orientou o desenvolvimento de:",
+      "options": {
+        "a": "Técnicas de modificação de comportamento",
+        "b": "Exclusivamente testes projetivos de personalidade",
+        "c": "Exclusivamente análises de sonhos",
+        "d": "Exclusivamente escalas de inteligência",
+        "e": "Exclusivamente entrevistas não estruturadas"
+      },
+      "correct": "a",
+      "explanation": "A ideia de que comportamentos disfuncionais são aprendidos e podem ser desaprendidos orientou o desenvolvimento de técnicas de modificação de comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ideia de que comportamentos disfuncionais são aprendidos e, portanto, podem ser desaprendidos, orientou o desenvolvimento de: A ideia de que comportamentos disfuncionais são aprendidos e podem ser desaprendidos orientou o desenvolvimento de técnicas de modificação de comportamento."
+    },
+    {
+      "id": "fund-obj-310",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, um profissional de psicologia que atua na elaboração de campanhas de saúde pública, buscando associar hábitos saudáveis a estímulos positivos no ambiente urbano, utiliza princípios de associação que têm suas raízes:",
+      "options": {
+        "a": "Nas proposições iniciais de Watson e na busca por uma ciência voltada à previsão e ao controle",
+        "b": "Exclusivamente na psicanálise freudiana",
+        "c": "Exclusivamente na Gestalt-terapia",
+        "d": "Exclusivamente na fenomenologia existencial",
+        "e": "Exclusivamente no funcionalismo de William James"
+      },
+      "correct": "a",
+      "explanation": "Um profissional que associa hábitos saudáveis a estímulos positivos utiliza princípios de associação com raízes nas proposições iniciais de Watson.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um profissional de psicologia que atua na elaboração de campanhas de saúde pública, buscando associar hábitos saudáveis a estímulos positivos no ambiente urbano, utiliza princípios de associação que têm suas raízes: Um profissional que associa hábitos saudáveis a estímulos positivos utiliza princípios de associação com raízes nas proposições iniciais de Watson."
+    },
+    {
+      "id": "fund-obj-311",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, os pioneiros do estudo do comportamento estabeleceram novos critérios de cientificidade ao propor que a psicologia deveria se alinhar às ciências naturais, como a física e a biologia; esses critérios tornaram-se os pilares da pesquisa: observação rigorosa, controle de variáveis e:",
+      "options": {
+        "a": "Previsibilidade",
+        "b": "Introspecção livre",
+        "c": "Interpretação simbólica",
+        "d": "Escuta clínica não diretiva",
+        "e": "Associação livre de ideias"
+      },
+      "correct": "a",
+      "explanation": "A observação rigorosa, o controle de variáveis e a previsibilidade tornaram-se os pilares da pesquisa alinhada aos critérios de cientificidade das ciências naturais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os pioneiros do estudo do comportamento estabeleceram novos critérios de cientificidade ao propor que a psicologia deveria se alinhar às ciências naturais, como a física e a biologia; esses critérios tornaram-se os pilares da pesquisa: observação rigorosa, controle de variáveis e: A observação rigorosa, o controle de variáveis e a previsibilidade tornaram-se os pilares da pesquisa alinhada aos critérios de cientificidade das ciências naturais."
+    },
+    {
+      "id": "fund-obj-312",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, imagine a revolução causada nos laboratórios da época: em vez de pedir que as pessoas relatassem suas sensações subjetivas diante de um estímulo, os cientistas passaram a:",
+      "options": {
+        "a": "Registrar as respostas motoras e fisiológicas diretas, criando um corpo de dados robusto e passível de verificação pública",
+        "b": "Ignorar completamente qualquer resposta do organismo",
+        "c": "Depender exclusivamente de relatos verbais subjetivos ainda mais detalhados",
+        "d": "Eliminar qualquer forma de registro de dados",
+        "e": "Focar exclusivamente em processos digestivos dos participantes"
+      },
+      "correct": "a",
+      "explanation": "Os cientistas passaram a registrar as respostas motoras e fisiológicas diretas, criando um corpo de dados robusto e passível de verificação pública, em vez de depender de relatos subjetivos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, imagine a revolução causada nos laboratórios da época: em vez de pedir que as pessoas relatassem suas sensações subjetivas diante de um estímulo, os cientistas passaram a: Os cientistas passaram a registrar as respostas motoras e fisiológicas diretas, criando um corpo de dados robusto e passível de verificação pública, em vez de depender de relatos subjetivos."
+    },
+    {
+      "id": "fund-obj-313",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no contexto profissional contemporâneo, a herança da tradição behaviorista inclui as intervenções em transtornos do neurodesenvolvimento, a estruturação de programas de treinamento em organizações e:",
+      "options": {
+        "a": "As técnicas de dessensibilização para fobias",
+        "b": "Exclusivamente a psicanálise de orientação lacaniana",
+        "c": "Exclusivamente testes de inteligência não verbais",
+        "d": "Exclusivamente a hipnose clínica",
+        "e": "Exclusivamente a arteterapia"
+      },
+      "correct": "a",
+      "explanation": "A herança da tradição behaviorista inclui intervenções em transtornos do neurodesenvolvimento, programas de treinamento organizacional e técnicas de dessensibilização para fobias.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no contexto profissional contemporâneo, a herança da tradição behaviorista inclui as intervenções em transtornos do neurodesenvolvimento, a estruturação de programas de treinamento em organizações e: A herança da tradição behaviorista inclui intervenções em transtornos do neurodesenvolvimento, programas de treinamento organizacional e técnicas de dessensibilização para fobias."
+    },
+    {
+      "id": "fund-obj-314",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a proposta de Watson pode ser considerada radical em seu contexto histórico porque abandonou o estudo de processos internos não observáveis para focar de modo exclusivo:",
+      "options": {
+        "a": "Naquilo que pode ser medido, quantificado e testado em laboratório",
+        "b": "Nas experiências subjetivas relatadas livremente pelos participantes",
+        "c": "Nas estruturas inconscientes da personalidade",
+        "d": "Na herança genética exclusivamente, sem qualquer influência ambiental",
+        "e": "Nos processos cognitivos de tomada de decisão"
+      },
+      "correct": "a",
+      "explanation": "A proposta radical de Watson consistia em abandonar o estudo de processos internos não observáveis, focando exclusivamente naquilo que pode ser medido, quantificado e testado em laboratório.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a proposta de Watson pode ser considerada radical em seu contexto histórico porque abandonou o estudo de processos internos não observáveis para focar de modo exclusivo: A proposta radical de Watson consistia em abandonar o estudo de processos internos não observáveis, focando exclusivamente naquilo que pode ser medido, quantificado e testado em laboratório."
+    },
+    {
+      "id": "fund-obj-315",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o mercado de trabalho contemporâneo exige profissionais com capacidade para desenhar avaliações funcionais precisas e identificar contingências ambientais, habilidades que dependem do domínio profundo:",
+      "options": {
+        "a": "Das bases históricas e epistemológicas do behaviorismo",
+        "b": "Exclusivamente da psicanálise clássica",
+        "c": "Exclusivamente da fenomenologia husserliana",
+        "d": "Exclusivamente do estruturalismo de Titchener",
+        "e": "Exclusivamente da epistemologia genética de Piaget"
+      },
+      "correct": "a",
+      "explanation": "O domínio profundo das bases históricas e epistemológicas do behaviorismo é necessário para desenhar avaliações funcionais precisas e identificar contingências ambientais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o mercado de trabalho contemporâneo exige profissionais com capacidade para desenhar avaliações funcionais precisas e identificar contingências ambientais, habilidades que dependem do domínio profundo: O domínio profundo das bases históricas e epistemológicas do behaviorismo é necessário para desenhar avaliações funcionais precisas e identificar contingências ambientais."
+    },
+    {
+      "id": "fund-obj-316",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, ao contrário da introspecção, que exigia relatos subjetivos, o behaviorismo de Watson exigia que a ciência focasse apenas:",
+      "options": {
+        "a": "Na relação entre os estímulos do ambiente e as respostas do organismo",
+        "b": "Nas experiências conscientes imediatas relatadas livremente",
+        "c": "Nos conteúdos simbólicos dos sonhos",
+        "d": "Nas estruturas mentais inatas e universais",
+        "e": "Nas emoções subjetivas não observáveis"
+      },
+      "correct": "a",
+      "explanation": "O behaviorismo metodológico defendia que a ciência deveria focar apenas na relação entre os estímulos do ambiente e as respostas do organismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao contrário da introspecção, que exigia relatos subjetivos, o behaviorismo de Watson exigia que a ciência focasse apenas: O behaviorismo metodológico defendia que a ciência deveria focar apenas na relação entre os estímulos do ambiente e as respostas do organismo."
+    },
+    {
+      "id": "fund-obj-317",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a tarefa do pesquisador behaviorista, segundo o modelo Estímulo-Resposta, consistia em identificar o estímulo que causava uma determinada resposta ou, de forma inversa:",
+      "options": {
+        "a": "Dada uma resposta, determinar qual estímulo a havia provocado",
+        "b": "Ignorar completamente qualquer relação causal entre estímulo e resposta",
+        "c": "Determinar exclusivamente a estrutura genética do organismo",
+        "d": "Analisar exclusivamente os conteúdos inconscientes da resposta",
+        "e": "Classificar a resposta exclusivamente em termos morais"
+      },
+      "correct": "a",
+      "explanation": "A tarefa do pesquisador consistia em identificar o estímulo que causava uma resposta ou, de forma inversa, dada uma resposta, determinar qual estímulo a havia provocado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a tarefa do pesquisador behaviorista, segundo o modelo Estímulo-Resposta, consistia em identificar o estímulo que causava uma determinada resposta ou, de forma inversa: A tarefa do pesquisador consistia em identificar o estímulo que causava uma resposta ou, de forma inversa, dada uma resposta, determinar qual estímulo a havia provocado."
+    },
+    {
+      "id": "fund-obj-318",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, para provar suas teorias, Watson conduziu experimentos que buscavam demonstrar que as emoções humanas, consideradas até então fenômenos puramente internos e inatos, eram na verdade:",
+      "options": {
+        "a": "Respostas condicionadas pelo ambiente",
+        "b": "Fenômenos exclusivamente hereditários, sem influência ambiental",
+        "c": "Processos totalmente inacessíveis a qualquer investigação",
+        "d": "Estruturas inatas imutáveis ao longo da vida",
+        "e": "Fenômenos exclusivamente ligados à digestão"
+      },
+      "correct": "a",
+      "explanation": "Watson buscava demonstrar que as emoções humanas, consideradas fenômenos puramente internos e inatos, eram na verdade respostas condicionadas pelo ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para provar suas teorias, Watson conduziu experimentos que buscavam demonstrar que as emoções humanas, consideradas até então fenômenos puramente internos e inatos, eram na verdade: Watson buscava demonstrar que as emoções humanas, consideradas fenômenos puramente internos e inatos, eram na verdade respostas condicionadas pelo ambiente."
+    },
+    {
+      "id": "fund-obj-319",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a visão de Watson sobre a maleabilidade do comportamento humano teve um impacto profundo na sociedade americana, influenciando práticas de:",
+      "options": {
+        "a": "Educação infantil e métodos de publicidade",
+        "b": "Exclusivamente medicina cirúrgica",
+        "c": "Exclusivamente arquitetura urbana",
+        "d": "Exclusivamente direito penal",
+        "e": "Exclusivamente astronomia"
+      },
+      "correct": "a",
+      "explanation": "O ambientalismo radical de Watson teve impacto profundo na sociedade americana, influenciando práticas de educação infantil e métodos de publicidade.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a visão de Watson sobre a maleabilidade do comportamento humano teve um impacto profundo na sociedade americana, influenciando práticas de: O ambientalismo radical de Watson teve impacto profundo na sociedade americana, influenciando práticas de educação infantil e métodos de publicidade."
+    },
+    {
+      "id": "fund-obj-320",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, Watson argumentava que a psicologia deveria abandonar o estudo da mente e focar no comportamento observável, definindo este último como o objeto de estudo adequado para a psicologia científica, em oposição a:",
+      "options": {
+        "a": "A estrutura da consciência analisada por meio de relatos introspectivos rigorosos",
+        "b": "As contingências de reforçamento operante",
+        "c": "Os esquemas cognitivos de processamento de informação",
+        "d": "As pulsões inconscientes investigadas pela escuta clínica",
+        "e": "Os mapas cognitivos formados pela experiência espacial"
+      },
+      "correct": "a",
+      "explanation": "O behaviorismo metodológico definiu o comportamento observável como objeto de estudo, em oposição à estrutura da consciência analisada por relatos introspectivos, método próprio do estruturalismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "12"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Watson argumentava que a psicologia deveria abandonar o estudo da mente e focar no comportamento observável, definindo este último como o objeto de estudo adequado para a psicologia científica, em oposição a: O behaviorismo metodológico definiu o comportamento observável como objeto de estudo, em oposição à estrutura da consciência analisada por relatos introspectivos, método próprio do estruturalismo."
+    },
+    {
+      "id": "fund-obj-321",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, na equação Estímulo-Resposta (S-R) de Watson, a letra 'S' corresponde ao termo em inglês:",
+      "options": {
+        "a": "Stimulus",
+        "b": "Sensation",
+        "c": "Structure",
+        "d": "Subject",
+        "e": "Society"
+      },
+      "correct": "a",
+      "explanation": "Na abreviação S-R (Stimulus-Response), a letra S corresponde a 'Stimulus' (estímulo).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, na equação Estímulo-Resposta (S-R) de Watson, a letra 'S' corresponde ao termo em inglês: Na abreviação S-R (Stimulus-Response), a letra S corresponde a 'Stimulus' (estímulo)."
+    },
+    {
+      "id": "fund-obj-322",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o experimento do pequeno Albert é frequentemente citado na literatura de Psicologia como um exemplo histórico de:",
+      "options": {
+        "a": "Condicionamento de uma resposta emocional complexa (medo) por meio do controle rigoroso do ambiente experimental",
+        "b": "Aplicação bem-sucedida e eticamente exemplar dos princípios de pesquisa com crianças",
+        "c": "Comprovação de que emoções são exclusivamente inatas e não sofrem qualquer influência ambiental",
+        "d": "Refutação definitiva do modelo Estímulo-Resposta proposto pelo próprio Watson",
+        "e": "Demonstração de que a introspecção é o método mais adequado para estudar emoções infantis"
+      },
+      "correct": "a",
+      "explanation": "O experimento do pequeno Albert é um exemplo histórico de condicionamento de uma resposta emocional complexa (o medo) por meio do controle rigoroso do ambiente experimental, embora hoje seja considerado eticamente inaceitável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o experimento do pequeno Albert é frequentemente citado na literatura de Psicologia como um exemplo histórico de: O experimento do pequeno Albert é um exemplo histórico de condicionamento de uma resposta emocional complexa (o medo) por meio do controle rigoroso do ambiente experimental, embora hoje seja considerado eticamente inaceitável."
+    },
+    {
+      "id": "fund-obj-323",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, enquanto Watson formulava as bases teóricas do behaviorismo nos Estados Unidos, as evidências empíricas mais robustas sobre a aprendizagem associativa surgiam:",
+      "options": {
+        "a": "Na Rússia, nos laboratórios de fisiologia de Ivan Pavlov",
+        "b": "Na Inglaterra, nos laboratórios de Francis Galton",
+        "c": "Na Alemanha, no laboratório de Wilhelm Wundt",
+        "d": "Nos Estados Unidos, no laboratório de John Dewey",
+        "e": "Na França, no laboratório de René Descartes"
+      },
+      "correct": "a",
+      "explanation": "As evidências empíricas mais robustas sobre a aprendizagem associativa surgiam na Rússia, nos laboratórios de fisiologia de Ivan Pavlov.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, enquanto Watson formulava as bases teóricas do behaviorismo nos Estados Unidos, as evidências empíricas mais robustas sobre a aprendizagem associativa surgiam: As evidências empíricas mais robustas sobre a aprendizagem associativa surgiam na Rússia, nos laboratórios de fisiologia de Ivan Pavlov."
+    },
+    {
+      "id": "fund-obj-324",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, Pavlov não era psicólogo, mas sim um fisiologista dedicado ao estudo:",
+      "options": {
+        "a": "Do sistema digestivo, trabalho que lhe rendeu o Prêmio Nobel",
+        "b": "Do sistema nervoso central exclusivamente",
+        "c": "Do sistema circulatório exclusivamente",
+        "d": "Da genética exclusivamente",
+        "e": "Da linguagem exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Pavlov não era psicólogo, mas sim um fisiologista dedicado ao estudo do sistema digestivo, trabalho que lhe rendeu o Prêmio Nobel.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Pavlov não era psicólogo, mas sim um fisiologista dedicado ao estudo: Pavlov não era psicólogo, mas sim um fisiologista dedicado ao estudo do sistema digestivo, trabalho que lhe rendeu o Prêmio Nobel."
+    },
+    {
+      "id": "fund-obj-325",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, foi durante suas pesquisas sobre a salivação de cães que Pavlov observou um fenômeno intrigante: os animais começavam a salivar antes mesmo de receberem o alimento, bastando:",
+      "options": {
+        "a": "Ouvir os passos do assistente de laboratório ou ver o prato de comida",
+        "b": "Sentir qualquer cheiro no ambiente do laboratório",
+        "c": "Ser tocados pelo pesquisador em qualquer parte do corpo",
+        "d": "Ouvir qualquer som alto no ambiente externo",
+        "e": "Ver qualquer objeto de cor vermelha"
+      },
+      "correct": "a",
+      "explanation": "Pavlov observou que os cães começavam a salivar antes mesmo de receberem o alimento, bastando ouvir os passos do assistente de laboratório ou ver o prato de comida.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, foi durante suas pesquisas sobre a salivação de cães que Pavlov observou um fenômeno intrigante: os animais começavam a salivar antes mesmo de receberem o alimento, bastando: Pavlov observou que os cães começavam a salivar antes mesmo de receberem o alimento, bastando ouvir os passos do assistente de laboratório ou ver o prato de comida."
+    },
+    {
+      "id": "fund-obj-326",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, Pavlov chamou inicialmente o fenômeno da salivação antecipatória de:",
+      "options": {
+        "a": "'Secreção psíquica'",
+        "b": "'Reflexo condicionado' exclusivamente desde o início",
+        "c": "'Comportamento operante'",
+        "d": "'Resposta incondicionada pura'",
+        "e": "'Estímulo neutro ativo'"
+      },
+      "correct": "a",
+      "explanation": "Pavlov chamou o fenômeno, no início, de 'secreção psíquica', reconhecendo que não era um erro experimental, mas um processo fundamental de adaptação do organismo ao ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Pavlov chamou inicialmente o fenômeno da salivação antecipatória de: Pavlov chamou o fenômeno, no início, de 'secreção psíquica', reconhecendo que não era um erro experimental, mas um processo fundamental de adaptação do organismo ao ambiente."
+    },
+    {
+      "id": "fund-obj-327",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o paradigma criado por Pavlov, a partir de suas investigações rigorosas sobre a 'secreção psíquica', é hoje conhecido como:",
+      "options": {
+        "a": "Condicionamento clássico ou condicionamento pavloviano",
+        "b": "Condicionamento operante",
+        "c": "Behaviorismo radical",
+        "d": "Análise experimental do comportamento",
+        "e": "Behaviorismo intencional"
+      },
+      "correct": "a",
+      "explanation": "Pavlov criou o paradigma hoje conhecido como condicionamento clássico ou condicionamento pavloviano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o paradigma criado por Pavlov, a partir de suas investigações rigorosas sobre a 'secreção psíquica', é hoje conhecido como: Pavlov criou o paradigma hoje conhecido como condicionamento clássico ou condicionamento pavloviano."
+    },
+    {
+      "id": "fund-obj-328",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no processo de condicionamento clássico, o Estímulo Incondicionado (EI) é definido como um evento ambiental que elicia:",
+      "options": {
+        "a": "Uma resposta inata, biológica e não aprendida do organismo",
+        "b": "Uma resposta aprendida exclusivamente por meio de repetição",
+        "c": "Uma resposta exclusivamente voluntária e consciente",
+        "d": "Uma resposta exclusivamente verbal",
+        "e": "Uma resposta exclusivamente motora complexa"
+      },
+      "correct": "a",
+      "explanation": "O Estímulo Incondicionado (EI) é um evento ambiental que elicia uma resposta inata, biológica e não aprendida do organismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no processo de condicionamento clássico, o Estímulo Incondicionado (EI) é definido como um evento ambiental que elicia: O Estímulo Incondicionado (EI) é um evento ambiental que elicia uma resposta inata, biológica e não aprendida do organismo."
+    },
+    {
+      "id": "fund-obj-329",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no experimento de Pavlov, a comida é classificada como o Estímulo Incondicionado (EI), e a resposta biológica a este estímulo — a salivação — é chamada de:",
+      "options": {
+        "a": "Resposta Incondicionada (RI)",
+        "b": "Resposta Condicionada (RC)",
+        "c": "Estímulo Neutro (EN)",
+        "d": "Estímulo Condicionado (EC)",
+        "e": "Resposta Operante"
+      },
+      "correct": "a",
+      "explanation": "A resposta biológica ao Estímulo Incondicionado (comida) é chamada de Resposta Incondicionada (RI), que, no experimento de Pavlov, é a salivação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no experimento de Pavlov, a comida é classificada como o Estímulo Incondicionado (EI), e a resposta biológica a este estímulo — a salivação — é chamada de: A resposta biológica ao Estímulo Incondicionado (comida) é chamada de Resposta Incondicionada (RI), que, no experimento de Pavlov, é a salivação."
+    },
+    {
+      "id": "fund-obj-330",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a inovação de Pavlov consistiu em introduzir um Estímulo Neutro (EN), definido como um evento que, de forma isolada:",
+      "options": {
+        "a": "Não provoca a resposta de interesse",
+        "b": "Provoca sempre a resposta de interesse com máxima intensidade",
+        "c": "Elicia automaticamente uma resposta biológica inata",
+        "d": "É idêntico ao Estímulo Incondicionado",
+        "e": "Provoca exclusivamente respostas motoras voluntárias"
+      },
+      "correct": "a",
+      "explanation": "O Estímulo Neutro (EN) é um evento que, de forma isolada, não provoca a resposta de interesse — Pavlov utilizou o som de um metrônomo ou de uma campainha.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a inovação de Pavlov consistiu em introduzir um Estímulo Neutro (EN), definido como um evento que, de forma isolada: O Estímulo Neutro (EN) é um evento que, de forma isolada, não provoca a resposta de interesse — Pavlov utilizou o som de um metrônomo ou de uma campainha."
+    },
+    {
+      "id": "fund-obj-331",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o procedimento experimental de Pavlov consistia em apresentar o Estímulo Neutro (som) seguido de imediato pelo:",
+      "options": {
+        "a": "Estímulo Incondicionado (comida)",
+        "b": "Estímulo Condicionado exclusivamente",
+        "c": "Reforço negativo exclusivamente",
+        "d": "Punição positiva exclusivamente",
+        "e": "Reforço positivo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O procedimento experimental consistia em apresentar o Estímulo Neutro (som) seguido de imediato pelo Estímulo Incondicionado (comida).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o procedimento experimental de Pavlov consistia em apresentar o Estímulo Neutro (som) seguido de imediato pelo: O procedimento experimental consistia em apresentar o Estímulo Neutro (som) seguido de imediato pelo Estímulo Incondicionado (comida)."
+    },
+    {
+      "id": "fund-obj-332",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, após repetidos emparelhamentos entre o Estímulo Neutro e o Estímulo Incondicionado, o som deixa de ser neutro e adquire a capacidade de eliciar a salivação por conta própria; neste momento, o som passa a ser denominado:",
+      "options": {
+        "a": "Estímulo Condicionado (EC)",
+        "b": "Estímulo Incondicionado (EI)",
+        "c": "Resposta Incondicionada (RI)",
+        "d": "Reforçador primário",
+        "e": "Reforçador negativo"
+      },
+      "correct": "a",
+      "explanation": "Após repetidos emparelhamentos, o som deixa de ser neutro e passa a ser denominado Estímulo Condicionado (EC), e a salivação provocada por ele recebe o nome de Resposta Condicionada (RC).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após repetidos emparelhamentos entre o Estímulo Neutro e o Estímulo Incondicionado, o som deixa de ser neutro e adquire a capacidade de eliciar a salivação por conta própria; neste momento, o som passa a ser denominado: Após repetidos emparelhamentos, o som deixa de ser neutro e passa a ser denominado Estímulo Condicionado (EC), e a salivação provocada por ele recebe o nome de Resposta Condicionada (RC)."
+    },
+    {
+      "id": "fund-obj-333",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo Figueiredo (2009), citado no material, a grandeza da descoberta de Pavlov reside na demonstração de que o organismo:",
+      "options": {
+        "a": "Não reage apenas aos estímulos biológicos imediatos, mas aprende a ler os sinais do ambiente que antecipam eventos vitais",
+        "b": "Reage exclusivamente a estímulos biológicos imediatos, sem qualquer capacidade de antecipação",
+        "c": "É incapaz de aprender qualquer associação entre estímulos ambientais",
+        "d": "Depende exclusivamente de processos cognitivos conscientes para aprender",
+        "e": "Não apresenta qualquer mecanismo de sobrevivência baseado em aprendizagem"
+      },
+      "correct": "a",
+      "explanation": "Segundo Figueiredo (2009), a grandeza da descoberta de Pavlov reside em demonstrar que o organismo aprende a ler os sinais do ambiente que antecipam eventos vitais, preparando-se para o que está por vir.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Figueiredo (2009), citado no material, a grandeza da descoberta de Pavlov reside na demonstração de que o organismo: Segundo Figueiredo (2009), a grandeza da descoberta de Pavlov reside em demonstrar que o organismo aprende a ler os sinais do ambiente que antecipam eventos vitais, preparando-se para o que está por vir."
+    },
+    {
+      "id": "fund-obj-334",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o processo de extinção no condicionamento clássico ocorre quando o Estímulo Condicionado (EC) passa a ser apresentado de forma repetida sem o acompanhamento do Estímulo Incondicionado (EI), fazendo com que:",
+      "options": {
+        "a": "A Resposta Condicionada (RC) diminua de intensidade até desaparecer",
+        "b": "A Resposta Condicionada aumente progressivamente de intensidade",
+        "c": "O Estímulo Neutro original seja restaurado automaticamente",
+        "d": "A Resposta Incondicionada desapareça permanentemente",
+        "e": "O organismo pare de responder a qualquer estímulo futuro"
+      },
+      "correct": "a",
+      "explanation": "A extinção ocorre quando o EC é apresentado repetidamente sem o EI, e a Resposta Condicionada (RC) diminui de intensidade até desaparecer.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o processo de extinção no condicionamento clássico ocorre quando o Estímulo Condicionado (EC) passa a ser apresentado de forma repetida sem o acompanhamento do Estímulo Incondicionado (EI), fazendo com que: A extinção ocorre quando o EC é apresentado repetidamente sem o EI, e a Resposta Condicionada (RC) diminui de intensidade até desaparecer."
+    },
+    {
+      "id": "fund-obj-335",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a recuperação espontânea ocorre após a extinção de uma resposta e um período de descanso, quando a apresentação do Estímulo Condicionado pode voltar a eliciar a Resposta Condicionada, embora:",
+      "options": {
+        "a": "Com menor intensidade, demonstrando que a extinção cria uma nova aprendizagem inibitória",
+        "b": "Com intensidade sempre igual ou maior que a original",
+        "c": "De forma permanente e irreversível novamente",
+        "d": "Apenas em animais, nunca em seres humanos",
+        "e": "Exclusivamente na presença simultânea do Estímulo Incondicionado"
+      },
+      "correct": "a",
+      "explanation": "Na recuperação espontânea, a Resposta Condicionada pode reaparecer com menor intensidade, demonstrando que a extinção não apaga a aprendizagem original por completo, mas cria uma nova aprendizagem inibitória.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a recuperação espontânea ocorre após a extinção de uma resposta e um período de descanso, quando a apresentação do Estímulo Condicionado pode voltar a eliciar a Resposta Condicionada, embora: Na recuperação espontânea, a Resposta Condicionada pode reaparecer com menor intensidade, demonstrando que a extinção não apaga a aprendizagem original por completo, mas cria uma nova aprendizagem inibitória."
+    },
+    {
+      "id": "fund-obj-336",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a generalização de estímulos é definida como a tendência do organismo de emitir a Resposta Condicionada diante de estímulos:",
+      "options": {
+        "a": "Semelhantes ao Estímulo Condicionado original",
+        "b": "Idênticos ao Estímulo Incondicionado original",
+        "c": "Totalmente distintos e não relacionados ao estímulo original",
+        "d": "Exclusivamente auditivos, independentemente da modalidade original",
+        "e": "Exclusivamente visuais, independentemente da modalidade original"
+      },
+      "correct": "a",
+      "explanation": "A generalização de estímulos é a tendência do organismo de emitir a Resposta Condicionada diante de estímulos semelhantes ao Estímulo Condicionado original.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a generalização de estímulos é definida como a tendência do organismo de emitir a Resposta Condicionada diante de estímulos: A generalização de estímulos é a tendência do organismo de emitir a Resposta Condicionada diante de estímulos semelhantes ao Estímulo Condicionado original."
+    },
+    {
+      "id": "fund-obj-337",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no exemplo do material sobre generalização, um cão condicionado a salivar para um som de 1000 Hz também salivará para sons de 900 Hz ou 1100 Hz, o que garante ao organismo:",
+      "options": {
+        "a": "Flexibilidade adaptativa",
+        "b": "Rigidez comportamental absoluta",
+        "c": "Extinção imediata da resposta",
+        "d": "Incapacidade de discriminar qualquer estímulo",
+        "e": "Bloqueio total de novas aprendizagens"
+      },
+      "correct": "a",
+      "explanation": "A generalização de estímulos, exemplificada pelo cão que saliva para sons próximos ao original (900 Hz ou 1100 Hz), garante flexibilidade adaptativa ao organismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo do material sobre generalização, um cão condicionado a salivar para um som de 1000 Hz também salivará para sons de 900 Hz ou 1100 Hz, o que garante ao organismo: A generalização de estímulos, exemplificada pelo cão que saliva para sons próximos ao original (900 Hz ou 1100 Hz), garante flexibilidade adaptativa ao organismo."
+    },
+    {
+      "id": "fund-obj-338",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a discriminação de estímulos é o processo oposto à generalização, ocorrendo quando o organismo aprende a responder a um estímulo específico, mas não a estímulos semelhantes, devido ao fato de que:",
+      "options": {
+        "a": "Apenas o estímulo específico é seguido pelo Estímulo Incondicionado",
+        "b": "Todos os estímulos semelhantes são sempre seguidos pelo Estímulo Incondicionado",
+        "c": "O organismo perde completamente a capacidade de responder a qualquer estímulo",
+        "d": "O Estímulo Incondicionado deixa de existir permanentemente",
+        "e": "A resposta condicionada se torna, obrigatoriamente, uma resposta incondicionada"
+      },
+      "correct": "a",
+      "explanation": "A discriminação de estímulos ocorre quando o organismo aprende a responder a um estímulo específico, mas não a estímulos semelhantes, porque apenas o estímulo específico é seguido pelo Estímulo Incondicionado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a discriminação de estímulos é o processo oposto à generalização, ocorrendo quando o organismo aprende a responder a um estímulo específico, mas não a estímulos semelhantes, devido ao fato de que: A discriminação de estímulos ocorre quando o organismo aprende a responder a um estímulo específico, mas não a estímulos semelhantes, porque apenas o estímulo específico é seguido pelo Estímulo Incondicionado."
+    },
+    {
+      "id": "fund-obj-339",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o tratamento de fobias específicas, na prática clínica, baseia-se principalmente no processo de:",
+      "options": {
+        "a": "Extinção",
+        "b": "Generalização exclusivamente",
+        "c": "Discriminação exclusivamente",
+        "d": "Recuperação espontânea exclusivamente",
+        "e": "Reforço positivo contínuo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O tratamento de fobias específicas baseia-se no processo de extinção, no qual o terapeuta expõe a pessoa de forma gradual ao estímulo temido na ausência de qualquer perigo real.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o tratamento de fobias específicas, na prática clínica, baseia-se principalmente no processo de: O tratamento de fobias específicas baseia-se no processo de extinção, no qual o terapeuta expõe a pessoa de forma gradual ao estímulo temido na ausência de qualquer perigo real."
+    },
+    {
+      "id": "fund-obj-340",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, uma pessoa com fobia de voar associou o avião (Estímulo Condicionado) a uma resposta de ansiedade extrema e pânico, classificada como:",
+      "options": {
+        "a": "Resposta Condicionada (RC)",
+        "b": "Resposta Incondicionada (RI)",
+        "c": "Estímulo Incondicionado (EI)",
+        "d": "Estímulo Neutro (EN)",
+        "e": "Reforçador negativo"
+      },
+      "correct": "a",
+      "explanation": "No exemplo da fobia de voar, a resposta de ansiedade extrema e pânico associada ao avião é classificada como Resposta Condicionada (RC).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, uma pessoa com fobia de voar associou o avião (Estímulo Condicionado) a uma resposta de ansiedade extrema e pânico, classificada como: No exemplo da fobia de voar, a resposta de ansiedade extrema e pânico associada ao avião é classificada como Resposta Condicionada (RC)."
+    },
+    {
+      "id": "fund-obj-341",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o terapeuta comportamental que trata fobias utiliza técnicas como a dessensibilização sistemática, expondo a pessoa de forma gradual ao estímulo temido, com o objetivo de promover:",
+      "options": {
+        "a": "A extinção da resposta de medo e o condicionamento de uma nova resposta de relaxamento",
+        "b": "A intensificação progressiva e permanente da resposta de medo",
+        "c": "A generalização máxima do medo para todos os estímulos relacionados",
+        "d": "A eliminação total e permanente do Estímulo Incondicionado original",
+        "e": "A substituição do Estímulo Condicionado por um novo Estímulo Incondicionado"
+      },
+      "correct": "a",
+      "explanation": "A dessensibilização sistemática busca promover a extinção da resposta de medo e o condicionamento de uma nova resposta de relaxamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o terapeuta comportamental que trata fobias utiliza técnicas como a dessensibilização sistemática, expondo a pessoa de forma gradual ao estímulo temido, com o objetivo de promover: A dessensibilização sistemática busca promover a extinção da resposta de medo e o condicionamento de uma nova resposta de relaxamento."
+    },
+    {
+      "id": "fund-obj-342",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, na psico-oncologia, pessoas em tratamento quimioterápico relatam com frequência náuseas antecipatórias ao chegarem ao hospital, sendo o ambiente hospitalar classificado, nesse processo, como:",
+      "options": {
+        "a": "Um Estímulo Condicionado, por ter sido emparelhado com os medicamentos que causam mal-estar",
+        "b": "Um Estímulo Incondicionado, pois gera náusea de forma inata e biológica",
+        "c": "Uma Resposta Incondicionada, pois é uma reação automática do organismo",
+        "d": "Um Estímulo Neutro, pois nunca provocou qualquer resposta associada",
+        "e": "Uma Resposta Condicionada, pois representa o comportamento final do paciente"
+      },
+      "correct": "a",
+      "explanation": "O ambiente hospitalar, originalmente neutro, foi emparelhado repetidamente com a medicação quimioterápica (Estímulo Incondicionado), tornando-se um Estímulo Condicionado capaz de eliciar náusea por conta própria.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9-10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na psico-oncologia, pessoas em tratamento quimioterápico relatam com frequência náuseas antecipatórias ao chegarem ao hospital, sendo o ambiente hospitalar classificado, nesse processo, como: O ambiente hospitalar, originalmente neutro, foi emparelhado repetidamente com a medicação quimioterápica (Estímulo Incondicionado), tornando-se um Estímulo Condicionado capaz de eliciar náusea por conta própria."
+    },
+    {
+      "id": "fund-obj-343",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no exemplo da náusea antecipatória em pacientes oncológicos, os medicamentos que causam mal-estar são classificados como o:",
+      "options": {
+        "a": "Estímulo Incondicionado (EI)",
+        "b": "Estímulo Condicionado (EC)",
+        "c": "Estímulo Neutro (EN)",
+        "d": "Resposta Condicionada (RC)",
+        "e": "Reforçador positivo"
+      },
+      "correct": "a",
+      "explanation": "Os medicamentos quimioterápicos, que causam mal-estar (Resposta Incondicionada), atuam como o Estímulo Incondicionado (EI) nesse processo de condicionamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo da náusea antecipatória em pacientes oncológicos, os medicamentos que causam mal-estar são classificados como o: Os medicamentos quimioterápicos, que causam mal-estar (Resposta Incondicionada), atuam como o Estímulo Incondicionado (EI) nesse processo de condicionamento."
+    },
+    {
+      "id": "fund-obj-344",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o conhecimento profundo do paradigma pavloviano permite à equipe de saúde intervir no ambiente hospitalar para:",
+      "options": {
+        "a": "Minimizar os efeitos adversos da náusea antecipatória em pacientes oncológicos",
+        "b": "Aumentar deliberadamente a associação entre o hospital e o mal-estar",
+        "c": "Eliminar completamente a necessidade de qualquer tratamento medicamentoso",
+        "d": "Substituir integralmente a quimioterapia por intervenções exclusivamente comportamentais",
+        "e": "Ignorar completamente a experiência subjetiva do paciente"
+      },
+      "correct": "a",
+      "explanation": "O conhecimento profundo do paradigma pavloviano permite à equipe de saúde intervir no ambiente para minimizar os efeitos adversos da náusea antecipatória, demonstrando o valor da pesquisa básica para o bem-estar humano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o conhecimento profundo do paradigma pavloviano permite à equipe de saúde intervir no ambiente hospitalar para: O conhecimento profundo do paradigma pavloviano permite à equipe de saúde intervir no ambiente para minimizar os efeitos adversos da náusea antecipatória, demonstrando o valor da pesquisa básica para o bem-estar humano."
+    },
+    {
+      "id": "fund-obj-345",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o condicionamento clássico é descrito como um mecanismo de:",
+      "options": {
+        "a": "Sobrevivência que permite aos animais e aos seres humanos se prepararem para o que está por vir",
+        "b": "Punição, exclusivamente voltado à supressão de comportamentos indesejados",
+        "c": "Reforçamento intermitente exclusivamente ligado a máquinas caça-níqueis",
+        "d": "Extinção permanente e irreversível de qualquer resposta",
+        "e": "Generalização impossível de ser revertida"
+      },
+      "correct": "a",
+      "explanation": "O condicionamento clássico é um mecanismo de sobrevivência que permite aos animais e aos seres humanos se prepararem para o que está por vir, antecipando eventos vitais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o condicionamento clássico é descrito como um mecanismo de: O condicionamento clássico é um mecanismo de sobrevivência que permite aos animais e aos seres humanos se prepararem para o que está por vir, antecipando eventos vitais."
+    },
+    {
+      "id": "fund-obj-346",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a fórmula 'EN + EI → RI' representa o momento inicial do condicionamento clássico, no qual o Estímulo Neutro é apresentado junto ao Estímulo Incondicionado, gerando:",
+      "options": {
+        "a": "A Resposta Incondicionada",
+        "b": "A Resposta Condicionada diretamente",
+        "c": "A extinção imediata da resposta",
+        "d": "A generalização automática para outros estímulos",
+        "e": "A discriminação entre estímulos semelhantes"
+      },
+      "correct": "a",
+      "explanation": "A fórmula 'EN + EI → RI' representa o momento inicial do condicionamento, em que a apresentação conjunta do Estímulo Neutro e do Estímulo Incondicionado gera a Resposta Incondicionada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a fórmula 'EN + EI → RI' representa o momento inicial do condicionamento clássico, no qual o Estímulo Neutro é apresentado junto ao Estímulo Incondicionado, gerando: A fórmula 'EN + EI → RI' representa o momento inicial do condicionamento, em que a apresentação conjunta do Estímulo Neutro e do Estímulo Incondicionado gera a Resposta Incondicionada."
+    },
+    {
+      "id": "fund-obj-347",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, após repetições sucessivas do emparelhamento entre EN e EI, a fórmula do condicionamento passa a ser representada como:",
+      "options": {
+        "a": "EC → RC",
+        "b": "EI → RC",
+        "c": "EN → RI",
+        "d": "RC → EC",
+        "e": "RI → EN"
+      },
+      "correct": "a",
+      "explanation": "Após repetições sucessivas, a fórmula passa a ser representada como EC → RC, indicando que o antigo estímulo neutro (agora condicionado) elicia diretamente a resposta condicionada.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, após repetições sucessivas do emparelhamento entre EN e EI, a fórmula do condicionamento passa a ser representada como: Após repetições sucessivas, a fórmula passa a ser representada como EC → RC, indicando que o antigo estímulo neutro (agora condicionado) elicia diretamente a resposta condicionada."
+    },
+    {
+      "id": "fund-obj-348",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a pesquisa de Pavlov não se limitou à aquisição do reflexo condicionado, mas mapeou uma série de processos complementares vitais para:",
+      "options": {
+        "a": "A aplicação clínica dos princípios comportamentais",
+        "b": "Exclusivamente a compreensão do sistema digestivo canino",
+        "c": "Exclusivamente a formulação do conceito de reforço positivo",
+        "d": "Exclusivamente a criação da Caixa de Skinner",
+        "e": "Exclusivamente a formulação da Lei do Efeito de Thorndike"
+      },
+      "correct": "a",
+      "explanation": "Pavlov mapeou processos complementares (extinção, recuperação espontânea, generalização, discriminação) que são vitais para a aplicação clínica dos princípios comportamentais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a pesquisa de Pavlov não se limitou à aquisição do reflexo condicionado, mas mapeou uma série de processos complementares vitais para: Pavlov mapeou processos complementares (extinção, recuperação espontânea, generalização, discriminação) que são vitais para a aplicação clínica dos princípios comportamentais."
+    },
+    {
+      "id": "fund-obj-349",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, Pavlov reconheceu que a 'secreção psíquica' observada em seus experimentos não era um erro experimental, mas sim:",
+      "options": {
+        "a": "Um processo fundamental de adaptação do organismo ao ambiente",
+        "b": "Um artefato metodológico sem qualquer significado científico",
+        "c": "Uma falha no equipamento de medição da saliva",
+        "d": "Um comportamento exclusivo de cães de determinada raça",
+        "e": "Um fenômeno impossível de ser replicado em outros experimentos"
+      },
+      "correct": "a",
+      "explanation": "Pavlov reconheceu que a 'secreção psíquica' não era um erro experimental, mas sim um processo fundamental de adaptação do organismo ao ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Pavlov reconheceu que a 'secreção psíquica' observada em seus experimentos não era um erro experimental, mas sim: Pavlov reconheceu que a 'secreção psíquica' não era um erro experimental, mas sim um processo fundamental de adaptação do organismo ao ambiente."
+    },
+    {
+      "id": "fund-obj-350",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, o experimento clássico de Pavlov envolvendo a salivação de cães diante do som de uma campainha ilustra, de forma central, o princípio de que a aprendizagem associativa envolve:",
+      "options": {
+        "a": "A associação temporal entre dois estímulos",
+        "b": "Exclusivamente a punição de respostas indesejadas",
+        "c": "Exclusivamente o reforçamento de esquemas de razão variável",
+        "d": "Exclusivamente processos cognitivos de tomada de decisão consciente",
+        "e": "Exclusivamente a modelagem por meio da observação de terceiros"
+      },
+      "correct": "a",
+      "explanation": "O processo de condicionamento clássico envolve a associação temporal entre dois estímulos, como demonstrado no experimento de Pavlov com a campainha e a comida.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o experimento clássico de Pavlov envolvendo a salivação de cães diante do som de uma campainha ilustra, de forma central, o princípio de que a aprendizagem associativa envolve: O processo de condicionamento clássico envolve a associação temporal entre dois estímulos, como demonstrado no experimento de Pavlov com a campainha e a comida."
+    },
+    {
+      "id": "fund-obj-351",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, no exemplo do paciente oncológico com náuseas antecipatórias, o mal-estar causado diretamente pela medicação quimioterápica, antes de qualquer associação com o ambiente, é classificado como:",
+      "options": {
+        "a": "Resposta Incondicionada (RI)",
+        "b": "Resposta Condicionada (RC)",
+        "c": "Estímulo Condicionado (EC)",
+        "d": "Estímulo Neutro (EN)",
+        "e": "Reforçador negativo"
+      },
+      "correct": "a",
+      "explanation": "O mal-estar causado diretamente pela medicação (Estímulo Incondicionado) é a Resposta Incondicionada (RI), reação biológica automática e não aprendida.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo do paciente oncológico com náuseas antecipatórias, o mal-estar causado diretamente pela medicação quimioterápica, antes de qualquer associação com o ambiente, é classificado como: O mal-estar causado diretamente pela medicação (Estímulo Incondicionado) é a Resposta Incondicionada (RI), reação biológica automática e não aprendida."
+    },
+    {
+      "id": "fund-obj-352",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo o material, a compreensão dos processos complementares do condicionamento clássico (extinção, recuperação espontânea, generalização e discriminação de estímulos) é descrita como:",
+      "options": {
+        "a": "Vital para a aplicação clínica dos princípios comportamentais",
+        "b": "Irrelevante para a prática clínica contemporânea",
+        "c": "Restrita exclusivamente à pesquisa básica com animais em laboratório",
+        "d": "Incompatível com o tratamento de fobias e outros transtornos de ansiedade",
+        "e": "Substituída totalmente pela análise do comportamento operante"
+      },
+      "correct": "a",
+      "explanation": "A compreensão dos processos complementares do condicionamento (extinção, recuperação espontânea, generalização e discriminação) é vital para a aplicação clínica dos princípios comportamentais, como no tratamento de fobias e na compreensão de náuseas antecipatórias.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a compreensão dos processos complementares do condicionamento clássico (extinção, recuperação espontânea, generalização e discriminação de estímulos) é descrita como: A compreensão dos processos complementares do condicionamento (extinção, recuperação espontânea, generalização e discriminação) é vital para a aplicação clínica dos princípios comportamentais, como no tratamento de fobias e na compreensão de náuseas antecipatórias."
     }
   ],
   "discursive": [
@@ -10208,6 +11528,664 @@
       },
       "subject": "TCC e terceira onda",
       "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-095",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique por que o método introspectivo, adotado pelo estruturalismo e pelo funcionalismo, era considerado limitado por Watson.",
+      "modelAnswer": "O método introspectivo exigia que sujeitos treinados relatassem suas experiências internas, gerando dados subjetivos, difíceis de replicar e impossíveis de verificar por observadores independentes. Watson considerava essa limitação incompatível com o status de ciência natural que a psicologia buscava alcançar.",
+      "keyPoints": [
+        {
+          "text": "Dados subjetivos, difíceis de replicar",
+          "weight": 0.5,
+          "keywords": [
+            "subjetivos",
+            "replicar"
+          ]
+        },
+        {
+          "text": "Impossíveis de verificar por observadores independentes",
+          "weight": 0.5,
+          "keywords": [
+            "verificar",
+            "observadores independentes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-096",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique a base filosófica positivista que sustentava o behaviorismo metodológico de Watson.",
+      "modelAnswer": "A base filosófica de Watson era o positivismo de Auguste Comte, que defendia que o conhecimento autêntico só poderia derivar da observação pública e de fatos mensuráveis. Com base nisso, o behaviorismo metodológico considerava que eventos privados (pensamentos e sentimentos) poderiam existir, mas não deveriam ser objeto de estudo científico por não serem acessíveis à observação direta de terceiros.",
+      "keyPoints": [
+        {
+          "text": "Positivismo de Comte: conhecimento da observação pública/fatos mensuráveis",
+          "weight": 0.5,
+          "keywords": [
+            "positivismo",
+            "observação pública"
+          ]
+        },
+        {
+          "text": "Eventos privados existem, mas não são objeto de estudo científico",
+          "weight": 0.5,
+          "keywords": [
+            "eventos privados",
+            "não observáveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-097",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Descreva o experimento do pequeno Albert conduzido por Watson e o que ele buscava demonstrar.",
+      "modelAnswer": "Watson apresentou um rato branco a um bebê, que não demonstrou medo inicial. Em seguida, associou repetidamente a presença do rato a um som alto e estridente. Após algumas repetições, o bebê passou a chorar e demonstrar medo apenas ao ver o rato, mesmo na ausência do som — o medo também se generalizou para outros objetos peludos. O experimento buscava demonstrar que uma reação emocional complexa poderia ser instalada por meio do controle rigoroso do ambiente.",
+      "keyPoints": [
+        {
+          "text": "Rato branco associado a som alto e estridente",
+          "weight": 0.4,
+          "keywords": [
+            "rato branco",
+            "som"
+          ]
+        },
+        {
+          "text": "Medo generalizado a outros objetos peludos",
+          "weight": 0.3,
+          "keywords": [
+            "generalizou",
+            "peludos"
+          ]
+        },
+        {
+          "text": "Demonstrou que emoções podem ser instaladas pelo controle do ambiente",
+          "weight": 0.3,
+          "keywords": [
+            "controle do ambiente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5-6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-098",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique o modelo Estímulo-Resposta (S-R) proposto por Watson.",
+      "modelAnswer": "O modelo S-R (Stimulus-Response) postula que todo comportamento, por mais complexo que pareça, pode ser reduzido a cadeias de reações fisiológicas e musculares desencadeadas por eventos ambientais. A tarefa do pesquisador consiste em identificar o estímulo que causa uma determinada resposta ou, de forma inversa, dada uma resposta, determinar qual estímulo a provocou.",
+      "keyPoints": [
+        {
+          "text": "Comportamento reduzido a cadeias de reações estímulo-resposta",
+          "weight": 0.5,
+          "keywords": [
+            "cadeias",
+            "reações"
+          ]
+        },
+        {
+          "text": "Tarefa: identificar estímulo a partir da resposta ou vice-versa",
+          "weight": 0.5,
+          "keywords": [
+            "identificar estímulo",
+            "resposta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-099",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique o conceito de ambientalismo radical defendido por Watson e seu impacto na sociedade americana.",
+      "modelAnswer": "Watson defendia um ambientalismo radical, sugerindo que as características inatas e genéticas tinham pouca ou nenhuma influência sobre o desenvolvimento humano em comparação com a força do ambiente. Essa perspectiva teve impacto profundo na sociedade americana, influenciando práticas de educação infantil e métodos de publicidade.",
+      "keyPoints": [
+        {
+          "text": "Ambiente teria mais influência que genética/características inatas",
+          "weight": 0.6,
+          "keywords": [
+            "ambiente",
+            "genética"
+          ]
+        },
+        {
+          "text": "Impacto na educação infantil e na publicidade",
+          "weight": 0.4,
+          "keywords": [
+            "educação infantil",
+            "publicidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-100",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique como os princípios do behaviorismo metodológico estabeleceram as bases das primeiras formas de terapia comportamental.",
+      "modelAnswer": "A ideia de que comportamentos disfuncionais são aprendidos e, portanto, podem ser desaprendidos, orientou o desenvolvimento de técnicas de modificação de comportamento. Essa ideia central do behaviorismo metodológico fundamenta, até hoje, intervenções que buscam modificar comportamentos por meio da manipulação de estímulos e respostas.",
+      "keyPoints": [
+        {
+          "text": "Comportamentos disfuncionais são aprendidos e podem ser desaprendidos",
+          "weight": 0.6,
+          "keywords": [
+            "aprendidos",
+            "desaprendidos"
+          ]
+        },
+        {
+          "text": "Orientou técnicas de modificação de comportamento",
+          "weight": 0.4,
+          "keywords": [
+            "modificação de comportamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-101",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo Watson (1913), qual é o objetivo teórico central da psicologia enquanto ramo objetivo e experimental da ciência natural?",
+      "modelAnswer": "Segundo Watson, a psicologia, tal como o behaviorista a vê, é um ramo puramente objetivo e experimental da ciência natural, cujo objetivo teórico é a previsão e o controle do comportamento, sem que a introspecção faça parte essencial de seus métodos.",
+      "keyPoints": [
+        {
+          "text": "Previsão e controle do comportamento",
+          "weight": 0.7,
+          "keywords": [
+            "previsão",
+            "controle"
+          ]
+        },
+        {
+          "text": "Introspecção não é parte essencial do método",
+          "weight": 0.3,
+          "keywords": [
+            "introspecção não"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-102",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique o contexto de insatisfação metodológica da psicologia americana que precedeu o surgimento do manifesto behaviorista de Watson.",
+      "modelAnswer": "No início do século XX, a psicologia americana era dominada pelo estruturalismo e pelo funcionalismo, que compartilhavam a consciência como objeto de estudo comum. O método introspectivo gerava dados subjetivos, de difícil replicação e verificação. Foi nesse cenário de insatisfação metodológica que Watson propôs abandonar o estudo de processos internos não observáveis, focando exclusivamente no que poderia ser medido, quantificado e testado em laboratório.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo/funcionalismo compartilhavam a consciência como objeto",
+          "weight": 0.4,
+          "keywords": [
+            "estruturalismo",
+            "funcionalismo",
+            "consciência"
+          ]
+        },
+        {
+          "text": "Introspecção gerava dados subjetivos, difíceis de replicar",
+          "weight": 0.3,
+          "keywords": [
+            "subjetivos",
+            "replicar"
+          ]
+        },
+        {
+          "text": "Watson propôs focar no mensurável/testável em laboratório",
+          "weight": 0.3,
+          "keywords": [
+            "mensurável",
+            "laboratório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "3-4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-103",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique por que o experimento do pequeno Albert é considerado eticamente inaceitável pelos padrões atuais, mesmo tendo alcançado seu objetivo científico na época.",
+      "modelAnswer": "O experimento induziu deliberadamente uma resposta de medo intenso em uma criança pequena, sem preocupação em reverter os efeitos ao final do estudo, o que fere princípios éticos atuais de proteção a participantes vulneráveis em pesquisa. Ainda assim, na época, cumpriu o objetivo de Watson de demonstrar que reações emocionais complexas podem ser instaladas por meio do controle rigoroso do ambiente.",
+      "keyPoints": [
+        {
+          "text": "Induziu medo deliberado em criança, sem reversão dos efeitos",
+          "weight": 0.6,
+          "keywords": [
+            "medo deliberado",
+            "sem reversão"
+          ]
+        },
+        {
+          "text": "Cumpriu objetivo científico da época apesar disso",
+          "weight": 0.4,
+          "keywords": [
+            "objetivo científico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-104",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Dê um exemplo, mencionado no material, de aplicação profissional contemporânea dos princípios estabelecidos por Watson.",
+      "modelAnswer": "Um profissional de psicologia que atua na elaboração de campanhas de saúde pública, buscando associar hábitos saudáveis a estímulos positivos no ambiente urbano, utiliza princípios de associação que têm raízes nas proposições iniciais de Watson e na busca por uma ciência voltada à previsão e ao controle do comportamento.",
+      "keyPoints": [
+        {
+          "text": "Campanhas de saúde pública associando hábitos a estímulos positivos",
+          "weight": 1,
+          "keywords": [
+            "campanhas de saúde pública",
+            "estímulos positivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-105",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Descreva os elementos que compõem o processo de condicionamento clássico: EI, RI, EN, EC e RC.",
+      "modelAnswer": "O Estímulo Incondicionado (EI) é um evento que elicia uma resposta inata (a Resposta Incondicionada, RI) — como a comida gerando salivação. O Estímulo Neutro (EN) não provoca a resposta de interesse isoladamente. Após emparelhamento repetido do EN com o EI, o EN se torna o Estímulo Condicionado (EC), passando a eliciar sozinho a Resposta Condicionada (RC) — a salivação diante do som, no caso do experimento de Pavlov.",
+      "keyPoints": [
+        {
+          "text": "EI: elicia resposta inata (RI)",
+          "weight": 0.4,
+          "keywords": [
+            "EI",
+            "RI",
+            "inata"
+          ]
+        },
+        {
+          "text": "EN: não provoca a resposta isoladamente",
+          "weight": 0.2,
+          "keywords": [
+            "EN",
+            "neutro"
+          ]
+        },
+        {
+          "text": "EC: EN após emparelhamento, elicia RC sozinho",
+          "weight": 0.4,
+          "keywords": [
+            "EC",
+            "RC",
+            "emparelhamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-106",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique como Pavlov chegou à descoberta do condicionamento clássico, partindo de suas pesquisas sobre a digestão.",
+      "modelAnswer": "Pavlov era fisiologista dedicado ao estudo do sistema digestivo. Durante suas pesquisas sobre a salivação de cães, observou que os animais salivavam antes mesmo de receberem o alimento, bastando ouvir os passos do assistente ou ver o prato de comida. Reconhecendo que essa 'secreção psíquica' era um processo fundamental de adaptação, e não um erro experimental, ele investigou o fenômeno com rigor metodológico, criando o paradigma do condicionamento clássico.",
+      "keyPoints": [
+        {
+          "text": "Pesquisas sobre digestão/salivação de cães",
+          "weight": 0.4,
+          "keywords": [
+            "digestão",
+            "salivação"
+          ]
+        },
+        {
+          "text": "Observou salivação antecipatória ('secreção psíquica')",
+          "weight": 0.3,
+          "keywords": [
+            "secreção psíquica",
+            "antecipatória"
+          ]
+        },
+        {
+          "text": "Investigou com rigor, criando o paradigma do condicionamento clássico",
+          "weight": 0.3,
+          "keywords": [
+            "condicionamento clássico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-107",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Diferencie extinção e recuperação espontânea no condicionamento clássico.",
+      "modelAnswer": "A extinção ocorre quando o Estímulo Condicionado passa a ser apresentado repetidamente sem o Estímulo Incondicionado, fazendo a Resposta Condicionada diminuir até desaparecer. A recuperação espontânea ocorre quando, após a extinção e um período de descanso, o Estímulo Condicionado volta a eliciar a Resposta Condicionada, embora com menor intensidade — demonstrando que a extinção cria uma nova aprendizagem inibitória, sem apagar a aprendizagem original.",
+      "keyPoints": [
+        {
+          "text": "Extinção: EC sem EI repetidamente, RC diminui até desaparecer",
+          "weight": 0.5,
+          "keywords": [
+            "extinção",
+            "diminui"
+          ]
+        },
+        {
+          "text": "Recuperação espontânea: RC reaparece com menor intensidade após descanso",
+          "weight": 0.5,
+          "keywords": [
+            "recuperação espontânea",
+            "menor intensidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-108",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Diferencie generalização e discriminação de estímulos no condicionamento clássico, com exemplos.",
+      "modelAnswer": "A generalização é a tendência do organismo de emitir a Resposta Condicionada diante de estímulos semelhantes ao Estímulo Condicionado original — como um cão condicionado a um som de 1000 Hz que também saliva para sons de 900 ou 1100 Hz. A discriminação é o processo oposto: o organismo aprende a responder apenas ao estímulo específico, e não a estímulos semelhantes, porque apenas aquele estímulo específico é seguido pelo Estímulo Incondicionado.",
+      "keyPoints": [
+        {
+          "text": "Generalização: RC diante de estímulos semelhantes ao EC",
+          "weight": 0.5,
+          "keywords": [
+            "generalização",
+            "semelhantes"
+          ]
+        },
+        {
+          "text": "Discriminação: RC apenas ao estímulo específico",
+          "weight": 0.5,
+          "keywords": [
+            "discriminação",
+            "específico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-109",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique como o processo de extinção é aplicado clinicamente no tratamento de fobias específicas.",
+      "modelAnswer": "O tratamento de fobias específicas baseia-se no processo de extinção. Uma pessoa com fobia de voar associou o avião (EC) a uma resposta de ansiedade extrema (RC). O terapeuta comportamental utiliza técnicas como a dessensibilização sistemática, expondo a pessoa de forma gradual ao estímulo temido na ausência de qualquer perigo real (o EI), promovendo a extinção da resposta de medo e condicionando uma nova resposta de relaxamento.",
+      "keyPoints": [
+        {
+          "text": "Fobia: avião como EC associado a ansiedade (RC)",
+          "weight": 0.3,
+          "keywords": [
+            "fobia",
+            "avião",
+            "ansiedade"
+          ]
+        },
+        {
+          "text": "Dessensibilização sistemática: exposição gradual sem perigo real",
+          "weight": 0.4,
+          "keywords": [
+            "dessensibilização",
+            "exposição gradual"
+          ]
+        },
+        {
+          "text": "Extingue o medo, condiciona relaxamento",
+          "weight": 0.3,
+          "keywords": [
+            "extinção",
+            "relaxamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-110",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique o fenômeno da náusea antecipatória em pacientes oncológicos à luz do condicionamento clássico.",
+      "modelAnswer": "Pacientes em tratamento quimioterápico relatam náuseas antecipatórias ao chegar ao hospital. O ambiente hospitalar, os cheiros e os jalecos, originalmente estímulos neutros, foram emparelhados repetidamente com os medicamentos (Estímulo Incondicionado) que causam mal-estar (Resposta Incondicionada), passando a provocar náusea (Resposta Condicionada) antes mesmo da medicação ser administrada.",
+      "keyPoints": [
+        {
+          "text": "Ambiente hospitalar (originalmente neutro) emparelhado com medicação",
+          "weight": 0.5,
+          "keywords": [
+            "ambiente hospitalar",
+            "medicação"
+          ]
+        },
+        {
+          "text": "Torna-se EC, provocando náusea (RC) antecipada",
+          "weight": 0.5,
+          "keywords": [
+            "EC",
+            "náusea antecipada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-111",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo Figueiredo (2009), qual é a importância da descoberta de Pavlov para a compreensão da adaptação do organismo ao ambiente?",
+      "modelAnswer": "Segundo Figueiredo (2009), a grandeza da descoberta de Pavlov reside na demonstração de que o organismo não reage apenas aos estímulos biológicos imediatos, mas aprende a ler os sinais do ambiente que antecipam eventos vitais. O condicionamento clássico é, assim, um mecanismo de sobrevivência que permite aos animais e aos seres humanos se prepararem para o que está por vir.",
+      "keyPoints": [
+        {
+          "text": "Organismo aprende a ler sinais que antecipam eventos vitais",
+          "weight": 0.6,
+          "keywords": [
+            "antecipam",
+            "eventos vitais"
+          ]
+        },
+        {
+          "text": "Mecanismo de sobrevivência/preparação",
+          "weight": 0.4,
+          "keywords": [
+            "sobrevivência",
+            "preparação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-112",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique por que a pesquisa de Pavlov, embora conduzida por um fisiologista e não por um psicólogo, é considerada fundamental para a psicologia como ciência do comportamento.",
+      "modelAnswer": "Embora Pavlov não fosse psicólogo (era fisiologista dedicado ao estudo do sistema digestivo), suas descobertas sobre a aprendizagem associativa forneceram as evidências empíricas mais robustas que sustentaram o desenvolvimento do behaviorismo, complementando as formulações teóricas de Watson e fornecendo o modelo experimental (condicionamento clássico) que se tornou um pilar da ciência comportamental.",
+      "keyPoints": [
+        {
+          "text": "Pavlov era fisiologista, não psicólogo",
+          "weight": 0.3,
+          "keywords": [
+            "fisiologista"
+          ]
+        },
+        {
+          "text": "Forneceu evidências empíricas robustas sobre aprendizagem associativa",
+          "weight": 0.4,
+          "keywords": [
+            "evidências empíricas",
+            "aprendizagem associativa"
+          ]
+        },
+        {
+          "text": "Complementou as formulações teóricas de Watson",
+          "weight": 0.3,
+          "keywords": [
+            "Watson",
+            "complementou"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-113",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Explique a formulação lógica do condicionamento clássico representada por 'EN + EI → RI' e, posteriormente, 'EC → RC'.",
+      "modelAnswer": "A primeira fórmula (EN + EI → RI) representa a fase de aquisição: o Estímulo Neutro é apresentado junto ao Estímulo Incondicionado, que gera a Resposta Incondicionada. Após repetições sucessivas desse emparelhamento, a segunda fórmula (EC → RC) representa o resultado da aprendizagem: o antigo estímulo neutro, agora condicionado, passa a eliciar sozinho a resposta, agora chamada de condicionada.",
+      "keyPoints": [
+        {
+          "text": "EN + EI → RI: fase de aquisição, emparelhamento inicial",
+          "weight": 0.5,
+          "keywords": [
+            "EN + EI",
+            "aquisição"
+          ]
+        },
+        {
+          "text": "EC → RC: resultado após repetições, EC elicia sozinho a RC",
+          "weight": 0.5,
+          "keywords": [
+            "EC → RC",
+            "sozinho"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-114",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Cite dois processos complementares ao condicionamento clássico mapeados por Pavlov, além da aquisição do reflexo condicionado, e explique sua relevância clínica.",
+      "modelAnswer": "Além da aquisição do reflexo condicionado, Pavlov mapeou processos como a extinção (redução da resposta quando o EC deixa de ser seguido pelo EI) e a generalização de estímulos (resposta a estímulos semelhantes ao original). A compreensão desses processos é vital para a aplicação clínica dos princípios comportamentais, como no tratamento de fobias por meio da extinção da resposta de medo.",
+      "keyPoints": [
+        {
+          "text": "Cita corretamente dois processos (ex.: extinção, generalização, discriminação, recuperação espontânea)",
+          "weight": 0.6,
+          "keywords": [
+            "extinção",
+            "generalização"
+          ]
+        },
+        {
+          "text": "Relevância clínica: base para intervenções como tratamento de fobias",
+          "weight": 0.4,
+          "keywords": [
+            "clínica",
+            "fobias"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8-9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -13032,6 +15010,473 @@
       "subject": "TCC e terceira onda",
       "difficulty": "medio",
       "miniLesson": "Para que se redireciona o foco terapêutico nas terapias de terceira onda? Para a clarificação de valores pessoais e o comprometimento com ações que enriqueçam a vida."
+    },
+    {
+      "id": "fund-oral-095",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Em que ano Watson publicou o artigo conhecido como manifesto behaviorista?",
+      "modelAnswer": "Em 1913.",
+      "keyPoints": [
+        {
+          "text": "1913",
+          "weight": 1,
+          "keywords": [
+            "1913"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "baixo",
+      "miniLesson": "Em que ano Watson publicou o artigo conhecido como manifesto behaviorista? Em 1913."
+    },
+    {
+      "id": "fund-oral-096",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual filósofo forneceu a base positivista para o behaviorismo metodológico de Watson?",
+      "modelAnswer": "Auguste Comte.",
+      "keyPoints": [
+        {
+          "text": "Auguste Comte",
+          "weight": 1,
+          "keywords": [
+            "Comte"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Qual filósofo forneceu a base positivista para o behaviorismo metodológico de Watson? Auguste Comte."
+    },
+    {
+      "id": "fund-oral-097",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "O que significa a abreviação S-R no modelo de Watson?",
+      "modelAnswer": "Estímulo-Resposta (Stimulus-Response).",
+      "keyPoints": [
+        {
+          "text": "Estímulo-Resposta",
+          "weight": 1,
+          "keywords": [
+            "estímulo-resposta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "O que significa a abreviação S-R no modelo de Watson? Estímulo-Resposta (Stimulus-Response)."
+    },
+    {
+      "id": "fund-oral-098",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Que animal foi apresentado ao pequeno Albert no experimento de Watson?",
+      "modelAnswer": "Um rato branco.",
+      "keyPoints": [
+        {
+          "text": "Rato branco",
+          "weight": 1,
+          "keywords": [
+            "rato branco"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Que animal foi apresentado ao pequeno Albert no experimento de Watson? Um rato branco."
+    },
+    {
+      "id": "fund-oral-099",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Para quais outros objetos o medo do pequeno Albert se generalizou?",
+      "modelAnswer": "Para outros objetos peludos, como um coelho e um casaco de pele.",
+      "keyPoints": [
+        {
+          "text": "Objetos peludos (coelho, casaco de pele)",
+          "weight": 1,
+          "keywords": [
+            "peludos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Para quais outros objetos o medo do pequeno Albert se generalizou? Para outros objetos peludos, como um coelho e um casaco de pele."
+    },
+    {
+      "id": "fund-oral-100",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo Watson, qual é o objetivo teórico da psicologia como ciência comportamental?",
+      "modelAnswer": "A previsão e o controle do comportamento.",
+      "keyPoints": [
+        {
+          "text": "Previsão e controle do comportamento",
+          "weight": 1,
+          "keywords": [
+            "previsão",
+            "controle"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Watson, qual é o objetivo teórico da psicologia como ciência comportamental? A previsão e o controle do comportamento."
+    },
+    {
+      "id": "fund-oral-101",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Como se chama a visão de Watson de que o ambiente tem mais influência que a genética no desenvolvimento humano?",
+      "modelAnswer": "Ambientalismo radical.",
+      "keyPoints": [
+        {
+          "text": "Ambientalismo radical",
+          "weight": 1,
+          "keywords": [
+            "ambientalismo radical"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "6"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Como se chama a visão de Watson de que o ambiente tem mais influência que a genética no desenvolvimento humano? Ambientalismo radical."
+    },
+    {
+      "id": "fund-oral-102",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Quais duas correntes dominavam a psicologia americana antes do surgimento do behaviorismo de Watson?",
+      "modelAnswer": "O estruturalismo e o funcionalismo.",
+      "keyPoints": [
+        {
+          "text": "Estruturalismo e funcionalismo",
+          "weight": 1,
+          "keywords": [
+            "estruturalismo",
+            "funcionalismo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Quais duas correntes dominavam a psicologia americana antes do surgimento do behaviorismo de Watson? O estruturalismo e o funcionalismo."
+    },
+    {
+      "id": "fund-oral-103",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual era o objeto de estudo comum ao estruturalismo e ao funcionalismo, rejeitado por Watson?",
+      "modelAnswer": "A consciência.",
+      "keyPoints": [
+        {
+          "text": "A consciência",
+          "weight": 1,
+          "keywords": [
+            "consciência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Qual era o objeto de estudo comum ao estruturalismo e ao funcionalismo, rejeitado por Watson? A consciência."
+    },
+    {
+      "id": "fund-oral-104",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual som foi usado por Watson para provocar medo no pequeno Albert?",
+      "modelAnswer": "Um som alto e estridente, provocado pela batida de um martelo em uma barra de metal.",
+      "keyPoints": [
+        {
+          "text": "Som alto/estridente de martelo em barra de metal",
+          "weight": 1,
+          "keywords": [
+            "martelo",
+            "barra de metal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "5"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Qual som foi usado por Watson para provocar medo no pequeno Albert? Um som alto e estridente, provocado pela batida de um martelo em uma barra de metal."
+    },
+    {
+      "id": "fund-oral-105",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Qual era a área de formação e pesquisa original de Ivan Pavlov?",
+      "modelAnswer": "Fisiologia, com foco no sistema digestivo.",
+      "keyPoints": [
+        {
+          "text": "Fisiologia do sistema digestivo",
+          "weight": 1,
+          "keywords": [
+            "fisiologia",
+            "sistema digestivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "baixo",
+      "miniLesson": "Qual era a área de formação e pesquisa original de Ivan Pavlov? Fisiologia, com foco no sistema digestivo."
+    },
+    {
+      "id": "fund-oral-106",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Como Pavlov chamou inicialmente o fenômeno da salivação antecipatória em seus cães?",
+      "modelAnswer": "'Secreção psíquica'.",
+      "keyPoints": [
+        {
+          "text": "Secreção psíquica",
+          "weight": 1,
+          "keywords": [
+            "secreção psíquica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Como Pavlov chamou inicialmente o fenômeno da salivação antecipatória em seus cães? 'Secreção psíquica'."
+    },
+    {
+      "id": "fund-oral-107",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é o Estímulo Incondicionado (EI)?",
+      "modelAnswer": "Um evento ambiental que elicia uma resposta inata, biológica e não aprendida do organismo.",
+      "keyPoints": [
+        {
+          "text": "Elicia resposta inata e não aprendida",
+          "weight": 1,
+          "keywords": [
+            "inata",
+            "não aprendida"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é o Estímulo Incondicionado (EI)? Um evento ambiental que elicia uma resposta inata, biológica e não aprendida do organismo."
+    },
+    {
+      "id": "fund-oral-108",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é o Estímulo Condicionado (EC)?",
+      "modelAnswer": "É o antigo estímulo neutro que, após emparelhamento repetido com o estímulo incondicionado, passa a eliciar a resposta condicionada por conta própria.",
+      "keyPoints": [
+        {
+          "text": "Antigo estímulo neutro que passa a eliciar a resposta",
+          "weight": 1,
+          "keywords": [
+            "estímulo neutro",
+            "eliciar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "7"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é o Estímulo Condicionado (EC)? É o antigo estímulo neutro que, após emparelhamento repetido com o estímulo incondicionado, passa a eliciar a resposta condicionada por conta própria."
+    },
+    {
+      "id": "fund-oral-109",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que ocorre no processo de extinção do condicionamento clássico?",
+      "modelAnswer": "A Resposta Condicionada diminui de intensidade até desaparecer, pois o Estímulo Condicionado é apresentado repetidamente sem o Estímulo Incondicionado.",
+      "keyPoints": [
+        {
+          "text": "RC diminui até desaparecer, sem apresentação do EI",
+          "weight": 1,
+          "keywords": [
+            "diminui",
+            "desaparecer"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que ocorre no processo de extinção do condicionamento clássico? A Resposta Condicionada diminui de intensidade até desaparecer, pois o Estímulo Condicionado é apresentado repetidamente sem o Estímulo Incondicionado."
+    },
+    {
+      "id": "fund-oral-110",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a recuperação espontânea?",
+      "modelAnswer": "É quando, após a extinção e um período de descanso, o Estímulo Condicionado volta a eliciar a Resposta Condicionada, com menor intensidade.",
+      "keyPoints": [
+        {
+          "text": "EC volta a eliciar RC com menor intensidade",
+          "weight": 1,
+          "keywords": [
+            "menor intensidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a recuperação espontânea? É quando, após a extinção e um período de descanso, o Estímulo Condicionado volta a eliciar a Resposta Condicionada, com menor intensidade."
+    },
+    {
+      "id": "fund-oral-111",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "O que é a generalização de estímulos?",
+      "modelAnswer": "É a tendência do organismo de emitir a Resposta Condicionada diante de estímulos semelhantes ao Estímulo Condicionado original.",
+      "keyPoints": [
+        {
+          "text": "Resposta a estímulos semelhantes ao original",
+          "weight": 1,
+          "keywords": [
+            "semelhantes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a generalização de estímulos? É a tendência do organismo de emitir a Resposta Condicionada diante de estímulos semelhantes ao Estímulo Condicionado original."
+    },
+    {
+      "id": "fund-oral-112",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Em qual técnica terapêutica para fobias específicas o processo de extinção é aplicado clinicamente?",
+      "modelAnswer": "Na dessensibilização sistemática.",
+      "keyPoints": [
+        {
+          "text": "Dessensibilização sistemática",
+          "weight": 1,
+          "keywords": [
+            "dessensibilização sistemática"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Em qual técnica terapêutica para fobias específicas o processo de extinção é aplicado clinicamente? Na dessensibilização sistemática."
+    },
+    {
+      "id": "fund-oral-113",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "No exemplo da náusea antecipatória em pacientes oncológicos, o que representa o ambiente hospitalar no processo de condicionamento?",
+      "modelAnswer": "O Estímulo Condicionado.",
+      "keyPoints": [
+        {
+          "text": "Estímulo Condicionado",
+          "weight": 1,
+          "keywords": [
+            "estímulo condicionado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "9-10"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "No exemplo da náusea antecipatória em pacientes oncológicos, o que representa o ambiente hospitalar no processo de condicionamento? O Estímulo Condicionado."
+    },
+    {
+      "id": "fund-oral-114",
+      "topic": "Condicionamento clássico (Pavlov)",
+      "question": "Segundo Figueiredo (2009), o que o organismo aprende a ler, por meio do condicionamento clássico, além dos estímulos biológicos imediatos?",
+      "modelAnswer": "Os sinais do ambiente que antecipam eventos vitais.",
+      "keyPoints": [
+        {
+          "text": "Sinais que antecipam eventos vitais",
+          "weight": 1,
+          "keywords": [
+            "antecipam eventos vitais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "8"
+      },
+      "subject": "Condicionamento clássico (Pavlov)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Figueiredo (2009), o que o organismo aprende a ler, por meio do condicionamento clássico, além dos estímulos biológicos imediatos? Os sinais do ambiente que antecipam eventos vitais."
     }
   ]
 }
