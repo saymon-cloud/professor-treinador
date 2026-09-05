@@ -27,3 +27,5 @@ usado pelo app.
 | 19 | Neuroanatomofisiologia | Cerebelo | 2026-09-04 | `6d71517` |
 | 20 | Neuroanatomofisiologia | Tronco encefálico | 2026-09-04 | `4416707` |
 | 21 | Neuroanatomofisiologia | Diencéfalo e núcleos da base | 2026-09-04 | `4416707` |
+| 22 | Neuroanatomofisiologia | Meninges e líquor | 2026-09-05 | `11d6908` |
+| 23 | Neuroanatomofisiologia | Vascularização do SNC | 2026-09-05 | `11d6908` |
