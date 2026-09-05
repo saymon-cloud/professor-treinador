@@ -4013,6 +4013,1436 @@
       "subject": "Plasticidade neural",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam, após o nascimento, a: Após o nascimento, o sistema nervoso continua a amadurecer: embora a maioria dos 100 bilhões de neurônios já esteja formada no nascimento, os neurônios continuam a fazer novas conexões com outras estruturas por meio de ramificações dendríticas, além de remodelar outras conexões já existentes."
+    },
+    {
+      "id": "neuro-obj-186",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, a porção inferior da medula espinhal, no indivíduo adulto, localiza-se entre:",
+      "options": {
+        "a": "A primeira e a segunda vértebras lombares",
+        "b": "A quinta vértebra torácica e a primeira lombar",
+        "c": "A primeira e a segunda vértebras sacrais",
+        "d": "A sétima vértebra cervical e a primeira torácica",
+        "e": "A décima segunda vértebra torácica e a segunda lombar"
+      },
+      "correct": "a",
+      "explanation": "A porção superior da medula continua o bulbo, a nível do forame magno; sua porção inferior, no adulto, localiza-se entre a primeira e a segunda vértebras lombares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a porção inferior da medula espinhal, no indivíduo adulto, localiza-se entre: A porção superior da medula continua o bulbo, a nível do forame magno; sua porção inferior, no adulto, localiza-se entre a primeira e a segunda vértebras lombares."
+    },
+    {
+      "id": "neuro-obj-187",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, hérnias de disco que ocorrem entre as vértebras L4-L5 ou L5-S1 não comprimem a medula espinhal porque:",
+      "options": {
+        "a": "A medula termina a nível da segunda vértebra lombar, não ocupando todo o canal vertebral no adulto",
+        "b": "A medula é uma estrutura extremamente resistente a compressões em qualquer altura da coluna",
+        "c": "Essas hérnias ocorrem exclusivamente em nível cervical",
+        "d": "A medula espinhal se regenera completamente após qualquer lesão",
+        "e": "O canal vertebral é mais largo nessa região do que em qualquer outra"
+      },
+      "correct": "a",
+      "explanation": "Como a medula não ocupa todo o canal vertebral no adulto (seu limite inferior é a nível de L2), hérnias entre L4-L5 ou L5-S1, bem como fraturas das últimas vértebras lombares ou do sacro, não comprimem a medula, podendo levar apenas a lesões do tipo periférica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, hérnias de disco que ocorrem entre as vértebras L4-L5 ou L5-S1 não comprimem a medula espinhal porque: Como a medula não ocupa todo o canal vertebral no adulto (seu limite inferior é a nível de L2), hérnias entre L4-L5 ou L5-S1, bem como fraturas das últimas vértebras lombares ou do sacro, não comprimem a medula, podendo levar apenas a lesões do tipo periférica."
+    },
+    {
+      "id": "neuro-obj-188",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, a porção final da medula, que se afunila formando o cone medular, continua com um filamento meníngeo delgado chamado filamento terminal, que representa um prolongamento:",
+      "options": {
+        "a": "Da pia-máter",
+        "b": "Da dura-máter",
+        "c": "Da aracnoide",
+        "d": "Do periósteo vertebral",
+        "e": "Do ligamento amarelo"
+      },
+      "correct": "a",
+      "explanation": "Em sua porção final, a medula afunila-se formando o cone medular, que continua com o filamento terminal, um prolongamento da pia-máter, um dos envoltórios do Sistema Nervoso Central.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a porção final da medula, que se afunila formando o cone medular, continua com um filamento meníngeo delgado chamado filamento terminal, que representa um prolongamento: Em sua porção final, a medula afunila-se formando o cone medular, que continua com o filamento terminal, um prolongamento da pia-máter, um dos envoltórios do Sistema Nervoso Central."
+    },
+    {
+      "id": "neuro-obj-189",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, as dilatações da medula espinhal denominadas intumescência cervical e lombar correspondem às áreas que fazem conexão com:",
+      "options": {
+        "a": "As grossas raízes nervosas que formam os plexos braquial e lombo-sacro, destinados à inervação dos membros superiores e inferiores",
+        "b": "Exclusivamente os núcleos da base",
+        "c": "Exclusivamente o sistema nervoso autônomo simpático",
+        "d": "Os nervos cranianos que emergem do tronco encefálico",
+        "e": "O cerebelo, por meio dos pedúnculos cerebelares"
+      },
+      "correct": "a",
+      "explanation": "As intumescências cervical e lombar correspondem às áreas que fazem conexões com as grossas raízes nervosas que formam os plexos braquial e lombo-sacro, destinados à inervação dos membros superiores e inferiores, respectivamente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as dilatações da medula espinhal denominadas intumescência cervical e lombar correspondem às áreas que fazem conexão com: As intumescências cervical e lombar correspondem às áreas que fazem conexões com as grossas raízes nervosas que formam os plexos braquial e lombo-sacro, destinados à inervação dos membros superiores e inferiores, respectivamente."
+    },
+    {
+      "id": "neuro-obj-190",
+      "topic": "Medula espinhal",
+      "question": "Em um corte transversal da medula espinhal, é possível observar a substância cinzenta disposta centralmente, assumindo aproximadamente a forma da letra H, enquanto a substância branca localiza-se perifericamente. Segundo o material, isso ocorre porque a substância cinzenta é formada principalmente por:",
+      "options": {
+        "a": "Corpos celulares, enquanto a substância branca é constituída por fibras mielinizadas",
+        "b": "Fibras mielinizadas, enquanto a substância branca é formada por corpos celulares",
+        "c": "Líquido cefalorraquidiano, enquanto a substância branca é formada por vasos sanguíneos",
+        "d": "Células da glia exclusivamente, sem qualquer neurônio",
+        "e": "Tecido conjuntivo, semelhante às meninges"
+      },
+      "correct": "a",
+      "explanation": "A substância cinzenta é formada, principalmente, por corpos celulares, e a substância branca é constituída por fibras mielinizadas, que sobem e descem a medula, constituindo os vários tratos de fibras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "baixo",
+      "miniLesson": "Em um corte transversal da medula espinhal, é possível observar a substância cinzenta disposta centralmente, assumindo aproximadamente a forma da letra H, enquanto a substância branca localiza-se perifericamente. Segundo o material, isso ocorre porque a substância cinzenta é formada principalmente por: A substância cinzenta é formada, principalmente, por corpos celulares, e a substância branca é constituída por fibras mielinizadas, que sobem e descem a medula, constituindo os vários tratos de fibras."
+    },
+    {
+      "id": "neuro-obj-191",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, a substância cinzenta da medula espinhal pode ser dividida em três colunas: anterior, posterior e lateral. A coluna lateral está localizada apenas:",
+      "options": {
+        "a": "Na coluna torácica, sendo importante para o Sistema Nervoso Autônomo",
+        "b": "Na coluna cervical, sendo relacionada aos nervos cranianos",
+        "c": "Na coluna sacral, sendo relacionada à cauda equina",
+        "d": "Em toda a extensão da medula, igualmente distribuída",
+        "e": "Exclusivamente no cone medular"
+      },
+      "correct": "a",
+      "explanation": "Na substância cinzenta, podem-se distinguir três colunas: anterior, posterior e lateral (esta localizada apenas na coluna torácica, cuja importância se relaciona ao Sistema Nervoso Autônomo).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a substância cinzenta da medula espinhal pode ser dividida em três colunas: anterior, posterior e lateral. A coluna lateral está localizada apenas: Na substância cinzenta, podem-se distinguir três colunas: anterior, posterior e lateral (esta localizada apenas na coluna torácica, cuja importância se relaciona ao Sistema Nervoso Autônomo)."
+    },
+    {
+      "id": "neuro-obj-192",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, a substância branca da medula espinhal é dividida, de acordo com a localização entre os sulcos, em três funículos:",
+      "options": {
+        "a": "Anterior, lateral e posterior",
+        "b": "Superior, médio e inferior",
+        "c": "Dorsal, ventral e transverso",
+        "d": "Cervical, torácico e lombar",
+        "e": "Motor, sensitivo e misto"
+      },
+      "correct": "a",
+      "explanation": "Na substância branca, a divisão é em funículos: anterior (entre a fissura mediana anterior e o sulco lateral anterior), lateral (entre os sulcos lateral anterior e posterior) e posterior (entre o sulco lateral posterior e o sulco mediano posterior).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a substância branca da medula espinhal é dividida, de acordo com a localização entre os sulcos, em três funículos: Na substância branca, a divisão é em funículos: anterior (entre a fissura mediana anterior e o sulco lateral anterior), lateral (entre os sulcos lateral anterior e posterior) e posterior (entre o sulco lateral posterior e o sulco mediano posterior)."
+    },
+    {
+      "id": "neuro-obj-193",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, de modo funcional, a coluna cinzenta posterior da medula pode ser considerada a porção sensitiva, pois nela estão presentes os corpos celulares que:",
+      "options": {
+        "a": "Recebem informações da periferia por meio do Sistema Nervoso Periférico",
+        "b": "Emitem impulsos motores destinados aos músculos estriados",
+        "c": "Formam exclusivamente os núcleos da base",
+        "d": "Produzem o líquido cefalorraquidiano",
+        "e": "Constituem a substância negra do mesencéfalo"
+      },
+      "correct": "a",
+      "explanation": "Na coluna cinzenta posterior estão presentes os corpos celulares que recebem informações da periferia por meio do Sistema Nervoso Periférico, sendo por isso considerada a porção sensitiva da substância cinzenta medular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, de modo funcional, a coluna cinzenta posterior da medula pode ser considerada a porção sensitiva, pois nela estão presentes os corpos celulares que: Na coluna cinzenta posterior estão presentes os corpos celulares que recebem informações da periferia por meio do Sistema Nervoso Periférico, sendo por isso considerada a porção sensitiva da substância cinzenta medular."
+    },
+    {
+      "id": "neuro-obj-194",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, na coluna cinzenta anterior da medula espinhal, estão situados os corpos celulares que:",
+      "options": {
+        "a": "Emitem impulsos para fora da medula, em um caminho descendente destinado aos músculos estriados",
+        "b": "Recebem informações sensoriais provenientes da periferia",
+        "c": "Compõem exclusivamente o Sistema Nervoso Autônomo parassimpático",
+        "d": "Produzem melatonina para regulação dos ritmos circadianos",
+        "e": "Formam o corpo estriado, relacionado ao planejamento motor"
+      },
+      "correct": "a",
+      "explanation": "Na coluna cinzenta anterior, estão situados os corpos celulares que emitem impulsos para fora da medula, em um caminho descendente destinado aos músculos estriados, sendo considerada a porção motora da substância cinzenta medular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "6"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na coluna cinzenta anterior da medula espinhal, estão situados os corpos celulares que: Na coluna cinzenta anterior, estão situados os corpos celulares que emitem impulsos para fora da medula, em um caminho descendente destinado aos músculos estriados, sendo considerada a porção motora da substância cinzenta medular."
+    },
+    {
+      "id": "neuro-obj-195",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, um indivíduo que sofre lesão na medula espinhal, estrutura condutora de informações nos sentidos ascendente e descendente, poderá desenvolver alterações que envolvam, respectivamente, os sistemas:",
+      "options": {
+        "a": "Sensorial e motor",
+        "b": "Endócrino e digestivo",
+        "c": "Auditivo e visual",
+        "d": "Circulatório e respiratório exclusivamente",
+        "e": "Nenhum sistema é afetado por lesões medulares"
+      },
+      "correct": "a",
+      "explanation": "A via ascendente leva informações sensoriais (como dor e temperatura) da periferia às estruturas encefálicas, e a via descendente leva informações motoras das estruturas superiores à periferia; uma lesão medular pode, portanto, alterar os sistemas sensorial e motor.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "6"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um indivíduo que sofre lesão na medula espinhal, estrutura condutora de informações nos sentidos ascendente e descendente, poderá desenvolver alterações que envolvam, respectivamente, os sistemas: A via ascendente leva informações sensoriais (como dor e temperatura) da periferia às estruturas encefálicas, e a via descendente leva informações motoras das estruturas superiores à periferia; uma lesão medular pode, portanto, alterar os sistemas sensorial e motor."
+    },
+    {
+      "id": "neuro-obj-196",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os pequenos filamentos nervosos que fazem conexão com a medula espinhal a nível dos sulcos lateral anterior e posterior, unindo-se para formar as raízes ventral e dorsal dos nervos espinhais, são chamados de:",
+      "options": {
+        "a": "Filamentos radiculares",
+        "b": "Filamentos terminais",
+        "c": "Trabéculas aracnoides",
+        "d": "Fascículos cordonais",
+        "e": "Neurônios internunciais"
+      },
+      "correct": "a",
+      "explanation": "Pequenos filamentos nervosos, conhecidos como filamentos radiculares, fazem conexão com a medula espinhal a nível dos sulcos lateral anterior e posterior, unindo-se para formar as raízes ventral (anterior) e dorsal (posterior) dos nervos espinhais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "6"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os pequenos filamentos nervosos que fazem conexão com a medula espinhal a nível dos sulcos lateral anterior e posterior, unindo-se para formar as raízes ventral e dorsal dos nervos espinhais, são chamados de: Pequenos filamentos nervosos, conhecidos como filamentos radiculares, fazem conexão com a medula espinhal a nível dos sulcos lateral anterior e posterior, unindo-se para formar as raízes ventral (anterior) e dorsal (posterior) dos nervos espinhais."
+    },
+    {
+      "id": "neuro-obj-197",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, existem 31 pares de nervos espinhais, correspondentes a:",
+      "options": {
+        "a": "8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo",
+        "b": "7 cervicais, 12 torácicos, 5 lombares, 5 sacrais e 2 coccígeos",
+        "c": "12 cervicais, 8 torácicos, 5 lombares, 5 sacrais e 1 coccígeo",
+        "d": "8 cervicais, 5 torácicos, 12 lombares, 5 sacrais e 1 coccígeo",
+        "e": "10 cervicais, 10 torácicos, 5 lombares, 5 sacrais e 1 coccígeo"
+      },
+      "correct": "a",
+      "explanation": "Existem 31 pares de nervos espinhais, que correspondem a: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem 31 pares de nervos espinhais, correspondentes a: Existem 31 pares de nervos espinhais, que correspondem a: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo."
+    },
+    {
+      "id": "neuro-obj-198",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, embora existam 8 pares de nervos cervicais, há apenas 7 vértebras cervicais. Isso ocorre porque:",
+      "options": {
+        "a": "O primeiro par cervical emerge acima da primeira vértebra cervical, e o oitavo par emerge abaixo da sétima vértebra",
+        "b": "Um dos nervos cervicais não possui raiz dorsal, sendo puramente motor",
+        "c": "Dois pares de nervos cervicais compartilham o mesmo forame intervertebral",
+        "d": "A oitava vértebra cervical está fusionada à primeira torácica",
+        "e": "O oitavo nervo cervical, na verdade, pertence ao plexo lombo-sacro"
+      },
+      "correct": "a",
+      "explanation": "O primeiro par cervical emerge acima da primeira vértebra cervical (entre ela e o osso occipital), e o oitavo par emerge abaixo da sétima vértebra, ocorrendo o mesmo processo com os nervos espinhais abaixo, que emergem sempre abaixo da vértebra correspondente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, embora existam 8 pares de nervos cervicais, há apenas 7 vértebras cervicais. Isso ocorre porque: O primeiro par cervical emerge acima da primeira vértebra cervical (entre ela e o osso occipital), e o oitavo par emerge abaixo da sétima vértebra, ocorrendo o mesmo processo com os nervos espinhais abaixo, que emergem sempre abaixo da vértebra correspondente."
+    },
+    {
+      "id": "neuro-obj-199",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, abaixo do nível da segunda vértebra lombar, onde termina a medula espinhal no adulto, estão presentes apenas meninges e raízes nervosas dos últimos nervos espinhais, formando um conjunto denominado:",
+      "options": {
+        "a": "Cauda equina",
+        "b": "Cone medular",
+        "c": "Filamento terminal",
+        "d": "Plexo lombo-sacro",
+        "e": "Polígono de Willis"
+      },
+      "correct": "a",
+      "explanation": "Abaixo do nível da segunda vértebra lombar, limite inferior da medula no adulto, estão presentes apenas meninges e raízes nervosas dos últimos nervos espinhais, que, em conjunto, são chamadas de cauda equina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, abaixo do nível da segunda vértebra lombar, onde termina a medula espinhal no adulto, estão presentes apenas meninges e raízes nervosas dos últimos nervos espinhais, formando um conjunto denominado: Abaixo do nível da segunda vértebra lombar, limite inferior da medula no adulto, estão presentes apenas meninges e raízes nervosas dos últimos nervos espinhais, que, em conjunto, são chamadas de cauda equina."
+    },
+    {
+      "id": "neuro-obj-200",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, a existência da Regra de Peele decorre do fato de que:",
+      "options": {
+        "a": "Há diferença de ritmo entre o crescimento da coluna vertebral e da medula espinhal, causando afastamento entre segmentos medulares e vértebras correspondentes",
+        "b": "Os nervos cranianos e espinhais possuem o mesmo padrão de emergência",
+        "c": "A medula espinhal cresce mais rapidamente que a coluna vertebral ao longo de toda a vida",
+        "d": "Não existe qualquer relação entre segmentos medulares e vértebras",
+        "e": "Todas as vértebras correspondem exatamente ao segmento medular de mesmo número"
+      },
+      "correct": "a",
+      "explanation": "A diferença de ritmo entre o crescimento da coluna vertebral e a medula espinhal faz com que haja afastamento dos segmentos medulares das vértebras correspondentes, motivando a existência da Regra de Peele, prática usada para identificar o segmento medular subjacente a uma vértebra.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a existência da Regra de Peele decorre do fato de que: A diferença de ritmo entre o crescimento da coluna vertebral e a medula espinhal faz com que haja afastamento dos segmentos medulares das vértebras correspondentes, motivando a existência da Regra de Peele, prática usada para identificar o segmento medular subjacente a uma vértebra."
+    },
+    {
+      "id": "neuro-obj-201",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os neurônios de axônio longo da substância cinzenta medular, também conhecidos como do tipo I de Golgi, incluem os neurônios:",
+      "options": {
+        "a": "Radiculares e cordonais",
+        "b": "Internunciais exclusivamente",
+        "c": "Piramidais e extrapiramidais",
+        "d": "Apenas os motoneurônios GAMA",
+        "e": "De Renshaw exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Estão presentes os neurônios de axônio longo, também conhecidos como do tipo I de Golgi — que incluem os neurônios radiculares e cordonais — e os neurônios de axônio curto, ou tipo II de Golgi.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "8"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurônios de axônio longo da substância cinzenta medular, também conhecidos como do tipo I de Golgi, incluem os neurônios: Estão presentes os neurônios de axônio longo, também conhecidos como do tipo I de Golgi — que incluem os neurônios radiculares e cordonais — e os neurônios de axônio curto, ou tipo II de Golgi."
+    },
+    {
+      "id": "neuro-obj-202",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os neurônios radiculares viscerais correspondem aos neurônios pré-ganglionares do Sistema Nervoso Autônomo, destinados à inervação de:",
+      "options": {
+        "a": "Músculos lisos, cardíacos ou glândulas",
+        "b": "Exclusivamente a musculatura estriada esquelética",
+        "c": "Exclusivamente o tecido ósseo",
+        "d": "Exclusivamente o córtex cerebral",
+        "e": "Exclusivamente as meninges"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios radiculares podem ser divididos em radiculares viscerais, que são os neurônios pré-ganglionares do Sistema Nervoso Autônomo destinados à inervação dos músculos lisos, cardíacos ou glândulas, e radiculares somáticos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "8"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurônios radiculares viscerais correspondem aos neurônios pré-ganglionares do Sistema Nervoso Autônomo, destinados à inervação de: Os neurônios radiculares podem ser divididos em radiculares viscerais, que são os neurônios pré-ganglionares do Sistema Nervoso Autônomo destinados à inervação dos músculos lisos, cardíacos ou glândulas, e radiculares somáticos."
+    },
+    {
+      "id": "neuro-obj-203",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os neurônios radiculares somáticos, localizados na coluna anterior da medula e responsáveis por inervar a musculatura estriada esquelética, também são conhecidos como:",
+      "options": {
+        "a": "Neurônios motores primários ou inferiores, ou via motora final comum de Sherrington",
+        "b": "Neurônios internunciais",
+        "c": "Células de Renshaw",
+        "d": "Neurônios de projeção do tálamo",
+        "e": "Neurônios pré-ganglionares parassimpáticos"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios radiculares somáticos são também chamados de neurônios motores primários ou neurônios motores inferiores, ou ainda, via motora final comum de Sherrington, classificados em motoneurônios ALFA e GAMA.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, os neurônios radiculares somáticos, localizados na coluna anterior da medula e responsáveis por inervar a musculatura estriada esquelética, também são conhecidos como: Os neurônios radiculares somáticos são também chamados de neurônios motores primários ou neurônios motores inferiores, ou ainda, via motora final comum de Sherrington, classificados em motoneurônios ALFA e GAMA."
+    },
+    {
+      "id": "neuro-obj-204",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os motoneurônios ALFA são grandes, de axônio de grosso calibre, e inervam fibras musculares que contribuem efetivamente para a contração muscular, conhecidas como fibras:",
+      "options": {
+        "a": "Extrafusais, constituindo uma unidade motora",
+        "b": "Intrafusais exclusivamente",
+        "c": "Piramidais",
+        "d": "Cordonais",
+        "e": "Ependimárias"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios ALFA são grandes, de axônio de grosso calibre, e inervam as fibras musculares extrafusais, que contribuem efetivamente para a contração muscular, constituindo uma unidade motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os motoneurônios ALFA são grandes, de axônio de grosso calibre, e inervam fibras musculares que contribuem efetivamente para a contração muscular, conhecidas como fibras: Os neurônios ALFA são grandes, de axônio de grosso calibre, e inervam as fibras musculares extrafusais, que contribuem efetivamente para a contração muscular, constituindo uma unidade motora."
+    },
+    {
+      "id": "neuro-obj-205",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os motoneurônios GAMA, menores e de axônio fino, são destinados à inervação das fibras localizadas mais internamente ao músculo, conhecidas como fibras:",
+      "options": {
+        "a": "Intrafusais",
+        "b": "Extrafusais",
+        "c": "Mielinizadas exclusivamente",
+        "d": "Radiculares viscerais",
+        "e": "Amielínicas exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios GAMA são menores, de axônio fino, e são destinados à inervação das fibras intrafusais, localizadas mais internamente ao músculo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os motoneurônios GAMA, menores e de axônio fino, são destinados à inervação das fibras localizadas mais internamente ao músculo, conhecidas como fibras: Os neurônios GAMA são menores, de axônio fino, e são destinados à inervação das fibras intrafusais, localizadas mais internamente ao músculo."
+    },
+    {
+      "id": "neuro-obj-206",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o fenômeno em que a contração voluntária de um músculo ativa simultaneamente os motoneurônios ALFA e GAMA é denominado:",
+      "options": {
+        "a": "Coativação alfa-gama",
+        "b": "Decussação das pirâmides",
+        "c": "Recentralização motora",
+        "d": "Somação temporal",
+        "e": "Potenciação de longa duração"
+      },
+      "correct": "a",
+      "explanation": "Ao contrair voluntariamente um músculo, ocorre a ativação de ambos os motoneurônios (ALFA e GAMA), fenômeno chamado de coativação alfa-gama, representando uma neurorregulação periférica da contração muscular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o fenômeno em que a contração voluntária de um músculo ativa simultaneamente os motoneurônios ALFA e GAMA é denominado: Ao contrair voluntariamente um músculo, ocorre a ativação de ambos os motoneurônios (ALFA e GAMA), fenômeno chamado de coativação alfa-gama, representando uma neurorregulação periférica da contração muscular."
+    },
+    {
+      "id": "neuro-obj-207",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os neurônios cordonais são aqueles de axônio longo cujos axônios ganham a substância branca da medula, tomando direção ascendente ou descendente. Um neurônio cordonal é considerado 'de projeção' quando:",
+      "options": {
+        "a": "Possui axônio longo que termina fora da medula, por exemplo, no tálamo ou no cerebelo",
+        "b": "Bifurca-se em ascendente e descendente, terminando na própria substância cinzenta da medula",
+        "c": "É exclusivamente do tipo II de Golgi",
+        "d": "Constitui uma célula de Renshaw",
+        "e": "É destinado apenas à inervação visceral"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios cordonais podem ser considerados de projeção, quando possuem axônio longo que termina fora da medula (por exemplo, no tálamo ou cerebelo), ou de associação, que se bifurcam em ascendente e descendente, terminando na substância cinzenta da própria medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, os neurônios cordonais são aqueles de axônio longo cujos axônios ganham a substância branca da medula, tomando direção ascendente ou descendente. Um neurônio cordonal é considerado 'de projeção' quando: Os neurônios cordonais podem ser considerados de projeção, quando possuem axônio longo que termina fora da medula (por exemplo, no tálamo ou cerebelo), ou de associação, que se bifurcam em ascendente e descendente, terminando na substância cinzenta da própria medula."
+    },
+    {
+      "id": "neuro-obj-208",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os neurônios de axônio curto da medula espinhal, também conhecidos como internunciais, estabelecem conexões entre as fibras que entram pelas raízes dorsais e os neurônios motores, interpondo-se em:",
+      "options": {
+        "a": "Vários arcos reflexos medulares",
+        "b": "Exclusivamente os tratos piramidais",
+        "c": "Exclusivamente a substância negra",
+        "d": "Exclusivamente o corpo estriado",
+        "e": "Exclusivamente o sistema límbico"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios de axônio curto, ou internunciais, são pequenos e estabelecem conexões entre as fibras que entram na medula pelas raízes dorsais e os neurônios motores, interpondo-se em vários arcos reflexos medulares, modificando a 'conversa' entre o neurônio sensitivo e o motor.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, os neurônios de axônio curto da medula espinhal, também conhecidos como internunciais, estabelecem conexões entre as fibras que entram pelas raízes dorsais e os neurônios motores, interpondo-se em: Os neurônios de axônio curto, ou internunciais, são pequenos e estabelecem conexões entre as fibras que entram na medula pelas raízes dorsais e os neurônios motores, interpondo-se em vários arcos reflexos medulares, modificando a 'conversa' entre o neurônio sensitivo e o motor."
+    },
+    {
+      "id": "neuro-obj-209",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material (citando LENT, 2004), um tipo especial de neurônio de axônio curto encontrado na medula espinhal é a:",
+      "options": {
+        "a": "Célula de Renshaw",
+        "b": "Célula de Purkinje",
+        "c": "Célula de Schwann",
+        "d": "Célula de Sherrington",
+        "e": "Célula de Betz"
+      },
+      "correct": "a",
+      "explanation": "Segundo LENT (2004), citado no material, um tipo especial de neurônio de axônio curto encontrado na medula é a célula de Renshaw.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material (citando LENT, 2004), um tipo especial de neurônio de axônio curto encontrado na medula espinhal é a: Segundo LENT (2004), citado no material, um tipo especial de neurônio de axônio curto encontrado na medula é a célula de Renshaw."
+    },
+    {
+      "id": "neuro-obj-210",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, as vias descendentes que passam pelas pirâmides bulbares antes de entrar na medula, e que compreendem os tratos córtico-espinhal anterior e lateral, são chamadas de vias:",
+      "options": {
+        "a": "Piramidais",
+        "b": "Extrapiramidais",
+        "c": "Espinotalâmicas",
+        "d": "Espinocerebelares",
+        "e": "Radiculares"
+      },
+      "correct": "a",
+      "explanation": "As vias piramidais recebem esse nome porque, antes de entrar na medula, passam pelas pirâmides bulbares, estrutura localizada no tronco encefálico; compreendem os tratos córtico-espinhal anterior e lateral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as vias descendentes que passam pelas pirâmides bulbares antes de entrar na medula, e que compreendem os tratos córtico-espinhal anterior e lateral, são chamadas de vias: As vias piramidais recebem esse nome porque, antes de entrar na medula, passam pelas pirâmides bulbares, estrutura localizada no tronco encefálico; compreendem os tratos córtico-espinhal anterior e lateral."
+    },
+    {
+      "id": "neuro-obj-211",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o trato córtico-espinhal lateral, também conhecido como piramidal cruzado, apresenta as seguintes características: localiza-se no funículo lateral da medula, estende-se por toda a extensão medular, cruza na decussação das pirâmides e corresponde a:",
+      "options": {
+        "a": "75 a 90% das fibras do trato córtico-espinhal",
+        "b": "10 a 20% das fibras do trato córtico-espinhal",
+        "c": "Exatamente 50% das fibras do trato córtico-espinhal",
+        "d": "100% das fibras do trato córtico-espinhal",
+        "e": "Menos de 5% das fibras do trato córtico-espinhal"
+      },
+      "correct": "a",
+      "explanation": "O trato córtico-espinhal lateral (piramidal cruzado) localiza-se no funículo lateral, estende-se por toda a extensão da medula, cruza na decussação das pirâmides e corresponde a 75 a 90% das fibras do trato córtico-espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "11"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o trato córtico-espinhal lateral, também conhecido como piramidal cruzado, apresenta as seguintes características: localiza-se no funículo lateral da medula, estende-se por toda a extensão medular, cruza na decussação das pirâmides e corresponde a: O trato córtico-espinhal lateral (piramidal cruzado) localiza-se no funículo lateral, estende-se por toda a extensão da medula, cruza na decussação das pirâmides e corresponde a 75 a 90% das fibras do trato córtico-espinhal."
+    },
+    {
+      "id": "neuro-obj-212",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o trato córtico-espinhal anterior, ou piramidal direto, localiza-se no funículo anterior da medula, estende-se apenas até a medula torácica média e cruza:",
+      "options": {
+        "a": "Ao término na medula, pouco antes de terminar nos neurônios motores do lado oposto ao que entrou",
+        "b": "Na decussação das pirâmides, assim como o trato córtico-espinhal lateral",
+        "c": "Nunca, permanecendo sempre do mesmo lado em que se originou",
+        "d": "No bulbo, antes de entrar na medula",
+        "e": "No mesencéfalo, a nível do núcleo rubro"
+      },
+      "correct": "a",
+      "explanation": "O trato córtico-espinhal anterior (piramidal direto), diferentemente do trato lateral, cruza apenas ao término na medula, pouco antes de terminar nos neurônios motores situados do lado oposto ao qual entrou.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "11"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o trato córtico-espinhal anterior, ou piramidal direto, localiza-se no funículo anterior da medula, estende-se apenas até a medula torácica média e cruza: O trato córtico-espinhal anterior (piramidal direto), diferentemente do trato lateral, cruza apenas ao término na medula, pouco antes de terminar nos neurônios motores situados do lado oposto ao qual entrou."
+    },
+    {
+      "id": "neuro-obj-213",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o fato de a motricidade voluntária ser cruzada — ou seja, o córtex de um hemisfério cerebral comandar os neurônios motores localizados na medula do lado oposto — implica que uma lesão da via córtico-espinhal acima da decussação das pirâmides pode gerar:",
+      "options": {
+        "a": "Déficits de movimento na metade oposta do corpo",
+        "b": "Déficits de movimento apenas no mesmo lado da lesão",
+        "c": "Perda completa e bilateral da sensibilidade",
+        "d": "Cegueira bilateral",
+        "e": "Perda do olfato ipsilateral"
+      },
+      "correct": "a",
+      "explanation": "Como a motricidade voluntária é cruzada, uma lesão da via córtico-espinhal acima da decussação das pirâmides pode gerar déficits de movimento na metade oposta do corpo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "11"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o fato de a motricidade voluntária ser cruzada — ou seja, o córtex de um hemisfério cerebral comandar os neurônios motores localizados na medula do lado oposto — implica que uma lesão da via córtico-espinhal acima da decussação das pirâmides pode gerar: Como a motricidade voluntária é cruzada, uma lesão da via córtico-espinhal acima da decussação das pirâmides pode gerar déficits de movimento na metade oposta do corpo."
+    },
+    {
+      "id": "neuro-obj-214",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, as vias extrapiramidais recebem os nomes de acordo com os locais onde se originam. A via rubro-espinhal origina-se:",
+      "options": {
+        "a": "No núcleo rubro do mesencéfalo",
+        "b": "No teto do mesencéfalo",
+        "c": "Nos núcleos vestibulares",
+        "d": "Na formação reticular do tronco encefálico",
+        "e": "No córtex motor primário"
+      },
+      "correct": "a",
+      "explanation": "Entre as vias extrapiramidais, a via rubro-espinhal origina-se no núcleo rubro do mesencéfalo; as demais são a tecto-espinhal (teto do mesencéfalo), a vestíbulo-espinhal (núcleos vestibulares) e a retículo-espinhal (formação reticular do tronco encefálico).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as vias extrapiramidais recebem os nomes de acordo com os locais onde se originam. A via rubro-espinhal origina-se: Entre as vias extrapiramidais, a via rubro-espinhal origina-se no núcleo rubro do mesencéfalo; as demais são a tecto-espinhal (teto do mesencéfalo), a vestíbulo-espinhal (núcleos vestibulares) e a retículo-espinhal (formação reticular do tronco encefálico)."
+    },
+    {
+      "id": "neuro-obj-215",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, as vias extrapiramidais terminam na medula, ligando-se aos neurônios motores da coluna anterior, e exercem função motora atuando principalmente sobre a musculatura axial e proximal dos membros, sendo importantes para:",
+      "options": {
+        "a": "A manutenção do equilíbrio e da postura básica",
+        "b": "Exclusivamente a visão",
+        "c": "Exclusivamente a audição",
+        "d": "Exclusivamente a digestão",
+        "e": "Exclusivamente a memória"
+      },
+      "correct": "a",
+      "explanation": "As vias extrapiramidais terminam na medula e se ligam aos neurônios motores da coluna anterior, exercendo função motora sobre os músculos que controlam a musculatura axial e proximal dos membros, importantes para a manutenção do equilíbrio e da postura básica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as vias extrapiramidais terminam na medula, ligando-se aos neurônios motores da coluna anterior, e exercem função motora atuando principalmente sobre a musculatura axial e proximal dos membros, sendo importantes para: As vias extrapiramidais terminam na medula e se ligam aos neurônios motores da coluna anterior, exercendo função motora sobre os músculos que controlam a musculatura axial e proximal dos membros, importantes para a manutenção do equilíbrio e da postura básica."
+    },
+    {
+      "id": "neuro-obj-216",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os fascículos grácil e cuneiforme, localizados no funículo posterior da medula, conduzem impulsos nervosos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à:",
+      "options": {
+        "a": "Estereognosia",
+        "b": "Dor e temperatura",
+        "c": "Motricidade voluntária",
+        "d": "Regulação hormonal",
+        "e": "Coordenação motora inconsciente"
+      },
+      "correct": "a",
+      "explanation": "O funículo posterior contém os fascículos grácil e cuneiforme, que conduzem impulsos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à estereognosia (capacidade de perceber, com as mãos, a forma e o tamanho de um objeto).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os fascículos grácil e cuneiforme, localizados no funículo posterior da medula, conduzem impulsos nervosos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à: O funículo posterior contém os fascículos grácil e cuneiforme, que conduzem impulsos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à estereognosia (capacidade de perceber, com as mãos, a forma e o tamanho de um objeto)."
+    },
+    {
+      "id": "neuro-obj-217",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o trato espinotalâmico lateral, localizado no funículo lateral da medula, conduz informações relacionadas a:",
+      "options": {
+        "a": "Dor e temperatura",
+        "b": "Tato e pressão exclusivamente",
+        "c": "Propriocepção consciente exclusivamente",
+        "d": "Estereognosia exclusivamente",
+        "e": "Motricidade voluntária"
+      },
+      "correct": "a",
+      "explanation": "No funículo lateral, localiza-se o trato espinotalâmico lateral, que conduz informações de dor e temperatura, além dos tratos espinocerebelar anterior e posterior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "13"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o trato espinotalâmico lateral, localizado no funículo lateral da medula, conduz informações relacionadas a: No funículo lateral, localiza-se o trato espinotalâmico lateral, que conduz informações de dor e temperatura, além dos tratos espinocerebelar anterior e posterior."
+    },
+    {
+      "id": "neuro-obj-218",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, o trato espinotalâmico anterior, localizado no funículo anterior da medula, é responsável por levar impulsos de:",
+      "options": {
+        "a": "Tato e pressão",
+        "b": "Dor e temperatura",
+        "c": "Propriocepção inconsciente",
+        "d": "Estereognosia",
+        "e": "Sensibilidade vibratória"
+      },
+      "correct": "a",
+      "explanation": "No funículo anterior, localiza-se o trato espinotalâmico anterior, que leva impulsos de tato e pressão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o trato espinotalâmico anterior, localizado no funículo anterior da medula, é responsável por levar impulsos de: No funículo anterior, localiza-se o trato espinotalâmico anterior, que leva impulsos de tato e pressão."
+    },
+    {
+      "id": "neuro-obj-219",
+      "topic": "Medula espinhal",
+      "question": "Segundo o material, os tratos espinocerebelar anterior e posterior, localizados no funículo lateral da medula, conduzem informações sobre a intensidade que os impulsos motores chegam à medula e sobre:",
+      "options": {
+        "a": "A propriocepção inconsciente",
+        "b": "A dor e a temperatura",
+        "c": "O tato discriminativo",
+        "d": "A visão",
+        "e": "A audição"
+      },
+      "correct": "a",
+      "explanation": "Além do trato espinotalâmico lateral, o funículo lateral contém os tratos espinocerebelar posterior e anterior, que conduzem informações sobre propriocepção inconsciente e sobre a intensidade que os impulsos motores chegam à medula, para controle da motricidade somática.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "13"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os tratos espinocerebelar anterior e posterior, localizados no funículo lateral da medula, conduzem informações sobre a intensidade que os impulsos motores chegam à medula e sobre: Além do trato espinotalâmico lateral, o funículo lateral contém os tratos espinocerebelar posterior e anterior, que conduzem informações sobre propriocepção inconsciente e sobre a intensidade que os impulsos motores chegam à medula, para controle da motricidade somática."
+    },
+    {
+      "id": "neuro-obj-220",
+      "topic": "Medula espinhal",
+      "question": "Um paciente apresenta perda da sensibilidade relacionada à propriocepção consciente, ao tato discriminativo e à estereognosia em um dos membros inferiores. Com base no material, essa alteração é compatível com lesão localizada no(a):",
+      "options": {
+        "a": "Funículo posterior da medula, nos fascículos grácil e cuneiforme",
+        "b": "Funículo anterior, no trato espinotalâmico anterior",
+        "c": "Funículo lateral, no trato córtico-espinhal lateral",
+        "d": "Coluna cinzenta anterior da medula",
+        "e": "Substância negra do mesencéfalo"
+      },
+      "correct": "a",
+      "explanation": "A propriocepção consciente, o tato discriminativo e a estereognosia são conduzidos pelos fascículos grácil e cuneiforme, localizados no funículo posterior da medula; uma lesão nessa região é compatível com o déficit descrito.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta perda da sensibilidade relacionada à propriocepção consciente, ao tato discriminativo e à estereognosia em um dos membros inferiores. Com base no material, essa alteração é compatível com lesão localizada no(a): A propriocepção consciente, o tato discriminativo e a estereognosia são conduzidos pelos fascículos grácil e cuneiforme, localizados no funículo posterior da medula; uma lesão nessa região é compatível com o déficit descrito."
+    },
+    {
+      "id": "neuro-obj-221",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo é conhecido como 'pequeno cérebro' porque:",
+      "options": {
+        "a": "Se assemelha ao hemisfério cerebral, possuindo uma capa de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca",
+        "b": "Tem exatamente o mesmo tamanho do cérebro",
+        "c": "Controla exclusivamente funções conscientes, assim como o cérebro",
+        "d": "É formado apenas por substância branca, sem qualquer substância cinzenta",
+        "e": "Está localizado dentro dos hemisférios cerebrais"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo se assemelha ao hemisfério cerebral, possuindo uma 'capa' de substância cinzenta, o córtex cerebelar, e formações nucleares mergulhadas na substância branca, assim como o cérebro, sendo por isso conhecido como pequeno cérebro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o cerebelo é conhecido como 'pequeno cérebro' porque: O cerebelo se assemelha ao hemisfério cerebral, possuindo uma 'capa' de substância cinzenta, o córtex cerebelar, e formações nucleares mergulhadas na substância branca, assim como o cérebro, sendo por isso conhecido como pequeno cérebro."
+    },
+    {
+      "id": "neuro-obj-222",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter conhecido como:",
+      "options": {
+        "a": "Tenda do cerebelo",
+        "b": "Foice do cérebro",
+        "c": "Diafragma da sela",
+        "d": "Foice do cerebelo",
+        "e": "Trabécula aracnoide"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter (meninge), conhecido como tenda do cerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter conhecido como: O cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter (meninge), conhecido como tenda do cerebelo."
+    },
+    {
+      "id": "neuro-obj-223",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, por ser praticamente inextensível no local onde se situa, um processo expansivo no cerebelo, mesmo que pequeno, pode provocar rapidamente:",
+      "options": {
+        "a": "Aumento da pressão intracraniana, devido à sua relação próxima com o IV ventrículo",
+        "b": "Diminuição imediata da pressão arterial sistêmica",
+        "c": "Perda completa e permanente da audição",
+        "d": "Aumento da produção de melatonina",
+        "e": "Nenhuma consequência clínica relevante"
+      },
+      "correct": "a",
+      "explanation": "Por ser praticamente inextensível, um processo expansivo no cerebelo, mesmo que pequeno, pode provocar rapidamente um aumento da pressão intracraniana, devido à sua relação próxima com o IV ventrículo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, por ser praticamente inextensível no local onde se situa, um processo expansivo no cerebelo, mesmo que pequeno, pode provocar rapidamente: Por ser praticamente inextensível, um processo expansivo no cerebelo, mesmo que pequeno, pode provocar rapidamente um aumento da pressão intracraniana, devido à sua relação próxima com o IV ventrículo."
+    },
+    {
+      "id": "neuro-obj-224",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de importante relação com:",
+      "options": {
+        "a": "A coordenação e a aprendizagem motora",
+        "b": "A regulação hormonal exclusivamente",
+        "c": "A produção de líquor exclusivamente",
+        "d": "A memória de longo prazo exclusivamente",
+        "e": "A visão cromática exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de muita relação com a coordenação e a aprendizagem motora, exercendo função essencialmente motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de importante relação com: Entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de muita relação com a coordenação e a aprendizagem motora, exercendo função essencialmente motora."
+    },
+    {
+      "id": "neuro-obj-225",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, a principal diferença fisiológica entre o cerebelo e o cérebro é que o cerebelo funciona sempre em nível:",
+      "options": {
+        "a": "Inconsciente e involuntário",
+        "b": "Consciente e voluntário",
+        "c": "Exclusivamente reflexo medular",
+        "d": "Hormonal",
+        "e": "Sensorial primário"
+      },
+      "correct": "a",
+      "explanation": "A principal diferença do cerebelo em relação ao cérebro, a nível fisiológico, é que ele funciona sempre em nível inconsciente e involuntário, ou seja, nossa vontade não perpassa pela ação cerebelar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a principal diferença fisiológica entre o cerebelo e o cérebro é que o cerebelo funciona sempre em nível: A principal diferença do cerebelo em relação ao cérebro, a nível fisiológico, é que ele funciona sempre em nível inconsciente e involuntário, ou seja, nossa vontade não perpassa pela ação cerebelar."
+    },
+    {
+      "id": "neuro-obj-226",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, no cerebelo, distingue-se uma porção ímpar e mediana, ligada a duas grandes massas laterais (os hemisférios cerebelares direito e esquerdo), denominada:",
+      "options": {
+        "a": "Vérmis",
+        "b": "Flóculo",
+        "c": "Nódulo",
+        "d": "Corpo caloso",
+        "e": "Corpo estriado"
+      },
+      "correct": "a",
+      "explanation": "No cerebelo, distingue-se uma porção ímpar e mediana, o vérmis, ligado a duas grandes massas laterais: os hemisférios cerebelares direito e esquerdo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no cerebelo, distingue-se uma porção ímpar e mediana, ligada a duas grandes massas laterais (os hemisférios cerebelares direito e esquerdo), denominada: No cerebelo, distingue-se uma porção ímpar e mediana, o vérmis, ligado a duas grandes massas laterais: os hemisférios cerebelares direito e esquerdo."
+    },
+    {
+      "id": "neuro-obj-227",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, ao observar o cerebelo em vista inferior, visualiza-se uma pequena porção cerebelar separada da restante, chamada de flóculo, unida na porção mediana do vérmis a um lóbulo chamado:",
+      "options": {
+        "a": "Nódulo",
+        "b": "Úvula",
+        "c": "Pirâmide",
+        "d": "Tonsila",
+        "e": "Culmen"
+      },
+      "correct": "a",
+      "explanation": "Ao observar o cerebelo em vista inferior, visualiza-se o flóculo (direito e esquerdo), unido na porção mediana pertencente ao vérmis ao lóbulo chamado nódulo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao observar o cerebelo em vista inferior, visualiza-se uma pequena porção cerebelar separada da restante, chamada de flóculo, unida na porção mediana do vérmis a um lóbulo chamado: Ao observar o cerebelo em vista inferior, visualiza-se o flóculo (direito e esquerdo), unido na porção mediana pertencente ao vérmis ao lóbulo chamado nódulo."
+    },
+    {
+      "id": "neuro-obj-228",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, anatomicamente, o cerebelo pode ser dividido em três lobos: o lobo flóculo-nodular (constituído pelo nódulo e flóculos) e os lobos anterior e posterior, sendo estes dois últimos divididos pela:",
+      "options": {
+        "a": "Fissura primária",
+        "b": "Fissura mediana anterior",
+        "c": "Fissura longitudinal",
+        "d": "Fissura calcarina",
+        "e": "Fissura de Rolando"
+      },
+      "correct": "a",
+      "explanation": "Anatomicamente, o cerebelo divide-se em lobo flóculo-nodular (nódulo e flóculos direito e esquerdo) e lobos anterior e posterior, divididos pela fissura primária.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, anatomicamente, o cerebelo pode ser dividido em três lobos: o lobo flóculo-nodular (constituído pelo nódulo e flóculos) e os lobos anterior e posterior, sendo estes dois últimos divididos pela: Anatomicamente, o cerebelo divide-se em lobo flóculo-nodular (nódulo e flóculos direito e esquerdo) e lobos anterior e posterior, divididos pela fissura primária."
+    },
+    {
+      "id": "neuro-obj-229",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, os estudos filogenéticos, que relacionam a evolução do cerebelo entre diferentes espécies, resultaram na divisão do órgão em três formações, da mais antiga para a mais recente:",
+      "options": {
+        "a": "Arquicerebelo, paleocerebelo e neocerebelo",
+        "b": "Neocerebelo, paleocerebelo e arquicerebelo",
+        "c": "Telencéfalo, diencéfalo e mesencéfalo",
+        "d": "Bulbo, ponte e mesencéfalo",
+        "e": "Vérmis, flóculo e nódulo"
+      },
+      "correct": "a",
+      "explanation": "Os estudos filogenéticos resultaram na divisão do cerebelo, da formação mais antiga para a mais recente, em arquicerebelo, paleocerebelo e neocerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os estudos filogenéticos, que relacionam a evolução do cerebelo entre diferentes espécies, resultaram na divisão do órgão em três formações, da mais antiga para a mais recente: Os estudos filogenéticos resultaram na divisão do cerebelo, da formação mais antiga para a mais recente, em arquicerebelo, paleocerebelo e neocerebelo."
+    },
+    {
+      "id": "neuro-obj-230",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o arquicerebelo, formação mais antiga do órgão, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares, podendo também ser chamado de:",
+      "options": {
+        "a": "Cerebelo vestibular",
+        "b": "Cerebelo cortical",
+        "c": "Cerebelo espinhal",
+        "d": "Cerebelo pontino",
+        "e": "Cerebelo talâmico"
+      },
+      "correct": "a",
+      "explanation": "O arquicerebelo, formação mais antiga do cerebelo, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares, podendo também ser conhecido como cerebelo vestibular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o arquicerebelo, formação mais antiga do órgão, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares, podendo também ser chamado de: O arquicerebelo, formação mais antiga do cerebelo, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares, podendo também ser conhecido como cerebelo vestibular."
+    },
+    {
+      "id": "neuro-obj-231",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, para que ocorra a manutenção do equilíbrio pelo arquicerebelo, o sistema vestibular informa ao cerebelo:",
+      "options": {
+        "a": "A posição dos olhos em relação à cabeça, da cabeça em relação aos olhos, e da cabeça em relação ao tronco",
+        "b": "Exclusivamente o grau de contração muscular dos membros",
+        "c": "Exclusivamente a temperatura corporal",
+        "d": "Exclusivamente a intensidade da dor percebida",
+        "e": "Exclusivamente informações visuais provenientes do lobo occipital"
+      },
+      "correct": "a",
+      "explanation": "Para a manutenção do equilíbrio pelo arquicerebelo, o sistema vestibular informa ao cerebelo a posição dos olhos em relação à cabeça, a posição da cabeça em relação aos olhos, e a posição da cabeça em relação ao tronco.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, para que ocorra a manutenção do equilíbrio pelo arquicerebelo, o sistema vestibular informa ao cerebelo: Para a manutenção do equilíbrio pelo arquicerebelo, o sistema vestibular informa ao cerebelo a posição dos olhos em relação à cabeça, a posição da cabeça em relação aos olhos, e a posição da cabeça em relação ao tronco."
+    },
+    {
+      "id": "neuro-obj-232",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o paleocerebelo corresponde ao lobo anterior do cerebelo e apresenta conexões com a medula espinhal, recebendo informações sobre os impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação:",
+      "options": {
+        "a": "Do tônus muscular e da postura",
+        "b": "Da audição e da visão",
+        "c": "Da memória de longo prazo",
+        "d": "Do sistema endócrino",
+        "e": "Da linguagem falada"
+      },
+      "correct": "a",
+      "explanation": "O paleocerebelo corresponde ao lobo anterior e apresenta conexões com a medula espinhal, que leva informações sobre impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação do tônus muscular e da postura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o paleocerebelo corresponde ao lobo anterior do cerebelo e apresenta conexões com a medula espinhal, recebendo informações sobre os impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação: O paleocerebelo corresponde ao lobo anterior e apresenta conexões com a medula espinhal, que leva informações sobre impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação do tônus muscular e da postura."
+    },
+    {
+      "id": "neuro-obj-233",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o neocerebelo, correspondente ao lobo posterior, apresenta amplas conexões com o córtex cerebral, podendo ser chamado de cerebelo cortical, e leva informações ao órgão relacionadas ao:",
+      "options": {
+        "a": "Planejamento e à coordenação motora",
+        "b": "Controle da temperatura corporal",
+        "c": "Processamento da linguagem escrita",
+        "d": "Controle da diurese",
+        "e": "Reconhecimento de faces"
+      },
+      "correct": "a",
+      "explanation": "O neocerebelo, na última fase de evolução do órgão, corresponde ao lobo posterior e apresenta amplas conexões com o córtex cerebral (cerebelo cortical), levando informações relacionadas ao planejamento e à coordenação motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o neocerebelo, correspondente ao lobo posterior, apresenta amplas conexões com o córtex cerebral, podendo ser chamado de cerebelo cortical, e leva informações ao órgão relacionadas ao: O neocerebelo, na última fase de evolução do órgão, corresponde ao lobo posterior e apresenta amplas conexões com o córtex cerebral (cerebelo cortical), levando informações relacionadas ao planejamento e à coordenação motora."
+    },
+    {
+      "id": "neuro-obj-234",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, milhões de fibras chegam ao cerebelo trazendo informações de diversas áreas do sistema nervoso. Essas informações são processadas por uma 'maquinaria celular' que envolve o córtex cerebelar e seus núcleos, com o objetivo final de:",
+      "options": {
+        "a": "Realizar correções e ajustes de ordem motora, prevendo e corrigindo deturpações motoras",
+        "b": "Produzir hormônios reguladores dos ritmos circadianos",
+        "c": "Armazenar permanentemente as memórias episódicas",
+        "d": "Regular a temperatura corporal e a ingestão de água",
+        "e": "Processar exclusivamente estímulos visuais"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo processa as informações recebidas do sistema vestibular, da medula espinhal e do córtex cerebral por meio de uma 'maquinaria celular' que envolve o córtex cerebelar e seus núcleos, para realizar correções e ajustes de ordem motora, prevendo deturpações motoras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, milhões de fibras chegam ao cerebelo trazendo informações de diversas áreas do sistema nervoso. Essas informações são processadas por uma 'maquinaria celular' que envolve o córtex cerebelar e seus núcleos, com o objetivo final de: O cerebelo processa as informações recebidas do sistema vestibular, da medula espinhal e do córtex cerebral por meio de uma 'maquinaria celular' que envolve o córtex cerebelar e seus núcleos, para realizar correções e ajustes de ordem motora, prevendo deturpações motoras."
+    },
+    {
+      "id": "neuro-obj-235",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, a principal 'porta de entrada' de informações para o cerebelo, formada por numerosos feixes de fibras que convergem de cada lado, conduzindo informações vindas da medula espinhal, é conhecida como:",
+      "options": {
+        "a": "Pedúnculo cerebelar médio",
+        "b": "Corpo caloso",
+        "c": "Cápsula interna",
+        "d": "Comissura anterior",
+        "e": "Trato córtico-espinhal lateral"
+      },
+      "correct": "a",
+      "explanation": "A ponte apresenta numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como pedúnculo cerebelar médio, considerado a maior 'porta de entrada' para o cerebelo, com íntima relação com o movimento humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a principal 'porta de entrada' de informações para o cerebelo, formada por numerosos feixes de fibras que convergem de cada lado, conduzindo informações vindas da medula espinhal, é conhecida como: A ponte apresenta numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como pedúnculo cerebelar médio, considerado a maior 'porta de entrada' para o cerebelo, com íntima relação com o movimento humano."
+    },
+    {
+      "id": "neuro-obj-236",
+      "topic": "Cerebelo",
+      "question": "Um paciente apresenta dificuldade em manter o equilíbrio e alterações na postura, sem, no entanto, apresentar fraqueza muscular evidente. Com base na divisão filogenética do cerebelo apresentada no material, a estrutura mais provavelmente relacionada a esse quadro é o(a):",
+      "options": {
+        "a": "Arquicerebelo (lobo flóculo-nodular)",
+        "b": "Neocerebelo (lobo posterior)",
+        "c": "Córtex motor primário",
+        "d": "Área de Broca",
+        "e": "Substância negra"
+      },
+      "correct": "a",
+      "explanation": "O arquicerebelo, correspondente ao lobo flóculo-nodular, apresenta conexões vestibulares e é responsável pela manutenção do equilíbrio, sendo a estrutura mais relacionada a alterações de equilíbrio e postura sem comprometimento motor evidente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta dificuldade em manter o equilíbrio e alterações na postura, sem, no entanto, apresentar fraqueza muscular evidente. Com base na divisão filogenética do cerebelo apresentada no material, a estrutura mais provavelmente relacionada a esse quadro é o(a): O arquicerebelo, correspondente ao lobo flóculo-nodular, apresenta conexões vestibulares e é responsável pela manutenção do equilíbrio, sendo a estrutura mais relacionada a alterações de equilíbrio e postura sem comprometimento motor evidente."
+    },
+    {
+      "id": "neuro-obj-237",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, um paciente com dificuldade em planejar e coordenar sequências motoras complexas, mas sem alteração do equilíbrio básico, apresenta mais provavelmente comprometimento do:",
+      "options": {
+        "a": "Neocerebelo (lobo posterior, cerebelo cortical)",
+        "b": "Arquicerebelo (lobo flóculo-nodular)",
+        "c": "Paleocerebelo isoladamente, sem envolvimento cortical",
+        "d": "Sistema vestibular exclusivamente",
+        "e": "Núcleo subtalâmico"
+      },
+      "correct": "a",
+      "explanation": "O neocerebelo, correspondente ao lobo posterior e com amplas conexões com o córtex cerebral, é responsável pelo planejamento e pela coordenação motora, sendo a estrutura mais relacionada a esse tipo de déficit.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, um paciente com dificuldade em planejar e coordenar sequências motoras complexas, mas sem alteração do equilíbrio básico, apresenta mais provavelmente comprometimento do: O neocerebelo, correspondente ao lobo posterior e com amplas conexões com o córtex cerebral, é responsável pelo planejamento e pela coordenação motora, sendo a estrutura mais relacionada a esse tipo de déficit."
+    },
+    {
+      "id": "neuro-obj-238",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo recebe informações de três origens principais para exercer sua função de correção motora. São elas:",
+      "options": {
+        "a": "Sistema vestibular, medula espinhal e córtex cerebral",
+        "b": "Sistema endócrino, sistema digestivo e sistema urinário",
+        "c": "Nervos cranianos exclusivamente",
+        "d": "Apenas o córtex occipital, relacionado à visão",
+        "e": "Apenas o hipotálamo e a hipófise"
+      },
+      "correct": "a",
+      "explanation": "Milhões de fibras chegam ao cerebelo trazendo informações das mais diversas áreas do sistema nervoso: sistema vestibular, medula espinhal e córtex cerebral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cerebelo recebe informações de três origens principais para exercer sua função de correção motora. São elas: Milhões de fibras chegam ao cerebelo trazendo informações das mais diversas áreas do sistema nervoso: sistema vestibular, medula espinhal e córtex cerebral."
+    },
+    {
+      "id": "neuro-obj-239",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo é capaz de prever deturpações motoras por meio das informações que recebe, processando-as e convertendo-as em impulsos capazes de:",
+      "options": {
+        "a": "Corrigir as atividades motoras do indivíduo",
+        "b": "Produzir hormônios da hipófise",
+        "c": "Gerar a sensação consciente de dor",
+        "d": "Regular a produção de líquor",
+        "e": "Controlar a frequência cardíaca de forma exclusiva"
+      },
+      "correct": "a",
+      "explanation": "Em última análise, o cerebelo é capaz de prever deturpações motoras por meio de informações que recebe, analisando-as, processando-as e convertendo-as em impulsos capazes de corrigir as atividades motoras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cerebelo é capaz de prever deturpações motoras por meio das informações que recebe, processando-as e convertendo-as em impulsos capazes de: Em última análise, o cerebelo é capaz de prever deturpações motoras por meio de informações que recebe, analisando-as, processando-as e convertendo-as em impulsos capazes de corrigir as atividades motoras."
+    },
+    {
+      "id": "neuro-obj-240",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo possui, assim como o cérebro, uma organização em que a substância cinzenta forma o córtex (córtex cerebelar) e a substância branca contém formações nucleares mergulhadas em seu interior. Essa organização é:",
+      "options": {
+        "a": "Semelhante à organização do cérebro, motivo pelo qual o cerebelo é chamado de 'pequeno cérebro'",
+        "b": "Completamente distinta, com a substância cinzenta na periferia apenas na medula espinhal",
+        "c": "Exclusiva do tronco encefálico",
+        "d": "Encontrada apenas em répteis, não em humanos",
+        "e": "Idêntica à organização observada na medula espinhal (H central)"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo possui uma 'capa' de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro — organização que justifica ser chamado de 'pequeno cérebro'.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cerebelo possui, assim como o cérebro, uma organização em que a substância cinzenta forma o córtex (córtex cerebelar) e a substância branca contém formações nucleares mergulhadas em seu interior. Essa organização é: O cerebelo possui uma 'capa' de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro — organização que justifica ser chamado de 'pequeno cérebro'."
+    },
+    {
+      "id": "neuro-obj-241",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o cerebelo está envolvido em condições antecipatórias e reativas do dia a dia, preparando o organismo para:",
+      "options": {
+        "a": "Situações de instabilidade",
+        "b": "A digestão de alimentos",
+        "c": "A produção de anticorpos",
+        "d": "A regulação da temperatura corporal exclusivamente",
+        "e": "A síntese de neurotransmissores exclusivamente no córtex occipital"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo nos prepara para condições antecipatórias e reativas do nosso dia a dia e para situações de instabilidade, exercendo função essencialmente motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o cerebelo está envolvido em condições antecipatórias e reativas do dia a dia, preparando o organismo para: O cerebelo nos prepara para condições antecipatórias e reativas do nosso dia a dia e para situações de instabilidade, exercendo função essencialmente motora."
+    },
+    {
+      "id": "neuro-obj-242",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, os hemisférios cerebelares direito e esquerdo estão ligados por uma porção ímpar e mediana chamada:",
+      "options": {
+        "a": "Vérmis",
+        "b": "Corpo caloso",
+        "c": "Comissura anterior",
+        "d": "Cápsula externa",
+        "e": "Fórnix"
+      },
+      "correct": "a",
+      "explanation": "No cerebelo, distingue-se uma porção ímpar e mediana, o vérmis, ligado a duas grandes massas laterais: os hemisférios cerebelares direito e esquerdo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, os hemisférios cerebelares direito e esquerdo estão ligados por uma porção ímpar e mediana chamada: No cerebelo, distingue-se uma porção ímpar e mediana, o vérmis, ligado a duas grandes massas laterais: os hemisférios cerebelares direito e esquerdo."
+    },
+    {
+      "id": "neuro-obj-243",
+      "topic": "Cerebelo",
+      "question": "Considerando a divisão filogenética do cerebelo, a associação correta entre estrutura anatômica e denominação filogenética é:",
+      "options": {
+        "a": "Lobo flóculo-nodular = arquicerebelo; lobo anterior = paleocerebelo; lobo posterior = neocerebelo",
+        "b": "Lobo flóculo-nodular = neocerebelo; lobo anterior = arquicerebelo; lobo posterior = paleocerebelo",
+        "c": "Lobo flóculo-nodular = paleocerebelo; lobo anterior = neocerebelo; lobo posterior = arquicerebelo",
+        "d": "Lobo flóculo-nodular = neocerebelo; lobo anterior = paleocerebelo; lobo posterior = arquicerebelo",
+        "e": "Todos os lobos correspondem igualmente ao arquicerebelo"
+      },
+      "correct": "a",
+      "explanation": "O lobo flóculo-nodular corresponde ao arquicerebelo (conexões vestibulares), o lobo anterior ao paleocerebelo (conexões com a medula espinhal) e o lobo posterior ao neocerebelo (conexões com o córtex cerebral).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Considerando a divisão filogenética do cerebelo, a associação correta entre estrutura anatômica e denominação filogenética é: O lobo flóculo-nodular corresponde ao arquicerebelo (conexões vestibulares), o lobo anterior ao paleocerebelo (conexões com a medula espinhal) e o lobo posterior ao neocerebelo (conexões com o córtex cerebral)."
+    },
+    {
+      "id": "neuro-obj-244",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, em relação à localização anatômica do cerebelo na cavidade craniana, é correto afirmar que ele:",
+      "options": {
+        "a": "Repousa sobre a fossa cerebelar do osso occipital, separado do lobo occipital pela tenda do cerebelo",
+        "b": "Está localizado no interior do osso esfenoide, junto à hipófise",
+        "c": "Ocupa a fossa temporal, ao lado do lobo temporal",
+        "d": "Está localizado dentro do canal vertebral, junto à medula espinhal",
+        "e": "Fica situado anteriormente ao lobo frontal"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter, a tenda do cerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em relação à localização anatômica do cerebelo na cavidade craniana, é correto afirmar que ele: O cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter, a tenda do cerebelo."
+    },
+    {
+      "id": "neuro-obj-245",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, a informação levada ao cerebelo pelo paleocerebelo (lobo anterior), proveniente da medula espinhal, refere-se principalmente a impulsos:",
+      "options": {
+        "a": "Proprioceptivos, como o grau de contração muscular",
+        "b": "Visuais, provenientes do nervo óptico",
+        "c": "Auditivos, provenientes do nervo coclear",
+        "d": "Olfatórios, provenientes do bulbo olfatório",
+        "e": "Gustativos"
+      },
+      "correct": "a",
+      "explanation": "O paleocerebelo apresenta conexões com a medula espinhal, que leva ao cerebelo informações sobre os impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação do tônus muscular e da postura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a informação levada ao cerebelo pelo paleocerebelo (lobo anterior), proveniente da medula espinhal, refere-se principalmente a impulsos: O paleocerebelo apresenta conexões com a medula espinhal, que leva ao cerebelo informações sobre os impulsos proprioceptivos, como o grau de contração muscular, importantes para a regulação do tônus muscular e da postura."
+    },
+    {
+      "id": "neuro-obj-246",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, a divisão do cerebelo em arquicerebelo, paleocerebelo e neocerebelo tem como base:",
+      "options": {
+        "a": "Estudos filogenéticos, que relacionam a evolução do órgão entre diferentes espécies",
+        "b": "Exclusivamente o tamanho de cada lobo em centímetros",
+        "c": "A cor de cada estrutura ao exame macroscópico",
+        "d": "A localização de tumores mais frequentes em cada região",
+        "e": "A presença ou ausência de mielina em cada lobo"
+      },
+      "correct": "a",
+      "explanation": "Os estudos filogenéticos, que relacionam a evolução do cerebelo em diferentes espécies, demonstrando que algumas formações são mais antigas e outras mais recentes, resultaram na divisão do cerebelo em arquicerebelo, paleocerebelo e neocerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a divisão do cerebelo em arquicerebelo, paleocerebelo e neocerebelo tem como base: Os estudos filogenéticos, que relacionam a evolução do cerebelo em diferentes espécies, demonstrando que algumas formações são mais antigas e outras mais recentes, resultaram na divisão do cerebelo em arquicerebelo, paleocerebelo e neocerebelo."
+    },
+    {
+      "id": "neuro-obj-247",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, sobre a organização estrutural do cerebelo, é correto afirmar que:",
+      "options": {
+        "a": "Possui córtex cerebelar de substância cinzenta e núcleos mergulhados na substância branca, semelhante à organização do cérebro",
+        "b": "É formado exclusivamente por substância branca, sem qualquer núcleo",
+        "c": "Não possui qualquer relação com o IV ventrículo",
+        "d": "Está localizado no lobo temporal do cérebro",
+        "e": "É irrigado exclusivamente pela artéria cerebral anterior"
+      },
+      "correct": "a",
+      "explanation": "O cerebelo possui uma 'capa' de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, sobre a organização estrutural do cerebelo, é correto afirmar que: O cerebelo possui uma 'capa' de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro."
+    },
+    {
+      "id": "neuro-obj-248",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, o lobo flóculo-nodular do cerebelo é constituído por:",
+      "options": {
+        "a": "O nódulo (porção do vérmis) e os flóculos direito e esquerdo",
+        "b": "Exclusivamente o vérmis",
+        "c": "Exclusivamente os hemisférios cerebelares",
+        "d": "Exclusivamente o pedúnculo cerebelar médio",
+        "e": "Exclusivamente a fissura primária"
+      },
+      "correct": "a",
+      "explanation": "O lobo flóculo-nodular é constituído pelo nódulo (lóbulo pertencente ao vérmis) e pelos flóculos direito e esquerdo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o lobo flóculo-nodular do cerebelo é constituído por: O lobo flóculo-nodular é constituído pelo nódulo (lóbulo pertencente ao vérmis) e pelos flóculos direito e esquerdo."
+    },
+    {
+      "id": "neuro-obj-249",
+      "topic": "Cerebelo",
+      "question": "Sobre as funções do cerebelo descritas no material, assinale a alternativa que reúne corretamente suas principais funções:",
+      "options": {
+        "a": "Equilíbrio, postura, tônus muscular, movimentos voluntários, coordenação e aprendizagem motora",
+        "b": "Produção de hormônios, digestão e excreção",
+        "c": "Processamento exclusivo da linguagem falada e escrita",
+        "d": "Regulação exclusiva do sono e da vigília",
+        "e": "Produção de líquor e regulação da pressão intracraniana"
+      },
+      "correct": "a",
+      "explanation": "Entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de relação com a coordenação e a aprendizagem motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Sobre as funções do cerebelo descritas no material, assinale a alternativa que reúne corretamente suas principais funções: Entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de relação com a coordenação e a aprendizagem motora."
+    },
+    {
+      "id": "neuro-obj-250",
+      "topic": "Cerebelo",
+      "question": "Segundo o material, ao contrário do cerebelo — que funciona em nível inconsciente e involuntário —, o cérebro exerce controle motor voluntário por meio, principalmente, do trato:",
+      "options": {
+        "a": "Córtico-espinhal, que se origina no córtex cerebral",
+        "b": "Espinotalâmico, que se origina na medula",
+        "c": "Espinocerebelar, que se origina na medula",
+        "d": "Tecto-espinhal, que se origina no mesencéfalo",
+        "e": "Vestíbulo-espinhal, que se origina no tronco encefálico"
+      },
+      "correct": "a",
+      "explanation": "Diferentemente do cerebelo, que atua em nível inconsciente e involuntário, o controle motor voluntário do cérebro se dá, principalmente, pelo trato córtico-espinhal, que se origina no córtex cerebral (área motora primária) e leva impulsos à medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao contrário do cerebelo — que funciona em nível inconsciente e involuntário —, o cérebro exerce controle motor voluntário por meio, principalmente, do trato: Diferentemente do cerebelo, que atua em nível inconsciente e involuntário, o controle motor voluntário do cérebro se dá, principalmente, pelo trato córtico-espinhal, que se origina no córtex cerebral (área motora primária) e leva impulsos à medula."
     }
   ],
   "discursive": [
@@ -6532,6 +7962,807 @@
       },
       "subject": "Plasticidade neural",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-056",
+      "topic": "Organização da substância cinzenta e branca da medula",
+      "question": "Explique como a substância cinzenta e a substância branca estão organizadas em um corte transversal da medula espinhal, e qual é o significado funcional das colunas anterior e posterior da substância cinzenta.",
+      "modelAnswer": "Em um corte transversal, a substância cinzenta dispõe-se centralmente, com forma aproximada da letra H, sendo formada principalmente por corpos celulares; a substância branca localiza-se perifericamente, sendo constituída por fibras mielinizadas que sobem e descem a medula. Funcionalmente, a coluna cinzenta posterior é considerada a porção sensitiva, pois contém corpos celulares que recebem informações da periferia via Sistema Nervoso Periférico; a coluna cinzenta anterior é a porção motora, pois contém corpos celulares que emitem impulsos, em caminho descendente, destinados aos músculos estriados.",
+      "keyPoints": [
+        {
+          "text": "Substância cinzenta central (forma de H, corpos celulares); branca periférica (fibras mielinizadas)",
+          "weight": 0.4,
+          "keywords": [
+            "substância cinzenta",
+            "forma de H",
+            "corpos celulares",
+            "substância branca"
+          ]
+        },
+        {
+          "text": "Coluna posterior: porção sensitiva, recebe da periferia",
+          "weight": 0.3,
+          "keywords": [
+            "coluna posterior",
+            "sensitiva"
+          ]
+        },
+        {
+          "text": "Coluna anterior: porção motora, emite para músculos",
+          "weight": 0.3,
+          "keywords": [
+            "coluna anterior",
+            "motora"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-057",
+      "topic": "Nervos espinhais e cauda equina",
+      "question": "Descreva quantos pares de nervos espinhais existem e como se distribuem, explicando também por que existem 8 pares de nervos cervicais apesar de haver apenas 7 vértebras cervicais, e o que é a cauda equina.",
+      "modelAnswer": "Existem 31 pares de nervos espinhais: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo. Há 8 pares cervicais e apenas 7 vértebras porque o primeiro par cervical emerge acima da primeira vértebra cervical (entre ela e o osso occipital), e o oitavo par emerge abaixo da sétima vértebra; os demais nervos espinhais sempre emergem abaixo da vértebra correspondente. Como a medula termina a nível da segunda vértebra lombar no adulto, abaixo desse nível há apenas meninges e as raízes nervosas dos últimos nervos espinhais, que, em conjunto, formam a cauda equina.",
+      "keyPoints": [
+        {
+          "text": "31 pares: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais, 1 coccígeo",
+          "weight": 0.35,
+          "keywords": [
+            "31 pares",
+            "8 cervicais",
+            "12 torácicos"
+          ]
+        },
+        {
+          "text": "8 cervicais/7 vértebras: 1º par emerge acima de C1, 8º abaixo de C7",
+          "weight": 0.35,
+          "keywords": [
+            "emerge acima",
+            "oitavo par"
+          ]
+        },
+        {
+          "text": "Cauda equina: meninges e raízes abaixo de L2",
+          "weight": 0.3,
+          "keywords": [
+            "cauda equina",
+            "meninges",
+            "raízes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-058",
+      "topic": "Neurônios radiculares e cordonais",
+      "question": "Diferencie os neurônios radiculares e os neurônios cordonais da medula espinhal, explicando as subdivisões de cada um.",
+      "modelAnswer": "Os neurônios radiculares possuem axônio longo e saem da medula para constituir a raiz ventral; dividem-se em radiculares viscerais (neurônios pré-ganglionares do Sistema Nervoso Autônomo, destinados a músculos lisos, cardíacos ou glândulas) e radiculares somáticos (inervam a musculatura estriada esquelética, localizados na coluna anterior, também chamados de neurônios motores inferiores ou via motora final comum de Sherrington, subdivididos em motoneurônios ALFA e GAMA). Já os neurônios cordonais são aqueles cujos axônios ganham a substância branca, tomando direção ascendente ou descendente, constituindo os fascículos da medula; podem ser de projeção (axônio longo que termina fora da medula, como no tálamo ou cerebelo) ou de associação (bifurcam-se em ascendente e descendente, terminando na própria substância cinzenta medular).",
+      "keyPoints": [
+        {
+          "text": "Radiculares: axônio longo, saem pela raiz ventral; viscerais x somáticos",
+          "weight": 0.4,
+          "keywords": [
+            "radiculares",
+            "raiz ventral",
+            "viscerais",
+            "somáticos"
+          ]
+        },
+        {
+          "text": "Somáticos = motoneurônios ALFA e GAMA (via motora final comum)",
+          "weight": 0.3,
+          "keywords": [
+            "ALFA",
+            "GAMA",
+            "via motora final comum"
+          ]
+        },
+        {
+          "text": "Cordonais: substância branca, de projeção x de associação",
+          "weight": 0.3,
+          "keywords": [
+            "cordonais",
+            "projeção",
+            "associação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "8-10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-059",
+      "topic": "Vias piramidais e extrapiramidais",
+      "question": "Explique a diferença entre as vias piramidais e extrapiramidais da medula espinhal, incluindo os tratos que compõem cada uma e suas funções gerais.",
+      "modelAnswer": "As vias piramidais recebem esse nome porque, antes de entrar na medula, passam pelas pirâmides bulbares; compreendem os tratos córtico-espinhal anterior (piramidal direto, funículo anterior, 10-20% das fibras, cruza ao término na medula) e córtico-espinhal lateral (piramidal cruzado, funículo lateral, 75-90% das fibras, cruza na decussação das pirâmides), originando-se no córtex cerebral e levando impulsos aos neurônios da coluna anterior, responsáveis pela motricidade voluntária. As vias extrapiramidais (tecto-espinhal, vestíbulo-espinhal, rubro-espinhal e retículo-espinhal) originam-se em estruturas do tronco encefálico e mesencéfalo, terminam na medula ligando-se aos neurônios motores da coluna anterior, e atuam principalmente sobre a musculatura axial e proximal dos membros, importantes para o equilíbrio e a postura básica.",
+      "keyPoints": [
+        {
+          "text": "Piramidais: passam pelas pirâmides bulbares, tratos córtico-espinhal anterior e lateral",
+          "weight": 0.35,
+          "keywords": [
+            "piramidais",
+            "pirâmides bulbares",
+            "córtico-espinhal"
+          ]
+        },
+        {
+          "text": "Córtico-espinhal lateral cruza na decussação (75-90%); anterior cruza ao término (10-20%)",
+          "weight": 0.3,
+          "keywords": [
+            "decussação",
+            "75",
+            "90%"
+          ]
+        },
+        {
+          "text": "Extrapiramidais: tecto/vestíbulo/rubro/retículo-espinhal, equilíbrio e postura",
+          "weight": 0.35,
+          "keywords": [
+            "extrapiramidais",
+            "equilíbrio",
+            "postura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10-12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-060",
+      "topic": "Vias ascendentes da medula",
+      "question": "Descreva as principais vias ascendentes (sensitivas) da medula espinhal, organizadas por funículo, e as informações que cada uma conduz.",
+      "modelAnswer": "No funículo posterior, encontram-se os fascículos grácil e cuneiforme, que conduzem propriocepção consciente, tato discriminativo, sensibilidade vibratória e estereognosia. No funículo anterior, localiza-se o trato espinotalâmico anterior, que leva impulsos de tato e pressão. No funículo lateral, encontra-se o trato espinotalâmico lateral, que conduz informações de dor e temperatura, além dos tratos espinocerebelar anterior e posterior, que conduzem informações sobre a intensidade dos impulsos motores que chegam à medula e sobre propriocepção inconsciente, respectivamente.",
+      "keyPoints": [
+        {
+          "text": "Funículo posterior: fascículos grácil/cuneiforme - propriocepção consciente, tato discriminativo, estereognosia",
+          "weight": 0.4,
+          "keywords": [
+            "grácil",
+            "cuneiforme",
+            "propriocepção consciente"
+          ]
+        },
+        {
+          "text": "Funículo anterior: trato espinotalâmico anterior - tato e pressão",
+          "weight": 0.3,
+          "keywords": [
+            "espinotalâmico anterior",
+            "tato",
+            "pressão"
+          ]
+        },
+        {
+          "text": "Funículo lateral: espinotalâmico lateral (dor/temperatura) e espinocerebelares (propriocepção inconsciente)",
+          "weight": 0.3,
+          "keywords": [
+            "espinotalâmico lateral",
+            "dor",
+            "temperatura",
+            "espinocerebelar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12-13"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-061",
+      "topic": "Motoneurônios ALFA e GAMA",
+      "question": "Explique a diferença entre os motoneurônios ALFA e GAMA e o que é a coativação alfa-gama.",
+      "modelAnswer": "Os neurônios ALFA são grandes, de axônio de grosso calibre, e inervam as fibras musculares extrafusais, que contribuem efetivamente para a contração muscular, constituindo uma unidade motora. Os neurônios GAMA são menores, de axônio fino, e inervam as fibras intrafusais, localizadas mais internamente ao músculo. Ao contrair voluntariamente um músculo, ocorre a ativação simultânea de ambos os motoneurônios, fenômeno chamado de coativação alfa-gama, que representa uma neurorregulação periférica da contração muscular, ainda que ambos permaneçam sob influência de formações superiores.",
+      "keyPoints": [
+        {
+          "text": "ALFA: grandes, grosso calibre, fibras extrafusais, contração muscular efetiva",
+          "weight": 0.35,
+          "keywords": [
+            "ALFA",
+            "extrafusais"
+          ]
+        },
+        {
+          "text": "GAMA: menores, axônio fino, fibras intrafusais",
+          "weight": 0.35,
+          "keywords": [
+            "GAMA",
+            "intrafusais"
+          ]
+        },
+        {
+          "text": "Coativação alfa-gama: ativação simultânea na contração voluntária",
+          "weight": 0.3,
+          "keywords": [
+            "coativação",
+            "simultânea"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-062",
+      "topic": "Regra de Peele",
+      "question": "Explique por que existe a Regra de Peele e o que ela permite identificar clinicamente.",
+      "modelAnswer": "A Regra de Peele existe porque há diferença de ritmo entre o crescimento da coluna vertebral e da medula espinhal, o que causa afastamento entre os segmentos medulares e as vértebras correspondentes ao longo do desenvolvimento. Essa regra prática permite identificar o segmento medular subjacente a uma determinada vértebra: entre os níveis de C2 a T10, soma-se 2 ao número do processo espinhoso da vértebra para obter o segmento medular; as vértebras T11 e T12 correspondem aos 5 segmentos lombares, e a vértebra L1 corresponde aos 5 segmentos sacrais. Clinicamente, essas relações orientam o profissional sobre o possível nível de uma lesão medular em um indivíduo que sofreu fratura em determinada vértebra.",
+      "keyPoints": [
+        {
+          "text": "Causa: diferença de ritmo de crescimento entre coluna e medula",
+          "weight": 0.4,
+          "keywords": [
+            "diferença de ritmo",
+            "crescimento"
+          ]
+        },
+        {
+          "text": "Regra: soma 2 ao processo espinhoso entre C2-T10; T11/T12 = 5 lombares; L1 = 5 sacrais",
+          "weight": 0.35,
+          "keywords": [
+            "soma 2",
+            "processo espinhoso"
+          ]
+        },
+        {
+          "text": "Utilidade clínica: localizar nível de lesão medular a partir de fratura vertebral",
+          "weight": 0.25,
+          "keywords": [
+            "lesão medular",
+            "fratura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7-8"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-063",
+      "topic": "Neurônios internunciais e célula de Renshaw",
+      "question": "O que são os neurônios internunciais da medula espinhal e qual é a sua função nos arcos reflexos medulares?",
+      "modelAnswer": "Os neurônios internunciais são neurônios de axônio curto (tipo II de Golgi), pequenos, que estabelecem conexões entre as fibras que entram na medula pelas raízes dorsais e os neurônios motores. Eles se interpõem em vários arcos reflexos medulares, modificando a 'conversa' entre o neurônio sensitivo e o neurônio motor, de acordo com a resposta desejada. Um tipo especial de neurônio internuncial é a célula de Renshaw, citada no material segundo LENT (2004).",
+      "keyPoints": [
+        {
+          "text": "Neurônios de axônio curto (tipo II de Golgi), pequenos",
+          "weight": 0.3,
+          "keywords": [
+            "axônio curto",
+            "tipo II de Golgi"
+          ]
+        },
+        {
+          "text": "Conectam fibras da raiz dorsal aos neurônios motores, arcos reflexos",
+          "weight": 0.4,
+          "keywords": [
+            "raiz dorsal",
+            "neurônios motores",
+            "arcos reflexos"
+          ]
+        },
+        {
+          "text": "Célula de Renshaw como exemplo especial",
+          "weight": 0.3,
+          "keywords": [
+            "célula de Renshaw"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-064",
+      "topic": "Cone medular e limites da medula",
+      "question": "Descreva os limites superior e inferior da medula espinhal e explique a importância clínica desses limites em casos de hérnia de disco ou fratura vertebral.",
+      "modelAnswer": "Em sua porção superior, a medula espinhal continua o bulbo, a nível do forame magno do osso occipital; sua porção inferior, no adulto, localiza-se entre a primeira e a segunda vértebras lombares, onde se afunila formando o cone medular, que continua com o filamento terminal (prolongamento da pia-máter). Essa delimitação tem grande importância clínica: hérnias de disco entre L4-L5 ou L5-S1, ou fraturas das últimas vértebras lombares ou do sacro, não comprimem a medula espinhal (já que ela termina antes desse nível), podendo levar apenas a lesões do tipo periférica, envolvendo a cauda equina.",
+      "keyPoints": [
+        {
+          "text": "Limite superior: continuação do bulbo, forame magno",
+          "weight": 0.25,
+          "keywords": [
+            "forame magno",
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Limite inferior: entre L1 e L2, cone medular, filamento terminal",
+          "weight": 0.35,
+          "keywords": [
+            "L1",
+            "L2",
+            "cone medular"
+          ]
+        },
+        {
+          "text": "Importância clínica: hérnias/fraturas baixas não comprimem a medula, afetam a cauda equina",
+          "weight": 0.4,
+          "keywords": [
+            "hérnia",
+            "fratura",
+            "cauda equina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-065",
+      "topic": "Trato córtico-espinhal e motricidade cruzada",
+      "question": "Explique o trajeto do trato córtico-espinhal desde sua origem no córtex até a medula, e o que significa dizer que a motricidade voluntária é cruzada.",
+      "modelAnswer": "O trato córtico-espinhal origina-se no córtex cerebral e, antes de entrar na medula, passa pelas pirâmides bulbares. A nível da decussação das pirâmides, 75 a 90% das fibras se cruzam e constituem o trato córtico-espinhal lateral, que percorre o funículo lateral por toda a extensão da medula; o restante (10-20% das fibras) continua sem cruzar nesse ponto, constituindo o trato córtico-espinhal anterior, que percorre o funículo anterior até a medula torácica média e cruza apenas ao término, pouco antes de alcançar os neurônios motores. Isso significa que a motricidade voluntária é cruzada: o córtex de um hemisfério cerebral comanda os neurônios motores da medula do lado oposto do corpo, de modo que uma lesão da via acima da decussação das pirâmides gera déficits de movimento na metade oposta do corpo.",
+      "keyPoints": [
+        {
+          "text": "Origem no córtex, passa pelas pirâmides bulbares",
+          "weight": 0.25,
+          "keywords": [
+            "córtex",
+            "pirâmides bulbares"
+          ]
+        },
+        {
+          "text": "Cruzamento: 75-90% na decussação (trato lateral); 10-20% ao término (trato anterior)",
+          "weight": 0.4,
+          "keywords": [
+            "decussação",
+            "75",
+            "90%",
+            "10",
+            "20%"
+          ]
+        },
+        {
+          "text": "Motricidade cruzada: hemisfério comanda lado oposto do corpo",
+          "weight": 0.35,
+          "keywords": [
+            "motricidade cruzada",
+            "lado oposto"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "11"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-066",
+      "topic": "Semelhanças entre cerebelo e cérebro",
+      "question": "Explique por que o cerebelo é conhecido como 'pequeno cérebro' e qual é a principal diferença fisiológica entre os dois órgãos.",
+      "modelAnswer": "O cerebelo é conhecido como 'pequeno cérebro' porque se assemelha ao hemisfério cerebral: possui uma 'capa' de substância cinzenta (o córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro. A principal diferença fisiológica entre os dois é que o cerebelo funciona sempre em nível inconsciente e involuntário — ou seja, nossa vontade não perpassa pela ação cerebelar —, enquanto o cérebro é responsável pelo controle motor voluntário e consciente.",
+      "keyPoints": [
+        {
+          "text": "Semelhança anatômica: córtex cerebelar (substância cinzenta) + núcleos na substância branca",
+          "weight": 0.5,
+          "keywords": [
+            "córtex cerebelar",
+            "substância cinzenta",
+            "núcleos"
+          ]
+        },
+        {
+          "text": "Diferença: cerebelo é inconsciente e involuntário",
+          "weight": 0.5,
+          "keywords": [
+            "inconsciente",
+            "involuntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18-19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-067",
+      "topic": "Divisão filogenética do cerebelo",
+      "question": "Descreva os três componentes da divisão filogenética do cerebelo (arquicerebelo, paleocerebelo e neocerebelo), relacionando cada um à sua estrutura anatômica, suas conexões e sua função.",
+      "modelAnswer": "O arquicerebelo, formação mais antiga, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares (por isso também chamado de cerebelo vestibular); é responsável pela manutenção do equilíbrio, recebendo do sistema vestibular informações sobre a posição dos olhos, da cabeça e do tronco entre si. O paleocerebelo corresponde ao lobo anterior e apresenta conexões com a medula espinhal, recebendo informações proprioceptivas (como o grau de contração muscular), importantes para a regulação do tônus muscular e da postura. O neocerebelo, a formação mais recente, corresponde ao lobo posterior e apresenta amplas conexões com o córtex cerebral (podendo ser chamado de cerebelo cortical), sendo responsável pelo planejamento e pela coordenação motora.",
+      "keyPoints": [
+        {
+          "text": "Arquicerebelo: lobo flóculo-nodular, conexões vestibulares, equilíbrio",
+          "weight": 0.35,
+          "keywords": [
+            "arquicerebelo",
+            "flóculo-nodular",
+            "vestibular",
+            "equilíbrio"
+          ]
+        },
+        {
+          "text": "Paleocerebelo: lobo anterior, conexões medulares, tônus e postura",
+          "weight": 0.35,
+          "keywords": [
+            "paleocerebelo",
+            "lobo anterior",
+            "tônus",
+            "postura"
+          ]
+        },
+        {
+          "text": "Neocerebelo: lobo posterior, conexões corticais, planejamento e coordenação",
+          "weight": 0.3,
+          "keywords": [
+            "neocerebelo",
+            "lobo posterior",
+            "planejamento",
+            "coordenação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-068",
+      "topic": "Anatomia externa do cerebelo",
+      "question": "Descreva a organização anatômica externa do cerebelo, incluindo vérmis, hemisférios, flóculo, nódulo e a divisão em três lobos.",
+      "modelAnswer": "No cerebelo, distingue-se uma porção ímpar e mediana, o vérmis, ligado a duas grandes massas laterais: os hemisférios cerebelares direito e esquerdo. Em vista inferior, observa-se uma pequena porção separada, o flóculo (direito e esquerdo), unido, na porção mediana do vérmis, a um lóbulo chamado nódulo. Anatomicamente, o cerebelo é dividido em três lobos: o lobo flóculo-nodular (constituído pelo nódulo e pelos flóculos) e os lobos anterior e posterior, separados entre si pela fissura primária.",
+      "keyPoints": [
+        {
+          "text": "Vérmis (porção mediana) + hemisférios cerebelares direito/esquerdo",
+          "weight": 0.35,
+          "keywords": [
+            "vérmis",
+            "hemisférios cerebelares"
+          ]
+        },
+        {
+          "text": "Flóculo e nódulo formam o lobo flóculo-nodular",
+          "weight": 0.35,
+          "keywords": [
+            "flóculo",
+            "nódulo",
+            "flóculo-nodular"
+          ]
+        },
+        {
+          "text": "Lobos anterior e posterior, separados pela fissura primária",
+          "weight": 0.3,
+          "keywords": [
+            "lobo anterior",
+            "lobo posterior",
+            "fissura primária"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-069",
+      "topic": "Funções do cerebelo",
+      "question": "Cite e explique as principais funções do cerebelo descritas no material.",
+      "modelAnswer": "Entre as funções do cerebelo estão a manutenção do equilíbrio e da postura, o controle do tônus muscular e dos movimentos voluntários, além de forte relação com a coordenação e a aprendizagem motora, exercendo, portanto, função essencialmente motora. O órgão prepara o organismo para condições antecipatórias e reativas do dia a dia e para situações de instabilidade. Todas essas funções são reguladas em nível inconsciente e involuntário, diferentemente do controle motor exercido pelo cérebro.",
+      "keyPoints": [
+        {
+          "text": "Equilíbrio, postura, tônus muscular",
+          "weight": 0.35,
+          "keywords": [
+            "equilíbrio",
+            "postura",
+            "tônus muscular"
+          ]
+        },
+        {
+          "text": "Coordenação e aprendizagem motora",
+          "weight": 0.35,
+          "keywords": [
+            "coordenação",
+            "aprendizagem motora"
+          ]
+        },
+        {
+          "text": "Regulação em nível inconsciente e involuntário",
+          "weight": 0.3,
+          "keywords": [
+            "inconsciente",
+            "involuntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-070",
+      "topic": "Cerebelo como processador motor",
+      "question": "Explique como o cerebelo processa as informações que recebe e qual é o resultado final desse processamento.",
+      "modelAnswer": "Milhões de fibras chegam ao cerebelo trazendo informações das mais diversas áreas do sistema nervoso, especialmente do sistema vestibular, da medula espinhal e do córtex cerebral. Essas informações são processadas por meio de uma 'maquinaria celular' que envolve o córtex cerebelar e seus núcleos, permitindo que ocorram correções e ajustes de ordem motora. Em última análise, o cerebelo é capaz de prever deturpações motoras a partir das informações recebidas, analisando-as, processando-as e convertendo-as em impulsos capazes de corrigir todas as atividades motoras do indivíduo.",
+      "keyPoints": [
+        {
+          "text": "Recebe informações do sistema vestibular, medula espinhal e córtex cerebral",
+          "weight": 0.4,
+          "keywords": [
+            "sistema vestibular",
+            "medula espinhal",
+            "córtex cerebral"
+          ]
+        },
+        {
+          "text": "Processamento pelo córtex cerebelar e núcleos",
+          "weight": 0.3,
+          "keywords": [
+            "córtex cerebelar",
+            "núcleos"
+          ]
+        },
+        {
+          "text": "Resultado: correção e ajuste de atividades motoras, prevenção de deturpações",
+          "weight": 0.3,
+          "keywords": [
+            "correção",
+            "ajuste",
+            "atividades motoras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-071",
+      "topic": "Localização e relação com estruturas vizinhas",
+      "question": "Descreva a localização anatômica do cerebelo e sua relação com a tenda do cerebelo e com o IV ventrículo, explicando por que processos expansivos nessa região são particularmente perigosos.",
+      "modelAnswer": "O cerebelo repousa sobre a fossa cerebelar do osso occipital e está separado do lobo occipital do cérebro por um septo da dura-máter conhecido como tenda do cerebelo. Por estar situado em um espaço praticamente inextensível e ter íntima relação com o IV ventrículo, mesmo um pequeno processo expansivo no cerebelo (como um tumor ou hematoma) pode provocar rapidamente um aumento importante da pressão intracraniana, o que representa risco clínico significativo.",
+      "keyPoints": [
+        {
+          "text": "Repousa na fossa cerebelar do osso occipital, separado pela tenda do cerebelo",
+          "weight": 0.4,
+          "keywords": [
+            "fossa cerebelar",
+            "tenda do cerebelo"
+          ]
+        },
+        {
+          "text": "Relação próxima com o IV ventrículo",
+          "weight": 0.3,
+          "keywords": [
+            "IV ventrículo"
+          ]
+        },
+        {
+          "text": "Espaço inextensível: pequeno processo expansivo causa rápido aumento da pressão intracraniana",
+          "weight": 0.3,
+          "keywords": [
+            "inextensível",
+            "pressão intracraniana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-072",
+      "topic": "Pedúnculo cerebelar médio",
+      "question": "O que é o pedúnculo cerebelar médio e qual é sua importância funcional para o cerebelo?",
+      "modelAnswer": "A ponte está interposta entre o bulbo e o mesencéfalo e apresenta numerosos feixes de fibras que convergem de cada lado, formando um volumoso feixe conhecido como pedúnculo cerebelar médio. Ele representa a maior 'porta de entrada' de informações para o cerebelo, sendo responsável pela condução de importantes informações vindas da medula espinhal e apresentando íntima relação com o movimento humano.",
+      "keyPoints": [
+        {
+          "text": "Formado por feixes de fibras que convergem na ponte",
+          "weight": 0.35,
+          "keywords": [
+            "ponte",
+            "feixes de fibras"
+          ]
+        },
+        {
+          "text": "Maior porta de entrada de informações para o cerebelo",
+          "weight": 0.4,
+          "keywords": [
+            "porta de entrada",
+            "cerebelo"
+          ]
+        },
+        {
+          "text": "Conduz informações da medula espinhal, relação com o movimento",
+          "weight": 0.25,
+          "keywords": [
+            "medula espinhal",
+            "movimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-073",
+      "topic": "Arquicerebelo e equilíbrio",
+      "question": "Explique, com detalhes, como o arquicerebelo participa da manutenção do equilíbrio corporal.",
+      "modelAnswer": "O arquicerebelo, formação mais antiga do cerebelo, corresponde ao lobo flóculo-nodular e apresenta conexões vestibulares, sendo por isso também chamado de cerebelo vestibular. Para que ocorra a manutenção do equilíbrio, o sistema vestibular informa ao cerebelo a posição dos olhos em relação à cabeça, a posição da cabeça em relação aos olhos e a posição da cabeça em relação ao tronco. Com base nessas informações, o arquicerebelo participa do ajuste postural necessário para manter o equilíbrio corporal.",
+      "keyPoints": [
+        {
+          "text": "Arquicerebelo = lobo flóculo-nodular, conexões vestibulares (cerebelo vestibular)",
+          "weight": 0.4,
+          "keywords": [
+            "arquicerebelo",
+            "vestibular"
+          ]
+        },
+        {
+          "text": "Sistema vestibular informa posição de olhos, cabeça e tronco entre si",
+          "weight": 0.6,
+          "keywords": [
+            "olhos",
+            "cabeça",
+            "tronco"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-074",
+      "topic": "Comparação entre paleocerebelo e neocerebelo",
+      "question": "Compare o paleocerebelo e o neocerebelo quanto à sua localização, conexões e função.",
+      "modelAnswer": "O paleocerebelo corresponde ao lobo anterior do cerebelo e apresenta conexões com a medula espinhal, que leva informações sobre impulsos proprioceptivos (como o grau de contração muscular), importantes para a regulação do tônus muscular e da postura. Já o neocerebelo corresponde ao lobo posterior e apresenta amplas conexões com o córtex cerebral, podendo ser chamado de cerebelo cortical; leva informações relacionadas ao planejamento e à coordenação motora. Enquanto o paleocerebelo está mais ligado ao controle postural básico, o neocerebelo está relacionado a movimentos voluntários mais elaborados e complexos.",
+      "keyPoints": [
+        {
+          "text": "Paleocerebelo: lobo anterior, conexões medulares, tônus/postura",
+          "weight": 0.45,
+          "keywords": [
+            "paleocerebelo",
+            "lobo anterior",
+            "tônus",
+            "postura"
+          ]
+        },
+        {
+          "text": "Neocerebelo: lobo posterior, conexões corticais, planejamento/coordenação",
+          "weight": 0.45,
+          "keywords": [
+            "neocerebelo",
+            "lobo posterior",
+            "planejamento",
+            "coordenação"
+          ]
+        },
+        {
+          "text": "Contraste: postural básico x movimentos voluntários elaborados",
+          "weight": 0.1,
+          "keywords": [
+            "contraste",
+            "elaborados"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-075",
+      "topic": "Cerebelo e aprendizagem motora",
+      "question": "Explique a relação do cerebelo com a coordenação e a aprendizagem motora, com base no material estudado.",
+      "modelAnswer": "Entre as funções do cerebelo, destaca-se sua relação com a coordenação e a aprendizagem motora, exercendo função essencialmente motora. Isso ocorre porque o cerebelo recebe continuamente informações do sistema vestibular, da medula espinhal e do córtex cerebral, processando-as por meio do córtex cerebelar e de seus núcleos, de modo a corrigir e ajustar as atividades motoras. Com a repetição de movimentos, esse processamento contínuo contribui para o refinamento e a automatização de padrões motores, o que caracteriza a aprendizagem motora — sendo o neocerebelo, com suas conexões corticais, particularmente relevante para o planejamento e a coordenação de movimentos mais elaborados.",
+      "keyPoints": [
+        {
+          "text": "Cerebelo tem função essencialmente motora, incluindo coordenação e aprendizagem",
+          "weight": 0.35,
+          "keywords": [
+            "coordenação",
+            "aprendizagem motora"
+          ]
+        },
+        {
+          "text": "Processa informações vestibulares, medulares e corticais continuamente",
+          "weight": 0.35,
+          "keywords": [
+            "vestibular",
+            "medula",
+            "córtex"
+          ]
+        },
+        {
+          "text": "Neocerebelo relevante para planejamento/coordenação de movimentos elaborados",
+          "weight": 0.3,
+          "keywords": [
+            "neocerebelo",
+            "planejamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19-21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -8424,6 +10655,657 @@
       "subject": "Plasticidade neural",
       "difficulty": "medio",
       "miniLesson": "Como o exercício físico influencia a recuperação de encéfalos lesados, segundo o material? O aumento dos mecanismos celulares e sinápticos da plasticidade promovidos pelo exercício aeróbio pode contribuir para efeitos benéficos, reduzindo a degeneração e promovendo a recuperação da função em encéfalos lesados. A prática de exercícios pode alterar sinapses ou reduzir eventos moleculares nocivos na área perilesionada, além de estimular a ação de fatores neurotróficos relacionados à neurogênese, angiogênese e plasticidade cerebral."
+    },
+    {
+      "id": "neuro-oral-056",
+      "topic": "Medula espinhal",
+      "question": "Onde estão localizados os limites superior e inferior da medula espinhal no indivíduo adulto?",
+      "modelAnswer": "O limite superior corresponde à continuação do bulbo, a nível do forame magno do osso occipital. O limite inferior, no adulto, localiza-se entre a primeira e a segunda vértebras lombares, onde a medula se afunila formando o cone medular.",
+      "keyPoints": [
+        {
+          "text": "Superior: continuação do bulbo, forame magno",
+          "weight": 0.5,
+          "keywords": [
+            "forame magno",
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Inferior: entre L1 e L2, cone medular",
+          "weight": 0.5,
+          "keywords": [
+            "L1",
+            "L2",
+            "cone medular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "4"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Onde estão localizados os limites superior e inferior da medula espinhal no indivíduo adulto? O limite superior corresponde à continuação do bulbo, a nível do forame magno do osso occipital. O limite inferior, no adulto, localiza-se entre a primeira e a segunda vértebras lombares, onde a medula se afunila formando o cone medular."
+    },
+    {
+      "id": "neuro-oral-057",
+      "topic": "Medula espinhal",
+      "question": "Qual é a diferença funcional entre a coluna cinzenta anterior e a coluna cinzenta posterior da medula espinhal?",
+      "modelAnswer": "A coluna cinzenta posterior é considerada a porção sensitiva, pois contém corpos celulares que recebem informações da periferia via Sistema Nervoso Periférico. A coluna cinzenta anterior é a porção motora, contendo corpos celulares que emitem impulsos, em caminho descendente, para os músculos estriados.",
+      "keyPoints": [
+        {
+          "text": "Coluna posterior: sensitiva, recebe da periferia",
+          "weight": 0.5,
+          "keywords": [
+            "posterior",
+            "sensitiva"
+          ]
+        },
+        {
+          "text": "Coluna anterior: motora, emite para os músculos",
+          "weight": 0.5,
+          "keywords": [
+            "anterior",
+            "motora"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "5-6"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a diferença funcional entre a coluna cinzenta anterior e a coluna cinzenta posterior da medula espinhal? A coluna cinzenta posterior é considerada a porção sensitiva, pois contém corpos celulares que recebem informações da periferia via Sistema Nervoso Periférico. A coluna cinzenta anterior é a porção motora, contendo corpos celulares que emitem impulsos, em caminho descendente, para os músculos estriados."
+    },
+    {
+      "id": "neuro-oral-058",
+      "topic": "Medula espinhal",
+      "question": "Quantos pares de nervos espinhais existem e como se distribuem entre as regiões da coluna vertebral?",
+      "modelAnswer": "Existem 31 pares de nervos espinhais: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo.",
+      "keyPoints": [
+        {
+          "text": "31 pares no total",
+          "weight": 0.3,
+          "keywords": [
+            "31 pares"
+          ]
+        },
+        {
+          "text": "8 cervicais, 12 torácicos",
+          "weight": 0.35,
+          "keywords": [
+            "8 cervicais",
+            "12 torácicos"
+          ]
+        },
+        {
+          "text": "5 lombares, 5 sacrais, 1 coccígeo",
+          "weight": 0.35,
+          "keywords": [
+            "5 lombares",
+            "5 sacrais",
+            "coccígeo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Quantos pares de nervos espinhais existem e como se distribuem entre as regiões da coluna vertebral? Existem 31 pares de nervos espinhais: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais e, geralmente, 1 coccígeo."
+    },
+    {
+      "id": "neuro-oral-059",
+      "topic": "Medula espinhal",
+      "question": "O que é a cauda equina?",
+      "modelAnswer": "Como a medula espinhal não ocupa todo o canal vertebral no adulto (terminando a nível da segunda vértebra lombar), abaixo desse nível estão presentes apenas meninges e as raízes nervosas dos últimos nervos espinhais, que, em conjunto, são chamadas de cauda equina.",
+      "keyPoints": [
+        {
+          "text": "Meninges e raízes nervosas abaixo de L2",
+          "weight": 0.6,
+          "keywords": [
+            "meninges",
+            "raízes nervosas",
+            "L2"
+          ]
+        },
+        {
+          "text": "Ocorre porque a medula termina antes do final do canal vertebral",
+          "weight": 0.4,
+          "keywords": [
+            "não ocupa todo o canal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "7"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "O que é a cauda equina? Como a medula espinhal não ocupa todo o canal vertebral no adulto (terminando a nível da segunda vértebra lombar), abaixo desse nível estão presentes apenas meninges e as raízes nervosas dos últimos nervos espinhais, que, em conjunto, são chamadas de cauda equina."
+    },
+    {
+      "id": "neuro-oral-060",
+      "topic": "Medula espinhal",
+      "question": "Explique a diferença entre motoneurônios ALFA e GAMA.",
+      "modelAnswer": "Os neurônios ALFA são grandes, de axônio de grosso calibre, e inervam as fibras musculares extrafusais, responsáveis pela contração muscular efetiva. Os neurônios GAMA são menores, de axônio fino, e inervam as fibras intrafusais, localizadas mais internamente ao músculo.",
+      "keyPoints": [
+        {
+          "text": "ALFA: grandes, fibras extrafusais",
+          "weight": 0.5,
+          "keywords": [
+            "ALFA",
+            "extrafusais"
+          ]
+        },
+        {
+          "text": "GAMA: menores, fibras intrafusais",
+          "weight": 0.5,
+          "keywords": [
+            "GAMA",
+            "intrafusais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "9"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Explique a diferença entre motoneurônios ALFA e GAMA. Os neurônios ALFA são grandes, de axônio de grosso calibre, e inervam as fibras musculares extrafusais, responsáveis pela contração muscular efetiva. Os neurônios GAMA são menores, de axônio fino, e inervam as fibras intrafusais, localizadas mais internamente ao músculo."
+    },
+    {
+      "id": "neuro-oral-061",
+      "topic": "Medula espinhal",
+      "question": "O que são os neurônios internunciais da medula espinhal?",
+      "modelAnswer": "São neurônios de axônio curto, também chamados tipo II de Golgi, pequenos, que estabelecem conexões entre as fibras que entram na medula pelas raízes dorsais e os neurônios motores, interpondo-se em vários arcos reflexos medulares.",
+      "keyPoints": [
+        {
+          "text": "Axônio curto (tipo II de Golgi), pequenos",
+          "weight": 0.4,
+          "keywords": [
+            "axônio curto",
+            "tipo II"
+          ]
+        },
+        {
+          "text": "Conectam raízes dorsais aos neurônios motores em arcos reflexos",
+          "weight": 0.6,
+          "keywords": [
+            "raízes dorsais",
+            "neurônios motores",
+            "arcos reflexos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "O que são os neurônios internunciais da medula espinhal? São neurônios de axônio curto, também chamados tipo II de Golgi, pequenos, que estabelecem conexões entre as fibras que entram na medula pelas raízes dorsais e os neurônios motores, interpondo-se em vários arcos reflexos medulares."
+    },
+    {
+      "id": "neuro-oral-062",
+      "topic": "Medula espinhal",
+      "question": "O que significa dizer que a motricidade voluntária é cruzada?",
+      "modelAnswer": "Significa que o córtex de um hemisfério cerebral comanda os neurônios motores localizados na medula do lado oposto do corpo, devido ao cruzamento da maior parte das fibras do trato córtico-espinhal na decussação das pirâmides. Por isso, uma lesão dessa via acima da decussação gera déficits de movimento na metade oposta do corpo.",
+      "keyPoints": [
+        {
+          "text": "Hemisfério cerebral comanda o lado oposto do corpo",
+          "weight": 0.6,
+          "keywords": [
+            "lado oposto",
+            "hemisfério"
+          ]
+        },
+        {
+          "text": "Devido ao cruzamento na decussação das pirâmides",
+          "weight": 0.4,
+          "keywords": [
+            "decussação",
+            "pirâmides"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "11"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "O que significa dizer que a motricidade voluntária é cruzada? Significa que o córtex de um hemisfério cerebral comanda os neurônios motores localizados na medula do lado oposto do corpo, devido ao cruzamento da maior parte das fibras do trato córtico-espinhal na decussação das pirâmides. Por isso, uma lesão dessa via acima da decussação gera déficits de movimento na metade oposta do corpo."
+    },
+    {
+      "id": "neuro-oral-063",
+      "topic": "Medula espinhal",
+      "question": "Que tipo de informação sensitiva é conduzida pelos fascículos grácil e cuneiforme, no funículo posterior da medula?",
+      "modelAnswer": "Os fascículos grácil e cuneiforme conduzem impulsos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à estereognosia.",
+      "keyPoints": [
+        {
+          "text": "Propriocepção consciente e tato discriminativo",
+          "weight": 0.5,
+          "keywords": [
+            "propriocepção consciente",
+            "tato discriminativo"
+          ]
+        },
+        {
+          "text": "Sensibilidade vibratória e estereognosia",
+          "weight": 0.5,
+          "keywords": [
+            "sensibilidade vibratória",
+            "estereognosia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "medio",
+      "miniLesson": "Que tipo de informação sensitiva é conduzida pelos fascículos grácil e cuneiforme, no funículo posterior da medula? Os fascículos grácil e cuneiforme conduzem impulsos relacionados à propriocepção consciente, ao tato discriminativo, à sensibilidade vibratória e à estereognosia."
+    },
+    {
+      "id": "neuro-oral-064",
+      "topic": "Medula espinhal",
+      "question": "Que tipo de informação é conduzida pelo trato espinotalâmico lateral?",
+      "modelAnswer": "O trato espinotalâmico lateral, localizado no funículo lateral da medula, conduz informações de dor e temperatura.",
+      "keyPoints": [
+        {
+          "text": "Dor e temperatura",
+          "weight": 1,
+          "keywords": [
+            "dor",
+            "temperatura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "13"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "baixo",
+      "miniLesson": "Que tipo de informação é conduzida pelo trato espinotalâmico lateral? O trato espinotalâmico lateral, localizado no funículo lateral da medula, conduz informações de dor e temperatura."
+    },
+    {
+      "id": "neuro-oral-065",
+      "topic": "Medula espinhal",
+      "question": "Qual é a diferença entre vias piramidais e extrapiramidais?",
+      "modelAnswer": "As vias piramidais (tratos córtico-espinhal anterior e lateral) passam pelas pirâmides bulbares antes de entrar na medula e originam-se no córtex cerebral, sendo responsáveis pela motricidade voluntária. As vias extrapiramidais (tecto-espinhal, vestíbulo-espinhal, rubro-espinhal e retículo-espinhal) originam-se em estruturas do tronco encefálico e mesencéfalo, atuando principalmente sobre a musculatura axial e proximal, importantes para o equilíbrio e a postura.",
+      "keyPoints": [
+        {
+          "text": "Piramidais: pirâmides bulbares, córtex cerebral, motricidade voluntária",
+          "weight": 0.5,
+          "keywords": [
+            "piramidais",
+            "pirâmides bulbares",
+            "voluntária"
+          ]
+        },
+        {
+          "text": "Extrapiramidais: tronco encefálico/mesencéfalo, equilíbrio e postura",
+          "weight": 0.5,
+          "keywords": [
+            "extrapiramidais",
+            "equilíbrio",
+            "postura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "10-12"
+      },
+      "subject": "Medula espinhal",
+      "difficulty": "dificil",
+      "miniLesson": "Qual é a diferença entre vias piramidais e extrapiramidais? As vias piramidais (tratos córtico-espinhal anterior e lateral) passam pelas pirâmides bulbares antes de entrar na medula e originam-se no córtex cerebral, sendo responsáveis pela motricidade voluntária. As vias extrapiramidais (tecto-espinhal, vestíbulo-espinhal, rubro-espinhal e retículo-espinhal) originam-se em estruturas do tronco encefálico e mesencéfalo, atuando principalmente sobre a musculatura axial e proximal, importantes para o equilíbrio e a postura."
+    },
+    {
+      "id": "neuro-oral-066",
+      "topic": "Cerebelo",
+      "question": "Por que o cerebelo é conhecido como 'pequeno cérebro'?",
+      "modelAnswer": "Porque se assemelha ao hemisfério cerebral, possuindo uma capa de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro.",
+      "keyPoints": [
+        {
+          "text": "Semelhança anatômica com o cérebro",
+          "weight": 0.5,
+          "keywords": [
+            "semelhança",
+            "hemisfério cerebral"
+          ]
+        },
+        {
+          "text": "Córtex cerebelar (substância cinzenta) + núcleos na substância branca",
+          "weight": 0.5,
+          "keywords": [
+            "córtex cerebelar",
+            "núcleos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "baixo",
+      "miniLesson": "Por que o cerebelo é conhecido como 'pequeno cérebro'? Porque se assemelha ao hemisfério cerebral, possuindo uma capa de substância cinzenta (córtex cerebelar) e formações nucleares mergulhadas na substância branca, assim como o cérebro."
+    },
+    {
+      "id": "neuro-oral-067",
+      "topic": "Cerebelo",
+      "question": "Qual é a principal diferença fisiológica entre o cerebelo e o cérebro?",
+      "modelAnswer": "O cerebelo funciona sempre em nível inconsciente e involuntário, ou seja, nossa vontade não perpassa pela ação cerebelar, diferentemente do cérebro, responsável pelo controle motor voluntário e consciente.",
+      "keyPoints": [
+        {
+          "text": "Cerebelo: inconsciente e involuntário",
+          "weight": 1,
+          "keywords": [
+            "inconsciente",
+            "involuntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a principal diferença fisiológica entre o cerebelo e o cérebro? O cerebelo funciona sempre em nível inconsciente e involuntário, ou seja, nossa vontade não perpassa pela ação cerebelar, diferentemente do cérebro, responsável pelo controle motor voluntário e consciente."
+    },
+    {
+      "id": "neuro-oral-068",
+      "topic": "Cerebelo",
+      "question": "Quais são as três principais funções do cerebelo?",
+      "modelAnswer": "O cerebelo atua na manutenção do equilíbrio e da postura, no controle do tônus muscular e dos movimentos voluntários, e na coordenação e aprendizagem motora.",
+      "keyPoints": [
+        {
+          "text": "Equilíbrio e postura",
+          "weight": 0.34,
+          "keywords": [
+            "equilíbrio",
+            "postura"
+          ]
+        },
+        {
+          "text": "Tônus muscular e movimentos voluntários",
+          "weight": 0.33,
+          "keywords": [
+            "tônus muscular"
+          ]
+        },
+        {
+          "text": "Coordenação e aprendizagem motora",
+          "weight": 0.33,
+          "keywords": [
+            "coordenação",
+            "aprendizagem"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as três principais funções do cerebelo? O cerebelo atua na manutenção do equilíbrio e da postura, no controle do tônus muscular e dos movimentos voluntários, e na coordenação e aprendizagem motora."
+    },
+    {
+      "id": "neuro-oral-069",
+      "topic": "Cerebelo",
+      "question": "O que é o vérmis do cerebelo?",
+      "modelAnswer": "O vérmis é uma porção ímpar e mediana do cerebelo, que liga os dois hemisférios cerebelares (direito e esquerdo).",
+      "keyPoints": [
+        {
+          "text": "Porção ímpar e mediana",
+          "weight": 0.5,
+          "keywords": [
+            "ímpar",
+            "mediana"
+          ]
+        },
+        {
+          "text": "Liga os dois hemisférios cerebelares",
+          "weight": 0.5,
+          "keywords": [
+            "hemisférios cerebelares"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "O que é o vérmis do cerebelo? O vérmis é uma porção ímpar e mediana do cerebelo, que liga os dois hemisférios cerebelares (direito e esquerdo)."
+    },
+    {
+      "id": "neuro-oral-070",
+      "topic": "Cerebelo",
+      "question": "Quais são os três lobos anatômicos do cerebelo?",
+      "modelAnswer": "O cerebelo divide-se em lobo flóculo-nodular (constituído pelo nódulo e pelos flóculos), lobo anterior e lobo posterior, sendo estes dois últimos separados pela fissura primária.",
+      "keyPoints": [
+        {
+          "text": "Lobo flóculo-nodular",
+          "weight": 0.34,
+          "keywords": [
+            "flóculo-nodular"
+          ]
+        },
+        {
+          "text": "Lobo anterior",
+          "weight": 0.33,
+          "keywords": [
+            "lobo anterior"
+          ]
+        },
+        {
+          "text": "Lobo posterior, separado pela fissura primária",
+          "weight": 0.33,
+          "keywords": [
+            "lobo posterior",
+            "fissura primária"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "19"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os três lobos anatômicos do cerebelo? O cerebelo divide-se em lobo flóculo-nodular (constituído pelo nódulo e pelos flóculos), lobo anterior e lobo posterior, sendo estes dois últimos separados pela fissura primária."
+    },
+    {
+      "id": "neuro-oral-071",
+      "topic": "Cerebelo",
+      "question": "O que é o arquicerebelo e qual sua função principal?",
+      "modelAnswer": "O arquicerebelo é a formação mais antiga do cerebelo, correspondendo ao lobo flóculo-nodular, com conexões vestibulares (por isso também chamado de cerebelo vestibular). Sua função principal é a manutenção do equilíbrio.",
+      "keyPoints": [
+        {
+          "text": "Lobo flóculo-nodular, conexões vestibulares",
+          "weight": 0.5,
+          "keywords": [
+            "flóculo-nodular",
+            "vestibular"
+          ]
+        },
+        {
+          "text": "Função: manutenção do equilíbrio",
+          "weight": 0.5,
+          "keywords": [
+            "equilíbrio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "O que é o arquicerebelo e qual sua função principal? O arquicerebelo é a formação mais antiga do cerebelo, correspondendo ao lobo flóculo-nodular, com conexões vestibulares (por isso também chamado de cerebelo vestibular). Sua função principal é a manutenção do equilíbrio."
+    },
+    {
+      "id": "neuro-oral-072",
+      "topic": "Cerebelo",
+      "question": "O que é o paleocerebelo e qual sua função principal?",
+      "modelAnswer": "O paleocerebelo corresponde ao lobo anterior do cerebelo, apresentando conexões com a medula espinhal, que leva informações proprioceptivas (como o grau de contração muscular). Sua função é a regulação do tônus muscular e da postura.",
+      "keyPoints": [
+        {
+          "text": "Lobo anterior, conexões com a medula espinhal",
+          "weight": 0.5,
+          "keywords": [
+            "lobo anterior",
+            "medula espinhal"
+          ]
+        },
+        {
+          "text": "Função: tônus muscular e postura",
+          "weight": 0.5,
+          "keywords": [
+            "tônus muscular",
+            "postura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "O que é o paleocerebelo e qual sua função principal? O paleocerebelo corresponde ao lobo anterior do cerebelo, apresentando conexões com a medula espinhal, que leva informações proprioceptivas (como o grau de contração muscular). Sua função é a regulação do tônus muscular e da postura."
+    },
+    {
+      "id": "neuro-oral-073",
+      "topic": "Cerebelo",
+      "question": "O que é o neocerebelo e qual sua função principal?",
+      "modelAnswer": "O neocerebelo corresponde ao lobo posterior do cerebelo, apresentando amplas conexões com o córtex cerebral (podendo ser chamado de cerebelo cortical). Sua função principal é o planejamento e a coordenação motora.",
+      "keyPoints": [
+        {
+          "text": "Lobo posterior, conexões com o córtex cerebral",
+          "weight": 0.5,
+          "keywords": [
+            "lobo posterior",
+            "córtex cerebral"
+          ]
+        },
+        {
+          "text": "Função: planejamento e coordenação motora",
+          "weight": 0.5,
+          "keywords": [
+            "planejamento",
+            "coordenação motora"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "20"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "O que é o neocerebelo e qual sua função principal? O neocerebelo corresponde ao lobo posterior do cerebelo, apresentando amplas conexões com o córtex cerebral (podendo ser chamado de cerebelo cortical). Sua função principal é o planejamento e a coordenação motora."
+    },
+    {
+      "id": "neuro-oral-074",
+      "topic": "Cerebelo",
+      "question": "Por que um processo expansivo pequeno no cerebelo pode ser perigoso?",
+      "modelAnswer": "Porque o cerebelo está situado em um espaço praticamente inextensível e tem íntima relação com o IV ventrículo; assim, mesmo um pequeno processo expansivo pode provocar rapidamente um aumento importante da pressão intracraniana.",
+      "keyPoints": [
+        {
+          "text": "Espaço inextensível, relação próxima com o IV ventrículo",
+          "weight": 0.5,
+          "keywords": [
+            "inextensível",
+            "IV ventrículo"
+          ]
+        },
+        {
+          "text": "Rápido aumento da pressão intracraniana",
+          "weight": 0.5,
+          "keywords": [
+            "pressão intracraniana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "18"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "dificil",
+      "miniLesson": "Por que um processo expansivo pequeno no cerebelo pode ser perigoso? Porque o cerebelo está situado em um espaço praticamente inextensível e tem íntima relação com o IV ventrículo; assim, mesmo um pequeno processo expansivo pode provocar rapidamente um aumento importante da pressão intracraniana."
+    },
+    {
+      "id": "neuro-oral-075",
+      "topic": "Cerebelo",
+      "question": "De onde o cerebelo recebe as informações que utiliza para corrigir a atividade motora?",
+      "modelAnswer": "O cerebelo recebe informações de três origens principais: o sistema vestibular, a medula espinhal e o córtex cerebral, processando-as por meio do córtex cerebelar e de seus núcleos para corrigir e ajustar as atividades motoras.",
+      "keyPoints": [
+        {
+          "text": "Sistema vestibular",
+          "weight": 0.34,
+          "keywords": [
+            "sistema vestibular"
+          ]
+        },
+        {
+          "text": "Medula espinhal",
+          "weight": 0.33,
+          "keywords": [
+            "medula espinhal"
+          ]
+        },
+        {
+          "text": "Córtex cerebral",
+          "weight": 0.33,
+          "keywords": [
+            "córtex cerebral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Cerebelo",
+      "difficulty": "medio",
+      "miniLesson": "De onde o cerebelo recebe as informações que utiliza para corrigir a atividade motora? O cerebelo recebe informações de três origens principais: o sistema vestibular, a medula espinhal e o córtex cerebral, processando-as por meio do córtex cerebelar e de seus núcleos para corrigir e ajustar as atividades motoras."
     }
   ]
 }
