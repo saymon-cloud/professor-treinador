@@ -11108,6 +11108,1480 @@
       "subject": "Sistema nervoso autônomo",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, é possível afirmar que as divisões simpática e parassimpática, embora normalmente funcionem em oposição, são mais bem compreendidas como de natureza: As divisões simpática e parassimpática normalmente funcionam em oposição, mas essa oposição é melhor entendida como complementar em natureza do que antagônica."
+    },
+    {
+      "id": "neuro-obj-507",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os nervos espinhais são responsáveis pela inervação do tronco, dos membros e partes da cabeça, sendo formados por 31 pares, correspondentes aos segmentos medulares existentes. Qual é a distribuição correta desses pares?",
+      "options": {
+        "a": "8 pares cervicais, 12 torácicos, 5 lombares, 5 sacrais e 1 coccígeo",
+        "b": "7 pares cervicais, 12 torácicos, 5 lombares, 5 sacrais e 2 coccígeos",
+        "c": "8 pares cervicais, 10 torácicos, 6 lombares, 6 sacrais e 1 coccígeo",
+        "d": "12 pares cervicais, 8 torácicos, 5 lombares, 5 sacrais e 1 coccígeo",
+        "e": "8 pares cervicais, 12 torácicos, 6 lombares, 4 sacrais e 1 coccígeo"
+      },
+      "correct": "a",
+      "explanation": "Os nervos espinhais são 31 pares: 8 pares de nervos cervicais, 12 pares torácicos, 5 pares lombares, 5 sacrais e 1 coccígeo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos espinhais são responsáveis pela inervação do tronco, dos membros e partes da cabeça, sendo formados por 31 pares, correspondentes aos segmentos medulares existentes. Qual é a distribuição correta desses pares? Os nervos espinhais são 31 pares: 8 pares de nervos cervicais, 12 pares torácicos, 5 pares lombares, 5 sacrais e 1 coccígeo."
+    },
+    {
+      "id": "neuro-obj-508",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, cada nervo espinhal é formado pela união de duas raízes, sendo o nervo espinhal considerado um nervo misto por apresentar componentes:",
+      "options": {
+        "a": "Motor e sensitivo",
+        "b": "Exclusivamente motor",
+        "c": "Exclusivamente sensitivo",
+        "d": "Exclusivamente autonômico",
+        "e": "Exclusivamente visceral"
+      },
+      "correct": "a",
+      "explanation": "A união da raiz dorsal (sensitiva) e da raiz ventral (motora) forma o tronco do nervo espinhal, que por isso é considerado um nervo misto, com componentes motor e sensitivo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, cada nervo espinhal é formado pela união de duas raízes, sendo o nervo espinhal considerado um nervo misto por apresentar componentes: A união da raiz dorsal (sensitiva) e da raiz ventral (motora) forma o tronco do nervo espinhal, que por isso é considerado um nervo misto, com componentes motor e sensitivo."
+    },
+    {
+      "id": "neuro-obj-509",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, a raiz dorsal do nervo espinhal é responsável pelo recebimento da informação:",
+      "options": {
+        "a": "Sensitiva, vinda da periferia",
+        "b": "Motora, direcionada à periferia",
+        "c": "Exclusivamente visceral eferente",
+        "d": "Exclusivamente autonômica simpática",
+        "e": "Exclusivamente relacionada ao paladar"
+      },
+      "correct": "a",
+      "explanation": "A raiz dorsal é responsável pelo recebimento da informação sensitiva, vinda da periferia, enquanto a raiz ventral é responsável pela saída da informação motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a raiz dorsal do nervo espinhal é responsável pelo recebimento da informação: A raiz dorsal é responsável pelo recebimento da informação sensitiva, vinda da periferia, enquanto a raiz ventral é responsável pela saída da informação motora."
+    },
+    {
+      "id": "neuro-obj-510",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o gânglio espinhal, onde estão localizados os corpos dos neurônios sensitivos, está situado:",
+      "options": {
+        "a": "Na raiz dorsal",
+        "b": "Na raiz ventral",
+        "c": "No tronco simpático exclusivamente",
+        "d": "No gânglio ótico",
+        "e": "No gânglio ciliar"
+      },
+      "correct": "a",
+      "explanation": "Na raiz dorsal do nervo espinhal está localizado o gânglio espinhal, onde estão os corpos dos neurônios sensitivos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o gânglio espinhal, onde estão localizados os corpos dos neurônios sensitivos, está situado: Na raiz dorsal do nervo espinhal está localizado o gânglio espinhal, onde estão os corpos dos neurônios sensitivos."
+    },
+    {
+      "id": "neuro-obj-511",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, a raiz ventral do nervo espinhal é formada por axônios originados a partir de neurônios motores situados nas colunas anterior e lateral da medula, e, por esse motivo:",
+      "options": {
+        "a": "Não apresenta gânglios",
+        "b": "Apresenta dois gânglios",
+        "c": "Apresenta um único gânglio muito grande",
+        "d": "Apresenta o mesmo gânglio da raiz dorsal",
+        "e": "Apresenta gânglios exclusivamente parassimpáticos"
+      },
+      "correct": "a",
+      "explanation": "A raiz ventral é formada por axônios originados dos neurônios motores das colunas anterior e lateral da medula e, por esse motivo, não apresenta gânglios (diferentemente da raiz dorsal).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4-5"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a raiz ventral do nervo espinhal é formada por axônios originados a partir de neurônios motores situados nas colunas anterior e lateral da medula, e, por esse motivo: A raiz ventral é formada por axônios originados dos neurônios motores das colunas anterior e lateral da medula e, por esse motivo, não apresenta gânglios (diferentemente da raiz dorsal)."
+    },
+    {
+      "id": "neuro-obj-512",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, as fibras aferentes somáticas conduzem, a nível consciente, informações de temperatura, dor, pressão e tato por meio de terminações nervosas conhecidas como:",
+      "options": {
+        "a": "Exteroceptores",
+        "b": "Interoceptores",
+        "c": "Proprioceptores exclusivamente",
+        "d": "Visceroceptores",
+        "e": "Quimiorreceptores exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "As fibras aferentes somáticas, por meio dos exteroceptores, levam informações de temperatura, dor, pressão e tato a nível consciente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "5"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as fibras aferentes somáticas conduzem, a nível consciente, informações de temperatura, dor, pressão e tato por meio de terminações nervosas conhecidas como: As fibras aferentes somáticas, por meio dos exteroceptores, levam informações de temperatura, dor, pressão e tato a nível consciente."
+    },
+    {
+      "id": "neuro-obj-513",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os proprioceptores, localizados nos músculos e articulações, levam informações a nível consciente e inconsciente sobre:",
+      "options": {
+        "a": "Tônus muscular, movimento e posição da articulação",
+        "b": "Exclusivamente a temperatura ambiente",
+        "c": "Exclusivamente o paladar",
+        "d": "Exclusivamente o olfato",
+        "e": "Exclusivamente a audição"
+      },
+      "correct": "a",
+      "explanation": "Os proprioceptores, localizados nos músculos e articulações, levam informações sobre tônus muscular, movimento e posição da articulação, tanto a nível consciente quanto inconsciente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "5"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os proprioceptores, localizados nos músculos e articulações, levam informações a nível consciente e inconsciente sobre: Os proprioceptores, localizados nos músculos e articulações, levam informações sobre tônus muscular, movimento e posição da articulação, tanto a nível consciente quanto inconsciente."
+    },
+    {
+      "id": "neuro-obj-514",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, as fibras aferentes viscerais conduzem informações sensoriais dos órgãos internos por meio de terminações chamadas de:",
+      "options": {
+        "a": "Interoceptores",
+        "b": "Exteroceptores",
+        "c": "Proprioceptores",
+        "d": "Fotorreceptores",
+        "e": "Mecanorreceptores cutâneos exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "As fibras aferentes viscerais conduzem informações sensoriais dos órgãos internos por meio dos interoceptores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "5"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as fibras aferentes viscerais conduzem informações sensoriais dos órgãos internos por meio de terminações chamadas de: As fibras aferentes viscerais conduzem informações sensoriais dos órgãos internos por meio dos interoceptores."
+    },
+    {
+      "id": "neuro-obj-515",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o território situado na pele, inervado por fibras de uma única raiz dorsal, é chamado de:",
+      "options": {
+        "a": "Dermátomo",
+        "b": "Miótomo",
+        "c": "Esclerótomo",
+        "d": "Plexo",
+        "e": "Fascículo"
+      },
+      "correct": "a",
+      "explanation": "O dermátomo é o território situado na pele, inervado por fibras de uma única raiz dorsal, e recebe o nome da raiz que o inerva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o território situado na pele, inervado por fibras de uma única raiz dorsal, é chamado de: O dermátomo é o território situado na pele, inervado por fibras de uma única raiz dorsal, e recebe o nome da raiz que o inerva."
+    },
+    {
+      "id": "neuro-obj-516",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o território inervado por uma única raiz ventral (raiz motora) é conhecido como:",
+      "options": {
+        "a": "Miótomo",
+        "b": "Dermátomo",
+        "c": "Plexo",
+        "d": "Fascículo",
+        "e": "Gânglio"
+      },
+      "correct": "a",
+      "explanation": "O miótomo se refere ao território inervado por uma única raiz ventral, ou seja, raiz motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o território inervado por uma única raiz ventral (raiz motora) é conhecido como: O miótomo se refere ao território inervado por uma única raiz ventral, ou seja, raiz motora."
+    },
+    {
+      "id": "neuro-obj-517",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, conhecer o território cutâneo de distribuição dos nervos periféricos e o mapa dos dermátomos permite, diante de um quadro de perda de sensibilidade, determinar se a lesão ocorreu:",
+      "options": {
+        "a": "Em um nervo periférico, na medula ou nas raízes espinhais",
+        "b": "Exclusivamente no cérebro",
+        "c": "Exclusivamente no cerebelo",
+        "d": "Exclusivamente no tronco encefálico",
+        "e": "Exclusivamente no sistema límbico"
+      },
+      "correct": "a",
+      "explanation": "Conhecendo o território cutâneo de distribuição dos nervos periféricos e o mapa dos dermátomos, é possível determinar se uma lesão ocorreu em um nervo periférico, na medula ou nas raízes espinhais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, conhecer o território cutâneo de distribuição dos nervos periféricos e o mapa dos dermátomos permite, diante de um quadro de perda de sensibilidade, determinar se a lesão ocorreu: Conhecendo o território cutâneo de distribuição dos nervos periféricos e o mapa dos dermátomos, é possível determinar se uma lesão ocorreu em um nervo periférico, na medula ou nas raízes espinhais."
+    },
+    {
+      "id": "neuro-obj-518",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os nervos intercostais são considerados unissegmentares porque suas fibras se originam:",
+      "options": {
+        "a": "Em apenas um segmento medular",
+        "b": "Em mais de um segmento medular",
+        "c": "Exclusivamente nos plexos",
+        "d": "Exclusivamente no encéfalo",
+        "e": "Exclusivamente na raiz ventral"
+      },
+      "correct": "a",
+      "explanation": "Os nervos intercostais são unissegmentares, pois suas fibras se originam em apenas um segmento medular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos intercostais são considerados unissegmentares porque suas fibras se originam: Os nervos intercostais são unissegmentares, pois suas fibras se originam em apenas um segmento medular."
+    },
+    {
+      "id": "neuro-obj-519",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os nervos originados dos plexos são considerados plurissegmentares porque:",
+      "options": {
+        "a": "Contêm fibras originadas em mais de um segmento medular",
+        "b": "Contêm fibras originadas em apenas um segmento medular",
+        "c": "Não recebem qualquer contribuição da medula espinhal",
+        "d": "Se originam exclusivamente do encéfalo",
+        "e": "Não apresentam raízes dorsais nem ventrais"
+      },
+      "correct": "a",
+      "explanation": "Os nervos originados dos plexos são plurissegmentares, ou seja, contêm fibras originadas em mais de um segmento medular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos originados dos plexos são considerados plurissegmentares porque: Os nervos originados dos plexos são plurissegmentares, ou seja, contêm fibras originadas em mais de um segmento medular."
+    },
+    {
+      "id": "neuro-obj-520",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, existem cinco plexos nervosos: cervical, braquial, lombar, sacral e:",
+      "options": {
+        "a": "Coccígeo",
+        "b": "Torácico",
+        "c": "Occipital",
+        "d": "Cranial",
+        "e": "Entérico"
+      },
+      "correct": "a",
+      "explanation": "Existem cinco plexos nervosos: cervical, braquial, lombar, sacral e coccígeo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem cinco plexos nervosos: cervical, braquial, lombar, sacral e: Existem cinco plexos nervosos: cervical, braquial, lombar, sacral e coccígeo."
+    },
+    {
+      "id": "neuro-obj-521",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, vale ressaltar que, na região torácica:",
+      "options": {
+        "a": "Não há a formação de plexos",
+        "b": "Há a formação de um grande plexo torácico",
+        "c": "Há a formação de dois plexos torácicos",
+        "d": "Há apenas o plexo entérico",
+        "e": "Há apenas o plexo lombar"
+      },
+      "correct": "a",
+      "explanation": "Vale ressaltar que, na região torácica, não há a formação de plexos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, vale ressaltar que, na região torácica: Vale ressaltar que, na região torácica, não há a formação de plexos."
+    },
+    {
+      "id": "neuro-obj-522",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o plexo cervical é formado pelas quatro primeiras raízes cervicais, sendo seu nervo principal e terminal o nervo frênico, responsável por inervar o músculo:",
+      "options": {
+        "a": "Diafragma",
+        "b": "Deltoide",
+        "c": "Trapézio",
+        "d": "Bíceps braquial",
+        "e": "Peitoral maior"
+      },
+      "correct": "a",
+      "explanation": "O nervo frênico, principal e terminal do plexo cervical, inerva o músculo diafragma, que exerce importante função no processo de respiração.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7-8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o plexo cervical é formado pelas quatro primeiras raízes cervicais, sendo seu nervo principal e terminal o nervo frênico, responsável por inervar o músculo: O nervo frênico, principal e terminal do plexo cervical, inerva o músculo diafragma, que exerce importante função no processo de respiração."
+    },
+    {
+      "id": "neuro-obj-523",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, sendo responsável pela inervação da pele e dos músculos:",
+      "options": {
+        "a": "Da cintura escapular e membro superior",
+        "b": "Exclusivamente da cabeça e pescoço",
+        "c": "Exclusivamente do abdome",
+        "d": "Exclusivamente do membro inferior",
+        "e": "Exclusivamente da região lombar"
+      },
+      "correct": "a",
+      "explanation": "O plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, responsável pela inervação da pele e dos músculos da cintura escapular e membro superior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, sendo responsável pela inervação da pele e dos músculos: O plexo braquial é formado pelas quatro últimas raízes cervicais e pela primeira raiz torácica, responsável pela inervação da pele e dos músculos da cintura escapular e membro superior."
+    },
+    {
+      "id": "neuro-obj-524",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, no plexo braquial, o tronco superior é formado pela união dos ramos de:",
+      "options": {
+        "a": "C5 e C6",
+        "b": "C7 e C8",
+        "c": "C8 e T1",
+        "d": "C6 e C7",
+        "e": "T1 e T2"
+      },
+      "correct": "a",
+      "explanation": "O tronco superior do plexo braquial é formado pela união dos ramos de C5 e C6; o tronco médio é a continuação de C7; e o tronco inferior é formado pela união de C8 e T1.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, no plexo braquial, o tronco superior é formado pela união dos ramos de: O tronco superior do plexo braquial é formado pela união dos ramos de C5 e C6; o tronco médio é a continuação de C7; e o tronco inferior é formado pela união de C8 e T1."
+    },
+    {
+      "id": "neuro-obj-525",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o fascículo medial do plexo braquial é formado pela:",
+      "options": {
+        "a": "Divisão anterior do tronco inferior",
+        "b": "União das divisões posteriores dos três troncos",
+        "c": "União das divisões anteriores dos troncos superior e médio",
+        "d": "Divisão posterior do tronco superior exclusivamente",
+        "e": "Divisão anterior do tronco médio exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O fascículo medial é formado pela divisão anterior do tronco inferior; o fascículo lateral, pela união das divisões anteriores dos troncos superior e médio; e o fascículo posterior, pela união das divisões posteriores dos três troncos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o fascículo medial do plexo braquial é formado pela: O fascículo medial é formado pela divisão anterior do tronco inferior; o fascículo lateral, pela união das divisões anteriores dos troncos superior e médio; e o fascículo posterior, pela união das divisões posteriores dos três troncos."
+    },
+    {
+      "id": "neuro-obj-526",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, a partir dos fascículos medial e lateral do plexo braquial, origina-se o nervo:",
+      "options": {
+        "a": "Mediano",
+        "b": "Radial",
+        "c": "Axilar",
+        "d": "Torácico longo",
+        "e": "Dorsal da escápula"
+      },
+      "correct": "a",
+      "explanation": "A partir dos fascículos medial e lateral, origina-se o nervo mediano; do fascículo posterior, originam-se os nervos subescapular superior, toracodorsal, subescapular inferior, axilar e radial.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "9"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a partir dos fascículos medial e lateral do plexo braquial, origina-se o nervo: A partir dos fascículos medial e lateral, origina-se o nervo mediano; do fascículo posterior, originam-se os nervos subescapular superior, toracodorsal, subescapular inferior, axilar e radial."
+    },
+    {
+      "id": "neuro-obj-527",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o nervo radial, originado do fascículo posterior do plexo braquial, é responsável por inervar os músculos do compartimento:",
+      "options": {
+        "a": "Posterior do braço e antebraço",
+        "b": "Anterior do braço exclusivamente",
+        "c": "Anterior do antebraço exclusivamente",
+        "d": "Da cintura escapular exclusivamente",
+        "e": "Da mão exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O nervo radial inerva os músculos do compartimento posterior do braço e antebraço.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "10"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo radial, originado do fascículo posterior do plexo braquial, é responsável por inervar os músculos do compartimento: O nervo radial inerva os músculos do compartimento posterior do braço e antebraço."
+    },
+    {
+      "id": "neuro-obj-528",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, após lesão do nervo axilar, a principal dificuldade apresentada pelo paciente é na:",
+      "options": {
+        "a": "Abdução de ombro",
+        "b": "Flexão de cotovelo",
+        "c": "Extensão de punho",
+        "d": "Flexão do quadril",
+        "e": "Extensão de joelho"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela do material, a lesão do nervo axilar causa dificuldade na abdução de ombro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "10"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após lesão do nervo axilar, a principal dificuldade apresentada pelo paciente é na: Segundo a tabela do material, a lesão do nervo axilar causa dificuldade na abdução de ombro."
+    },
+    {
+      "id": "neuro-obj-529",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, após lesão do nervo radial, a principal dificuldade apresentada pelo paciente é na:",
+      "options": {
+        "a": "Extensão de cotovelo, punho e dedos",
+        "b": "Flexão de ombro e cotovelo",
+        "c": "Abdução de ombro",
+        "d": "Flexão do punho e dedos, desvio ulnar, pinça",
+        "e": "Flexão de joelho"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela do material, a lesão do nervo radial causa dificuldade na extensão de cotovelo, punho e dedos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "10"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após lesão do nervo radial, a principal dificuldade apresentada pelo paciente é na: Segundo a tabela do material, a lesão do nervo radial causa dificuldade na extensão de cotovelo, punho e dedos."
+    },
+    {
+      "id": "neuro-obj-530",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o padrão anatômico do plexo lombossacro é considerado mais simples que o do plexo braquial porque os nervos periféricos dele originados:",
+      "options": {
+        "a": "São derivados diretamente das divisões anteriores ou posteriores das raízes, não havendo formação de troncos, divisões e fascículos",
+        "b": "São formados exclusivamente por fascículos, sem qualquer raiz nervosa",
+        "c": "Se originam exclusivamente do encéfalo, sem participação medular",
+        "d": "Não apresentam qualquer componente sensitivo",
+        "e": "São formados por um número maior de troncos do que o plexo braquial"
+      },
+      "correct": "a",
+      "explanation": "O plexo lombossacro é mais simples que o plexo braquial, pois seus nervos periféricos são derivados diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, não havendo formação de troncos, divisões e fascículos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o padrão anatômico do plexo lombossacro é considerado mais simples que o do plexo braquial porque os nervos periféricos dele originados: O plexo lombossacro é mais simples que o plexo braquial, pois seus nervos periféricos são derivados diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, não havendo formação de troncos, divisões e fascículos."
+    },
+    {
+      "id": "neuro-obj-531",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o maior nervo do plexo lombar é o nervo femoral, que se distribui para os músculos flexores de quadril e:",
+      "options": {
+        "a": "Extensores do joelho",
+        "b": "Flexores do joelho exclusivamente",
+        "c": "Adutores do quadril exclusivamente",
+        "d": "Flexores plantares exclusivamente",
+        "e": "Extensores do cotovelo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O maior nervo do plexo lombar é o femoral, que se distribui para os músculos flexores de quadril e extensores do joelho, além da pele da face medial e anterior da coxa.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o maior nervo do plexo lombar é o nervo femoral, que se distribui para os músculos flexores de quadril e: O maior nervo do plexo lombar é o femoral, que se distribui para os músculos flexores de quadril e extensores do joelho, além da pele da face medial e anterior da coxa."
+    },
+    {
+      "id": "neuro-obj-532",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o nervo obturatório, também do plexo lombar, é responsável pela inervação dos músculos:",
+      "options": {
+        "a": "Adutores do quadril",
+        "b": "Flexores do quadril",
+        "c": "Extensores do joelho",
+        "d": "Dorsiflexores do tornozelo",
+        "e": "Flexores dos dedos do pé"
+      },
+      "correct": "a",
+      "explanation": "O nervo obturatório é responsável pela inervação dos músculos adutores do quadril e da pele sobre a face medial da coxa.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo obturatório, também do plexo lombar, é responsável pela inervação dos músculos: O nervo obturatório é responsável pela inervação dos músculos adutores do quadril e da pele sobre a face medial da coxa."
+    },
+    {
+      "id": "neuro-obj-533",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o principal e maior nervo do plexo sacral é o nervo ciático, que inerva a musculatura da região posterior da coxa, incluindo:",
+      "options": {
+        "a": "Os isquiotibiais e o piriforme",
+        "b": "Exclusivamente os músculos da panturrilha",
+        "c": "Exclusivamente os flexores do quadril",
+        "d": "Exclusivamente os músculos oculares",
+        "e": "Exclusivamente os músculos do antebraço"
+      },
+      "correct": "a",
+      "explanation": "O nervo ciático inerva a musculatura da região posterior da coxa, como os isquiotibiais e o piriforme, entre outros.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o principal e maior nervo do plexo sacral é o nervo ciático, que inerva a musculatura da região posterior da coxa, incluindo: O nervo ciático inerva a musculatura da região posterior da coxa, como os isquiotibiais e o piriforme, entre outros."
+    },
+    {
+      "id": "neuro-obj-534",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, na altura da fossa poplítea, o nervo ciático se divide em nervo fibular comum e nervo:",
+      "options": {
+        "a": "Tibial",
+        "b": "Femoral",
+        "c": "Obturatório",
+        "d": "Pudendo",
+        "e": "Glúteo superior"
+      },
+      "correct": "a",
+      "explanation": "No trajeto do nervo ciático, na altura da fossa poplítea, ele se divide em nervo fibular comum (musculatura anterior da perna e pé) e nervo tibial (musculatura posterior da perna e pé).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na altura da fossa poplítea, o nervo ciático se divide em nervo fibular comum e nervo: No trajeto do nervo ciático, na altura da fossa poplítea, ele se divide em nervo fibular comum (musculatura anterior da perna e pé) e nervo tibial (musculatura posterior da perna e pé)."
+    },
+    {
+      "id": "neuro-obj-535",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, após lesão do nervo tibial, a principal dificuldade motora do paciente envolve:",
+      "options": {
+        "a": "Plantiflexão e inversão de tornozelo",
+        "b": "Dorsiflexão e eversão de tornozelo",
+        "c": "Flexão de quadril e extensão de joelho",
+        "d": "Flexão de joelho exclusivamente",
+        "e": "Extensão de cotovelo"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela do material, a lesão do nervo tibial causa dificuldade em plantiflexão e inversão de tornozelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "13"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após lesão do nervo tibial, a principal dificuldade motora do paciente envolve: Segundo a tabela do material, a lesão do nervo tibial causa dificuldade em plantiflexão e inversão de tornozelo."
+    },
+    {
+      "id": "neuro-obj-536",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os mecanismos de lesão nervosa periférica podem ocorrer devido a mecanismos traumáticos (tração, contusão ou laceração), além de quadros:",
+      "options": {
+        "a": "Compressivos, de toxicidade e de isquemia nervosa",
+        "b": "Exclusivamente genéticos",
+        "c": "Exclusivamente relacionados ao envelhecimento natural",
+        "d": "Exclusivamente autoimunes",
+        "e": "Exclusivamente virais"
+      },
+      "correct": "a",
+      "explanation": "As lesões nervosas periféricas podem ocorrer devido a mecanismos traumáticos, além de quadros compressivos, de toxicidade e decorrentes de isquemia nervosa.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "13"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os mecanismos de lesão nervosa periférica podem ocorrer devido a mecanismos traumáticos (tração, contusão ou laceração), além de quadros: As lesões nervosas periféricas podem ocorrer devido a mecanismos traumáticos, além de quadros compressivos, de toxicidade e decorrentes de isquemia nervosa."
+    },
+    {
+      "id": "neuro-obj-537",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, a neuropraxia é o tipo de lesão nervosa periférica mais leve, na qual:",
+      "options": {
+        "a": "A estrutura do nervo permanece intacta e apenas a condução axonal é interrompida, com boa recuperação",
+        "b": "O nervo é totalmente seccionado, sem qualquer chance de recuperação",
+        "c": "Ocorre lesão do axônio e também do endoneuro, com prognóstico ruim",
+        "d": "Ocorre degeneração completa e irreversível de todo o nervo",
+        "e": "Não há qualquer interrupção da condução nervosa"
+      },
+      "correct": "a",
+      "explanation": "A neuropraxia é o tipo de lesão mais leve, pois a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida, ocorrendo perda temporária da função, com bom prognóstico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a neuropraxia é o tipo de lesão nervosa periférica mais leve, na qual: A neuropraxia é o tipo de lesão mais leve, pois a estrutura do nervo permanece intacta e apenas a condução axonal é interrompida, ocorrendo perda temporária da função, com bom prognóstico."
+    },
+    {
+      "id": "neuro-obj-538",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, na axonotmese, embora já ocorra lesão do axônio, o prognóstico ainda é considerado bom porque:",
+      "options": {
+        "a": "As bainhas conectivas permanecem intactas e o endoneuro está mantido, favorecendo a regeneração",
+        "b": "O nervo é totalmente seccionado, mas se regenera espontaneamente sem qualquer tratamento",
+        "c": "Não há qualquer lesão estrutural, apenas funcional",
+        "d": "O paciente não apresenta qualquer sintoma",
+        "e": "A lesão ocorre exclusivamente em nervos sensitivos, nunca em motores"
+      },
+      "correct": "a",
+      "explanation": "Na axonotmese, mesmo com lesão do axônio, as bainhas conectivas permanecem intactas e o endoneuro está mantido, o que representa um curso anatômico favorável para a regeneração.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na axonotmese, embora já ocorra lesão do axônio, o prognóstico ainda é considerado bom porque: Na axonotmese, mesmo com lesão do axônio, as bainhas conectivas permanecem intactas e o endoneuro está mantido, o que representa um curso anatômico favorável para a regeneração."
+    },
+    {
+      "id": "neuro-obj-539",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, a neurotmese é o tipo de lesão nervosa periférica mais grave, pois:",
+      "options": {
+        "a": "O nervo é totalmente seccionado, ocorrendo lesão do axônio e do endoneuro, dificultando a regeneração",
+        "b": "Apenas a condução axonal é interrompida temporariamente, com bom prognóstico",
+        "c": "As bainhas conectivas permanecem sempre intactas",
+        "d": "Ocorre exclusivamente em nervos encefálicos, nunca em nervos espinhais",
+        "e": "É sempre reversível espontaneamente em poucos dias"
+      },
+      "correct": "a",
+      "explanation": "A neurotmese ocorre quando o nervo é totalmente seccionado, com lesão do axônio e do endoneuro; a distância entre os cotos nervosos é variável, o que dificulta a regeneração e resulta em prognóstico ruim.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a neurotmese é o tipo de lesão nervosa periférica mais grave, pois: A neurotmese ocorre quando o nervo é totalmente seccionado, com lesão do axônio e do endoneuro; a distância entre os cotos nervosos é variável, o que dificulta a regeneração e resulta em prognóstico ruim."
+    },
+    {
+      "id": "neuro-obj-540",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, os nervos apresentam três bainhas conjuntivas — epineuro, perineuro e endoneuro — que conferem ao nervo:",
+      "options": {
+        "a": "Grande resistência",
+        "b": "Grande elasticidade exclusivamente sem resistência",
+        "c": "Impermeabilidade absoluta a íons",
+        "d": "Capacidade exclusiva de gerar mielina",
+        "e": "Coloração vermelha característica"
+      },
+      "correct": "a",
+      "explanation": "Os nervos apresentam três bainhas conjuntivas (epineuro, perineuro e endoneuro) que conferem grande resistência ao nervo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos apresentam três bainhas conjuntivas — epineuro, perineuro e endoneuro — que conferem ao nervo: Os nervos apresentam três bainhas conjuntivas (epineuro, perineuro e endoneuro) que conferem grande resistência ao nervo."
+    },
+    {
+      "id": "neuro-obj-541",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Segundo o material, o que determina que um nervo periférico seja chamado de espinhal é:",
+      "options": {
+        "a": "A sua união com a medula espinhal",
+        "b": "A sua união exclusiva com o tronco encefálico",
+        "c": "O fato de ser exclusivamente sensitivo",
+        "d": "O fato de ser exclusivamente motor",
+        "e": "A sua localização exclusiva nos membros inferiores"
+      },
+      "correct": "a",
+      "explanation": "O que determina que o nervo seja chamado de espinhal é a sua união com a medula espinhal (diferentemente dos nervos encefálicos, que se unem ao encéfalo).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o que determina que um nervo periférico seja chamado de espinhal é: O que determina que o nervo seja chamado de espinhal é a sua união com a medula espinhal (diferentemente dos nervos encefálicos, que se unem ao encéfalo)."
+    },
+    {
+      "id": "neuro-obj-542",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, os nervos encefálicos surgem do encéfalo como 12 pares, sendo numerados de I a XII, aproximadamente na ordem:",
+      "options": {
+        "a": "De cima (rostral) para baixo (caudal)",
+        "b": "De baixo (caudal) para cima (rostral)",
+        "c": "Da direita para a esquerda",
+        "d": "Da esquerda para a direita",
+        "e": "Sem qualquer ordem anatômica definida"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos são numerados de I a XII, aproximadamente na ordem de cima (rostral) para baixo (caudal).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos encefálicos surgem do encéfalo como 12 pares, sendo numerados de I a XII, aproximadamente na ordem: Os nervos encefálicos são numerados de I a XII, aproximadamente na ordem de cima (rostral) para baixo (caudal)."
+    },
+    {
+      "id": "neuro-obj-543",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, ao contrário dos nervos espinhais, cujas raízes são fibras neurais da substância cinzenta espinhal, os nervos encefálicos são compostos de processos neurais associados a:",
+      "options": {
+        "a": "Núcleos distintos no tronco encefálico e estruturas corticais",
+        "b": "Exclusivamente gânglios periféricos",
+        "c": "Exclusivamente ao cerebelo",
+        "d": "Exclusivamente à medula espinhal",
+        "e": "Exclusivamente ao sistema límbico"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos são compostos de processos neurais associados a núcleos distintos no tronco encefálico e estruturas corticais, diferentemente das raízes dos nervos espinhais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao contrário dos nervos espinhais, cujas raízes são fibras neurais da substância cinzenta espinhal, os nervos encefálicos são compostos de processos neurais associados a: Os nervos encefálicos são compostos de processos neurais associados a núcleos distintos no tronco encefálico e estruturas corticais, diferentemente das raízes dos nervos espinhais."
+    },
+    {
+      "id": "neuro-obj-544",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, quais nervos encefálicos são considerados apenas aferentes (sensoriais)?",
+      "options": {
+        "a": "I olfatório, II óptico e VIII vestibulococlear",
+        "b": "III oculomotor, IV troclear e VI abducente",
+        "c": "V trigêmeo, VII facial e IX glossofaríngeo",
+        "d": "XI acessório e XII hipoglosso",
+        "e": "X vago e IX glossofaríngeo"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos I olfatório, II óptico e VIII vestibulococlear são considerados apenas aferentes (sensoriais).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quais nervos encefálicos são considerados apenas aferentes (sensoriais)? Os nervos encefálicos I olfatório, II óptico e VIII vestibulococlear são considerados apenas aferentes (sensoriais)."
+    },
+    {
+      "id": "neuro-obj-545",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, quais nervos encefálicos são considerados apenas eferentes (motores)?",
+      "options": {
+        "a": "III oculomotor, IV troclear, VI abducente, XI acessório e XII hipoglosso",
+        "b": "I olfatório, II óptico e VIII vestibulococlear",
+        "c": "V trigêmeo, VII facial e X vago",
+        "d": "IX glossofaríngeo e X vago",
+        "e": "II óptico e III oculomotor"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos III oculomotor, IV troclear, VI abducente, XI acessório e XII hipoglosso são apenas eferentes (motores).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quais nervos encefálicos são considerados apenas eferentes (motores)? Os nervos encefálicos III oculomotor, IV troclear, VI abducente, XI acessório e XII hipoglosso são apenas eferentes (motores)."
+    },
+    {
+      "id": "neuro-obj-546",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, quais nervos encefálicos são funcionalmente mistos (sensoriais e motores)?",
+      "options": {
+        "a": "V trigêmeo, VII facial, IX glossofaríngeo e X vago",
+        "b": "I olfatório, II óptico e VIII vestibulococlear",
+        "c": "III oculomotor, IV troclear e VI abducente",
+        "d": "XI acessório e XII hipoglosso",
+        "e": "Apenas o X vago"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos V trigêmeo, VII facial, IX glossofaríngeo e X vago são funcionalmente mistos (sensoriais e motores).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quais nervos encefálicos são funcionalmente mistos (sensoriais e motores)? Os nervos encefálicos V trigêmeo, VII facial, IX glossofaríngeo e X vago são funcionalmente mistos (sensoriais e motores)."
+    },
+    {
+      "id": "neuro-obj-547",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a maioria dos nervos encefálicos surge do tronco encefálico, com exceção do I olfatório e do II óptico, localizados, respectivamente:",
+      "options": {
+        "a": "No telencéfalo e no diencéfalo",
+        "b": "No cerebelo e na medula espinhal",
+        "c": "No diencéfalo e no telencéfalo",
+        "d": "No mesencéfalo e na ponte",
+        "e": "No bulbo e na medula"
+      },
+      "correct": "a",
+      "explanation": "A maioria dos nervos encefálicos surge do tronco encefálico, com exceção do I olfatório (localizado no telencéfalo) e do II óptico (localizado no diencéfalo).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "19"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a maioria dos nervos encefálicos surge do tronco encefálico, com exceção do I olfatório e do II óptico, localizados, respectivamente: A maioria dos nervos encefálicos surge do tronco encefálico, com exceção do I olfatório (localizado no telencéfalo) e do II óptico (localizado no diencéfalo)."
+    },
+    {
+      "id": "neuro-obj-548",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo olfatório (I par) transmite impulsos olfativos do epitélio olfatório do nariz para o cérebro, sendo um nervo:",
+      "options": {
+        "a": "Apenas sensitivo",
+        "b": "Apenas motor",
+        "c": "Misto (sensitivo e motor)",
+        "d": "Exclusivamente autonômico",
+        "e": "Exclusivamente visceral eferente"
+      },
+      "correct": "a",
+      "explanation": "O nervo olfatório transmite impulsos olfativos do epitélio olfatório do nariz para o cérebro, sendo um nervo apenas sensitivo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o nervo olfatório (I par) transmite impulsos olfativos do epitélio olfatório do nariz para o cérebro, sendo um nervo: O nervo olfatório transmite impulsos olfativos do epitélio olfatório do nariz para o cérebro, sendo um nervo apenas sensitivo."
+    },
+    {
+      "id": "neuro-obj-549",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, as fibras do nervo olfatório atravessam qual estrutura óssea antes de terminarem no bulbo olfatório?",
+      "options": {
+        "a": "A lâmina crivosa do osso etmoide",
+        "b": "O canal óptico",
+        "c": "O forame jugular",
+        "d": "O canal do hipoglosso",
+        "e": "A fissura orbital superior"
+      },
+      "correct": "a",
+      "explanation": "As fibras do nervo olfatório atravessam a lâmina crivosa do osso etmoide e terminam no bulbo olfatório.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as fibras do nervo olfatório atravessam qual estrutura óssea antes de terminarem no bulbo olfatório? As fibras do nervo olfatório atravessam a lâmina crivosa do osso etmoide e terminam no bulbo olfatório."
+    },
+    {
+      "id": "neuro-obj-550",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, lesões na cabeça que fraturam a placa cribriforme podem romper os nervos olfatórios, resultando em:",
+      "options": {
+        "a": "Anosmia (perda do olfato) pós-traumática",
+        "b": "Amaurose (cegueira) em um dos olhos",
+        "c": "Nistagmo",
+        "d": "Ptose palpebral",
+        "e": "Paralisia facial periférica"
+      },
+      "correct": "a",
+      "explanation": "Lesões que fraturam a placa cribriforme podem romper os nervos olfatórios, resultando em anosmia (perda do olfato) pós-traumática.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, lesões na cabeça que fraturam a placa cribriforme podem romper os nervos olfatórios, resultando em: Lesões que fraturam a placa cribriforme podem romper os nervos olfatórios, resultando em anosmia (perda do olfato) pós-traumática."
+    },
+    {
+      "id": "neuro-obj-551",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo óptico (II par) transmite impulsos visuais da retina para o cérebro, sendo um nervo exclusivamente sensitivo, cujas fibras se unem com as do lado oposto formando o:",
+      "options": {
+        "a": "Quiasma óptico",
+        "b": "Gânglio ciliar",
+        "c": "Gânglio ótico",
+        "d": "Núcleo Edinger-Westphal",
+        "e": "Corpo geniculado medial"
+      },
+      "correct": "a",
+      "explanation": "Cada nervo óptico une-se com o do lado oposto, formando o quiasma óptico, onde há cruzamento parcial de suas fibras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo óptico (II par) transmite impulsos visuais da retina para o cérebro, sendo um nervo exclusivamente sensitivo, cujas fibras se unem com as do lado oposto formando o: Cada nervo óptico une-se com o do lado oposto, formando o quiasma óptico, onde há cruzamento parcial de suas fibras."
+    },
+    {
+      "id": "neuro-obj-552",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a destruição de fibras cruzadas no quiasma óptico (por exemplo, por um tumor hipofisário) pode causar:",
+      "options": {
+        "a": "Amaurose de ambos os olhos",
+        "b": "Anosmia bilateral",
+        "c": "Paralisia facial periférica",
+        "d": "Nistagmo exclusivamente",
+        "e": "Ptose exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A destruição de fibras cruzadas no quiasma óptico, como no caso de um tumor hipofisário, pode causar amaurose (cegueira) de ambos os olhos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a destruição de fibras cruzadas no quiasma óptico (por exemplo, por um tumor hipofisário) pode causar: A destruição de fibras cruzadas no quiasma óptico, como no caso de um tumor hipofisário, pode causar amaurose (cegueira) de ambos os olhos."
+    },
+    {
+      "id": "neuro-obj-553",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, os nervos III oculomotor, IV troclear e VI abducente são nervos motores que inervam os músculos:",
+      "options": {
+        "a": "Extrínsecos dos olhos",
+        "b": "Mastigatórios",
+        "c": "Da mímica facial",
+        "d": "Da língua",
+        "e": "Da laringe"
+      },
+      "correct": "a",
+      "explanation": "Os nervos III, IV e VI inervam os músculos extrínsecos dos olhos e são nervos motores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos III oculomotor, IV troclear e VI abducente são nervos motores que inervam os músculos: Os nervos III, IV e VI inervam os músculos extrínsecos dos olhos e são nervos motores."
+    },
+    {
+      "id": "neuro-obj-554",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo oculomotor (III par) inerva a musculatura intrínseca do bulbo ocular, incluindo o músculo ciliar (que regula a convergência do cristalino) e o músculo:",
+      "options": {
+        "a": "Esfíncter da pupila",
+        "b": "Reto lateral exclusivamente",
+        "c": "Oblíquo superior exclusivamente",
+        "d": "Orbicular dos olhos exclusivamente",
+        "e": "Temporal exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O nervo oculomotor possui fibras responsáveis pela inervação pré-ganglionar da musculatura intrínseca do bulbo ocular: o músculo ciliar e o músculo esfíncter da pupila.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "21"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo oculomotor (III par) inerva a musculatura intrínseca do bulbo ocular, incluindo o músculo ciliar (que regula a convergência do cristalino) e o músculo: O nervo oculomotor possui fibras responsáveis pela inervação pré-ganglionar da musculatura intrínseca do bulbo ocular: o músculo ciliar e o músculo esfíncter da pupila."
+    },
+    {
+      "id": "neuro-obj-555",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo troclear (IV par) inerva o músculo:",
+      "options": {
+        "a": "Oblíquo superior",
+        "b": "Reto lateral",
+        "c": "Reto medial",
+        "d": "Elevador da pálpebra superior",
+        "e": "Esfíncter da pupila"
+      },
+      "correct": "a",
+      "explanation": "O nervo IV troclear inerva o músculo oblíquo superior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "21"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo troclear (IV par) inerva o músculo: O nervo IV troclear inerva o músculo oblíquo superior."
+    },
+    {
+      "id": "neuro-obj-556",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo abducente (VI par) inerva o músculo:",
+      "options": {
+        "a": "Reto lateral",
+        "b": "Oblíquo superior",
+        "c": "Reto medial",
+        "d": "Reto inferior",
+        "e": "Oblíquo inferior"
+      },
+      "correct": "a",
+      "explanation": "O nervo VI abducente inerva o músculo reto lateral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "21"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo abducente (VI par) inerva o músculo: O nervo VI abducente inerva o músculo reto lateral."
+    },
+    {
+      "id": "neuro-obj-557",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a lesão do nervo oculomotor leva à ptose, ao estrabismo lateral, à dilatação pupilar (por atividade simpática sem oposição), à perda de acomodação e:",
+      "options": {
+        "a": "Reflexos à luz alterados",
+        "b": "Perda total da audição",
+        "c": "Paralisia facial periférica",
+        "d": "Anosmia",
+        "e": "Nistagmo horizontal"
+      },
+      "correct": "a",
+      "explanation": "A lesão do nervo oculomotor leva à ptose, ao estrabismo lateral, à dilatação pupilar, à perda de acomodação e a reflexos alterados à luz.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "22"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a lesão do nervo oculomotor leva à ptose, ao estrabismo lateral, à dilatação pupilar (por atividade simpática sem oposição), à perda de acomodação e: A lesão do nervo oculomotor leva à ptose, ao estrabismo lateral, à dilatação pupilar, à perda de acomodação e a reflexos alterados à luz."
+    },
+    {
+      "id": "neuro-obj-558",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo trigêmeo (V par) é constituído por três ramos: nervo oftálmico, nervo maxilar e nervo:",
+      "options": {
+        "a": "Mandibular",
+        "b": "Facial",
+        "c": "Auricular",
+        "d": "Vestibular",
+        "e": "Glossofaríngeo"
+      },
+      "correct": "a",
+      "explanation": "O nervo trigêmeo é constituído por três ramos: nervo oftálmico, nervo maxilar e nervo mandibular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "22"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo trigêmeo (V par) é constituído por três ramos: nervo oftálmico, nervo maxilar e nervo: O nervo trigêmeo é constituído por três ramos: nervo oftálmico, nervo maxilar e nervo mandibular."
+    },
+    {
+      "id": "neuro-obj-559",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo trigêmeo é considerado um nervo misto, sendo seu componente sensitivo consideravelmente maior, conduzindo impulsos exteroceptivos (temperatura, dor, pressão, tato) e:",
+      "options": {
+        "a": "Proprioceptivos",
+        "b": "Exclusivamente gustativos",
+        "c": "Exclusivamente olfativos",
+        "d": "Exclusivamente auditivos",
+        "e": "Exclusivamente vestibulares"
+      },
+      "correct": "a",
+      "explanation": "O componente sensitivo do trigêmeo conduz impulsos exteroceptivos e proprioceptivos, sendo os últimos originados em receptores dos músculos da mastigação e da articulação temporomandibular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "23"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo trigêmeo é considerado um nervo misto, sendo seu componente sensitivo consideravelmente maior, conduzindo impulsos exteroceptivos (temperatura, dor, pressão, tato) e: O componente sensitivo do trigêmeo conduz impulsos exteroceptivos e proprioceptivos, sendo os últimos originados em receptores dos músculos da mastigação e da articulação temporomandibular."
+    },
+    {
+      "id": "neuro-obj-560",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo mandibular, ramo do trigêmeo responsável pela função motora, inerva os músculos mastigadores, incluindo o temporal, o masseter e os músculos:",
+      "options": {
+        "a": "Pterigoide lateral e medial",
+        "b": "Orbicular do olho e da boca",
+        "c": "Frontal e occipital",
+        "d": "Trapézio e esternocleidomastóideo",
+        "e": "Estilo-hióideo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O nervo mandibular inerva os músculos mastigadores: temporal, masseter, pterigoide lateral, pterigoide medial, milo-hióideo e o ventre anterior do digástrico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "23"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo mandibular, ramo do trigêmeo responsável pela função motora, inerva os músculos mastigadores, incluindo o temporal, o masseter e os músculos: O nervo mandibular inerva os músculos mastigadores: temporal, masseter, pterigoide lateral, pterigoide medial, milo-hióideo e o ventre anterior do digástrico."
+    },
+    {
+      "id": "neuro-obj-561",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a nevralgia do nervo trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por:",
+      "options": {
+        "a": "Crises dolorosas muito intensas no território de um dos ramos do nervo",
+        "b": "Perda completa e indolor da sensibilidade facial",
+        "c": "Paralisia motora sem qualquer dor associada",
+        "d": "Perda exclusiva do paladar",
+        "e": "Perda exclusiva do olfato"
+      },
+      "correct": "a",
+      "explanation": "A nevralgia do nervo trigêmeo é caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo, sendo o tratamento, em muitos casos, cirúrgico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "23"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a nevralgia do nervo trigêmeo é a disfunção mais comum do V par encefálico, caracterizada por: A nevralgia do nervo trigêmeo é caracterizada por crises dolorosas muito intensas no território de um dos ramos do nervo, sendo o tratamento, em muitos casos, cirúrgico."
+    },
+    {
+      "id": "neuro-obj-562",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo facial (VII par) emerge do sulco bulbo-pontino por meio de uma raiz motora (nervo facial) e uma raiz sensitiva e visceral chamada de:",
+      "options": {
+        "a": "Nervo intermédio",
+        "b": "Nervo auriculotemporal",
+        "c": "Nervo petroso",
+        "d": "Nervo laríngeo",
+        "e": "Nervo lingual"
+      },
+      "correct": "a",
+      "explanation": "O nervo facial emerge do sulco bulbo-pontino através de uma raiz motora (o nervo facial) e uma raiz sensitiva e visceral, chamada de nervo intermédio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo facial (VII par) emerge do sulco bulbo-pontino por meio de uma raiz motora (nervo facial) e uma raiz sensitiva e visceral chamada de: O nervo facial emerge do sulco bulbo-pontino através de uma raiz motora (o nervo facial) e uma raiz sensitiva e visceral, chamada de nervo intermédio."
+    },
+    {
+      "id": "neuro-obj-563",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, as fibras aferentes viscerais especiais do nervo facial recebem impulsos gustativos originados:",
+      "options": {
+        "a": "Nos 2/3 anteriores da língua",
+        "b": "No 1/3 posterior da língua",
+        "c": "Exclusivamente no palato mole",
+        "d": "Exclusivamente na epiglote",
+        "e": "Exclusivamente nas gengivas"
+      },
+      "correct": "a",
+      "explanation": "As fibras aferentes viscerais especiais do nervo intermédio (facial) recebem impulsos gustativos originados nos 2/3 anteriores da língua.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as fibras aferentes viscerais especiais do nervo facial recebem impulsos gustativos originados: As fibras aferentes viscerais especiais do nervo intermédio (facial) recebem impulsos gustativos originados nos 2/3 anteriores da língua."
+    },
+    {
+      "id": "neuro-obj-564",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a paralisia facial periférica, causada pela lesão do neurônio motor inferior do nervo facial, caracteriza-se por ser homolateral e acometer:",
+      "options": {
+        "a": "Toda a hemiface do lado da lesão",
+        "b": "Apenas a metade inferior da face do lado oposto à lesão",
+        "c": "Apenas a metade superior da face do mesmo lado da lesão",
+        "d": "Ambos os lados da face igualmente",
+        "e": "Nenhuma musculatura facial, apenas alteração sensitiva"
+      },
+      "correct": "a",
+      "explanation": "A paralisia facial periférica é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface, ou seja, a metade dos músculos da face.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a paralisia facial periférica, causada pela lesão do neurônio motor inferior do nervo facial, caracteriza-se por ser homolateral e acometer: A paralisia facial periférica é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface, ou seja, a metade dos músculos da face."
+    },
+    {
+      "id": "neuro-obj-565",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, a paralisia facial central, diferentemente da periférica, é contralateral e manifesta-se apenas nos músculos da metade:",
+      "options": {
+        "a": "Inferior da face, poupando os músculos da metade superior, como o orbicular do olho",
+        "b": "Superior da face, poupando os músculos da metade inferior",
+        "c": "Inferior e superior da face igualmente",
+        "d": "Da língua exclusivamente",
+        "e": "Dos olhos exclusivamente, sem afetar a boca"
+      },
+      "correct": "a",
+      "explanation": "A paralisia central é contralateral e manifesta-se apenas nos músculos da metade inferior da face, poupando os da metade superior, pois as fibras córtico-nucleares para a metade superior são homo e heterolaterais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a paralisia facial central, diferentemente da periférica, é contralateral e manifesta-se apenas nos músculos da metade: A paralisia central é contralateral e manifesta-se apenas nos músculos da metade inferior da face, poupando os da metade superior, pois as fibras córtico-nucleares para a metade superior são homo e heterolaterais."
+    },
+    {
+      "id": "neuro-obj-566",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo vestíbulo-coclear (VIII par) é um nervo exclusivamente sensitivo, composto pela parte vestibular (relacionada ao equilíbrio) e pela parte coclear, relacionada:",
+      "options": {
+        "a": "À audição",
+        "b": "Ao paladar",
+        "c": "Ao olfato",
+        "d": "À visão",
+        "e": "À propriocepção facial"
+      },
+      "correct": "a",
+      "explanation": "O nervo vestíbulo-coclear é composto pela parte vestibular, que conduz impulsos relacionados ao equilíbrio, e pela parte coclear, que conduz impulsos relacionados à audição.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo vestíbulo-coclear (VIII par) é um nervo exclusivamente sensitivo, composto pela parte vestibular (relacionada ao equilíbrio) e pela parte coclear, relacionada: O nervo vestíbulo-coclear é composto pela parte vestibular, que conduz impulsos relacionados ao equilíbrio, e pela parte coclear, que conduz impulsos relacionados à audição."
+    },
+    {
+      "id": "neuro-obj-567",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, além da perda de audição, um sintoma frequente causado pela lesão da parte vestibular do nervo vestíbulo-coclear é um movimento oscilatório dos olhos chamado de:",
+      "options": {
+        "a": "Nistagmo",
+        "b": "Ptose",
+        "c": "Estrabismo",
+        "d": "Midríase",
+        "e": "Miose"
+      },
+      "correct": "a",
+      "explanation": "Os sintomas causados pela lesão da parte vestibular incluem vertigem, alterações do equilíbrio e um movimento oscilatório dos olhos chamado de nistagmo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "25"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além da perda de audição, um sintoma frequente causado pela lesão da parte vestibular do nervo vestíbulo-coclear é um movimento oscilatório dos olhos chamado de: Os sintomas causados pela lesão da parte vestibular incluem vertigem, alterações do equilíbrio e um movimento oscilatório dos olhos chamado de nistagmo."
+    },
+    {
+      "id": "neuro-obj-568",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo glossofaríngeo (IX par) é classificado como misto, sendo suas fibras aferentes responsáveis pela sensibilidade do terço posterior da língua, da faringe, da úvula, da tonsila, da tuba auditiva, além:",
+      "options": {
+        "a": "Do seio carotídeo",
+        "b": "Do bulbo olfatório",
+        "c": "Do cristalino",
+        "d": "Do labirinto vestibular",
+        "e": "Da retina"
+      },
+      "correct": "a",
+      "explanation": "As fibras aferentes do glossofaríngeo são responsáveis pela sensibilidade do terço posterior da língua, da faringe, da úvula, da tonsila, da tuba auditiva, além do seio carotídeo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "25"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo glossofaríngeo (IX par) é classificado como misto, sendo suas fibras aferentes responsáveis pela sensibilidade do terço posterior da língua, da faringe, da úvula, da tonsila, da tuba auditiva, além: As fibras aferentes do glossofaríngeo são responsáveis pela sensibilidade do terço posterior da língua, da faringe, da úvula, da tonsila, da tuba auditiva, além do seio carotídeo."
+    },
+    {
+      "id": "neuro-obj-569",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo vago (X par) é o maior dos nervos encefálicos, tendo função mista e exclusivamente visceral, sendo responsável pela inervação da laringe, da faringe e fazendo parte dos plexos viscerais que compõem a inervação autônoma das vísceras:",
+      "options": {
+        "a": "Torácicas e abdominais",
+        "b": "Exclusivamente cranianas",
+        "c": "Exclusivamente pélvicas",
+        "d": "Exclusivamente das extremidades",
+        "e": "Exclusivamente oculares"
+      },
+      "correct": "a",
+      "explanation": "O nervo vago é responsável pela inervação da laringe e da faringe, fazendo parte da formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "26"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo vago (X par) é o maior dos nervos encefálicos, tendo função mista e exclusivamente visceral, sendo responsável pela inervação da laringe, da faringe e fazendo parte dos plexos viscerais que compõem a inervação autônoma das vísceras: O nervo vago é responsável pela inervação da laringe e da faringe, fazendo parte da formação dos plexos viscerais que compõem a inervação autônoma das vísceras torácicas e abdominais."
+    },
+    {
+      "id": "neuro-obj-570",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo acessório (XI par) apresenta duas raízes (encefálica e espinhal); seu ramo externo possui fibras da raiz espinhal e inerva os músculos:",
+      "options": {
+        "a": "Trapézio e esternocleidomastóideo",
+        "b": "Temporal e masseter",
+        "c": "Mímicos da face",
+        "d": "Da língua",
+        "e": "Da laringe"
+      },
+      "correct": "a",
+      "explanation": "O ramo externo do nervo acessório possui as fibras da raiz espinhal e inerva os músculos trapézio e esternocleidomastóideo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "27"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo acessório (XI par) apresenta duas raízes (encefálica e espinhal); seu ramo externo possui fibras da raiz espinhal e inerva os músculos: O ramo externo do nervo acessório possui as fibras da raiz espinhal e inerva os músculos trapézio e esternocleidomastóideo."
+    },
+    {
+      "id": "neuro-obj-571",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, o nervo hipoglosso (XII par) é puramente motor e se distribui para os músculos:",
+      "options": {
+        "a": "Da língua (intrínsecos e extrínsecos)",
+        "b": "Da mastigação",
+        "c": "Da mímica facial",
+        "d": "Extrínsecos do olho",
+        "e": "Da laringe"
+      },
+      "correct": "a",
+      "explanation": "O nervo hipoglosso é puramente motor e se distribui para os músculos da língua, tanto intrínsecos quanto extrínsecos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "28"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo hipoglosso (XII par) é puramente motor e se distribui para os músculos: O nervo hipoglosso é puramente motor e se distribui para os músculos da língua, tanto intrínsecos quanto extrínsecos."
+    },
+    {
+      "id": "neuro-obj-572",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, na lesão do nervo hipoglosso, quando o paciente realiza a protrusão da língua, ela se desvia:",
+      "options": {
+        "a": "Para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelo lado paralisado",
+        "b": "Para o lado oposto à lesão, por contração exclusiva do lado lesionado",
+        "c": "Para trás, independentemente do lado da lesão",
+        "d": "Para cima, formando um arco",
+        "e": "Não se desvia em nenhuma direção"
+      },
+      "correct": "a",
+      "explanation": "Na lesão do nervo hipoglosso, ao fazer a protrusão da língua, ela se desvia para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelos músculos da metade paralisada.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "29"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na lesão do nervo hipoglosso, quando o paciente realiza a protrusão da língua, ela se desvia: Na lesão do nervo hipoglosso, ao fazer a protrusão da língua, ela se desvia para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelos músculos da metade paralisada."
+    },
+    {
+      "id": "neuro-obj-573",
+      "topic": "Nervos cranianos",
+      "question": "Segundo o material, os nervos encefálicos são responsáveis pela inervação das estruturas da cabeça e do pescoço, mas NÃO apresentam relação com a transmissão de informações somatossensoriais:",
+      "options": {
+        "a": "Do tronco e dos membros",
+        "b": "Da face",
+        "c": "Da articulação temporomandibular",
+        "d": "Da língua",
+        "e": "Dos olhos"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos estão relacionados à inervação motora e sensitiva das estruturas da cabeça e pescoço, não apresentando relação com a transmissão de informações somatossensoriais do tronco e dos membros (função dos nervos espinhais).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "30"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos encefálicos são responsáveis pela inervação das estruturas da cabeça e do pescoço, mas NÃO apresentam relação com a transmissão de informações somatossensoriais: Os nervos encefálicos estão relacionados à inervação motora e sensitiva das estruturas da cabeça e pescoço, não apresentando relação com a transmissão de informações somatossensoriais do tronco e dos membros (função dos nervos espinhais)."
     }
   ],
   "discursive": [
@@ -17420,6 +18894,727 @@
       },
       "subject": "Sistema nervoso autônomo",
       "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-156",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Explique por que o nervo espinhal é considerado um nervo misto, descrevendo a função de cada uma de suas raízes.",
+      "modelAnswer": "O nervo espinhal é formado pela união da raiz dorsal, responsável pelo recebimento da informação sensitiva vinda da periferia, e da raiz ventral, responsável pela saída da informação motora. Como reúne esses dois componentes (sensitivo e motor), o nervo espinhal é classificado como um nervo misto.",
+      "keyPoints": [
+        {
+          "text": "Raiz dorsal: sensitiva (recebe informação da periferia)",
+          "weight": 0.4,
+          "keywords": [
+            "raiz dorsal",
+            "sensitiva"
+          ]
+        },
+        {
+          "text": "Raiz ventral: motora (saída da informação)",
+          "weight": 0.4,
+          "keywords": [
+            "raiz ventral",
+            "motora"
+          ]
+        },
+        {
+          "text": "União das duas raízes torna o nervo misto",
+          "weight": 0.2,
+          "keywords": [
+            "misto"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-157",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Diferencie dermátomo e miótomo, explicando a importância clínica desses conceitos.",
+      "modelAnswer": "Dermátomo é o território cutâneo inervado por fibras de uma única raiz dorsal (sensitiva). Miótomo é o território muscular inervado por uma única raiz ventral (motora). Esses conceitos são clinicamente importantes porque, diante de alterações sensitivas ou motoras, permitem localizar o nível da lesão nervosa (nervo periférico, medula ou raízes espinhais).",
+      "keyPoints": [
+        {
+          "text": "Dermátomo: território cutâneo de uma raiz dorsal",
+          "weight": 0.4,
+          "keywords": [
+            "dermátomo",
+            "raiz dorsal"
+          ]
+        },
+        {
+          "text": "Miótomo: território muscular de uma raiz ventral",
+          "weight": 0.4,
+          "keywords": [
+            "miótomo",
+            "raiz ventral"
+          ]
+        },
+        {
+          "text": "Utilidade clínica: localizar o nível da lesão",
+          "weight": 0.2,
+          "keywords": [
+            "localizar",
+            "lesão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-158",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Descreva a formação do plexo braquial, incluindo os troncos e fascículos que o compõem.",
+      "modelAnswer": "O plexo braquial é formado pelas quatro últimas raízes cervicais (C5-C8) e pela primeira raiz torácica (T1). O tronco superior é formado pela união de C5 e C6, o tronco médio é a continuação de C7, e o tronco inferior é formado pela união de C8 e T1. O fascículo posterior é formado pela união das divisões posteriores dos três troncos; o fascículo lateral, pela união das divisões anteriores dos troncos superior e médio; e o fascículo medial, pela divisão anterior do tronco inferior.",
+      "keyPoints": [
+        {
+          "text": "Raízes: C5 a T1",
+          "weight": 0.25,
+          "keywords": [
+            "C5",
+            "T1"
+          ]
+        },
+        {
+          "text": "Troncos: superior (C5-C6), médio (C7), inferior (C8-T1)",
+          "weight": 0.35,
+          "keywords": [
+            "tronco superior",
+            "tronco inferior"
+          ]
+        },
+        {
+          "text": "Fascículos: posterior, lateral e medial",
+          "weight": 0.4,
+          "keywords": [
+            "fascículo posterior",
+            "fascículo lateral",
+            "fascículo medial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-159",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Compare a complexidade anatômica do plexo lombossacro com a do plexo braquial.",
+      "modelAnswer": "O plexo lombossacro é anatomicamente mais simples que o plexo braquial, pois seus nervos periféricos são derivados diretamente das divisões anteriores ou posteriores das raízes dos nervos espinhais de T12 a S4, sem a formação de troncos, divisões e fascículos, como ocorre no plexo braquial.",
+      "keyPoints": [
+        {
+          "text": "Lombossacro é mais simples",
+          "weight": 0.4,
+          "keywords": [
+            "mais simples"
+          ]
+        },
+        {
+          "text": "Nervos derivados diretamente das raízes (T12-S4)",
+          "weight": 0.3,
+          "keywords": [
+            "diretamente das raízes"
+          ]
+        },
+        {
+          "text": "Sem formação de troncos, divisões e fascículos",
+          "weight": 0.3,
+          "keywords": [
+            "sem formação",
+            "troncos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-160",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Descreva o trajeto e a divisão do nervo ciático, indicando as regiões que cada um de seus ramos terminais inerva.",
+      "modelAnswer": "O nervo ciático, principal nervo do plexo sacral, inerva a musculatura posterior da coxa (isquiotibiais, piriforme). Na altura da fossa poplítea, ele se divide em nervo fibular comum, responsável pela musculatura da região anterior da perna e do pé, e em nervo tibial, que inerva a musculatura da região posterior da perna e do pé.",
+      "keyPoints": [
+        {
+          "text": "Ciático inerva a região posterior da coxa",
+          "weight": 0.3,
+          "keywords": [
+            "ciático",
+            "posterior da coxa"
+          ]
+        },
+        {
+          "text": "Divide-se na fossa poplítea",
+          "weight": 0.2,
+          "keywords": [
+            "fossa poplítea"
+          ]
+        },
+        {
+          "text": "Fibular comum: região anterior; tibial: região posterior da perna/pé",
+          "weight": 0.5,
+          "keywords": [
+            "fibular comum",
+            "tibial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-161",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Explique as três bainhas conjuntivas que envolvem os nervos periféricos e a função geral que elas desempenham.",
+      "modelAnswer": "Os nervos apresentam três bainhas conjuntivas: epineuro (camada externa que envolve todo o nervo), perineuro (envolve os fascículos de axônios) e endoneuro (envolve cada axônio individualmente). Juntas, essas bainhas conferem grande resistência ao nervo e funcionam como um conduto tubular organizado que orienta o fluxo de nutrientes.",
+      "keyPoints": [
+        {
+          "text": "Epineuro, perineuro e endoneuro",
+          "weight": 0.5,
+          "keywords": [
+            "epineuro",
+            "perineuro",
+            "endoneuro"
+          ]
+        },
+        {
+          "text": "Conferem resistência e orientam o fluxo de nutrientes",
+          "weight": 0.5,
+          "keywords": [
+            "resistência",
+            "conduto tubular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "3"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-162",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Diferencie neuropraxia, axonotmese e neurotmese quanto à gravidade da lesão e ao prognóstico.",
+      "modelAnswer": "A neuropraxia é a lesão mais leve: a estrutura do nervo permanece intacta, havendo apenas interrupção temporária da condução axonal, com bom prognóstico. A axonotmese envolve lesão do axônio, mas as bainhas conectivas e o endoneuro permanecem intactos, ainda favorecendo a regeneração. A neurotmese é a mais grave: o nervo é totalmente seccionado (axônio e endoneuro lesados), o que dificulta a regeneração e resulta em prognóstico ruim.",
+      "keyPoints": [
+        {
+          "text": "Neuropraxia: estrutura intacta, interrupção temporária, bom prognóstico",
+          "weight": 0.34,
+          "keywords": [
+            "neuropraxia",
+            "temporária"
+          ]
+        },
+        {
+          "text": "Axonotmese: lesão do axônio, bainhas intactas, bom prognóstico",
+          "weight": 0.33,
+          "keywords": [
+            "axonotmese",
+            "bainhas intactas"
+          ]
+        },
+        {
+          "text": "Neurotmese: secção total, prognóstico ruim",
+          "weight": 0.33,
+          "keywords": [
+            "neurotmese",
+            "secção total"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-163",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Explique a diferença entre nervos unissegmentares e plurissegmentares, dando um exemplo de cada.",
+      "modelAnswer": "Nervos unissegmentares têm suas fibras originadas em apenas um segmento medular, como os nervos intercostais. Nervos plurissegmentares contêm fibras originadas em mais de um segmento medular, como os nervos originados dos plexos (por exemplo, o mediano ou o ulnar).",
+      "keyPoints": [
+        {
+          "text": "Unissegmentares: um segmento medular (ex.: intercostais)",
+          "weight": 0.5,
+          "keywords": [
+            "unissegmentares",
+            "intercostais"
+          ]
+        },
+        {
+          "text": "Plurissegmentares: mais de um segmento (ex.: nervos dos plexos)",
+          "weight": 0.5,
+          "keywords": [
+            "plurissegmentares",
+            "plexos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-164",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Descreva as principais dificuldades funcionais decorrentes de lesões do nervo mediano e do nervo ulnar, segundo o material.",
+      "modelAnswer": "A lesão do nervo mediano causa dificuldade de pronação, flexão de punho, desvio radial e flexão dos dedos. A lesão do nervo ulnar causa dificuldade de flexão do punho e dedos, desvio ulnar e realização de pinça.",
+      "keyPoints": [
+        {
+          "text": "Mediano: pronação, flexão de punho, desvio radial, flexão dos dedos",
+          "weight": 0.5,
+          "keywords": [
+            "mediano",
+            "pronação"
+          ]
+        },
+        {
+          "text": "Ulnar: flexão de punho/dedos, desvio ulnar, pinça",
+          "weight": 0.5,
+          "keywords": [
+            "ulnar",
+            "pinça"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-165",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Explique quais são os cinco plexos nervosos existentes e cite quais regiões do corpo estão relacionadas ao plexo cervical e ao plexo braquial.",
+      "modelAnswer": "Os cinco plexos nervosos são: cervical, braquial, lombar, sacral e coccígeo. O plexo cervical, formado pelas quatro primeiras raízes cervicais, inerva a pele e os músculos da cabeça, pescoço, cintura escapular e o músculo diafragma (via nervo frênico). O plexo braquial, formado pelas quatro últimas raízes cervicais e a primeira torácica, inerva a pele e os músculos da cintura escapular e do membro superior.",
+      "keyPoints": [
+        {
+          "text": "Cinco plexos: cervical, braquial, lombar, sacral, coccígeo",
+          "weight": 0.4,
+          "keywords": [
+            "cervical",
+            "braquial",
+            "lombar",
+            "sacral",
+            "coccígeo"
+          ]
+        },
+        {
+          "text": "Cervical: cabeça, pescoço, diafragma (nervo frênico)",
+          "weight": 0.3,
+          "keywords": [
+            "cervical",
+            "diafragma"
+          ]
+        },
+        {
+          "text": "Braquial: cintura escapular e membro superior",
+          "weight": 0.3,
+          "keywords": [
+            "braquial",
+            "membro superior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7-8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-166",
+      "topic": "Nervos cranianos",
+      "question": "Classifique os 12 pares de nervos encefálicos quanto à função (aferente, eferente ou mista), citando ao menos um exemplo de cada grupo.",
+      "modelAnswer": "Aferentes (sensoriais): I olfatório, II óptico e VIII vestibulococlear. Eferentes (motores): III oculomotor, IV troclear, VI abducente, XI acessório e XII hipoglosso. Mistos (sensoriais e motores): V trigêmeo, VII facial, IX glossofaríngeo e X vago.",
+      "keyPoints": [
+        {
+          "text": "Aferentes: I, II, VIII",
+          "weight": 0.34,
+          "keywords": [
+            "I",
+            "II",
+            "VIII",
+            "aferentes"
+          ]
+        },
+        {
+          "text": "Eferentes: III, IV, VI, XI, XII",
+          "weight": 0.33,
+          "keywords": [
+            "III",
+            "IV",
+            "VI",
+            "eferentes"
+          ]
+        },
+        {
+          "text": "Mistos: V, VII, IX, X",
+          "weight": 0.33,
+          "keywords": [
+            "V",
+            "VII",
+            "IX",
+            "X",
+            "mistos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-167",
+      "topic": "Nervos cranianos",
+      "question": "Explique a função do nervo trigêmeo e diferencie seus componentes sensitivo e motor.",
+      "modelAnswer": "O nervo trigêmeo (V par) é um nervo misto, constituído por três ramos: oftálmico, maxilar e mandibular. O componente sensitivo, consideravelmente maior, conduz impulsos exteroceptivos (temperatura, dor, pressão, tato) da face e proprioceptivos dos músculos da mastigação. O componente motor, por meio do nervo mandibular, inerva os músculos mastigadores (temporal, masseter, pterigoides, entre outros).",
+      "keyPoints": [
+        {
+          "text": "Três ramos: oftálmico, maxilar, mandibular",
+          "weight": 0.3,
+          "keywords": [
+            "oftálmico",
+            "maxilar",
+            "mandibular"
+          ]
+        },
+        {
+          "text": "Componente sensitivo: exteroceptivo e proprioceptivo",
+          "weight": 0.35,
+          "keywords": [
+            "exteroceptivo",
+            "proprioceptivo"
+          ]
+        },
+        {
+          "text": "Componente motor: músculos mastigadores via mandibular",
+          "weight": 0.35,
+          "keywords": [
+            "motor",
+            "mastigadores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "22-23"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-168",
+      "topic": "Nervos cranianos",
+      "question": "Diferencie a paralisia facial periférica da paralisia facial central quanto à localização da lesão e ao quadro clínico.",
+      "modelAnswer": "A paralisia facial periférica, causada por lesão do neurônio motor inferior, é homolateral (ocorre do mesmo lado da lesão) e acomete toda a hemiface. A paralisia facial central, causada por lesão do neurônio motor superior, é contralateral e manifesta-se apenas na metade inferior da face, poupando a metade superior, pois esta recebe fibras córtico-nucleares homo e heterolaterais.",
+      "keyPoints": [
+        {
+          "text": "Periférica: homolateral, toda a hemiface",
+          "weight": 0.5,
+          "keywords": [
+            "periférica",
+            "homolateral",
+            "toda"
+          ]
+        },
+        {
+          "text": "Central: contralateral, apenas metade inferior",
+          "weight": 0.5,
+          "keywords": [
+            "central",
+            "contralateral",
+            "inferior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-169",
+      "topic": "Nervos cranianos",
+      "question": "Descreva as duas partes do nervo vestíbulo-coclear e os sintomas associados à lesão de cada uma delas.",
+      "modelAnswer": "O nervo vestíbulo-coclear é composto pela parte vestibular, que conduz impulsos relacionados ao equilíbrio, e pela parte coclear, relacionada à audição. A lesão da parte coclear causa perda de audição, enquanto a lesão da parte vestibular causa vertigem, alterações do equilíbrio e nistagmo.",
+      "keyPoints": [
+        {
+          "text": "Parte vestibular: equilíbrio; lesão causa vertigem/nistagmo",
+          "weight": 0.5,
+          "keywords": [
+            "vestibular",
+            "vertigem",
+            "nistagmo"
+          ]
+        },
+        {
+          "text": "Parte coclear: audição; lesão causa perda auditiva",
+          "weight": 0.5,
+          "keywords": [
+            "coclear",
+            "audição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24-25"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-170",
+      "topic": "Nervos cranianos",
+      "question": "Explique a função do nervo vago e por que ele é considerado o maior dos nervos encefálicos.",
+      "modelAnswer": "O nervo vago (X par) é considerado o maior dos nervos encefálicos por seu extenso trajeto: origina-se no bulbo, emerge do crânio pelo forame jugular e percorre o pescoço e o tórax, terminando no abdome. Tem função mista e exclusivamente visceral, sendo responsável pela inervação da laringe e da faringe, além de compor os plexos viscerais que formam a inervação autônoma parassimpática das vísceras torácicas e abdominais.",
+      "keyPoints": [
+        {
+          "text": "Maior nervo encefálico devido ao extenso trajeto (bulbo até abdome)",
+          "weight": 0.4,
+          "keywords": [
+            "maior",
+            "trajeto",
+            "abdome"
+          ]
+        },
+        {
+          "text": "Inerva laringe e faringe",
+          "weight": 0.3,
+          "keywords": [
+            "laringe",
+            "faringe"
+          ]
+        },
+        {
+          "text": "Inervação autônoma parassimpática das vísceras torácicas/abdominais",
+          "weight": 0.3,
+          "keywords": [
+            "parassimpática",
+            "vísceras"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "26"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-171",
+      "topic": "Nervos cranianos",
+      "question": "Descreva as duas raízes do nervo acessório e a função de seus respectivos ramos.",
+      "modelAnswer": "O nervo acessório apresenta a raiz encefálica (craniana) e a raiz espinhal. O ramo interno possui as fibras da raiz craniana, unindo-se ao nervo vago e distribuindo-se com ele. O ramo externo possui as fibras da raiz espinhal e inerva os músculos trapézio e esternocleidomastóideo.",
+      "keyPoints": [
+        {
+          "text": "Duas raízes: encefálica e espinhal",
+          "weight": 0.3,
+          "keywords": [
+            "encefálica",
+            "espinhal"
+          ]
+        },
+        {
+          "text": "Ramo interno: une-se ao vago",
+          "weight": 0.35,
+          "keywords": [
+            "ramo interno",
+            "vago"
+          ]
+        },
+        {
+          "text": "Ramo externo: inerva trapézio e esternocleidomastóideo",
+          "weight": 0.35,
+          "keywords": [
+            "ramo externo",
+            "trapézio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "27"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-172",
+      "topic": "Nervos cranianos",
+      "question": "Explique o trajeto do nervo óptico e as consequências clínicas de sua lesão em diferentes pontos.",
+      "modelAnswer": "O nervo óptico tem origem na retina, penetra no crânio pelo canal óptico e se une ao do lado oposto formando o quiasma óptico, onde há cruzamento parcial de suas fibras, que seguem no tracto óptico até o corpo geniculado lateral. A secção de um nervo óptico causa amaurose (cegueira) em um dos olhos, enquanto a destruição de fibras cruzadas no quiasma óptico (por exemplo, por um tumor hipofisário) pode causar amaurose de ambos os olhos.",
+      "keyPoints": [
+        {
+          "text": "Origem na retina, formação do quiasma óptico com cruzamento parcial",
+          "weight": 0.5,
+          "keywords": [
+            "quiasma óptico",
+            "cruzamento"
+          ]
+        },
+        {
+          "text": "Secção do nervo: cegueira em um olho; lesão do quiasma: cegueira bilateral",
+          "weight": 0.5,
+          "keywords": [
+            "amaurose",
+            "bilateral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-173",
+      "topic": "Nervos cranianos",
+      "question": "Explique por que o nervo hipoglosso é considerado puramente motor e descreva o sinal clínico característico de sua lesão.",
+      "modelAnswer": "O nervo hipoglosso é puramente motor porque suas fibras são consideradas eferentes somáticas, distribuindo-se apenas para os músculos intrínsecos e extrínsecos da língua, sem qualquer componente sensitivo. Na lesão desse nervo, ao realizar a protrusão da língua, ela se desvia para o lado da lesão, por ação da musculatura do lado normal, não contrabalançada pelos músculos paralisados.",
+      "keyPoints": [
+        {
+          "text": "Fibras exclusivamente eferentes somáticas, sem componente sensitivo",
+          "weight": 0.5,
+          "keywords": [
+            "eferentes somáticas",
+            "sem componente sensitivo"
+          ]
+        },
+        {
+          "text": "Sinal clínico: desvio da língua para o lado da lesão na protrusão",
+          "weight": 0.5,
+          "keywords": [
+            "desvio",
+            "protrusão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "28-29"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-174",
+      "topic": "Nervos cranianos",
+      "question": "Descreva a função motora e sensitiva do nervo glossofaríngeo.",
+      "modelAnswer": "O nervo glossofaríngeo (IX par) é misto. Suas fibras eferentes parassimpáticas terminam no gânglio ótico, originando fibras do nervo auriculotemporal que levam impulsos à glândula parótida. Suas fibras aferentes são responsáveis pela sensibilidade do terço posterior da língua, da faringe, da úvula, da tonsila, da tuba auditiva e do seio carotídeo.",
+      "keyPoints": [
+        {
+          "text": "Eferentes parassimpáticas: gânglio ótico, glândula parótida",
+          "weight": 0.5,
+          "keywords": [
+            "gânglio ótico",
+            "parótida"
+          ]
+        },
+        {
+          "text": "Aferentes: terço posterior da língua, faringe, seio carotídeo",
+          "weight": 0.5,
+          "keywords": [
+            "terço posterior",
+            "seio carotídeo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "25"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-175",
+      "topic": "Nervos cranianos",
+      "question": "Explique por que danos aos nervos cranianos, seus tratos ou núcleos resultam em disfunções estereotipadas, relacionando essa ideia à organização anatômica desses nervos.",
+      "modelAnswer": "Diferentemente dos nervos espinhais, cujas raízes são fibras da substância cinzenta espinhal organizadas de forma relativamente uniforme (corno sensorial posterior e corno motor anterior), os nervos encefálicos são compostos de processos neurais associados a núcleos distintos e especializados no tronco encefálico e em estruturas corticais. Por isso, a lesão de um núcleo ou nervo específico produz um padrão característico e previsível de disfunção sensorial ou motora, associado à função exclusiva daquele nervo.",
+      "keyPoints": [
+        {
+          "text": "Nervos encefálicos associados a núcleos distintos e especializados",
+          "weight": 0.5,
+          "keywords": [
+            "núcleos distintos",
+            "especializados"
+          ]
+        },
+        {
+          "text": "Cada núcleo/nervo tem função específica, gerando padrão previsível de disfunção",
+          "weight": 0.5,
+          "keywords": [
+            "padrão",
+            "disfunção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -22198,6 +24393,477 @@
       "subject": "Sistema nervoso autônomo",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, como as mulheres tendem a responder a situações estressantes, diferentemente dos homens? Tendem a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem à agressão (lutar)."
+    },
+    {
+      "id": "neuro-oral-156",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Quantos pares de nervos espinhais existem, ao todo?",
+      "modelAnswer": "31 pares.",
+      "keyPoints": [
+        {
+          "text": "31 pares",
+          "weight": 1,
+          "keywords": [
+            "31"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "baixo",
+      "miniLesson": "Quantos pares de nervos espinhais existem, ao todo? 31 pares."
+    },
+    {
+      "id": "neuro-oral-157",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Qual raiz do nervo espinhal é responsável pela informação sensitiva?",
+      "modelAnswer": "A raiz dorsal.",
+      "keyPoints": [
+        {
+          "text": "Raiz dorsal",
+          "weight": 1,
+          "keywords": [
+            "raiz dorsal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "4"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "baixo",
+      "miniLesson": "Qual raiz do nervo espinhal é responsável pela informação sensitiva? A raiz dorsal."
+    },
+    {
+      "id": "neuro-oral-158",
+      "topic": "Nervos espinhais e plexos",
+      "question": "O que é um dermátomo?",
+      "modelAnswer": "É o território cutâneo inervado por fibras de uma única raiz dorsal.",
+      "keyPoints": [
+        {
+          "text": "Território cutâneo de uma raiz dorsal",
+          "weight": 1,
+          "keywords": [
+            "território cutâneo",
+            "raiz dorsal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "6"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "O que é um dermátomo? É o território cutâneo inervado por fibras de uma única raiz dorsal."
+    },
+    {
+      "id": "neuro-oral-159",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Quantos plexos nervosos existem e quais são eles?",
+      "modelAnswer": "Cinco: cervical, braquial, lombar, sacral e coccígeo.",
+      "keyPoints": [
+        {
+          "text": "Cinco plexos: cervical, braquial, lombar, sacral, coccígeo",
+          "weight": 1,
+          "keywords": [
+            "cinco",
+            "cervical",
+            "braquial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Quantos plexos nervosos existem e quais são eles? Cinco: cervical, braquial, lombar, sacral e coccígeo."
+    },
+    {
+      "id": "neuro-oral-160",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Qual é o nervo principal e terminal do plexo cervical, e qual músculo ele inerva?",
+      "modelAnswer": "O nervo frênico, que inerva o músculo diafragma.",
+      "keyPoints": [
+        {
+          "text": "Nervo frênico, músculo diafragma",
+          "weight": 1,
+          "keywords": [
+            "frênico",
+            "diafragma"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "7-8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o nervo principal e terminal do plexo cervical, e qual músculo ele inerva? O nervo frênico, que inerva o músculo diafragma."
+    },
+    {
+      "id": "neuro-oral-161",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Quais raízes formam o plexo braquial?",
+      "modelAnswer": "As quatro últimas raízes cervicais (C5 a C8) e a primeira raiz torácica (T1).",
+      "keyPoints": [
+        {
+          "text": "C5 a T1",
+          "weight": 1,
+          "keywords": [
+            "C5",
+            "T1"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "8"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Quais raízes formam o plexo braquial? As quatro últimas raízes cervicais (C5 a C8) e a primeira raiz torácica (T1)."
+    },
+    {
+      "id": "neuro-oral-162",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Qual é o maior nervo do plexo lombar e o que ele inerva?",
+      "modelAnswer": "O nervo femoral, que inerva os músculos flexores de quadril e extensores do joelho.",
+      "keyPoints": [
+        {
+          "text": "Nervo femoral",
+          "weight": 1,
+          "keywords": [
+            "femoral"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "11"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o maior nervo do plexo lombar e o que ele inerva? O nervo femoral, que inerva os músculos flexores de quadril e extensores do joelho."
+    },
+    {
+      "id": "neuro-oral-163",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Em que estrutura anatômica o nervo ciático se divide em fibular comum e tibial?",
+      "modelAnswer": "Na fossa poplítea.",
+      "keyPoints": [
+        {
+          "text": "Fossa poplítea",
+          "weight": 1,
+          "keywords": [
+            "fossa poplítea"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "12"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Em que estrutura anatômica o nervo ciático se divide em fibular comum e tibial? Na fossa poplítea."
+    },
+    {
+      "id": "neuro-oral-164",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Qual é o tipo de lesão nervosa periférica mais grave, na qual o nervo é totalmente seccionado?",
+      "modelAnswer": "A neurotmese.",
+      "keyPoints": [
+        {
+          "text": "Neurotmese",
+          "weight": 1,
+          "keywords": [
+            "neurotmese"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o tipo de lesão nervosa periférica mais grave, na qual o nervo é totalmente seccionado? A neurotmese."
+    },
+    {
+      "id": "neuro-oral-165",
+      "topic": "Nervos espinhais e plexos",
+      "question": "Qual é o tipo de lesão nervosa periférica com melhor prognóstico?",
+      "modelAnswer": "A neuropraxia.",
+      "keyPoints": [
+        {
+          "text": "Neuropraxia",
+          "weight": 1,
+          "keywords": [
+            "neuropraxia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "14"
+      },
+      "subject": "Nervos espinhais e plexos",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o tipo de lesão nervosa periférica com melhor prognóstico? A neuropraxia."
+    },
+    {
+      "id": "neuro-oral-166",
+      "topic": "Nervos cranianos",
+      "question": "Quantos pares de nervos encefálicos existem?",
+      "modelAnswer": "12 pares.",
+      "keyPoints": [
+        {
+          "text": "12 pares",
+          "weight": 1,
+          "keywords": [
+            "12"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "baixo",
+      "miniLesson": "Quantos pares de nervos encefálicos existem? 12 pares."
+    },
+    {
+      "id": "neuro-oral-167",
+      "topic": "Nervos cranianos",
+      "question": "Quais são os três nervos encefálicos considerados apenas aferentes (sensoriais)?",
+      "modelAnswer": "I olfatório, II óptico e VIII vestibulococlear.",
+      "keyPoints": [
+        {
+          "text": "I, II e VIII",
+          "weight": 1,
+          "keywords": [
+            "olfatório",
+            "óptico",
+            "vestibulococlear"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "17"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os três nervos encefálicos considerados apenas aferentes (sensoriais)? I olfatório, II óptico e VIII vestibulococlear."
+    },
+    {
+      "id": "neuro-oral-168",
+      "topic": "Nervos cranianos",
+      "question": "O que causa a lesão do nervo olfatório em uma fratura da placa cribriforme?",
+      "modelAnswer": "Anosmia (perda do olfato) pós-traumática.",
+      "keyPoints": [
+        {
+          "text": "Anosmia",
+          "weight": 1,
+          "keywords": [
+            "anosmia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "O que causa a lesão do nervo olfatório em uma fratura da placa cribriforme? Anosmia (perda do olfato) pós-traumática."
+    },
+    {
+      "id": "neuro-oral-169",
+      "topic": "Nervos cranianos",
+      "question": "Onde as fibras do nervo óptico se cruzam parcialmente?",
+      "modelAnswer": "No quiasma óptico.",
+      "keyPoints": [
+        {
+          "text": "Quiasma óptico",
+          "weight": 1,
+          "keywords": [
+            "quiasma óptico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "20"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Onde as fibras do nervo óptico se cruzam parcialmente? No quiasma óptico."
+    },
+    {
+      "id": "neuro-oral-170",
+      "topic": "Nervos cranianos",
+      "question": "Quais são os três ramos do nervo trigêmeo?",
+      "modelAnswer": "Oftálmico, maxilar e mandibular.",
+      "keyPoints": [
+        {
+          "text": "Oftálmico, maxilar, mandibular",
+          "weight": 1,
+          "keywords": [
+            "oftálmico",
+            "maxilar",
+            "mandibular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "22"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os três ramos do nervo trigêmeo? Oftálmico, maxilar e mandibular."
+    },
+    {
+      "id": "neuro-oral-171",
+      "topic": "Nervos cranianos",
+      "question": "Qual nervo, ao ser lesionado, causa paralisia facial periférica?",
+      "modelAnswer": "O nervo facial (VII par).",
+      "keyPoints": [
+        {
+          "text": "Nervo facial (VII)",
+          "weight": 1,
+          "keywords": [
+            "facial"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Qual nervo, ao ser lesionado, causa paralisia facial periférica? O nervo facial (VII par)."
+    },
+    {
+      "id": "neuro-oral-172",
+      "topic": "Nervos cranianos",
+      "question": "Quais são as duas partes do nervo vestíbulo-coclear?",
+      "modelAnswer": "A parte vestibular (equilíbrio) e a parte coclear (audição).",
+      "keyPoints": [
+        {
+          "text": "Vestibular e coclear",
+          "weight": 1,
+          "keywords": [
+            "vestibular",
+            "coclear"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "24"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as duas partes do nervo vestíbulo-coclear? A parte vestibular (equilíbrio) e a parte coclear (audição)."
+    },
+    {
+      "id": "neuro-oral-173",
+      "topic": "Nervos cranianos",
+      "question": "Qual é o maior dos nervos encefálicos?",
+      "modelAnswer": "O nervo vago (X par).",
+      "keyPoints": [
+        {
+          "text": "Nervo vago",
+          "weight": 1,
+          "keywords": [
+            "vago"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "26"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o maior dos nervos encefálicos? O nervo vago (X par)."
+    },
+    {
+      "id": "neuro-oral-174",
+      "topic": "Nervos cranianos",
+      "question": "Quais músculos são inervados pelo ramo externo do nervo acessório?",
+      "modelAnswer": "O trapézio e o esternocleidomastóideo.",
+      "keyPoints": [
+        {
+          "text": "Trapézio e esternocleidomastóideo",
+          "weight": 1,
+          "keywords": [
+            "trapézio",
+            "esternocleidomastóideo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "27"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Quais músculos são inervados pelo ramo externo do nervo acessório? O trapézio e o esternocleidomastóideo."
+    },
+    {
+      "id": "neuro-oral-175",
+      "topic": "Nervos cranianos",
+      "question": "Qual nervo encefálico é puramente motor e inerva os músculos da língua?",
+      "modelAnswer": "O nervo hipoglosso (XII par).",
+      "keyPoints": [
+        {
+          "text": "Nervo hipoglosso",
+          "weight": 1,
+          "keywords": [
+            "hipoglosso"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso periférico.pdf",
+        "page": "28"
+      },
+      "subject": "Nervos cranianos",
+      "difficulty": "medio",
+      "miniLesson": "Qual nervo encefálico é puramente motor e inerva os músculos da língua? O nervo hipoglosso (XII par)."
     }
   ]
 }
