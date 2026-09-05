@@ -5443,6 +5443,1392 @@
       "subject": "Cerebelo",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, ao contrário do cerebelo — que funciona em nível inconsciente e involuntário —, o cérebro exerce controle motor voluntário por meio, principalmente, do trato: Diferentemente do cerebelo, que atua em nível inconsciente e involuntário, o controle motor voluntário do cérebro se dá, principalmente, pelo trato córtico-espinhal, que se origina no córtex cerebral (área motora primária) e leva impulsos à medula."
+    },
+    {
+      "id": "neuro-obj-251",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o tronco encefálico interpõe-se entre a medula e o diencéfalo, sendo constituído por corpos de neurônios agrupados em fibras nervosas e núcleos. A maioria desses núcleos recebe ou envia fibras que compõem os nervos encefálicos, os quais são compostos por:",
+      "options": {
+        "a": "Doze pares, sendo que dez fazem conexão no tronco encefálico",
+        "b": "Trinta e um pares, todos conectados ao tronco encefálico",
+        "c": "Oito pares, todos exclusivamente sensitivos",
+        "d": "Doze pares, nenhum conectado ao tronco encefálico",
+        "e": "Vinte e quatro pares, dos quais metade se conecta à medula"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos são compostos por doze pares, sendo que dez deles fazem conexão no tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o tronco encefálico interpõe-se entre a medula e o diencéfalo, sendo constituído por corpos de neurônios agrupados em fibras nervosas e núcleos. A maioria desses núcleos recebe ou envia fibras que compõem os nervos encefálicos, os quais são compostos por: Os nervos encefálicos são compostos por doze pares, sendo que dez deles fazem conexão no tronco encefálico."
+    },
+    {
+      "id": "neuro-obj-252",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a formação reticular, matriz complexa e heterogênea de neurônios presente no tronco encefálico, apresenta como principal função:",
+      "options": {
+        "a": "A ativação do córtex cerebral, controlando o nível de consciência (sono e vigília)",
+        "b": "A produção exclusiva de líquor",
+        "c": "A síntese de melatonina",
+        "d": "O controle exclusivo dos movimentos oculares",
+        "e": "A produção de anticorpos"
+      },
+      "correct": "a",
+      "explanation": "A formação reticular apresenta como principal função a ativação do córtex cerebral, atuando no controle do nível de consciência (sono e vigília), além de participar da percepção da dor e da regulação dos sistemas cardiovascular e respiratório.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a formação reticular, matriz complexa e heterogênea de neurônios presente no tronco encefálico, apresenta como principal função: A formação reticular apresenta como principal função a ativação do córtex cerebral, atuando no controle do nível de consciência (sono e vigília), além de participar da percepção da dor e da regulação dos sistemas cardiovascular e respiratório."
+    },
+    {
+      "id": "neuro-obj-253",
+      "topic": "Tronco encefálico",
+      "question": "Além da ativação do córtex cerebral e do controle do nível de consciência, a formação reticular do tronco encefálico também participa, segundo o material, de:",
+      "options": {
+        "a": "Percepção da dor e regulação dos sistemas cardiovascular e respiratório",
+        "b": "Produção de dopamina exclusivamente",
+        "c": "Formação da bainha de mielina dos nervos periféricos",
+        "d": "Absorção do líquido cefalorraquidiano",
+        "e": "Reconhecimento de faces"
+      },
+      "correct": "a",
+      "explanation": "A formação reticular apresenta ainda como função a percepção da dor e a regulação dos sistemas cardiovascular e respiratório.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Além da ativação do córtex cerebral e do controle do nível de consciência, a formação reticular do tronco encefálico também participa, segundo o material, de: A formação reticular apresenta ainda como função a percepção da dor e a regulação dos sistemas cardiovascular e respiratório."
+    },
+    {
+      "id": "neuro-obj-254",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o tronco encefálico divide-se em três porções. São elas:",
+      "options": {
+        "a": "Mesencéfalo, ponte e bulbo",
+        "b": "Telencéfalo, diencéfalo e mesencéfalo",
+        "c": "Tálamo, hipotálamo e subtálamo",
+        "d": "Cerebelo, ponte e bulbo",
+        "e": "Bulbo, medula e cerebelo"
+      },
+      "correct": "a",
+      "explanation": "O tronco encefálico divide-se em mesencéfalo, ponte e bulbo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o tronco encefálico divide-se em três porções. São elas: O tronco encefálico divide-se em mesencéfalo, ponte e bulbo."
+    },
+    {
+      "id": "neuro-obj-255",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o limite caudal do bulbo corresponde ao nível do forame magno do osso occipital, e seu limite cranial é o(a):",
+      "options": {
+        "a": "Sulco bulbo-pontino, correspondente à margem inferior da ponte",
+        "b": "Aqueduto cerebral",
+        "c": "Fissura mediana anterior da medula",
+        "d": "Sulco lateral posterior",
+        "e": "Tenda do cerebelo"
+      },
+      "correct": "a",
+      "explanation": "O bulbo apresenta limite caudal a nível do forame magno do osso occipital, e o limite cranial é o sulco bulbo-pontino, que corresponde à margem inferior da ponte.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o limite caudal do bulbo corresponde ao nível do forame magno do osso occipital, e seu limite cranial é o(a): O bulbo apresenta limite caudal a nível do forame magno do osso occipital, e o limite cranial é o sulco bulbo-pontino, que corresponde à margem inferior da ponte."
+    },
+    {
+      "id": "neuro-obj-256",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, em sua parte caudal, o bulbo é o local onde ocorre:",
+      "options": {
+        "a": "O cruzamento das fibras do trato córtico-espinhal no plano mediano, na decussação das pirâmides bulbares",
+        "b": "A produção de melatonina pela glândula pineal",
+        "c": "A formação do corpo estriado",
+        "d": "A origem do nervo óptico",
+        "e": "A absorção do líquor pelas granulações aracnoides"
+      },
+      "correct": "a",
+      "explanation": "Em sua parte caudal, fibras do trato córtico-espinhal cruzam o plano mediano na decussação das pirâmides bulbares, estrutura localizada no bulbo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em sua parte caudal, o bulbo é o local onde ocorre: Em sua parte caudal, fibras do trato córtico-espinhal cruzam o plano mediano na decussação das pirâmides bulbares, estrutura localizada no bulbo."
+    },
+    {
+      "id": "neuro-obj-257",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, além do cruzamento das fibras do trato córtico-espinhal, o bulbo também abriga centros importantes para a regulação de funções vitais, sendo eles os centros:",
+      "options": {
+        "a": "Respiratório, vasomotor e do vômito",
+        "b": "Visual, auditivo e olfatório",
+        "c": "Da fala e da escrita",
+        "d": "Da memória de longo prazo",
+        "e": "Do equilíbrio e da coordenação motora exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os centros respiratórios, vasomotor e do vômito estão localizados no bulbo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além do cruzamento das fibras do trato córtico-espinhal, o bulbo também abriga centros importantes para a regulação de funções vitais, sendo eles os centros: Os centros respiratórios, vasomotor e do vômito estão localizados no bulbo."
+    },
+    {
+      "id": "neuro-obj-258",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a ponte está interposta entre o bulbo e o mesencéfalo, apresentando numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como:",
+      "options": {
+        "a": "Pedúnculo cerebelar médio",
+        "b": "Corpo caloso",
+        "c": "Fórnix",
+        "d": "Cápsula interna",
+        "e": "Comissura anterior"
+      },
+      "correct": "a",
+      "explanation": "A ponte apresenta numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como pedúnculo cerebelar médio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ponte está interposta entre o bulbo e o mesencéfalo, apresentando numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como: A ponte apresenta numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como pedúnculo cerebelar médio."
+    },
+    {
+      "id": "neuro-obj-259",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o pedúnculo cerebelar médio, originado na ponte, é considerado a maior 'porta de entrada' para o cerebelo, sendo responsável pela condução de importantes informações vindas:",
+      "options": {
+        "a": "Da medula espinhal, apresentando íntima relação com o movimento humano",
+        "b": "Exclusivamente do nervo óptico",
+        "c": "Exclusivamente do hipotálamo",
+        "d": "Exclusivamente da glândula pineal",
+        "e": "Exclusivamente do córtex occipital"
+      },
+      "correct": "a",
+      "explanation": "O pedúnculo cerebelar médio representa a maior 'porta de entrada' para o cerebelo, sendo responsável pela condução de informações vindas da medula espinhal, com íntima relação com o movimento humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o pedúnculo cerebelar médio, originado na ponte, é considerado a maior 'porta de entrada' para o cerebelo, sendo responsável pela condução de importantes informações vindas: O pedúnculo cerebelar médio representa a maior 'porta de entrada' para o cerebelo, sendo responsável pela condução de informações vindas da medula espinhal, com íntima relação com o movimento humano."
+    },
+    {
+      "id": "neuro-obj-260",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o mesencéfalo está localizado entre a ponte e o cérebro. Por ele, passa um estreito canal chamado:",
+      "options": {
+        "a": "Aqueduto cerebral, que une o III ao IV ventrículo",
+        "b": "Canal central da medula, que une o encéfalo à medula",
+        "c": "Forame interventricular, que une os ventrículos laterais",
+        "d": "Aqueduto de Falópio, relacionado ao nervo facial",
+        "e": "Canal semicircular, relacionado ao equilíbrio"
+      },
+      "correct": "a",
+      "explanation": "Pelo mesencéfalo, passa um estreito canal, o aqueduto cerebral, que une o III ao IV ventrículo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o mesencéfalo está localizado entre a ponte e o cérebro. Por ele, passa um estreito canal chamado: Pelo mesencéfalo, passa um estreito canal, o aqueduto cerebral, que une o III ao IV ventrículo."
+    },
+    {
+      "id": "neuro-obj-261",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, no mesencéfalo, a parte situada dorsalmente ao aqueduto cerebral é denominada teto do mesencéfalo, enquanto, ventralmente, encontram-se dois pedúnculos cerebrais, os quais se dividem em:",
+      "options": {
+        "a": "Tegmento e base do pedúnculo",
+        "b": "Tálamo e hipotálamo",
+        "c": "Bulbo e ponte",
+        "d": "Córtex e substância branca",
+        "e": "Vérmis e hemisférios"
+      },
+      "correct": "a",
+      "explanation": "Ventralmente ao aqueduto cerebral, há dois pedúnculos cerebrais, que se dividem em tegmento e base do pedúnculo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no mesencéfalo, a parte situada dorsalmente ao aqueduto cerebral é denominada teto do mesencéfalo, enquanto, ventralmente, encontram-se dois pedúnculos cerebrais, os quais se dividem em: Ventralmente ao aqueduto cerebral, há dois pedúnculos cerebrais, que se dividem em tegmento e base do pedúnculo."
+    },
+    {
+      "id": "neuro-obj-262",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, em uma secção transversal do mesencéfalo, observa-se o tegmento separado da base por uma região escura, denominada:",
+      "options": {
+        "a": "Substância negra",
+        "b": "Corpo estriado",
+        "c": "Substância cinzenta periaquedutal exclusivamente",
+        "d": "Cápsula externa",
+        "e": "Claustrum"
+      },
+      "correct": "a",
+      "explanation": "Em uma secção transversal do mesencéfalo, é possível observar o tegmento separado da base por uma região escura, a substância negra, que apresenta essa coloração por ser formada por neurônios que contêm melanina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em uma secção transversal do mesencéfalo, observa-se o tegmento separado da base por uma região escura, denominada: Em uma secção transversal do mesencéfalo, é possível observar o tegmento separado da base por uma região escura, a substância negra, que apresenta essa coloração por ser formada por neurônios que contêm melanina."
+    },
+    {
+      "id": "neuro-obj-263",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a substância negra do mesencéfalo é composta por neurônios produtores de um importante neurotransmissor, a:",
+      "options": {
+        "a": "Dopamina",
+        "b": "Serotonina",
+        "c": "Acetilcolina",
+        "d": "Melatonina",
+        "e": "Noradrenalina exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Na substância negra, habitam neurônios produtores de um importante neurotransmissor, a dopamina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a substância negra do mesencéfalo é composta por neurônios produtores de um importante neurotransmissor, a: Na substância negra, habitam neurônios produtores de um importante neurotransmissor, a dopamina."
+    },
+    {
+      "id": "neuro-obj-264",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, em indivíduos com doença de Parkinson, os neurônios da substância negra se degeneram, levando a uma série de alterações relacionadas, principalmente, a:",
+      "options": {
+        "a": "Distúrbios de movimento",
+        "b": "Perda completa da audição",
+        "c": "Perda completa da visão",
+        "d": "Distúrbios exclusivamente da fala compreensiva",
+        "e": "Distúrbios exclusivamente do olfato"
+      },
+      "correct": "a",
+      "explanation": "Em indivíduos com doença de Parkinson, os neurônios da substância negra se degeneram, levando a uma série de alterações, principalmente relacionadas a distúrbios de movimento.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em indivíduos com doença de Parkinson, os neurônios da substância negra se degeneram, levando a uma série de alterações relacionadas, principalmente, a: Em indivíduos com doença de Parkinson, os neurônios da substância negra se degeneram, levando a uma série de alterações, principalmente relacionadas a distúrbios de movimento."
+    },
+    {
+      "id": "neuro-obj-265",
+      "topic": "Tronco encefálico",
+      "question": "Considerando a divisão do tronco encefálico em bulbo, ponte e mesencéfalo, do mais caudal (próximo à medula) para o mais cranial (próximo ao diencéfalo), a ordem correta é:",
+      "options": {
+        "a": "Bulbo, ponte, mesencéfalo",
+        "b": "Mesencéfalo, ponte, bulbo",
+        "c": "Ponte, bulbo, mesencéfalo",
+        "d": "Mesencéfalo, bulbo, ponte",
+        "e": "Bulbo, mesencéfalo, ponte"
+      },
+      "correct": "a",
+      "explanation": "O bulbo é a porção mais caudal do tronco encefálico (continua a medula), seguido pela ponte e, por fim, pelo mesencéfalo, mais cranial, que se conecta ao diencéfalo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Considerando a divisão do tronco encefálico em bulbo, ponte e mesencéfalo, do mais caudal (próximo à medula) para o mais cranial (próximo ao diencéfalo), a ordem correta é: O bulbo é a porção mais caudal do tronco encefálico (continua a medula), seguido pela ponte e, por fim, pelo mesencéfalo, mais cranial, que se conecta ao diencéfalo."
+    },
+    {
+      "id": "neuro-obj-266",
+      "topic": "Tronco encefálico",
+      "question": "Um paciente apresenta tremores e dificuldades progressivas para iniciar e coordenar movimentos voluntários, características de um quadro de doença de Parkinson. Com base no material, essa condição está associada à degeneração de neurônios localizados:",
+      "options": {
+        "a": "Na substância negra do mesencéfalo",
+        "b": "No córtex occipital",
+        "c": "Na área de Broca",
+        "d": "No bulbo, especificamente no centro do vômito",
+        "e": "No hipocampo"
+      },
+      "correct": "a",
+      "explanation": "A doença de Parkinson é caracterizada pela degeneração dos neurônios que habitam a substância negra do mesencéfalo, produtores de dopamina, fundamental para a modulação do circuito motor que envolve o corpo estriado.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta tremores e dificuldades progressivas para iniciar e coordenar movimentos voluntários, características de um quadro de doença de Parkinson. Com base no material, essa condição está associada à degeneração de neurônios localizados: A doença de Parkinson é caracterizada pela degeneração dos neurônios que habitam a substância negra do mesencéfalo, produtores de dopamina, fundamental para a modulação do circuito motor que envolve o corpo estriado."
+    },
+    {
+      "id": "neuro-obj-267",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a formação reticular está presente:",
+      "options": {
+        "a": "No tronco encefálico, como uma matriz complexa e heterogênea de neurônios",
+        "b": "Exclusivamente no cerebelo",
+        "c": "Exclusivamente na medula espinhal",
+        "d": "Exclusivamente no lobo occipital",
+        "e": "Exclusivamente no hipocampo"
+      },
+      "correct": "a",
+      "explanation": "Além dos núcleos que compõem os nervos encefálicos, o tronco encefálico contém uma matriz complexa e heterogênea de neurônios, chamada de formação reticular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a formação reticular está presente: Além dos núcleos que compõem os nervos encefálicos, o tronco encefálico contém uma matriz complexa e heterogênea de neurônios, chamada de formação reticular."
+    },
+    {
+      "id": "neuro-obj-268",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o aqueduto cerebral, que atravessa o mesencéfalo, tem como função unir:",
+      "options": {
+        "a": "O III ao IV ventrículo",
+        "b": "Os dois ventrículos laterais",
+        "c": "O I ao II ventrículo",
+        "d": "O espaço subaracnóideo ao espaço subdural",
+        "e": "A cisterna magna ao espaço epidural"
+      },
+      "correct": "a",
+      "explanation": "Pelo mesencéfalo passa um estreito canal, o aqueduto cerebral, que une o III ao IV ventrículo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o aqueduto cerebral, que atravessa o mesencéfalo, tem como função unir: Pelo mesencéfalo passa um estreito canal, o aqueduto cerebral, que une o III ao IV ventrículo."
+    },
+    {
+      "id": "neuro-obj-269",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a via extrapiramidal denominada retículo-espinhal origina-se em uma estrutura localizada no tronco encefálico, chamada:",
+      "options": {
+        "a": "Formação reticular",
+        "b": "Núcleo rubro",
+        "c": "Substância negra",
+        "d": "Núcleos vestibulares exclusivamente",
+        "e": "Teto do mesencéfalo"
+      },
+      "correct": "a",
+      "explanation": "Entre as vias extrapiramidais descritas no módulo sobre a medula, a via retículo-espinhal origina-se na formação reticular, presente no tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "12"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a via extrapiramidal denominada retículo-espinhal origina-se em uma estrutura localizada no tronco encefálico, chamada: Entre as vias extrapiramidais descritas no módulo sobre a medula, a via retículo-espinhal origina-se na formação reticular, presente no tronco encefálico."
+    },
+    {
+      "id": "neuro-obj-270",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o mesencéfalo está localizado entre:",
+      "options": {
+        "a": "A ponte e o cérebro",
+        "b": "O bulbo e a medula espinhal",
+        "c": "O cerebelo e a medula espinhal",
+        "d": "O tálamo e o hipotálamo",
+        "e": "O corpo caloso e o fórnix"
+      },
+      "correct": "a",
+      "explanation": "O mesencéfalo está localizado entre a ponte e o cérebro (mais especificamente o diencéfalo).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o mesencéfalo está localizado entre: O mesencéfalo está localizado entre a ponte e o cérebro (mais especificamente o diencéfalo)."
+    },
+    {
+      "id": "neuro-obj-271",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, dos doze pares de nervos encefálicos (cranianos), quantos fazem conexão diretamente no tronco encefálico?",
+      "options": {
+        "a": "Dez",
+        "b": "Doze",
+        "c": "Oito",
+        "d": "Seis",
+        "e": "Nenhum"
+      },
+      "correct": "a",
+      "explanation": "Os nervos encefálicos são compostos por doze pares, sendo que dez deles fazem conexão no tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, dos doze pares de nervos encefálicos (cranianos), quantos fazem conexão diretamente no tronco encefálico? Os nervos encefálicos são compostos por doze pares, sendo que dez deles fazem conexão no tronco encefálico."
+    },
+    {
+      "id": "neuro-obj-272",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, os centros respiratório, vasomotor e do vômito, essenciais para a manutenção de funções vitais básicas, estão localizados especificamente:",
+      "options": {
+        "a": "No bulbo",
+        "b": "Na ponte",
+        "c": "No mesencéfalo",
+        "d": "No tálamo",
+        "e": "No hipotálamo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os centros respiratórios, vasomotor e do vômito estão localizados no bulbo, porção mais caudal do tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os centros respiratório, vasomotor e do vômito, essenciais para a manutenção de funções vitais básicas, estão localizados especificamente: Os centros respiratórios, vasomotor e do vômito estão localizados no bulbo, porção mais caudal do tronco encefálico."
+    },
+    {
+      "id": "neuro-obj-273",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, um paciente que apresenta lesão bulbar extensa, comprometendo os centros ali localizados, corre risco elevado de complicações relacionadas, principalmente, a:",
+      "options": {
+        "a": "Funções respiratória, cardiovascular (vasomotora) e digestiva (vômito)",
+        "b": "Funções exclusivamente visuais",
+        "c": "Funções exclusivamente auditivas",
+        "d": "Funções exclusivamente de memória de longo prazo",
+        "e": "Funções exclusivamente de linguagem"
+      },
+      "correct": "a",
+      "explanation": "Como o bulbo contém os centros respiratório, vasomotor e do vômito, uma lesão bulbar extensa pode comprometer gravemente essas funções vitais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, um paciente que apresenta lesão bulbar extensa, comprometendo os centros ali localizados, corre risco elevado de complicações relacionadas, principalmente, a: Como o bulbo contém os centros respiratório, vasomotor e do vômito, uma lesão bulbar extensa pode comprometer gravemente essas funções vitais."
+    },
+    {
+      "id": "neuro-obj-274",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a ponte apresenta importância clínica relacionada ao movimento humano principalmente por conter:",
+      "options": {
+        "a": "O pedúnculo cerebelar médio, principal via de conexão com o cerebelo",
+        "b": "O centro respiratório",
+        "c": "A substância negra",
+        "d": "O núcleo subtalâmico",
+        "e": "A glândula pineal"
+      },
+      "correct": "a",
+      "explanation": "A ponte apresenta numerosos feixes de fibras que convergem para formar o pedúnculo cerebelar médio, a maior 'porta de entrada' para o cerebelo, com íntima relação com o movimento humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ponte apresenta importância clínica relacionada ao movimento humano principalmente por conter: A ponte apresenta numerosos feixes de fibras que convergem para formar o pedúnculo cerebelar médio, a maior 'porta de entrada' para o cerebelo, com íntima relação com o movimento humano."
+    },
+    {
+      "id": "neuro-obj-275",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a coloração escura da substância negra, no mesencéfalo, deve-se à presença de neurônios que contêm:",
+      "options": {
+        "a": "Melanina",
+        "b": "Mielina em excesso",
+        "c": "Ferro em excesso",
+        "d": "Colágeno",
+        "e": "Queratina"
+      },
+      "correct": "a",
+      "explanation": "A substância negra apresenta coloração escura por ser formada por neurônios que contêm melanina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a coloração escura da substância negra, no mesencéfalo, deve-se à presença de neurônios que contêm: A substância negra apresenta coloração escura por ser formada por neurônios que contêm melanina."
+    },
+    {
+      "id": "neuro-obj-276",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a formação reticular do tronco encefálico, ao atuar no controle do nível de consciência, está diretamente relacionada à regulação:",
+      "options": {
+        "a": "Do sono e da vigília",
+        "b": "Exclusivamente da fome",
+        "c": "Exclusivamente da sede",
+        "d": "Exclusivamente da temperatura corporal",
+        "e": "Exclusivamente da libido"
+      },
+      "correct": "a",
+      "explanation": "A formação reticular apresenta como principal função a ativação do córtex cerebral, atuando controlando o nível de consciência, ou seja, o sono e a vigília.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a formação reticular do tronco encefálico, ao atuar no controle do nível de consciência, está diretamente relacionada à regulação: A formação reticular apresenta como principal função a ativação do córtex cerebral, atuando controlando o nível de consciência, ou seja, o sono e a vigília."
+    },
+    {
+      "id": "neuro-obj-277",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, ao passar pelas pirâmides bulbares, uma parte considerável das fibras do trato córtico-espinhal (75 a 90%) se cruza na decussação das pirâmides, o que ocorre especificamente:",
+      "options": {
+        "a": "No bulbo",
+        "b": "Na ponte",
+        "c": "No mesencéfalo",
+        "d": "No cerebelo",
+        "e": "No tálamo"
+      },
+      "correct": "a",
+      "explanation": "As pirâmides bulbares, onde ocorre a decussação da maior parte das fibras do trato córtico-espinhal, estão localizadas no bulbo, parte caudal do tronco encefálico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao passar pelas pirâmides bulbares, uma parte considerável das fibras do trato córtico-espinhal (75 a 90%) se cruza na decussação das pirâmides, o que ocorre especificamente: As pirâmides bulbares, onde ocorre a decussação da maior parte das fibras do trato córtico-espinhal, estão localizadas no bulbo, parte caudal do tronco encefálico."
+    },
+    {
+      "id": "neuro-obj-278",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, entre bulbo, ponte e mesencéfalo, a estrutura que apresenta o aqueduto cerebral, canal que une o III ao IV ventrículo, é:",
+      "options": {
+        "a": "O mesencéfalo",
+        "b": "O bulbo",
+        "c": "A ponte",
+        "d": "O cerebelo",
+        "e": "O hipotálamo"
+      },
+      "correct": "a",
+      "explanation": "O aqueduto cerebral está localizado no mesencéfalo, unindo o III ao IV ventrículo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre bulbo, ponte e mesencéfalo, a estrutura que apresenta o aqueduto cerebral, canal que une o III ao IV ventrículo, é: O aqueduto cerebral está localizado no mesencéfalo, unindo o III ao IV ventrículo."
+    },
+    {
+      "id": "neuro-obj-279",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o tegmento e a base do pedúnculo cerebral, subdivisões do mesencéfalo, ficam separados por uma região escura que abriga neurônios produtores de dopamina. Essa região é a(o):",
+      "options": {
+        "a": "Substância negra",
+        "b": "Núcleo rubro",
+        "c": "Colículo superior",
+        "d": "Lemnisco medial",
+        "e": "Núcleo caudado"
+      },
+      "correct": "a",
+      "explanation": "O tegmento é separado da base do pedúnculo por uma região escura, a substância negra, onde habitam neurônios produtores de dopamina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o tegmento e a base do pedúnculo cerebral, subdivisões do mesencéfalo, ficam separados por uma região escura que abriga neurônios produtores de dopamina. Essa região é a(o): O tegmento é separado da base do pedúnculo por uma região escura, a substância negra, onde habitam neurônios produtores de dopamina."
+    },
+    {
+      "id": "neuro-obj-280",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, a íntima relação entre o pedúnculo cerebelar médio (na ponte) e o cerebelo evidencia a importância dessa via para:",
+      "options": {
+        "a": "A condução de informações da medula espinhal relacionadas ao movimento humano",
+        "b": "A produção de líquor",
+        "c": "A regulação hormonal do sistema endócrino",
+        "d": "O processamento da linguagem falada",
+        "e": "A regulação do apetite"
+      },
+      "correct": "a",
+      "explanation": "O pedúnculo cerebelar médio é responsável pela condução de importantes informações vindas da medula espinhal ao cerebelo, apresentando íntima relação com o movimento humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a íntima relação entre o pedúnculo cerebelar médio (na ponte) e o cerebelo evidencia a importância dessa via para: O pedúnculo cerebelar médio é responsável pela condução de importantes informações vindas da medula espinhal ao cerebelo, apresentando íntima relação com o movimento humano."
+    },
+    {
+      "id": "neuro-obj-281",
+      "topic": "Tronco encefálico",
+      "question": "Segundo o material, o tronco encefálico, como um todo, desempenha papel fundamental porque:",
+      "options": {
+        "a": "Interpõe-se entre a medula e o diencéfalo, contendo núcleos dos nervos encefálicos e a formação reticular, essencial para a consciência e regulação de funções vitais",
+        "b": "É a única estrutura do sistema nervoso responsável por funções cognitivas superiores",
+        "c": "Não possui qualquer conexão com os nervos cranianos",
+        "d": "É formado exclusivamente por substância branca, sem núcleos",
+        "e": "Está completamente isolado da medula espinhal e do diencéfalo"
+      },
+      "correct": "a",
+      "explanation": "O tronco encefálico interpõe-se entre a medula e o diencéfalo, sendo constituído por núcleos que recebem/enviam fibras dos nervos encefálicos e pela formação reticular, responsável pela ativação cortical (consciência) e pela regulação de funções vitais como respiração e sistema cardiovascular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o tronco encefálico, como um todo, desempenha papel fundamental porque: O tronco encefálico interpõe-se entre a medula e o diencéfalo, sendo constituído por núcleos que recebem/enviam fibras dos nervos encefálicos e pela formação reticular, responsável pela ativação cortical (consciência) e pela regulação de funções vitais como respiração e sistema cardiovascular."
+    },
+    {
+      "id": "neuro-obj-282",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o diencéfalo e o telencéfalo, juntos, formam o cérebro, ocupando cerca de:",
+      "options": {
+        "a": "80% da cavidade craniana",
+        "b": "20% da cavidade craniana",
+        "c": "50% da cavidade craniana",
+        "d": "100% da cavidade craniana",
+        "e": "10% da cavidade craniana"
+      },
+      "correct": "a",
+      "explanation": "O diencéfalo e o telencéfalo formam juntos o cérebro, ocupando cerca de 80% da cavidade craniana.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o diencéfalo e o telencéfalo, juntos, formam o cérebro, ocupando cerca de: O diencéfalo e o telencéfalo formam juntos o cérebro, ocupando cerca de 80% da cavidade craniana."
+    },
+    {
+      "id": "neuro-obj-283",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o telencéfalo constitui os hemisférios cerebrais e encobre quase totalmente o diencéfalo, o qual permanece em posição:",
+      "options": {
+        "a": "Ímpar e mediana",
+        "b": "Lateral e bilateral",
+        "c": "Posterior e assimétrica",
+        "d": "Superior e periférica",
+        "e": "Anterior e duplicada"
+      },
+      "correct": "a",
+      "explanation": "O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, o qual permanece em posição ímpar e mediana.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o telencéfalo constitui os hemisférios cerebrais e encobre quase totalmente o diencéfalo, o qual permanece em posição: O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, o qual permanece em posição ímpar e mediana."
+    },
+    {
+      "id": "neuro-obj-284",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o diencéfalo compreende quatro estruturas principais. São elas:",
+      "options": {
+        "a": "Epitálamo, tálamo, subtálamo e hipotálamo",
+        "b": "Bulbo, ponte, mesencéfalo e cerebelo",
+        "c": "Frontal, parietal, temporal e occipital",
+        "d": "Corpo caloso, fórnix, comissura anterior e cápsula interna",
+        "e": "Claustrum, putâmen, globo pálido e caudado"
+      },
+      "correct": "a",
+      "explanation": "O diencéfalo compreende: epitálamo, tálamo, subtálamo e hipotálamo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o diencéfalo compreende quatro estruturas principais. São elas: O diencéfalo compreende: epitálamo, tálamo, subtálamo e hipotálamo."
+    },
+    {
+      "id": "neuro-obj-285",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o tálamo é composto por duas massas volumosas de substância cinzenta, de forma ovoide, constituído por vários núcleos, os quais podem ser divididos em cinco grupos de acordo com sua localização:",
+      "options": {
+        "a": "Anterior, posterior, lateral, mediano e medial",
+        "b": "Superior, inferior, direito, esquerdo e central",
+        "c": "Cervical, torácico, lombar, sacral e coccígeo",
+        "d": "Motor, sensitivo, visceral, límbico e autônomo",
+        "e": "Frontal, parietal, temporal, occipital e insular"
+      },
+      "correct": "a",
+      "explanation": "O tálamo é composto por várias massas de substância cinzenta, constituído por núcleos que podem ser divididos em cinco grupos de acordo com sua localização: anterior, posterior, lateral, mediano e medial.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o tálamo é composto por duas massas volumosas de substância cinzenta, de forma ovoide, constituído por vários núcleos, os quais podem ser divididos em cinco grupos de acordo com sua localização: O tálamo é composto por várias massas de substância cinzenta, constituído por núcleos que podem ser divididos em cinco grupos de acordo com sua localização: anterior, posterior, lateral, mediano e medial."
+    },
+    {
+      "id": "neuro-obj-286",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, as funções mais conhecidas do tálamo relacionam-se com:",
+      "options": {
+        "a": "A sensibilidade, a motricidade, o comportamento emocional e a ativação do córtex",
+        "b": "Exclusivamente a produção hormonal",
+        "c": "Exclusivamente a digestão",
+        "d": "Exclusivamente a excreção urinária",
+        "e": "Exclusivamente o batimento cardíaco"
+      },
+      "correct": "a",
+      "explanation": "O agregado de núcleos do tálamo possui conexões muito diferentes, com funções relacionadas principalmente à sensibilidade, à motricidade, ao comportamento emocional e à ativação do córtex.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as funções mais conhecidas do tálamo relacionam-se com: O agregado de núcleos do tálamo possui conexões muito diferentes, com funções relacionadas principalmente à sensibilidade, à motricidade, ao comportamento emocional e à ativação do córtex."
+    },
+    {
+      "id": "neuro-obj-287",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o hipotálamo, área relativamente pequena localizada logo abaixo do tálamo, é considerado o mais importante centro de controle central de qual sistema?",
+      "options": {
+        "a": "Sistema Nervoso Autônomo",
+        "b": "Sistema digestório",
+        "c": "Sistema imunológico",
+        "d": "Sistema esquelético",
+        "e": "Sistema tegumentar"
+      },
+      "correct": "a",
+      "explanation": "O hipotálamo é considerado o mais importante centro de controle central do Sistema Nervoso Autônomo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o hipotálamo, área relativamente pequena localizada logo abaixo do tálamo, é considerado o mais importante centro de controle central de qual sistema? O hipotálamo é considerado o mais importante centro de controle central do Sistema Nervoso Autônomo."
+    },
+    {
+      "id": "neuro-obj-288",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o hipotálamo atua na regulação de diversas funções, EXCETO:",
+      "options": {
+        "a": "A percepção consciente do tato discriminativo",
+        "b": "A temperatura corporal",
+        "c": "O sono e a vigília",
+        "d": "A ingestão de alimentos e de água",
+        "e": "Os ritmos circadianos"
+      },
+      "correct": "a",
+      "explanation": "O hipotálamo atua na regulação da temperatura corporal, do comportamento emocional, do sono e da vigília, da ingestão de alimentos e de água, do controle da diurese, do sistema endócrino e dos ritmos circadianos — mas não da propriocepção consciente/tato discriminativo, que é função dos fascículos grácil e cuneiforme da medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o hipotálamo atua na regulação de diversas funções, EXCETO: O hipotálamo atua na regulação da temperatura corporal, do comportamento emocional, do sono e da vigília, da ingestão de alimentos e de água, do controle da diurese, do sistema endócrino e dos ritmos circadianos — mas não da propriocepção consciente/tato discriminativo, que é função dos fascículos grácil e cuneiforme da medula."
+    },
+    {
+      "id": "neuro-obj-289",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o epitálamo contém formações endócrinas e não endócrinas. Seu componente endócrino mais importante e evidente é a:",
+      "options": {
+        "a": "Glândula pineal",
+        "b": "Glândula hipófise",
+        "c": "Glândula tireoide",
+        "d": "Glândula adrenal",
+        "e": "Glândula paratireoide"
+      },
+      "correct": "a",
+      "explanation": "Em relação às formações endócrinas do epitálamo, seu componente mais importante e mais evidente é a glândula pineal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o epitálamo contém formações endócrinas e não endócrinas. Seu componente endócrino mais importante e evidente é a: Em relação às formações endócrinas do epitálamo, seu componente mais importante e mais evidente é a glândula pineal."
+    },
+    {
+      "id": "neuro-obj-290",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, a glândula pineal é capaz de produzir um hormônio chamado:",
+      "options": {
+        "a": "Melatonina",
+        "b": "Dopamina",
+        "c": "Serotonina exclusivamente",
+        "d": "Insulina",
+        "e": "Cortisol"
+      },
+      "correct": "a",
+      "explanation": "A glândula pineal é capaz de produzir um hormônio chamado melatonina, com importante regulação dos ritmos circadianos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a glândula pineal é capaz de produzir um hormônio chamado: A glândula pineal é capaz de produzir um hormônio chamado melatonina, com importante regulação dos ritmos circadianos."
+    },
+    {
+      "id": "neuro-obj-291",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, a melatonina, produzida pela glândula pineal, apresenta ação antigonadotrópica, ou seja, exerce ação inibidora sobre as gônadas. Alterações nessa estrutura podem causar:",
+      "options": {
+        "a": "Puberdade precoce",
+        "b": "Puberdade tardia exclusivamente",
+        "c": "Infertilidade permanente",
+        "d": "Menopausa precoce exclusivamente",
+        "e": "Ausência completa de menstruação"
+      },
+      "correct": "a",
+      "explanation": "A melatonina apresenta ação antigonadotrópica (inibidora sobre as gônadas); alterações na glândula pineal podem causar puberdade precoce.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a melatonina, produzida pela glândula pineal, apresenta ação antigonadotrópica, ou seja, exerce ação inibidora sobre as gônadas. Alterações nessa estrutura podem causar: A melatonina apresenta ação antigonadotrópica (inibidora sobre as gônadas); alterações na glândula pineal podem causar puberdade precoce."
+    },
+    {
+      "id": "neuro-obj-292",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o componente não endócrino do epitálamo pertence a um sistema relacionado à regulação do comportamento emocional, denominado:",
+      "options": {
+        "a": "Sistema límbico",
+        "b": "Sistema piramidal",
+        "c": "Sistema extrapiramidal",
+        "d": "Sistema ventricular",
+        "e": "Sistema reticular ativador"
+      },
+      "correct": "a",
+      "explanation": "O componente não endócrino do epitálamo pertence ao sistema límbico, relacionado com a regulação do comportamento emocional.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o componente não endócrino do epitálamo pertence a um sistema relacionado à regulação do comportamento emocional, denominado: O componente não endócrino do epitálamo pertence ao sistema límbico, relacionado com a regulação do comportamento emocional."
+    },
+    {
+      "id": "neuro-obj-293",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o subtálamo compreende a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo — o que justifica seu nome. Seu elemento mais importante é o(a):",
+      "options": {
+        "a": "Núcleo subtalâmico",
+        "b": "Glândula pineal",
+        "c": "Corpo amigdaloide",
+        "d": "Núcleo Basal de Meynert",
+        "e": "Claustrum"
+      },
+      "correct": "a",
+      "explanation": "O elemento mais importante do subtálamo é o núcleo subtalâmico, considerado um núcleo motor, com íntima relação com os circuitos que controlam o controle motor, particularmente com os núcleos da base.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o subtálamo compreende a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo — o que justifica seu nome. Seu elemento mais importante é o(a): O elemento mais importante do subtálamo é o núcleo subtalâmico, considerado um núcleo motor, com íntima relação com os circuitos que controlam o controle motor, particularmente com os núcleos da base."
+    },
+    {
+      "id": "neuro-obj-294",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, lesões no núcleo subtalâmico cursam com distúrbios de movimento involuntários, caracterizados por movimentos anormais nas extremidades, denominados:",
+      "options": {
+        "a": "Hipercinesias",
+        "b": "Afasias",
+        "c": "Agnosias",
+        "d": "Apraxias",
+        "e": "Amaurose"
+      },
+      "correct": "a",
+      "explanation": "Lesões no núcleo subtalâmico cursam com distúrbios de movimento involuntários, como as hipercinesias, caracterizadas por movimentos anormais nas extremidades.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, lesões no núcleo subtalâmico cursam com distúrbios de movimento involuntários, caracterizados por movimentos anormais nas extremidades, denominados: Lesões no núcleo subtalâmico cursam com distúrbios de movimento involuntários, como as hipercinesias, caracterizadas por movimentos anormais nas extremidades."
+    },
+    {
+      "id": "neuro-obj-295",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, os núcleos da base são uma coleção de núcleos compostos por substância cinzenta, localizados profundamente à substância branca dos hemisférios cerebrais. Entre eles, o núcleo com função ainda pouco conhecida é o:",
+      "options": {
+        "a": "Claustrum",
+        "b": "Núcleo Caudado",
+        "c": "Putâmen",
+        "d": "Globo Pálido",
+        "e": "Núcleo Accumbens"
+      },
+      "correct": "a",
+      "explanation": "Entre os núcleos da base, o claustrum é descrito como tendo função ainda pouco conhecida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os núcleos da base são uma coleção de núcleos compostos por substância cinzenta, localizados profundamente à substância branca dos hemisférios cerebrais. Entre eles, o núcleo com função ainda pouco conhecida é o: Entre os núcleos da base, o claustrum é descrito como tendo função ainda pouco conhecida."
+    },
+    {
+      "id": "neuro-obj-296",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o Núcleo Caudado, o Putâmen e o Globo Pálido, núcleos da base relacionados a funções de planejamento motor, formam, em conjunto, uma estrutura conhecida como:",
+      "options": {
+        "a": "Corpo estriado",
+        "b": "Corpo caloso",
+        "c": "Corpo amigdaloide",
+        "d": "Corpo mamilar",
+        "e": "Corpo caudado exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A tríade motora composta pelos núcleos caudado, putâmen e globo pálido é conhecida como corpo estriado, estrutura de grande importância para o movimento humano.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Núcleo Caudado, o Putâmen e o Globo Pálido, núcleos da base relacionados a funções de planejamento motor, formam, em conjunto, uma estrutura conhecida como: A tríade motora composta pelos núcleos caudado, putâmen e globo pálido é conhecida como corpo estriado, estrutura de grande importância para o movimento humano."
+    },
+    {
+      "id": "neuro-obj-297",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o Núcleo Accumbens, um dos núcleos da base, está ligado ao:",
+      "options": {
+        "a": "Sistema límbico",
+        "b": "Sistema piramidal exclusivamente",
+        "c": "Sistema respiratório",
+        "d": "Sistema urinário",
+        "e": "Sistema digestivo"
+      },
+      "correct": "a",
+      "explanation": "O Núcleo Accumbens é um núcleo da base ligado ao sistema límbico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Núcleo Accumbens, um dos núcleos da base, está ligado ao: O Núcleo Accumbens é um núcleo da base ligado ao sistema límbico."
+    },
+    {
+      "id": "neuro-obj-298",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o corpo amigdaloide, um dos núcleos da base, é descrito como:",
+      "options": {
+        "a": "Importante componente do sistema límbico",
+        "b": "Um núcleo puramente motor sem relação com emoções",
+        "c": "Parte do cerebelo",
+        "d": "Parte da medula espinhal",
+        "e": "Um núcleo exclusivamente sensitivo relacionado à audição"
+      },
+      "correct": "a",
+      "explanation": "O corpo amigdaloide é descrito no material como importante componente do sistema límbico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o corpo amigdaloide, um dos núcleos da base, é descrito como: O corpo amigdaloide é descrito no material como importante componente do sistema límbico."
+    },
+    {
+      "id": "neuro-obj-299",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o Núcleo Basal de Meynert é constituído de neurônios colinérgicos responsáveis pela ativação de áreas relacionadas a:",
+      "options": {
+        "a": "Cognição e memória",
+        "b": "Digestão e absorção de nutrientes",
+        "c": "Regulação da pressão arterial exclusivamente",
+        "d": "Produção de líquor",
+        "e": "Contração da bexiga"
+      },
+      "correct": "a",
+      "explanation": "O Núcleo Basal de Meynert é constituído de neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o Núcleo Basal de Meynert é constituído de neurônios colinérgicos responsáveis pela ativação de áreas relacionadas a: O Núcleo Basal de Meynert é constituído de neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória."
+    },
+    {
+      "id": "neuro-obj-300",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o corpo estriado (caudado, putâmen e globo pálido) estabelece amplas conexões com o córtex cerebral e o cerebelo, fazendo parte de um circuito básico com função importante no(a):",
+      "options": {
+        "a": "Planejamento motor",
+        "b": "Processamento exclusivo da linguagem",
+        "c": "Regulação exclusiva da temperatura corporal",
+        "d": "Digestão",
+        "e": "Produção de anticorpos"
+      },
+      "correct": "a",
+      "explanation": "O corpo estriado estabelece amplas conexões com o córtex cerebral e o cerebelo, fazendo parte de um circuito básico com função importante no planejamento motor, modulado por circuitos como a substância negra e o núcleo subtalâmico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o corpo estriado (caudado, putâmen e globo pálido) estabelece amplas conexões com o córtex cerebral e o cerebelo, fazendo parte de um circuito básico com função importante no(a): O corpo estriado estabelece amplas conexões com o córtex cerebral e o cerebelo, fazendo parte de um circuito básico com função importante no planejamento motor, modulado por circuitos como a substância negra e o núcleo subtalâmico."
+    },
+    {
+      "id": "neuro-obj-301",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, na doença de Parkinson, a degeneração dos neurônios produtores de dopamina na substância negra do mesencéfalo prejudica o circuito básico que envolve, principalmente:",
+      "options": {
+        "a": "O corpo estriado",
+        "b": "O corpo caloso",
+        "c": "O cerebelo isoladamente",
+        "d": "O hipocampo",
+        "e": "A área de Wernicke"
+      },
+      "correct": "a",
+      "explanation": "A dopamina é o neurotransmissor fundamental para a modulação do circuito básico que envolve o corpo estriado; sem ela, na doença de Parkinson, a coordenação motora fica prejudicada, com tremores e dificuldades de movimento.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na doença de Parkinson, a degeneração dos neurônios produtores de dopamina na substância negra do mesencéfalo prejudica o circuito básico que envolve, principalmente: A dopamina é o neurotransmissor fundamental para a modulação do circuito básico que envolve o corpo estriado; sem ela, na doença de Parkinson, a coordenação motora fica prejudicada, com tremores e dificuldades de movimento."
+    },
+    {
+      "id": "neuro-obj-302",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, entre as principais funções dos núcleos da base, NÃO se inclui:",
+      "options": {
+        "a": "A produção de líquor",
+        "b": "O controle motor",
+        "c": "A seleção e automatização de rotinas",
+        "d": "O controle da motivação",
+        "e": "A atenção e o afeto"
+      },
+      "correct": "a",
+      "explanation": "As funções dos núcleos da base citadas no material são: controle motor, seleção e automatização de rotinas, controle de funções executivas, motricidade automática, preparo e regulação do tônus, controle da motivação e atenção e afeto — não incluindo a produção de líquor, que é função dos plexos coroides.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, entre as principais funções dos núcleos da base, NÃO se inclui: As funções dos núcleos da base citadas no material são: controle motor, seleção e automatização de rotinas, controle de funções executivas, motricidade automática, preparo e regulação do tônus, controle da motivação e atenção e afeto — não incluindo a produção de líquor, que é função dos plexos coroides."
+    },
+    {
+      "id": "neuro-obj-303",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, entre as funções dos núcleos da base, estão o controle motor, a seleção e automatização de rotinas, o controle de funções executivas, a motricidade automática, o preparo e a regulação do tônus, além do controle da motivação e:",
+      "options": {
+        "a": "Atenção e afeto",
+        "b": "Digestão e absorção",
+        "c": "Filtração renal",
+        "d": "Contração cardíaca",
+        "e": "Produção de anticorpos"
+      },
+      "correct": "a",
+      "explanation": "As principais funções dos núcleos da base incluem controle motor, seleção e automatização de rotinas, controle de funções executivas, motricidade automática, preparo e regulação do tônus, controle da motivação, além de atenção e afeto.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre as funções dos núcleos da base, estão o controle motor, a seleção e automatização de rotinas, o controle de funções executivas, a motricidade automática, o preparo e a regulação do tônus, além do controle da motivação e: As principais funções dos núcleos da base incluem controle motor, seleção e automatização de rotinas, controle de funções executivas, motricidade automática, preparo e regulação do tônus, controle da motivação, além de atenção e afeto."
+    },
+    {
+      "id": "neuro-obj-304",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, um paciente com lesão no epitálamo, especificamente na glândula pineal, na infância, apresentando desenvolvimento sexual precoce, muito provavelmente tem comprometida a ação:",
+      "options": {
+        "a": "Antigonadotrópica da melatonina",
+        "b": "Antidiurética do hormônio ADH",
+        "c": "Reguladora da insulina no pâncreas",
+        "d": "Estimulante da tireoide",
+        "e": "Reguladora do cortisol adrenal"
+      },
+      "correct": "a",
+      "explanation": "A melatonina, produzida pela glândula pineal, exerce ação antigonadotrópica (inibidora sobre as gônadas); alterações nessa estrutura podem causar puberdade precoce, justamente pela perda dessa inibição.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, um paciente com lesão no epitálamo, especificamente na glândula pineal, na infância, apresentando desenvolvimento sexual precoce, muito provavelmente tem comprometida a ação: A melatonina, produzida pela glândula pineal, exerce ação antigonadotrópica (inibidora sobre as gônadas); alterações nessa estrutura podem causar puberdade precoce, justamente pela perda dessa inibição."
+    },
+    {
+      "id": "neuro-obj-305",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, a localização do hipotálamo em relação ao tálamo é:",
+      "options": {
+        "a": "Logo abaixo do tálamo",
+        "b": "Acima do tálamo",
+        "c": "Lateralmente ao tálamo, fora do diencéfalo",
+        "d": "Posteriormente ao cerebelo",
+        "e": "Dentro do bulbo"
+      },
+      "correct": "a",
+      "explanation": "Logo abaixo do tálamo, encontra-se o hipotálamo, área relativamente pequena, mas com importantes funções relacionadas ao controle da atividade visceral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a localização do hipotálamo em relação ao tálamo é: Logo abaixo do tálamo, encontra-se o hipotálamo, área relativamente pequena, mas com importantes funções relacionadas ao controle da atividade visceral."
+    },
+    {
+      "id": "neuro-obj-306",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, a localização do subtálamo em relação ao tálamo é:",
+      "options": {
+        "a": "Logo abaixo do tálamo, na zona de transição entre o diencéfalo e o mesencéfalo",
+        "b": "Acima do tálamo, próximo ao corpo caloso",
+        "c": "Dentro do próprio tálamo, sem individualização",
+        "d": "No lobo occipital",
+        "e": "No cerebelo"
+      },
+      "correct": "a",
+      "explanation": "O subtálamo compreende a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo, por isso recebe esse nome.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a localização do subtálamo em relação ao tálamo é: O subtálamo compreende a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo, por isso recebe esse nome."
+    },
+    {
+      "id": "neuro-obj-307",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o núcleo subtalâmico é considerado um núcleo:",
+      "options": {
+        "a": "Motor",
+        "b": "Exclusivamente sensitivo",
+        "c": "Exclusivamente endócrino",
+        "d": "Exclusivamente relacionado à audição",
+        "e": "Exclusivamente relacionado à visão"
+      },
+      "correct": "a",
+      "explanation": "O núcleo subtalâmico é considerado um núcleo motor, com íntima relação com os circuitos que controlam o controle motor, particularmente com os núcleos da base.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o núcleo subtalâmico é considerado um núcleo: O núcleo subtalâmico é considerado um núcleo motor, com íntima relação com os circuitos que controlam o controle motor, particularmente com os núcleos da base."
+    },
+    {
+      "id": "neuro-obj-308",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, um dos usos clínicos do conhecimento sobre o núcleo subtalâmico é a realização de registro cerebral por microeletrodos nessa estrutura, utilizado especificamente para a cirurgia relacionada à:",
+      "options": {
+        "a": "Doença de Parkinson",
+        "b": "Epilepsia exclusivamente",
+        "c": "Meningite",
+        "d": "Hidrocefalia",
+        "e": "Enxaqueca crônica"
+      },
+      "correct": "a",
+      "explanation": "O material cita o registro cerebral no núcleo subtalâmico como conceito utilizado em cirurgia da doença de Parkinson.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, um dos usos clínicos do conhecimento sobre o núcleo subtalâmico é a realização de registro cerebral por microeletrodos nessa estrutura, utilizado especificamente para a cirurgia relacionada à: O material cita o registro cerebral no núcleo subtalâmico como conceito utilizado em cirurgia da doença de Parkinson."
+    },
+    {
+      "id": "neuro-obj-309",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, a área do córtex cerebral relacionada à cognição e à memória recebe ativação de neurônios colinérgicos originados em qual núcleo da base?",
+      "options": {
+        "a": "Núcleo Basal de Meynert",
+        "b": "Claustrum",
+        "c": "Núcleo Accumbens",
+        "d": "Globo Pálido",
+        "e": "Corpo amigdaloide"
+      },
+      "correct": "a",
+      "explanation": "O Núcleo Basal de Meynert é constituído por neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a área do córtex cerebral relacionada à cognição e à memória recebe ativação de neurônios colinérgicos originados em qual núcleo da base? O Núcleo Basal de Meynert é constituído por neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória."
+    },
+    {
+      "id": "neuro-obj-310",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, os núcleos da base localizam-se:",
+      "options": {
+        "a": "Profundamente à substância branca dos hemisférios cerebrais",
+        "b": "Na superfície do córtex cerebral, formando os giros",
+        "c": "Exclusivamente no cerebelo",
+        "d": "Exclusivamente na medula espinhal",
+        "e": "Exclusivamente no bulbo"
+      },
+      "correct": "a",
+      "explanation": "Os núcleos da base são uma coleção de núcleos compostos por substância cinzenta, localizados profundamente à substância branca dos hemisférios cerebrais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os núcleos da base localizam-se: Os núcleos da base são uma coleção de núcleos compostos por substância cinzenta, localizados profundamente à substância branca dos hemisférios cerebrais."
+    },
+    {
+      "id": "neuro-obj-311",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Considerando as estruturas do diencéfalo, a associação correta entre estrutura e função principal é:",
+      "options": {
+        "a": "Hipotálamo — controle central do Sistema Nervoso Autônomo; epitálamo (glândula pineal) — produção de melatonina",
+        "b": "Tálamo — produção exclusiva de líquor; hipotálamo — planejamento motor",
+        "c": "Subtálamo — produção de melatonina; epitálamo — núcleo motor",
+        "d": "Hipotálamo — planejamento motor exclusivo; tálamo — produção hormonal exclusiva",
+        "e": "Epitálamo — controle central do SNA; hipotálamo — produção de melatonina"
+      },
+      "correct": "a",
+      "explanation": "O hipotálamo é o mais importante centro de controle central do Sistema Nervoso Autônomo, enquanto o epitálamo, por meio da glândula pineal, produz melatonina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22-23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Considerando as estruturas do diencéfalo, a associação correta entre estrutura e função principal é: O hipotálamo é o mais importante centro de controle central do Sistema Nervoso Autônomo, enquanto o epitálamo, por meio da glândula pineal, produz melatonina."
+    },
+    {
+      "id": "neuro-obj-312",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o tálamo é fundamentalmente constituído por vários núcleos numerosos, organizados em cinco grupos segundo sua localização, o que reflete:",
+      "options": {
+        "a": "A diversidade de conexões e, portanto, de funções do tálamo, relacionadas à sensibilidade, à motricidade, ao comportamento emocional e à ativação cortical",
+        "b": "A ausência completa de qualquer função conhecida do tálamo",
+        "c": "Uma estrutura homogênea, sem qualquer subdivisão funcional",
+        "d": "Uma estrutura exclusivamente relacionada à digestão",
+        "e": "Uma estrutura exclusivamente presente em répteis"
+      },
+      "correct": "a",
+      "explanation": "O tálamo é constituído por vários núcleos bastante numerosos, divididos em cinco grupos (anterior, posterior, lateral, mediano e medial), o que reflete conexões e funções diversas, relacionadas à sensibilidade, à motricidade, ao comportamento emocional e à ativação do córtex.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21-22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o tálamo é fundamentalmente constituído por vários núcleos numerosos, organizados em cinco grupos segundo sua localização, o que reflete: O tálamo é constituído por vários núcleos bastante numerosos, divididos em cinco grupos (anterior, posterior, lateral, mediano e medial), o que reflete conexões e funções diversas, relacionadas à sensibilidade, à motricidade, ao comportamento emocional e à ativação do córtex."
+    },
+    {
+      "id": "neuro-obj-313",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Segundo o material, o diencéfalo, apesar de ocupar posição central e importante no cérebro, é quase totalmente encoberto, em uma visão externa do encéfalo, por:",
+      "options": {
+        "a": "Telencéfalo (hemisférios cerebrais)",
+        "b": "Cerebelo",
+        "c": "Medula espinhal",
+        "d": "Bulbo",
+        "e": "Meninges exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, o qual permanece em posição ímpar e mediana, internamente ao cérebro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o diencéfalo, apesar de ocupar posição central e importante no cérebro, é quase totalmente encoberto, em uma visão externa do encéfalo, por: O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, o qual permanece em posição ímpar e mediana, internamente ao cérebro."
     }
   ],
   "discursive": [
@@ -8763,6 +10149,822 @@
       },
       "subject": "Cerebelo",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-076",
+      "topic": "Divisões e localização do tronco encefálico",
+      "question": "Descreva as três divisões do tronco encefálico e a localização de cada uma.",
+      "modelAnswer": "O tronco encefálico interpõe-se entre a medula e o diencéfalo, dividindo-se em bulbo, ponte e mesencéfalo. O bulbo é a porção mais caudal, com limite inferior a nível do forame magno do osso occipital e limite superior no sulco bulbo-pontino (margem inferior da ponte). A ponte está interposta entre o bulbo e o mesencéfalo. O mesencéfalo, a porção mais cranial, está localizado entre a ponte e o cérebro (diencéfalo).",
+      "keyPoints": [
+        {
+          "text": "Três divisões: bulbo, ponte e mesencéfalo",
+          "weight": 0.3,
+          "keywords": [
+            "bulbo",
+            "ponte",
+            "mesencéfalo"
+          ]
+        },
+        {
+          "text": "Bulbo: mais caudal, forame magno até sulco bulbo-pontino",
+          "weight": 0.35,
+          "keywords": [
+            "bulbo",
+            "forame magno",
+            "sulco bulbo-pontino"
+          ]
+        },
+        {
+          "text": "Mesencéfalo: mais cranial, entre ponte e cérebro/diencéfalo",
+          "weight": 0.35,
+          "keywords": [
+            "mesencéfalo",
+            "diencéfalo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16-17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-077",
+      "topic": "Formação reticular",
+      "question": "O que é a formação reticular do tronco encefálico e quais são suas principais funções?",
+      "modelAnswer": "A formação reticular é uma matriz complexa e heterogênea de neurônios presente no tronco encefálico. Sua principal função é a ativação do córtex cerebral, ou seja, o controle do nível de consciência (sono e vigília). Além disso, participa da percepção da dor e da regulação dos sistemas cardiovascular e respiratório.",
+      "keyPoints": [
+        {
+          "text": "Matriz complexa e heterogênea de neurônios no tronco encefálico",
+          "weight": 0.3,
+          "keywords": [
+            "matriz",
+            "neurônios",
+            "tronco encefálico"
+          ]
+        },
+        {
+          "text": "Função principal: ativação do córtex, controle de sono e vigília",
+          "weight": 0.4,
+          "keywords": [
+            "ativação do córtex",
+            "sono",
+            "vigília"
+          ]
+        },
+        {
+          "text": "Também: percepção da dor e regulação cardiovascular/respiratória",
+          "weight": 0.3,
+          "keywords": [
+            "dor",
+            "cardiovascular",
+            "respiratório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-078",
+      "topic": "Bulbo: estruturas e funções vitais",
+      "question": "Descreva as principais estruturas e funções do bulbo, segundo o material.",
+      "modelAnswer": "O bulbo é a porção mais caudal do tronco encefálico, com limite caudal a nível do forame magno do osso occipital e limite cranial no sulco bulbo-pontino. Em sua parte caudal, ocorre a decussação das pirâmides bulbares, onde a maior parte das fibras do trato córtico-espinhal cruza o plano mediano. Além disso, o bulbo abriga os centros respiratório, vasomotor e do vômito, essenciais para a regulação de funções vitais do organismo.",
+      "keyPoints": [
+        {
+          "text": "Limites: forame magno até sulco bulbo-pontino",
+          "weight": 0.3,
+          "keywords": [
+            "forame magno",
+            "sulco bulbo-pontino"
+          ]
+        },
+        {
+          "text": "Decussação das pirâmides bulbares (trato córtico-espinhal)",
+          "weight": 0.35,
+          "keywords": [
+            "decussação",
+            "pirâmides bulbares"
+          ]
+        },
+        {
+          "text": "Centros respiratório, vasomotor e do vômito",
+          "weight": 0.35,
+          "keywords": [
+            "respiratório",
+            "vasomotor",
+            "vômito"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-079",
+      "topic": "Ponte e o pedúnculo cerebelar médio",
+      "question": "Explique a importância da ponte para a comunicação entre o encéfalo e o cerebelo.",
+      "modelAnswer": "A ponte está interposta entre o bulbo e o mesencéfalo, apresentando numerosos feixes de fibras que convergem de cada lado para formar um volumoso feixe conhecido como pedúnculo cerebelar médio. Essa estrutura representa a maior 'porta de entrada' para o cerebelo, sendo responsável pela condução de importantes informações vindas da medula espinhal, apresentando íntima relação com o movimento humano.",
+      "keyPoints": [
+        {
+          "text": "Ponte: interposta entre bulbo e mesencéfalo",
+          "weight": 0.25,
+          "keywords": [
+            "ponte",
+            "bulbo",
+            "mesencéfalo"
+          ]
+        },
+        {
+          "text": "Pedúnculo cerebelar médio: maior porta de entrada para o cerebelo",
+          "weight": 0.45,
+          "keywords": [
+            "pedúnculo cerebelar médio",
+            "porta de entrada"
+          ]
+        },
+        {
+          "text": "Conduz informações da medula, relação com o movimento",
+          "weight": 0.3,
+          "keywords": [
+            "medula espinhal",
+            "movimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-080",
+      "topic": "Mesencéfalo: estrutura interna",
+      "question": "Descreva a organização interna do mesencéfalo, incluindo o aqueduto cerebral, o teto, os pedúnculos cerebrais e a substância negra.",
+      "modelAnswer": "O mesencéfalo está localizado entre a ponte e o cérebro. Por ele passa um estreito canal, o aqueduto cerebral, que une o III ao IV ventrículo. A parte situada dorsalmente ao aqueduto é o teto do mesencéfalo; ventralmente, há dois pedúnculos cerebrais, que se dividem em tegmento e base do pedúnculo. Em uma secção transversal, observa-se o tegmento separado da base por uma região escura, a substância negra, formada por neurônios que contêm melanina e produzem dopamina — neurotransmissor cuja degeneração está associada à doença de Parkinson.",
+      "keyPoints": [
+        {
+          "text": "Aqueduto cerebral: une III ao IV ventrículo",
+          "weight": 0.25,
+          "keywords": [
+            "aqueduto cerebral",
+            "III",
+            "IV ventrículo"
+          ]
+        },
+        {
+          "text": "Teto (dorsal) e pedúnculos cerebrais (ventral), divididos em tegmento e base",
+          "weight": 0.35,
+          "keywords": [
+            "teto",
+            "pedúnculos cerebrais",
+            "tegmento",
+            "base"
+          ]
+        },
+        {
+          "text": "Substância negra: neurônios com melanina, produtores de dopamina",
+          "weight": 0.4,
+          "keywords": [
+            "substância negra",
+            "melanina",
+            "dopamina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-081",
+      "topic": "Substância negra e doença de Parkinson",
+      "question": "Explique a relação entre a substância negra do mesencéfalo, a dopamina e a doença de Parkinson.",
+      "modelAnswer": "A substância negra, localizada no mesencéfalo entre o tegmento e a base do pedúnculo cerebral, é formada por neurônios que contêm melanina, o que lhe confere coloração escura. Nessa região, habitam neurônios produtores de dopamina, importante neurotransmissor. Em indivíduos com doença de Parkinson, esses neurônios se degeneram, levando a uma série de alterações relacionadas principalmente a distúrbios de movimento, já que a dopamina é fundamental para a modulação do circuito motor que envolve o corpo estriado (núcleos da base).",
+      "keyPoints": [
+        {
+          "text": "Substância negra: neurônios com melanina, produz dopamina",
+          "weight": 0.35,
+          "keywords": [
+            "substância negra",
+            "melanina",
+            "dopamina"
+          ]
+        },
+        {
+          "text": "Parkinson: degeneração desses neurônios",
+          "weight": 0.35,
+          "keywords": [
+            "Parkinson",
+            "degeneração"
+          ]
+        },
+        {
+          "text": "Consequência: distúrbios de movimento, via corpo estriado",
+          "weight": 0.3,
+          "keywords": [
+            "distúrbios de movimento",
+            "corpo estriado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-082",
+      "topic": "Nervos encefálicos e tronco encefálico",
+      "question": "Qual é a relação entre os nervos encefálicos (cranianos) e o tronco encefálico?",
+      "modelAnswer": "O tronco encefálico é constituído, em grande parte, por núcleos que recebem ou enviam fibras que compõem os nervos encefálicos. Esses nervos são compostos por doze pares, sendo que dez deles fazem conexão diretamente no tronco encefálico, o que evidencia a importância dessa estrutura para funções sensoriais, motoras e autonômicas relacionadas à cabeça e ao pescoço.",
+      "keyPoints": [
+        {
+          "text": "Tronco encefálico contém núcleos dos nervos encefálicos",
+          "weight": 0.4,
+          "keywords": [
+            "núcleos",
+            "nervos encefálicos"
+          ]
+        },
+        {
+          "text": "12 pares de nervos encefálicos, 10 conectados ao tronco",
+          "weight": 0.6,
+          "keywords": [
+            "doze pares",
+            "dez"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-083",
+      "topic": "Formação reticular e funções vitais",
+      "question": "Além do controle do nível de consciência, quais outras funções vitais a formação reticular do tronco encefálico regula, segundo o material?",
+      "modelAnswer": "Além de sua principal função de ativação do córtex cerebral (controle do sono e da vigília), a formação reticular também participa da percepção da dor e da regulação dos sistemas cardiovascular e respiratório, evidenciando seu papel central na manutenção de funções vitais e no estado de alerta do organismo.",
+      "keyPoints": [
+        {
+          "text": "Percepção da dor",
+          "weight": 0.35,
+          "keywords": [
+            "percepção da dor"
+          ]
+        },
+        {
+          "text": "Regulação do sistema cardiovascular",
+          "weight": 0.35,
+          "keywords": [
+            "sistema cardiovascular"
+          ]
+        },
+        {
+          "text": "Regulação do sistema respiratório",
+          "weight": 0.3,
+          "keywords": [
+            "sistema respiratório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-084",
+      "topic": "Bulbo e vias motoras",
+      "question": "Explique o que ocorre com o trato córtico-espinhal ao nível do bulbo.",
+      "modelAnswer": "Em sua parte caudal, o bulbo é o local onde ocorre a decussação das pirâmides bulbares: a maior parte das fibras do trato córtico-espinhal (75 a 90%) cruza o plano mediano nesse ponto, formando o trato córtico-espinhal lateral, que descerá pelo funículo lateral da medula até os neurônios motores do lado oposto ao de origem. Esse cruzamento explica por que a motricidade voluntária é cruzada.",
+      "keyPoints": [
+        {
+          "text": "Decussação das pirâmides bulbares ocorre no bulbo",
+          "weight": 0.4,
+          "keywords": [
+            "decussação",
+            "pirâmides bulbares",
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Cruzamento da maior parte das fibras do trato córtico-espinhal",
+          "weight": 0.35,
+          "keywords": [
+            "cruzamento",
+            "córtico-espinhal"
+          ]
+        },
+        {
+          "text": "Explica a motricidade cruzada",
+          "weight": 0.25,
+          "keywords": [
+            "motricidade cruzada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-085",
+      "topic": "Visão integrada do tronco encefálico",
+      "question": "Sintetize por que o tronco encefálico é considerado uma estrutura vital, integrando as informações sobre suas três divisões e a formação reticular.",
+      "modelAnswer": "O tronco encefálico é considerado vital porque, além de servir de via de passagem obrigatória entre a medula espinhal e as estruturas encefálicas superiores, ele concentra funções essenciais à sobrevivência: no bulbo, estão os centros respiratório, vasomotor e do vômito, além da decussação das pirâmides; na ponte, encontra-se o pedúnculo cerebelar médio, fundamental para a coordenação motora via cerebelo; no mesencéfalo, está a substância negra, produtora de dopamina, essencial ao controle motor. Perpassando toda essa estrutura, a formação reticular ativa o córtex cerebral, controlando o nível de consciência e regulando os sistemas cardiovascular e respiratório — de modo que uma lesão extensa no tronco encefálico pode ser incompatível com a vida.",
+      "keyPoints": [
+        {
+          "text": "Via de passagem entre medula e estruturas superiores",
+          "weight": 0.2,
+          "keywords": [
+            "via de passagem"
+          ]
+        },
+        {
+          "text": "Bulbo: centros vitais e decussação das pirâmides",
+          "weight": 0.25,
+          "keywords": [
+            "bulbo",
+            "centros vitais"
+          ]
+        },
+        {
+          "text": "Ponte: pedúnculo cerebelar médio; mesencéfalo: substância negra",
+          "weight": 0.25,
+          "keywords": [
+            "pedúnculo cerebelar médio",
+            "substância negra"
+          ]
+        },
+        {
+          "text": "Formação reticular: consciência e regulação cardiorrespiratória",
+          "weight": 0.3,
+          "keywords": [
+            "formação reticular",
+            "consciência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16-17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-086",
+      "topic": "Componentes do diencéfalo",
+      "question": "Quais são as quatro estruturas que compõem o diencéfalo, e qual sua relação com o telencéfalo?",
+      "modelAnswer": "O diencéfalo compreende quatro estruturas: epitálamo, tálamo, subtálamo e hipotálamo. Juntamente com o telencéfalo, forma o cérebro, ocupando cerca de 80% da cavidade craniana. O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, que permanece em posição ímpar e mediana, internamente ao cérebro.",
+      "keyPoints": [
+        {
+          "text": "Quatro estruturas: epitálamo, tálamo, subtálamo, hipotálamo",
+          "weight": 0.5,
+          "keywords": [
+            "epitálamo",
+            "tálamo",
+            "subtálamo",
+            "hipotálamo"
+          ]
+        },
+        {
+          "text": "Diencéfalo + telencéfalo = cérebro (80% da cavidade craniana)",
+          "weight": 0.3,
+          "keywords": [
+            "telencéfalo",
+            "80%"
+          ]
+        },
+        {
+          "text": "Diencéfalo em posição ímpar/mediana, encoberto pelo telencéfalo",
+          "weight": 0.2,
+          "keywords": [
+            "ímpar",
+            "mediana",
+            "encoberto"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-087",
+      "topic": "Funções do tálamo",
+      "question": "Descreva a organização e as principais funções do tálamo.",
+      "modelAnswer": "O tálamo é composto por duas massas volumosas de substância cinzenta, de forma ovoide, constituído por vários núcleos numerosos, divididos em cinco grupos de acordo com sua localização: anterior, posterior, lateral, mediano e medial. Esse agregado de núcleos possui conexões muito diferentes entre si, o que indica funções diversas, sendo as mais conhecidas relacionadas à sensibilidade, à motricidade, ao comportamento emocional e à ativação do córtex.",
+      "keyPoints": [
+        {
+          "text": "Duas massas de substância cinzenta, cinco grupos de núcleos",
+          "weight": 0.4,
+          "keywords": [
+            "substância cinzenta",
+            "cinco grupos"
+          ]
+        },
+        {
+          "text": "Grupos: anterior, posterior, lateral, mediano, medial",
+          "weight": 0.2,
+          "keywords": [
+            "anterior",
+            "posterior",
+            "lateral"
+          ]
+        },
+        {
+          "text": "Funções: sensibilidade, motricidade, emoção, ativação cortical",
+          "weight": 0.4,
+          "keywords": [
+            "sensibilidade",
+            "motricidade",
+            "emocional",
+            "ativação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21-22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-088",
+      "topic": "Funções do hipotálamo",
+      "question": "Explique por que o hipotálamo é considerado o principal centro de controle do Sistema Nervoso Autônomo, citando ao menos quatro funções que ele regula.",
+      "modelAnswer": "O hipotálamo, embora seja uma área relativamente pequena, é considerado o mais importante centro de controle central do Sistema Nervoso Autônomo, pois integra e coordena diversas funções viscerais essenciais. Entre as funções que regula, estão: a temperatura corporal, o comportamento emocional, o sono e a vigília, a ingestão de alimentos e de água, o controle da diurese, o sistema endócrino e a regulação dos ritmos circadianos.",
+      "keyPoints": [
+        {
+          "text": "Principal centro de controle central do SNA",
+          "weight": 0.3,
+          "keywords": [
+            "Sistema Nervoso Autônomo",
+            "controle central"
+          ]
+        },
+        {
+          "text": "Cita ao menos 4 funções: temperatura, sono/vigília, ingestão de alimentos/água, diurese, endócrino, ritmos circadianos",
+          "weight": 0.7,
+          "keywords": [
+            "temperatura",
+            "sono",
+            "ingestão",
+            "diurese",
+            "endócrino",
+            "circadianos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-089",
+      "topic": "Epitálamo e glândula pineal",
+      "question": "Descreva os componentes endócrino e não endócrino do epitálamo, e a função da glândula pineal.",
+      "modelAnswer": "O epitálamo contém formações endócrinas e não endócrinas. O componente endócrino mais importante é a glândula pineal, capaz de produzir o hormônio melatonina, com importante papel na regulação dos ritmos circadianos e ação antigonadotrópica (inibidora sobre as gônadas) — alterações nessa estrutura podem causar puberdade precoce. O componente não endócrino do epitálamo pertence ao sistema límbico, relacionado à regulação do comportamento emocional.",
+      "keyPoints": [
+        {
+          "text": "Componente endócrino: glândula pineal, produz melatonina",
+          "weight": 0.4,
+          "keywords": [
+            "glândula pineal",
+            "melatonina"
+          ]
+        },
+        {
+          "text": "Melatonina: ritmos circadianos, ação antigonadotrópica, puberdade precoce",
+          "weight": 0.35,
+          "keywords": [
+            "antigonadotrópica",
+            "puberdade precoce"
+          ]
+        },
+        {
+          "text": "Componente não endócrino: sistema límbico, comportamento emocional",
+          "weight": 0.25,
+          "keywords": [
+            "sistema límbico",
+            "comportamento emocional"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-090",
+      "topic": "Subtálamo e núcleo subtalâmico",
+      "question": "O que é o subtálamo e qual é a importância clínica do núcleo subtalâmico?",
+      "modelAnswer": "O subtálamo compreende a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo. Seu elemento mais importante é o núcleo subtalâmico, considerado um núcleo motor com íntima relação com os circuitos que controlam o movimento, particularmente com os núcleos da base. Lesões nessa estrutura cursam com distúrbios de movimento involuntários, como as hipercinesias (movimentos anormais nas extremidades). Clinicamente, o núcleo subtalâmico é alvo de registro por microeletrodos em cirurgias para tratamento da doença de Parkinson.",
+      "keyPoints": [
+        {
+          "text": "Subtálamo: zona de transição diencéfalo-mesencéfalo, abaixo do tálamo",
+          "weight": 0.3,
+          "keywords": [
+            "zona de transição",
+            "abaixo do tálamo"
+          ]
+        },
+        {
+          "text": "Núcleo subtalâmico: núcleo motor, relação com núcleos da base",
+          "weight": 0.35,
+          "keywords": [
+            "núcleo subtalâmico",
+            "núcleo motor"
+          ]
+        },
+        {
+          "text": "Lesão gera hipercinesias; uso clínico em cirurgia de Parkinson",
+          "weight": 0.35,
+          "keywords": [
+            "hipercinesias",
+            "Parkinson"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-091",
+      "topic": "Núcleos da base: identificação e funções",
+      "question": "Cite os principais núcleos da base descritos no material e a função associada a cada um.",
+      "modelAnswer": "Os núcleos da base incluem: o claustrum, com função ainda pouco conhecida; o núcleo caudado, o putâmen e o globo pálido, relacionados a funções de planejamento motor (formando, juntos, o corpo estriado); o núcleo accumbens, ligado ao sistema límbico; o corpo amigdaloide, importante componente do sistema límbico; e o núcleo basal de Meynert, constituído por neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória.",
+      "keyPoints": [
+        {
+          "text": "Claustrum: função pouco conhecida",
+          "weight": 0.15,
+          "keywords": [
+            "claustrum"
+          ]
+        },
+        {
+          "text": "Caudado, putâmen, globo pálido: planejamento motor (corpo estriado)",
+          "weight": 0.3,
+          "keywords": [
+            "caudado",
+            "putâmen",
+            "globo pálido",
+            "corpo estriado"
+          ]
+        },
+        {
+          "text": "Accumbens e corpo amigdaloide: sistema límbico",
+          "weight": 0.25,
+          "keywords": [
+            "accumbens",
+            "amigdaloide",
+            "límbico"
+          ]
+        },
+        {
+          "text": "Núcleo Basal de Meynert: cognição e memória",
+          "weight": 0.3,
+          "keywords": [
+            "Meynert",
+            "cognição",
+            "memória"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24-25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-092",
+      "topic": "Corpo estriado e doença de Parkinson",
+      "question": "Explique o que é o corpo estriado, suas conexões e como sua função é comprometida na doença de Parkinson.",
+      "modelAnswer": "O corpo estriado é a tríade motora formada pelos núcleos caudado, putâmen e globo pálido. Essa estrutura tem grande importância no movimento humano, estabelecendo amplas conexões com o córtex cerebral e o cerebelo, fazendo parte de um circuito básico com função importante no planejamento motor, modulado por circuitos subsidiários como a substância negra e o núcleo subtalâmico. Na doença de Parkinson, a degeneração dos neurônios da substância negra reduz a produção de dopamina, neurotransmissor fundamental para a modulação desse circuito; sem dopamina suficiente, o indivíduo apresenta coordenação motora prejudicada, com tremores e dificuldades para se movimentar.",
+      "keyPoints": [
+        {
+          "text": "Corpo estriado: caudado + putâmen + globo pálido",
+          "weight": 0.3,
+          "keywords": [
+            "corpo estriado",
+            "caudado",
+            "putâmen",
+            "globo pálido"
+          ]
+        },
+        {
+          "text": "Conexões com córtex e cerebelo, planejamento motor",
+          "weight": 0.3,
+          "keywords": [
+            "córtex",
+            "cerebelo",
+            "planejamento motor"
+          ]
+        },
+        {
+          "text": "Parkinson: falta de dopamina prejudica o circuito, causa tremores",
+          "weight": 0.4,
+          "keywords": [
+            "dopamina",
+            "Parkinson",
+            "tremores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-093",
+      "topic": "Diencéfalo: visão geral funcional",
+      "question": "Explique como as quatro estruturas do diencéfalo (epitálamo, tálamo, subtálamo, hipotálamo) se complementam em suas funções.",
+      "modelAnswer": "As quatro estruturas do diencéfalo desempenham papéis complementares e integrados. O tálamo atua como uma grande estação retransmissora de informações sensitivas, motoras e emocionais a caminho do córtex. O hipotálamo controla a atividade visceral e é o principal centro do Sistema Nervoso Autônomo, regulando temperatura, sono, ingestão de alimentos e ritmos circadianos. O epitálamo, por meio da glândula pineal, regula os ritmos circadianos via melatonina e conecta-se ao sistema límbico, influenciando o comportamento emocional. O subtálamo, por fim, integra circuitos motores junto aos núcleos da base, sendo essencial para o controle fino do movimento. Juntas, essas estruturas conectam informações sensoriais, viscerais, emocionais e motoras entre a periferia e o córtex cerebral.",
+      "keyPoints": [
+        {
+          "text": "Tálamo: retransmissão sensitiva/motora/emocional ao córtex",
+          "weight": 0.25,
+          "keywords": [
+            "tálamo",
+            "retransmissão"
+          ]
+        },
+        {
+          "text": "Hipotálamo: controle visceral e do SNA",
+          "weight": 0.25,
+          "keywords": [
+            "hipotálamo",
+            "SNA",
+            "visceral"
+          ]
+        },
+        {
+          "text": "Epitálamo: melatonina, ritmos circadianos, sistema límbico",
+          "weight": 0.25,
+          "keywords": [
+            "epitálamo",
+            "melatonina",
+            "límbico"
+          ]
+        },
+        {
+          "text": "Subtálamo: circuito motor com núcleos da base",
+          "weight": 0.25,
+          "keywords": [
+            "subtálamo",
+            "núcleos da base"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21-23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-094",
+      "topic": "Melatonina e ritmos circadianos",
+      "question": "O que é a melatonina, onde é produzida e quais suas duas principais ações descritas no material?",
+      "modelAnswer": "A melatonina é um hormônio produzido pela glândula pineal, componente endócrino do epitálamo. Suas duas principais ações descritas no material são: a regulação dos ritmos circadianos (o ciclo de sono e vigília ao longo do dia) e a ação antigonadotrópica, ou seja, inibidora sobre as gônadas — de modo que alterações na glândula pineal podem causar puberdade precoce.",
+      "keyPoints": [
+        {
+          "text": "Produzida pela glândula pineal (epitálamo)",
+          "weight": 0.3,
+          "keywords": [
+            "glândula pineal",
+            "epitálamo"
+          ]
+        },
+        {
+          "text": "Regulação dos ritmos circadianos",
+          "weight": 0.35,
+          "keywords": [
+            "ritmos circadianos"
+          ]
+        },
+        {
+          "text": "Ação antigonadotrópica; alteração causa puberdade precoce",
+          "weight": 0.35,
+          "keywords": [
+            "antigonadotrópica",
+            "puberdade precoce"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-095",
+      "topic": "Funções gerais dos núcleos da base",
+      "question": "Cite as principais funções gerais atribuídas aos núcleos da base, segundo o material.",
+      "modelAnswer": "Segundo o material, as principais funções dos núcleos da base incluem: controle motor, seleção e automatização de rotinas, controle de funções executivas, motricidade automática, preparo e regulação do tônus muscular, controle da motivação, e atenção e afeto.",
+      "keyPoints": [
+        {
+          "text": "Controle motor e motricidade automática",
+          "weight": 0.35,
+          "keywords": [
+            "controle motor",
+            "motricidade automática"
+          ]
+        },
+        {
+          "text": "Seleção/automatização de rotinas e funções executivas",
+          "weight": 0.35,
+          "keywords": [
+            "automatização",
+            "funções executivas"
+          ]
+        },
+        {
+          "text": "Regulação do tônus, motivação, atenção e afeto",
+          "weight": 0.3,
+          "keywords": [
+            "tônus",
+            "motivação",
+            "atenção",
+            "afeto"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -11306,6 +13508,664 @@
       "subject": "Cerebelo",
       "difficulty": "medio",
       "miniLesson": "De onde o cerebelo recebe as informações que utiliza para corrigir a atividade motora? O cerebelo recebe informações de três origens principais: o sistema vestibular, a medula espinhal e o córtex cerebral, processando-as por meio do córtex cerebelar e de seus núcleos para corrigir e ajustar as atividades motoras."
+    },
+    {
+      "id": "neuro-oral-076",
+      "topic": "Tronco encefálico",
+      "question": "Quais são as três divisões do tronco encefálico?",
+      "modelAnswer": "O tronco encefálico divide-se em bulbo, ponte e mesencéfalo.",
+      "keyPoints": [
+        {
+          "text": "Bulbo",
+          "weight": 0.34,
+          "keywords": [
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Ponte",
+          "weight": 0.33,
+          "keywords": [
+            "ponte"
+          ]
+        },
+        {
+          "text": "Mesencéfalo",
+          "weight": 0.33,
+          "keywords": [
+            "mesencéfalo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três divisões do tronco encefálico? O tronco encefálico divide-se em bulbo, ponte e mesencéfalo."
+    },
+    {
+      "id": "neuro-oral-077",
+      "topic": "Tronco encefálico",
+      "question": "Qual é a principal função da formação reticular do tronco encefálico?",
+      "modelAnswer": "A principal função da formação reticular é a ativação do córtex cerebral, controlando o nível de consciência, ou seja, o sono e a vigília.",
+      "keyPoints": [
+        {
+          "text": "Ativação do córtex cerebral",
+          "weight": 0.5,
+          "keywords": [
+            "ativação do córtex"
+          ]
+        },
+        {
+          "text": "Controle do sono e da vigília (nível de consciência)",
+          "weight": 0.5,
+          "keywords": [
+            "sono",
+            "vigília",
+            "consciência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a principal função da formação reticular do tronco encefálico? A principal função da formação reticular é a ativação do córtex cerebral, controlando o nível de consciência, ou seja, o sono e a vigília."
+    },
+    {
+      "id": "neuro-oral-078",
+      "topic": "Tronco encefálico",
+      "question": "Quais centros vitais estão localizados no bulbo?",
+      "modelAnswer": "No bulbo estão localizados os centros respiratório, vasomotor e do vômito.",
+      "keyPoints": [
+        {
+          "text": "Centro respiratório",
+          "weight": 0.34,
+          "keywords": [
+            "respiratório"
+          ]
+        },
+        {
+          "text": "Centro vasomotor",
+          "weight": 0.33,
+          "keywords": [
+            "vasomotor"
+          ]
+        },
+        {
+          "text": "Centro do vômito",
+          "weight": 0.33,
+          "keywords": [
+            "vômito"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Quais centros vitais estão localizados no bulbo? No bulbo estão localizados os centros respiratório, vasomotor e do vômito."
+    },
+    {
+      "id": "neuro-oral-079",
+      "topic": "Tronco encefálico",
+      "question": "O que é a decussação das pirâmides bulbares?",
+      "modelAnswer": "É o local, na parte caudal do bulbo, onde a maior parte das fibras do trato córtico-espinhal cruza o plano mediano, formando o trato córtico-espinhal lateral, que explica por que a motricidade voluntária é cruzada.",
+      "keyPoints": [
+        {
+          "text": "Cruzamento das fibras do trato córtico-espinhal no bulbo",
+          "weight": 0.6,
+          "keywords": [
+            "cruzamento",
+            "córtico-espinhal",
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Explica a motricidade cruzada",
+          "weight": 0.4,
+          "keywords": [
+            "motricidade cruzada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "O que é a decussação das pirâmides bulbares? É o local, na parte caudal do bulbo, onde a maior parte das fibras do trato córtico-espinhal cruza o plano mediano, formando o trato córtico-espinhal lateral, que explica por que a motricidade voluntária é cruzada."
+    },
+    {
+      "id": "neuro-oral-080",
+      "topic": "Tronco encefálico",
+      "question": "O que é o pedúnculo cerebelar médio e onde ele se forma?",
+      "modelAnswer": "O pedúnculo cerebelar médio é um volumoso feixe de fibras formado na ponte, sendo a maior 'porta de entrada' de informações para o cerebelo, conduzindo informações da medula espinhal relacionadas ao movimento.",
+      "keyPoints": [
+        {
+          "text": "Formado na ponte",
+          "weight": 0.3,
+          "keywords": [
+            "ponte"
+          ]
+        },
+        {
+          "text": "Maior porta de entrada para o cerebelo",
+          "weight": 0.4,
+          "keywords": [
+            "porta de entrada",
+            "cerebelo"
+          ]
+        },
+        {
+          "text": "Conduz informações da medula, relação com movimento",
+          "weight": 0.3,
+          "keywords": [
+            "medula",
+            "movimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "O que é o pedúnculo cerebelar médio e onde ele se forma? O pedúnculo cerebelar médio é um volumoso feixe de fibras formado na ponte, sendo a maior 'porta de entrada' de informações para o cerebelo, conduzindo informações da medula espinhal relacionadas ao movimento."
+    },
+    {
+      "id": "neuro-oral-081",
+      "topic": "Tronco encefálico",
+      "question": "O que é o aqueduto cerebral e onde está localizado?",
+      "modelAnswer": "O aqueduto cerebral é um estreito canal que passa pelo mesencéfalo, unindo o III ao IV ventrículo.",
+      "keyPoints": [
+        {
+          "text": "Localizado no mesencéfalo",
+          "weight": 0.5,
+          "keywords": [
+            "mesencéfalo"
+          ]
+        },
+        {
+          "text": "Une o III ao IV ventrículo",
+          "weight": 0.5,
+          "keywords": [
+            "III",
+            "IV ventrículo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "O que é o aqueduto cerebral e onde está localizado? O aqueduto cerebral é um estreito canal que passa pelo mesencéfalo, unindo o III ao IV ventrículo."
+    },
+    {
+      "id": "neuro-oral-082",
+      "topic": "Tronco encefálico",
+      "question": "O que é a substância negra e qual neurotransmissor ela produz?",
+      "modelAnswer": "A substância negra é uma região escura do mesencéfalo, que separa o tegmento da base do pedúnculo cerebral, formada por neurônios que contêm melanina. Ela produz dopamina, importante neurotransmissor.",
+      "keyPoints": [
+        {
+          "text": "Região do mesencéfalo, neurônios com melanina",
+          "weight": 0.5,
+          "keywords": [
+            "mesencéfalo",
+            "melanina"
+          ]
+        },
+        {
+          "text": "Produz dopamina",
+          "weight": 0.5,
+          "keywords": [
+            "dopamina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "O que é a substância negra e qual neurotransmissor ela produz? A substância negra é uma região escura do mesencéfalo, que separa o tegmento da base do pedúnculo cerebral, formada por neurônios que contêm melanina. Ela produz dopamina, importante neurotransmissor."
+    },
+    {
+      "id": "neuro-oral-083",
+      "topic": "Tronco encefálico",
+      "question": "Qual é a relação entre a substância negra e a doença de Parkinson?",
+      "modelAnswer": "Na doença de Parkinson, os neurônios produtores de dopamina da substância negra se degeneram, levando a alterações principalmente relacionadas a distúrbios de movimento.",
+      "keyPoints": [
+        {
+          "text": "Degeneração dos neurônios da substância negra",
+          "weight": 0.5,
+          "keywords": [
+            "degeneração",
+            "substância negra"
+          ]
+        },
+        {
+          "text": "Causa distúrbios de movimento",
+          "weight": 0.5,
+          "keywords": [
+            "distúrbios de movimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a relação entre a substância negra e a doença de Parkinson? Na doença de Parkinson, os neurônios produtores de dopamina da substância negra se degeneram, levando a alterações principalmente relacionadas a distúrbios de movimento."
+    },
+    {
+      "id": "neuro-oral-084",
+      "topic": "Tronco encefálico",
+      "question": "Quantos pares de nervos encefálicos existem e quantos se conectam ao tronco encefálico?",
+      "modelAnswer": "Existem doze pares de nervos encefálicos, sendo que dez deles fazem conexão no tronco encefálico.",
+      "keyPoints": [
+        {
+          "text": "Doze pares no total",
+          "weight": 0.5,
+          "keywords": [
+            "doze pares"
+          ]
+        },
+        {
+          "text": "Dez conectam-se ao tronco encefálico",
+          "weight": 0.5,
+          "keywords": [
+            "dez",
+            "tronco encefálico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "16"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "medio",
+      "miniLesson": "Quantos pares de nervos encefálicos existem e quantos se conectam ao tronco encefálico? Existem doze pares de nervos encefálicos, sendo que dez deles fazem conexão no tronco encefálico."
+    },
+    {
+      "id": "neuro-oral-085",
+      "topic": "Tronco encefálico",
+      "question": "Onde está localizado o mesencéfalo?",
+      "modelAnswer": "O mesencéfalo está localizado entre a ponte e o cérebro (diencéfalo).",
+      "keyPoints": [
+        {
+          "text": "Entre a ponte e o cérebro/diencéfalo",
+          "weight": 1,
+          "keywords": [
+            "ponte",
+            "cérebro",
+            "diencéfalo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "17"
+      },
+      "subject": "Tronco encefálico",
+      "difficulty": "baixo",
+      "miniLesson": "Onde está localizado o mesencéfalo? O mesencéfalo está localizado entre a ponte e o cérebro (diencéfalo)."
+    },
+    {
+      "id": "neuro-oral-086",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Quais são as quatro estruturas que compõem o diencéfalo?",
+      "modelAnswer": "O diencéfalo compreende o epitálamo, o tálamo, o subtálamo e o hipotálamo.",
+      "keyPoints": [
+        {
+          "text": "Epitálamo e tálamo",
+          "weight": 0.5,
+          "keywords": [
+            "epitálamo",
+            "tálamo"
+          ]
+        },
+        {
+          "text": "Subtálamo e hipotálamo",
+          "weight": 0.5,
+          "keywords": [
+            "subtálamo",
+            "hipotálamo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "21"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as quatro estruturas que compõem o diencéfalo? O diencéfalo compreende o epitálamo, o tálamo, o subtálamo e o hipotálamo."
+    },
+    {
+      "id": "neuro-oral-087",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Quais são as principais funções do tálamo?",
+      "modelAnswer": "As funções mais conhecidas do tálamo relacionam-se com a sensibilidade, a motricidade, o comportamento emocional e a ativação do córtex.",
+      "keyPoints": [
+        {
+          "text": "Sensibilidade e motricidade",
+          "weight": 0.5,
+          "keywords": [
+            "sensibilidade",
+            "motricidade"
+          ]
+        },
+        {
+          "text": "Comportamento emocional e ativação cortical",
+          "weight": 0.5,
+          "keywords": [
+            "comportamento emocional",
+            "ativação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as principais funções do tálamo? As funções mais conhecidas do tálamo relacionam-se com a sensibilidade, a motricidade, o comportamento emocional e a ativação do córtex."
+    },
+    {
+      "id": "neuro-oral-088",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Por que o hipotálamo é considerado o mais importante centro de controle central do Sistema Nervoso Autônomo?",
+      "modelAnswer": "Porque atua na regulação de diversas funções viscerais essenciais, como temperatura corporal, comportamento emocional, sono e vigília, ingestão de alimentos e água, diurese, sistema endócrino e ritmos circadianos.",
+      "keyPoints": [
+        {
+          "text": "Regula temperatura, sono/vigília",
+          "weight": 0.5,
+          "keywords": [
+            "temperatura",
+            "sono",
+            "vigília"
+          ]
+        },
+        {
+          "text": "Regula ingestão de alimentos/água, diurese, sistema endócrino",
+          "weight": 0.5,
+          "keywords": [
+            "ingestão",
+            "diurese",
+            "endócrino"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "22"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Por que o hipotálamo é considerado o mais importante centro de controle central do Sistema Nervoso Autônomo? Porque atua na regulação de diversas funções viscerais essenciais, como temperatura corporal, comportamento emocional, sono e vigília, ingestão de alimentos e água, diurese, sistema endócrino e ritmos circadianos."
+    },
+    {
+      "id": "neuro-oral-089",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "O que é a glândula pineal e o que ela produz?",
+      "modelAnswer": "A glândula pineal é o componente endócrino mais importante do epitálamo, capaz de produzir o hormônio melatonina, relacionado à regulação dos ritmos circadianos e com ação antigonadotrópica.",
+      "keyPoints": [
+        {
+          "text": "Componente do epitálamo",
+          "weight": 0.3,
+          "keywords": [
+            "epitálamo"
+          ]
+        },
+        {
+          "text": "Produz melatonina",
+          "weight": 0.4,
+          "keywords": [
+            "melatonina"
+          ]
+        },
+        {
+          "text": "Regula ritmos circadianos, ação antigonadotrópica",
+          "weight": 0.3,
+          "keywords": [
+            "ritmos circadianos",
+            "antigonadotrópica"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "O que é a glândula pineal e o que ela produz? A glândula pineal é o componente endócrino mais importante do epitálamo, capaz de produzir o hormônio melatonina, relacionado à regulação dos ritmos circadianos e com ação antigonadotrópica."
+    },
+    {
+      "id": "neuro-oral-090",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "O que é o subtálamo e qual é seu elemento mais importante?",
+      "modelAnswer": "O subtálamo é a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo. Seu elemento mais importante é o núcleo subtalâmico, um núcleo motor relacionado aos circuitos dos núcleos da base.",
+      "keyPoints": [
+        {
+          "text": "Zona de transição entre diencéfalo e mesencéfalo",
+          "weight": 0.5,
+          "keywords": [
+            "zona de transição"
+          ]
+        },
+        {
+          "text": "Núcleo subtalâmico, núcleo motor",
+          "weight": 0.5,
+          "keywords": [
+            "núcleo subtalâmico",
+            "núcleo motor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "23"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "O que é o subtálamo e qual é seu elemento mais importante? O subtálamo é a zona de transição entre o diencéfalo e o mesencéfalo, localizado logo abaixo do tálamo. Seu elemento mais importante é o núcleo subtalâmico, um núcleo motor relacionado aos circuitos dos núcleos da base."
+    },
+    {
+      "id": "neuro-oral-091",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Quais núcleos compõem o corpo estriado, e qual sua principal função?",
+      "modelAnswer": "O corpo estriado é formado pelos núcleos caudado, putâmen e globo pálido, sendo importante no planejamento motor e no movimento humano.",
+      "keyPoints": [
+        {
+          "text": "Caudado, putâmen e globo pálido",
+          "weight": 0.6,
+          "keywords": [
+            "caudado",
+            "putâmen",
+            "globo pálido"
+          ]
+        },
+        {
+          "text": "Função: planejamento motor",
+          "weight": 0.4,
+          "keywords": [
+            "planejamento motor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Quais núcleos compõem o corpo estriado, e qual sua principal função? O corpo estriado é formado pelos núcleos caudado, putâmen e globo pálido, sendo importante no planejamento motor e no movimento humano."
+    },
+    {
+      "id": "neuro-oral-092",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Qual é a função do Núcleo Basal de Meynert?",
+      "modelAnswer": "O Núcleo Basal de Meynert é constituído por neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória.",
+      "keyPoints": [
+        {
+          "text": "Neurônios colinérgicos",
+          "weight": 0.4,
+          "keywords": [
+            "colinérgicos"
+          ]
+        },
+        {
+          "text": "Ativa áreas de cognição e memória",
+          "weight": 0.6,
+          "keywords": [
+            "cognição",
+            "memória"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a função do Núcleo Basal de Meynert? O Núcleo Basal de Meynert é constituído por neurônios colinérgicos responsáveis pela ativação de áreas relacionadas à cognição e à memória."
+    },
+    {
+      "id": "neuro-oral-093",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Quais núcleos da base estão ligados ao sistema límbico?",
+      "modelAnswer": "O núcleo accumbens e o corpo amigdaloide estão ligados ao sistema límbico.",
+      "keyPoints": [
+        {
+          "text": "Núcleo accumbens",
+          "weight": 0.5,
+          "keywords": [
+            "accumbens"
+          ]
+        },
+        {
+          "text": "Corpo amigdaloide",
+          "weight": 0.5,
+          "keywords": [
+            "amigdaloide"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "24"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Quais núcleos da base estão ligados ao sistema límbico? O núcleo accumbens e o corpo amigdaloide estão ligados ao sistema límbico."
+    },
+    {
+      "id": "neuro-oral-094",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "O que acontece com o corpo estriado na doença de Parkinson?",
+      "modelAnswer": "Na doença de Parkinson, a degeneração dos neurônios da substância negra reduz a produção de dopamina, neurotransmissor fundamental para a modulação do circuito do corpo estriado, prejudicando a coordenação motora e causando tremores.",
+      "keyPoints": [
+        {
+          "text": "Falta de dopamina prejudica o circuito do corpo estriado",
+          "weight": 0.6,
+          "keywords": [
+            "dopamina",
+            "corpo estriado"
+          ]
+        },
+        {
+          "text": "Resultado: coordenação motora prejudicada, tremores",
+          "weight": 0.4,
+          "keywords": [
+            "coordenação",
+            "tremores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "dificil",
+      "miniLesson": "O que acontece com o corpo estriado na doença de Parkinson? Na doença de Parkinson, a degeneração dos neurônios da substância negra reduz a produção de dopamina, neurotransmissor fundamental para a modulação do circuito do corpo estriado, prejudicando a coordenação motora e causando tremores."
+    },
+    {
+      "id": "neuro-oral-095",
+      "topic": "Diencéfalo e núcleos da base",
+      "question": "Cite três funções gerais atribuídas aos núcleos da base.",
+      "modelAnswer": "Entre as funções dos núcleos da base estão o controle motor, a seleção e automatização de rotinas, o controle de funções executivas, a motricidade automática, a regulação do tônus, o controle da motivação e a atenção e o afeto.",
+      "keyPoints": [
+        {
+          "text": "Controle motor",
+          "weight": 0.34,
+          "keywords": [
+            "controle motor"
+          ]
+        },
+        {
+          "text": "Automatização de rotinas/funções executivas",
+          "weight": 0.33,
+          "keywords": [
+            "automatização",
+            "executivas"
+          ]
+        },
+        {
+          "text": "Motivação, atenção e afeto (ou tônus)",
+          "weight": 0.33,
+          "keywords": [
+            "motivação",
+            "atenção",
+            "afeto"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "25"
+      },
+      "subject": "Diencéfalo e núcleos da base",
+      "difficulty": "medio",
+      "miniLesson": "Cite três funções gerais atribuídas aos núcleos da base. Entre as funções dos núcleos da base estão o controle motor, a seleção e automatização de rotinas, o controle de funções executivas, a motricidade automática, a regulação do tônus, o controle da motivação e a atenção e o afeto."
     }
   ]
 }
