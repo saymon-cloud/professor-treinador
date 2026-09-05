@@ -6829,6 +6829,1392 @@
       "subject": "Diencéfalo e núcleos da base",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o diencéfalo, apesar de ocupar posição central e importante no cérebro, é quase totalmente encoberto, em uma visão externa do encéfalo, por: O telencéfalo constitui os hemisférios cerebrais, encobrindo quase totalmente o diencéfalo, o qual permanece em posição ímpar e mediana, internamente ao cérebro."
+    },
+    {
+      "id": "neuro-obj-314",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o Sistema Nervoso Central é envolvido por três membranas conjuntivas, denominadas meninges. São elas, da mais externa para a mais interna:",
+      "options": {
+        "a": "Dura-máter, aracnoide e pia-máter",
+        "b": "Pia-máter, aracnoide e dura-máter",
+        "c": "Aracnoide, dura-máter e pia-máter",
+        "d": "Dura-máter, pia-máter e aracnoide",
+        "e": "Periósteo, dura-máter e aracnoide"
+      },
+      "correct": "a",
+      "explanation": "As meninges são divididas em três: dura-máter, a membrana localizada mais externamente e mais espessa, aracnoide e pia-máter, localizadas mais internamente.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Central é envolvido por três membranas conjuntivas, denominadas meninges. São elas, da mais externa para a mais interna: As meninges são divididas em três: dura-máter, a membrana localizada mais externamente e mais espessa, aracnoide e pia-máter, localizadas mais internamente."
+    },
+    {
+      "id": "neuro-obj-315",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o conhecimento da estrutura e disposição das meninges é clinicamente importante porque essas membranas são frequentemente acometidas por:",
+      "options": {
+        "a": "Infecções, meningites e alguns tipos de tumores",
+        "b": "Exclusivamente fraturas ósseas",
+        "c": "Exclusivamente doenças metabólicas hereditárias",
+        "d": "Exclusivamente doenças autoimunes da pele",
+        "e": "Exclusivamente distúrbios do sono"
+      },
+      "correct": "a",
+      "explanation": "É importante o conhecimento da estrutura e da disposição das meninges, por serem, frequentemente, acometidas por processos patológicos, como infecções, meningites e alguns tipos de tumores, além do papel de proteção dos centros nervosos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o conhecimento da estrutura e disposição das meninges é clinicamente importante porque essas membranas são frequentemente acometidas por: É importante o conhecimento da estrutura e da disposição das meninges, por serem, frequentemente, acometidas por processos patológicos, como infecções, meningites e alguns tipos de tumores, além do papel de proteção dos centros nervosos."
+    },
+    {
+      "id": "neuro-obj-316",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, existem três espaços ou cavidades entre as meninges. São eles:",
+      "options": {
+        "a": "Espaço epidural, espaço subdural e espaço subaracnóideo",
+        "b": "Espaço intracraniano, espaço extracraniano e espaço medular",
+        "c": "Espaço anterior, espaço posterior e espaço lateral",
+        "d": "Espaço ventricular, espaço cisternal e espaço radicular",
+        "e": "Espaço supratentorial, espaço infratentorial e espaço medular"
+      },
+      "correct": "a",
+      "explanation": "Há três espaços ou cavidades entre as meninges: espaço epidural, espaço subdural e espaço subaracnóideo, os quais são interpostos por líquor e evitam o colabamento dessas membranas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem três espaços ou cavidades entre as meninges. São eles: Há três espaços ou cavidades entre as meninges: espaço epidural, espaço subdural e espaço subaracnóideo, os quais são interpostos por líquor e evitam o colabamento dessas membranas."
+    },
+    {
+      "id": "neuro-obj-317",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o espaço epidural está localizado:",
+      "options": {
+        "a": "Entre a dura-máter e a calota craniana, e entre a dura-máter e o periósteo do canal vertebral a nível da medula",
+        "b": "Entre a dura-máter e a aracnoide",
+        "c": "Entre a aracnoide e a pia-máter",
+        "d": "Dentro do próprio tecido nervoso",
+        "e": "Entre o osso occipital e o cerebelo"
+      },
+      "correct": "a",
+      "explanation": "O espaço epidural situa-se entre a dura-máter e a calota craniana e entre a dura-máter e o periósteo do canal vertebral a nível da medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o espaço epidural está localizado: O espaço epidural situa-se entre a dura-máter e a calota craniana e entre a dura-máter e o periósteo do canal vertebral a nível da medula."
+    },
+    {
+      "id": "neuro-obj-318",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o espaço subdural está localizado:",
+      "options": {
+        "a": "Entre a dura-máter e a aracnoide",
+        "b": "Entre a dura-máter e a calota craniana",
+        "c": "Entre a aracnoide e a pia-máter",
+        "d": "Entre a pia-máter e o tecido nervoso",
+        "e": "Entre o crânio e o couro cabeludo"
+      },
+      "correct": "a",
+      "explanation": "O espaço subdural localiza-se entre a dura-máter e a aracnoide.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o espaço subdural está localizado: O espaço subdural localiza-se entre a dura-máter e a aracnoide."
+    },
+    {
+      "id": "neuro-obj-319",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a dura-máter, meninge mais superficial, espessa e resistente, é formada por tecido conjuntivo rico em fibras colágenas, contendo vasos e nervos. Sua principal vascularização se dá pela:",
+      "options": {
+        "a": "Artéria meníngea média",
+        "b": "Artéria cerebral anterior",
+        "c": "Artéria basilar",
+        "d": "Artéria vertebral",
+        "e": "Artéria comunicante posterior"
+      },
+      "correct": "a",
+      "explanation": "A dura-máter é vascularizada principalmente pela artéria meníngea média, fato que faz com que, após lesões traumáticas nessa região, possa ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a dura-máter, meninge mais superficial, espessa e resistente, é formada por tecido conjuntivo rico em fibras colágenas, contendo vasos e nervos. Sua principal vascularização se dá pela: A dura-máter é vascularizada principalmente pela artéria meníngea média, fato que faz com que, após lesões traumáticas nessa região, possa ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais."
+    },
+    {
+      "id": "neuro-obj-320",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, após lesões traumáticas na região da artéria meníngea média, pode ocorrer acúmulo de sangue com formação de hematomas que:",
+      "options": {
+        "a": "Se expandem rapidamente, podendo ser fatais",
+        "b": "São sempre completamente assintomáticos",
+        "c": "Se resolvem espontaneamente em minutos, sem qualquer risco",
+        "d": "Ocorrem exclusivamente no espaço subaracnóideo",
+        "e": "Não têm qualquer relação com a dura-máter"
+      },
+      "correct": "a",
+      "explanation": "A vascularização da dura-máter pela artéria meníngea média faz com que, após lesões traumáticas, possa ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, após lesões traumáticas na região da artéria meníngea média, pode ocorrer acúmulo de sangue com formação de hematomas que: A vascularização da dura-máter pela artéria meníngea média faz com que, após lesões traumáticas, possa ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais."
+    },
+    {
+      "id": "neuro-obj-321",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, alguns folhetos da dura-máter se destacam internamente para formar pregas que dividem a cavidade craniana em compartimentos. O septo em forma de foice que separa os hemisférios cerebrais é denominado:",
+      "options": {
+        "a": "Foice do cérebro",
+        "b": "Tenda do cerebelo",
+        "c": "Foice do cerebelo",
+        "d": "Diafragma da sela",
+        "e": "Trabécula aracnoide"
+      },
+      "correct": "a",
+      "explanation": "A foice do cérebro é um septo em forma de foice que separa os hemisférios cerebrais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, alguns folhetos da dura-máter se destacam internamente para formar pregas que dividem a cavidade craniana em compartimentos. O septo em forma de foice que separa os hemisférios cerebrais é denominado: A foice do cérebro é um septo em forma de foice que separa os hemisférios cerebrais."
+    },
+    {
+      "id": "neuro-obj-322",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o septo transversal da dura-máter localizado entre os lobos occipitais e o cerebelo é denominado:",
+      "options": {
+        "a": "Tenda do cerebelo",
+        "b": "Foice do cérebro",
+        "c": "Foice do cerebelo",
+        "d": "Diafragma da sela",
+        "e": "Cisterna magna"
+      },
+      "correct": "a",
+      "explanation": "A tenda do cerebelo é um septo transversal localizado entre os lobos occipitais e o cerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o septo transversal da dura-máter localizado entre os lobos occipitais e o cerebelo é denominado: A tenda do cerebelo é um septo transversal localizado entre os lobos occipitais e o cerebelo."
+    },
+    {
+      "id": "neuro-obj-323",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a pequena lâmina horizontal da dura-máter que fecha a sela túrcica, fosseta localizada na face superior do osso esfenoide onde está alojada a hipófise, é denominada:",
+      "options": {
+        "a": "Diafragma da sela",
+        "b": "Foice do cérebro",
+        "c": "Tenda do cerebelo",
+        "d": "Foice do cerebelo",
+        "e": "Granulação aracnoide"
+      },
+      "correct": "a",
+      "explanation": "O diafragma da sela é uma pequena lâmina horizontal que fecha a sela túrcica, pequena fosseta localizada na face superior do osso esfenoide, onde está alojada a hipófise.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a pequena lâmina horizontal da dura-máter que fecha a sela túrcica, fosseta localizada na face superior do osso esfenoide onde está alojada a hipófise, é denominada: O diafragma da sela é uma pequena lâmina horizontal que fecha a sela túrcica, pequena fosseta localizada na face superior do osso esfenoide, onde está alojada a hipófise."
+    },
+    {
+      "id": "neuro-obj-324",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a aracnoide é uma membrana com característica serosa, delgada e transparente, justaposta à dura-máter, que apresenta delicadas trabéculas ligadas à membrana mais interna, a pia-máter. Essas trabéculas são conhecidas como:",
+      "options": {
+        "a": "Trabéculas aracnoides",
+        "b": "Granulações aracnoides",
+        "c": "Filamentos radiculares",
+        "d": "Fascículos cordonais",
+        "e": "Pedúnculos cerebrais"
+      },
+      "correct": "a",
+      "explanation": "A aracnoide apresenta delicadas trabéculas que se ligam à pia-máter, conhecidas como trabéculas aracnoides, que lembram teias de aranha, dando origem ao nome da membrana.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a aracnoide é uma membrana com característica serosa, delgada e transparente, justaposta à dura-máter, que apresenta delicadas trabéculas ligadas à membrana mais interna, a pia-máter. Essas trabéculas são conhecidas como: A aracnoide apresenta delicadas trabéculas que se ligam à pia-máter, conhecidas como trabéculas aracnoides, que lembram teias de aranha, dando origem ao nome da membrana."
+    },
+    {
+      "id": "neuro-obj-325",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, no espaço subaracnóideo, há dilatações chamadas cisternas, compostas por grande quantidade de líquor. A maior e mais importante delas, muitas vezes usada para obtenção de líquor por punção, é a cisterna:",
+      "options": {
+        "a": "Magna",
+        "b": "Pontina",
+        "c": "Interpeduncular",
+        "d": "Da fossa lateral do cérebro",
+        "e": "Superior"
+      },
+      "correct": "a",
+      "explanation": "A cisterna Magna, a maior e mais importante das cisternas, ocupa o espaço entre a face inferior do cerebelo e a face dorsal do bulbo, ligando-se ao IV ventrículo, sendo muitas vezes usada para a obtenção de líquor por meio de punções.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no espaço subaracnóideo, há dilatações chamadas cisternas, compostas por grande quantidade de líquor. A maior e mais importante delas, muitas vezes usada para obtenção de líquor por punção, é a cisterna: A cisterna Magna, a maior e mais importante das cisternas, ocupa o espaço entre a face inferior do cerebelo e a face dorsal do bulbo, ligando-se ao IV ventrículo, sendo muitas vezes usada para a obtenção de líquor por meio de punções."
+    },
+    {
+      "id": "neuro-obj-326",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, as granulações aracnoides são estruturas adaptadas para:",
+      "options": {
+        "a": "A absorção do líquor, que é separado do sangue apenas por um endotélio e uma fina camada de aracnoide",
+        "b": "A produção do líquor exclusivamente",
+        "c": "A produção de melatonina",
+        "d": "A regulação da pressão arterial sistêmica",
+        "e": "A produção de anticorpos contra agentes infecciosos"
+      },
+      "correct": "a",
+      "explanation": "As granulações aracnoides levam pequenos prolongamentos do espaço subaracnóideo, nos quais o líquor está separado do sangue apenas por um endotélio e uma fina camada de aracnoide, sendo uma importante estrutura adaptada à absorção do líquor.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as granulações aracnoides são estruturas adaptadas para: As granulações aracnoides levam pequenos prolongamentos do espaço subaracnóideo, nos quais o líquor está separado do sangue apenas por um endotélio e uma fina camada de aracnoide, sendo uma importante estrutura adaptada à absorção do líquor."
+    },
+    {
+      "id": "neuro-obj-327",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a membrana mais interna das meninges, aderida à superfície encefálica e medular, acompanhando os relevos e depressões até o fundo dos sulcos cerebrais, é a:",
+      "options": {
+        "a": "Pia-máter",
+        "b": "Dura-máter",
+        "c": "Aracnoide",
+        "d": "Periósteo",
+        "e": "Tenda do cerebelo"
+      },
+      "correct": "a",
+      "explanation": "A membrana mais interna das meninges é a pia-máter, aderida à superfície encefálica e medular, acompanhando seus relevos e depressões até o fundo dos sulcos cerebrais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a membrana mais interna das meninges, aderida à superfície encefálica e medular, acompanhando os relevos e depressões até o fundo dos sulcos cerebrais, é a: A membrana mais interna das meninges é a pia-máter, aderida à superfície encefálica e medular, acompanhando seus relevos e depressões até o fundo dos sulcos cerebrais."
+    },
+    {
+      "id": "neuro-obj-328",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a pia-máter é responsável por oferecer resistência aos tecidos nervosos, que apresentam consistência muito 'mole', além de acompanhar os vasos que penetram no tecido nervoso, formando a parede externa:",
+      "options": {
+        "a": "Dos espaços perivasculares",
+        "b": "Do espaço epidural",
+        "c": "Do espaço subdural",
+        "d": "Da cisterna magna exclusivamente",
+        "e": "Do canal central da medula"
+      },
+      "correct": "a",
+      "explanation": "A pia-máter acompanha os vasos que penetram no tecido nervoso a partir do espaço subaracnóideo, formando a parede externa dos espaços perivasculares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a pia-máter é responsável por oferecer resistência aos tecidos nervosos, que apresentam consistência muito 'mole', além de acompanhar os vasos que penetram no tecido nervoso, formando a parede externa: A pia-máter acompanha os vasos que penetram no tecido nervoso a partir do espaço subaracnóideo, formando a parede externa dos espaços perivasculares."
+    },
+    {
+      "id": "neuro-obj-329",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o líquor, também conhecido como líquido cefalorraquidiano, ocupa o espaço subaracnóideo e as cavidades ventriculares, apresentando como principal função:",
+      "options": {
+        "a": "A proteção mecânica do Sistema Nervoso Central, formando um coxim líquido",
+        "b": "A produção de hormônios reguladores do sono",
+        "c": "A condução de impulsos elétricos entre neurônios",
+        "d": "A digestão de proteínas no tecido nervoso",
+        "e": "A regulação da temperatura corporal exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O líquor apresenta como principal função a proteção mecânica do Sistema Nervoso Central, formando um coxim líquido entre as estruturas nervosas e as estruturas ósseas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o líquor, também conhecido como líquido cefalorraquidiano, ocupa o espaço subaracnóideo e as cavidades ventriculares, apresentando como principal função: O líquor apresenta como principal função a proteção mecânica do Sistema Nervoso Central, formando um coxim líquido entre as estruturas nervosas e as estruturas ósseas."
+    },
+    {
+      "id": "neuro-obj-330",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, além da proteção mecânica, o líquor também contribui para a proteção biológica do Sistema Nervoso Central, atuando como defesa contra:",
+      "options": {
+        "a": "Agentes infecciosos",
+        "b": "Radiação ultravioleta",
+        "c": "Alterações de temperatura ambiente exclusivamente",
+        "d": "Traumas mecânicos exclusivamente",
+        "e": "Substâncias tóxicas ingeridas por via oral exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Além da função de proteção mecânica, o líquor contribui para a proteção biológica do sistema nervoso central contra agentes infecciosos, atuando como defesa dessas estruturas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além da proteção mecânica, o líquor também contribui para a proteção biológica do Sistema Nervoso Central, atuando como defesa contra: Além da função de proteção mecânica, o líquor contribui para a proteção biológica do sistema nervoso central contra agentes infecciosos, atuando como defesa dessas estruturas."
+    },
+    {
+      "id": "neuro-obj-331",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o líquor é produzido nos plexos coroides a partir das células ependimárias localizadas nas paredes ventriculares, principalmente dos:",
+      "options": {
+        "a": "Ventrículos laterais",
+        "b": "III e IV ventrículos exclusivamente",
+        "c": "Ventrículos do cerebelo",
+        "d": "Aquedutos cerebrais exclusivamente",
+        "e": "Espaços perivasculares"
+      },
+      "correct": "a",
+      "explanation": "O líquor é produzido nos plexos coroides a partir das células ependimárias localizadas nas paredes ventriculares, principalmente dos ventrículos laterais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o líquor é produzido nos plexos coroides a partir das células ependimárias localizadas nas paredes ventriculares, principalmente dos: O líquor é produzido nos plexos coroides a partir das células ependimárias localizadas nas paredes ventriculares, principalmente dos ventrículos laterais."
+    },
+    {
+      "id": "neuro-obj-332",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, após ser produzido nos ventrículos laterais, o líquor passa ao III ventrículo por meio dos forames interventriculares, chega ao IV ventrículo através do aqueduto cerebral e, então:",
+      "options": {
+        "a": "Passa para o espaço subaracnóideo, sendo reabsorvido pelas granulações aracnoides",
+        "b": "É eliminado diretamente pela urina",
+        "c": "É reabsorvido exclusivamente pela pia-máter",
+        "d": "Retorna diretamente aos ventrículos laterais, em circuito fechado sem saída",
+        "e": "É absorvido pelo osso occipital"
+      },
+      "correct": "a",
+      "explanation": "Do IV ventrículo, o líquor passa para o espaço subaracnóideo, sendo então reabsorvido pelas granulações aracnoides que se projetam para o interior da dura-máter.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após ser produzido nos ventrículos laterais, o líquor passa ao III ventrículo por meio dos forames interventriculares, chega ao IV ventrículo através do aqueduto cerebral e, então: Do IV ventrículo, o líquor passa para o espaço subaracnóideo, sendo então reabsorvido pelas granulações aracnoides que se projetam para o interior da dura-máter."
+    },
+    {
+      "id": "neuro-obj-333",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a hidrocefalia é caracterizada por uma interferência na produção, circulação ou absorção do líquor, resultando em aumento de sua quantidade e pressão, o que causa:",
+      "options": {
+        "a": "Dilatação dos ventrículos e compressão das estruturas nervosas",
+        "b": "Redução progressiva do volume ventricular",
+        "c": "Aumento da produção de melatonina",
+        "d": "Diminuição da pressão intracraniana",
+        "e": "Fortalecimento das granulações aracnoides"
+      },
+      "correct": "a",
+      "explanation": "A hidrocefalia ocorre quando há interferência na produção, circulação e absorção do líquor, caracterizada pelo aumento de sua quantidade e pressão, causando dilatação dos ventrículos e compressão das estruturas nervosas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a hidrocefalia é caracterizada por uma interferência na produção, circulação ou absorção do líquor, resultando em aumento de sua quantidade e pressão, o que causa: A hidrocefalia ocorre quando há interferência na produção, circulação e absorção do líquor, caracterizada pelo aumento de sua quantidade e pressão, causando dilatação dos ventrículos e compressão das estruturas nervosas."
+    },
+    {
+      "id": "neuro-obj-334",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, quando a hidrocefalia ocorre durante a vida fetal, devido a anomalias congênitas no sistema ventricular, observa-se:",
+      "options": {
+        "a": "Dilatação da cabeça da criança, pois os ossos do crânio ainda não estão soldados",
+        "b": "Diminuição do tamanho da cabeça, por compensação óssea",
+        "c": "Nenhuma alteração visível no crânio, apenas sintomas neurológicos internos",
+        "d": "Ossificação precoce e completa do crânio",
+        "e": "Fechamento prematuro das fontanelas, evitando a dilatação"
+      },
+      "correct": "a",
+      "explanation": "Quando a hidrocefalia ocorre na vida fetal, devido a anomalias congênitas no sistema ventricular, há dilatação da cabeça da criança, pois os ossos do crânio ainda não estão 'soldados', gerando acomodação das estruturas nervosas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, quando a hidrocefalia ocorre durante a vida fetal, devido a anomalias congênitas no sistema ventricular, observa-se: Quando a hidrocefalia ocorre na vida fetal, devido a anomalias congênitas no sistema ventricular, há dilatação da cabeça da criança, pois os ossos do crânio ainda não estão 'soldados', gerando acomodação das estruturas nervosas."
+    },
+    {
+      "id": "neuro-obj-335",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a hipertensão intracraniana pode ser fatal porque a calota craniana apresenta uma cavidade totalmente fechada e inextensível. Assim, o aumento do volume de qualquer componente dentro dessa calota (líquor, sangue ou massa tumoral) pode causar:",
+      "options": {
+        "a": "Hérnias cerebrais, com protrusão do tecido nervoso a nível do forame magno",
+        "b": "Redução espontânea da pressão intracraniana",
+        "c": "Aumento da produção de líquor pelas granulações aracnoides",
+        "d": "Fortalecimento das meninges",
+        "e": "Nenhuma consequência significativa, dada a elasticidade do crânio"
+      },
+      "correct": "a",
+      "explanation": "O aumento do volume de qualquer componente dentro da calota craniana (líquor, sangue ou massa tumoral) pode gerar aumento interno da pressão, resultando em hérnias cerebrais que causam a protrusão do tecido nervoso a nível do forame magno, comprimindo estruturas importantes como o bulbo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a hipertensão intracraniana pode ser fatal porque a calota craniana apresenta uma cavidade totalmente fechada e inextensível. Assim, o aumento do volume de qualquer componente dentro dessa calota (líquor, sangue ou massa tumoral) pode causar: O aumento do volume de qualquer componente dentro da calota craniana (líquor, sangue ou massa tumoral) pode gerar aumento interno da pressão, resultando em hérnias cerebrais que causam a protrusão do tecido nervoso a nível do forame magno, comprimindo estruturas importantes como o bulbo."
+    },
+    {
+      "id": "neuro-obj-336",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, em casos de hipertensão intracraniana grave, a hérnia cerebral pode causar protrusão do tecido nervoso a nível do forame magno, comprimindo o bulbo, estrutura onde habita o centro:",
+      "options": {
+        "a": "Cardiorrespiratório, podendo levar o indivíduo a óbito",
+        "b": "Da visão",
+        "c": "Da audição",
+        "d": "Da memória de longo prazo",
+        "e": "Da fala"
+      },
+      "correct": "a",
+      "explanation": "A hérnia cerebral pode causar protrusão do tecido nervoso a nível do forame magno, comprimindo estruturas importantes como o bulbo, onde habita o centro cardiorrespiratório, podendo levar o indivíduo a óbito.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, em casos de hipertensão intracraniana grave, a hérnia cerebral pode causar protrusão do tecido nervoso a nível do forame magno, comprimindo o bulbo, estrutura onde habita o centro: A hérnia cerebral pode causar protrusão do tecido nervoso a nível do forame magno, comprimindo estruturas importantes como o bulbo, onde habita o centro cardiorrespiratório, podendo levar o indivíduo a óbito."
+    },
+    {
+      "id": "neuro-obj-337",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, os ventrículos que ocupam o líquor incluem os ventrículos laterais (I e II) e mais dois ventrículos. São eles:",
+      "options": {
+        "a": "III e IV ventrículos",
+        "b": "V e VI ventrículos",
+        "c": "Ventrículo médio e posterior",
+        "d": "Ventrículo cervical e lombar",
+        "e": "Ventrículo bulbar e pontino"
+      },
+      "correct": "a",
+      "explanation": "O líquor ocupa o espaço subaracnóideo e as cavidades ventriculares: ventrículo lateral direito e esquerdo (I e II ventrículo), III e IV ventrículo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os ventrículos que ocupam o líquor incluem os ventrículos laterais (I e II) e mais dois ventrículos. São eles: O líquor ocupa o espaço subaracnóideo e as cavidades ventriculares: ventrículo lateral direito e esquerdo (I e II ventrículo), III e IV ventrículo."
+    },
+    {
+      "id": "neuro-obj-338",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a dura-máter, em seu folheto mais externo a nível do crânio, adere intimamente à tábua óssea, comportando-se como:",
+      "options": {
+        "a": "Periósteo desses ossos",
+        "b": "Cartilagem articular",
+        "c": "Ligamento amarelo",
+        "d": "Tecido muscular liso",
+        "e": "Tecido adiposo"
+      },
+      "correct": "a",
+      "explanation": "O folheto mais externo da dura-máter, a nível do crânio, se adere intimamente à tábua óssea, comportando-se como periósteo desses ossos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a dura-máter, em seu folheto mais externo a nível do crânio, adere intimamente à tábua óssea, comportando-se como: O folheto mais externo da dura-máter, a nível do crânio, se adere intimamente à tábua óssea, comportando-se como periósteo desses ossos."
+    },
+    {
+      "id": "neuro-obj-339",
+      "topic": "Meninges e líquor",
+      "question": "Um paciente sofre traumatismo craniano com lesão da artéria meníngea média, apresentando piora neurológica progressiva ao longo de horas. Com base no material, essa evolução é compatível com a formação de:",
+      "options": {
+        "a": "Um hematoma epidural, que se expande rapidamente",
+        "b": "Uma hidrocefalia congênita",
+        "c": "Uma degeneração da substância negra",
+        "d": "Uma agnosia visual",
+        "e": "Uma afasia sensitiva"
+      },
+      "correct": "a",
+      "explanation": "A artéria meníngea média vasculariza a dura-máter; lesões traumáticas nessa região podem causar acúmulo de sangue no espaço epidural, com formação de hematomas que se expandem rapidamente, podendo ser fatais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente sofre traumatismo craniano com lesão da artéria meníngea média, apresentando piora neurológica progressiva ao longo de horas. Com base no material, essa evolução é compatível com a formação de: A artéria meníngea média vasculariza a dura-máter; lesões traumáticas nessa região podem causar acúmulo de sangue no espaço epidural, com formação de hematomas que se expandem rapidamente, podendo ser fatais."
+    },
+    {
+      "id": "neuro-obj-340",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, a foice do cerebelo, assim como a foice do cérebro, situa-se:",
+      "options": {
+        "a": "Entre os hemisférios cerebelares",
+        "b": "Entre os lobos frontal e parietal",
+        "c": "Entre o tálamo e o hipotálamo",
+        "d": "Entre a medula e o bulbo",
+        "e": "Entre o córtex e o corpo caloso"
+      },
+      "correct": "a",
+      "explanation": "A foice do cerebelo, assim como a foice do cérebro, situa-se entre os hemisférios cerebelares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a foice do cerebelo, assim como a foice do cérebro, situa-se: A foice do cerebelo, assim como a foice do cérebro, situa-se entre os hemisférios cerebelares."
+    },
+    {
+      "id": "neuro-obj-341",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o espaço subaracnóideo, um dos três espaços entre as meninges, é caracterizado por conter dilatações denominadas cisternas e por ser o local onde ocorre:",
+      "options": {
+        "a": "A circulação do líquor antes de sua reabsorção pelas granulações aracnoides",
+        "b": "A produção primária de melatonina",
+        "c": "A síntese de dopamina",
+        "d": "A formação do corpo estriado",
+        "e": "A decussação das pirâmides bulbares"
+      },
+      "correct": "a",
+      "explanation": "O espaço subaracnóideo contém as cisternas (dilatações com líquor) e é por onde o líquor circula antes de ser reabsorvido pelas granulações aracnoides, que se projetam para o interior da dura-máter.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37-38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o espaço subaracnóideo, um dos três espaços entre as meninges, é caracterizado por conter dilatações denominadas cisternas e por ser o local onde ocorre: O espaço subaracnóideo contém as cisternas (dilatações com líquor) e é por onde o líquor circula antes de ser reabsorvido pelas granulações aracnoides, que se projetam para o interior da dura-máter."
+    },
+    {
+      "id": "neuro-obj-342",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, comparando as três meninges quanto à espessura e à resistência, é correto afirmar que:",
+      "options": {
+        "a": "A dura-máter é a mais espessa e resistente, enquanto a pia-máter é a mais interna e delicada",
+        "b": "A pia-máter é a mais espessa e resistente de todas",
+        "c": "A aracnoide é a meninge mais espessa",
+        "d": "Todas as três meninges têm exatamente a mesma espessura",
+        "e": "A dura-máter é a mais interna e a pia-máter a mais externa"
+      },
+      "correct": "a",
+      "explanation": "A dura-máter é a membrana mais superficial, espessa e resistente; a aracnoide é delgada e serosa; a pia-máter, mais interna, é fina, aderida à superfície nervosa, oferecendo resistência ao tecido nervoso 'mole'.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35-37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, comparando as três meninges quanto à espessura e à resistência, é correto afirmar que: A dura-máter é a membrana mais superficial, espessa e resistente; a aracnoide é delgada e serosa; a pia-máter, mais interna, é fina, aderida à superfície nervosa, oferecendo resistência ao tecido nervoso 'mole'."
+    },
+    {
+      "id": "neuro-obj-343",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, o espaço subdural, localizado entre a dura-máter e a aracnoide, quando acometido por sangramento após um trauma, pode originar um quadro conhecido clinicamente como:",
+      "options": {
+        "a": "Hematoma subdural",
+        "b": "Hematoma epidural",
+        "c": "Hidrocefalia comunicante",
+        "d": "Meningite bacteriana",
+        "e": "Agnosia tátil"
+      },
+      "correct": "a",
+      "explanation": "Como o espaço subdural se localiza entre a dura-máter e a aracnoide, um sangramento nessa região é denominado hematoma subdural, distinto do hematoma epidural (localizado entre a dura-máter e a calota craniana).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o espaço subdural, localizado entre a dura-máter e a aracnoide, quando acometido por sangramento após um trauma, pode originar um quadro conhecido clinicamente como: Como o espaço subdural se localiza entre a dura-máter e a aracnoide, um sangramento nessa região é denominado hematoma subdural, distinto do hematoma epidural (localizado entre a dura-máter e a calota craniana)."
+    },
+    {
+      "id": "neuro-obj-344",
+      "topic": "Meninges e líquor",
+      "question": "Segundo o material, as três cavidades entre as meninges (espaços epidural, subdural e subaracnóideo) são interpostas por líquor, o que tem como função:",
+      "options": {
+        "a": "Evitar o colabamento dessas membranas",
+        "b": "Produzir hormônios locais",
+        "c": "Aumentar o atrito entre as membranas",
+        "d": "Impedir a passagem de nutrientes ao tecido nervoso",
+        "e": "Bloquear completamente a circulação sanguínea local"
+      },
+      "correct": "a",
+      "explanation": "Os três espaços entre as meninges são interpostos por líquor, o que evita o colabamento dessas membranas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as três cavidades entre as meninges (espaços epidural, subdural e subaracnóideo) são interpostas por líquor, o que tem como função: Os três espaços entre as meninges são interpostos por líquor, o que evita o colabamento dessas membranas."
+    },
+    {
+      "id": "neuro-obj-345",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a atividade funcional das células nervosas exige, para seu metabolismo, um suprimento contínuo e elevado de glicose e oxigênio, principalmente no encéfalo, pois esse tecido depende de um processo de oxidação de carboidratos e:",
+      "options": {
+        "a": "Não pode, nem temporariamente, ser sustentado por metabolismo anaeróbio",
+        "b": "Pode ser sustentado indefinidamente por metabolismo anaeróbio",
+        "c": "Não necessita de glicose, apenas de oxigênio",
+        "d": "Armazena grandes reservas de glicogênio para uso prolongado",
+        "e": "Utiliza exclusivamente lipídios como fonte de energia"
+      },
+      "correct": "a",
+      "explanation": "A atividade funcional das células nervosas exige suprimento contínuo e elevado de glicose e oxigênio, dependendo de um processo de oxidação de carboidratos que não pode, nem temporariamente, ser sustentado por metabolismo anaeróbio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a atividade funcional das células nervosas exige, para seu metabolismo, um suprimento contínuo e elevado de glicose e oxigênio, principalmente no encéfalo, pois esse tecido depende de um processo de oxidação de carboidratos e: A atividade funcional das células nervosas exige suprimento contínuo e elevado de glicose e oxigênio, dependendo de um processo de oxidação de carboidratos que não pode, nem temporariamente, ser sustentado por metabolismo anaeróbio."
+    },
+    {
+      "id": "neuro-obj-346",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a ausência da circulação cerebral por mais de 7 segundos leva o indivíduo à:",
+      "options": {
+        "a": "Perda da consciência",
+        "b": "Melhora imediata da cognição",
+        "c": "Aumento da produção de líquor",
+        "d": "Redução permanente da pressão intracraniana",
+        "e": "Nenhuma alteração perceptível"
+      },
+      "correct": "a",
+      "explanation": "A ausência da circulação cerebral por mais de 7 segundos leva o indivíduo à perda da consciência e, após cerca de 5 minutos, começam a aparecer lesões irreversíveis.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ausência da circulação cerebral por mais de 7 segundos leva o indivíduo à: A ausência da circulação cerebral por mais de 7 segundos leva o indivíduo à perda da consciência e, após cerca de 5 minutos, começam a aparecer lesões irreversíveis."
+    },
+    {
+      "id": "neuro-obj-347",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, após cerca de quanto tempo de ausência total da circulação cerebral começam a aparecer lesões irreversíveis, como pode ocorrer em uma parada cardíaca?",
+      "options": {
+        "a": "5 minutos",
+        "b": "30 segundos",
+        "c": "1 hora",
+        "d": "24 horas",
+        "e": "10 segundos"
+      },
+      "correct": "a",
+      "explanation": "Após a perda da consciência decorrente de 7 segundos sem circulação cerebral, começam a aparecer lesões irreversíveis depois de cerca de 5 minutos, como pode ocorrer em consequência de paradas cardíacas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após cerca de quanto tempo de ausência total da circulação cerebral começam a aparecer lesões irreversíveis, como pode ocorrer em uma parada cardíaca? Após a perda da consciência decorrente de 7 segundos sem circulação cerebral, começam a aparecer lesões irreversíveis depois de cerca de 5 minutos, como pode ocorrer em consequência de paradas cardíacas."
+    },
+    {
+      "id": "neuro-obj-348",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, alguns processos patológicos que acometem os vasos sanguíneos, como tromboses, embolias e hemorragias, interrompem a circulação de determinadas áreas encefálicas, causando lesões nos tecidos nervosos, que podem gerar alterações motoras, sensoriais ou psíquicas, dependendo:",
+      "options": {
+        "a": "Da área e da artéria lesada",
+        "b": "Exclusivamente da idade do paciente",
+        "c": "Exclusivamente do sexo do paciente",
+        "d": "Exclusivamente da altitude em que o paciente reside",
+        "e": "Exclusivamente do horário em que ocorre a lesão"
+      },
+      "correct": "a",
+      "explanation": "Processos patológicos que interrompem a circulação de determinadas áreas encefálicas causam lesões nos tecidos nervosos, gerando alterações que dependem da área e da artéria lesada.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, alguns processos patológicos que acometem os vasos sanguíneos, como tromboses, embolias e hemorragias, interrompem a circulação de determinadas áreas encefálicas, causando lesões nos tecidos nervosos, que podem gerar alterações motoras, sensoriais ou psíquicas, dependendo: Processos patológicos que interrompem a circulação de determinadas áreas encefálicas causam lesões nos tecidos nervosos, gerando alterações que dependem da área e da artéria lesada."
+    },
+    {
+      "id": "neuro-obj-349",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, o fluxo sanguíneo cerebral (FSC) é muito elevado, sendo superado apenas pelo fluxo de quais outros dois órgãos?",
+      "options": {
+        "a": "Rim e coração",
+        "b": "Fígado e pulmão",
+        "c": "Baço e pâncreas",
+        "d": "Estômago e intestino",
+        "e": "Pele e músculo esquelético"
+      },
+      "correct": "a",
+      "explanation": "O fluxo sanguíneo cerebral é muito elevado, sendo superado apenas pelo rim e pelo coração.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o fluxo sanguíneo cerebral (FSC) é muito elevado, sendo superado apenas pelo fluxo de quais outros dois órgãos? O fluxo sanguíneo cerebral é muito elevado, sendo superado apenas pelo rim e pelo coração."
+    },
+    {
+      "id": "neuro-obj-350",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, conforme demonstrado por Kety (1950), o fluxo sanguíneo cerebral (FSC) é diretamente proporcional à diferença entre a pressão arterial (PA) e a pressão venosa (PV), e:",
+      "options": {
+        "a": "Inversamente proporcional à resistência cerebrovascular (RCV)",
+        "b": "Diretamente proporcional à resistência cerebrovascular (RCV)",
+        "c": "Independente de qualquer resistência vascular",
+        "d": "Inversamente proporcional apenas à glicemia",
+        "e": "Diretamente proporcional apenas à temperatura corporal"
+      },
+      "correct": "a",
+      "explanation": "Segundo Kety (1950), o fluxo sanguíneo cerebral é diretamente proporcional à diferença entre a pressão arterial e a pressão venosa, e inversamente proporcional à resistência cerebrovascular (FSC = PA - PV / RCV).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, conforme demonstrado por Kety (1950), o fluxo sanguíneo cerebral (FSC) é diretamente proporcional à diferença entre a pressão arterial (PA) e a pressão venosa (PV), e: Segundo Kety (1950), o fluxo sanguíneo cerebral é diretamente proporcional à diferença entre a pressão arterial e a pressão venosa, e inversamente proporcional à resistência cerebrovascular (FSC = PA - PV / RCV)."
+    },
+    {
+      "id": "neuro-obj-351",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, entre os fatores que aumentam a resistência cerebrovascular, está a viscosidade do sangue. Indivíduos que apresentam diabetes mellitus podem ter mais glicose na corrente sanguínea, o que:",
+      "options": {
+        "a": "Deixa o sangue mais viscoso, aumentando a resistência vascular",
+        "b": "Diminui a viscosidade sanguínea",
+        "c": "Não tem qualquer relação com a viscosidade do sangue",
+        "d": "Reduz automaticamente a pressão arterial",
+        "e": "Aumenta exclusivamente a pressão venosa"
+      },
+      "correct": "a",
+      "explanation": "Indivíduos com diabetes mellitus podem apresentar mais glicose na corrente sanguínea, o que deixa o sangue mais viscoso e aumenta a resistência, além do calibre dos vasos cerebrais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, entre os fatores que aumentam a resistência cerebrovascular, está a viscosidade do sangue. Indivíduos que apresentam diabetes mellitus podem ter mais glicose na corrente sanguínea, o que: Indivíduos com diabetes mellitus podem apresentar mais glicose na corrente sanguínea, o que deixa o sangue mais viscoso e aumenta a resistência, além do calibre dos vasos cerebrais."
+    },
+    {
+      "id": "neuro-obj-352",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, além da pressão intracraniana e da viscosidade do sangue, a resistência cerebrovascular também depende das condições da parede dos vasos, como ocorre, por exemplo, quando há:",
+      "options": {
+        "a": "Placas de aterosclerose",
+        "b": "Aumento da produção de líquor",
+        "c": "Diminuição da produção de melatonina",
+        "d": "Presença de trabéculas aracnoides",
+        "e": "Formação de granulações aracnoides"
+      },
+      "correct": "a",
+      "explanation": "As condições da parede dos vasos, como a presença de placas de aterosclerose, também aumentam a resistência cerebrovascular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além da pressão intracraniana e da viscosidade do sangue, a resistência cerebrovascular também depende das condições da parede dos vasos, como ocorre, por exemplo, quando há: As condições da parede dos vasos, como a presença de placas de aterosclerose, também aumentam a resistência cerebrovascular."
+    },
+    {
+      "id": "neuro-obj-353",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a vascularização arterial do encéfalo é realizada pelas artérias carótidas internas e vertebrais, originárias no pescoço, que, na base do crânio, formam um polígono anastomótico conhecido como:",
+      "options": {
+        "a": "Polígono de Willis",
+        "b": "Corpo estriado",
+        "c": "Cisterna Magna",
+        "d": "Aqueduto cerebral",
+        "e": "Trígono cerebral"
+      },
+      "correct": "a",
+      "explanation": "As artérias carótidas internas e vertebrais formam, na base do crânio, um polígono anastomótico conhecido como Polígono de Willis, de onde emergem as principais artérias para a vascularização cerebral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a vascularização arterial do encéfalo é realizada pelas artérias carótidas internas e vertebrais, originárias no pescoço, que, na base do crânio, formam um polígono anastomótico conhecido como: As artérias carótidas internas e vertebrais formam, na base do crânio, um polígono anastomótico conhecido como Polígono de Willis, de onde emergem as principais artérias para a vascularização cerebral."
+    },
+    {
+      "id": "neuro-obj-354",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, o Polígono de Willis é formado pelas porções proximais de três pares de artérias cerebrais. São elas:",
+      "options": {
+        "a": "Anteriores, médias e posteriores",
+        "b": "Anteriores, laterais e mediais",
+        "c": "Superiores, médias e inferiores",
+        "d": "Espinhais, radiculares e meníngeas",
+        "e": "Coronárias, pulmonares e renais"
+      },
+      "correct": "a",
+      "explanation": "O Polígono de Willis é formado pelas porções proximais das artérias cerebrais anteriores, médias e posteriores, direita e esquerda.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Polígono de Willis é formado pelas porções proximais de três pares de artérias cerebrais. São elas: O Polígono de Willis é formado pelas porções proximais das artérias cerebrais anteriores, médias e posteriores, direita e esquerda."
+    },
+    {
+      "id": "neuro-obj-355",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, no Polígono de Willis, a artéria comunicante anterior une:",
+      "options": {
+        "a": "As duas artérias cerebrais anteriores",
+        "b": "As duas artérias vertebrais",
+        "c": "As duas artérias cerebrais posteriores",
+        "d": "A carótida interna direita à esquerda",
+        "e": "A artéria basilar à cerebral média"
+      },
+      "correct": "a",
+      "explanation": "A artéria comunicante anterior é pequena e une as duas artérias cerebrais anteriores.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no Polígono de Willis, a artéria comunicante anterior une: A artéria comunicante anterior é pequena e une as duas artérias cerebrais anteriores."
+    },
+    {
+      "id": "neuro-obj-356",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, as artérias comunicantes posteriores, no Polígono de Willis, unem de cada lado:",
+      "options": {
+        "a": "As artérias carótidas internas com as artérias cerebrais posteriores correspondentes",
+        "b": "As artérias cerebrais anteriores entre si",
+        "c": "As artérias vertebrais entre si",
+        "d": "A artéria basilar com a artéria meníngea média",
+        "e": "As artérias espinhais anteriores com as posteriores"
+      },
+      "correct": "a",
+      "explanation": "As artérias comunicantes posteriores unem, de cada lado, as artérias carótidas internas com as artérias cerebrais posteriores correspondentes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as artérias comunicantes posteriores, no Polígono de Willis, unem de cada lado: As artérias comunicantes posteriores unem, de cada lado, as artérias carótidas internas com as artérias cerebrais posteriores correspondentes."
+    },
+    {
+      "id": "neuro-obj-357",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a artéria cerebral anterior irriga a face interna dos lobos frontais e parietais, parte do corpo caloso, parte dos núcleos da base e o hipotálamo. Sua obstrução causa, entre outros sintomas, alterações motoras e diminuição de sensibilidade com predomínio no membro:",
+      "options": {
+        "a": "Inferior oposto à lesão",
+        "b": "Superior do mesmo lado da lesão",
+        "c": "Superior oposto à lesão exclusivamente, sem afetar o inferior",
+        "d": "Inferior do mesmo lado da lesão",
+        "e": "Facial exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A obstrução de uma das artérias cerebrais anteriores causa alterações motoras e diminuição da sensibilidade com predomínio no membro inferior oposto, decorrente da lesão das áreas corticais que correspondem à representação dos membros inferiores nos giros pré e pós-central.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a artéria cerebral anterior irriga a face interna dos lobos frontais e parietais, parte do corpo caloso, parte dos núcleos da base e o hipotálamo. Sua obstrução causa, entre outros sintomas, alterações motoras e diminuição de sensibilidade com predomínio no membro: A obstrução de uma das artérias cerebrais anteriores causa alterações motoras e diminuição da sensibilidade com predomínio no membro inferior oposto, decorrente da lesão das áreas corticais que correspondem à representação dos membros inferiores nos giros pré e pós-central."
+    },
+    {
+      "id": "neuro-obj-358",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a artéria cerebral média, ramo principal da carótida interna, irriga a face externa dos lobos frontais, parietais e parte do temporal, o lobo da ínsula e parte do núcleo estriado. Obstruções nessa artéria tendem a ser as mais comuns devido, principalmente, a:",
+      "options": {
+        "a": "Sua própria conformação anatômica, que favorece a instalação de trombos",
+        "b": "Ausência completa de qualquer conexão anastomótica",
+        "c": "Baixo fluxo sanguíneo nessa região",
+        "d": "Localização exclusivamente periférica, fora do crânio",
+        "e": "Ausência de qualquer relação com a carótida interna"
+      },
+      "correct": "a",
+      "explanation": "Obstruções na artéria cerebral média tendem a ser as mais comuns, devido principalmente à sua própria conformação anatômica, o que favorece a instalação de trombos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a artéria cerebral média, ramo principal da carótida interna, irriga a face externa dos lobos frontais, parietais e parte do temporal, o lobo da ínsula e parte do núcleo estriado. Obstruções nessa artéria tendem a ser as mais comuns devido, principalmente, a: Obstruções na artéria cerebral média tendem a ser as mais comuns, devido principalmente à sua própria conformação anatômica, o que favorece a instalação de trombos."
+    },
+    {
+      "id": "neuro-obj-359",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a obstrução da artéria cerebral média pode gerar alterações motoras e diminuição da sensibilidade no hemicorpo oposto, com predomínio:",
+      "options": {
+        "a": "Bráquio-facial (membro superior e face)",
+        "b": "Crural (membro inferior)",
+        "c": "Exclusivamente visual",
+        "d": "Exclusivamente auditivo",
+        "e": "Exclusivamente do tronco"
+      },
+      "correct": "a",
+      "explanation": "A obstrução da artéria cerebral média pode gerar alterações motoras e diminuição da sensibilidade no hemicorpo oposto, com predomínio bráquio-facial, isto é, comprometimento no membro superior e na face.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a obstrução da artéria cerebral média pode gerar alterações motoras e diminuição da sensibilidade no hemicorpo oposto, com predomínio: A obstrução da artéria cerebral média pode gerar alterações motoras e diminuição da sensibilidade no hemicorpo oposto, com predomínio bráquio-facial, isto é, comprometimento no membro superior e na face."
+    },
+    {
+      "id": "neuro-obj-360",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, além de alterações motoras e sensitivas bráquio-faciais, a obstrução da artéria cerebral média pode causar, devido ao território cortical que irriga (incluindo o centro da palavra falada e escrita):",
+      "options": {
+        "a": "Afasia motora, déficits na praxia e agnosia sensitiva",
+        "b": "Amaurose bilateral exclusivamente",
+        "c": "Surdez bilateral exclusivamente",
+        "d": "Anosmia exclusivamente",
+        "e": "Ageusia exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O território da artéria cerebral média envolve áreas corticais importantes, como as motoras, somestésicas e o centro da palavra falada e escrita; sua obstrução pode gerar, além de alterações motoras e sensitivas, afasia motora, déficits na praxia e agnosia sensitiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, além de alterações motoras e sensitivas bráquio-faciais, a obstrução da artéria cerebral média pode causar, devido ao território cortical que irriga (incluindo o centro da palavra falada e escrita): O território da artéria cerebral média envolve áreas corticais importantes, como as motoras, somestésicas e o centro da palavra falada e escrita; sua obstrução pode gerar, além de alterações motoras e sensitivas, afasia motora, déficits na praxia e agnosia sensitiva."
+    },
+    {
+      "id": "neuro-obj-361",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a artéria cerebral posterior origina-se a partir da bifurcação da artéria:",
+      "options": {
+        "a": "Basilar",
+        "b": "Carótida externa",
+        "c": "Comunicante anterior",
+        "d": "Meníngea média",
+        "e": "Espinhal anterior"
+      },
+      "correct": "a",
+      "explanation": "A artéria cerebral posterior origina-se a partir da bifurcação da artéria basilar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a artéria cerebral posterior origina-se a partir da bifurcação da artéria: A artéria cerebral posterior origina-se a partir da bifurcação da artéria basilar."
+    },
+    {
+      "id": "neuro-obj-362",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a artéria cerebral posterior irriga o mesencéfalo, o tálamo, o lobo occipital e a parte interna do lobo temporal. Sua obstrução pode gerar, entre outras alterações, quadros visuais como:",
+      "options": {
+        "a": "Amaurose, ambliopia e/ou agnosia visual",
+        "b": "Exclusivamente catarata",
+        "c": "Exclusivamente glaucoma",
+        "d": "Exclusivamente estrabismo",
+        "e": "Exclusivamente daltonismo"
+      },
+      "correct": "a",
+      "explanation": "A obstrução da artéria cerebral posterior pode gerar alterações visuais, tais como amaurose, ambliopia e/ou agnosia visual, além de alterações auditivas como anacusia, hipoacusia e/ou agnosia auditiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a artéria cerebral posterior irriga o mesencéfalo, o tálamo, o lobo occipital e a parte interna do lobo temporal. Sua obstrução pode gerar, entre outras alterações, quadros visuais como: A obstrução da artéria cerebral posterior pode gerar alterações visuais, tais como amaurose, ambliopia e/ou agnosia visual, além de alterações auditivas como anacusia, hipoacusia e/ou agnosia auditiva."
+    },
+    {
+      "id": "neuro-obj-363",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a obstrução da artéria cerebral posterior pode ainda gerar alterações auditivas, como:",
+      "options": {
+        "a": "Anacusia, hipoacusia e/ou agnosia auditiva",
+        "b": "Exclusivamente zumbido persistente",
+        "c": "Exclusivamente labirintite",
+        "d": "Exclusivamente otite crônica",
+        "e": "Exclusivamente vertigem postural"
+      },
+      "correct": "a",
+      "explanation": "Além das alterações visuais, a obstrução da artéria cerebral posterior pode gerar alterações auditivas, como anacusia, hipoacusia e/ou agnosia auditiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a obstrução da artéria cerebral posterior pode ainda gerar alterações auditivas, como: Além das alterações visuais, a obstrução da artéria cerebral posterior pode gerar alterações auditivas, como anacusia, hipoacusia e/ou agnosia auditiva."
+    },
+    {
+      "id": "neuro-obj-364",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, comparando as veias do cérebro com as artérias, é correto afirmar que as veias:",
+      "options": {
+        "a": "São maiores e mais calibrosas, com parede fina e praticamente desprovida de musculatura",
+        "b": "São sempre menores e mais estreitas que as artérias",
+        "c": "Possuem parede muito mais espessa e musculosa que as artérias",
+        "d": "Acompanham exatamente o mesmo trajeto das artérias",
+        "e": "Não drenam sangue para nenhuma estrutura da dura-máter"
+      },
+      "correct": "a",
+      "explanation": "As veias do encéfalo não acompanham as artérias, sendo maiores e mais calibrosas, com parede muito fina e praticamente desprovida de musculatura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, comparando as veias do cérebro com as artérias, é correto afirmar que as veias: As veias do encéfalo não acompanham as artérias, sendo maiores e mais calibrosas, com parede muito fina e praticamente desprovida de musculatura."
+    },
+    {
+      "id": "neuro-obj-365",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a ação da circulação venosa do encéfalo se faz, principalmente, sob a ação de três forças: aspiração da cavidade torácica, força da gravidade e:",
+      "options": {
+        "a": "Pulsação das artérias",
+        "b": "Contração muscular esquelética voluntária",
+        "c": "Peristaltismo intestinal",
+        "d": "Batimento ciliar do epêndima",
+        "e": "Produção de líquor"
+      },
+      "correct": "a",
+      "explanation": "A circulação venosa do encéfalo se faz principalmente sob a ação de três forças: aspiração da cavidade torácica, força da gravidade e pulsação das artérias.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a ação da circulação venosa do encéfalo se faz, principalmente, sob a ação de três forças: aspiração da cavidade torácica, força da gravidade e: A circulação venosa do encéfalo se faz principalmente sob a ação de três forças: aspiração da cavidade torácica, força da gravidade e pulsação das artérias."
+    },
+    {
+      "id": "neuro-obj-366",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, as veias do cérebro drenam o sangue para os seios da dura-máter, de onde o sangue converge para:",
+      "options": {
+        "a": "As veias jugulares internas",
+        "b": "As artérias carótidas internas",
+        "c": "O seio cavernoso exclusivamente, sem drenagem posterior",
+        "d": "A cisterna magna",
+        "e": "O espaço subaracnóideo"
+      },
+      "correct": "a",
+      "explanation": "As veias do cérebro drenam o sangue para os seios da dura-máter, de onde o sangue converge para as veias jugulares internas.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as veias do cérebro drenam o sangue para os seios da dura-máter, de onde o sangue converge para: As veias do cérebro drenam o sangue para os seios da dura-máter, de onde o sangue converge para as veias jugulares internas."
+    },
+    {
+      "id": "neuro-obj-367",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, comparando o leito venoso e o leito arterial do encéfalo, é correto afirmar que o leito venoso é:",
+      "options": {
+        "a": "Muito maior que o arterial, com circulação mais lenta, baixa pressão e pouca variação",
+        "b": "Muito menor que o arterial, com circulação muito mais rápida",
+        "c": "Exatamente do mesmo tamanho e velocidade que o arterial",
+        "d": "Inexistente no encéfalo",
+        "e": "Responsável pela maior parte do metabolismo de glicose cerebral"
+      },
+      "correct": "a",
+      "explanation": "O leito venoso é muito maior que o arterial, sendo a circulação venosa muito mais lenta, o que confere baixa pressão e pouca variação.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, comparando o leito venoso e o leito arterial do encéfalo, é correto afirmar que o leito venoso é: O leito venoso é muito maior que o arterial, sendo a circulação venosa muito mais lenta, o que confere baixa pressão e pouca variação."
+    },
+    {
+      "id": "neuro-obj-368",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, as veias do cérebro dispõem-se em dois sistemas: um sistema venoso superficial, que drena o córtex e a substância branca, e um sistema venoso profundo, cuja veia mais importante é a:",
+      "options": {
+        "a": "Veia cerebral magna",
+        "b": "Veia jugular externa",
+        "c": "Veia cava superior",
+        "d": "Veia porta",
+        "e": "Veia ázigos"
+      },
+      "correct": "a",
+      "explanation": "O sistema venoso profundo drena o sangue de regiões situadas profundamente no cérebro, sendo a veia cerebral magna a mais importante desse sistema.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as veias do cérebro dispõem-se em dois sistemas: um sistema venoso superficial, que drena o córtex e a substância branca, e um sistema venoso profundo, cuja veia mais importante é a: O sistema venoso profundo drena o sangue de regiões situadas profundamente no cérebro, sendo a veia cerebral magna a mais importante desse sistema."
+    },
+    {
+      "id": "neuro-obj-369",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a medula espinhal é irrigada por ramos de três artérias importantes. São elas:",
+      "options": {
+        "a": "Subclávia, aorta e ilíaca interna",
+        "b": "Carótida interna, carótida externa e vertebral",
+        "c": "Meníngea média, basilar e cerebral posterior",
+        "d": "Renal, hepática e esplênica",
+        "e": "Femoral, poplítea e tibial"
+      },
+      "correct": "a",
+      "explanation": "A medula espinhal é irrigada por ramos de três artérias importantes: subclávia, aorta e ilíaca interna.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a medula espinhal é irrigada por ramos de três artérias importantes. São elas: A medula espinhal é irrigada por ramos de três artérias importantes: subclávia, aorta e ilíaca interna."
+    },
+    {
+      "id": "neuro-obj-370",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, a vascularização arterial da medula espinhal ocorre essencialmente por meio de dois sistemas: um vertical, formado por ramos das artérias vertebrais, e um sistema:",
+      "options": {
+        "a": "Horizontal, formado pelas artérias radiculares",
+        "b": "Diagonal, formado por veias perfurantes",
+        "c": "Circular, formado exclusivamente por capilares",
+        "d": "Anastomótico exclusivo com o sistema porta-hepático",
+        "e": "Linfático, paralelo ao sistema arterial"
+      },
+      "correct": "a",
+      "explanation": "A vascularização da medula espinhal ocorre por meio de dois sistemas: um vertical, formado por ramos das artérias vertebrais (artérias espinhais anteriores e posteriores), e um sistema horizontal, formado pelas artérias radiculares.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a vascularização arterial da medula espinhal ocorre essencialmente por meio de dois sistemas: um vertical, formado por ramos das artérias vertebrais, e um sistema: A vascularização da medula espinhal ocorre por meio de dois sistemas: um vertical, formado por ramos das artérias vertebrais (artérias espinhais anteriores e posteriores), e um sistema horizontal, formado pelas artérias radiculares."
+    },
+    {
+      "id": "neuro-obj-371",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, as artérias espinhais anteriores, que percorrem o sulco mediano da medula, irrigam:",
+      "options": {
+        "a": "Os dois terços anteriores da medula",
+        "b": "Exclusivamente a porção posterior da medula",
+        "c": "Exclusivamente a cauda equina",
+        "d": "Exclusivamente o cone medular",
+        "e": "Exclusivamente o filamento terminal"
+      },
+      "correct": "a",
+      "explanation": "As artérias espinhais anteriores percorrem o sulco mediano e irrigam os dois terços anteriores da medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as artérias espinhais anteriores, que percorrem o sulco mediano da medula, irrigam: As artérias espinhais anteriores percorrem o sulco mediano e irrigam os dois terços anteriores da medula."
+    },
+    {
+      "id": "neuro-obj-372",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, as artérias espinhais posteriores, que percorrem os sulcos laterais posteriores, irrigam:",
+      "options": {
+        "a": "A porção posterior da medula",
+        "b": "Os dois terços anteriores da medula",
+        "c": "Exclusivamente o cone medular",
+        "d": "Exclusivamente a cauda equina",
+        "e": "Exclusivamente o bulbo"
+      },
+      "correct": "a",
+      "explanation": "As artérias espinhais posteriores percorrem os sulcos laterais posteriores e irrigam a porção posterior da medula.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as artérias espinhais posteriores, que percorrem os sulcos laterais posteriores, irrigam: As artérias espinhais posteriores percorrem os sulcos laterais posteriores e irrigam a porção posterior da medula."
+    },
+    {
+      "id": "neuro-obj-373",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, o sistema horizontal de vascularização da medula é formado pelas artérias radiculares, também ramos das artérias vertebrais, que se dividem em um ramo anterior e um posterior, os quais penetram na medula junto:",
+      "options": {
+        "a": "Com as raízes dos nervos espinhais",
+        "b": "Com o filamento terminal exclusivamente",
+        "c": "Com as trabéculas aracnoides",
+        "d": "Com os plexos coroides",
+        "e": "Com os pedúnculos cerebelares"
+      },
+      "correct": "a",
+      "explanation": "As artérias radiculares, que formam o sistema horizontal, dividem-se em ramo anterior e posterior, os quais penetram na medula com as raízes dos nervos espinhais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o sistema horizontal de vascularização da medula é formado pelas artérias radiculares, também ramos das artérias vertebrais, que se dividem em um ramo anterior e um posterior, os quais penetram na medula junto: As artérias radiculares, que formam o sistema horizontal, dividem-se em ramo anterior e posterior, os quais penetram na medula com as raízes dos nervos espinhais."
+    },
+    {
+      "id": "neuro-obj-374",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, considerando a distribuição das artérias radiculares que contribuem efetivamente para a vascularização da medula, é correto afirmar que:",
+      "options": {
+        "a": "A distribuição anterior conta com poucas artérias (1 a 3), enquanto a distribuição posterior pode contar com 10 a 20 artérias",
+        "b": "A distribuição anterior e posterior contam com exatamente o mesmo número de artérias",
+        "c": "A distribuição posterior conta com apenas 1 artéria, e a anterior com 20",
+        "d": "Nenhuma artéria radicular contribui de fato para a vascularização medular",
+        "e": "A distribuição anterior conta com mais de 50 artérias"
+      },
+      "correct": "a",
+      "explanation": "Apenas algumas artérias contribuem de fato para a vascularização da medula: a distribuição anterior conta com 1 a 2 artérias na região cervical/dorsal e 1 a 3 na lombo-sacral, enquanto a distribuição posterior pode contar com 10 a 20 artérias.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, considerando a distribuição das artérias radiculares que contribuem efetivamente para a vascularização da medula, é correto afirmar que: Apenas algumas artérias contribuem de fato para a vascularização da medula: a distribuição anterior conta com 1 a 2 artérias na região cervical/dorsal e 1 a 3 na lombo-sacral, enquanto a distribuição posterior pode contar com 10 a 20 artérias."
+    },
+    {
+      "id": "neuro-obj-375",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo o material, além do sistema arterial, a medula espinhal também apresenta vascularização venosa, com a presença de plexos venosos localizados:",
+      "options": {
+        "a": "Dentro e fora do canal vertebral",
+        "b": "Exclusivamente dentro do canal vertebral",
+        "c": "Exclusivamente fora do canal vertebral",
+        "d": "Exclusivamente no encéfalo",
+        "e": "Exclusivamente no cerebelo"
+      },
+      "correct": "a",
+      "explanation": "Além do sistema arterial, há também a vascularização venosa da medula, com a presença de plexos venosos localizados dentro e fora do canal vertebral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além do sistema arterial, a medula espinhal também apresenta vascularização venosa, com a presença de plexos venosos localizados: Além do sistema arterial, há também a vascularização venosa da medula, com a presença de plexos venosos localizados dentro e fora do canal vertebral."
+    },
+    {
+      "id": "neuro-obj-376",
+      "topic": "Vascularização do SNC",
+      "question": "Um paciente apresenta, subitamente, fraqueza no membro superior direito e na face, associada a dificuldade para se expressar verbalmente (mas com boa compreensão), sugerindo afasia motora. Com base nos territórios arteriais descritos no material, a artéria mais provavelmente obstruída é a:",
+      "options": {
+        "a": "Cerebral média esquerda",
+        "b": "Cerebral posterior direita",
+        "c": "Cerebral anterior direita",
+        "d": "Espinhal anterior",
+        "e": "Vertebral direita"
+      },
+      "correct": "a",
+      "explanation": "O quadro de comprometimento motor e sensitivo bráquio-facial (membro superior e face) associado à afasia motora é característico de obstrução da artéria cerebral média, cujo território inclui o centro da palavra falada e escrita; como a lesão gera déficits no lado direito do corpo, a artéria acometida seria a cerebral média esquerda.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente apresenta, subitamente, fraqueza no membro superior direito e na face, associada a dificuldade para se expressar verbalmente (mas com boa compreensão), sugerindo afasia motora. Com base nos territórios arteriais descritos no material, a artéria mais provavelmente obstruída é a: O quadro de comprometimento motor e sensitivo bráquio-facial (membro superior e face) associado à afasia motora é característico de obstrução da artéria cerebral média, cujo território inclui o centro da palavra falada e escrita; como a lesão gera déficits no lado direito do corpo, a artéria acometida seria a cerebral média esquerda."
     }
   ],
   "discursive": [
@@ -10965,6 +12351,794 @@
       },
       "subject": "Diencéfalo e núcleos da base",
       "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-096",
+      "topic": "As três meninges e os três espaços entre elas",
+      "question": "Descreva as três meninges que envolvem o Sistema Nervoso Central e os três espaços existentes entre elas.",
+      "modelAnswer": "As meninges são divididas em três: a dura-máter, mais externa e espessa; a aracnoide, intermediária; e a pia-máter, mais interna. Entre elas há três espaços: o espaço epidural (entre a dura-máter e a calota craniana, e entre a dura-máter e o periósteo do canal vertebral); o espaço subdural (entre a dura-máter e a aracnoide); e o espaço subaracnóideo (entre a aracnoide e a pia-máter), interpostos por líquor, o que evita o colabamento dessas membranas.",
+      "keyPoints": [
+        {
+          "text": "Dura-máter, aracnoide, pia-máter",
+          "weight": 0.4,
+          "keywords": [
+            "dura-máter",
+            "aracnoide",
+            "pia-máter"
+          ]
+        },
+        {
+          "text": "Espaço epidural e subdural",
+          "weight": 0.3,
+          "keywords": [
+            "epidural",
+            "subdural"
+          ]
+        },
+        {
+          "text": "Espaço subaracnóideo, com líquor",
+          "weight": 0.3,
+          "keywords": [
+            "subaracnóideo",
+            "líquor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-097",
+      "topic": "Dura-máter e formação de hematomas",
+      "question": "Descreva as características da dura-máter e explique por que lesões traumáticas nessa região podem causar hematomas expansivos e potencialmente fatais.",
+      "modelAnswer": "A dura-máter é a meninge mais superficial, espessa e resistente, formada por tecido conjuntivo rico em fibras colágenas, contendo vasos e nervos; seu folheto mais externo, a nível do crânio, adere intimamente à tábua óssea, comportando-se como periósteo. Sua principal vascularização se dá pela artéria meníngea média; após lesões traumáticas nessa região, pode ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais, devido ao espaço fechado e inextensível da cavidade craniana.",
+      "keyPoints": [
+        {
+          "text": "Dura-máter: mais externa, espessa, tecido conjuntivo rico em colágeno",
+          "weight": 0.35,
+          "keywords": [
+            "dura-máter",
+            "espessa",
+            "colágeno"
+          ]
+        },
+        {
+          "text": "Vascularizada pela artéria meníngea média",
+          "weight": 0.3,
+          "keywords": [
+            "artéria meníngea média"
+          ]
+        },
+        {
+          "text": "Lesão gera hematoma expansivo, risco de fatalidade",
+          "weight": 0.35,
+          "keywords": [
+            "hematoma",
+            "expansão",
+            "fatal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-098",
+      "topic": "Pregas da dura-máter",
+      "question": "Descreva os quatro compartimentos formados pelas pregas da dura-máter, citados no material.",
+      "modelAnswer": "A dura-máter forma pregas que dividem a cavidade craniana em quatro compartimentos: a foice do cérebro, um septo em forma de foice que separa os hemisférios cerebrais; a tenda do cerebelo, um septo transversal localizado entre os lobos occipitais e o cerebelo; a foice do cerebelo, situada entre os hemisférios cerebelares; e o diafragma da sela, uma pequena lâmina horizontal que fecha a sela túrcica, onde está alojada a hipófise.",
+      "keyPoints": [
+        {
+          "text": "Foice do cérebro: separa os hemisférios cerebrais",
+          "weight": 0.25,
+          "keywords": [
+            "foice do cérebro",
+            "hemisférios"
+          ]
+        },
+        {
+          "text": "Tenda do cerebelo: entre lobos occipitais e cerebelo",
+          "weight": 0.25,
+          "keywords": [
+            "tenda do cerebelo"
+          ]
+        },
+        {
+          "text": "Foice do cerebelo: entre hemisférios cerebelares",
+          "weight": 0.25,
+          "keywords": [
+            "foice do cerebelo"
+          ]
+        },
+        {
+          "text": "Diafragma da sela: fecha a sela túrcica (hipófise)",
+          "weight": 0.25,
+          "keywords": [
+            "diafragma da sela",
+            "hipófise"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-099",
+      "topic": "Aracnoide e cisternas",
+      "question": "Descreva as características da aracnoide e o que são as cisternas do espaço subaracnóideo, citando a mais importante delas.",
+      "modelAnswer": "A aracnoide é uma membrana serosa, delgada e transparente, justaposta à dura-máter, apresentando delicadas trabéculas (trabéculas aracnoides) que se ligam à pia-máter, lembrando teias de aranha. No espaço subaracnóideo, há dilatações chamadas cisternas, compostas por grande quantidade de líquor. A maior e mais importante é a cisterna Magna, que ocupa o espaço entre a face inferior do cerebelo e a face dorsal do bulbo, ligando-se ao IV ventrículo; ela é muitas vezes utilizada para obtenção de líquor por meio de punções.",
+      "keyPoints": [
+        {
+          "text": "Aracnoide: serosa, delgada, trabéculas aracnoides ligadas à pia-máter",
+          "weight": 0.4,
+          "keywords": [
+            "aracnoide",
+            "trabéculas"
+          ]
+        },
+        {
+          "text": "Cisternas: dilatações no espaço subaracnóideo com líquor",
+          "weight": 0.3,
+          "keywords": [
+            "cisternas",
+            "espaço subaracnóideo"
+          ]
+        },
+        {
+          "text": "Cisterna Magna: maior e mais importante, usada para punção de líquor",
+          "weight": 0.3,
+          "keywords": [
+            "cisterna Magna",
+            "punção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36-37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-100",
+      "topic": "Produção e circulação do líquor",
+      "question": "Descreva o trajeto completo do líquor, desde sua produção até sua reabsorção.",
+      "modelAnswer": "O líquor é produzido nos plexos coroides, a partir das células ependimárias localizadas nas paredes ventriculares, principalmente dos ventrículos laterais. Dali, passa ao III ventrículo por meio dos forames interventriculares e, através do aqueduto cerebral, chega ao IV ventrículo. Deste, passa para o espaço subaracnóideo, sendo então reabsorvido pelas granulações aracnoides, que se projetam para o interior da dura-máter.",
+      "keyPoints": [
+        {
+          "text": "Produção: plexos coroides, células ependimárias, ventrículos laterais",
+          "weight": 0.3,
+          "keywords": [
+            "plexos coroides",
+            "ventrículos laterais"
+          ]
+        },
+        {
+          "text": "Trajeto: III ventrículo (forames interventriculares) -> aqueduto cerebral -> IV ventrículo",
+          "weight": 0.4,
+          "keywords": [
+            "III ventrículo",
+            "aqueduto cerebral",
+            "IV ventrículo"
+          ]
+        },
+        {
+          "text": "Reabsorção: espaço subaracnóideo -> granulações aracnoides -> dura-máter",
+          "weight": 0.3,
+          "keywords": [
+            "granulações aracnoides",
+            "reabsorção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-101",
+      "topic": "Funções do líquor",
+      "question": "Quais são as duas principais funções do líquor descritas no material?",
+      "modelAnswer": "O líquor tem como principal função a proteção mecânica do Sistema Nervoso Central, formando um coxim líquido entre as estruturas nervosas e as estruturas ósseas. Além dessa função, o líquor contribui para a proteção biológica do sistema, atuando como defesa contra agentes infecciosos.",
+      "keyPoints": [
+        {
+          "text": "Proteção mecânica (coxim líquido)",
+          "weight": 0.5,
+          "keywords": [
+            "proteção mecânica",
+            "coxim líquido"
+          ]
+        },
+        {
+          "text": "Proteção biológica contra agentes infecciosos",
+          "weight": 0.5,
+          "keywords": [
+            "proteção biológica",
+            "agentes infecciosos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37-38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-102",
+      "topic": "Hidrocefalia",
+      "question": "O que é a hidrocefalia e quais são suas consequências, especialmente quando ocorre durante a vida fetal?",
+      "modelAnswer": "A hidrocefalia ocorre quando há interferência na produção, circulação ou absorção do líquor, caracterizada pelo aumento de sua quantidade e pressão. Isso causa dilatação dos ventrículos e compressão das estruturas nervosas, podendo gerar graves consequências. Quando ocorre durante a vida fetal, devido a anomalias congênitas no sistema ventricular, há dilatação da cabeça da criança, pois os ossos do crânio ainda não estão soldados, o que gera acomodação das estruturas nervosas.",
+      "keyPoints": [
+        {
+          "text": "Interferência na produção/circulação/absorção do líquor",
+          "weight": 0.35,
+          "keywords": [
+            "produção",
+            "circulação",
+            "absorção"
+          ]
+        },
+        {
+          "text": "Dilatação ventricular e compressão de estruturas nervosas",
+          "weight": 0.35,
+          "keywords": [
+            "dilatação dos ventrículos",
+            "compressão"
+          ]
+        },
+        {
+          "text": "Na vida fetal: dilatação da cabeça (crânio não soldado)",
+          "weight": 0.3,
+          "keywords": [
+            "vida fetal",
+            "dilatação da cabeça"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-103",
+      "topic": "Hipertensão intracraniana e hérnias cerebrais",
+      "question": "Explique por que a hipertensão intracraniana pode ser fatal, relacionando esse quadro com as hérnias cerebrais.",
+      "modelAnswer": "A hipertensão intracraniana pode ser fatal porque a calota craniana é uma cavidade totalmente fechada e inextensível, que não permite a expansão de seu conteúdo. Assim, o aumento do volume de qualquer componente dentro dela — líquor, sangue ou massa tumoral — gera aumento da pressão interna e comprime as estruturas ali presentes. Isso pode resultar em hérnias cerebrais, com protrusão do tecido nervoso a nível do forame magno, comprimindo estruturas importantes como o bulbo, onde está o centro cardiorrespiratório, podendo levar o indivíduo a óbito.",
+      "keyPoints": [
+        {
+          "text": "Cavidade craniana fechada e inextensível",
+          "weight": 0.3,
+          "keywords": [
+            "fechada",
+            "inextensível"
+          ]
+        },
+        {
+          "text": "Aumento de volume (líquor/sangue/tumor) comprime estruturas",
+          "weight": 0.35,
+          "keywords": [
+            "aumento de volume",
+            "comprime"
+          ]
+        },
+        {
+          "text": "Hérnia cerebral comprime bulbo/centro cardiorrespiratório -> óbito",
+          "weight": 0.35,
+          "keywords": [
+            "hérnia cerebral",
+            "bulbo",
+            "óbito"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-104",
+      "topic": "Pia-máter",
+      "question": "Descreva as características e funções da pia-máter.",
+      "modelAnswer": "A pia-máter é a membrana mais interna das meninges, aderida à superfície encefálica e medular, acompanhando seus relevos e depressões até o fundo dos sulcos cerebrais. Ela é responsável por oferecer resistência aos tecidos nervosos, que apresentam consistência muito 'mole'. Além disso, a pia-máter acompanha os vasos que penetram no tecido nervoso a partir do espaço subaracnóideo, formando a parede externa dos espaços perivasculares.",
+      "keyPoints": [
+        {
+          "text": "Meninge mais interna, aderida à superfície nervosa, acompanha sulcos",
+          "weight": 0.4,
+          "keywords": [
+            "mais interna",
+            "sulcos"
+          ]
+        },
+        {
+          "text": "Oferece resistência ao tecido nervoso mole",
+          "weight": 0.3,
+          "keywords": [
+            "resistência",
+            "mole"
+          ]
+        },
+        {
+          "text": "Acompanha vasos, forma espaços perivasculares",
+          "weight": 0.3,
+          "keywords": [
+            "vasos",
+            "espaços perivasculares"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-105",
+      "topic": "Importância clínica das meninges",
+      "question": "Por que o conhecimento da estrutura e disposição das meninges é considerado clinicamente importante, segundo o material?",
+      "modelAnswer": "O conhecimento das meninges é clinicamente importante porque essas membranas são frequentemente acometidas por processos patológicos, como infecções (meningites) e alguns tipos de tumores, além de desempenharem um importante papel de proteção dos centros nervosos. Compreender sua estrutura e os espaços entre elas (epidural, subdural, subaracnóideo) permite, por exemplo, identificar corretamente o tipo de hematoma (epidural ou subdural) após um traumatismo craniano.",
+      "keyPoints": [
+        {
+          "text": "Meninges frequentemente acometidas por infecções/meningites/tumores",
+          "weight": 0.5,
+          "keywords": [
+            "infecções",
+            "meningites",
+            "tumores"
+          ]
+        },
+        {
+          "text": "Papel de proteção dos centros nervosos",
+          "weight": 0.25,
+          "keywords": [
+            "proteção"
+          ]
+        },
+        {
+          "text": "Permite diferenciar hematomas epidural/subdural",
+          "weight": 0.25,
+          "keywords": [
+            "hematoma epidural",
+            "hematoma subdural"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-106",
+      "topic": "Necessidade metabólica do tecido nervoso",
+      "question": "Explique por que o encéfalo depende de um suprimento sanguíneo contínuo, e o que ocorre com o indivíduo em caso de interrupção da circulação cerebral.",
+      "modelAnswer": "As células nervosas exigem, para seu metabolismo, um suprimento contínuo e elevado de glicose e oxigênio, dependendo de um processo de oxidação de carboidratos que não pode ser sustentado, nem temporariamente, por metabolismo anaeróbio. Por isso, a ausência da circulação cerebral por mais de 7 segundos já leva o indivíduo à perda da consciência, e após cerca de 5 minutos começam a aparecer lesões irreversíveis, como pode ocorrer em consequência de uma parada cardíaca.",
+      "keyPoints": [
+        {
+          "text": "Dependência de glicose e oxigênio contínuos, sem sustento anaeróbio",
+          "weight": 0.4,
+          "keywords": [
+            "glicose",
+            "oxigênio",
+            "anaeróbio"
+          ]
+        },
+        {
+          "text": "7 segundos sem circulação: perda de consciência",
+          "weight": 0.3,
+          "keywords": [
+            "7 segundos",
+            "perda da consciência"
+          ]
+        },
+        {
+          "text": "5 minutos: lesões irreversíveis",
+          "weight": 0.3,
+          "keywords": [
+            "5 minutos",
+            "lesões irreversíveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-107",
+      "topic": "Fatores que regulam a resistência cerebrovascular",
+      "question": "Cite e explique os três fatores que influenciam a resistência cerebrovascular, segundo o material.",
+      "modelAnswer": "Segundo o material, a resistência cerebrovascular depende de três fatores principais: a pressão intracraniana, que pode elevar essa resistência quando aumentada; as condições da parede dos vasos, como no caso de placas de aterosclerose, que também aumentam a resistência; e a viscosidade do sangue, que pode se elevar em indivíduos com diabetes mellitus (devido ao excesso de glicose no sangue), aumentando a resistência e afetando o calibre dos vasos cerebrais.",
+      "keyPoints": [
+        {
+          "text": "Pressão intracraniana aumentada eleva a resistência",
+          "weight": 0.3,
+          "keywords": [
+            "pressão intracraniana"
+          ]
+        },
+        {
+          "text": "Condições da parede dos vasos (ex.: aterosclerose)",
+          "weight": 0.35,
+          "keywords": [
+            "parede dos vasos",
+            "aterosclerose"
+          ]
+        },
+        {
+          "text": "Viscosidade do sangue (ex.: diabetes mellitus)",
+          "weight": 0.35,
+          "keywords": [
+            "viscosidade",
+            "diabetes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39-40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-108",
+      "topic": "Polígono de Willis",
+      "question": "Descreva a formação do Polígono de Willis e o papel das artérias comunicantes anterior e posteriores.",
+      "modelAnswer": "O Polígono de Willis é formado pelas porções proximais das artérias cerebrais anteriores, médias e posteriores, direita e esquerda, originadas das artérias carótidas internas e vertebrais na base do crânio. A artéria comunicante anterior, pequena, une as duas artérias cerebrais anteriores; as artérias comunicantes posteriores unem, de cada lado, as artérias carótidas internas com as artérias cerebrais posteriores correspondentes, formando um circuito anastomótico importante para a vascularização cerebral.",
+      "keyPoints": [
+        {
+          "text": "Formado pelas cerebrais anteriores, médias e posteriores",
+          "weight": 0.4,
+          "keywords": [
+            "cerebrais anteriores",
+            "médias",
+            "posteriores"
+          ]
+        },
+        {
+          "text": "Comunicante anterior une as duas cerebrais anteriores",
+          "weight": 0.3,
+          "keywords": [
+            "comunicante anterior"
+          ]
+        },
+        {
+          "text": "Comunicantes posteriores unem carótidas internas às cerebrais posteriores",
+          "weight": 0.3,
+          "keywords": [
+            "comunicantes posteriores",
+            "carótidas internas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-109",
+      "topic": "Território e síndrome da artéria cerebral média",
+      "question": "Descreva o território de irrigação da artéria cerebral média e as principais alterações clínicas decorrentes de sua obstrução.",
+      "modelAnswer": "A artéria cerebral média, ramo principal da carótida interna, irriga a face externa dos lobos frontais, parietais e parte do temporal, o lobo da ínsula, e parte do núcleo estriado e das cápsulas interna e externa. Esse território envolve áreas corticais importantes, como as áreas motoras, somestésicas e o centro da palavra falada e escrita. Obstruções nessa artéria, as mais comuns devido à sua conformação anatômica, podem gerar alterações motoras e diminuição da sensibilidade no hemicorpo oposto com predomínio bráquio-facial, além de afasia motora, déficits na praxia e agnosia sensitiva.",
+      "keyPoints": [
+        {
+          "text": "Irriga face externa dos lobos frontal/parietal/parte temporal, ínsula",
+          "weight": 0.35,
+          "keywords": [
+            "face externa",
+            "ínsula"
+          ]
+        },
+        {
+          "text": "Obstrução mais comum, devido à conformação anatômica",
+          "weight": 0.2,
+          "keywords": [
+            "mais comum",
+            "conformação anatômica"
+          ]
+        },
+        {
+          "text": "Alterações bráquio-faciais, afasia motora, agnosia sensitiva",
+          "weight": 0.45,
+          "keywords": [
+            "bráquio-facial",
+            "afasia motora",
+            "agnosia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-110",
+      "topic": "Território e síndrome da artéria cerebral anterior",
+      "question": "Descreva o território de irrigação da artéria cerebral anterior e as alterações clínicas decorrentes de sua obstrução.",
+      "modelAnswer": "A artéria cerebral anterior irriga a face interna dos lobos frontais e parietais, parte do corpo caloso e da comissura anterior, parte dos núcleos da base, o hipotálamo e parte da cápsula interna. A obstrução de uma das artérias cerebrais anteriores causa, entre outros sintomas, alterações motoras e diminuição da sensibilidade com predomínio no membro inferior oposto (decorrente da lesão das áreas corticais motora e sensitiva que correspondem à representação dos membros inferiores nos giros pré e pós-central), além de transtornos psíquicos.",
+      "keyPoints": [
+        {
+          "text": "Irriga face interna dos lobos frontal/parietal, corpo caloso, núcleos da base, hipotálamo",
+          "weight": 0.4,
+          "keywords": [
+            "face interna",
+            "corpo caloso",
+            "hipotálamo"
+          ]
+        },
+        {
+          "text": "Obstrução: predomínio no membro inferior oposto",
+          "weight": 0.4,
+          "keywords": [
+            "membro inferior oposto"
+          ]
+        },
+        {
+          "text": "Transtornos psíquicos associados",
+          "weight": 0.2,
+          "keywords": [
+            "transtornos psíquicos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-111",
+      "topic": "Território e síndrome da artéria cerebral posterior",
+      "question": "Descreva o território de irrigação da artéria cerebral posterior e as alterações clínicas decorrentes de sua obstrução.",
+      "modelAnswer": "A artéria cerebral posterior origina-se da bifurcação da artéria basilar e irriga o mesencéfalo, o tálamo, o lobo occipital e a parte interna do lobo temporal. Sua obstrução pode gerar alterações motoras e sensitivas de caráter transitório (devido à compressão de outros lobos por edema), além de alterações visuais, como amaurose, ambliopia e/ou agnosia visual, e alterações auditivas, como anacusia, hipoacusia e/ou agnosia auditiva.",
+      "keyPoints": [
+        {
+          "text": "Origem: bifurcação da artéria basilar",
+          "weight": 0.2,
+          "keywords": [
+            "bifurcação",
+            "basilar"
+          ]
+        },
+        {
+          "text": "Irriga mesencéfalo, tálamo, lobo occipital, parte interna do temporal",
+          "weight": 0.3,
+          "keywords": [
+            "mesencéfalo",
+            "tálamo",
+            "lobo occipital"
+          ]
+        },
+        {
+          "text": "Alterações visuais e auditivas por obstrução",
+          "weight": 0.5,
+          "keywords": [
+            "alterações visuais",
+            "alterações auditivas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-112",
+      "topic": "Vascularização venosa do encéfalo",
+      "question": "Descreva como funciona a circulação venosa do encéfalo, incluindo as forças que a impulsionam e os dois sistemas venosos.",
+      "modelAnswer": "As veias do encéfalo não acompanham as artérias, sendo maiores e mais calibrosas, com parede fina e praticamente desprovida de musculatura. Sua circulação se faz principalmente sob a ação de três forças: aspiração da cavidade torácica, força da gravidade e pulsação das artérias. As veias drenam o sangue para os seios da dura-máter, de onde converge para as veias jugulares internas. O leito venoso é muito maior que o arterial, com circulação mais lenta e baixa pressão. As veias dispõem-se em dois sistemas: o superficial, que drena o córtex e a substância branca, e o profundo, cuja veia mais importante é a veia cerebral magna.",
+      "keyPoints": [
+        {
+          "text": "Três forças: aspiração torácica, gravidade, pulsação arterial",
+          "weight": 0.3,
+          "keywords": [
+            "aspiração torácica",
+            "gravidade",
+            "pulsação"
+          ]
+        },
+        {
+          "text": "Drenagem: seios da dura-máter -> veias jugulares internas",
+          "weight": 0.3,
+          "keywords": [
+            "seios da dura-máter",
+            "jugulares internas"
+          ]
+        },
+        {
+          "text": "Dois sistemas: superficial e profundo (veia cerebral magna)",
+          "weight": 0.4,
+          "keywords": [
+            "superficial",
+            "profundo",
+            "veia cerebral magna"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41-42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-113",
+      "topic": "Vascularização arterial da medula espinhal",
+      "question": "Descreva os sistemas de vascularização arterial da medula espinhal.",
+      "modelAnswer": "A medula espinhal é irrigada por ramos de três artérias importantes: subclávia, aorta e ilíaca interna, essencialmente por meio de dois sistemas. O sistema vertical é formado por ramos das artérias vertebrais: as artérias espinhais anteriores, que percorrem o sulco mediano e irrigam os dois terços anteriores da medula, e as artérias espinhais posteriores, que percorrem os sulcos laterais posteriores e irrigam a porção posterior da medula. O sistema horizontal é formado pelas artérias radiculares, também ramos das artérias vertebrais, que se dividem em ramo anterior e posterior, penetrando na medula junto às raízes dos nervos espinhais.",
+      "keyPoints": [
+        {
+          "text": "Três artérias: subclávia, aorta, ilíaca interna",
+          "weight": 0.3,
+          "keywords": [
+            "subclávia",
+            "aorta",
+            "ilíaca interna"
+          ]
+        },
+        {
+          "text": "Sistema vertical: espinhais anteriores (2/3 anteriores) e posteriores (porção posterior)",
+          "weight": 0.4,
+          "keywords": [
+            "espinhais anteriores",
+            "espinhais posteriores"
+          ]
+        },
+        {
+          "text": "Sistema horizontal: artérias radiculares, com as raízes espinhais",
+          "weight": 0.3,
+          "keywords": [
+            "artérias radiculares",
+            "raízes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-114",
+      "topic": "Fórmula do fluxo sanguíneo cerebral",
+      "question": "Explique a fórmula de Kety (1950) para o fluxo sanguíneo cerebral e o significado de cada uma de suas variáveis.",
+      "modelAnswer": "Segundo Kety (1950), o fluxo sanguíneo cerebral (FSC) é diretamente proporcional à diferença entre a pressão arterial (PA) e a pressão venosa (PV), e inversamente proporcional à resistência cerebrovascular (RCV), conforme a fórmula FSC = (PA - PV) / RCV. Isso significa que, quanto maior a diferença de pressão entre o sistema arterial e o venoso, maior o fluxo sanguíneo cerebral; e quanto maior a resistência oferecida pelos vasos cerebrais (por fatores como pressão intracraniana, condições da parede vascular ou viscosidade sanguínea), menor será esse fluxo.",
+      "keyPoints": [
+        {
+          "text": "FSC diretamente proporcional à diferença PA-PV",
+          "weight": 0.4,
+          "keywords": [
+            "diretamente proporcional",
+            "PA",
+            "PV"
+          ]
+        },
+        {
+          "text": "FSC inversamente proporcional à resistência cerebrovascular (RCV)",
+          "weight": 0.4,
+          "keywords": [
+            "inversamente proporcional",
+            "RCV"
+          ]
+        },
+        {
+          "text": "Interpretação prática da fórmula",
+          "weight": 0.2,
+          "keywords": [
+            "interpretação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-115",
+      "topic": "AVC e territórios arteriais",
+      "question": "Explique por que é importante conhecer os territórios de irrigação das artérias cerebrais para a compreensão dos acidentes vasculares encefálicos (AVC).",
+      "modelAnswer": "É importante conhecer os territórios de irrigação das artérias cerebrais (anterior, média e posterior) porque cada uma delas nutre regiões específicas do encéfalo, com funções distintas. Em casos de obstrução dessas artérias ou de seus ramos, como ocorre nos acidentes vasculares encefálicos, surgem quadros sintomatológicos característicos e previsíveis: por exemplo, a obstrução da cerebral média gera predomínio de déficit bráquio-facial e afasia motora, enquanto a obstrução da cerebral anterior gera predomínio de déficit no membro inferior, e a obstrução da cerebral posterior gera alterações visuais e auditivas. Esse conhecimento permite ao profissional de saúde localizar clinicamente a provável artéria acometida a partir dos sinais e sintomas do paciente.",
+      "keyPoints": [
+        {
+          "text": "Cada artéria irriga região específica com funções distintas",
+          "weight": 0.3,
+          "keywords": [
+            "território",
+            "funções distintas"
+          ]
+        },
+        {
+          "text": "Obstrução gera síndromes características (AVC)",
+          "weight": 0.35,
+          "keywords": [
+            "obstrução",
+            "síndrome",
+            "AVC"
+          ]
+        },
+        {
+          "text": "Permite localizar clinicamente a artéria acometida pelos sintomas",
+          "weight": 0.35,
+          "keywords": [
+            "localizar",
+            "sintomas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40-41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -14166,6 +16340,641 @@
       "subject": "Diencéfalo e núcleos da base",
       "difficulty": "medio",
       "miniLesson": "Cite três funções gerais atribuídas aos núcleos da base. Entre as funções dos núcleos da base estão o controle motor, a seleção e automatização de rotinas, o controle de funções executivas, a motricidade automática, a regulação do tônus, o controle da motivação e a atenção e o afeto."
+    },
+    {
+      "id": "neuro-oral-096",
+      "topic": "Meninges e líquor",
+      "question": "Quais são as três meninges que envolvem o Sistema Nervoso Central?",
+      "modelAnswer": "As três meninges são a dura-máter (mais externa e espessa), a aracnoide e a pia-máter (mais interna).",
+      "keyPoints": [
+        {
+          "text": "Dura-máter",
+          "weight": 0.34,
+          "keywords": [
+            "dura-máter"
+          ]
+        },
+        {
+          "text": "Aracnoide",
+          "weight": 0.33,
+          "keywords": [
+            "aracnoide"
+          ]
+        },
+        {
+          "text": "Pia-máter",
+          "weight": 0.33,
+          "keywords": [
+            "pia-máter"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três meninges que envolvem o Sistema Nervoso Central? As três meninges são a dura-máter (mais externa e espessa), a aracnoide e a pia-máter (mais interna)."
+    },
+    {
+      "id": "neuro-oral-097",
+      "topic": "Meninges e líquor",
+      "question": "Onde está localizado o espaço epidural?",
+      "modelAnswer": "O espaço epidural está localizado entre a dura-máter e a calota craniana, e entre a dura-máter e o periósteo do canal vertebral a nível da medula.",
+      "keyPoints": [
+        {
+          "text": "Entre a dura-máter e a calota craniana/periósteo",
+          "weight": 1,
+          "keywords": [
+            "dura-máter",
+            "calota craniana"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "35"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Onde está localizado o espaço epidural? O espaço epidural está localizado entre a dura-máter e a calota craniana, e entre a dura-máter e o periósteo do canal vertebral a nível da medula."
+    },
+    {
+      "id": "neuro-oral-098",
+      "topic": "Meninges e líquor",
+      "question": "Qual é a principal vascularização da dura-máter, e por que isso é clinicamente relevante?",
+      "modelAnswer": "A dura-máter é vascularizada principalmente pela artéria meníngea média. Isso é clinicamente relevante porque, após lesões traumáticas nessa região, pode ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais.",
+      "keyPoints": [
+        {
+          "text": "Artéria meníngea média",
+          "weight": 0.5,
+          "keywords": [
+            "artéria meníngea média"
+          ]
+        },
+        {
+          "text": "Risco de hematoma expansivo e fatal",
+          "weight": 0.5,
+          "keywords": [
+            "hematoma",
+            "fatal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a principal vascularização da dura-máter, e por que isso é clinicamente relevante? A dura-máter é vascularizada principalmente pela artéria meníngea média. Isso é clinicamente relevante porque, após lesões traumáticas nessa região, pode ocorrer acúmulo de sangue com formação de hematomas que se expandem rapidamente, podendo ser fatais."
+    },
+    {
+      "id": "neuro-oral-099",
+      "topic": "Meninges e líquor",
+      "question": "O que é a tenda do cerebelo?",
+      "modelAnswer": "É um septo transversal da dura-máter localizado entre os lobos occipitais e o cerebelo.",
+      "keyPoints": [
+        {
+          "text": "Septo transversal da dura-máter",
+          "weight": 0.5,
+          "keywords": [
+            "septo transversal",
+            "dura-máter"
+          ]
+        },
+        {
+          "text": "Entre lobos occipitais e cerebelo",
+          "weight": 0.5,
+          "keywords": [
+            "lobos occipitais",
+            "cerebelo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "O que é a tenda do cerebelo? É um septo transversal da dura-máter localizado entre os lobos occipitais e o cerebelo."
+    },
+    {
+      "id": "neuro-oral-100",
+      "topic": "Meninges e líquor",
+      "question": "O que são as trabéculas aracnoides?",
+      "modelAnswer": "São delicadas trabéculas da aracnoide que se ligam à pia-máter, lembrando teias de aranha, o que justifica o nome da membrana aracnoide.",
+      "keyPoints": [
+        {
+          "text": "Ligam a aracnoide à pia-máter",
+          "weight": 0.6,
+          "keywords": [
+            "aracnoide",
+            "pia-máter"
+          ]
+        },
+        {
+          "text": "Lembram teias de aranha",
+          "weight": 0.4,
+          "keywords": [
+            "teias de aranha"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "36"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "O que são as trabéculas aracnoides? São delicadas trabéculas da aracnoide que se ligam à pia-máter, lembrando teias de aranha, o que justifica o nome da membrana aracnoide."
+    },
+    {
+      "id": "neuro-oral-101",
+      "topic": "Meninges e líquor",
+      "question": "O que é a cisterna Magna e para que é usada clinicamente?",
+      "modelAnswer": "A cisterna Magna é a maior e mais importante cisterna do espaço subaracnóideo, localizada entre a face inferior do cerebelo e a face dorsal do bulbo, sendo muitas vezes usada para a obtenção de líquor por meio de punções.",
+      "keyPoints": [
+        {
+          "text": "Maior cisterna, entre cerebelo e bulbo",
+          "weight": 0.5,
+          "keywords": [
+            "maior",
+            "cerebelo",
+            "bulbo"
+          ]
+        },
+        {
+          "text": "Usada para punção de líquor",
+          "weight": 0.5,
+          "keywords": [
+            "punção",
+            "líquor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "O que é a cisterna Magna e para que é usada clinicamente? A cisterna Magna é a maior e mais importante cisterna do espaço subaracnóideo, localizada entre a face inferior do cerebelo e a face dorsal do bulbo, sendo muitas vezes usada para a obtenção de líquor por meio de punções."
+    },
+    {
+      "id": "neuro-oral-102",
+      "topic": "Meninges e líquor",
+      "question": "Onde o líquor é produzido e onde é reabsorvido?",
+      "modelAnswer": "O líquor é produzido nos plexos coroides, a partir das células ependimárias, principalmente nos ventrículos laterais, e é reabsorvido pelas granulações aracnoides, que se projetam para o interior da dura-máter.",
+      "keyPoints": [
+        {
+          "text": "Produção: plexos coroides, ventrículos laterais",
+          "weight": 0.5,
+          "keywords": [
+            "plexos coroides",
+            "ventrículos laterais"
+          ]
+        },
+        {
+          "text": "Reabsorção: granulações aracnoides",
+          "weight": 0.5,
+          "keywords": [
+            "granulações aracnoides"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Onde o líquor é produzido e onde é reabsorvido? O líquor é produzido nos plexos coroides, a partir das células ependimárias, principalmente nos ventrículos laterais, e é reabsorvido pelas granulações aracnoides, que se projetam para o interior da dura-máter."
+    },
+    {
+      "id": "neuro-oral-103",
+      "topic": "Meninges e líquor",
+      "question": "Quais são as duas principais funções do líquor?",
+      "modelAnswer": "O líquor exerce proteção mecânica (formando um coxim líquido entre o Sistema Nervoso Central e as estruturas ósseas) e proteção biológica (defesa contra agentes infecciosos).",
+      "keyPoints": [
+        {
+          "text": "Proteção mecânica",
+          "weight": 0.5,
+          "keywords": [
+            "proteção mecânica"
+          ]
+        },
+        {
+          "text": "Proteção biológica contra infecções",
+          "weight": 0.5,
+          "keywords": [
+            "proteção biológica",
+            "infecções"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "37-38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as duas principais funções do líquor? O líquor exerce proteção mecânica (formando um coxim líquido entre o Sistema Nervoso Central e as estruturas ósseas) e proteção biológica (defesa contra agentes infecciosos)."
+    },
+    {
+      "id": "neuro-oral-104",
+      "topic": "Meninges e líquor",
+      "question": "O que é a hidrocefalia?",
+      "modelAnswer": "É uma condição caracterizada por interferência na produção, circulação ou absorção do líquor, com aumento de sua quantidade e pressão, causando dilatação dos ventrículos e compressão das estruturas nervosas.",
+      "keyPoints": [
+        {
+          "text": "Interferência na produção/circulação/absorção do líquor",
+          "weight": 0.5,
+          "keywords": [
+            "produção",
+            "circulação",
+            "absorção"
+          ]
+        },
+        {
+          "text": "Dilatação ventricular e compressão de estruturas",
+          "weight": 0.5,
+          "keywords": [
+            "dilatação",
+            "compressão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "38"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "medio",
+      "miniLesson": "O que é a hidrocefalia? É uma condição caracterizada por interferência na produção, circulação ou absorção do líquor, com aumento de sua quantidade e pressão, causando dilatação dos ventrículos e compressão das estruturas nervosas."
+    },
+    {
+      "id": "neuro-oral-105",
+      "topic": "Meninges e líquor",
+      "question": "Por que a hipertensão intracraniana pode ser fatal?",
+      "modelAnswer": "Porque a calota craniana é uma cavidade fechada e inextensível; o aumento do volume de qualquer componente (líquor, sangue ou tumor) comprime as estruturas internas, podendo causar hérnias cerebrais que comprimem o bulbo, onde está o centro cardiorrespiratório, levando ao óbito.",
+      "keyPoints": [
+        {
+          "text": "Cavidade fechada e inextensível",
+          "weight": 0.4,
+          "keywords": [
+            "fechada",
+            "inextensível"
+          ]
+        },
+        {
+          "text": "Hérnia cerebral comprime o bulbo/centro cardiorrespiratório",
+          "weight": 0.6,
+          "keywords": [
+            "hérnia cerebral",
+            "bulbo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Meninges e líquor",
+      "difficulty": "dificil",
+      "miniLesson": "Por que a hipertensão intracraniana pode ser fatal? Porque a calota craniana é uma cavidade fechada e inextensível; o aumento do volume de qualquer componente (líquor, sangue ou tumor) comprime as estruturas internas, podendo causar hérnias cerebrais que comprimem o bulbo, onde está o centro cardiorrespiratório, levando ao óbito."
+    },
+    {
+      "id": "neuro-oral-106",
+      "topic": "Vascularização do SNC",
+      "question": "O que ocorre se a circulação cerebral for interrompida por mais de 7 segundos?",
+      "modelAnswer": "O indivíduo perde a consciência; após cerca de 5 minutos sem circulação, começam a aparecer lesões irreversíveis.",
+      "keyPoints": [
+        {
+          "text": "Perda da consciência em 7 segundos",
+          "weight": 0.5,
+          "keywords": [
+            "7 segundos",
+            "consciência"
+          ]
+        },
+        {
+          "text": "Lesões irreversíveis após 5 minutos",
+          "weight": 0.5,
+          "keywords": [
+            "5 minutos",
+            "irreversíveis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "O que ocorre se a circulação cerebral for interrompida por mais de 7 segundos? O indivíduo perde a consciência; após cerca de 5 minutos sem circulação, começam a aparecer lesões irreversíveis."
+    },
+    {
+      "id": "neuro-oral-107",
+      "topic": "Vascularização do SNC",
+      "question": "Quais órgãos apresentam fluxo sanguíneo maior que o encéfalo?",
+      "modelAnswer": "O fluxo sanguíneo cerebral é muito elevado, sendo superado apenas pelo rim e pelo coração.",
+      "keyPoints": [
+        {
+          "text": "Rim",
+          "weight": 0.5,
+          "keywords": [
+            "rim"
+          ]
+        },
+        {
+          "text": "Coração",
+          "weight": 0.5,
+          "keywords": [
+            "coração"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Quais órgãos apresentam fluxo sanguíneo maior que o encéfalo? O fluxo sanguíneo cerebral é muito elevado, sendo superado apenas pelo rim e pelo coração."
+    },
+    {
+      "id": "neuro-oral-108",
+      "topic": "Vascularização do SNC",
+      "question": "O que é o Polígono de Willis?",
+      "modelAnswer": "É um polígono anastomótico formado na base do crânio pelas artérias carótidas internas e vertebrais, do qual emergem as principais artérias para a vascularização cerebral (cerebrais anteriores, médias e posteriores).",
+      "keyPoints": [
+        {
+          "text": "Formado por carótidas internas e vertebrais",
+          "weight": 0.5,
+          "keywords": [
+            "carótidas internas",
+            "vertebrais"
+          ]
+        },
+        {
+          "text": "Origina as principais artérias cerebrais",
+          "weight": 0.5,
+          "keywords": [
+            "artérias cerebrais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "40"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "O que é o Polígono de Willis? É um polígono anastomótico formado na base do crânio pelas artérias carótidas internas e vertebrais, do qual emergem as principais artérias para a vascularização cerebral (cerebrais anteriores, médias e posteriores)."
+    },
+    {
+      "id": "neuro-oral-109",
+      "topic": "Vascularização do SNC",
+      "question": "Qual território é irrigado pela artéria cerebral média, e por que suas obstruções são as mais comuns?",
+      "modelAnswer": "A artéria cerebral média irriga a face externa dos lobos frontal, parietal e parte do temporal, além do lobo da ínsula. Suas obstruções são as mais comuns devido à sua própria conformação anatômica, que favorece a instalação de trombos.",
+      "keyPoints": [
+        {
+          "text": "Face externa dos lobos frontal/parietal/temporal, ínsula",
+          "weight": 0.5,
+          "keywords": [
+            "face externa",
+            "ínsula"
+          ]
+        },
+        {
+          "text": "Conformação anatômica favorece trombos",
+          "weight": 0.5,
+          "keywords": [
+            "conformação anatômica",
+            "trombos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Qual território é irrigado pela artéria cerebral média, e por que suas obstruções são as mais comuns? A artéria cerebral média irriga a face externa dos lobos frontal, parietal e parte do temporal, além do lobo da ínsula. Suas obstruções são as mais comuns devido à sua própria conformação anatômica, que favorece a instalação de trombos."
+    },
+    {
+      "id": "neuro-oral-110",
+      "topic": "Vascularização do SNC",
+      "question": "Quais alterações clínicas ocorrem tipicamente na obstrução da artéria cerebral média?",
+      "modelAnswer": "Alterações motoras e sensitivas com predomínio bráquio-facial (membro superior e face) no hemicorpo oposto, além de afasia motora, déficits de praxia e agnosia sensitiva.",
+      "keyPoints": [
+        {
+          "text": "Predomínio bráquio-facial no hemicorpo oposto",
+          "weight": 0.5,
+          "keywords": [
+            "bráquio-facial",
+            "hemicorpo oposto"
+          ]
+        },
+        {
+          "text": "Afasia motora, déficits de praxia, agnosia sensitiva",
+          "weight": 0.5,
+          "keywords": [
+            "afasia motora",
+            "praxia",
+            "agnosia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Quais alterações clínicas ocorrem tipicamente na obstrução da artéria cerebral média? Alterações motoras e sensitivas com predomínio bráquio-facial (membro superior e face) no hemicorpo oposto, além de afasia motora, déficits de praxia e agnosia sensitiva."
+    },
+    {
+      "id": "neuro-oral-111",
+      "topic": "Vascularização do SNC",
+      "question": "De onde se origina a artéria cerebral posterior e o que ela irriga?",
+      "modelAnswer": "A artéria cerebral posterior origina-se da bifurcação da artéria basilar e irriga o mesencéfalo, o tálamo, o lobo occipital e a parte interna do lobo temporal.",
+      "keyPoints": [
+        {
+          "text": "Origem: bifurcação da artéria basilar",
+          "weight": 0.4,
+          "keywords": [
+            "basilar"
+          ]
+        },
+        {
+          "text": "Irriga mesencéfalo, tálamo, lobo occipital",
+          "weight": 0.6,
+          "keywords": [
+            "mesencéfalo",
+            "tálamo",
+            "occipital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "De onde se origina a artéria cerebral posterior e o que ela irriga? A artéria cerebral posterior origina-se da bifurcação da artéria basilar e irriga o mesencéfalo, o tálamo, o lobo occipital e a parte interna do lobo temporal."
+    },
+    {
+      "id": "neuro-oral-112",
+      "topic": "Vascularização do SNC",
+      "question": "Para onde as veias do cérebro drenam o sangue?",
+      "modelAnswer": "As veias do cérebro drenam o sangue para os seios da dura-máter, de onde converge para as veias jugulares internas.",
+      "keyPoints": [
+        {
+          "text": "Seios da dura-máter",
+          "weight": 0.5,
+          "keywords": [
+            "seios da dura-máter"
+          ]
+        },
+        {
+          "text": "Veias jugulares internas",
+          "weight": 0.5,
+          "keywords": [
+            "jugulares internas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "41"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Para onde as veias do cérebro drenam o sangue? As veias do cérebro drenam o sangue para os seios da dura-máter, de onde converge para as veias jugulares internas."
+    },
+    {
+      "id": "neuro-oral-113",
+      "topic": "Vascularização do SNC",
+      "question": "Quais são os dois sistemas de vascularização arterial da medula espinhal?",
+      "modelAnswer": "O sistema vertical, formado pelas artérias espinhais anteriores e posteriores (ramos das artérias vertebrais), e o sistema horizontal, formado pelas artérias radiculares.",
+      "keyPoints": [
+        {
+          "text": "Sistema vertical: artérias espinhais anteriores/posteriores",
+          "weight": 0.5,
+          "keywords": [
+            "vertical",
+            "espinhais"
+          ]
+        },
+        {
+          "text": "Sistema horizontal: artérias radiculares",
+          "weight": 0.5,
+          "keywords": [
+            "horizontal",
+            "radiculares"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os dois sistemas de vascularização arterial da medula espinhal? O sistema vertical, formado pelas artérias espinhais anteriores e posteriores (ramos das artérias vertebrais), e o sistema horizontal, formado pelas artérias radiculares."
+    },
+    {
+      "id": "neuro-oral-114",
+      "topic": "Vascularização do SNC",
+      "question": "Quais três artérias fornecem ramos para a vascularização da medula espinhal?",
+      "modelAnswer": "A medula espinhal é irrigada por ramos das artérias subclávia, aorta e ilíaca interna.",
+      "keyPoints": [
+        {
+          "text": "Subclávia",
+          "weight": 0.34,
+          "keywords": [
+            "subclávia"
+          ]
+        },
+        {
+          "text": "Aorta",
+          "weight": 0.33,
+          "keywords": [
+            "aorta"
+          ]
+        },
+        {
+          "text": "Ilíaca interna",
+          "weight": 0.33,
+          "keywords": [
+            "ilíaca interna"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "42"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "medio",
+      "miniLesson": "Quais três artérias fornecem ramos para a vascularização da medula espinhal? A medula espinhal é irrigada por ramos das artérias subclávia, aorta e ilíaca interna."
+    },
+    {
+      "id": "neuro-oral-115",
+      "topic": "Vascularização do SNC",
+      "question": "Segundo a fórmula de Kety (1950), de que o fluxo sanguíneo cerebral é diretamente e inversamente proporcional?",
+      "modelAnswer": "O fluxo sanguíneo cerebral é diretamente proporcional à diferença entre a pressão arterial e a pressão venosa, e inversamente proporcional à resistência cerebrovascular.",
+      "keyPoints": [
+        {
+          "text": "Diretamente proporcional à diferença PA-PV",
+          "weight": 0.5,
+          "keywords": [
+            "pressão arterial",
+            "pressão venosa"
+          ]
+        },
+        {
+          "text": "Inversamente proporcional à resistência cerebrovascular",
+          "weight": 0.5,
+          "keywords": [
+            "resistência cerebrovascular"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Sistema nervoso central.pdf",
+        "page": "39"
+      },
+      "subject": "Vascularização do SNC",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo a fórmula de Kety (1950), de que o fluxo sanguíneo cerebral é diretamente e inversamente proporcional? O fluxo sanguíneo cerebral é diretamente proporcional à diferença entre a pressão arterial e a pressão venosa, e inversamente proporcional à resistência cerebrovascular."
     }
   ]
 }
