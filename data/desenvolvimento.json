@@ -3516,6 +3516,732 @@
       "subject": "Adolescência",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a ideia da 'rebeldia adolescente' como um período universal de 'tormenta e estresse' pode ter nascido na primeira teoria formal da adolescência, elaborada pelo psicólogo: A ideia da rebeldia adolescente pode ter nascido na primeira teoria formal da adolescência, do psicólogo G. Stanley Hall, que acreditava que o esforço de adaptação dos jovens a seus corpos, somado às demandas da idade adulta, promovia um período de 'tormenta e de estresse', produzindo o conflito entre gerações. Contudo, pesquisas sugerem que menos de 20% dos adolescentes se encaixam nesse padrão."
+    },
+    {
+      "id": "desenv-obj-162",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo a divisão etária adotada no material, com base em Papalia e Feldman (2013), o jovem adulto corresponde à faixa etária de:",
+      "options": {
+        "a": "20 aos 40 anos",
+        "b": "40 aos 60 anos",
+        "c": "66 anos em diante",
+        "d": "12 aos 20 anos",
+        "e": "0 aos 20 anos"
+      },
+      "correct": "a",
+      "explanation": "O jovem adulto encontra-se no início da vida adulta, com idade de 20 aos 40 anos, segundo a divisão adotada no material.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo a divisão etária adotada no material, com base em Papalia e Feldman (2013), o jovem adulto corresponde à faixa etária de: O jovem adulto encontra-se no início da vida adulta, com idade de 20 aos 40 anos, segundo a divisão adotada no material."
+    },
+    {
+      "id": "desenv-obj-163",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, a meia-idade corresponde à faixa etária de aproximadamente:",
+      "options": {
+        "a": "40 a 60 anos",
+        "b": "20 a 40 anos",
+        "c": "66 anos em diante",
+        "d": "10 a 20 anos",
+        "e": "0 a 20 anos"
+      },
+      "correct": "a",
+      "explanation": "A meia-idade corresponde a adultos que estão no período da vida adulta intermediária, cuja idade seria em torno dos 40 a 60 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a meia-idade corresponde à faixa etária de aproximadamente: A meia-idade corresponde a adultos que estão no período da vida adulta intermediária, cuja idade seria em torno dos 40 a 60 anos."
+    },
+    {
+      "id": "desenv-obj-164",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Coll, Marchesi e Palacios (2004), citados no material, o corpo humano alcança sua maturidade física, com os maiores índices de energia e saúde, entre:",
+      "options": {
+        "a": "25 e 30 anos",
+        "b": "10 e 15 anos",
+        "c": "50 e 60 anos",
+        "d": "70 e 80 anos",
+        "e": "15 e 20 anos"
+      },
+      "correct": "a",
+      "explanation": "Coll, Marchesi e Palacios (2004) afirmam que o corpo humano alcança sua maturidade entre 25 e 30 anos, período caracterizado pelos maiores índices de energia e saúde.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Coll, Marchesi e Palacios (2004), citados no material, o corpo humano alcança sua maturidade física, com os maiores índices de energia e saúde, entre: Coll, Marchesi e Palacios (2004) afirmam que o corpo humano alcança sua maturidade entre 25 e 30 anos, período caracterizado pelos maiores índices de energia e saúde."
+    },
+    {
+      "id": "desenv-obj-165",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Palacios (2004), citado no material, sobre o processo de desenvolvimento na vida adulta, é correto afirmar que:",
+      "options": {
+        "a": "Não podemos prever o comportamento de uma pessoa apenas pela idade, pois não é a idade em si que produz as mudanças",
+        "b": "A idade cronológica determina, isoladamente, todas as mudanças do desenvolvimento adulto",
+        "c": "Não existem diferenças individuais relevantes no processo de envelhecimento",
+        "d": "O envelhecimento biológico ocorre de forma simultânea em todos os órgãos do corpo",
+        "e": "A passagem do tempo fornece, por si só, todo o conhecimento necessário para entender o desenvolvimento"
+      },
+      "correct": "a",
+      "explanation": "Segundo Palacios (2004), não podemos prever o comportamento de uma pessoa apenas pela idade; existem mudanças características de uma idade e não de outra, mas não é a idade em si que produz as mudanças.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "3"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Palacios (2004), citado no material, sobre o processo de desenvolvimento na vida adulta, é correto afirmar que: Segundo Palacios (2004), não podemos prever o comportamento de uma pessoa apenas pela idade; existem mudanças características de uma idade e não de outra, mas não é a idade em si que produz as mudanças."
+    },
+    {
+      "id": "desenv-obj-166",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Bee (1997), citado no material, dos 20 aos 30 anos, a pessoa apresenta, entre outras características:",
+      "options": {
+        "a": "Mais tecido muscular, mais cálcio nos ossos, mais massa cerebral e forte sistema imunológico",
+        "b": "Redução progressiva e já perceptível da massa cerebral e do sistema imunológico",
+        "c": "Osteoporose já instalada na maioria dos casos",
+        "d": "Perda significativa e generalizada da acuidade visual e auditiva",
+        "e": "Declínio acentuado da capacidade respiratória em relação à adolescência"
+      },
+      "correct": "a",
+      "explanation": "Bee (1997) ressalta que, dos 20 aos 30 anos, a pessoa tem mais tecido muscular, mais cálcio nos ossos, mais massa cerebral, melhor visão, audição e olfato, maior capacidade respiratória e um forte sistema imunológico.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "5"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Bee (1997), citado no material, dos 20 aos 30 anos, a pessoa apresenta, entre outras características: Bee (1997) ressalta que, dos 20 aos 30 anos, a pessoa tem mais tecido muscular, mais cálcio nos ossos, mais massa cerebral, melhor visão, audição e olfato, maior capacidade respiratória e um forte sistema imunológico."
+    },
+    {
+      "id": "desenv-obj-167",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, as causas mais comuns de limitação de atividade no jovem adulto incluem artrite e outros transtornos musculares e esqueléticos, além de:",
+      "options": {
+        "a": "Acidentes, que são a causa principal de morte e ferimento nessa fase, e homicídio e uso de substância",
+        "b": "Exclusivamente doenças cardíacas crônicas",
+        "c": "Exclusivamente câncer de mama",
+        "d": "Exclusivamente osteoporose avançada",
+        "e": "Exclusivamente demência precoce"
+      },
+      "correct": "a",
+      "explanation": "Nessa faixa etária, as causas mais comuns de limitações de atividade são artrite e outros transtornos musculares e esqueléticos, acidentes (causa principal de morte e ferimento) e homicídio e uso de substância.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "6"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as causas mais comuns de limitação de atividade no jovem adulto incluem artrite e outros transtornos musculares e esqueléticos, além de: Nessa faixa etária, as causas mais comuns de limitações de atividade são artrite e outros transtornos musculares e esqueléticos, acidentes (causa principal de morte e ferimento) e homicídio e uso de substância."
+    },
+    {
+      "id": "desenv-obj-168",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Papalia e Feldman (2013), citados no material, a causa mais comum de infertilidade nos homens é a baixa contagem de espermatozoides, enquanto nas mulheres está relacionada a:",
+      "options": {
+        "a": "Problemas hormonais, problemas nos ovários, úteros e tubas uterinas, além de endometriose",
+        "b": "Exclusivamente fatores genéticos herdados do pai",
+        "c": "Exclusivamente idade avançada acima de 60 anos",
+        "d": "Exclusivamente uso de medicamentos anti-inflamatórios",
+        "e": "Exclusivamente falta de exercício físico regular"
+      },
+      "correct": "a",
+      "explanation": "A causa mais comum de infertilidade nos homens é a baixa contagem de espermatozoides, e nas mulheres relaciona-se a problemas hormonais, problemas nos ovários, úteros e tubas uterinas, além de endometriose.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "6"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Papalia e Feldman (2013), citados no material, a causa mais comum de infertilidade nos homens é a baixa contagem de espermatozoides, enquanto nas mulheres está relacionada a: A causa mais comum de infertilidade nos homens é a baixa contagem de espermatozoides, e nas mulheres relaciona-se a problemas hormonais, problemas nos ovários, úteros e tubas uterinas, além de endometriose."
+    },
+    {
+      "id": "desenv-obj-169",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Bee (1997), citado no material, o declínio físico é esperado na meia-idade, mesmo que as mudanças sejam insignificantes e lentas. Entre as mudanças descritas, está:",
+      "options": {
+        "a": "Redução da clareza e nitidez da visão, devido a camadas acrescidas ao cristalino do olho, e perda da elasticidade",
+        "b": "Melhora progressiva e contínua da acuidade auditiva",
+        "c": "Aumento da massa óssea, independentemente do sexo",
+        "d": "Aumento da fertilidade em relação ao jovem adulto",
+        "e": "Ausência completa de qualquer alteração sensorial"
+      },
+      "correct": "a",
+      "explanation": "Para Bee (1997), na meia-idade ocorre uma redução da clareza e nitidez da visão, devido às camadas acrescidas ao cristalino do olho, e perda da elasticidade, durante os 40 e 50 anos; a perda da acuidade auditiva acontece aos poucos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Bee (1997), citado no material, o declínio físico é esperado na meia-idade, mesmo que as mudanças sejam insignificantes e lentas. Entre as mudanças descritas, está: Para Bee (1997), na meia-idade ocorre uma redução da clareza e nitidez da visão, devido às camadas acrescidas ao cristalino do olho, e perda da elasticidade, durante os 40 e 50 anos; a perda da acuidade auditiva acontece aos poucos."
+    },
+    {
+      "id": "desenv-obj-170",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, a menopausa ocorre, em geral, entre 45 e 55 anos, por causa de mudanças hormonais que incluem diminuição de estrogênio e progesterona, sendo um dos principais sintomas:",
+      "options": {
+        "a": "A onda de calorões",
+        "b": "O aumento da fertilidade",
+        "c": "A melhora da acuidade auditiva",
+        "d": "O aumento da massa óssea",
+        "e": "A redução da pressão arterial"
+      },
+      "correct": "a",
+      "explanation": "A menopausa ocorre entre 45 e 55 anos, por causa das diversas mudanças hormonais, o que inclui diminuição de estrogênio e progesterona, e um dos principais sintomas é a onda de calorões.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a menopausa ocorre, em geral, entre 45 e 55 anos, por causa de mudanças hormonais que incluem diminuição de estrogênio e progesterona, sendo um dos principais sintomas: A menopausa ocorre entre 45 e 55 anos, por causa das diversas mudanças hormonais, o que inclui diminuição de estrogênio e progesterona, e um dos principais sintomas é a onda de calorões."
+    },
+    {
+      "id": "desenv-obj-171",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas, bem como à perda óssea, que pode levar a uma condição denominada:",
+      "options": {
+        "a": "Osteoporose",
+        "b": "Endometriose",
+        "c": "Menarca",
+        "d": "Andropausa",
+        "e": "Disfunção erétil"
+      },
+      "correct": "a",
+      "explanation": "Mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas, bem como à perda óssea, levando à osteoporose; recomenda-se, ainda, exame de mamografia a partir dos 40 anos.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas, bem como à perda óssea, que pode levar a uma condição denominada: Mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas, bem como à perda óssea, levando à osteoporose; recomenda-se, ainda, exame de mamografia a partir dos 40 anos."
+    },
+    {
+      "id": "desenv-obj-172",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, comparando adultos jovens e adultos na meia-idade quanto ao tipo de doença predominante, é correto afirmar que:",
+      "options": {
+        "a": "Os adultos na meia-idade possuem mais doenças crônicas, enquanto os jovens adultos possuem tendência maior a doenças agudas",
+        "b": "Ambos os grupos apresentam exatamente a mesma proporção de doenças crônicas e agudas",
+        "c": "Os jovens adultos possuem mais doenças crônicas do que os adultos na meia-idade",
+        "d": "Doenças crônicas são exclusivas da terceira idade, não ocorrendo na meia-idade",
+        "e": "Não há qualquer diferença de mortalidade entre homens e mulheres na meia-idade"
+      },
+      "correct": "a",
+      "explanation": "Os adultos na meia-idade possuem mais doenças crônicas, se comparados aos jovens adultos, sendo que estes últimos possuem uma tendência maior de doenças agudas; as mulheres apresentam mais doenças do que os homens, mesmo que venham a morrer mais tarde.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, comparando adultos jovens e adultos na meia-idade quanto ao tipo de doença predominante, é correto afirmar que: Os adultos na meia-idade possuem mais doenças crônicas, se comparados aos jovens adultos, sendo que estes últimos possuem uma tendência maior de doenças agudas; as mulheres apresentam mais doenças do que os homens, mesmo que venham a morrer mais tarde."
+    },
+    {
+      "id": "desenv-obj-173",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, o câncer e as doenças cardíacas são consideradas as duas principais causas de morte na meia-idade, sendo que a taxa é maior:",
+      "options": {
+        "a": "Nos homens",
+        "b": "Nas mulheres",
+        "c": "Igual entre homens e mulheres",
+        "d": "Apenas em mulheres solteiras",
+        "e": "Apenas em homens casados"
+      },
+      "correct": "a",
+      "explanation": "O câncer e as doenças cardíacas são consideradas as duas principais causas de morte na meia-idade, sendo que nos homens a taxa é maior.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o câncer e as doenças cardíacas são consideradas as duas principais causas de morte na meia-idade, sendo que a taxa é maior: O câncer e as doenças cardíacas são consideradas as duas principais causas de morte na meia-idade, sendo que nos homens a taxa é maior."
+    },
+    {
+      "id": "desenv-obj-174",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, atualmente há um aumento do diabetes, sendo essa doença a:",
+      "options": {
+        "a": "Quarta principal causa de morte na meia-idade",
+        "b": "Primeira causa de morte em qualquer idade",
+        "c": "Única causa de morte em idosos",
+        "d": "Causa mais rara de morte na meia-idade",
+        "e": "Doença exclusiva do jovem adulto"
+      },
+      "correct": "a",
+      "explanation": "Atualmente temos um aumento do diabetes, sendo essa a quarta principal causa de morte na faixa etária da meia-idade, além da hipertensão, problema de saúde importante que se inicia nessa fase.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "8"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, atualmente há um aumento do diabetes, sendo essa doença a: Atualmente temos um aumento do diabetes, sendo essa a quarta principal causa de morte na faixa etária da meia-idade, além da hipertensão, problema de saúde importante que se inicia nessa fase."
+    },
+    {
+      "id": "desenv-obj-175",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, no sistema locomotor do idoso, ocorrem alterações como perda da massa e força muscular, dificuldade de manter o equilíbrio, andar lento e arrastado, além de:",
+      "options": {
+        "a": "Diminuição da altura e tendência a se inclinar para frente, em razão da acentuação da curvatura do osso",
+        "b": "Aumento significativo e constante da estatura",
+        "c": "Aumento da agilidade e da velocidade de locomoção",
+        "d": "Fortalecimento progressivo das juntas, sem qualquer endurecimento",
+        "e": "Redução do risco de fraturas ósseas"
+      },
+      "correct": "a",
+      "explanation": "No idoso, em virtude das alterações das estruturas das juntas (endurecimento) e da artrose, pode haver diminuição da estrutura (altura), e o idoso tende a se inclinar para frente, em consequência da acentuação da curvatura do osso.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no sistema locomotor do idoso, ocorrem alterações como perda da massa e força muscular, dificuldade de manter o equilíbrio, andar lento e arrastado, além de: No idoso, em virtude das alterações das estruturas das juntas (endurecimento) e da artrose, pode haver diminuição da estrutura (altura), e o idoso tende a se inclinar para frente, em consequência da acentuação da curvatura do osso."
+    },
+    {
+      "id": "desenv-obj-176",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, as alterações no sistema respiratório do idoso resultam em uma respiração menos profunda e na diminuição do reflexo da tosse e de sua eficácia, o que facilita o aparecimento de:",
+      "options": {
+        "a": "Infecções pulmonares",
+        "b": "Osteoporose",
+        "c": "Menopausa precoce",
+        "d": "Disfunção erétil",
+        "e": "Incontinência urinária"
+      },
+      "correct": "a",
+      "explanation": "As alterações no sistema respiratório do idoso resultam em respiração menos profunda e diminuição do reflexo da tosse e de sua eficácia, facilitando o aparecimento de infecções pulmonares.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as alterações no sistema respiratório do idoso resultam em uma respiração menos profunda e na diminuição do reflexo da tosse e de sua eficácia, o que facilita o aparecimento de: As alterações no sistema respiratório do idoso resultam em respiração menos profunda e diminuição do reflexo da tosse e de sua eficácia, facilitando o aparecimento de infecções pulmonares."
+    },
+    {
+      "id": "desenv-obj-177",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, no sistema sensorial do idoso, ocorre redução principalmente da audição e da visão, além de prejuízos com o olfato e o paladar, que podem ocasionar:",
+      "options": {
+        "a": "Falta de apetite e o perigo de envenenamento acidental, por não diferenciar o gosto dos alimentos",
+        "b": "Melhora significativa do apetite em relação à vida adulta",
+        "c": "Aumento da sensibilidade tátil ao calor, ao frio e à dor",
+        "d": "Nenhum impacto na alimentação do idoso",
+        "e": "Aumento da acuidade visual em relação à meia-idade"
+      },
+      "correct": "a",
+      "explanation": "O idoso terá prejuízos com o olfato e o paladar, e quando isso acontece passa a não diferenciar o gosto dos alimentos, o que poderá ocasionar a falta de apetite e o perigo de envenenamento acidental.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no sistema sensorial do idoso, ocorre redução principalmente da audição e da visão, além de prejuízos com o olfato e o paladar, que podem ocasionar: O idoso terá prejuízos com o olfato e o paladar, e quando isso acontece passa a não diferenciar o gosto dos alimentos, o que poderá ocasionar a falta de apetite e o perigo de envenenamento acidental."
+    },
+    {
+      "id": "desenv-obj-178",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, no sistema endócrino do idoso, a produção de hormônios diminui com o avançar da idade, ocorrendo alterações na capacidade de adaptação do organismo a novas situações. Isso significa que o idoso:",
+      "options": {
+        "a": "Tem maior dificuldade de retornar ao seu estado normal quando submetido a estresse e tensão",
+        "b": "Apresenta maior facilidade de adaptação a situações estressantes do que o jovem adulto",
+        "c": "Não sofre qualquer alteração hormonal com o envelhecimento",
+        "d": "Produz mais hormônios do que na fase adulta jovem",
+        "e": "Torna-se completamente imune aos efeitos do estresse"
+      },
+      "correct": "a",
+      "explanation": "No sistema endócrino, a produção de hormônios diminui com o avançar da idade, e ocorrem alterações na capacidade de adaptação do organismo a novas situações, que se torna reduzida; portanto, o idoso tem maior dificuldade de retornar ao seu estado normal quando submetido a estresse e tensão.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no sistema endócrino do idoso, a produção de hormônios diminui com o avançar da idade, ocorrendo alterações na capacidade de adaptação do organismo a novas situações. Isso significa que o idoso: No sistema endócrino, a produção de hormônios diminui com o avançar da idade, e ocorrem alterações na capacidade de adaptação do organismo a novas situações, que se torna reduzida; portanto, o idoso tem maior dificuldade de retornar ao seu estado normal quando submetido a estresse e tensão."
+    },
+    {
+      "id": "desenv-obj-179",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, quanto às alterações sexuais no idoso, é correto afirmar que:",
+      "options": {
+        "a": "As mudanças no corpo podem comprometer a função sexual, mas não a impedir",
+        "b": "A sexualidade desaparece completamente após os 65 anos",
+        "c": "Os idosos não têm qualquer interesse ou capacidade para relação sexual",
+        "d": "A sexualidade no idoso permanece idêntica à do jovem adulto, sem qualquer alteração",
+        "e": "A atividade sexual é considerada patológica na terceira idade"
+      },
+      "correct": "a",
+      "explanation": "Com relação às alterações sexuais, as mudanças no corpo do homem e da mulher podem comprometer a função sexual, mas não a impedir; não se pode afirmar que os idosos não gostam ou não conseguem ter relação sexual, ocorrendo apenas uma alteração da manifestação da sexualidade.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "10"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quanto às alterações sexuais no idoso, é correto afirmar que: Com relação às alterações sexuais, as mudanças no corpo do homem e da mulher podem comprometer a função sexual, mas não a impedir; não se pode afirmar que os idosos não gostam ou não conseguem ter relação sexual, ocorrendo apenas uma alteração da manifestação da sexualidade."
+    },
+    {
+      "id": "desenv-obj-180",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, a doença de Alzheimer é considerada:",
+      "options": {
+        "a": "Irreversível, tornando-se mais frequente com a idade e sendo hereditária, embora dieta, exercício e estilo de vida possam fazer diferença",
+        "b": "Totalmente reversível com tratamento medicamentoso simples",
+        "c": "Uma condição que afeta exclusivamente jovens adultos",
+        "d": "Sem qualquer relação com fatores hereditários",
+        "e": "Uma condição rara, que não se torna mais frequente com o avanço da idade"
+      },
+      "correct": "a",
+      "explanation": "Papalia e Feldman (2013) destacam que a depressão, o alcoolismo e outros problemas podem ser revertidos com tratamento, porém o mal de Alzheimer é irreversível; ele se torna mais frequente com a idade e é hereditário, mas dieta, exercício e outros aspectos do estilo de vida podem fazer grande diferença.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "10"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a doença de Alzheimer é considerada: Papalia e Feldman (2013) destacam que a depressão, o alcoolismo e outros problemas podem ser revertidos com tratamento, porém o mal de Alzheimer é irreversível; ele se torna mais frequente com a idade e é hereditário, mas dieta, exercício e outros aspectos do estilo de vida podem fazer grande diferença."
+    },
+    {
+      "id": "desenv-obj-181",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Bee (1997), citado no material, a demência é mais comum com o avanço da idade e afeta 15% ou mais das pessoas com idade acima de:",
+      "options": {
+        "a": "85 anos",
+        "b": "40 anos",
+        "c": "60 anos",
+        "d": "20 anos",
+        "e": "30 anos"
+      },
+      "correct": "a",
+      "explanation": "Bee (1997) ressalta que a demência é mais comum com o avanço da idade e afeta 15% ou mais dos que têm acima de 85 anos, sendo a doença de Alzheimer a causa mais comum.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "10"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Bee (1997), citado no material, a demência é mais comum com o avanço da idade e afeta 15% ou mais das pessoas com idade acima de: Bee (1997) ressalta que a demência é mais comum com o avanço da idade e afeta 15% ou mais dos que têm acima de 85 anos, sendo a doença de Alzheimer a causa mais comum."
+    },
+    {
+      "id": "desenv-obj-182",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, alguns pesquisadores do desenvolvimento propõem, para o jovem adulto, formas de cognição que vão além das operações formais de Piaget, destacando-se o pensamento reflexivo, que pode ocorrer entre os 20 e 25 anos e se caracteriza por:",
+      "options": {
+        "a": "Lógica complexa, questionamento contínuo dos fatos e capacidade de fazer inferências e conexões",
+        "b": "Aceitação passiva de qualquer informação fornecida pelos meios de comunicação",
+        "c": "Ausência completa de qualquer capacidade crítica",
+        "d": "Retorno ao pensamento pré-operatório característico da infância",
+        "e": "Incapacidade de fazer qualquer tipo de inferência lógica"
+      },
+      "correct": "a",
+      "explanation": "O pensamento reflexivo destaca a lógica complexa, possibilita questionamento contínuo dos fatos, faz inferências e conexões, permitindo uma visão crítica de opiniões e notícias sem aceitá-las como verdades absolutas.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "14"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, alguns pesquisadores do desenvolvimento propõem, para o jovem adulto, formas de cognição que vão além das operações formais de Piaget, destacando-se o pensamento reflexivo, que pode ocorrer entre os 20 e 25 anos e se caracteriza por: O pensamento reflexivo destaca a lógica complexa, possibilita questionamento contínuo dos fatos, faz inferências e conexões, permitindo uma visão crítica de opiniões e notícias sem aceitá-las como verdades absolutas."
+    },
+    {
+      "id": "desenv-obj-183",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, o pensamento pós-formal, que se inicia no começo da vida adulta em virtude da exposição à educação superior, é caracterizado por ser flexível, aberto, adaptativo e individualista, sendo capaz de lidar com:",
+      "options": {
+        "a": "Ambiguidade, incerteza, inconsistência, contradição, imperfeição e tolerância",
+        "b": "Exclusivamente certezas absolutas e verdades incontestáveis",
+        "c": "Apenas problemas concretos, sem qualquer abstração",
+        "d": "Exclusivamente questões emocionais, sem qualquer componente lógico",
+        "e": "Apenas situações previsíveis e sem qualquer ambiguidade"
+      },
+      "correct": "a",
+      "explanation": "O pensamento pós-formal busca na intuição, nas emoções e na lógica uma forma de ajudar as pessoas a enfrentarem um mundo confuso, sendo caracterizado pela capacidade de lidar com ambiguidade, incerteza, inconsistência, contradição, imperfeição e tolerância.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "14"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o pensamento pós-formal, que se inicia no começo da vida adulta em virtude da exposição à educação superior, é caracterizado por ser flexível, aberto, adaptativo e individualista, sendo capaz de lidar com: O pensamento pós-formal busca na intuição, nas emoções e na lógica uma forma de ajudar as pessoas a enfrentarem um mundo confuso, sendo caracterizado pela capacidade de lidar com ambiguidade, incerteza, inconsistência, contradição, imperfeição e tolerância."
+    },
+    {
+      "id": "desenv-obj-184",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo K. Warner Schaie, citado no material, o estágio do desenvolvimento intelectual denominado 'estágio realizador', que vai do final da adolescência ou início dos 20 anos até o começo dos 30, caracteriza-se por:",
+      "options": {
+        "a": "Usar o que se conhece para alcançar metas, como carreira profissional e família, em vez de valorizar o conhecimento por seu próprio valor",
+        "b": "Focar exclusivamente na reorganização da vida após a aposentadoria",
+        "c": "Preparar-se para a criação de uma herança e autobiografia",
+        "d": "Selecionar atividades apenas em razão de alterações biológicas já avançadas",
+        "e": "Usar a mente exclusivamente para sustentar sistemas sociais complexos"
+      },
+      "correct": "a",
+      "explanation": "No estágio realizador (final da adolescência/início dos 20 anos até o início dos 30), os jovens adultos não apresentam mais o conhecimento por seu próprio valor, passando a usar o que conhecem para alcançar metas, como carreira profissional e família.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "14"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo K. Warner Schaie, citado no material, o estágio do desenvolvimento intelectual denominado 'estágio realizador', que vai do final da adolescência ou início dos 20 anos até o começo dos 30, caracteriza-se por: No estágio realizador (final da adolescência/início dos 20 anos até o início dos 30), os jovens adultos não apresentam mais o conhecimento por seu próprio valor, passando a usar o que conhecem para alcançar metas, como carreira profissional e família."
+    },
+    {
+      "id": "desenv-obj-185",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Schaie, citado no material, o estágio 'reorganizativo', vivido no fim da meia-idade e início da vida adulta tardia, está associado à necessidade de:",
+      "options": {
+        "a": "Reorganizar a vida e as habilidades intelectuais a partir de objetivos significativos, para ocupar o espaço do trabalho remunerado após a aposentadoria",
+        "b": "Buscar exclusivamente metas relacionadas à carreira profissional inicial",
+        "c": "Elaborar a autobiografia como legado para a família",
+        "d": "Assumir responsabilidade por sistemas sociais complexos e movimentos sociais",
+        "e": "Desenvolver, por meio da mente, soluções para problemas práticos da família"
+      },
+      "correct": "a",
+      "explanation": "No estágio reorganizativo, ao final da meia-idade e início da vida adulta tardia, as pessoas, ao se aposentarem, terão que reorganizar suas vidas e habilidades intelectuais, a partir de objetivos que tenham significados para ocupar o espaço do trabalho remunerado.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "17"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo Schaie, citado no material, o estágio 'reorganizativo', vivido no fim da meia-idade e início da vida adulta tardia, está associado à necessidade de: No estágio reorganizativo, ao final da meia-idade e início da vida adulta tardia, as pessoas, ao se aposentarem, terão que reorganizar suas vidas e habilidades intelectuais, a partir de objetivos que tenham significados para ocupar o espaço do trabalho remunerado."
+    },
+    {
+      "id": "desenv-obj-186",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo a Teoria Triárquica da Inteligência de Sternberg, citada no material, o elemento que está ligado à introspecção e à criatividade, indicando como as pessoas realizam tarefas novas ou familiares e descobrem novas maneiras de unir fatos, é o elemento:",
+      "options": {
+        "a": "Experiencial",
+        "b": "Componencial",
+        "c": "Contextual",
+        "d": "Reflexivo",
+        "e": "Pós-formal"
+      },
+      "correct": "a",
+      "explanation": "O elemento experiencial está ligado à introspecção e criatividade, indicando como as pessoas conseguem realizar tarefas novas ou familiares e descobrem novas maneiras de unir fatos, ou seja, pensar originalmente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo a Teoria Triárquica da Inteligência de Sternberg, citada no material, o elemento que está ligado à introspecção e à criatividade, indicando como as pessoas realizam tarefas novas ou familiares e descobrem novas maneiras de unir fatos, é o elemento: O elemento experiencial está ligado à introspecção e criatividade, indicando como as pessoas conseguem realizar tarefas novas ou familiares e descobrem novas maneiras de unir fatos, ou seja, pensar originalmente."
+    },
+    {
+      "id": "desenv-obj-187",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Ainda segundo a Teoria Triárquica de Sternberg, o elemento extremamente prático, que demonstra como as pessoas enfrentam o ambiente e possibilita a avaliação de uma situação e a decisão do que fazer (adaptar-se, modificar ou sair da situação), é o elemento:",
+      "options": {
+        "a": "Contextual",
+        "b": "Componencial",
+        "c": "Experiencial",
+        "d": "Realizador",
+        "e": "Executivo"
+      },
+      "correct": "a",
+      "explanation": "O elemento contextual é extremamente prático, demonstrando como as pessoas enfrentam o ambiente e possibilitando a avaliação de uma situação e a decisão do que fazer, como adaptar-se a ela, modificá-la ou sair dela.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Ainda segundo a Teoria Triárquica de Sternberg, o elemento extremamente prático, que demonstra como as pessoas enfrentam o ambiente e possibilita a avaliação de uma situação e a decisão do que fazer (adaptar-se, modificar ou sair da situação), é o elemento: O elemento contextual é extremamente prático, demonstrando como as pessoas enfrentam o ambiente e possibilitando a avaliação de uma situação e a decisão do que fazer, como adaptar-se a ela, modificá-la ou sair dela."
+    },
+    {
+      "id": "desenv-obj-188",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, na meia-idade, o QI apresenta, por volta dos 50 a 55 anos:",
+      "options": {
+        "a": "Um aumento, seguido de queda gradativa posterior, com pouco impacto na memória nesse período",
+        "b": "Uma queda irreversível e acentuada, sem qualquer possibilidade de recuperação posterior",
+        "c": "Estabilidade total, sem qualquer alteração ao longo de toda a vida adulta",
+        "d": "Um declínio idêntico ao observado na doença de Alzheimer",
+        "e": "Nenhuma relação com o desempenho cognitivo geral"
+      },
+      "correct": "a",
+      "explanation": "Na meia-idade, o QI tem um aumento por volta dos 50-55 anos, porém pesquisas demonstram que depois ocorre uma queda gradativa; a memória sofre pouco impacto de declínio nesse período, com perda superficial na velocidade da lembrança.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "19"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na meia-idade, o QI apresenta, por volta dos 50 a 55 anos: Na meia-idade, o QI tem um aumento por volta dos 50-55 anos, porém pesquisas demonstram que depois ocorre uma queda gradativa; a memória sofre pouco impacto de declínio nesse período, com perda superficial na velocidade da lembrança."
+    },
+    {
+      "id": "desenv-obj-189",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, no idoso, as memórias sensorial, semântica e de procedimento funcionam tão bem quanto em adultos mais jovens. Entretanto, as memórias que não são tão eficientes nessa fase são a:",
+      "options": {
+        "a": "Memória de trabalho e a memória episódica",
+        "b": "Memória sensorial e a memória semântica",
+        "c": "Memória de procedimento exclusivamente",
+        "d": "Nenhuma memória é afetada no idoso",
+        "e": "Todas as memórias são igualmente afetadas"
+      },
+      "correct": "a",
+      "explanation": "As memórias sensorial, semântica e de procedimento funcionam tão bem quanto em adultos mais jovens; entretanto, a capacidade da memória de trabalho e da memória episódica não é tão eficiente no idoso.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no idoso, as memórias sensorial, semântica e de procedimento funcionam tão bem quanto em adultos mais jovens. Entretanto, as memórias que não são tão eficientes nessa fase são a: As memórias sensorial, semântica e de procedimento funcionam tão bem quanto em adultos mais jovens; entretanto, a capacidade da memória de trabalho e da memória episódica não é tão eficiente no idoso."
+    },
+    {
+      "id": "desenv-obj-190",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, no início da vida adulta, ocorre um processo denominado recentralização, relacionado ao desenvolvimento gradativo de uma identidade adulta em busca de estabilidade, no qual:",
+      "options": {
+        "a": "O poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente",
+        "b": "A família de origem assume permanentemente todas as decisões do jovem adulto",
+        "c": "O jovem adulto rompe definitivamente e sem qualquer negociação com a família de origem",
+        "d": "Não há qualquer mudança na relação entre o jovem adulto e sua família de origem",
+        "e": "A responsabilidade financeira é sempre imediatamente assumida, sem qualquer estágio intermediário"
+      },
+      "correct": "a",
+      "explanation": "A recentralização é a principal tarefa no início da vida adulta, ocorrendo em três estágios, nos quais o poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "20"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no início da vida adulta, ocorre um processo denominado recentralização, relacionado ao desenvolvimento gradativo de uma identidade adulta em busca de estabilidade, no qual: A recentralização é a principal tarefa no início da vida adulta, ocorrendo em três estágios, nos quais o poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente."
+    },
+    {
+      "id": "desenv-obj-191",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Erikson, citado no material, o jovem adulto luta com o desafio de construir intimidade, um laço duradouro caracterizado por cuidado, compartilhamento e confiança. Caso não consiga assumir relacionamentos sérios, o jovem adulto pode tornar-se muito isolado. O resultado bem-sucedido desse estágio é a virtude:",
+      "options": {
+        "a": "Do amor",
+        "b": "Da sabedoria",
+        "c": "Da esperança",
+        "d": "Da generatividade",
+        "e": "Da integridade"
+      },
+      "correct": "a",
+      "explanation": "O resultado desse estágio (intimidade versus isolamento) é a virtude do amor — uma devoção mútua entre pessoas que escolheram ficar juntas, ter filhos e ajudá-los a alcançar seu próprio desenvolvimento saudável.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "30"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Erikson, citado no material, o jovem adulto luta com o desafio de construir intimidade, um laço duradouro caracterizado por cuidado, compartilhamento e confiança. Caso não consiga assumir relacionamentos sérios, o jovem adulto pode tornar-se muito isolado. O resultado bem-sucedido desse estágio é a virtude: O resultado desse estágio (intimidade versus isolamento) é a virtude do amor — uma devoção mútua entre pessoas que escolheram ficar juntas, ter filhos e ajudá-los a alcançar seu próprio desenvolvimento saudável."
+    },
+    {
+      "id": "desenv-obj-192",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Morris e Maisto (2004), citados no material, na meia-idade, de acordo com a Teoria de Erikson, o principal desafio é a produtividade (generatividade) versus a estagnação. Caso o indivíduo não consiga atingir esse estágio, a vida se torna:",
+      "options": {
+        "a": "Uma rotina monótona e sem sentido, e a pessoa se sente estagnada e entediada",
+        "b": "Automaticamente mais criativa e produtiva",
+        "c": "Focada exclusivamente em relacionamentos íntimos, sem qualquer outra consequência",
+        "d": "Idêntica à experimentada no início da vida adulta, sem qualquer diferença",
+        "e": "Marcada exclusivamente por sentimentos de integridade e sabedoria"
+      },
+      "correct": "a",
+      "explanation": "Se o indivíduo não consegue atingir o estágio de produtividade (generatividade), a vida se torna uma rotina monótona e sem sentido, e a pessoa se sente estagnada e entediada.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "31"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Morris e Maisto (2004), citados no material, na meia-idade, de acordo com a Teoria de Erikson, o principal desafio é a produtividade (generatividade) versus a estagnação. Caso o indivíduo não consiga atingir esse estágio, a vida se torna: Se o indivíduo não consegue atingir o estágio de produtividade (generatividade), a vida se torna uma rotina monótona e sem sentido, e a pessoa se sente estagnada e entediada."
+    },
+    {
+      "id": "desenv-obj-193",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Rodrigues, Diogo e Barros (1996), citados no material, entre os conflitos emergentes no idoso está a perda da posição social, muito comum entre idosos inativos após a aposentadoria, que pode gerar um sentimento de inutilidade capaz de levar à:",
+      "options": {
+        "a": "Depressão",
+        "b": "Euforia constante",
+        "c": "Aumento da autoestima imediata",
+        "d": "Melhora automática da saúde física",
+        "e": "Redução da solidão"
+      },
+      "correct": "a",
+      "explanation": "A perda da posição social é comum entre idosos inativos; após a aposentadoria, sentem-se inúteis na sociedade, perdem espaço no lar e enfrentam maior dificuldade no relacionamento, o que gera um sentimento de inutilidade que pode levar à depressão.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "33"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Rodrigues, Diogo e Barros (1996), citados no material, entre os conflitos emergentes no idoso está a perda da posição social, muito comum entre idosos inativos após a aposentadoria, que pode gerar um sentimento de inutilidade capaz de levar à: A perda da posição social é comum entre idosos inativos; após a aposentadoria, sentem-se inúteis na sociedade, perdem espaço no lar e enfrentam maior dificuldade no relacionamento, o que gera um sentimento de inutilidade que pode levar à depressão."
+    },
+    {
+      "id": "desenv-obj-194",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo o material, o último estágio da Teoria de Erikson, vivido na velhice, é denominado integridade do ego versus desespero, e culmina na virtude da:",
+      "options": {
+        "a": "Sabedoria, ou aceitação da vida e da morte iminente",
+        "b": "Intimidade e do amor",
+        "c": "Produtividade e da generatividade exclusivamente",
+        "d": "Autonomia e da iniciativa",
+        "e": "Confiança básica"
+      },
+      "correct": "a",
+      "explanation": "O estágio final de Erik Erikson, integridade do ego versus desespero, culmina na virtude da sabedoria, ou na aceitação da vida e da morte iminente; se o idoso não conseguir aceitar o passado como digno de valor, confronta a probabilidade de depressão e desespero.",
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "34"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o último estágio da Teoria de Erikson, vivido na velhice, é denominado integridade do ego versus desespero, e culmina na virtude da: O estágio final de Erik Erikson, integridade do ego versus desespero, culmina na virtude da sabedoria, ou na aceitação da vida e da morte iminente; se o idoso não conseguir aceitar o passado como digno de valor, confronta a probabilidade de depressão e desespero."
     }
   ],
   "discursive": [
@@ -6171,6 +6897,455 @@
       },
       "subject": "Adolescência",
       "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-055",
+      "topic": "Divisões da vida adulta",
+      "question": "Apresente as três divisões da vida adulta adotadas no material (jovem adulto, meia-idade e idoso), com suas respectivas faixas etárias, e cite outra proposta de divisão de outro autor mencionado.",
+      "modelAnswer": "O material adota a divisão: jovem adulto (20 a 40 anos), meia-idade (40 a 60 anos) e idoso (66 anos em diante). Outras propostas de divisão são semelhantes: Papalia e Feldman (2013) dividem a vida adulta em jovem adulto, vida adulta intermediária e vida adulta tardia; Coll, Marchesi e Palacios (2004) consideram idade adulta, meia-idade e velhice; e Bee (1997) estabelece início da vida adulta, vida adulta intermediária e vida adulta tardia.",
+      "keyPoints": [
+        {
+          "text": "Jovem adulto: 20-40 anos",
+          "weight": 0.3,
+          "keywords": [
+            "jovem adulto",
+            "20",
+            "40"
+          ]
+        },
+        {
+          "text": "Meia-idade: 40-60 anos",
+          "weight": 0.3,
+          "keywords": [
+            "meia-idade",
+            "40",
+            "60"
+          ]
+        },
+        {
+          "text": "Idoso: 66 anos em diante",
+          "weight": 0.2,
+          "keywords": [
+            "idoso",
+            "66"
+          ]
+        },
+        {
+          "text": "Outra proposta de divisão (Papalia/Feldman, Coll/Marchesi/Palacios ou Bee)",
+          "weight": 0.2,
+          "keywords": [
+            "Papalia",
+            "Coll",
+            "Bee"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-056",
+      "topic": "Alterações no sistema locomotor e sensorial do idoso",
+      "question": "Descreva as principais alterações do sistema locomotor e do sistema sensorial no idoso, segundo o material.",
+      "modelAnswer": "No sistema locomotor, os ossos ficam mais frágeis, com maior risco de fratura; ocorre perda de massa e força muscular, dificultando o equilíbrio, o que pode levar ao andar lento e arrastado e à diminuição da agilidade; devido ao endurecimento das juntas e à artrose, pode haver diminuição da altura e tendência do idoso a se inclinar para frente. No sistema sensorial, ocorre redução principalmente da audição e da visão; o idoso também sofre prejuízos com o olfato e o paladar, podendo não diferenciar o gosto dos alimentos, o que pode ocasionar falta de apetite e risco de envenenamento acidental; alguns idosos apresentam ainda diminuição do tato, não distinguindo com facilidade calor, frio e dor.",
+      "keyPoints": [
+        {
+          "text": "Sistema locomotor: ossos frágeis, perda de massa muscular, dificuldade de equilíbrio",
+          "weight": 0.35,
+          "keywords": [
+            "ossos frágeis",
+            "massa muscular",
+            "equilíbrio"
+          ]
+        },
+        {
+          "text": "Inclinação para frente por endurecimento das juntas/artrose",
+          "weight": 0.15,
+          "keywords": [
+            "inclinação",
+            "artrose"
+          ]
+        },
+        {
+          "text": "Sistema sensorial: redução de audição e visão",
+          "weight": 0.25,
+          "keywords": [
+            "audição",
+            "visão"
+          ]
+        },
+        {
+          "text": "Prejuízos no olfato/paladar (risco de envenenamento) e tato",
+          "weight": 0.25,
+          "keywords": [
+            "olfato",
+            "paladar",
+            "tato"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-057",
+      "topic": "Menopausa e mudanças físicas na meia-idade",
+      "question": "Explique as principais mudanças físicas associadas à menopausa e outras alterações físicas típicas da meia-idade, segundo o material.",
+      "modelAnswer": "A menopausa ocorre entre 45 e 55 anos, por causa de mudanças hormonais que incluem diminuição de estrogênio e progesterona, sendo um dos principais sintomas a onda de calorões. Mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas e à perda óssea, que pode levar à osteoporose; as chances de desenvolver câncer de mama também aumentam, recomendando-se mamografia a partir dos 40 anos. Além disso, ocorre redução da clareza e nitidez da visão e perda gradual da acuidade auditiva; muitos homens apresentam disfunção erétil, com causas físicas, de saúde, estilo de vida ou bem-estar emocional, e há um declínio na capacidade reprodutiva, mais lento nos homens e mais rápido nas mulheres.",
+      "keyPoints": [
+        {
+          "text": "Menopausa: 45-55 anos, diminuição de estrogênio/progesterona, calorões",
+          "weight": 0.35,
+          "keywords": [
+            "menopausa",
+            "estrogênio",
+            "calorões"
+          ]
+        },
+        {
+          "text": "Risco de doenças cardíacas, osteoporose e câncer de mama",
+          "weight": 0.3,
+          "keywords": [
+            "osteoporose",
+            "câncer de mama"
+          ]
+        },
+        {
+          "text": "Redução da visão/audição; disfunção erétil nos homens",
+          "weight": 0.35,
+          "keywords": [
+            "visão",
+            "audição",
+            "disfunção erétil"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-058",
+      "topic": "Estágios de Schaie no idoso",
+      "question": "Descreva os três estágios do desenvolvimento intelectual do idoso, propostos por K. Warner Schaie e citados no material: reorganizativo, reintegrativo e de criação de herança.",
+      "modelAnswer": "No estágio reorganizativo, vivido no fim da meia-idade e início da vida adulta tardia, as pessoas, ao se aposentarem, precisam reorganizar suas vidas e habilidades intelectuais a partir de objetivos com significado, para ocupar o espaço antes dedicado ao trabalho remunerado. No estágio reintegrativo, na vida adulta tardia, os idosos, por vivenciarem alterações biológicas e cognitivas, procuram selecionar as atividades nas quais desejam investir esforço, focando em objetivos e tarefas com mais significado para eles. No estágio de criação de herança, na velhice avançada, diante da certeza da morte, os idosos procuram elaborar instruções para a distribuição de seus bens, preparam-se para o funeral, contam histórias ou escrevem autobiografias como forma de deixar um legado para parentes e amigos.",
+      "keyPoints": [
+        {
+          "text": "Reorganizativo: reorganizar vida/habilidades após a aposentadoria",
+          "weight": 0.35,
+          "keywords": [
+            "reorganizativo",
+            "aposentadoria"
+          ]
+        },
+        {
+          "text": "Reintegrativo: seleciona atividades com mais significado, diante de alterações biológicas/cognitivas",
+          "weight": 0.35,
+          "keywords": [
+            "reintegrativo",
+            "significado"
+          ]
+        },
+        {
+          "text": "Criação de herança: preparação para a morte, legado, autobiografia",
+          "weight": 0.3,
+          "keywords": [
+            "criação de herança",
+            "legado",
+            "autobiografia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "17"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-059",
+      "topic": "Teoria Triárquica de Sternberg",
+      "question": "Explique os três elementos da Teoria Triárquica da Inteligência de Sternberg, aplicados à vida adulta segundo o material.",
+      "modelAnswer": "O elemento componencial relaciona-se ao enfoque analítico da inteligência, determinando a eficiência com que a pessoa processa a informação; é usado para resolução de problemas, monitoramento de soluções e avaliação de resultados. O elemento experiencial está ligado à introspecção e à criatividade, indicando como as pessoas realizam tarefas novas ou familiares, comparando novas informações com o que já sabem e descobrindo novas maneiras de unir fatos — pensar originalmente. O elemento contextual é extremamente prático, demonstrando como as pessoas enfrentam o ambiente, possibilitando avaliar uma situação e decidir o que fazer, como adaptar-se a ela, modificá-la ou sair dela. Segundo a teoria, os adultos possuem os três elementos em maior ou menor grau, podendo se destacar em um, dois ou nos três.",
+      "keyPoints": [
+        {
+          "text": "Elemento componencial: enfoque analítico, resolução de problemas",
+          "weight": 0.35,
+          "keywords": [
+            "componencial",
+            "analítico",
+            "resolução de problemas"
+          ]
+        },
+        {
+          "text": "Elemento experiencial: introspecção e criatividade",
+          "weight": 0.35,
+          "keywords": [
+            "experiencial",
+            "introspecção",
+            "criatividade"
+          ]
+        },
+        {
+          "text": "Elemento contextual: prático, adaptação ao ambiente",
+          "weight": 0.3,
+          "keywords": [
+            "contextual",
+            "prático",
+            "adaptação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-060",
+      "topic": "Recentralização no jovem adulto",
+      "question": "Descreva o processo de recentralização no início da vida adulta e seus três estágios, segundo o material.",
+      "modelAnswer": "A recentralização é a principal tarefa no início da vida adulta, relacionada ao desenvolvimento gradativo de uma identidade adulta em busca de estabilidade; nela, o poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente. No Estágio 1, a pessoa ainda pertence à família de origem, mas espera-se que a autoconfiança e o autodirecionamento comecem a aumentar. No Estágio 2, a pessoa ainda pode depender financeiramente da família, mas não sente que pertence mais a ela; envolve-se com universidade, trabalho e relacionamentos íntimos ainda não definitivos. No Estágio 3, perto dos 30 anos, relaciona-se com a independência dos pais (mantendo relacionamento próximo), o compromisso com uma profissão, um relacionamento afetivo e, possivelmente, filhos.",
+      "keyPoints": [
+        {
+          "text": "Recentralização: transferência de poder/responsabilidade da família para o jovem",
+          "weight": 0.3,
+          "keywords": [
+            "recentralização",
+            "transferência",
+            "família"
+          ]
+        },
+        {
+          "text": "Estágio 1: pertence à família, aumento de autoconfiança",
+          "weight": 0.25,
+          "keywords": [
+            "estágio 1",
+            "autoconfiança"
+          ]
+        },
+        {
+          "text": "Estágio 2: dependência financeira mas não pertencimento, envolvimentos não definitivos",
+          "weight": 0.25,
+          "keywords": [
+            "estágio 2",
+            "dependência financeira"
+          ]
+        },
+        {
+          "text": "Estágio 3: independência, profissão, relacionamento afetivo, filhos",
+          "weight": 0.2,
+          "keywords": [
+            "estágio 3",
+            "independência",
+            "30 anos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "20"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "desenv-disc-061",
+      "topic": "Crise de meia-idade e crise normativa",
+      "question": "Explique o conceito de crise normativa e por que, segundo o material, a chamada 'crise de meia-idade' não é apoiada pelas pesquisas como uma crise normativa.",
+      "modelAnswer": "Crise normativa é definida no material como os eventos esperados socialmente, marcantes, frequentes e específicos em determinado momento do ciclo de vida. Apesar de ser divulgada a existência de uma crise de meia-idade, as pesquisas não apoiam a ideia de uma crise normativa nessa fase; é mais correto referir-se a uma transição, que pode representar um momento psicológico decisivo. A saúde física e mental é influenciada positivamente pelos relacionamentos, embora estes também possam apresentar momentos estressantes; estudos sobre a qualidade dos casamentos sugerem, inclusive, uma melhora no relacionamento do casal após os filhos deixarem a casa dos pais.",
+      "keyPoints": [
+        {
+          "text": "Crise normativa: eventos esperados socialmente, marcantes e específicos de uma fase",
+          "weight": 0.4,
+          "keywords": [
+            "crise normativa",
+            "eventos esperados"
+          ]
+        },
+        {
+          "text": "Pesquisas não apoiam a meia-idade como crise normativa; é uma transição",
+          "weight": 0.4,
+          "keywords": [
+            "não apoiam",
+            "transição"
+          ]
+        },
+        {
+          "text": "Relacionamentos podem melhorar após os filhos saírem de casa",
+          "weight": 0.2,
+          "keywords": [
+            "relacionamentos",
+            "filhos deixarem a casa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "22"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-062",
+      "topic": "Estágios de Erikson na vida adulta",
+      "question": "Descreva os três estágios da Teoria de Erikson relacionados ao jovem adulto, à meia-idade e ao idoso, com suas respectivas crises e virtudes resultantes.",
+      "modelAnswer": "No jovem adulto, o estágio é intimidade versus isolamento: o jovem adulto luta para construir laços duradouros de cuidado, compartilhamento e confiança; se não conseguir assumir relacionamentos sérios, pode tornar-se isolado e absorvido em si mesmo; a virtude resultante do sucesso nesse estágio é o amor. Na meia-idade, o estágio é produtividade (generatividade) versus estagnação: relaciona-se à capacidade de continuar produtivo e criativo, orientando e encorajando as gerações futuras; caso não seja atingido, a vida se torna monótona e a pessoa se sente estagnada. No idoso, o estágio final é integridade do ego versus desespero, que culmina na virtude da sabedoria, ou na aceitação da vida e da morte iminente; se o idoso não conseguir aceitar o passado como digno de valor, confronta a probabilidade de depressão e desespero.",
+      "keyPoints": [
+        {
+          "text": "Jovem adulto: intimidade x isolamento, virtude do amor",
+          "weight": 0.35,
+          "keywords": [
+            "intimidade",
+            "isolamento",
+            "amor"
+          ]
+        },
+        {
+          "text": "Meia-idade: generatividade x estagnação",
+          "weight": 0.35,
+          "keywords": [
+            "generatividade",
+            "estagnação"
+          ]
+        },
+        {
+          "text": "Idoso: integridade do ego x desespero, virtude da sabedoria",
+          "weight": 0.3,
+          "keywords": [
+            "integridade do ego",
+            "desespero",
+            "sabedoria"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "30-34"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-063",
+      "topic": "Conflitos emergentes no idoso",
+      "question": "Cite e explique quatro conflitos emergentes no idoso descritos por Rodrigues, Diogo e Barros (1996) no material.",
+      "modelAnswer": "A perda da posição social é comum entre idosos inativos: após a aposentadoria, sentem-se inúteis, perdem espaço no lar e enfrentam dificuldade no relacionamento, gerando sentimento de inutilidade que pode levar à depressão. A solidão ocorre pelo pouco contato com pessoas, decorrente de dificuldades de transporte, financeiras, incapacidade física ou número reduzido de familiares e amigos. A aflição ou angústia relaciona-se à perda de parentes ou amigos (por morte ou mudança) e de órgãos por doenças, podendo levar à depressão e, em casos extremos, ao suicídio. A dependência física ou psicossocial afeta a saúde do idoso, podendo causar isolamento, depressão e falta de companhia para atividades básicas como alimentação, banho e transporte.",
+      "keyPoints": [
+        {
+          "text": "Perda da posição social: sentimento de inutilidade após aposentadoria",
+          "weight": 0.25,
+          "keywords": [
+            "perda da posição social",
+            "aposentadoria"
+          ]
+        },
+        {
+          "text": "Solidão: pouco contato social, dificuldades diversas",
+          "weight": 0.25,
+          "keywords": [
+            "solidão"
+          ]
+        },
+        {
+          "text": "Aflição/angústia: perda de parentes/amigos, risco de depressão/suicídio",
+          "weight": 0.25,
+          "keywords": [
+            "aflição",
+            "angústia",
+            "perda"
+          ]
+        },
+        {
+          "text": "Dependência: física/psicossocial, isolamento e falta de companhia",
+          "weight": 0.25,
+          "keywords": [
+            "dependência",
+            "isolamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "33"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
+    },
+    {
+      "id": "desenv-disc-064",
+      "topic": "Mudanças cognitivas no idoso",
+      "question": "Explique como o material descreve o funcionamento cognitivo no idoso, incluindo os tipos de memória preservados e os afetados, e a questão da plasticidade cognitiva.",
+      "modelAnswer": "Segundo Papalia e Feldman (2013), o funcionamento cognitivo no idoso é muito questionado: há pessoas que declinam em todas ou na maioria das áreas, mas também muitas que melhoram em algumas. Os problemas práticos são resolvidos com mais eficiência quando são importantes emocionalmente para o idoso, e a diminuição no funcionamento do sistema nervoso central pode impactar a velocidade do processamento de informação. As memórias sensorial, semântica e de procedimento funcionam tão bem quanto em adultos mais jovens; entretanto, a capacidade da memória de trabalho e da memória episódica não é tão eficiente. Com o tempo, a complexidade gramatical e o conteúdo da fala também declinam, relacionados a dificuldades de codificação, armazenamento e recuperação. Apesar disso, pessoas idosas podem apresentar considerável plasticidade no desempenho cognitivo e se beneficiar de treinamento.",
+      "keyPoints": [
+        {
+          "text": "Funcionamento cognitivo variável: alguns declinam, outros melhoram",
+          "weight": 0.25,
+          "keywords": [
+            "variável",
+            "declinam",
+            "melhoram"
+          ]
+        },
+        {
+          "text": "Memórias sensorial/semântica/procedimento preservadas",
+          "weight": 0.3,
+          "keywords": [
+            "sensorial",
+            "semântica",
+            "procedimento",
+            "preservadas"
+          ]
+        },
+        {
+          "text": "Memória de trabalho e episódica menos eficientes",
+          "weight": 0.25,
+          "keywords": [
+            "memória de trabalho",
+            "episódica",
+            "menos eficiente"
+          ]
+        },
+        {
+          "text": "Plasticidade cognitiva: benefício de treinamento",
+          "weight": 0.2,
+          "keywords": [
+            "plasticidade",
+            "treinamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -8196,6 +9371,373 @@
       "subject": "Adolescência",
       "difficulty": "medio",
       "miniLesson": "Segundo pesquisas citadas no material, qual é a real proporção de adolescentes que se encaixam no padrão de 'rebeldia adolescente' proposto por G. Stanley Hall? Embora a ideia de rebeldia adolescente como um período universal de 'tormenta e estresse' tenha sido proposta por G. Stanley Hall, pesquisas realizadas com adolescentes nos Estados Unidos e em outros países sugerem que menos de 20% dos adolescentes — pelo menos entre os que permanecem na escola — se encaixam nesse padrão de turbulência emocional extrema e ruptura com os valores familiares."
+    },
+    {
+      "id": "desenv-oral-056",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Quais são as três faixas etárias da vida adulta adotadas no material, com base em Papalia e Feldman (2013)?",
+      "modelAnswer": "O material adota três divisões: jovem adulto, dos 20 aos 40 anos; meia-idade, dos 40 aos 60 anos; e idoso, a partir dos 66 anos.",
+      "keyPoints": [
+        {
+          "text": "Jovem adulto: 20-40 anos",
+          "weight": 0.34,
+          "keywords": [
+            "jovem adulto",
+            "20",
+            "40"
+          ]
+        },
+        {
+          "text": "Meia-idade: 40-60 anos",
+          "weight": 0.33,
+          "keywords": [
+            "meia-idade",
+            "40",
+            "60"
+          ]
+        },
+        {
+          "text": "Idoso: 66 anos em diante",
+          "weight": 0.33,
+          "keywords": [
+            "idoso",
+            "66"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "4"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três faixas etárias da vida adulta adotadas no material, com base em Papalia e Feldman (2013)? O material adota três divisões: jovem adulto, dos 20 aos 40 anos; meia-idade, dos 40 aos 60 anos; e idoso, a partir dos 66 anos."
+    },
+    {
+      "id": "desenv-oral-057",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Por que, segundo Palacios (2004), não podemos prever o comportamento de uma pessoa apenas pela sua idade cronológica?",
+      "modelAnswer": "Segundo Palacios (2004), existem mudanças características de uma determinada idade e não de outra, mas não é a idade em si que produz essas mudanças. O processo de envelhecimento é influenciado por um conjunto complexo de fatores genéticos e ambientais, e ocorre de forma distinta entre diferentes órgãos e funções, variando bastante entre os indivíduos.",
+      "keyPoints": [
+        {
+          "text": "A idade não é a causa direta das mudanças; há mudanças características de cada fase",
+          "weight": 0.5,
+          "keywords": [
+            "não é a idade em si",
+            "características"
+          ]
+        },
+        {
+          "text": "Influência de fatores genéticos e ambientais, com variação individual",
+          "weight": 0.5,
+          "keywords": [
+            "genéticos",
+            "ambientais",
+            "variação individual"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "3"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Por que, segundo Palacios (2004), não podemos prever o comportamento de uma pessoa apenas pela sua idade cronológica? Segundo Palacios (2004), existem mudanças características de uma determinada idade e não de outra, mas não é a idade em si que produz essas mudanças. O processo de envelhecimento é influenciado por um conjunto complexo de fatores genéticos e ambientais, e ocorre de forma distinta entre diferentes órgãos e funções, variando bastante entre os indivíduos."
+    },
+    {
+      "id": "desenv-oral-058",
+      "topic": "Idade adulta e terceira idade",
+      "question": "O que ocorre com o corpo durante a menopausa, segundo o material?",
+      "modelAnswer": "A menopausa ocorre entre 45 e 55 anos, por causa de mudanças hormonais que incluem diminuição de estrogênio e progesterona, sendo um dos principais sintomas a onda de calorões. As mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas e à perda óssea, que pode levar à osteoporose, além do aumento do risco de câncer de mama.",
+      "keyPoints": [
+        {
+          "text": "Ocorre entre 45-55 anos, com diminuição de estrogênio/progesterona",
+          "weight": 0.5,
+          "keywords": [
+            "45",
+            "55 anos",
+            "estrogênio"
+          ]
+        },
+        {
+          "text": "Sintoma: calorões; riscos: doenças cardíacas, osteoporose, câncer de mama",
+          "weight": 0.5,
+          "keywords": [
+            "calorões",
+            "osteoporose",
+            "câncer de mama"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "7"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "O que ocorre com o corpo durante a menopausa, segundo o material? A menopausa ocorre entre 45 e 55 anos, por causa de mudanças hormonais que incluem diminuição de estrogênio e progesterona, sendo um dos principais sintomas a onda de calorões. As mulheres após a menopausa tornam-se mais suscetíveis a doenças cardíacas e à perda óssea, que pode levar à osteoporose, além do aumento do risco de câncer de mama."
+    },
+    {
+      "id": "desenv-oral-059",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Explique as alterações no sistema cardiovascular do idoso descritas no material.",
+      "modelAnswer": "No sistema cardiovascular, ocorrem modificações no coração e nos vasos sanguíneos (artérias e veias), levando a alterações no funcionamento de ambos. Como resultado dessas mudanças, o idoso pode apresentar aumento da pressão arterial, batimento cardíaco irregular dentro de determinados limites e lesões dos vasos, principalmente nas extremidades.",
+      "keyPoints": [
+        {
+          "text": "Modificações no coração e vasos sanguíneos",
+          "weight": 0.4,
+          "keywords": [
+            "coração",
+            "vasos sanguíneos"
+          ]
+        },
+        {
+          "text": "Aumento da pressão arterial e batimento irregular",
+          "weight": 0.3,
+          "keywords": [
+            "pressão arterial",
+            "batimento irregular"
+          ]
+        },
+        {
+          "text": "Lesões dos vasos, principalmente nas extremidades",
+          "weight": 0.3,
+          "keywords": [
+            "lesões",
+            "extremidades"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "9"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Explique as alterações no sistema cardiovascular do idoso descritas no material. No sistema cardiovascular, ocorrem modificações no coração e nos vasos sanguíneos (artérias e veias), levando a alterações no funcionamento de ambos. Como resultado dessas mudanças, o idoso pode apresentar aumento da pressão arterial, batimento cardíaco irregular dentro de determinados limites e lesões dos vasos, principalmente nas extremidades."
+    },
+    {
+      "id": "desenv-oral-060",
+      "topic": "Idade adulta e terceira idade",
+      "question": "O que é o pensamento pós-formal, e quando ele se inicia na vida adulta?",
+      "modelAnswer": "O pensamento pós-formal é flexível, aberto, adaptativo e individualista; busca na intuição, nas emoções e na lógica uma forma de ajudar as pessoas a enfrentarem um mundo confuso, sendo caracterizado pela capacidade de lidar com ambiguidade, incerteza, inconsistência, contradição, imperfeição e tolerância. Ele se inicia no começo da vida adulta, em virtude da exposição à educação superior.",
+      "keyPoints": [
+        {
+          "text": "Flexível, aberto, adaptativo, individualista",
+          "weight": 0.4,
+          "keywords": [
+            "flexível",
+            "adaptativo",
+            "individualista"
+          ]
+        },
+        {
+          "text": "Lida com ambiguidade, incerteza, contradição",
+          "weight": 0.3,
+          "keywords": [
+            "ambiguidade",
+            "incerteza",
+            "contradição"
+          ]
+        },
+        {
+          "text": "Inicia no começo da vida adulta, ligado à educação superior",
+          "weight": 0.3,
+          "keywords": [
+            "começo da vida adulta",
+            "educação superior"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "14"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "O que é o pensamento pós-formal, e quando ele se inicia na vida adulta? O pensamento pós-formal é flexível, aberto, adaptativo e individualista; busca na intuição, nas emoções e na lógica uma forma de ajudar as pessoas a enfrentarem um mundo confuso, sendo caracterizado pela capacidade de lidar com ambiguidade, incerteza, inconsistência, contradição, imperfeição e tolerância. Ele se inicia no começo da vida adulta, em virtude da exposição à educação superior."
+    },
+    {
+      "id": "desenv-oral-061",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Explique o elemento componencial da Teoria Triárquica da Inteligência de Sternberg.",
+      "modelAnswer": "O elemento componencial relaciona-se ao enfoque analítico da inteligência. Ele determina a eficiência com que a pessoa processa a informação, sendo usado para resolução de problemas, monitoramento de soluções e avaliação dos resultados.",
+      "keyPoints": [
+        {
+          "text": "Enfoque analítico da inteligência",
+          "weight": 0.4,
+          "keywords": [
+            "analítico"
+          ]
+        },
+        {
+          "text": "Eficiência no processamento de informação",
+          "weight": 0.3,
+          "keywords": [
+            "eficiência",
+            "processamento"
+          ]
+        },
+        {
+          "text": "Usado em resolução de problemas e avaliação de resultados",
+          "weight": 0.3,
+          "keywords": [
+            "resolução de problemas",
+            "avaliação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "16"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Explique o elemento componencial da Teoria Triárquica da Inteligência de Sternberg. O elemento componencial relaciona-se ao enfoque analítico da inteligência. Ele determina a eficiência com que a pessoa processa a informação, sendo usado para resolução de problemas, monitoramento de soluções e avaliação dos resultados."
+    },
+    {
+      "id": "desenv-oral-062",
+      "topic": "Idade adulta e terceira idade",
+      "question": "O que caracteriza a recentralização no início da vida adulta?",
+      "modelAnswer": "A recentralização é a principal tarefa no início da vida adulta, relacionada ao desenvolvimento gradativo de uma identidade adulta em busca de estabilidade. Ela ocorre em três estágios, nos quais o poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente.",
+      "keyPoints": [
+        {
+          "text": "Principal tarefa do início da vida adulta: desenvolvimento de identidade adulta estável",
+          "weight": 0.5,
+          "keywords": [
+            "recentralização",
+            "identidade adulta",
+            "estabilidade"
+          ]
+        },
+        {
+          "text": "Transferência gradual de poder/responsabilidade da família para o jovem",
+          "weight": 0.5,
+          "keywords": [
+            "transferência",
+            "família",
+            "jovem independente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "20"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a recentralização no início da vida adulta? A recentralização é a principal tarefa no início da vida adulta, relacionada ao desenvolvimento gradativo de uma identidade adulta em busca de estabilidade. Ela ocorre em três estágios, nos quais o poder, a responsabilidade e a tomada de decisão vão, aos poucos, sendo transferidos da família de origem para o adulto jovem independente."
+    },
+    {
+      "id": "desenv-oral-063",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Segundo Erikson, qual é o principal conflito enfrentado pelo jovem adulto, e qual a virtude resultante de sua resolução bem-sucedida?",
+      "modelAnswer": "O principal conflito do jovem adulto, segundo Erikson, é intimidade versus isolamento: o jovem adulto precisa construir um laço duradouro caracterizado por cuidado, compartilhamento e confiança. Caso não consiga assumir relacionamentos sérios, pode se tornar isolado e absorvido em si mesmo. A virtude resultante da resolução bem-sucedida desse conflito é o amor.",
+      "keyPoints": [
+        {
+          "text": "Conflito: intimidade versus isolamento",
+          "weight": 0.5,
+          "keywords": [
+            "intimidade",
+            "isolamento"
+          ]
+        },
+        {
+          "text": "Virtude resultante: o amor",
+          "weight": 0.5,
+          "keywords": [
+            "virtude",
+            "amor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "30"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Erikson, qual é o principal conflito enfrentado pelo jovem adulto, e qual a virtude resultante de sua resolução bem-sucedida? O principal conflito do jovem adulto, segundo Erikson, é intimidade versus isolamento: o jovem adulto precisa construir um laço duradouro caracterizado por cuidado, compartilhamento e confiança. Caso não consiga assumir relacionamentos sérios, pode se tornar isolado e absorvido em si mesmo. A virtude resultante da resolução bem-sucedida desse conflito é o amor."
+    },
+    {
+      "id": "desenv-oral-064",
+      "topic": "Idade adulta e terceira idade",
+      "question": "O que é a crise normativa, segundo o material, e por que a crise de meia-idade não é considerada uma crise normativa pelas pesquisas?",
+      "modelAnswer": "Crise normativa é definida como os eventos esperados socialmente, marcantes, frequentes e específicos em determinado momento do ciclo de vida. Apesar de ser divulgada a existência de uma crise de meia-idade, pesquisas não apoiam a ideia de que ela seja uma crise normativa; é mais correto referir-se a essa fase como uma transição, que pode ser um momento psicológico decisivo, mas não um evento uniforme e esperado por todos.",
+      "keyPoints": [
+        {
+          "text": "Crise normativa: eventos esperados socialmente em um momento do ciclo de vida",
+          "weight": 0.5,
+          "keywords": [
+            "crise normativa",
+            "eventos esperados"
+          ]
+        },
+        {
+          "text": "Pesquisas não apoiam a meia-idade como crise normativa; é uma transição",
+          "weight": 0.5,
+          "keywords": [
+            "não apoiam",
+            "transição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "22"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "O que é a crise normativa, segundo o material, e por que a crise de meia-idade não é considerada uma crise normativa pelas pesquisas? Crise normativa é definida como os eventos esperados socialmente, marcantes, frequentes e específicos em determinado momento do ciclo de vida. Apesar de ser divulgada a existência de uma crise de meia-idade, pesquisas não apoiam a ideia de que ela seja uma crise normativa; é mais correto referir-se a essa fase como uma transição, que pode ser um momento psicológico decisivo, mas não um evento uniforme e esperado por todos."
+    },
+    {
+      "id": "desenv-oral-065",
+      "topic": "Idade adulta e terceira idade",
+      "question": "Cite três conflitos emergentes comuns na velhice, segundo Rodrigues, Diogo e Barros (1996).",
+      "modelAnswer": "Entre os conflitos emergentes no idoso, o material cita: a perda da posição social (após a aposentadoria, com sentimento de inutilidade), a solidão (decorrente de dificuldades de transporte, financeiras ou redução de contatos sociais) e a dependência física ou psicossocial (que pode causar isolamento, depressão e falta de companhia para atividades básicas). Também são citados a pobreza, a aflição/angústia pela perda de pessoas queridas e medos diversos, como o medo da morte e da doença.",
+      "keyPoints": [
+        {
+          "text": "Perda da posição social",
+          "weight": 0.34,
+          "keywords": [
+            "perda da posição social"
+          ]
+        },
+        {
+          "text": "Solidão",
+          "weight": 0.33,
+          "keywords": [
+            "solidão"
+          ]
+        },
+        {
+          "text": "Dependência física/psicossocial (ou pobreza, aflição, medos)",
+          "weight": 0.33,
+          "keywords": [
+            "dependência",
+            "pobreza",
+            "medos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/O Estudo do Desenvolvimento Humano",
+        "document": "Desenvolvimento na idade adulta e terceira idade.pdf",
+        "page": "33"
+      },
+      "subject": "Idade adulta e terceira idade",
+      "difficulty": "medio",
+      "miniLesson": "Cite três conflitos emergentes comuns na velhice, segundo Rodrigues, Diogo e Barros (1996). Entre os conflitos emergentes no idoso, o material cita: a perda da posição social (após a aposentadoria, com sentimento de inutilidade), a solidão (decorrente de dificuldades de transporte, financeiras ou redução de contatos sociais) e a dependência física ou psicossocial (que pode causar isolamento, depressão e falta de companhia para atividades básicas). Também são citados a pobreza, a aflição/angústia pela perda de pessoas queridas e medos diversos, como o medo da morte e da doença."
     }
   ]
 }
