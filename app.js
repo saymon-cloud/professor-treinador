@@ -503,6 +503,14 @@ function collectSubjects(bank) {
   return map;
 }
 
+function subjectSourceDocuments(questions) {
+  const docs = new Set();
+  questions.forEach(q => {
+    if (q.source && q.source.document) docs.add(q.source.document);
+  });
+  return [...docs];
+}
+
 function diffCounts(questions) {
   const counts = { baixo: 0, medio: 0, dificil: 0 };
   questions.forEach(q => {
@@ -526,6 +534,10 @@ function renderSubjects() {
       .filter(d => dc[d] > 0)
       .map(d => `<span class="diff-badge ${d}">${DIFF_LABEL[d]} ${dc[d]}</span>`)
       .join("");
+    const sourceDocs = subjectSourceDocuments(all);
+    const sourceLine = sourceDocs.length
+      ? `<span class="subject-source">📄 ${sourceDocs.map(escapeHtml).join(" · ")}</span>`
+      : "";
 
     const card = document.createElement("button");
     card.className = "subject-card" + (state.selectedSubjects.has(subject) ? " selected" : "");
@@ -534,6 +546,7 @@ function renderSubjects() {
       <span class="subject-checkbox">✓</span>
       <span class="subject-title">${escapeHtml(subject)}</span>
       <span class="subject-total">${all.length} questões · ${buckets.objective.length} obj · ${buckets.discursive.length} disc · ${buckets.oral.length} oral</span>
+      ${sourceLine}
       <div class="diff-badges">${badges}</div>
     `;
     card.addEventListener("click", () => toggleSubject(subject, card));

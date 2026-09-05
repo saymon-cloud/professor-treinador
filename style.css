@@ -421,6 +421,7 @@ button{ font-family:inherit; cursor:pointer; }
 }
 .subjects-selected-count{ color:var(--text-dim); font-size:0.9rem; }
 .subject-total{ font-size:0.78rem; color:var(--accent); }
+.subject-source{ font-size:0.76rem; color:var(--text-dim); }
 .diff-badges{ display:flex; gap:6px; flex-wrap:wrap; }
 .diff-badge{
   font-size:0.7rem;
