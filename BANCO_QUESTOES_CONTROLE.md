@@ -44,3 +44,5 @@ usado pelo app.
 | 36 | O Estudo do Desenvolvimento Humano | Fundamentos do desenvolvimento humano | 2026-09-05 | `b8a6be1` |
 | 37 | O Estudo do Desenvolvimento Humano | Desenvolvimento neuropsicomotor e vínculo (0-2 anos) | 2026-09-05 | `b8a6be1` |
 | 38 | O Estudo do Desenvolvimento Humano | Neuroplasticidade e privação afetiva | 2026-09-05 | `b8a6be1` |
+| 39 | Fundamentos Históricos e Epistemológicos da Psicologia | Dualismo e raízes filosóficas | 2026-09-05 | `0c4efbe` |
+| 40 | Fundamentos Históricos e Epistemológicos da Psicologia | Positivismo e psicofísica | 2026-09-05 | `0c4efbe` |
