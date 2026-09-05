@@ -1055,16 +1055,19 @@ function renderNotebookItem(err) {
       <span class="notebook-item-meta">${escapeHtml(err.discipline)} · ${escapeHtml(err.subject)} · ${modeLabel} · ${date}</span>
       <span class="notebook-item-score">${scoreTxt}</span>
     </div>
-    <div class="notebook-item-question">${escapeHtml(err.question_text)}</div>
+    <div class="notebook-item-question" title="Clique para refazer esta questão">${escapeHtml(err.question_text)}</div>
     <div class="notebook-item-answer">Sua resposta: ${escapeHtml(err.user_answer || "—")}</div>
     ${err.correct_answer ? `<div class="notebook-item-answer">Esperado: ${escapeHtml(err.correct_answer)}</div>` : ""}
     <div class="notebook-item-actions">
+      <button class="btn-retry">🔁 Refazer questão</button>
       <button class="btn-lesson">📖 Ver mini-aula</button>
       <button class="btn-toggle-resolved">${err.resolved ? "↺ Reabrir" : "✔ Marcar como revisado"}</button>
       <button class="btn-delete">🗑 Excluir</button>
     </div>
   `;
 
+  div.querySelector(".notebook-item-question").addEventListener("click", () => openRetryModal(err));
+  div.querySelector(".btn-retry").addEventListener("click", () => openRetryModal(err));
   div.querySelector(".btn-lesson").addEventListener("click", () => openLessonModal(err));
   div.querySelector(".btn-toggle-resolved").addEventListener("click", async () => {
     await fetch("/api/errors/resolve", {
@@ -1134,6 +1137,193 @@ function openLessonModal(err) {
     document.getElementById("lessonContent").textContent = composeFallbackLesson(err);
     document.getElementById("lessonEngineTag").textContent = "⚙️ Baseado no material da disciplina (mini-aula ainda não pré-produzida para esta questão)";
   }
+}
+
+// ---------- Modal: refazer questão errada (a partir do caderno de erros) ----------
+
+const retryModal = document.getElementById("retryModal");
+document.getElementById("retryModalClose").addEventListener("click", () => {
+  window.speechSynthesis && window.speechSynthesis.cancel();
+  retryModal.classList.add("hidden");
+});
+retryModal.addEventListener("click", (e) => {
+  if (e.target === retryModal) {
+    window.speechSynthesis && window.speechSynthesis.cancel();
+    retryModal.classList.add("hidden");
+  }
+});
+
+// Localiza, no banco de questões atual, a questão original referente a um
+// registro do caderno de erros (o registro salva apenas question_id + texto,
+// não a questão inteira — por isso é preciso ir buscá-la no bank).
+async function findQuestionForError(err) {
+  await loadManifest();
+  let discipline = null;
+  for (const sem of state.manifest.semesters) {
+    discipline = (sem.disciplines || []).find(d => d.title === err.discipline);
+    if (discipline) break;
+  }
+  if (!discipline) return null;
+  const bank = await loadBank(discipline);
+  const pool = bank[err.mode] || [];
+  return pool.find(q => q.id === err.question_id) || null;
+}
+
+async function openRetryModal(err) {
+  const body = document.getElementById("retryModalBody");
+  document.getElementById("retryModalTitle").textContent = "🔁 Refazer questão — " + (err.subject || "");
+  body.innerHTML = "<p class='subtitle'>Carregando questão...</p>";
+  retryModal.classList.remove("hidden");
+
+  let q;
+  try {
+    q = await findQuestionForError(err);
+  } catch (e) {
+    q = null;
+  }
+
+  if (!q) {
+    body.innerHTML = `<p class="subtitle">Não foi possível carregar esta questão do banco atual (o material pode ter sido atualizado desde então). Você ainda pode consultar sua resposta e a esperada diretamente no card do caderno de erros.</p>`;
+    return;
+  }
+
+  if (err.mode === "objective") renderRetryObjective(err, q, body);
+  else renderRetryOpen(err, q, body);
+}
+
+function retryQuestionHeaderHtml(q) {
+  const meta = (q.topic || "") + (q.difficulty ? "  ·  " + (DIFF_LABEL[q.difficulty] || q.difficulty) : "");
+  return `
+    <p class="q-topic">${escapeHtml(meta)}</p>
+    <h2 class="q-text">${escapeHtml(q.question)}</h2>
+  `;
+}
+
+function renderRetryObjective(err, q, body) {
+  body.innerHTML = `
+    ${retryQuestionHeaderHtml(q)}
+    <div id="retryOptions" class="options-list"></div>
+    <div id="retryFeedback" class="feedback-box hidden"></div>
+    <div class="action-row">
+      <button id="retryConfirmBtn" class="primary-btn" disabled>Confirmar</button>
+    </div>
+  `;
+
+  const optsEl = document.getElementById("retryOptions");
+  let selectedKey = null;
+  let confirmed = false;
+
+  Object.entries(q.options).forEach(([key, text]) => {
+    const item = document.createElement("div");
+    item.className = "option-item";
+    item.innerHTML = `<span class="option-letter">${key.toUpperCase()})</span><span>${text}</span>`;
+    item.dataset.key = key;
+    item.addEventListener("click", () => {
+      if (confirmed) return;
+      optsEl.querySelectorAll(".option-item").forEach(o => o.classList.remove("selected"));
+      item.classList.add("selected");
+      selectedKey = key;
+      document.getElementById("retryConfirmBtn").disabled = false;
+    });
+    optsEl.appendChild(item);
+  });
+
+  document.getElementById("retryConfirmBtn").addEventListener("click", () => {
+    confirmed = true;
+    const correct = selectedKey === q.correct;
+    optsEl.querySelectorAll(".option-item").forEach(o => {
+      if (o.dataset.key === q.correct) o.classList.add("correct");
+      else if (o.dataset.key === selectedKey) o.classList.add("incorrect");
+    });
+
+    const fb = document.getElementById("retryFeedback");
+    fb.className = "feedback-box " + (correct ? "ok" : "bad");
+    fb.innerHTML = `
+      <div class="feedback-score ${correct ? "good" : "low"}">${correct ? "✔ Correto!" : "✘ Incorreto"}</div>
+      ${q.explanation ? `<div>${q.explanation}</div>` : ""}
+      ${!correct ? `<div style="margin-top:8px;color:var(--text-dim)">Resposta correta: <b>${q.correct.toUpperCase()}</b></div>` : ""}
+      ${renderSourceLine(q.source)}
+      ${correct && !err.resolved ? `<div class="action-row" style="margin-top:14px;"><button id="retryMarkResolvedBtn" class="primary-btn">✔ Marcar como revisado no caderno</button></div>` : ""}
+    `;
+    fb.classList.remove("hidden");
+    document.getElementById("retryConfirmBtn").classList.add("hidden");
+
+    if (correct && !err.resolved) {
+      document.getElementById("retryMarkResolvedBtn").addEventListener("click", () => markErrorResolvedFromRetry(err));
+    }
+  });
+}
+
+function renderRetryOpen(err, q, body) {
+  body.innerHTML = `
+    ${retryQuestionHeaderHtml(q)}
+    <textarea id="retryAnswer" rows="8" placeholder="Digite sua resposta aqui..."></textarea>
+    <div id="retryFeedback" class="feedback-box hidden"></div>
+    <div class="action-row">
+      <button id="retrySubmitBtn" class="primary-btn">Enviar resposta</button>
+    </div>
+  `;
+
+  document.getElementById("retrySubmitBtn").addEventListener("click", async () => {
+    const textEl = document.getElementById("retryAnswer");
+    const userText = textEl.value.trim();
+    if (!userText) { alert("Escreva uma resposta antes de enviar."); return; }
+
+    const btn = document.getElementById("retrySubmitBtn");
+    btn.disabled = true;
+    btn.textContent = "Avaliando...";
+    textEl.disabled = true;
+
+    const result = await gradeAnswer(q, userText);
+
+    const fb = document.getElementById("retryFeedback");
+    const cls = scoreClass(result.score);
+    fb.className = "feedback-box " + (cls === "good" ? "ok" : cls === "low" ? "bad" : "");
+
+    let bodyHtml;
+    if (result.engine === "llm") {
+      bodyHtml = `
+        <div>${escapeHtml(result.feedback) || "Sem comentários adicionais."}</div>
+        <div class="engine-tag">🤖 Avaliado por IA (${escapeHtml(result.model) || "modelo local"}, local)</div>
+      `;
+    } else {
+      const items = (result.details || []).map(d =>
+        `<li class="${d.matched ? "hit" : "miss"}">${d.text}</li>`
+      ).join("");
+      bodyHtml = `
+        <div>Pontos avaliados na sua resposta:</div>
+        <ul class="keypoint-list">${items}</ul>
+        <div class="engine-tag">⚙️ Avaliado localmente por padrão de resposta (IA indisponível)</div>
+      `;
+    }
+
+    fb.innerHTML = `
+      <div class="feedback-score ${cls}">Nota: ${result.score.toFixed(1)} / 10</div>
+      ${bodyHtml}
+      <details class="model-answer"><summary style="cursor:pointer;color:var(--accent)">Ver resposta padrão</summary>${q.modelAnswer || ""}</details>
+      ${renderSourceLine(q.source)}
+      ${result.score >= 6 && !err.resolved ? `<div class="action-row" style="margin-top:14px;"><button id="retryMarkResolvedBtn" class="primary-btn">✔ Marcar como revisado no caderno</button></div>` : ""}
+    `;
+    fb.classList.remove("hidden");
+    btn.classList.add("hidden");
+
+    if (result.score >= 6 && !err.resolved) {
+      document.getElementById("retryMarkResolvedBtn").addEventListener("click", () => markErrorResolvedFromRetry(err));
+    }
+  });
+}
+
+async function markErrorResolvedFromRetry(err) {
+  err.resolved = 1;
+  await fetch("/api/errors/resolve", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ id: err.id, resolved: true }),
+  });
+  retryModal.classList.add("hidden");
+  const activeFilterEl = document.querySelector("#notebookFilter .chip.active");
+  if (activeFilterEl) loadNotebook(activeFilterEl.dataset.filter);
+  refreshNotebookCount();
 }
 
 // ---------- Inicialização ----------

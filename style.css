@@ -488,7 +488,8 @@ button{ font-family:inherit; cursor:pointer; }
 .notebook-item-head{ display:flex; justify-content:space-between; align-items:baseline; gap:12px; flex-wrap:wrap; }
 .notebook-item-meta{ font-size:0.76rem; color:var(--text-dim); }
 .notebook-item-score{ font-weight:700; }
-.notebook-item-question{ margin:8px 0; font-size:0.95rem; }
+.notebook-item-question{ margin:8px 0; font-size:0.95rem; cursor:pointer; border-radius:6px; padding:2px 4px; margin-left:-4px; transition: background .15s ease, color .15s ease; }
+.notebook-item-question:hover{ background: var(--panel-2); color:var(--accent); }
 .notebook-item-answer{ font-size:0.85rem; color:var(--text-dim); margin-bottom:4px; }
 .notebook-item-actions{ display:flex; gap:10px; margin-top:10px; flex-wrap:wrap; }
 .notebook-item-actions button{
