@@ -9678,6 +9678,1436 @@
       "subject": "Organização geral do sistema nervoso",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando a informação sensorial surge de receptores localizados nos vasos sanguíneos ou órgãos internos, ela é classificada como informação sensorial: Quando a informação sensorial surge de receptores sensoriais nos vasos sanguíneos ou órgãos internos, entende-se por informação sensorial visceral."
+    },
+    {
+      "id": "neuro-obj-442",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o desenvolvimento neural é considerado um dos primeiros sistemas a começar e:",
+      "options": {
+        "a": "O último a ser concluído após o nascimento",
+        "b": "O primeiro a ser concluído ainda no útero",
+        "c": "Um sistema que se conclui na oitava semana de gestação",
+        "d": "Um processo que ocorre exclusivamente após o parto",
+        "e": "Um sistema que se conclui simultaneamente ao sistema cardiovascular"
+      },
+      "correct": "a",
+      "explanation": "O desenvolvimento neural é um dos primeiros sistemas a começar e o último a ser concluído após o nascimento, o que faz com que insultos no útero possam ter consequências duradouras para o sistema nervoso.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o desenvolvimento neural é considerado um dos primeiros sistemas a começar e: O desenvolvimento neural é um dos primeiros sistemas a começar e o último a ser concluído após o nascimento, o que faz com que insultos no útero possam ter consequências duradouras para o sistema nervoso."
+    },
+    {
+      "id": "neuro-obj-443",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o Sistema Nervoso Central inicialmente se forma a partir de uma placa neural simples que se dobra para formar, sucessivamente:",
+      "options": {
+        "a": "Um sulco neural e, em seguida, o tubo neural",
+        "b": "Diretamente o cérebro, sem etapas intermediárias",
+        "c": "O mesoderma e depois o endoderma",
+        "d": "A crista neural e depois a notocorda",
+        "e": "O disco germinativo bilaminar"
+      },
+      "correct": "a",
+      "explanation": "O SNC começa como uma placa neural simples que se dobra para formar um sulco neural e, em seguida, o tubo neural.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Central inicialmente se forma a partir de uma placa neural simples que se dobra para formar, sucessivamente: O SNC começa como uma placa neural simples que se dobra para formar um sulco neural e, em seguida, o tubo neural."
+    },
+    {
+      "id": "neuro-obj-444",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a falha do fechamento das aberturas do tubo neural (neuróporos) contribui com uma classe importante de anormalidades neurais, conhecidas como:",
+      "options": {
+        "a": "Defeitos do tubo neural",
+        "b": "Malformações do córtex cerebral exclusivamente",
+        "c": "Distúrbios do sistema límbico exclusivamente",
+        "d": "Anomalias do cerebelo exclusivamente",
+        "e": "Distúrbios do sistema nervoso autônomo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O tubo neural inicial é aberto em cada extremidade, formando os neuróporos; a falha dessa abertura para fechar contribui com uma classe importante de anormalidades neurais, os defeitos do tubo neural.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a falha do fechamento das aberturas do tubo neural (neuróporos) contribui com uma classe importante de anormalidades neurais, conhecidas como: O tubo neural inicial é aberto em cada extremidade, formando os neuróporos; a falha dessa abertura para fechar contribui com uma classe importante de anormalidades neurais, os defeitos do tubo neural."
+    },
+    {
+      "id": "neuro-obj-445",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o Sistema Nervoso Central envolve três camadas germinativas: ectoderma, mesoderma e:",
+      "options": {
+        "a": "Endoderma",
+        "b": "Epiderme",
+        "c": "Notocorda",
+        "d": "Blastocisto",
+        "e": "Trofoblasto"
+      },
+      "correct": "a",
+      "explanation": "O SNC envolve três camadas germinativas: ectoderma, endoderma e mesoderma.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Central envolve três camadas germinativas: ectoderma, mesoderma e: O SNC envolve três camadas germinativas: ectoderma, endoderma e mesoderma."
+    },
+    {
+      "id": "neuro-obj-446",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o ectoderma é a principal estrutura iniciadora na embriogênese do SNC, sendo subespecializado em ectoderma de superfície e ectoderma neural, este último dando origem ao tubo neural e à:",
+      "options": {
+        "a": "Crista neural",
+        "b": "Notocorda",
+        "c": "Placa lateral do mesoderma",
+        "d": "Bexiga",
+        "e": "Gônadas"
+      },
+      "correct": "a",
+      "explanation": "O ectoderma neural dá origem ao tubo neural e à crista neural, que, posteriormente, dá origem ao cérebro, à medula espinhal e aos nervos periféricos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "23"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o ectoderma é a principal estrutura iniciadora na embriogênese do SNC, sendo subespecializado em ectoderma de superfície e ectoderma neural, este último dando origem ao tubo neural e à: O ectoderma neural dá origem ao tubo neural e à crista neural, que, posteriormente, dá origem ao cérebro, à medula espinhal e aos nervos periféricos."
+    },
+    {
+      "id": "neuro-obj-447",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o mesoderma paraxial dá origem principalmente:",
+      "options": {
+        "a": "Ao esqueleto axial, à derme e ao músculo",
+        "b": "Às gônadas, aos rins e às estruturas urogenitais",
+        "c": "Ao revestimento dos sistemas gastrointestinal e respiratório",
+        "d": "Ao cérebro e à medula espinhal",
+        "e": "Aos nervos periféricos exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O mesoderma paraxial contém principalmente somitos que dão origem ao esqueleto axial, à derme e ao músculo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "23"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o mesoderma paraxial dá origem principalmente: O mesoderma paraxial contém principalmente somitos que dão origem ao esqueleto axial, à derme e ao músculo."
+    },
+    {
+      "id": "neuro-obj-448",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o mesoderma intermediário dá origem, principalmente:",
+      "options": {
+        "a": "Às gônadas, aos rins e às estruturas urogenitais",
+        "b": "Ao esqueleto axial e ao músculo",
+        "c": "Ao cérebro e à medula espinhal",
+        "d": "Ao revestimento do sistema respiratório",
+        "e": "Aos nervos periféricos exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O mesoderma intermediário dá origem às gônadas, aos rins e às estruturas urogenitais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "23"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o mesoderma intermediário dá origem, principalmente: O mesoderma intermediário dá origem às gônadas, aos rins e às estruturas urogenitais."
+    },
+    {
+      "id": "neuro-obj-449",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, além de órgãos abdominais como:",
+      "options": {
+        "a": "Fígado, pâncreas e bexiga",
+        "b": "Cérebro e medula espinhal",
+        "c": "Epiderme e unhas",
+        "d": "Ossos e músculos",
+        "e": "Nervos periféricos"
+      },
+      "correct": "a",
+      "explanation": "O endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, e também a órgãos abdominais como fígado, pâncreas e bexiga.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "23"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, além de órgãos abdominais como: O endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, e também a órgãos abdominais como fígado, pâncreas e bexiga."
+    },
+    {
+      "id": "neuro-obj-450",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a linha primitiva cresce da região caudal para a cranial e induz a formação de uma estrutura celular semelhante a um bastão fino, denominada:",
+      "options": {
+        "a": "Notocórdio",
+        "b": "Tubo neural",
+        "c": "Crista neural",
+        "d": "Placa neural",
+        "e": "Sulco neural"
+      },
+      "correct": "a",
+      "explanation": "A linha primitiva cresce da caudal ao cranial e induz a formação de notocórdio, uma estrutura celular semelhante a um bastão fino formada durante o desenvolvimento embrionário.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a linha primitiva cresce da região caudal para a cranial e induz a formação de uma estrutura celular semelhante a um bastão fino, denominada: A linha primitiva cresce da caudal ao cranial e induz a formação de notocórdio, uma estrutura celular semelhante a um bastão fino formada durante o desenvolvimento embrionário."
+    },
+    {
+      "id": "neuro-obj-451",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a neurulação refere-se ao dobramento da placa neural, processo induzido pelo notocórdio, que dá origem ao neuroectoderma e, finalmente, forma o SNC. Os dois terços craniais do neuroectoderma formam o cérebro, enquanto o terço caudal forma:",
+      "options": {
+        "a": "A medula espinhal",
+        "b": "O cerebelo",
+        "c": "O sistema límbico",
+        "d": "O tronco encefálico exclusivamente",
+        "e": "Os gânglios da base"
+      },
+      "correct": "a",
+      "explanation": "A neurulação é o dobramento da placa neural em tubo neural (neuroectoderma); dois terços craniais do neuroectoderma formam o cérebro, e o terço caudal forma a medula espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a neurulação refere-se ao dobramento da placa neural, processo induzido pelo notocórdio, que dá origem ao neuroectoderma e, finalmente, forma o SNC. Os dois terços craniais do neuroectoderma formam o cérebro, enquanto o terço caudal forma: A neurulação é o dobramento da placa neural em tubo neural (neuroectoderma); dois terços craniais do neuroectoderma formam o cérebro, e o terço caudal forma a medula espinhal."
+    },
+    {
+      "id": "neuro-obj-452",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, as células da crista neural formam os gânglios da raiz dorsal e:",
+      "options": {
+        "a": "O tecido conjuntivo na cabeça e no pescoço",
+        "b": "Exclusivamente os ossos do crânio",
+        "c": "Exclusivamente o sistema circulatório",
+        "d": "Exclusivamente os órgãos abdominais",
+        "e": "Exclusivamente as células sanguíneas"
+      },
+      "correct": "a",
+      "explanation": "As células da crista neural formam os gânglios da raiz dorsal e o tecido conjuntivo na cabeça e no pescoço.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as células da crista neural formam os gânglios da raiz dorsal e: As células da crista neural formam os gânglios da raiz dorsal e o tecido conjuntivo na cabeça e no pescoço."
+    },
+    {
+      "id": "neuro-obj-453",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a medula espinhal é formada a partir da placa neural e contém três camadas: a camada ventricular, a camada marginal e a camada:",
+      "options": {
+        "a": "Do manto",
+        "b": "Cortical",
+        "c": "Reticular",
+        "d": "Adventícia",
+        "e": "Basal"
+      },
+      "correct": "a",
+      "explanation": "A medula espinhal formada a partir da placa neural contém três camadas: a camada ventricular (reveste o canal central), a camada do manto (contém corpos neuronais, formará a massa cinzenta) e a camada marginal (contém axônios, formará a substância branca).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "25"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a medula espinhal é formada a partir da placa neural e contém três camadas: a camada ventricular, a camada marginal e a camada: A medula espinhal formada a partir da placa neural contém três camadas: a camada ventricular (reveste o canal central), a camada do manto (contém corpos neuronais, formará a massa cinzenta) e a camada marginal (contém axônios, formará a substância branca)."
+    },
+    {
+      "id": "neuro-obj-454",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a camada do manto da medula espinhal em desenvolvimento contém corpos neuronais que, eventualmente, formarão:",
+      "options": {
+        "a": "A massa cinzenta",
+        "b": "A substância branca",
+        "c": "A bainha de mielina exclusivamente",
+        "d": "O líquido cefalorraquidiano",
+        "e": "A dura-máter"
+      },
+      "correct": "a",
+      "explanation": "A camada do manto contém corpos neuronais, os quais, eventualmente, formarão a massa cinzenta.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "25"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a camada do manto da medula espinhal em desenvolvimento contém corpos neuronais que, eventualmente, formarão: A camada do manto contém corpos neuronais, os quais, eventualmente, formarão a massa cinzenta."
+    },
+    {
+      "id": "neuro-obj-455",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o Sistema Nervoso Periférico é formado por células neuroepiteliais que viajam da pia-máter para a camada ventricular da medula espinhal, onde se diferenciam e migram para formar glioblastos, neurônios e:",
+      "options": {
+        "a": "Células ependimárias",
+        "b": "Somitos",
+        "c": "Cardiomiócitos",
+        "d": "Hepatócitos",
+        "e": "Gônadas"
+      },
+      "correct": "a",
+      "explanation": "As células neuroepiteliais que formam o SNP se diferenciam e migram para formar glioblastos (células de suporte, células de Schwann), neurônios e células ependimárias.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "25-26"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é formado por células neuroepiteliais que viajam da pia-máter para a camada ventricular da medula espinhal, onde se diferenciam e migram para formar glioblastos, neurônios e: As células neuroepiteliais que formam o SNP se diferenciam e migram para formar glioblastos (células de suporte, células de Schwann), neurônios e células ependimárias."
+    },
+    {
+      "id": "neuro-obj-456",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a mielinização dos axônios periféricos ocorre por meio do neurolema, que vem das células de Schwann, enquanto a mielinização dos axônios do SNC ocorre via:",
+      "options": {
+        "a": "Oligodendrócitos, derivados do neuroepitélio",
+        "b": "Astrócitos, derivados do mesoderma",
+        "c": "Micróglia, derivada da crista neural",
+        "d": "Células ependimárias, derivadas do endoderma",
+        "e": "Células satélites, derivadas do ectoderma de superfície"
+      },
+      "correct": "a",
+      "explanation": "A mielinização dos axônios do SNC ocorre via oligodendrócitos, que são derivados do neuroepitélio, enquanto a mielinização periférica ocorre via células de Schwann (derivadas da crista neural).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a mielinização dos axônios periféricos ocorre por meio do neurolema, que vem das células de Schwann, enquanto a mielinização dos axônios do SNC ocorre via: A mielinização dos axônios do SNC ocorre via oligodendrócitos, que são derivados do neuroepitélio, enquanto a mielinização periférica ocorre via células de Schwann (derivadas da crista neural)."
+    },
+    {
+      "id": "neuro-obj-457",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, três camadas membranosas cobrem todo o SNC: a dura-máter, derivada do mesênquima circundante, e a aracnoide e a pia-máter, ambas derivadas:",
+      "options": {
+        "a": "Da crista neural",
+        "b": "Do endoderma",
+        "c": "Do mesoderma paraxial",
+        "d": "Do mesoderma intermediário",
+        "e": "Do trofoblasto"
+      },
+      "correct": "a",
+      "explanation": "A dura-máter é derivada do mesênquima circundante; a aracnoide e a pia-máter são derivadas da crista neural.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, três camadas membranosas cobrem todo o SNC: a dura-máter, derivada do mesênquima circundante, e a aracnoide e a pia-máter, ambas derivadas: A dura-máter é derivada do mesênquima circundante; a aracnoide e a pia-máter são derivadas da crista neural."
+    },
+    {
+      "id": "neuro-obj-458",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em quantas vesículas cerebrais secundárias?",
+      "options": {
+        "a": "Cinco",
+        "b": "Três",
+        "c": "Sete",
+        "d": "Duas",
+        "e": "Quatro"
+      },
+      "correct": "a",
+      "explanation": "Durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em cinco vesículas cerebrais secundárias.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em quantas vesículas cerebrais secundárias? Durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em cinco vesículas cerebrais secundárias."
+    },
+    {
+      "id": "neuro-obj-459",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o encéfalo anterior (prosencéfalo) se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais responsáveis por:",
+      "options": {
+        "a": "Consciência, transformação sensório-motora e integração sensorial",
+        "b": "Regulação exclusiva do batimento cardíaco",
+        "c": "Produção exclusiva de líquido cefalorraquidiano",
+        "d": "Formação exclusiva do cerebelo",
+        "e": "Controle exclusivo dos reflexos medulares"
+      },
+      "correct": "a",
+      "explanation": "O prosencéfalo se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais, responsáveis pela consciência, transformação sensório-motora e integração sensorial.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o encéfalo anterior (prosencéfalo) se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais responsáveis por: O prosencéfalo se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais, responsáveis pela consciência, transformação sensório-motora e integração sensorial."
+    },
+    {
+      "id": "neuro-obj-460",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o encéfalo posterior (rombencéfalo) se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e:",
+      "options": {
+        "a": "O cerebelo",
+        "b": "O tálamo",
+        "c": "O hipotálamo",
+        "d": "Os gânglios da base",
+        "e": "O corpo caloso"
+      },
+      "correct": "a",
+      "explanation": "O rombencéfalo se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e o cerebelo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o encéfalo posterior (rombencéfalo) se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e: O rombencéfalo se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e o cerebelo."
+    },
+    {
+      "id": "neuro-obj-461",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o metencéfalo corresponde ao crescimento dorsal do cerebelo, cuja função é:",
+      "options": {
+        "a": "Integrar informações sensoriais para ajustar a saída motora",
+        "b": "Produzir exclusivamente hormônios hipofisários",
+        "c": "Regular exclusivamente a temperatura corporal",
+        "d": "Armazenar exclusivamente memórias de longo prazo",
+        "e": "Controlar exclusivamente a digestão"
+      },
+      "correct": "a",
+      "explanation": "O metencéfalo corresponde ao crescimento dorsal do cerebelo, que integra informações sensoriais para ajustar a saída motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o metencéfalo corresponde ao crescimento dorsal do cerebelo, cuja função é: O metencéfalo corresponde ao crescimento dorsal do cerebelo, que integra informações sensoriais para ajustar a saída motora."
+    },
+    {
+      "id": "neuro-obj-462",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a hipófise posterior tem origem no hipotálamo, possuindo conexão direta com ele, enquanto a hipófise anterior é:",
+      "options": {
+        "a": "Um crescimento ectodérmico da boca, que se comunica com o cérebro por meio do sistema vascular",
+        "b": "Também uma consequência direta do hipotálamo, sem qualquer diferença",
+        "c": "Derivada exclusivamente do endoderma",
+        "d": "Derivada exclusivamente do mesoderma paraxial",
+        "e": "Formada exclusivamente a partir da crista neural"
+      },
+      "correct": "a",
+      "explanation": "A hipófise posterior é uma consequência do hipotálamo, com conexão direta; a hipófise anterior é um crescimento ectodérmico da boca, dependendo de uma densa rede capilar para se comunicar com o cérebro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a hipófise posterior tem origem no hipotálamo, possuindo conexão direta com ele, enquanto a hipófise anterior é: A hipófise posterior é uma consequência do hipotálamo, com conexão direta; a hipófise anterior é um crescimento ectodérmico da boca, dependendo de uma densa rede capilar para se comunicar com o cérebro."
+    },
+    {
+      "id": "neuro-obj-463",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões altamente suscetíveis entre as semanas:",
+      "options": {
+        "a": "3 e 8",
+        "b": "10 e 15",
+        "c": "20 e 25",
+        "d": "30 e 35",
+        "e": "1 e 2"
+      },
+      "correct": "a",
+      "explanation": "A teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião; os embriões são altamente suscetíveis entre as semanas 3 e 8, quando os sistemas orgânicos se desenvolvem.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões altamente suscetíveis entre as semanas: A teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião; os embriões são altamente suscetíveis entre as semanas 3 e 8, quando os sistemas orgânicos se desenvolvem."
+    },
+    {
+      "id": "neuro-obj-464",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o disrafismo é definido como:",
+      "options": {
+        "a": "A falha de fusão entre metades simétricas de uma estrutura anatômica",
+        "b": "A formação correta e completa de todas as estruturas anatômicas",
+        "c": "Um processo exclusivamente relacionado à formação do sistema circulatório",
+        "d": "Um processo exclusivamente relacionado à formação óssea normal",
+        "e": "A duplicação completa de uma estrutura anatômica"
+      },
+      "correct": "a",
+      "explanation": "O disrafismo é a falha de fusão entre metades simétricas de uma estrutura anatômica, incluindo as malformações da espinha bífida.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o disrafismo é definido como: O disrafismo é a falha de fusão entre metades simétricas de uma estrutura anatômica, incluindo as malformações da espinha bífida."
+    },
+    {
+      "id": "neuro-obj-465",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a espinha bífida oculta, forma menos grave de disrafismo, ocorre mais comumente na região:",
+      "options": {
+        "a": "Lombossacra (L5 a S1)",
+        "b": "Cervical alta",
+        "c": "Torácica média",
+        "d": "Occipital",
+        "e": "Sacrococcígea distal exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A espinha bífida oculta ocorre quando a coluna vertebral não consegue se fundir, mas outras camadas se desenvolvem normalmente; geralmente afeta a região lombossacra (L5 a S1 mais comumente).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a espinha bífida oculta, forma menos grave de disrafismo, ocorre mais comumente na região: A espinha bífida oculta ocorre quando a coluna vertebral não consegue se fundir, mas outras camadas se desenvolvem normalmente; geralmente afeta a região lombossacra (L5 a S1 mais comumente)."
+    },
+    {
+      "id": "neuro-obj-466",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a forma mais grave de disrafismo, na qual os pacientes podem desenvolver incontinência urinária ou fecal, é a:",
+      "options": {
+        "a": "Espinha bífida cística",
+        "b": "Espinha bífida oculta",
+        "c": "Espinha bífida aperta",
+        "d": "Encefalocele",
+        "e": "Anencefalia"
+      },
+      "correct": "a",
+      "explanation": "A espinha bífida cística é a forma mais grave de disrafismo; os pacientes podem desenvolver incontinência urinária ou fecal, e 80% dessas lesões ocorrem na região lombossacra.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a forma mais grave de disrafismo, na qual os pacientes podem desenvolver incontinência urinária ou fecal, é a: A espinha bífida cística é a forma mais grave de disrafismo; os pacientes podem desenvolver incontinência urinária ou fecal, e 80% dessas lesões ocorrem na região lombossacra."
+    },
+    {
+      "id": "neuro-obj-467",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a encefalocele, malformação análoga à espinha bífida no crânio, caracteriza-se por:",
+      "options": {
+        "a": "Protrusão do cérebro no espaço subaracnóide, podendo estar associada à malformação de Chiari III",
+        "b": "Ausência completa do córtex cerebral e das estruturas talâmicas",
+        "c": "Falha de formação das características ao longo da linha média da face",
+        "d": "Abertura total da placa neural para a cavidade amniótica",
+        "e": "Formação normal e completa de todas as estruturas cranianas"
+      },
+      "correct": "a",
+      "explanation": "A encefalocele é a protrusão do cérebro no espaço subaracnóide, podendo estar associada à malformação de Chiari III e à fissura labiopalatina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a encefalocele, malformação análoga à espinha bífida no crânio, caracteriza-se por: A encefalocele é a protrusão do cérebro no espaço subaracnóide, podendo estar associada à malformação de Chiari III e à fissura labiopalatina."
+    },
+    {
+      "id": "neuro-obj-468",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a anencefalia caracteriza-se pela ausência, geralmente, do córtex cerebral e das estruturas talâmicas, podendo ocorrer devido a:",
+      "options": {
+        "a": "Falha da sinalização da notocorda, necessária para a maturação das células da crista neural",
+        "b": "Excesso de ácido fólico durante a gestação",
+        "c": "Exposição exclusiva a ruído intenso durante a gravidez",
+        "d": "Formação excessiva de líquido cefalorraquidiano",
+        "e": "Hipermielinização precoce dos axônios centrais"
+      },
+      "correct": "a",
+      "explanation": "A anencefalia é onde o córtex cerebral e as estruturas talâmicas geralmente estão ausentes; pode ocorrer devido à falha da sinalização da notocorda, necessária para a indução da maturação das células da crista neural.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a anencefalia caracteriza-se pela ausência, geralmente, do córtex cerebral e das estruturas talâmicas, podendo ocorrer devido a: A anencefalia é onde o córtex cerebral e as estruturas talâmicas geralmente estão ausentes; pode ocorrer devido à falha da sinalização da notocorda, necessária para a indução da maturação das células da crista neural."
+    },
+    {
+      "id": "neuro-obj-469",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a holoprosencefalia é a falha de formação das características ao longo da linha média da face, podendo incluir incisivo central único e:",
+      "options": {
+        "a": "Ciclopia",
+        "b": "Polidactilia exclusivamente",
+        "c": "Sindactilia exclusivamente",
+        "d": "Micrognatia exclusivamente",
+        "e": "Escoliose exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A holoprosencefalia inclui características como incisivo central único, ciclopia ou hemisfério cerebral não pareado.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a holoprosencefalia é a falha de formação das características ao longo da linha média da face, podendo incluir incisivo central único e: A holoprosencefalia inclui características como incisivo central único, ciclopia ou hemisfério cerebral não pareado."
+    },
+    {
+      "id": "neuro-obj-470",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, a craniorraquisquise total ocorre quando toda a placa neural não se dobra, deixando o SNC aberto para a cavidade amniótica, sendo frequentemente associada a:",
+      "options": {
+        "a": "Fetos natimortos",
+        "b": "Recém-nascidos saudáveis sem qualquer sequela",
+        "c": "Partos prematuros exclusivamente sem outras complicações",
+        "d": "Gravidez múltipla exclusivamente",
+        "e": "Macrossomia fetal exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A craniorraquisquise total ocorre quando toda a placa neural não se dobra e o SNC está aberto para a cavidade amniótica, frequentemente associando-se a fetos natimortos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a craniorraquisquise total ocorre quando toda a placa neural não se dobra, deixando o SNC aberto para a cavidade amniótica, sendo frequentemente associada a: A craniorraquisquise total ocorre quando toda a placa neural não se dobra e o SNC está aberto para a cavidade amniótica, frequentemente associando-se a fetos natimortos."
+    },
+    {
+      "id": "neuro-obj-471",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, para evitar o desenvolvimento embriológico anormal, a mãe deve se abster de teratógenos, especialmente durante as semanas 3 a 8 da embriogênese, sendo exemplos significativos de teratógenos:",
+      "options": {
+        "a": "Álcool, tabaco, certos medicamentos prescritos e drogas ilícitas",
+        "b": "Exclusivamente exercícios físicos leves",
+        "c": "Exclusivamente alimentos ricos em ácido fólico",
+        "d": "Exclusivamente vacinas recomendadas na gestação",
+        "e": "Exclusivamente exposição à luz solar moderada"
+      },
+      "correct": "a",
+      "explanation": "Os teratógenos significativos incluem álcool, uso de tabaco, certos medicamentos prescritos e drogas ilícitas, dos quais a gestante deve se abster.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para evitar o desenvolvimento embriológico anormal, a mãe deve se abster de teratógenos, especialmente durante as semanas 3 a 8 da embriogênese, sendo exemplos significativos de teratógenos: Os teratógenos significativos incluem álcool, uso de tabaco, certos medicamentos prescritos e drogas ilícitas, dos quais a gestante deve se abster."
+    },
+    {
+      "id": "neuro-obj-472",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de:",
+      "options": {
+        "a": "Ácido fólico, para ajudar no neurodesenvolvimento",
+        "b": "Vitamina C exclusivamente, para a imunidade",
+        "c": "Vitamina D exclusivamente, para os ossos",
+        "d": "Zinco exclusivamente, para o paladar",
+        "e": "Vitamina K exclusivamente, para a coagulação"
+      },
+      "correct": "a",
+      "explanation": "Mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de ácido fólico, para ajudar no neurodesenvolvimento do bebê.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de: Mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de ácido fólico, para ajudar no neurodesenvolvimento do bebê."
+    },
+    {
+      "id": "neuro-obj-473",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal, principalmente para evitar:",
+      "options": {
+        "a": "Herniação ou outras complicações",
+        "b": "Excesso de crescimento ósseo",
+        "c": "Aumento da acuidade visual",
+        "d": "Aumento da produção de mielina",
+        "e": "Redução do número de neurônios"
+      },
+      "correct": "a",
+      "explanation": "Bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal para evitar herniação ou outras complicações.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal, principalmente para evitar: Bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal para evitar herniação ou outras complicações."
+    },
+    {
+      "id": "neuro-obj-474",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Segundo o material, o fosso primitivo é uma depressão localizada no centro do nó primitivo, correspondendo a:",
+      "options": {
+        "a": "Uma abertura no canal notocordal",
+        "b": "O local de fusão das vértebras",
+        "c": "A cavidade que dará origem ao coração",
+        "d": "A cavidade que dará origem aos pulmões",
+        "e": "A região que forma exclusivamente a pele"
+      },
+      "correct": "a",
+      "explanation": "O fosso primitivo é uma depressão no centro do nó primitivo, que é uma abertura no canal notocordal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o fosso primitivo é uma depressão localizada no centro do nó primitivo, correspondendo a: O fosso primitivo é uma depressão no centro do nó primitivo, que é uma abertura no canal notocordal."
+    },
+    {
+      "id": "neuro-obj-475",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Autônomo pode ser dividido, principalmente, com base em uma diferença funcional nas respostas, em Sistema Nervoso Somático e:",
+      "options": {
+        "a": "Sistema Nervoso Autônomo propriamente dito",
+        "b": "Sistema Nervoso Entérico exclusivamente",
+        "c": "Sistema Nervoso Central",
+        "d": "Sistema Nervoso Cranial",
+        "e": "Sistema Límbico"
+      },
+      "correct": "a",
+      "explanation": "O sistema é dividido em duas partes com base em diferença funcional: Sistema Nervoso Somático (SNS) e Sistema Nervoso Autônomo (SNA).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo pode ser dividido, principalmente, com base em uma diferença funcional nas respostas, em Sistema Nervoso Somático e: O sistema é dividido em duas partes com base em diferença funcional: Sistema Nervoso Somático (SNS) e Sistema Nervoso Autônomo (SNA)."
+    },
+    {
+      "id": "neuro-obj-476",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Somático (SNS) é responsável pela percepção consciente e pelas respostas motoras voluntárias, que envolvem a contração:",
+      "options": {
+        "a": "Do músculo esquelético",
+        "b": "Do músculo liso exclusivamente",
+        "c": "Do músculo cardíaco exclusivamente",
+        "d": "Das glândulas exocrinas exclusivamente",
+        "e": "Das glândulas endócrinas exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Somático é responsável pela percepção consciente e pelas respostas motoras voluntárias, que significam a contração do músculo esquelético.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Somático (SNS) é responsável pela percepção consciente e pelas respostas motoras voluntárias, que envolvem a contração: O Sistema Nervoso Somático é responsável pela percepção consciente e pelas respostas motoras voluntárias, que significam a contração do músculo esquelético."
+    },
+    {
+      "id": "neuro-obj-477",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, algumas respostas motoras somáticas são reflexos que acontecem sem uma decisão consciente, como no exemplo de uma pessoa que se assusta e salta para trás ao ouvir um grito repentino de um amigo, o que envolve:",
+      "options": {
+        "a": "Contrações do músculo esquelético, mesmo sem decisão consciente prévia",
+        "b": "Exclusivamente a liberação de hormônios pela hipófise",
+        "c": "Exclusivamente a atividade do Sistema Nervoso Entérico",
+        "d": "Exclusivamente a atividade da medula adrenal",
+        "e": "Exclusivamente processos de memória de longo prazo"
+      },
+      "correct": "a",
+      "explanation": "Algumas respostas motoras somáticas são reflexos que acontecem sem decisão consciente, mas ainda envolvem contrações do músculo esquelético, como no exemplo de se assustar e saltar para trás.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, algumas respostas motoras somáticas são reflexos que acontecem sem uma decisão consciente, como no exemplo de uma pessoa que se assusta e salta para trás ao ouvir um grito repentino de um amigo, o que envolve: Algumas respostas motoras somáticas são reflexos que acontecem sem decisão consciente, mas ainda envolvem contrações do músculo esquelético, como no exemplo de se assustar e saltar para trás."
+    },
+    {
+      "id": "neuro-obj-478",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, respostas motoras que se tornam automáticas (inconscientes) conforme a pessoa aprende habilidades motoras são conhecidas como aprendizado de hábito ou:",
+      "options": {
+        "a": "Memória procedural",
+        "b": "Memória semântica exclusivamente",
+        "c": "Memória episódica exclusivamente",
+        "d": "Memória de trabalho exclusivamente",
+        "e": "Memória sensorial exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Respostas motoras que se tornam automáticas conforme a pessoa aprende habilidades motoras são conhecidas como 'aprendizado de hábito' ou 'memória procedural'.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, respostas motoras que se tornam automáticas (inconscientes) conforme a pessoa aprende habilidades motoras são conhecidas como aprendizado de hábito ou: Respostas motoras que se tornam automáticas conforme a pessoa aprende habilidades motoras são conhecidas como 'aprendizado de hábito' ou 'memória procedural'."
+    },
+    {
+      "id": "neuro-obj-479",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Autônomo (SNA) é responsável pelo controle involuntário do corpo, geralmente com a finalidade de:",
+      "options": {
+        "a": "Homeostase (regulação do ambiente interno)",
+        "b": "Aprendizagem de novas habilidades motoras",
+        "c": "Produção de linguagem verbal",
+        "d": "Percepção consciente de estímulos visuais",
+        "e": "Memória de longo prazo"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Autônomo é responsável pelo controle involuntário do corpo, geralmente para fins de homeostase, ou seja, regulação do ambiente interno.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo (SNA) é responsável pelo controle involuntário do corpo, geralmente com a finalidade de: O Sistema Nervoso Autônomo é responsável pelo controle involuntário do corpo, geralmente para fins de homeostase, ou seja, regulação do ambiente interno."
+    },
+    {
+      "id": "neuro-obj-480",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o exemplo das glândulas sudoríparas ilustra que, além do mecanismo homeostático (suar quando está com calor), a transpiração pode também ocorrer como:",
+      "options": {
+        "a": "Resposta fisiológica a um estado emocional, como o nervosismo",
+        "b": "Um reflexo motor somático exclusivamente voluntário",
+        "c": "Um processo exclusivamente relacionado à digestão",
+        "d": "Uma resposta exclusivamente do Sistema Nervoso Somático",
+        "e": "Um processo que nunca ocorre sem elevação da temperatura corporal"
+      },
+      "correct": "a",
+      "explanation": "Quando se está com calor, a transpiração é um mecanismo homeostático; mas, quando se está nervoso, a transpiração pode ocorrer como resposta fisiológica a um estado emocional, não homeostático.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o exemplo das glândulas sudoríparas ilustra que, além do mecanismo homeostático (suar quando está com calor), a transpiração pode também ocorrer como: Quando se está com calor, a transpiração é um mecanismo homeostático; mas, quando se está nervoso, a transpiração pode ocorrer como resposta fisiológica a um estado emocional, não homeostático."
+    },
+    {
+      "id": "neuro-obj-481",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, além das divisões simpática e parassimpática, existe outra divisão do Sistema Nervoso Autônomo relacionada às funções gastrointestinais, denominada:",
+      "options": {
+        "a": "Sistema Nervoso Entérico",
+        "b": "Sistema Nervoso Somático",
+        "c": "Sistema Nervoso Cranial",
+        "d": "Sistema Límbico",
+        "e": "Sistema Reticular Ativador"
+      },
+      "correct": "a",
+      "explanation": "Existe uma região do SNP chamada Sistema Nervoso Entérico, responsável pelo controle do músculo liso e do tecido glandular do sistema digestivo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, além das divisões simpática e parassimpática, existe outra divisão do Sistema Nervoso Autônomo relacionada às funções gastrointestinais, denominada: Existe uma região do SNP chamada Sistema Nervoso Entérico, responsável pelo controle do músculo liso e do tecido glandular do sistema digestivo."
+    },
+    {
+      "id": "neuro-obj-482",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Entérico (SNE) é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo, sendo uma característica particular desse sistema:",
+      "options": {
+        "a": "Não depender do Sistema Nervoso Central para funcionar",
+        "b": "Depender exclusivamente do córtex motor primário",
+        "c": "Ser controlado exclusivamente pelo cerebelo",
+        "d": "Funcionar exclusivamente durante o sono",
+        "e": "Estar ausente em mamíferos adultos"
+      },
+      "correct": "a",
+      "explanation": "O SNE é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo e trata-se de uma grande parte do SNP que não depende do SNC.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Entérico (SNE) é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo, sendo uma característica particular desse sistema: O SNE é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo e trata-se de uma grande parte do SNP que não depende do SNC."
+    },
+    {
+      "id": "neuro-obj-483",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, além do sistema endócrino, o Sistema Nervoso Autônomo é fundamental para os mecanismos homeostáticos do corpo, sendo suas duas divisões principais a divisão simpática e a divisão:",
+      "options": {
+        "a": "Parassimpática",
+        "b": "Somática",
+        "c": "Entérica exclusivamente",
+        "d": "Cranial",
+        "e": "Espinhal"
+      },
+      "correct": "a",
+      "explanation": "As duas divisões do sistema nervoso autônomo são a divisão simpática e a divisão parassimpática, que atuam em equilíbrio para a homeostase.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, além do sistema endócrino, o Sistema Nervoso Autônomo é fundamental para os mecanismos homeostáticos do corpo, sendo suas duas divisões principais a divisão simpática e a divisão: As duas divisões do sistema nervoso autônomo são a divisão simpática e a divisão parassimpática, que atuam em equilíbrio para a homeostase."
+    },
+    {
+      "id": "neuro-obj-484",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, no exemplo da inervação dupla do coração, uma divisão do SNA faz a frequência cardíaca aumentar, enquanto a outra:",
+      "options": {
+        "a": "Causa uma diminuição dessa frequência",
+        "b": "Também causa aumento, sem diferença funcional",
+        "c": "Interrompe completamente os batimentos cardíacos",
+        "d": "Não exerce qualquer efeito sobre a frequência cardíaca",
+        "e": "Atua exclusivamente sobre os pulmões, não sobre o coração"
+      },
+      "correct": "a",
+      "explanation": "O coração recebe conexões das divisões simpática e parassimpática; uma faz a frequência cardíaca aumentar, enquanto a outra causa uma diminuição dessa frequência.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo da inervação dupla do coração, uma divisão do SNA faz a frequência cardíaca aumentar, enquanto a outra: O coração recebe conexões das divisões simpática e parassimpática; uma faz a frequência cardíaca aumentar, enquanto a outra causa uma diminuição dessa frequência."
+    },
+    {
+      "id": "neuro-obj-485",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e:",
+      "options": {
+        "a": "Pélvico",
+        "b": "Cervical exclusivamente",
+        "c": "Craniano exclusivamente",
+        "d": "Occipital exclusivamente",
+        "e": "Coccígeo exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e pélvico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e: O Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e pélvico."
+    },
+    {
+      "id": "neuro-obj-486",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, as fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina e, em menor grau, de:",
+      "options": {
+        "a": "Noradrenalina",
+        "b": "Dopamina exclusivamente",
+        "c": "Serotonina exclusivamente",
+        "d": "GABA exclusivamente",
+        "e": "Insulina exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "As fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina (epinefrina) e, em menor grau, de noradrenalina (norepinefrina).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina e, em menor grau, de: As fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina (epinefrina) e, em menor grau, de noradrenalina (norepinefrina)."
+    },
+    {
+      "id": "neuro-obj-487",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Simpático é responsável por regular diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e:",
+      "options": {
+        "a": "O débito urinário",
+        "b": "Exclusivamente a produção de saliva",
+        "c": "Exclusivamente a coagulação sanguínea",
+        "d": "Exclusivamente a produção de hormônios tireoidianos",
+        "e": "Exclusivamente o crescimento ósseo"
+      },
+      "correct": "a",
+      "explanation": "As fibras do SNS fornecem regulação fisiológica sobre diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e o débito urinário.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Simpático é responsável por regular diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e: As fibras do SNS fornecem regulação fisiológica sobre diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e o débito urinário."
+    },
+    {
+      "id": "neuro-obj-488",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, a resposta de luta ou fuga, também conhecida como resposta simpático-adrenal, foi descrita pela primeira vez pelo fisiologista e médico estadunidense:",
+      "options": {
+        "a": "Walter Bradford Cannon",
+        "b": "Ivan Pavlov",
+        "c": "John B. Watson",
+        "d": "Charles Darwin",
+        "e": "William James"
+      },
+      "correct": "a",
+      "explanation": "A resposta de luta ou fuga foi descrita pela primeira vez por Walter Bradford Cannon (1871-1945), fisiologista e médico estadunidense.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a resposta de luta ou fuga, também conhecida como resposta simpático-adrenal, foi descrita pela primeira vez pelo fisiologista e médico estadunidense: A resposta de luta ou fuga foi descrita pela primeira vez por Walter Bradford Cannon (1871-1945), fisiologista e médico estadunidense."
+    },
+    {
+      "id": "neuro-obj-489",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, a teoria de Cannon afirma que os animais reagem às ameaças com uma descarga geral do Sistema Nervoso Simpático, preparando o animal para lutar ou fugir, sendo essa resposta reconhecida como o primeiro estágio de uma:",
+      "options": {
+        "a": "Síndrome de adaptação geral que regula as respostas ao estresse",
+        "b": "Doença crônica degenerativa do sistema nervoso",
+        "c": "Fase exclusiva do sono REM",
+        "d": "Etapa do desenvolvimento embrionário do SNC",
+        "e": "Resposta exclusivamente comportamental sem base fisiológica"
+      },
+      "correct": "a",
+      "explanation": "A resposta de luta ou fuga foi reconhecida como o primeiro estágio de uma síndrome de adaptação geral que regula as respostas ao estresse entre vertebrados e outros organismos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a teoria de Cannon afirma que os animais reagem às ameaças com uma descarga geral do Sistema Nervoso Simpático, preparando o animal para lutar ou fugir, sendo essa resposta reconhecida como o primeiro estágio de uma: A resposta de luta ou fuga foi reconhecida como o primeiro estágio de uma síndrome de adaptação geral que regula as respostas ao estresse entre vertebrados e outros organismos."
+    },
+    {
+      "id": "neuro-obj-490",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, entre as reações físicas imediatas facilitadas pelos hormônios catecolaminas na resposta de luta ou fuga, está a aceleração da ação cardíaca e pulmonar, e também:",
+      "options": {
+        "a": "A dilatação da pupila (midríase)",
+        "b": "A contração exclusiva da pupila (miose)",
+        "c": "O aumento exclusivo da salivação",
+        "d": "O aumento exclusivo da produção de lágrimas",
+        "e": "A diminuição exclusiva da frequência cardíaca"
+      },
+      "correct": "a",
+      "explanation": "Entre as reações físicas da resposta de luta ou fuga estão a dilatação da pupila (midríase), além de aceleração cardíaca e pulmonar, entre outras.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre as reações físicas imediatas facilitadas pelos hormônios catecolaminas na resposta de luta ou fuga, está a aceleração da ação cardíaca e pulmonar, e também: Entre as reações físicas da resposta de luta ou fuga estão a dilatação da pupila (midríase), além de aceleração cardíaca e pulmonar, entre outras."
+    },
+    {
+      "id": "neuro-obj-491",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, entre os efeitos da resposta de luta ou fuga, ocorre a inibição da ação do estômago e do intestino superior, fazendo com que:",
+      "options": {
+        "a": "A digestão diminua ou pare",
+        "b": "A digestão acelere significativamente",
+        "c": "A digestão permaneça inalterada",
+        "d": "A absorção de nutrientes aumente muito",
+        "e": "A produção de saliva aumente proporcionalmente"
+      },
+      "correct": "a",
+      "explanation": "Entre os efeitos da resposta de luta ou fuga está a inibição da ação do estômago e do intestino superior, a ponto de a digestão diminuir ou parar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre os efeitos da resposta de luta ou fuga, ocorre a inibição da ação do estômago e do intestino superior, fazendo com que: Entre os efeitos da resposta de luta ou fuga está a inibição da ação do estômago e do intestino superior, a ponto de a digestão diminuir ou parar."
+    },
+    {
+      "id": "neuro-obj-492",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, quanto às diferenças entre os sexos na resposta ao estresse, o material aponta que os homens são mais propensos a responder com agressão (lutar), enquanto as mulheres são mais propensas a:",
+      "options": {
+        "a": "Fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade)",
+        "b": "Apresentar exclusivamente respostas idênticas às dos homens, sem qualquer diferença",
+        "c": "Não apresentar qualquer resposta fisiológica ao estresse",
+        "d": "Responder exclusivamente com aumento da pressão arterial, sem outras alterações",
+        "e": "Apresentar exclusivamente respostas de congelamento (freezing) sem outras opções"
+      },
+      "correct": "a",
+      "explanation": "As mulheres são mais propensas a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem a responder com agressão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "37"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quanto às diferenças entre os sexos na resposta ao estresse, o material aponta que os homens são mais propensos a responder com agressão (lutar), enquanto as mulheres são mais propensas a: As mulheres são mais propensas a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem a responder com agressão."
+    },
+    {
+      "id": "neuro-obj-493",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Parassimpático é considerado um sistema de amortecimento de ativação lenta, sendo sua ação descrita como complementar à do Sistema Nervoso Simpático, responsável por estimular as atividades associadas à resposta de:",
+      "options": {
+        "a": "Luta ou fuga",
+        "b": "Repouso e digestão exclusivamente, sem qualquer diferença do parassimpático",
+        "c": "Sono profundo exclusivamente",
+        "d": "Memória de longo prazo exclusivamente",
+        "e": "Aprendizagem motora exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Parassimpático regula funções de repouso e digestão, e sua ação é complementar à do Sistema Nervoso Simpático, responsável pela resposta de luta ou fuga.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático é considerado um sistema de amortecimento de ativação lenta, sendo sua ação descrita como complementar à do Sistema Nervoso Simpático, responsável por estimular as atividades associadas à resposta de: O Sistema Nervoso Parassimpático regula funções de repouso e digestão, e sua ação é complementar à do Sistema Nervoso Simpático, responsável pela resposta de luta ou fuga."
+    },
+    {
+      "id": "neuro-obj-494",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Parassimpático utiliza, principalmente, qual neurotransmissor?",
+      "options": {
+        "a": "Acetilcolina (ACh)",
+        "b": "Adrenalina",
+        "c": "Noradrenalina",
+        "d": "Dopamina",
+        "e": "Serotonina"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Parassimpático utiliza, principalmente, a acetilcolina (ACh) como seu neurotransmissor, embora peptídeos também possam atuar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático utiliza, principalmente, qual neurotransmissor? O Sistema Nervoso Parassimpático utiliza, principalmente, a acetilcolina (ACh) como seu neurotransmissor, embora peptídeos também possam atuar."
+    },
+    {
+      "id": "neuro-obj-495",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, a acetilcolina liberada pelo Sistema Nervoso Parassimpático atua sobre dois tipos de receptores colinérgicos, os receptores:",
+      "options": {
+        "a": "Muscarínicos e nicotínicos",
+        "b": "Adrenérgicos e dopaminérgicos",
+        "c": "Serotoninérgicos e histaminérgicos",
+        "d": "GABAérgicos e glutamatérgicos",
+        "e": "Opioides e canabinoides"
+      },
+      "correct": "a",
+      "explanation": "A acetilcolina (ACh) atua sobre dois tipos de receptores colinérgicos: os muscarínicos e os nicotínicos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a acetilcolina liberada pelo Sistema Nervoso Parassimpático atua sobre dois tipos de receptores colinérgicos, os receptores: A acetilcolina (ACh) atua sobre dois tipos de receptores colinérgicos: os muscarínicos e os nicotínicos."
+    },
+    {
+      "id": "neuro-obj-496",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, na transmissão do Sistema Nervoso Parassimpático, o nervo pré-ganglionar libera ACh no gânglio, que atua nos receptores nicotínicos dos neurônios pós-ganglionares; em seguida, o nervo pós-ganglionar libera ACh para estimular os receptores:",
+      "options": {
+        "a": "Muscarínicos do órgão-alvo",
+        "b": "Nicotínicos do músculo esquelético exclusivamente",
+        "c": "Adrenérgicos da medula adrenal exclusivamente",
+        "d": "Dopaminérgicos do núcleo caudado",
+        "e": "Opioides do sistema límbico"
+      },
+      "correct": "a",
+      "explanation": "Na transmissão parassimpática, o nervo pré-ganglionar libera ACh no gânglio (receptores nicotínicos), e o nervo pós-ganglionar libera ACh para estimular os receptores muscarínicos do órgão-alvo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na transmissão do Sistema Nervoso Parassimpático, o nervo pré-ganglionar libera ACh no gânglio, que atua nos receptores nicotínicos dos neurônios pós-ganglionares; em seguida, o nervo pós-ganglionar libera ACh para estimular os receptores: Na transmissão parassimpática, o nervo pré-ganglionar libera ACh no gânglio (receptores nicotínicos), e o nervo pós-ganglionar libera ACh para estimular os receptores muscarínicos do órgão-alvo."
+    },
+    {
+      "id": "neuro-obj-497",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, a divisão simpática pode ser comparada, por analogia, ao acelerador de um veículo, enquanto a divisão parassimpática pode ser comparada:",
+      "options": {
+        "a": "Ao freio",
+        "b": "Também ao acelerador, sem qualquer diferença",
+        "c": "Ao volante",
+        "d": "Ao motor",
+        "e": "Ao painel de instrumentos"
+      },
+      "correct": "a",
+      "explanation": "Por analogia, pode-se pensar na divisão simpática como o acelerador e na divisão parassimpática como o freio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a divisão simpática pode ser comparada, por analogia, ao acelerador de um veículo, enquanto a divisão parassimpática pode ser comparada: Por analogia, pode-se pensar na divisão simpática como o acelerador e na divisão parassimpática como o freio."
+    },
+    {
+      "id": "neuro-obj-498",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, a divisão simpática normalmente funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que:",
+      "options": {
+        "a": "Não requerem reação imediata",
+        "b": "Sempre exigem reação mais rápida do que a divisão simpática",
+        "c": "Ocorrem exclusivamente durante o sono",
+        "d": "Ocorrem exclusivamente durante o exercício físico intenso",
+        "e": "Dependem exclusivamente do córtex motor primário"
+      },
+      "correct": "a",
+      "explanation": "A divisão simpática funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que não requerem reação imediata.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a divisão simpática normalmente funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que: A divisão simpática funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que não requerem reação imediata."
+    },
+    {
+      "id": "neuro-obj-499",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, pode-se considerar o sistema simpático como associado a 'lutar ou fugir', enquanto o parassimpático pode ser considerado associado a:",
+      "options": {
+        "a": "'Descansar e digerir' ou 'alimentar e procriar'",
+        "b": "'Lutar e vencer' exclusivamente",
+        "c": "'Fugir e esconder-se' exclusivamente",
+        "d": "'Atacar e defender' exclusivamente",
+        "e": "'Competir e dominar' exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Considere simpático como lutar ou fugir e parassimpático como descansar e digerir ou alimentar e procriar.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, pode-se considerar o sistema simpático como associado a 'lutar ou fugir', enquanto o parassimpático pode ser considerado associado a: Considere simpático como lutar ou fugir e parassimpático como descansar e digerir ou alimentar e procriar."
+    },
+    {
+      "id": "neuro-obj-500",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o nervo vago, que representa a principal via parassimpática relacionada ao coração, ao ser estimulado, provoca:",
+      "options": {
+        "a": "Diminuição da frequência cardíaca, por meio da liberação de acetilcolina",
+        "b": "Aumento da frequência cardíaca, por meio da liberação de acetilcolina",
+        "c": "Diminuição da frequência cardíaca, por meio da liberação de adrenalina",
+        "d": "Aumento da frequência cardíaca, por meio da liberação de adrenalina",
+        "e": "Nenhum efeito sobre a frequência cardíaca"
+      },
+      "correct": "a",
+      "explanation": "O nervo vago (via parassimpática) libera acetilcolina, que promove a redução da frequência cardíaca na sua ação sobre o nodo sinoatrial (marca-passo cardíaco).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo vago, que representa a principal via parassimpática relacionada ao coração, ao ser estimulado, provoca: O nervo vago (via parassimpática) libera acetilcolina, que promove a redução da frequência cardíaca na sua ação sobre o nodo sinoatrial (marca-passo cardíaco)."
+    },
+    {
+      "id": "neuro-obj-501",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, os nervos simpáticos que inervam o coração liberam, como neurotransmissor, a adrenalina, provocando:",
+      "options": {
+        "a": "Aceleração da frequência cardíaca",
+        "b": "Diminuição da frequência cardíaca",
+        "c": "Nenhum efeito sobre a frequência cardíaca",
+        "d": "Parada cardíaca imediata",
+        "e": "Diminuição exclusiva da pressão arterial"
+      },
+      "correct": "a",
+      "explanation": "Os nervos simpáticos que liberam adrenalina no coração provocam aceleração da frequência cardíaca, em oposição ao efeito parassimpático.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos simpáticos que inervam o coração liberam, como neurotransmissor, a adrenalina, provocando: Os nervos simpáticos que liberam adrenalina no coração provocam aceleração da frequência cardíaca, em oposição ao efeito parassimpático."
+    },
+    {
+      "id": "neuro-obj-502",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas, que geram as alterações no corpo para a reação de luta ou fuga, são:",
+      "options": {
+        "a": "Adrenalina e noradrenalina",
+        "b": "Acetilcolina e dopamina",
+        "c": "Serotonina e melatonina",
+        "d": "Insulina e glucagon",
+        "e": "Testosterona e estrogênio"
+      },
+      "correct": "a",
+      "explanation": "Os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas (adrenalina e noradrenalina), são liberados a partir da estimulação simpática, gerando as alterações da reação de luta ou fuga.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "40"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas, que geram as alterações no corpo para a reação de luta ou fuga, são: Os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas (adrenalina e noradrenalina), são liberados a partir da estimulação simpática, gerando as alterações da reação de luta ou fuga."
+    },
+    {
+      "id": "neuro-obj-503",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, entre as respostas parassimpáticas ilustradas, encontram-se a dilatação da pupila e a inibição da salivação. Essa afirmação está:",
+      "options": {
+        "a": "Incorreta, pois o parassimpático contrai a pupila e estimula a salivação (essas ações são simpáticas)",
+        "b": "Correta, pois o parassimpático sempre dilata a pupila e inibe a salivação",
+        "c": "Correta apenas em relação à salivação, mas incorreta quanto à pupila",
+        "d": "Correta apenas em relação à pupila, mas incorreta quanto à salivação",
+        "e": "Incorreta, pois nenhuma das duas ações depende do sistema nervoso autônomo"
+      },
+      "correct": "a",
+      "explanation": "É o Sistema Nervoso Simpático que dilata a pupila e inibe a salivação; o parassimpático, ao contrário, contrai a pupila e estimula o fluxo de saliva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36-38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, entre as respostas parassimpáticas ilustradas, encontram-se a dilatação da pupila e a inibição da salivação. Essa afirmação está: É o Sistema Nervoso Simpático que dilata a pupila e inibe a salivação; o parassimpático, ao contrário, contrai a pupila e estimula o fluxo de saliva."
+    },
+    {
+      "id": "neuro-obj-504",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, o Sistema Nervoso Parassimpático estimula a produção e a liberação de bile, além de estimular:",
+      "options": {
+        "a": "O peristaltismo e a secreção do sistema digestivo",
+        "b": "Exclusivamente a frequência cardíaca",
+        "c": "Exclusivamente a broncodilatação",
+        "d": "Exclusivamente a midríase",
+        "e": "Exclusivamente a sudorese"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Parassimpático estimula o peristaltismo e a secreção do sistema digestivo, além de estimular a liberação de bile.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático estimula a produção e a liberação de bile, além de estimular: O Sistema Nervoso Parassimpático estimula o peristaltismo e a secreção do sistema digestivo, além de estimular a liberação de bile."
+    },
+    {
+      "id": "neuro-obj-505",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, entre os efeitos parassimpáticos descritos, o sistema também contrai a bexiga, ao passo que o Sistema Nervoso Simpático:",
+      "options": {
+        "a": "Inibe a contração da bexiga",
+        "b": "Também contrai a bexiga, sem diferença funcional",
+        "c": "Não exerce qualquer efeito sobre a bexiga",
+        "d": "Provoca ruptura da bexiga",
+        "e": "Aumenta exclusivamente o volume urinário sem afetar a contração"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Parassimpático contrai a bexiga (favorecendo a micção), enquanto o Sistema Nervoso Simpático inibe sua contração.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "37-38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, entre os efeitos parassimpáticos descritos, o sistema também contrai a bexiga, ao passo que o Sistema Nervoso Simpático: O Sistema Nervoso Parassimpático contrai a bexiga (favorecendo a micção), enquanto o Sistema Nervoso Simpático inibe sua contração."
+    },
+    {
+      "id": "neuro-obj-506",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, é possível afirmar que as divisões simpática e parassimpática, embora normalmente funcionem em oposição, são mais bem compreendidas como de natureza:",
+      "options": {
+        "a": "Complementar do que antagônica",
+        "b": "Totalmente independente uma da outra",
+        "c": "Idêntica em todas as suas funções",
+        "d": "Exclusivamente antagônica, sem qualquer complementaridade",
+        "e": "Irrelevante para a homeostase corporal"
+      },
+      "correct": "a",
+      "explanation": "As divisões simpática e parassimpática normalmente funcionam em oposição, mas essa oposição é melhor entendida como complementar em natureza do que antagônica.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, é possível afirmar que as divisões simpática e parassimpática, embora normalmente funcionem em oposição, são mais bem compreendidas como de natureza: As divisões simpática e parassimpática normalmente funcionam em oposição, mas essa oposição é melhor entendida como complementar em natureza do que antagônica."
     }
   ],
   "discursive": [
@@ -15276,6 +16706,720 @@
       },
       "subject": "Organização geral do sistema nervoso",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-136",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Descreva as três camadas germinativas envolvidas no desenvolvimento do Sistema Nervoso Central e o que cada uma origina.",
+      "modelAnswer": "O ectoderma é a principal estrutura iniciadora, dando origem ao tubo neural, à crista neural (que formará o cérebro, a medula espinhal e os nervos periféricos), além da epiderme, unhas e cabelo. O mesoderma origina o esqueleto axial, a derme, os músculos, as gônadas, os rins e as estruturas urogenitais. O endoderma origina o revestimento dos sistemas gastrointestinal e respiratório e órgãos como fígado, pâncreas e bexiga.",
+      "keyPoints": [
+        {
+          "text": "Ectoderma: tubo neural, crista neural, SNC/nervos periféricos",
+          "weight": 0.4,
+          "keywords": [
+            "ectoderma",
+            "tubo neural"
+          ]
+        },
+        {
+          "text": "Mesoderma: esqueleto, músculos, gônadas, rins",
+          "weight": 0.3,
+          "keywords": [
+            "mesoderma",
+            "esqueleto",
+            "músculos"
+          ]
+        },
+        {
+          "text": "Endoderma: sistemas gastrointestinal/respiratório, fígado, pâncreas",
+          "weight": 0.3,
+          "keywords": [
+            "endoderma",
+            "gastrointestinal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22-23"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-137",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Explique o processo de neurulação, desde a formação da placa neural até a origem do cérebro e da medula espinhal.",
+      "modelAnswer": "A neurulação é o dobramento da placa neural, induzido pelo notocórdio, formando o tubo neural, que se torna o neuroectoderma. Esse neuroectoderma finalmente forma o SNC: os dois terços craniais originam o cérebro, e o terço caudal origina a medula espinhal.",
+      "keyPoints": [
+        {
+          "text": "Notocórdio induz o dobramento da placa neural (neurulação)",
+          "weight": 0.4,
+          "keywords": [
+            "notocórdio",
+            "dobramento"
+          ]
+        },
+        {
+          "text": "Neuroectoderma forma o SNC",
+          "weight": 0.3,
+          "keywords": [
+            "neuroectoderma",
+            "SNC"
+          ]
+        },
+        {
+          "text": "Dois terços craniais → cérebro; terço caudal → medula espinhal",
+          "weight": 0.3,
+          "keywords": [
+            "craniais",
+            "caudal",
+            "cérebro",
+            "medula"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-138",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Descreva as três camadas da medula espinhal em formação e o que cada uma originará.",
+      "modelAnswer": "A camada ventricular reveste o canal central. A camada do manto contém corpos neuronais, os quais formarão a massa cinzenta. A camada marginal contém axônios e formará a substância branca.",
+      "keyPoints": [
+        {
+          "text": "Camada ventricular: reveste o canal central",
+          "weight": 0.34,
+          "keywords": [
+            "ventricular",
+            "canal central"
+          ]
+        },
+        {
+          "text": "Camada do manto: corpos neuronais → massa cinzenta",
+          "weight": 0.33,
+          "keywords": [
+            "manto",
+            "massa cinzenta"
+          ]
+        },
+        {
+          "text": "Camada marginal: axônios → substância branca",
+          "weight": 0.33,
+          "keywords": [
+            "marginal",
+            "substância branca"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "25"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-139",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Explique como ocorre a mielinização dos axônios no SNP e no SNC, indicando a origem embriológica das células responsáveis.",
+      "modelAnswer": "No SNP, a mielinização ocorre por meio do neurolema, formado pelas células de Schwann, que derivam da crista neural. No SNC, a mielinização ocorre via oligodendrócitos, que são derivados do neuroepitélio.",
+      "keyPoints": [
+        {
+          "text": "SNP: células de Schwann, derivadas da crista neural",
+          "weight": 0.5,
+          "keywords": [
+            "Schwann",
+            "crista neural"
+          ]
+        },
+        {
+          "text": "SNC: oligodendrócitos, derivados do neuroepitélio",
+          "weight": 0.5,
+          "keywords": [
+            "oligodendrócitos",
+            "neuroepitélio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "26"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-140",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Descreva as cinco vesículas cerebrais secundárias e as estruturas que cada uma origina.",
+      "modelAnswer": "O prosencéfalo se diferencia em telencéfalo e diencéfalo, originando os hemisférios cerebrais, epitálamo, tálamo e hipotálamo. O mesencéfalo permanece como uma única vesícula, sofrendo pouca reorganização. O rombencéfalo se diferencia em metencéfalo (origina o cerebelo e a ponte) e mielencéfalo (origina o bulbo).",
+      "keyPoints": [
+        {
+          "text": "Prosencéfalo → telencéfalo e diencéfalo (hemisférios, tálamo, hipotálamo)",
+          "weight": 0.4,
+          "keywords": [
+            "telencéfalo",
+            "diencéfalo"
+          ]
+        },
+        {
+          "text": "Mesencéfalo: única vesícula",
+          "weight": 0.2,
+          "keywords": [
+            "mesencéfalo"
+          ]
+        },
+        {
+          "text": "Rombencéfalo → metencéfalo (cerebelo/ponte) e mielencéfalo (bulbo)",
+          "weight": 0.4,
+          "keywords": [
+            "metencéfalo",
+            "mielencéfalo",
+            "cerebelo",
+            "bulbo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-141",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Explique a diferença entre a origem embriológica da hipófise anterior e da hipófise posterior.",
+      "modelAnswer": "A hipófise posterior é uma consequência direta do hipotálamo, com conexão direta a ele. Já a hipófise anterior é um crescimento ectodérmico da boca, que depende de uma densa rede capilar para se comunicar com o cérebro por meio do sistema vascular.",
+      "keyPoints": [
+        {
+          "text": "Hipófise posterior: origem no hipotálamo, conexão direta",
+          "weight": 0.5,
+          "keywords": [
+            "posterior",
+            "hipotálamo"
+          ]
+        },
+        {
+          "text": "Hipófise anterior: crescimento ectodérmico da boca, via vascular",
+          "weight": 0.5,
+          "keywords": [
+            "anterior",
+            "ectodérmico",
+            "boca"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-142",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Diferencie espinha bífida oculta, espinha bífida aperta e espinha bífida cística quanto à gravidade e às características.",
+      "modelAnswer": "A espinha bífida oculta é a forma menos grave, em que a coluna vertebral não se funde, mas as outras camadas se desenvolvem normalmente. A espinha bífida aperta ocorre quando há fusão incompleta da pele, com ou sem cisto, mas a medula ainda está recoberta pela aracnoide, preservando o espaço subaracnóideo. A espinha bífida cística é a forma mais grave, podendo causar incontinência urinária ou fecal.",
+      "keyPoints": [
+        {
+          "text": "Oculta: menos grave, coluna não se funde, demais camadas normais",
+          "weight": 0.34,
+          "keywords": [
+            "oculta",
+            "menos grave"
+          ]
+        },
+        {
+          "text": "Aperta: fusão incompleta da pele, medula recoberta pela aracnoide",
+          "weight": 0.33,
+          "keywords": [
+            "aperta",
+            "aracnoide"
+          ]
+        },
+        {
+          "text": "Cística: mais grave, pode causar incontinência",
+          "weight": 0.33,
+          "keywords": [
+            "cística",
+            "mais grave",
+            "incontinência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-143",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Explique o conceito de teratogênese e o período de maior vulnerabilidade do embrião, citando exemplos de teratógenos.",
+      "modelAnswer": "A teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião. Os embriões são altamente suscetíveis entre as semanas 3 e 8, período em que os sistemas orgânicos se desenvolvem. Exemplos de teratógenos incluem álcool, tabaco, certos medicamentos prescritos e drogas ilícitas.",
+      "keyPoints": [
+        {
+          "text": "Teratogênese: fator externo que influencia o crescimento do embrião",
+          "weight": 0.4,
+          "keywords": [
+            "fator externo",
+            "crescimento"
+          ]
+        },
+        {
+          "text": "Período crítico: semanas 3 a 8",
+          "weight": 0.3,
+          "keywords": [
+            "semanas 3",
+            "8"
+          ]
+        },
+        {
+          "text": "Exemplos: álcool, tabaco, medicamentos, drogas ilícitas",
+          "weight": 0.3,
+          "keywords": [
+            "álcool",
+            "tabaco",
+            "drogas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28-29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-144",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Diferencie anencefalia, holoprosencefalia e craniorraquisquise total.",
+      "modelAnswer": "A anencefalia caracteriza-se pela ausência do córtex cerebral e das estruturas talâmicas, embora cerebelo, tronco cerebral e medula espinhal possam estar presentes. A holoprosencefalia é a falha de formação das características da linha média da face, podendo incluir incisivo central único ou ciclopia. A craniorraquisquise total ocorre quando toda a placa neural não se dobra, deixando o SNC aberto para a cavidade amniótica, frequentemente associada a fetos natimortos.",
+      "keyPoints": [
+        {
+          "text": "Anencefalia: ausência do córtex cerebral e tálamo",
+          "weight": 0.34,
+          "keywords": [
+            "anencefalia",
+            "córtex cerebral"
+          ]
+        },
+        {
+          "text": "Holoprosencefalia: falha na linha média da face",
+          "weight": 0.33,
+          "keywords": [
+            "holoprosencefalia",
+            "linha média"
+          ]
+        },
+        {
+          "text": "Craniorraquisquise total: placa neural não se dobra, associada a natimortos",
+          "weight": 0.33,
+          "keywords": [
+            "craniorraquisquise",
+            "natimortos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-145",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Explique por que o desenvolvimento neural é considerado especialmente vulnerável a alterações fisiopatológicas ao longo da gestação.",
+      "modelAnswer": "O desenvolvimento neural é um dos primeiros sistemas a começar e o último a ser concluído após o nascimento, resultando em um longo período de desenvolvimento. Isso significa que qualquer insulto no útero durante a gravidez, especialmente entre as semanas 3 e 8 (período de teratogênese crítica), pode ter consequências duradouras para o desenvolvimento do sistema nervoso.",
+      "keyPoints": [
+        {
+          "text": "Desenvolvimento neural começa cedo e termina tarde (após o nascimento)",
+          "weight": 0.5,
+          "keywords": [
+            "primeiro a começar",
+            "último a concluir"
+          ]
+        },
+        {
+          "text": "Longo período de desenvolvimento aumenta a vulnerabilidade a insultos",
+          "weight": 0.5,
+          "keywords": [
+            "insulto",
+            "vulnerabilidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-146",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Diferencie o Sistema Nervoso Somático e o Sistema Nervoso Autônomo quanto ao tipo de controle que exercem sobre o corpo.",
+      "modelAnswer": "O Sistema Nervoso Somático é responsável pela percepção consciente e pelas respostas motoras voluntárias, envolvendo a contração do músculo esquelético. O Sistema Nervoso Autônomo é responsável pelo controle involuntário do corpo, geralmente para fins de homeostase, regulando órgãos internos, vasos sanguíneos e músculos lisos e cardíacos.",
+      "keyPoints": [
+        {
+          "text": "SNS: controle voluntário, músculo esquelético",
+          "weight": 0.5,
+          "keywords": [
+            "SNS",
+            "voluntário",
+            "esquelético"
+          ]
+        },
+        {
+          "text": "SNA: controle involuntário, homeostase",
+          "weight": 0.5,
+          "keywords": [
+            "SNA",
+            "involuntário",
+            "homeostase"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-147",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique a resposta de luta ou fuga, indicando quem a descreveu e quais hormônios estão envolvidos.",
+      "modelAnswer": "A resposta de luta ou fuga foi descrita por Walter Bradford Cannon, sendo o primeiro estágio de uma síndrome de adaptação geral ao estresse. Ela é mediada pelo Sistema Nervoso Simpático e pelas catecolaminas (adrenalina e noradrenalina) liberadas pela medula da glândula suprarrenal, preparando o corpo para enfrentar ou fugir de uma ameaça.",
+      "keyPoints": [
+        {
+          "text": "Descrita por Walter Bradford Cannon",
+          "weight": 0.3,
+          "keywords": [
+            "Cannon"
+          ]
+        },
+        {
+          "text": "Mediada pelo Sistema Nervoso Simpático",
+          "weight": 0.3,
+          "keywords": [
+            "simpático"
+          ]
+        },
+        {
+          "text": "Catecolaminas: adrenalina e noradrenalina",
+          "weight": 0.4,
+          "keywords": [
+            "adrenalina",
+            "noradrenalina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36-40"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-148",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Cite ao menos quatro reações físicas imediatas associadas à resposta de luta ou fuga descritas no material.",
+      "modelAnswer": "Entre as reações estão: aceleração da ação cardíaca e pulmonar; inibição da ação do estômago e do intestino superior, reduzindo a digestão; dilatação da pupila (midríase); liberação de nutrientes (gordura e glicose) para ação muscular; e constrição de vasos sanguíneos em muitas partes do corpo.",
+      "keyPoints": [
+        {
+          "text": "Aceleração cardíaca/pulmonar",
+          "weight": 0.25,
+          "keywords": [
+            "aceleração cardíaca"
+          ]
+        },
+        {
+          "text": "Inibição da digestão",
+          "weight": 0.25,
+          "keywords": [
+            "inibição",
+            "digestão"
+          ]
+        },
+        {
+          "text": "Dilatação da pupila",
+          "weight": 0.25,
+          "keywords": [
+            "dilatação",
+            "pupila"
+          ]
+        },
+        {
+          "text": "Liberação de nutrientes/constrição vascular",
+          "weight": 0.25,
+          "keywords": [
+            "nutrientes",
+            "constrição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36-37"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-149",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique a diferença entre as respostas ao estresse mais comuns em homens e em mulheres, segundo o material.",
+      "modelAnswer": "Os homens são mais propensos a responder a uma situação de emergência com agressão (lutar), enquanto as mulheres são mais propensas a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade). Durante períodos estressantes, é mais provável que a mãe mostre respostas protetoras em relação aos filhos.",
+      "keyPoints": [
+        {
+          "text": "Homens: mais propensos à agressão (lutar)",
+          "weight": 0.5,
+          "keywords": [
+            "homens",
+            "agressão"
+          ]
+        },
+        {
+          "text": "Mulheres: fugir, pedir ajuda, cuidar e fazer amizade",
+          "weight": 0.5,
+          "keywords": [
+            "mulheres",
+            "cuidar e fazer amizade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "37"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-150",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique o funcionamento da transmissão parassimpática em dois estágios, desde o nervo pré-ganglionar até o órgão-alvo.",
+      "modelAnswer": "Quando estimulado, o nervo pré-ganglionar libera acetilcolina (ACh) no gânglio, que atua sobre os receptores nicotínicos dos neurônios pós-ganglionares. Em seguida, o nervo pós-ganglionar libera ACh para estimular os receptores muscarínicos do órgão-alvo.",
+      "keyPoints": [
+        {
+          "text": "Pré-ganglionar libera ACh, atua em receptores nicotínicos",
+          "weight": 0.5,
+          "keywords": [
+            "pré-ganglionar",
+            "nicotínicos"
+          ]
+        },
+        {
+          "text": "Pós-ganglionar libera ACh, atua em receptores muscarínicos do órgão-alvo",
+          "weight": 0.5,
+          "keywords": [
+            "pós-ganglionar",
+            "muscarínicos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-151",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Compare a ação do Sistema Nervoso Simpático e do Sistema Nervoso Parassimpático sobre o coração e a pupila.",
+      "modelAnswer": "No coração, o simpático (via adrenalina) acelera a frequência cardíaca, enquanto o parassimpático (via nervo vago, liberando acetilcolina) a diminui. Na pupila, o simpático provoca dilatação (midríase), enquanto o parassimpático provoca contração (miose).",
+      "keyPoints": [
+        {
+          "text": "Coração: simpático acelera, parassimpático diminui (via vago/ACh)",
+          "weight": 0.5,
+          "keywords": [
+            "acelera",
+            "diminui",
+            "vago"
+          ]
+        },
+        {
+          "text": "Pupila: simpático dilata (midríase), parassimpático contrai (miose)",
+          "weight": 0.5,
+          "keywords": [
+            "dilata",
+            "midríase",
+            "contrai"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-152",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique por que as divisões simpática e parassimpática são consideradas mais 'complementares' do que 'antagônicas', segundo o material.",
+      "modelAnswer": "Embora as divisões simpática e parassimpática normalmente funcionem em oposição em seus efeitos sobre os órgãos, essa oposição é melhor entendida como complementar, já que ambas trabalham juntas para manter a homeostase do corpo: a simpática mobiliza recursos rapidamente quando necessário, e a parassimpática promove a recuperação e o funcionamento em repouso.",
+      "keyPoints": [
+        {
+          "text": "Efeitos opostos, mas trabalham juntas pela homeostase",
+          "weight": 0.5,
+          "keywords": [
+            "homeostase",
+            "juntas"
+          ]
+        },
+        {
+          "text": "Simpática mobiliza; parassimpática recupera/repousa",
+          "weight": 0.5,
+          "keywords": [
+            "mobiliza",
+            "repouso"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-153",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Diferencie os conceitos de 'aprendizado de hábito' (memória procedural) e reflexo, no contexto das respostas motoras somáticas.",
+      "modelAnswer": "Um reflexo é uma resposta motora somática que ocorre sem decisão consciente prévia, como um susto que provoca um salto para trás. Já o aprendizado de hábito (memória procedural) refere-se a respostas motoras que se tornam automáticas/inconscientes à medida que a pessoa pratica e aprende uma habilidade motora, como dirigir um carro após muita prática.",
+      "keyPoints": [
+        {
+          "text": "Reflexo: resposta motora sem decisão consciente prévia",
+          "weight": 0.5,
+          "keywords": [
+            "reflexo",
+            "sem decisão"
+          ]
+        },
+        {
+          "text": "Memória procedural: automatização de habilidades aprendidas com a prática",
+          "weight": 0.5,
+          "keywords": [
+            "memória procedural",
+            "prática"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-154",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique por que a transpiração pode ocorrer tanto como mecanismo homeostático quanto como resposta emocional, segundo o exemplo do material.",
+      "modelAnswer": "As glândulas sudoríparas são controladas pelo Sistema Nervoso Autônomo. Quando a pessoa está com calor, a transpiração ajuda a resfriar o corpo, um mecanismo homeostático de regulação térmica. Porém, quando a pessoa está nervosa, também pode começar a suar, mesmo sem elevação da temperatura corporal, o que caracteriza uma resposta fisiológica a um estado emocional, não relacionada à termorregulação.",
+      "keyPoints": [
+        {
+          "text": "Transpiração por calor: mecanismo homeostático (termorregulação)",
+          "weight": 0.5,
+          "keywords": [
+            "calor",
+            "homeostático"
+          ]
+        },
+        {
+          "text": "Transpiração por nervosismo: resposta emocional, não homeostática",
+          "weight": 0.5,
+          "keywords": [
+            "nervoso",
+            "resposta emocional"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-155",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Explique o que é o Sistema Nervoso Entérico e sua relação com o Sistema Nervoso Autônomo.",
+      "modelAnswer": "O Sistema Nervoso Entérico (SNE) é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo. É uma grande parte do Sistema Nervoso Periférico e tem a particularidade de poder operar de forma independente do cérebro e da medula espinhal, embora seja considerado por alguns autores como parte do Sistema Nervoso Autônomo, já que suas estruturas compõem um componente da saída autonômica que regula a digestão.",
+      "keyPoints": [
+        {
+          "text": "SNE controla o sistema digestivo (músculo liso e glândulas)",
+          "weight": 0.4,
+          "keywords": [
+            "SNE",
+            "sistema digestivo"
+          ]
+        },
+        {
+          "text": "Pode operar independentemente do cérebro/medula espinhal",
+          "weight": 0.3,
+          "keywords": [
+            "independentemente"
+          ]
+        },
+        {
+          "text": "Considerado por alguns como parte do SNA",
+          "weight": 0.3,
+          "keywords": [
+            "parte do SNA"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -19582,6 +21726,478 @@
       "subject": "Organização geral do sistema nervoso",
       "difficulty": "medio",
       "miniLesson": "Qual é o nervo mais longo do corpo humano? O nervo ciático."
+    },
+    {
+      "id": "neuro-oral-136",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Quais são as três camadas germinativas envolvidas na embriogênese do SNC?",
+      "modelAnswer": "Ectoderma, mesoderma e endoderma.",
+      "keyPoints": [
+        {
+          "text": "Ectoderma, mesoderma e endoderma",
+          "weight": 1,
+          "keywords": [
+            "ectoderma",
+            "mesoderma",
+            "endoderma"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "22"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três camadas germinativas envolvidas na embriogênese do SNC? Ectoderma, mesoderma e endoderma."
+    },
+    {
+      "id": "neuro-oral-137",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O que é a notocorda?",
+      "modelAnswer": "É uma estrutura celular semelhante a um bastão fino, que se forma durante o desenvolvimento embrionário e induz a formação da placa neural.",
+      "keyPoints": [
+        {
+          "text": "Estrutura em bastão que induz a placa neural",
+          "weight": 1,
+          "keywords": [
+            "bastão",
+            "induz"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "O que é a notocorda? É uma estrutura celular semelhante a um bastão fino, que se forma durante o desenvolvimento embrionário e induz a formação da placa neural."
+    },
+    {
+      "id": "neuro-oral-138",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O que é a neurulação?",
+      "modelAnswer": "É o dobramento da placa neural, induzido pelo notocórdio, que forma o tubo neural (neuroectoderma), dando origem ao SNC.",
+      "keyPoints": [
+        {
+          "text": "Dobramento da placa neural formando o tubo neural",
+          "weight": 1,
+          "keywords": [
+            "dobramento",
+            "tubo neural"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "24"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "O que é a neurulação? É o dobramento da placa neural, induzido pelo notocórdio, que forma o tubo neural (neuroectoderma), dando origem ao SNC."
+    },
+    {
+      "id": "neuro-oral-139",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Qual camada da medula espinhal em formação dará origem à substância branca?",
+      "modelAnswer": "A camada marginal.",
+      "keyPoints": [
+        {
+          "text": "Camada marginal",
+          "weight": 1,
+          "keywords": [
+            "marginal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "25"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Qual camada da medula espinhal em formação dará origem à substância branca? A camada marginal."
+    },
+    {
+      "id": "neuro-oral-140",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Quantas vesículas cerebrais primárias existem e em quantas secundárias elas se diferenciam?",
+      "modelAnswer": "Existem três vesículas cerebrais primárias, que se diferenciam em cinco vesículas cerebrais secundárias.",
+      "keyPoints": [
+        {
+          "text": "Três primárias, cinco secundárias",
+          "weight": 1,
+          "keywords": [
+            "três",
+            "cinco"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Quantas vesículas cerebrais primárias existem e em quantas secundárias elas se diferenciam? Existem três vesículas cerebrais primárias, que se diferenciam em cinco vesículas cerebrais secundárias."
+    },
+    {
+      "id": "neuro-oral-141",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O rombencéfalo dá origem a quais estruturas?",
+      "modelAnswer": "Ao bulbo, à ponte e ao cerebelo.",
+      "keyPoints": [
+        {
+          "text": "Bulbo, ponte e cerebelo",
+          "weight": 1,
+          "keywords": [
+            "bulbo",
+            "ponte",
+            "cerebelo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "27"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "O rombencéfalo dá origem a quais estruturas? Ao bulbo, à ponte e ao cerebelo."
+    },
+    {
+      "id": "neuro-oral-142",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O que é a teratogênese?",
+      "modelAnswer": "É definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões mais suscetíveis entre as semanas 3 e 8.",
+      "keyPoints": [
+        {
+          "text": "Fator externo que influencia o crescimento embrionário",
+          "weight": 1,
+          "keywords": [
+            "fator externo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "O que é a teratogênese? É definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões mais suscetíveis entre as semanas 3 e 8."
+    },
+    {
+      "id": "neuro-oral-143",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Qual é a forma mais grave de disrafismo mencionada no material?",
+      "modelAnswer": "A espinha bífida cística.",
+      "keyPoints": [
+        {
+          "text": "Espinha bífida cística",
+          "weight": 1,
+          "keywords": [
+            "espinha bífida cística"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "28"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a forma mais grave de disrafismo mencionada no material? A espinha bífida cística."
+    },
+    {
+      "id": "neuro-oral-144",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "O que caracteriza a anencefalia?",
+      "modelAnswer": "A ausência, geralmente, do córtex cerebral e das estruturas talâmicas, embora cerebelo, tronco cerebral e medula espinhal possam estar presentes.",
+      "keyPoints": [
+        {
+          "text": "Ausência de córtex cerebral e estruturas talâmicas",
+          "weight": 1,
+          "keywords": [
+            "córtex cerebral",
+            "talâmicas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a anencefalia? A ausência, geralmente, do córtex cerebral e das estruturas talâmicas, embora cerebelo, tronco cerebral e medula espinhal possam estar presentes."
+    },
+    {
+      "id": "neuro-oral-145",
+      "topic": "Desenvolvimento embrionário do SN",
+      "question": "Qual suplemento vitamínico é especialmente recomendado para gestantes ajudarem no neurodesenvolvimento fetal?",
+      "modelAnswer": "Ácido fólico.",
+      "keyPoints": [
+        {
+          "text": "Ácido fólico",
+          "weight": 1,
+          "keywords": [
+            "ácido fólico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "29"
+      },
+      "subject": "Desenvolvimento embrionário do SN",
+      "difficulty": "baixo",
+      "miniLesson": "Qual suplemento vitamínico é especialmente recomendado para gestantes ajudarem no neurodesenvolvimento fetal? Ácido fólico."
+    },
+    {
+      "id": "neuro-oral-146",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Quais são as duas divisões clássicas do Sistema Nervoso Autônomo?",
+      "modelAnswer": "Divisão simpática e divisão parassimpática.",
+      "keyPoints": [
+        {
+          "text": "Simpática e parassimpática",
+          "weight": 1,
+          "keywords": [
+            "simpática",
+            "parassimpática"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "35"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as duas divisões clássicas do Sistema Nervoso Autônomo? Divisão simpática e divisão parassimpática."
+    },
+    {
+      "id": "neuro-oral-147",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Quem descreveu pela primeira vez a resposta de luta ou fuga?",
+      "modelAnswer": "Walter Bradford Cannon.",
+      "keyPoints": [
+        {
+          "text": "Walter Bradford Cannon",
+          "weight": 1,
+          "keywords": [
+            "Cannon"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Quem descreveu pela primeira vez a resposta de luta ou fuga? Walter Bradford Cannon."
+    },
+    {
+      "id": "neuro-oral-148",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Quais são as catecolaminas liberadas pela medula da glândula suprarrenal na resposta de luta ou fuga?",
+      "modelAnswer": "Adrenalina e noradrenalina.",
+      "keyPoints": [
+        {
+          "text": "Adrenalina e noradrenalina",
+          "weight": 1,
+          "keywords": [
+            "adrenalina",
+            "noradrenalina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "40"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Quais são as catecolaminas liberadas pela medula da glândula suprarrenal na resposta de luta ou fuga? Adrenalina e noradrenalina."
+    },
+    {
+      "id": "neuro-oral-149",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Qual neurotransmissor é utilizado principalmente pelo Sistema Nervoso Parassimpático?",
+      "modelAnswer": "A acetilcolina (ACh).",
+      "keyPoints": [
+        {
+          "text": "Acetilcolina",
+          "weight": 1,
+          "keywords": [
+            "acetilcolina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Qual neurotransmissor é utilizado principalmente pelo Sistema Nervoso Parassimpático? A acetilcolina (ACh)."
+    },
+    {
+      "id": "neuro-oral-150",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Que efeito o nervo vago (via parassimpática) provoca sobre a frequência cardíaca?",
+      "modelAnswer": "Diminuição da frequência cardíaca.",
+      "keyPoints": [
+        {
+          "text": "Diminuição da frequência cardíaca",
+          "weight": 1,
+          "keywords": [
+            "diminuição"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Que efeito o nervo vago (via parassimpática) provoca sobre a frequência cardíaca? Diminuição da frequência cardíaca."
+    },
+    {
+      "id": "neuro-oral-151",
+      "topic": "Sistema nervoso autônomo",
+      "question": "O que acontece com a pupila sob ação do Sistema Nervoso Simpático?",
+      "modelAnswer": "Ela se dilata (midríase).",
+      "keyPoints": [
+        {
+          "text": "Dilatação (midríase)",
+          "weight": 1,
+          "keywords": [
+            "dilatação",
+            "midríase"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "36"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "O que acontece com a pupila sob ação do Sistema Nervoso Simpático? Ela se dilata (midríase)."
+    },
+    {
+      "id": "neuro-oral-152",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Quais respostas motoras se tornam automáticas conforme a prática de habilidades? Como esse processo é chamado?",
+      "modelAnswer": "Aprendizado de hábito, também conhecido como memória procedural.",
+      "keyPoints": [
+        {
+          "text": "Aprendizado de hábito / memória procedural",
+          "weight": 1,
+          "keywords": [
+            "memória procedural"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Quais respostas motoras se tornam automáticas conforme a prática de habilidades? Como esse processo é chamado? Aprendizado de hábito, também conhecido como memória procedural."
+    },
+    {
+      "id": "neuro-oral-153",
+      "topic": "Sistema nervoso autônomo",
+      "question": "O que controla o Sistema Nervoso Entérico?",
+      "modelAnswer": "O músculo liso e o tecido glandular do sistema digestivo.",
+      "keyPoints": [
+        {
+          "text": "Músculo liso e glândulas do sistema digestivo",
+          "weight": 1,
+          "keywords": [
+            "sistema digestivo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "34"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "O que controla o Sistema Nervoso Entérico? O músculo liso e o tecido glandular do sistema digestivo."
+    },
+    {
+      "id": "neuro-oral-154",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Na analogia usada pelo material, a que se compara a divisão simpática e a que se compara a divisão parassimpática?",
+      "modelAnswer": "A divisão simpática é comparada ao acelerador, e a parassimpática, ao freio.",
+      "keyPoints": [
+        {
+          "text": "Simpática: acelerador; parassimpática: freio",
+          "weight": 1,
+          "keywords": [
+            "acelerador",
+            "freio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "38-39"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Na analogia usada pelo material, a que se compara a divisão simpática e a que se compara a divisão parassimpática? A divisão simpática é comparada ao acelerador, e a parassimpática, ao freio."
+    },
+    {
+      "id": "neuro-oral-155",
+      "topic": "Sistema nervoso autônomo",
+      "question": "Segundo o material, como as mulheres tendem a responder a situações estressantes, diferentemente dos homens?",
+      "modelAnswer": "Tendem a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem à agressão (lutar).",
+      "keyPoints": [
+        {
+          "text": "Fugir, pedir ajuda, cuidar e fazer amizade",
+          "weight": 1,
+          "keywords": [
+            "cuidar e fazer amizade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "37"
+      },
+      "subject": "Sistema nervoso autônomo",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, como as mulheres tendem a responder a situações estressantes, diferentemente dos homens? Tendem a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem à agressão (lutar)."
     }
   ]
 }
