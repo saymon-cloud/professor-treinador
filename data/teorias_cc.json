@@ -6266,6 +6266,1436 @@
       "subject": "Terapia Cognitivo-Comportamental (TCC)",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a TCC se atenta ao tempo de tratamento, buscando o menor tempo possível para resolver os objetivos e gerar autonomia no paciente; no processo final da terapia, as sessões podem se tornar: No processo final da terapia, as sessões podem ser mais espaçadas (quinzenal ou mensalmente, por exemplo) ou é possível agendar sessões avulsas quando solicitado pelo paciente."
+    },
+    {
+      "id": "tcc-obj-287",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, Edward L. Thorndike, ao estudar gatos que precisavam escapar de uma caixa-problema, percebeu que o tempo de resposta correta diminuía progressivamente após tentativas anteriores, elaborando a partir disso a:",
+      "options": {
+        "a": "Lei do efeito",
+        "b": "Lei do limiar",
+        "c": "Lei da latência",
+        "d": "Lei da habituação",
+        "e": "Lei da sensibilização"
+      },
+      "correct": "a",
+      "explanation": "A partir do experimento com gatos em caixas-problema, Thorndike elaborou a Lei do efeito, segundo a qual, se um comportamento for seguido de satisfação, será fortalecido; se seguido de castigo, será enfraquecido.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Edward L. Thorndike, ao estudar gatos que precisavam escapar de uma caixa-problema, percebeu que o tempo de resposta correta diminuía progressivamente após tentativas anteriores, elaborando a partir disso a: A partir do experimento com gatos em caixas-problema, Thorndike elaborou a Lei do efeito, segundo a qual, se um comportamento for seguido de satisfação, será fortalecido; se seguido de castigo, será enfraquecido."
+    },
+    {
+      "id": "tcc-obj-288",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, John B. Watson defendia que o estudo da experiência consciente, proposto pela escola estruturalista, era falho porque:",
+      "options": {
+        "a": "Um estudo objetivo da mente seria impossível, sendo mais importante concentrar-se no comportamento observável",
+        "b": "A introspecção era um método excessivamente científico e replicável",
+        "c": "Os estruturalistas ignoravam completamente a experiência subjetiva",
+        "d": "A mente poderia ser medida com grande precisão por instrumentos da época",
+        "e": "O comportamento observável era irrelevante para a Psicologia"
+      },
+      "correct": "a",
+      "explanation": "Watson era crítico da escola estruturalista, defendendo que o estudo da experiência consciente era falho, já que um estudo objetivo da mente seria impossível; para ele, era mais importante se concentrar diretamente no comportamento observável e tentar controlá-lo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, John B. Watson defendia que o estudo da experiência consciente, proposto pela escola estruturalista, era falho porque: Watson era crítico da escola estruturalista, defendendo que o estudo da experiência consciente era falho, já que um estudo objetivo da mente seria impossível; para ele, era mais importante se concentrar diretamente no comportamento observável e tentar controlá-lo."
+    },
+    {
+      "id": "tcc-obj-289",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, Watson é conhecido como o pai do behaviorismo, tendo o termo começado a ser utilizado com a publicação, em 1913, de seu trabalho intitulado:",
+      "options": {
+        "a": "Psychology as the behaviorist views it (Psicologia como um comportamentista a vê)",
+        "b": "Ciência e comportamento humano",
+        "c": "Sobre o behaviorismo",
+        "d": "Contingencies of reinforcement",
+        "e": "Questões recentes na análise do comportamento"
+      },
+      "correct": "a",
+      "explanation": "Watson é conhecido como o pai do behaviorismo, já que o início da utilização do termo foi com a publicação de seu trabalho, em 1913, Psychology as the behaviorist views it (Psicologia como um comportamentista a vê).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Watson é conhecido como o pai do behaviorismo, tendo o termo começado a ser utilizado com a publicação, em 1913, de seu trabalho intitulado: Watson é conhecido como o pai do behaviorismo, já que o início da utilização do termo foi com a publicação de seu trabalho, em 1913, Psychology as the behaviorist views it (Psicologia como um comportamentista a vê)."
+    },
+    {
+      "id": "tcc-obj-290",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, os estudos de Watson foram muito influenciados pelos trabalhos sobre comportamentos reflexos do fisiologista russo:",
+      "options": {
+        "a": "Ivan Petrovich Pavlov",
+        "b": "Edward L. Thorndike",
+        "c": "Burrhus F. Skinner",
+        "d": "Wilhelm Wundt",
+        "e": "James M. Cattell"
+      },
+      "correct": "a",
+      "explanation": "Os estudos de Watson foram muito influenciados pelos trabalhos sobre comportamentos reflexos do fisiologista russo Ivan Petrovich Pavlov (1849-1936).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os estudos de Watson foram muito influenciados pelos trabalhos sobre comportamentos reflexos do fisiologista russo: Os estudos de Watson foram muito influenciados pelos trabalhos sobre comportamentos reflexos do fisiologista russo Ivan Petrovich Pavlov (1849-1936)."
+    },
+    {
+      "id": "tcc-obj-291",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, os reflexos são definidos, de acordo com Moreira e Medeiros (2007), não apenas como comportamentos, mas sim como:",
+      "options": {
+        "a": "A relação entre estímulo e resposta",
+        "b": "Uma consequência que aumenta a chance de um comportamento se repetir",
+        "c": "Um processo exclusivamente consciente e voluntário",
+        "d": "Uma modelagem de aproximações sucessivas",
+        "e": "Um esquema de reforçamento intermitente"
+      },
+      "correct": "a",
+      "explanation": "De acordo com Moreira e Medeiros (2007), 'reflexos não são apenas comportamentos, mas sim a relação entre estímulo e resposta'.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os reflexos são definidos, de acordo com Moreira e Medeiros (2007), não apenas como comportamentos, mas sim como: De acordo com Moreira e Medeiros (2007), 'reflexos não são apenas comportamentos, mas sim a relação entre estímulo e resposta'."
+    },
+    {
+      "id": "tcc-obj-292",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a equação Sn → Rn representa que:",
+      "options": {
+        "a": "Determinado estímulo elicia uma resposta",
+        "b": "Uma resposta produz uma mudança no ambiente",
+        "c": "Um comportamento é seguido de reforço",
+        "d": "Uma resposta gera uma nova resposta em cadeia",
+        "e": "Um estímulo neutro se torna incondicionado"
+      },
+      "correct": "a",
+      "explanation": "A equação dos reflexos Sn → Rn representa que determinado estímulo elicia uma resposta.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a equação Sn → Rn representa que: A equação dos reflexos Sn → Rn representa que determinado estímulo elicia uma resposta."
+    },
+    {
+      "id": "tcc-obj-293",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, muitos reflexos são eliciados sem uma aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história:",
+      "options": {
+        "a": "Filogenética",
+        "b": "Exclusivamente cultural",
+        "c": "Exclusivamente educacional",
+        "d": "Exclusivamente terapêutica",
+        "e": "Exclusivamente linguística"
+      },
+      "correct": "a",
+      "explanation": "Muitos reflexos são eliciados sem aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história filogenética, isto é, a história evolutiva da espécie.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, muitos reflexos são eliciados sem uma aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história: Muitos reflexos são eliciados sem aprendizagem prévia porque cada organismo já nasce com um conjunto de comportamentos herdados ao longo de sua história filogenética, isto é, a história evolutiva da espécie."
+    },
+    {
+      "id": "tcc-obj-294",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a primeira propriedade importante dos reflexos, relacionada à intensidade do estímulo e da resposta, estabelece que:",
+      "options": {
+        "a": "Quanto maior a intensidade do estímulo, maior será a intensidade da resposta",
+        "b": "Quanto maior a intensidade do estímulo, menor será a intensidade da resposta",
+        "c": "A intensidade do estímulo não tem qualquer relação com a intensidade da resposta",
+        "d": "A intensidade da resposta é sempre constante, independentemente do estímulo",
+        "e": "Apenas estímulos fracos são capazes de eliciar respostas reflexas"
+      },
+      "correct": "a",
+      "explanation": "A primeira propriedade dos reflexos é a relação entre a intensidade do estímulo e da resposta: quanto maior a intensidade do estímulo, maior será a intensidade da resposta.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7-8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a primeira propriedade importante dos reflexos, relacionada à intensidade do estímulo e da resposta, estabelece que: A primeira propriedade dos reflexos é a relação entre a intensidade do estímulo e da resposta: quanto maior a intensidade do estímulo, maior será a intensidade da resposta."
+    },
+    {
+      "id": "tcc-obj-295",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a lei do limiar estabelece que:",
+      "options": {
+        "a": "Há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo",
+        "b": "Quanto maior a intensidade do estímulo, menor será o tempo de latência",
+        "c": "A repetição de um estímulo sempre reduz a intensidade da resposta",
+        "d": "A repetição de um estímulo sempre aumenta a intensidade da resposta",
+        "e": "A resposta é sempre eliciada independentemente da intensidade do estímulo"
+      },
+      "correct": "a",
+      "explanation": "A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a lei do limiar estabelece que: A lei do limiar estabelece que há sempre uma intensidade mínima de estímulo para que a resposta seja eliciada pelo organismo."
+    },
+    {
+      "id": "tcc-obj-296",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a lei de latência descreve o tempo compreendido entre apresentar o estímulo e eliciar a resposta, sendo que:",
+      "options": {
+        "a": "Quanto maior a intensidade do estímulo, menor será o tempo de latência",
+        "b": "Quanto maior a intensidade do estímulo, maior será o tempo de latência",
+        "c": "A intensidade do estímulo não influencia o tempo de latência",
+        "d": "O tempo de latência é sempre fixo, independentemente do estímulo",
+        "e": "A latência só se aplica a estímulos de baixa intensidade"
+      },
+      "correct": "a",
+      "explanation": "A lei de latência é o tempo compreendido entre apresentar o estímulo e eliciar a resposta; quanto maior a intensidade do estímulo, menor será o tempo de latência.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a lei de latência descreve o tempo compreendido entre apresentar o estímulo e eliciar a resposta, sendo que: A lei de latência é o tempo compreendido entre apresentar o estímulo e eliciar a resposta; quanto maior a intensidade do estímulo, menor será o tempo de latência."
+    },
+    {
+      "id": "tcc-obj-297",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta (como não perceber mais um cheiro após certo tempo em um ambiente malcheiroso), esse processo é chamado de:",
+      "options": {
+        "a": "Habituação",
+        "b": "Sensibilização",
+        "c": "Extinção respondente",
+        "d": "Generalização respondente",
+        "e": "Lei do limiar"
+      },
+      "correct": "a",
+      "explanation": "A habituação ocorre quando um estímulo é apresentado muitas vezes, a ponto de reduzir a intensidade da resposta — como não perceber mais um cheiro após certo tempo em um ambiente malcheiroso.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando um estímulo é apresentado muitas vezes a ponto de reduzir a intensidade da resposta (como não perceber mais um cheiro após certo tempo em um ambiente malcheiroso), esse processo é chamado de: A habituação ocorre quando um estímulo é apresentado muitas vezes, a ponto de reduzir a intensidade da resposta — como não perceber mais um cheiro após certo tempo em um ambiente malcheiroso."
+    },
+    {
+      "id": "tcc-obj-298",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta (como um barulho incômodo que se torna insuportável com o tempo), esse processo é chamado de:",
+      "options": {
+        "a": "Sensibilização",
+        "b": "Habituação",
+        "c": "Extinção respondente",
+        "d": "Generalização respondente",
+        "e": "Lei da latência"
+      },
+      "correct": "a",
+      "explanation": "A sensibilização ocorre quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — como um barulho incômodo que se torna insuportável depois de algum tempo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta (como um barulho incômodo que se torna insuportável com o tempo), esse processo é chamado de: A sensibilização ocorre quando um estímulo é apresentado muitas vezes a ponto de aumentar a intensidade da resposta — como um barulho incômodo que se torna insuportável depois de algum tempo."
+    },
+    {
+      "id": "tcc-obj-299",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no experimento de Pavlov, o som do sino, que inicialmente não era capaz de eliciar salivação, é classificado, antes do condicionamento, como um estímulo:",
+      "options": {
+        "a": "Neutro",
+        "b": "Incondicionado",
+        "c": "Condicionado",
+        "d": "Aversivo",
+        "e": "Discriminativo"
+      },
+      "correct": "a",
+      "explanation": "No caso do cachorro de Pavlov, o som do sino era, inicialmente, um estímulo neutro, pois não era esperado que eliciasse salivação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no experimento de Pavlov, o som do sino, que inicialmente não era capaz de eliciar salivação, é classificado, antes do condicionamento, como um estímulo: No caso do cachorro de Pavlov, o som do sino era, inicialmente, um estímulo neutro, pois não era esperado que eliciasse salivação."
+    },
+    {
+      "id": "tcc-obj-300",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no condicionamento clássico de Pavlov, a comida, que elicia uma resposta automática de salivação no organismo, é classificada como um estímulo:",
+      "options": {
+        "a": "Incondicionado",
+        "b": "Neutro",
+        "c": "Condicionado",
+        "d": "Discriminativo",
+        "e": "Generalizado"
+      },
+      "correct": "a",
+      "explanation": "O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo; no caso, a comida elicia a resposta incondicionada de salivação.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no condicionamento clássico de Pavlov, a comida, que elicia uma resposta automática de salivação no organismo, é classificada como um estímulo: O estímulo incondicionado é aquele que elicia uma resposta automática ao organismo; no caso, a comida elicia a resposta incondicionada de salivação."
+    },
+    {
+      "id": "tcc-obj-301",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, após o emparelhamento repetido entre o sino (estímulo neutro) e a comida (estímulo incondicionado), o sino passa a eliciar salivação sozinho, sendo então classificado como estímulo:",
+      "options": {
+        "a": "Condicionado",
+        "b": "Neutro",
+        "c": "Incondicionado",
+        "d": "Aversivo primário",
+        "e": "Reflexo inato"
+      },
+      "correct": "a",
+      "explanation": "O estímulo condicionado é aquele que previamente era neutro e que passa a eliciar uma resposta condicionada, após o emparelhamento repetido com o estímulo incondicionado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após o emparelhamento repetido entre o sino (estímulo neutro) e a comida (estímulo incondicionado), o sino passa a eliciar salivação sozinho, sendo então classificado como estímulo: O estímulo condicionado é aquele que previamente era neutro e que passa a eliciar uma resposta condicionada, após o emparelhamento repetido com o estímulo incondicionado."
+    },
+    {
+      "id": "tcc-obj-302",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a principal contribuição de Watson, a partir dos estudos de Pavlov sobre condicionamento respondente, foi criar as bases do:",
+      "options": {
+        "a": "Behaviorismo metodológico",
+        "b": "Behaviorismo radical",
+        "c": "Condicionamento operante",
+        "d": "Funcionalismo cognitivo",
+        "e": "Construtivismo genético"
+      },
+      "correct": "a",
+      "explanation": "A partir dos estudos de Pavlov sobre o condicionamento respondente, Watson se aprofundou nessa área para criar as bases do behaviorismo metodológico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a principal contribuição de Watson, a partir dos estudos de Pavlov sobre condicionamento respondente, foi criar as bases do: A partir dos estudos de Pavlov sobre o condicionamento respondente, Watson se aprofundou nessa área para criar as bases do behaviorismo metodológico."
+    },
+    {
+      "id": "tcc-obj-303",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o behaviorismo metodológico de Watson não negava a existência da mente, mas afirmava que ela:",
+      "options": {
+        "a": "Não poderia ser estudada de forma objetiva e científica, descartando eventos internos como pensamentos e emoções das análises",
+        "b": "Deveria ser o único objeto de estudo válido da Psicologia",
+        "c": "Poderia ser medida diretamente com instrumentos de precisão da época",
+        "d": "Era idêntica ao comportamento observável, sem qualquer distinção",
+        "e": "Deveria ser estudada exclusivamente por meio da introspecção"
+      },
+      "correct": "a",
+      "explanation": "No behaviorismo metodológico, Watson não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica, descartando de suas análises os eventos internos, como pensamentos e emoções.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o behaviorismo metodológico de Watson não negava a existência da mente, mas afirmava que ela: No behaviorismo metodológico, Watson não negava a existência da mente, mas afirmava que ela não poderia ser estudada de forma objetiva e científica, descartando de suas análises os eventos internos, como pensamentos e emoções."
+    },
+    {
+      "id": "tcc-obj-304",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, para Watson, o propósito do behaviorismo seria:",
+      "options": {
+        "a": "Prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou",
+        "b": "Descrever exclusivamente os processos mentais internos e conscientes",
+        "c": "Estudar exclusivamente a experiência subjetiva por meio da introspecção",
+        "d": "Comprovar a existência de forças metafísicas que regem o comportamento",
+        "e": "Substituir completamente o método experimental pela observação clínica"
+      },
+      "correct": "a",
+      "explanation": "Para Watson, o propósito do behaviorismo seria prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou (GRAHAM, 2010).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para Watson, o propósito do behaviorismo seria: Para Watson, o propósito do behaviorismo seria prever a resposta do organismo com base no estímulo ou, dada uma resposta, descobrir qual estímulo a causou (GRAHAM, 2010)."
+    },
+    {
+      "id": "tcc-obj-305",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, embora o behaviorismo metodológico não se interessasse em analisar eventos internos como as emoções, Watson estudava as respostas de medo porque:",
+      "options": {
+        "a": "O que se analisava eram os comportamentos externos observáveis diante do estímulo, como chorar, gritar ou afastar-se",
+        "b": "Ele considerava o medo uma variável interna perfeitamente observável e mensurável diretamente",
+        "c": "Ele acreditava que o medo era determinado exclusivamente pela herança genética",
+        "d": "As emoções eram, para ele, o único objeto legítimo de estudo da Psicologia",
+        "e": "Ele pretendia demonstrar a existência de uma mente subjetiva"
+      },
+      "correct": "a",
+      "explanation": "Watson não se interessava estritamente em variáveis internas, como a natureza subjetiva do medo; o que se analisavam eram os comportamentos externos apresentados pelo organismo diante do estímulo, como chorar, cobrir os olhos, gritar, afastar-se do local etc.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, embora o behaviorismo metodológico não se interessasse em analisar eventos internos como as emoções, Watson estudava as respostas de medo porque: Watson não se interessava estritamente em variáveis internas, como a natureza subjetiva do medo; o que se analisavam eram os comportamentos externos apresentados pelo organismo diante do estímulo, como chorar, cobrir os olhos, gritar, afastar-se do local etc."
+    },
+    {
+      "id": "tcc-obj-306",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no experimento do pequeno Albert, conduzido por Watson, o rato branco, inicialmente apresentado sem qualquer reação aversiva da criança, foi posteriormente pareado com um barulho estridente, tornando-se, ao final, um estímulo:",
+      "options": {
+        "a": "Condicionado, eliciando choro e medo",
+        "b": "Neutro, permanecendo sem qualquer efeito emocional",
+        "c": "Incondicionado, eliciando automaticamente medo desde o nascimento",
+        "d": "Discriminativo, sinalizando reforço disponível",
+        "e": "Reforçador secundário aprendido"
+      },
+      "correct": "a",
+      "explanation": "No experimento do pequeno Albert, após o pareamento repetido entre o rato branco (inicialmente neutro) e um barulho estridente (estímulo incondicionado de medo), a simples aproximação do rato já eliciava choro e gritos, tornando-se um estímulo condicionado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no experimento do pequeno Albert, conduzido por Watson, o rato branco, inicialmente apresentado sem qualquer reação aversiva da criança, foi posteriormente pareado com um barulho estridente, tornando-se, ao final, um estímulo: No experimento do pequeno Albert, após o pareamento repetido entre o rato branco (inicialmente neutro) e um barulho estridente (estímulo incondicionado de medo), a simples aproximação do rato já eliciava choro e gritos, tornando-se um estímulo condicionado."
+    },
+    {
+      "id": "tcc-obj-307",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, após o condicionamento do medo ao rato branco no experimento do pequeno Albert, a criança também passou a apresentar reações de medo diante de coelhos, um ursinho de pelúcia e uma máscara do Papai Noel, devido à semelhança de textura com o rato. Esse fenômeno é conhecido como:",
+      "options": {
+        "a": "Generalização respondente",
+        "b": "Extinção respondente",
+        "c": "Habituação",
+        "d": "Sensibilização",
+        "e": "Modelagem"
+      },
+      "correct": "a",
+      "explanation": "O experimento demonstrou que, após um processo de condicionamento, o organismo pode eliciar uma resposta de intensidade variável para estímulos semelhantes ao condicionado — esse processo é conhecido como generalização respondente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após o condicionamento do medo ao rato branco no experimento do pequeno Albert, a criança também passou a apresentar reações de medo diante de coelhos, um ursinho de pelúcia e uma máscara do Papai Noel, devido à semelhança de textura com o rato. Esse fenômeno é conhecido como: O experimento demonstrou que, após um processo de condicionamento, o organismo pode eliciar uma resposta de intensidade variável para estímulos semelhantes ao condicionado — esse processo é conhecido como generalização respondente."
+    },
+    {
+      "id": "tcc-obj-308",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, para eliminar ou reduzir consideravelmente a resposta de medo condicionada no pequeno Albert, seria necessário apresentar o estímulo aversivo de forma sucessiva, sem a presença do estímulo incondicionado, processo conhecido como:",
+      "options": {
+        "a": "Extinção respondente",
+        "b": "Generalização respondente",
+        "c": "Habituação",
+        "d": "Sensibilização",
+        "e": "Modelagem por aproximações sucessivas"
+      },
+      "correct": "a",
+      "explanation": "A extinção respondente ocorre quando se apresenta o estímulo condicionado de forma sucessiva, sem a presença do estímulo incondicionado, de modo que a intensidade da resposta se reduza proporcionalmente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, para eliminar ou reduzir consideravelmente a resposta de medo condicionada no pequeno Albert, seria necessário apresentar o estímulo aversivo de forma sucessiva, sem a presença do estímulo incondicionado, processo conhecido como: A extinção respondente ocorre quando se apresenta o estímulo condicionado de forma sucessiva, sem a presença do estímulo incondicionado, de modo que a intensidade da resposta se reduza proporcionalmente."
+    },
+    {
+      "id": "tcc-obj-309",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o experimento do pequeno Albert, embora efetivo para demonstrar os fenômenos de condicionamento, generalização e extinção respondente, é considerado hoje:",
+      "options": {
+        "a": "Antiético e não aprovável em nenhum conselho de ética em pesquisa atual",
+        "b": "Um modelo ideal de conduta ética para pesquisas com crianças",
+        "c": "Irrelevante para a compreensão do desenvolvimento do medo",
+        "d": "Um experimento sem qualquer implicação para a Psicologia clínica",
+        "e": "Uma pesquisa que não produziu resultados replicáveis"
+      },
+      "correct": "a",
+      "explanation": "Esse experimento, que certamente não seria aprovado em nenhum conselho de ética em pesquisa nos dias de hoje, demonstrou os fenômenos de generalização e extinção respondente (BISACCIONI; CARVALHO NETO, 2010).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o experimento do pequeno Albert, embora efetivo para demonstrar os fenômenos de condicionamento, generalização e extinção respondente, é considerado hoje: Esse experimento, que certamente não seria aprovado em nenhum conselho de ética em pesquisa nos dias de hoje, demonstrou os fenômenos de generalização e extinção respondente (BISACCIONI; CARVALHO NETO, 2010)."
+    },
+    {
+      "id": "tcc-obj-310",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o trabalho de Watson, ao contrário da corrente de eugenia vigente no início do século XX, demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética, mas sim:",
+      "options": {
+        "a": "Das interações com o ambiente",
+        "b": "Exclusivamente de fatores espirituais",
+        "c": "Exclusivamente de traços de personalidade inatos e fixos",
+        "d": "Exclusivamente da ordem de nascimento entre os irmãos",
+        "e": "Exclusivamente de fatores puramente aleatórios"
+      },
+      "correct": "a",
+      "explanation": "O trabalho de Watson demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética de cada indivíduo, mas sim das interações com o ambiente (CIRINO, 2013).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "12"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o trabalho de Watson, ao contrário da corrente de eugenia vigente no início do século XX, demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética, mas sim: O trabalho de Watson demonstrava que o desenvolvimento dos comportamentos humanos não dependia apenas da herança genética de cada indivíduo, mas sim das interações com o ambiente (CIRINO, 2013)."
+    },
+    {
+      "id": "tcc-obj-311",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, o exemplo do motorista que, após sofrer um grave acidente de carro, passa a sentir medo apenas de entrar em um veículo (mesmo sem nova ocorrência de acidente), ilustra que o carro se tornou um estímulo:",
+      "options": {
+        "a": "Condicionado, e o medo, a resposta condicionada",
+        "b": "Neutro, sem qualquer efeito emocional associado",
+        "c": "Incondicionado, eliciando medo desde o nascimento",
+        "d": "Discriminativo apenas em contextos de trânsito intenso",
+        "e": "Reforçador negativo do comportamento de dirigir"
+      },
+      "correct": "a",
+      "explanation": "No exemplo do motorista, o carro (inicialmente estímulo neutro) foi emparelhado com o acidente (estímulo incondicionado), tornando-se estímulo condicionado, e o medo passou a ser a resposta condicionada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o exemplo do motorista que, após sofrer um grave acidente de carro, passa a sentir medo apenas de entrar em um veículo (mesmo sem nova ocorrência de acidente), ilustra que o carro se tornou um estímulo: No exemplo do motorista, o carro (inicialmente estímulo neutro) foi emparelhado com o acidente (estímulo incondicionado), tornando-se estímulo condicionado, e o medo passou a ser a resposta condicionada."
+    },
+    {
+      "id": "tcc-obj-312",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a tabela comparativa entre Watson e Skinner mostra que, quanto à relação mente x corpo, Watson era considerado dualista, enquanto Skinner era considerado:",
+      "options": {
+        "a": "Monista",
+        "b": "Também dualista, sem qualquer diferença",
+        "c": "Idealista",
+        "d": "Estruturalista",
+        "e": "Funcionalista cognitivo"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela comparativa do material, quanto à relação mente x corpo, Watson era dualista, enquanto Skinner era monista.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a tabela comparativa entre Watson e Skinner mostra que, quanto à relação mente x corpo, Watson era considerado dualista, enquanto Skinner era considerado: Segundo a tabela comparativa do material, quanto à relação mente x corpo, Watson era dualista, enquanto Skinner era monista."
+    },
+    {
+      "id": "tcc-obj-313",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, na tabela comparativa entre os dois autores, Watson não aceitava a introspecção como método de estudo, enquanto Skinner:",
+      "options": {
+        "a": "A aceitava, mas apenas como método de estudo do comportamento verbal",
+        "b": "Também a rejeitava completamente, sem qualquer exceção",
+        "c": "A considerava o único método válido para toda a Psicologia",
+        "d": "Nunca se posicionou sobre o tema",
+        "e": "A aceitava exclusivamente para o estudo de animais não humanos"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela comparativa, Watson não aceitava a introspecção como método de estudo, enquanto Skinner a aceitava, mas como método de estudo do comportamento verbal.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na tabela comparativa entre os dois autores, Watson não aceitava a introspecção como método de estudo, enquanto Skinner: Segundo a tabela comparativa, Watson não aceitava a introspecção como método de estudo, enquanto Skinner a aceitava, mas como método de estudo do comportamento verbal."
+    },
+    {
+      "id": "tcc-obj-314",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a equação que representa o modelo explicativo do comportamento para Watson é S-R (estímulo-resposta), enquanto para Skinner a equação é:",
+      "options": {
+        "a": "S-R-S",
+        "b": "R-S-R",
+        "c": "S-S-R",
+        "d": "R-R-S",
+        "e": "S-R exclusivamente, igual a Watson"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela comparativa, a equação de Watson é S-R, enquanto a de Skinner é S-R-S, incorporando a consequência (S) gerada pela resposta (R) no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a equação que representa o modelo explicativo do comportamento para Watson é S-R (estímulo-resposta), enquanto para Skinner a equação é: Segundo a tabela comparativa, a equação de Watson é S-R, enquanto a de Skinner é S-R-S, incorporando a consequência (S) gerada pela resposta (R) no ambiente."
+    },
+    {
+      "id": "tcc-obj-315",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, sobre o comportamento, a tabela comparativa mostra que, para Watson, ele é explicado pela relação entre a alteração do ambiente e do organismo, enquanto para Skinner:",
+      "options": {
+        "a": "Aspectos filogenéticos, ontogenéticos e culturais influenciam as contingências ambientais",
+        "b": "O comportamento é explicado exclusivamente por fatores mentais inconscientes",
+        "c": "O comportamento não sofre qualquer influência ambiental",
+        "d": "Apenas fatores genéticos determinam integralmente o comportamento",
+        "e": "O comportamento é aleatório e imprevisível por definição"
+      },
+      "correct": "a",
+      "explanation": "Segundo a tabela comparativa, para Skinner, aspectos filogenéticos, ontogenéticos e culturais influenciam as contingências ambientais que explicam o comportamento, diferentemente da explicação mais simples de Watson (relação estímulo-resposta).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, sobre o comportamento, a tabela comparativa mostra que, para Watson, ele é explicado pela relação entre a alteração do ambiente e do organismo, enquanto para Skinner: Segundo a tabela comparativa, para Skinner, aspectos filogenéticos, ontogenéticos e culturais influenciam as contingências ambientais que explicam o comportamento, diferentemente da explicação mais simples de Watson (relação estímulo-resposta)."
+    },
+    {
+      "id": "tcc-obj-316",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, no exemplo de João, que desenvolveu medo de elevadores após dois eventos traumáticos ocorridos dentro deles, o elevador é classificado, antes dos acidentes, como um estímulo:",
+      "options": {
+        "a": "Neutro",
+        "b": "Incondicionado",
+        "c": "Condicionado",
+        "d": "Discriminativo aversivo",
+        "e": "Reforçador positivo"
+      },
+      "correct": "a",
+      "explanation": "No cenário descrito, o elevador é o estímulo neutro, já que não é esperado gerar automática e naturalmente uma resposta de medo; os acidentes (estímulos incondicionados) dispararam a resposta de medo (incondicionada), e o pareamento repetido com o elevador o tornou um estímulo condicionado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "14"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, no exemplo de João, que desenvolveu medo de elevadores após dois eventos traumáticos ocorridos dentro deles, o elevador é classificado, antes dos acidentes, como um estímulo: No cenário descrito, o elevador é o estímulo neutro, já que não é esperado gerar automática e naturalmente uma resposta de medo; os acidentes (estímulos incondicionados) dispararam a resposta de medo (incondicionada), e o pareamento repetido com o elevador o tornou um estímulo condicionado."
+    },
+    {
+      "id": "tcc-obj-317",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, a proposição behaviorista de Watson buscava, em última análise, responder à pergunta sobre como explicar cientificamente:",
+      "options": {
+        "a": "A natureza das ações humanas, incluindo comportamentos complexos que revelam vontades, planejamentos e atitudes",
+        "b": "Exclusivamente fenômenos físicos e astronômicos",
+        "c": "Exclusivamente processos digestivos animais",
+        "d": "Exclusivamente a estrutura anatômica do cérebro",
+        "e": "Exclusivamente fenômenos sociais coletivos, sem relação com o indivíduo"
+      },
+      "correct": "a",
+      "explanation": "Desde os tempos mais remotos, os filósofos clássicos buscam a compreensão das ações humanas para entender por que as pessoas desempenham comportamentos simples e complexos, que revelam vontades que impulsionam planejamentos e atitudes — questão que o behaviorismo de Watson buscou responder cientificamente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a proposição behaviorista de Watson buscava, em última análise, responder à pergunta sobre como explicar cientificamente: Desde os tempos mais remotos, os filósofos clássicos buscam a compreensão das ações humanas para entender por que as pessoas desempenham comportamentos simples e complexos, que revelam vontades que impulsionam planejamentos e atitudes — questão que o behaviorismo de Watson buscou responder cientificamente."
+    },
+    {
+      "id": "tcc-obj-318",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, antes do desenvolvimento do método científico, a explicação dominante para a natureza humana e suas ações baseava-se na ideia de que:",
+      "options": {
+        "a": "Uma força motriz de base metafísica seria suficiente para explicar tais características",
+        "b": "O comportamento observável era o único objeto válido de investigação",
+        "c": "Apenas experimentos controlados poderiam explicar o comportamento",
+        "d": "A herança genética explicava integralmente todas as ações humanas",
+        "e": "O ambiente não exercia qualquer influência sobre o comportamento"
+      },
+      "correct": "a",
+      "explanation": "Por muitos séculos, a ideia de que uma força motriz de base metafísica seria suficiente para explicar as características e ações humanas foi dominante, até perder proeminência com o desenvolvimento do método científico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "3"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, antes do desenvolvimento do método científico, a explicação dominante para a natureza humana e suas ações baseava-se na ideia de que: Por muitos séculos, a ideia de que uma força motriz de base metafísica seria suficiente para explicar as características e ações humanas foi dominante, até perder proeminência com o desenvolvimento do método científico."
+    },
+    {
+      "id": "tcc-obj-319",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, os processos cognitivos básicos são operações mentais responsáveis por:",
+      "options": {
+        "a": "Captar, organizar e interpretar as informações do ambiente, possibilitando o funcionamento adaptativo do indivíduo",
+        "b": "Regular exclusivamente as funções motoras voluntárias do corpo",
+        "c": "Controlar exclusivamente os batimentos cardíacos e a respiração",
+        "d": "Produzir exclusivamente reflexos incondicionados",
+        "e": "Armazenar exclusivamente informações genéticas herdadas"
+      },
+      "correct": "a",
+      "explanation": "Os processos cognitivos básicos são operações mentais responsáveis por captar, organizar e interpretar as informações do ambiente, possibilitando o funcionamento adaptativo do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os processos cognitivos básicos são operações mentais responsáveis por: Os processos cognitivos básicos são operações mentais responsáveis por captar, organizar e interpretar as informações do ambiente, possibilitando o funcionamento adaptativo do indivíduo."
+    },
+    {
+      "id": "tcc-obj-320",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a percepção é definida como o processo pelo qual:",
+      "options": {
+        "a": "O cérebro organiza e interpreta as informações captadas pelos sentidos, atribuindo-lhes significado",
+        "b": "O corpo produz exclusivamente respostas reflexas automáticas",
+        "c": "As informações são armazenadas indefinidamente sem qualquer interpretação",
+        "d": "O indivíduo memoriza estímulos sem qualquer processamento sensorial",
+        "e": "Ocorre exclusivamente a produção de linguagem verbal"
+      },
+      "correct": "a",
+      "explanation": "A percepção é o processo pelo qual o cérebro organiza e interpreta as informações captadas pelos sentidos, atribuindo-lhes significado.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a percepção é definida como o processo pelo qual: A percepção é o processo pelo qual o cérebro organiza e interpreta as informações captadas pelos sentidos, atribuindo-lhes significado."
+    },
+    {
+      "id": "tcc-obj-321",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a percepção visual, especificamente, envolve a captação de estímulos luminosos pelos olhos e o processamento dessas informações no cérebro para:",
+      "options": {
+        "a": "Formar a representação do ambiente visual",
+        "b": "Produzir exclusivamente reflexos pupilares",
+        "c": "Gerar exclusivamente movimentos oculares involuntários",
+        "d": "Armazenar exclusivamente memórias auditivas",
+        "e": "Regular exclusivamente o ciclo do sono"
+      },
+      "correct": "a",
+      "explanation": "A percepção visual envolve a captação de estímulos luminosos pelos olhos e o processamento dessas informações no cérebro, a fim de formar a representação do ambiente visual.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a percepção visual, especificamente, envolve a captação de estímulos luminosos pelos olhos e o processamento dessas informações no cérebro para: A percepção visual envolve a captação de estímulos luminosos pelos olhos e o processamento dessas informações no cérebro, a fim de formar a representação do ambiente visual."
+    },
+    {
+      "id": "tcc-obj-322",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, o circuito da percepção visual se inicia quando a luz refletida pelos objetos atinge a retina, sendo convertida em impulsos elétricos pelos fotorreceptores (cones e bastonetes) e, em seguida, transmitida ao cérebro por meio do:",
+      "options": {
+        "a": "Nervo óptico",
+        "b": "Nervo vago",
+        "c": "Nervo trigêmeo",
+        "d": "Nervo facial",
+        "e": "Nervo olfatório"
+      },
+      "correct": "a",
+      "explanation": "Após a conversão da luz em impulsos elétricos pelos fotorreceptores da retina (cones e bastonetes), essas informações são transmitidas ao cérebro por meio do nervo óptico.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o circuito da percepção visual se inicia quando a luz refletida pelos objetos atinge a retina, sendo convertida em impulsos elétricos pelos fotorreceptores (cones e bastonetes) e, em seguida, transmitida ao cérebro por meio do: Após a conversão da luz em impulsos elétricos pelos fotorreceptores da retina (cones e bastonetes), essas informações são transmitidas ao cérebro por meio do nervo óptico."
+    },
+    {
+      "id": "tcc-obj-323",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, após percorrer o nervo óptico, as informações visuais são processadas em uma região específica do encéfalo antes de chegarem ao córtex visual, localizada no:",
+      "options": {
+        "a": "Tálamo",
+        "b": "Cerebelo",
+        "c": "Bulbo",
+        "d": "Hipocampo",
+        "e": "Núcleo caudado"
+      },
+      "correct": "a",
+      "explanation": "As informações visuais, após percorrerem o nervo óptico, são processadas no tálamo antes de chegarem ao córtex visual, localizado no lobo occipital.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após percorrer o nervo óptico, as informações visuais são processadas em uma região específica do encéfalo antes de chegarem ao córtex visual, localizada no: As informações visuais, após percorrerem o nervo óptico, são processadas no tálamo antes de chegarem ao córtex visual, localizado no lobo occipital."
+    },
+    {
+      "id": "tcc-obj-324",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, o córtex visual, responsável pelo processamento final das informações visuais, está localizado no lobo:",
+      "options": {
+        "a": "Occipital",
+        "b": "Frontal",
+        "c": "Parietal",
+        "d": "Temporal",
+        "e": "Insular"
+      },
+      "correct": "a",
+      "explanation": "O córtex visual, onde ocorre o processamento final das informações visuais, está localizado no lobo occipital do cérebro.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o córtex visual, responsável pelo processamento final das informações visuais, está localizado no lobo: O córtex visual, onde ocorre o processamento final das informações visuais, está localizado no lobo occipital do cérebro."
+    },
+    {
+      "id": "tcc-obj-325",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, os processos atencionais são fundamentais para a percepção porque permitem que o indivíduo:",
+      "options": {
+        "a": "Selecione, dentre os inúmeros estímulos do ambiente, aqueles que são relevantes em determinado momento",
+        "b": "Ignore completamente todos os estímulos do ambiente ao mesmo tempo",
+        "c": "Processe todos os estímulos do ambiente de forma simultânea e com igual intensidade",
+        "d": "Elimine permanentemente a necessidade de processamento sensorial",
+        "e": "Armazene estímulos exclusivamente na memória de longo prazo"
+      },
+      "correct": "a",
+      "explanation": "Os processos atencionais permitem que o indivíduo selecione, dentre os inúmeros estímulos do ambiente, aqueles que são relevantes em determinado momento, otimizando o processamento cognitivo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os processos atencionais são fundamentais para a percepção porque permitem que o indivíduo: Os processos atencionais permitem que o indivíduo selecione, dentre os inúmeros estímulos do ambiente, aqueles que são relevantes em determinado momento, otimizando o processamento cognitivo."
+    },
+    {
+      "id": "tcc-obj-326",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, o grau de alerta, um dos fatores relacionados aos processos atencionais, refere-se a:",
+      "options": {
+        "a": "Um estado geral de prontidão do organismo para responder a estímulos",
+        "b": "A capacidade exclusiva de memorizar listas de palavras",
+        "c": "A habilidade exclusiva de realizar cálculos matemáticos complexos",
+        "d": "A produção exclusiva de respostas motoras reflexas",
+        "e": "A capacidade de reconhecer rostos familiares"
+      },
+      "correct": "a",
+      "explanation": "O grau de alerta refere-se a um estado geral de prontidão do organismo para responder a estímulos, sendo um dos fatores relacionados aos processos atencionais.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o grau de alerta, um dos fatores relacionados aos processos atencionais, refere-se a: O grau de alerta refere-se a um estado geral de prontidão do organismo para responder a estímulos, sendo um dos fatores relacionados aos processos atencionais."
+    },
+    {
+      "id": "tcc-obj-327",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a concentração, como fator atencional, está relacionada à capacidade de:",
+      "options": {
+        "a": "Manter o foco em um estímulo ou tarefa específica, resistindo a distrações",
+        "b": "Dividir igualmente a atenção entre um número ilimitado de estímulos",
+        "c": "Ignorar completamente qualquer estímulo relevante do ambiente",
+        "d": "Memorizar informações sem qualquer esforço atencional",
+        "e": "Processar informações exclusivamente durante o sono"
+      },
+      "correct": "a",
+      "explanation": "A concentração está relacionada à capacidade de manter o foco em um estímulo ou tarefa específica, resistindo a distrações.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a concentração, como fator atencional, está relacionada à capacidade de: A concentração está relacionada à capacidade de manter o foco em um estímulo ou tarefa específica, resistindo a distrações."
+    },
+    {
+      "id": "tcc-obj-328",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a orientação, enquanto fator atencional, refere-se à capacidade do indivíduo de:",
+      "options": {
+        "a": "Direcionar os recursos atencionais para um estímulo específico no ambiente",
+        "b": "Memorizar sequências numéricas extensas sem qualquer erro",
+        "c": "Produzir respostas motoras automáticas e involuntárias",
+        "d": "Ignorar de forma permanente todos os estímulos ambientais",
+        "e": "Processar informações exclusivamente de forma inconsciente"
+      },
+      "correct": "a",
+      "explanation": "A orientação refere-se à capacidade do indivíduo de direcionar os recursos atencionais para um estímulo específico no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a orientação, enquanto fator atencional, refere-se à capacidade do indivíduo de: A orientação refere-se à capacidade do indivíduo de direcionar os recursos atencionais para um estímulo específico no ambiente."
+    },
+    {
+      "id": "tcc-obj-329",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a seleção, como fator relacionado à atenção, consiste em:",
+      "options": {
+        "a": "Escolher, dentre os estímulos disponíveis, aqueles que serão processados prioritariamente",
+        "b": "Processar de forma idêntica e simultânea todos os estímulos do ambiente",
+        "c": "Eliminar permanentemente a capacidade de perceber novos estímulos",
+        "d": "Armazenar de forma automática todas as informações sensoriais recebidas",
+        "e": "Produzir exclusivamente respostas emocionais a estímulos aversivos"
+      },
+      "correct": "a",
+      "explanation": "A seleção consiste em escolher, dentre os estímulos disponíveis, aqueles que serão processados prioritariamente pelo sistema cognitivo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a seleção, como fator relacionado à atenção, consiste em: A seleção consiste em escolher, dentre os estímulos disponíveis, aqueles que serão processados prioritariamente pelo sistema cognitivo."
+    },
+    {
+      "id": "tcc-obj-330",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a exploração, enquanto fator atencional, está relacionada à capacidade de:",
+      "options": {
+        "a": "Buscar ativamente novas informações no ambiente, ampliando o campo perceptivo",
+        "b": "Manter-se restrito a um único estímulo de forma permanente e inflexível",
+        "c": "Ignorar de forma absoluta qualquer novidade no ambiente",
+        "d": "Memorizar informações exclusivamente de forma passiva",
+        "e": "Processar exclusivamente estímulos auditivos, ignorando os visuais"
+      },
+      "correct": "a",
+      "explanation": "A exploração está relacionada à capacidade de buscar ativamente novas informações no ambiente, ampliando o campo perceptivo do indivíduo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a exploração, enquanto fator atencional, está relacionada à capacidade de: A exploração está relacionada à capacidade de buscar ativamente novas informações no ambiente, ampliando o campo perceptivo do indivíduo."
+    },
+    {
+      "id": "tcc-obj-331",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, quantos tipos de atenção são apresentados como fundamentais para o funcionamento cognitivo?",
+      "options": {
+        "a": "Quatro",
+        "b": "Dois",
+        "c": "Três",
+        "d": "Cinco",
+        "e": "Seis"
+      },
+      "correct": "a",
+      "explanation": "O material apresenta quatro tipos de atenção: seletiva, alternada, sustentada e concentrada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, quantos tipos de atenção são apresentados como fundamentais para o funcionamento cognitivo? O material apresenta quatro tipos de atenção: seletiva, alternada, sustentada e concentrada."
+    },
+    {
+      "id": "tcc-obj-332",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a atenção seletiva é definida como a capacidade de:",
+      "options": {
+        "a": "Focar em um estímulo específico, ignorando outros estímulos concorrentes presentes no ambiente",
+        "b": "Alternar rapidamente entre duas ou mais tarefas diferentes",
+        "c": "Manter o foco em uma única tarefa por um longo período de tempo",
+        "d": "Concentrar-se profundamente a ponto de perder a noção do tempo",
+        "e": "Processar simultaneamente um número ilimitado de estímulos"
+      },
+      "correct": "a",
+      "explanation": "A atenção seletiva é a capacidade de focar em um estímulo específico, ignorando outros estímulos concorrentes presentes no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a atenção seletiva é definida como a capacidade de: A atenção seletiva é a capacidade de focar em um estímulo específico, ignorando outros estímulos concorrentes presentes no ambiente."
+    },
+    {
+      "id": "tcc-obj-333",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, um exemplo de atenção seletiva seria:",
+      "options": {
+        "a": "Conseguir acompanhar uma conversa em um ambiente barulhento, ignorando os ruídos ao redor",
+        "b": "Um DJ que precisa ouvir a próxima música enquanto atende ao público",
+        "c": "Um motorista que dirige por horas seguidas em uma rodovia monótona",
+        "d": "Um estudante que entra em estado de fluxo ao ler um livro",
+        "e": "Um atendente que atende clientes sem qualquer distração no ambiente"
+      },
+      "correct": "a",
+      "explanation": "Conseguir acompanhar uma conversa em um ambiente barulhento, ignorando os ruídos ao redor, é um exemplo de atenção seletiva, pois há o direcionamento do foco a um estímulo específico em meio a outros concorrentes.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um exemplo de atenção seletiva seria: Conseguir acompanhar uma conversa em um ambiente barulhento, ignorando os ruídos ao redor, é um exemplo de atenção seletiva, pois há o direcionamento do foco a um estímulo específico em meio a outros concorrentes."
+    },
+    {
+      "id": "tcc-obj-334",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a atenção alternada é definida como a capacidade de:",
+      "options": {
+        "a": "Alternar o foco atencional entre duas ou mais tarefas ou estímulos diferentes",
+        "b": "Manter-se concentrado em uma única tarefa por horas seguidas",
+        "c": "Ignorar completamente qualquer estímulo secundário do ambiente",
+        "d": "Processar exclusivamente estímulos visuais, ignorando os demais sentidos",
+        "e": "Reduzir ao mínimo o número de estímulos processados simultaneamente"
+      },
+      "correct": "a",
+      "explanation": "A atenção alternada é a capacidade de alternar o foco atencional entre duas ou mais tarefas ou estímulos diferentes.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a atenção alternada é definida como a capacidade de: A atenção alternada é a capacidade de alternar o foco atencional entre duas ou mais tarefas ou estímulos diferentes."
+    },
+    {
+      "id": "tcc-obj-335",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, o exemplo do DJ, que precisa ouvir a próxima música em seus fones de ouvido enquanto ainda toca a atual para o público, ilustra o funcionamento da atenção:",
+      "options": {
+        "a": "Alternada",
+        "b": "Seletiva",
+        "c": "Sustentada",
+        "d": "Concentrada",
+        "e": "Exploratória"
+      },
+      "correct": "a",
+      "explanation": "O exemplo do DJ, que alterna o foco entre a música tocando para o público e a próxima música em seus fones, ilustra a atenção alternada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o exemplo do DJ, que precisa ouvir a próxima música em seus fones de ouvido enquanto ainda toca a atual para o público, ilustra o funcionamento da atenção: O exemplo do DJ, que alterna o foco entre a música tocando para o público e a próxima música em seus fones, ilustra a atenção alternada."
+    },
+    {
+      "id": "tcc-obj-336",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a atenção sustentada é definida como a capacidade de:",
+      "options": {
+        "a": "Manter o foco em uma tarefa ou estímulo por um período prolongado de tempo",
+        "b": "Alternar rapidamente o foco entre diferentes tarefas simultâneas",
+        "c": "Selecionar um único estímulo, ignorando completamente todos os demais",
+        "d": "Concentrar-se tão profundamente a ponto de perder a noção do ambiente ao redor",
+        "e": "Processar exclusivamente informações de curto prazo, sem qualquer retenção"
+      },
+      "correct": "a",
+      "explanation": "A atenção sustentada é a capacidade de manter o foco em uma tarefa ou estímulo por um período prolongado de tempo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a atenção sustentada é definida como a capacidade de: A atenção sustentada é a capacidade de manter o foco em uma tarefa ou estímulo por um período prolongado de tempo."
+    },
+    {
+      "id": "tcc-obj-337",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, um motorista que dirige por horas seguidas em uma rodovia monótona, mantendo o foco na pista mesmo diante do cansaço, exemplifica a atenção:",
+      "options": {
+        "a": "Sustentada",
+        "b": "Alternada",
+        "c": "Seletiva",
+        "d": "Concentrada",
+        "e": "Dividida"
+      },
+      "correct": "a",
+      "explanation": "O motorista que mantém o foco na pista por um longo período, mesmo diante do cansaço e da monotonia, exemplifica a atenção sustentada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um motorista que dirige por horas seguidas em uma rodovia monótona, mantendo o foco na pista mesmo diante do cansaço, exemplifica a atenção: O motorista que mantém o foco na pista por um longo período, mesmo diante do cansaço e da monotonia, exemplifica a atenção sustentada."
+    },
+    {
+      "id": "tcc-obj-338",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a atenção concentrada, também associada ao chamado 'estado de fluxo', caracteriza-se por:",
+      "options": {
+        "a": "Um nível tão profundo de concentração em uma atividade que o indivíduo perde a noção do tempo e do ambiente ao redor",
+        "b": "Uma incapacidade total de manter o foco em qualquer tarefa",
+        "c": "A alternância constante entre diferentes estímulos, sem qualquer aprofundamento",
+        "d": "A distração constante causada por estímulos irrelevantes do ambiente",
+        "e": "A ausência completa de qualquer envolvimento emocional com a tarefa"
+      },
+      "correct": "a",
+      "explanation": "A atenção concentrada caracteriza-se por um nível tão profundo de concentração em uma atividade que o indivíduo perde a noção do tempo e do ambiente ao redor, estado também chamado de 'fluxo' (flow).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a atenção concentrada, também associada ao chamado 'estado de fluxo', caracteriza-se por: A atenção concentrada caracteriza-se por um nível tão profundo de concentração em uma atividade que o indivíduo perde a noção do tempo e do ambiente ao redor, estado também chamado de 'fluxo' (flow)."
+    },
+    {
+      "id": "tcc-obj-339",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, um exemplo de atenção concentrada (estado de fluxo) seria:",
+      "options": {
+        "a": "Um estudante tão absorto na leitura de um livro que não percebe o tempo passar",
+        "b": "Uma pessoa que acompanha duas conversas diferentes ao mesmo tempo",
+        "c": "Um motorista que dirige de forma automática em uma rodovia conhecida",
+        "d": "Uma pessoa que ouve seu nome ser chamado em um ambiente barulhento",
+        "e": "Um atendente que revezar entre atender ao telefone e ao balcão"
+      },
+      "correct": "a",
+      "explanation": "Um estudante tão absorto na leitura de um livro que não percebe o tempo passar exemplifica a atenção concentrada, associada ao estado de fluxo.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um exemplo de atenção concentrada (estado de fluxo) seria: Um estudante tão absorto na leitura de um livro que não percebe o tempo passar exemplifica a atenção concentrada, associada ao estado de fluxo."
+    },
+    {
+      "id": "tcc-obj-340",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a incapacidade de filtrar estímulos irrelevantes do ambiente, prejudicando a manutenção do foco em uma tarefa, está frequentemente associada, na prática clínica, a quadros como:",
+      "options": {
+        "a": "Transtorno de Déficit de Atenção e Hiperatividade (TDAH)",
+        "b": "Transtorno Obsessivo-Compulsivo (TOC) exclusivamente",
+        "c": "Transtorno de Personalidade Antissocial exclusivamente",
+        "d": "Transtorno Depressivo Maior exclusivamente",
+        "e": "Transtorno de Estresse Pós-Traumático exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Dificuldades relacionadas à seleção e à manutenção do foco atencional estão frequentemente associadas, na prática clínica, a quadros como o Transtorno de Déficit de Atenção e Hiperatividade (TDAH).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a incapacidade de filtrar estímulos irrelevantes do ambiente, prejudicando a manutenção do foco em uma tarefa, está frequentemente associada, na prática clínica, a quadros como: Dificuldades relacionadas à seleção e à manutenção do foco atencional estão frequentemente associadas, na prática clínica, a quadros como o Transtorno de Déficit de Atenção e Hiperatividade (TDAH)."
+    },
+    {
+      "id": "tcc-obj-341",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a percepção e a atenção estão intimamente relacionadas porque:",
+      "options": {
+        "a": "A atenção atua como um filtro que determina quais estímulos percebidos serão efetivamente processados de forma mais aprofundada",
+        "b": "São processos idênticos, sem qualquer distinção conceitual entre eles",
+        "c": "A percepção depende exclusivamente de fatores genéticos, sem relação com a atenção",
+        "d": "A atenção ocorre sempre após a memória, nunca antes da percepção",
+        "e": "Não há qualquer relação funcional entre os dois processos"
+      },
+      "correct": "a",
+      "explanation": "A percepção e a atenção estão intimamente relacionadas porque a atenção atua como um filtro que determina quais estímulos percebidos serão efetivamente processados de forma mais aprofundada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9-10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a percepção e a atenção estão intimamente relacionadas porque: A percepção e a atenção estão intimamente relacionadas porque a atenção atua como um filtro que determina quais estímulos percebidos serão efetivamente processados de forma mais aprofundada."
+    },
+    {
+      "id": "tcc-obj-342",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, os cones e os bastonetes, fotorreceptores localizados na retina, têm a função de:",
+      "options": {
+        "a": "Converter a luz refletida pelos objetos em impulsos elétricos",
+        "b": "Produzir exclusivamente as lágrimas responsáveis pela lubrificação ocular",
+        "c": "Regular exclusivamente o tamanho da pupila em resposta à luminosidade",
+        "d": "Armazenar de forma permanente as imagens captadas pela visão",
+        "e": "Transmitir exclusivamente estímulos táteis ao sistema nervoso central"
+      },
+      "correct": "a",
+      "explanation": "Os cones e os bastonetes são fotorreceptores localizados na retina responsáveis por converter a luz refletida pelos objetos em impulsos elétricos, dando início ao circuito da percepção visual.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os cones e os bastonetes, fotorreceptores localizados na retina, têm a função de: Os cones e os bastonetes são fotorreceptores localizados na retina responsáveis por converter a luz refletida pelos objetos em impulsos elétricos, dando início ao circuito da percepção visual."
+    },
+    {
+      "id": "tcc-obj-343",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, ao atravessar uma rua movimentada, um pedestre precisa direcionar sua atenção para os carros que se aproximam, ignorando outros estímulos irrelevantes do ambiente, como conversas ao redor. Esse comportamento exemplifica principalmente a atenção:",
+      "options": {
+        "a": "Seletiva",
+        "b": "Alternada",
+        "c": "Sustentada",
+        "d": "Concentrada",
+        "e": "Dividida em partes iguais"
+      },
+      "correct": "a",
+      "explanation": "Ao direcionar o foco para o estímulo relevante (os carros) e ignorar estímulos concorrentes (as conversas ao redor), o pedestre exemplifica a atenção seletiva.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao atravessar uma rua movimentada, um pedestre precisa direcionar sua atenção para os carros que se aproximam, ignorando outros estímulos irrelevantes do ambiente, como conversas ao redor. Esse comportamento exemplifica principalmente a atenção: Ao direcionar o foco para o estímulo relevante (os carros) e ignorar estímulos concorrentes (as conversas ao redor), o pedestre exemplifica a atenção seletiva."
+    },
+    {
+      "id": "tcc-obj-344",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, um profissional que realiza diversas tarefas simultâneas ao longo do dia, alternando entre responder e-mails, atender ligações telefônicas e participar de reuniões, está utilizando principalmente a atenção:",
+      "options": {
+        "a": "Alternada",
+        "b": "Seletiva",
+        "c": "Concentrada",
+        "d": "Sustentada",
+        "e": "Exploratória"
+      },
+      "correct": "a",
+      "explanation": "O profissional que alterna seu foco entre diferentes tarefas ao longo do dia está utilizando principalmente a atenção alternada.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um profissional que realiza diversas tarefas simultâneas ao longo do dia, alternando entre responder e-mails, atender ligações telefônicas e participar de reuniões, está utilizando principalmente a atenção: O profissional que alterna seu foco entre diferentes tarefas ao longo do dia está utilizando principalmente a atenção alternada."
+    },
+    {
+      "id": "tcc-obj-345",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, os processos cognitivos básicos, incluindo percepção e atenção, são fundamentais para o funcionamento adaptativo do indivíduo porque permitem que ele:",
+      "options": {
+        "a": "Capte, selecione e processe as informações relevantes do ambiente para orientar seu comportamento",
+        "b": "Ignore completamente qualquer estímulo proveniente do ambiente externo",
+        "c": "Elimine por completo a necessidade de qualquer processamento sensorial",
+        "d": "Dependa exclusivamente de respostas reflexas automáticas para sobreviver",
+        "e": "Armazene informações sem qualquer possibilidade de esquecimento"
+      },
+      "correct": "a",
+      "explanation": "Os processos cognitivos básicos, incluindo percepção e atenção, permitem que o indivíduo capte, selecione e processe as informações relevantes do ambiente para orientar seu comportamento de forma adaptativa.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os processos cognitivos básicos, incluindo percepção e atenção, são fundamentais para o funcionamento adaptativo do indivíduo porque permitem que ele: Os processos cognitivos básicos, incluindo percepção e atenção, permitem que o indivíduo capte, selecione e processe as informações relevantes do ambiente para orientar seu comportamento de forma adaptativa."
+    },
+    {
+      "id": "tcc-obj-346",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, quando uma pessoa está lendo um livro em um café e, apesar do barulho ao redor, não percebe conscientemente conversas alheias até que alguém mencione seu nome, esse fenômeno demonstra que a atenção:",
+      "options": {
+        "a": "Atua de forma seletiva, filtrando estímulos irrelevantes, mas permanece sensível a estímulos de relevância pessoal",
+        "b": "Elimina de forma absoluta e permanente a percepção de qualquer som do ambiente",
+        "c": "Não tem qualquer relação com a percepção de estímulos auditivos",
+        "d": "Funciona de forma idêntica para todos os tipos de estímulos, sem qualquer priorização",
+        "e": "Depende exclusivamente da intensidade física do som, ignorando seu conteúdo"
+      },
+      "correct": "a",
+      "explanation": "Esse fenômeno (conhecido como 'efeito coquetel') demonstra que a atenção seletiva filtra estímulos irrelevantes, mas permanece sensível a estímulos de relevância pessoal, como o próprio nome.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, quando uma pessoa está lendo um livro em um café e, apesar do barulho ao redor, não percebe conscientemente conversas alheias até que alguém mencione seu nome, esse fenômeno demonstra que a atenção: Esse fenômeno (conhecido como 'efeito coquetel') demonstra que a atenção seletiva filtra estímulos irrelevantes, mas permanece sensível a estímulos de relevância pessoal, como o próprio nome."
+    },
+    {
+      "id": "tcc-obj-347",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a diferença fundamental entre a atenção sustentada e a atenção concentrada está no fato de que:",
+      "options": {
+        "a": "A sustentada envolve manter o foco por um período prolongado, enquanto a concentrada envolve um nível de profundidade tal que há perda da noção do tempo e do ambiente",
+        "b": "A sustentada é sempre de curta duração, enquanto a concentrada é sempre de longa duração",
+        "c": "Não existe qualquer diferença entre esses dois tipos de atenção",
+        "d": "A concentrada envolve sempre múltiplas tarefas, enquanto a sustentada envolve apenas uma",
+        "e": "A sustentada ocorre exclusivamente durante atividades físicas, e a concentrada, durante atividades intelectuais"
+      },
+      "correct": "a",
+      "explanation": "A atenção sustentada envolve manter o foco por um período prolongado, enquanto a atenção concentrada envolve um nível de profundidade tal que o indivíduo perde a noção do tempo e do ambiente ao redor (estado de fluxo).",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a diferença fundamental entre a atenção sustentada e a atenção concentrada está no fato de que: A atenção sustentada envolve manter o foco por um período prolongado, enquanto a atenção concentrada envolve um nível de profundidade tal que o indivíduo perde a noção do tempo e do ambiente ao redor (estado de fluxo)."
+    },
+    {
+      "id": "tcc-obj-348",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, os estímulos captados pelos sentidos, antes de serem interpretados pelo cérebro, são chamados de sensações, sendo a percepção o processo que:",
+      "options": {
+        "a": "Organiza e atribui significado a essas sensações captadas",
+        "b": "Substitui completamente a necessidade de captação sensorial",
+        "c": "Ocorre de forma totalmente independente dos órgãos dos sentidos",
+        "d": "É idêntico ao processo de memorização de longo prazo",
+        "e": "Ocorre exclusivamente durante o sono profundo"
+      },
+      "correct": "a",
+      "explanation": "As sensações são os estímulos captados pelos sentidos, e a percepção é o processo que organiza e atribui significado a essas sensações.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os estímulos captados pelos sentidos, antes de serem interpretados pelo cérebro, são chamados de sensações, sendo a percepção o processo que: As sensações são os estímulos captados pelos sentidos, e a percepção é o processo que organiza e atribui significado a essas sensações."
+    },
+    {
+      "id": "tcc-obj-349",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, a exploração visual de um ambiente desconhecido, como ao entrar em um novo cômodo pela primeira vez, envolve principalmente o fator atencional de:",
+      "options": {
+        "a": "Exploração",
+        "b": "Concentração exclusivamente",
+        "c": "Seleção exclusivamente",
+        "d": "Orientação exclusivamente",
+        "e": "Grau de alerta exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A exploração visual de um ambiente desconhecido envolve principalmente o fator atencional de exploração, relacionado à busca ativa de novas informações no ambiente.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a exploração visual de um ambiente desconhecido, como ao entrar em um novo cômodo pela primeira vez, envolve principalmente o fator atencional de: A exploração visual de um ambiente desconhecido envolve principalmente o fator atencional de exploração, relacionado à busca ativa de novas informações no ambiente."
+    },
+    {
+      "id": "tcc-obj-350",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, um estudante que está lendo, mas se distrai facilmente com qualquer ruído externo, apresentando dificuldade em retornar o foco à leitura, provavelmente apresenta prejuízo no fator atencional de:",
+      "options": {
+        "a": "Concentração",
+        "b": "Exploração exclusivamente",
+        "c": "Grau de alerta exclusivamente",
+        "d": "Orientação exclusivamente",
+        "e": "Seleção exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A dificuldade em manter o foco resistindo a distrações está relacionada ao fator atencional de concentração.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um estudante que está lendo, mas se distrai facilmente com qualquer ruído externo, apresentando dificuldade em retornar o foco à leitura, provavelmente apresenta prejuízo no fator atencional de: A dificuldade em manter o foco resistindo a distrações está relacionada ao fator atencional de concentração."
+    },
+    {
+      "id": "tcc-obj-351",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Segundo o material, uma pessoa sonolenta, com baixa prontidão para reagir a estímulos do ambiente, apresenta um comprometimento no fator atencional denominado:",
+      "options": {
+        "a": "Grau de alerta",
+        "b": "Exploração exclusivamente",
+        "c": "Seleção exclusivamente",
+        "d": "Orientação exclusivamente",
+        "e": "Concentração exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A baixa prontidão do organismo para responder a estímulos está relacionada ao fator atencional do grau de alerta.",
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, uma pessoa sonolenta, com baixa prontidão para reagir a estímulos do ambiente, apresenta um comprometimento no fator atencional denominado: A baixa prontidão do organismo para responder a estímulos está relacionada ao fator atencional do grau de alerta."
     }
   ],
   "discursive": [
@@ -10306,6 +11736,735 @@
       },
       "subject": "Terapia Cognitivo-Comportamental (TCC)",
       "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-093",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique por que Watson criticava o método da introspecção utilizado pela escola estruturalista, e o que ele propôs em seu lugar.",
+      "modelAnswer": "Watson considerava que um estudo objetivo da mente, por meio da introspecção, seria impossível de ser realizado cientificamente, já que dependia de relatos subjetivos não verificáveis. Em seu lugar, propôs que a Psicologia se concentrasse no comportamento observável do organismo, algo que poderia ser medido e controlado de forma objetiva, dando origem ao behaviorismo metodológico.",
+      "keyPoints": [
+        {
+          "text": "Introspecção não permite estudo objetivo/científico da mente",
+          "weight": 0.5,
+          "keywords": [
+            "objetivo",
+            "introspecção",
+            "impossível"
+          ]
+        },
+        {
+          "text": "Propôs focar no comportamento observável e controlável",
+          "weight": 0.5,
+          "keywords": [
+            "comportamento observável",
+            "controlar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-094",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Descreva as leis do limiar, da latência, a habituação e a sensibilização, relacionando-as à intensidade do estímulo e da resposta reflexa.",
+      "modelAnswer": "A lei do limiar estabelece que existe sempre uma intensidade mínima de estímulo necessária para eliciar a resposta. A lei da latência descreve que quanto maior a intensidade do estímulo, menor o tempo entre sua apresentação e a resposta. A habituação ocorre quando a repetição do estímulo reduz a intensidade da resposta (como não perceber mais um cheiro); a sensibilização ocorre quando a repetição aumenta a intensidade da resposta (como um barulho que se torna insuportável).",
+      "keyPoints": [
+        {
+          "text": "Limiar: intensidade mínima necessária para eliciar resposta",
+          "weight": 0.25,
+          "keywords": [
+            "limiar",
+            "intensidade mínima"
+          ]
+        },
+        {
+          "text": "Latência: maior intensidade, menor tempo de resposta",
+          "weight": 0.25,
+          "keywords": [
+            "latência",
+            "tempo"
+          ]
+        },
+        {
+          "text": "Habituação: repetição reduz a resposta",
+          "weight": 0.25,
+          "keywords": [
+            "habituação",
+            "reduz"
+          ]
+        },
+        {
+          "text": "Sensibilização: repetição aumenta a resposta",
+          "weight": 0.25,
+          "keywords": [
+            "sensibilização",
+            "aumenta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-095",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique, com base no experimento de Pavlov, a diferença entre estímulo neutro, estímulo incondicionado e estímulo condicionado.",
+      "modelAnswer": "O estímulo neutro é aquele que não elicia naturalmente a resposta desejada (o som do sino, antes do condicionamento). O estímulo incondicionado elicia uma resposta automática e inata no organismo (a comida, que gera salivação). Após o pareamento repetido entre o estímulo neutro e o incondicionado, o antigo estímulo neutro passa a eliciar a resposta sozinho, tornando-se estímulo condicionado (o sino, que passa a causar salivação mesmo sem a comida).",
+      "keyPoints": [
+        {
+          "text": "Neutro não elicia a resposta antes do condicionamento",
+          "weight": 0.34,
+          "keywords": [
+            "neutro",
+            "não elicia"
+          ]
+        },
+        {
+          "text": "Incondicionado elicia resposta automática e inata",
+          "weight": 0.33,
+          "keywords": [
+            "incondicionado",
+            "automática"
+          ]
+        },
+        {
+          "text": "Condicionado: antigo neutro passa a eliciar a resposta após pareamento",
+          "weight": 0.33,
+          "keywords": [
+            "condicionado",
+            "pareamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-096",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Descreva o experimento do pequeno Albert conduzido por Watson e explique os fenômenos de generalização e extinção respondente demonstrados por ele.",
+      "modelAnswer": "Watson condicionou o pequeno Albert a sentir medo de um rato branco (originalmente neutro), pareando-o repetidamente com um barulho estridente (estímulo incondicionado de medo). Após o condicionamento, Albert passou a sentir medo generalizado de outros estímulos semelhantes em textura, como coelhos e ursinhos de pelúcia (generalização respondente). A extinção respondente ocorreria se o estímulo condicionado (rato) fosse apresentado repetidamente sem o estímulo incondicionado (barulho), reduzindo progressivamente a resposta de medo.",
+      "keyPoints": [
+        {
+          "text": "Condicionamento do medo ao rato via pareamento com barulho estridente",
+          "weight": 0.4,
+          "keywords": [
+            "rato",
+            "barulho",
+            "condicionamento"
+          ]
+        },
+        {
+          "text": "Generalização: medo se estendeu a estímulos semelhantes",
+          "weight": 0.3,
+          "keywords": [
+            "generalização",
+            "semelhantes"
+          ]
+        },
+        {
+          "text": "Extinção: apresentação repetida do CS sem o US reduziria a resposta",
+          "weight": 0.3,
+          "keywords": [
+            "extinção",
+            "sem o"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-097",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique por que o behaviorismo metodológico de Watson não negava a existência da mente, mas ainda assim a excluía do escopo de estudo da Psicologia científica.",
+      "modelAnswer": "Watson não negava que processos mentais como pensamentos e emoções existissem, mas considerava que eles não poderiam ser estudados de forma objetiva e científica, já que não eram diretamente observáveis nem mensuráveis por terceiros. Por isso, descartava esses eventos internos de suas análises, concentrando-se exclusivamente no comportamento observável e nas relações entre estímulo e resposta.",
+      "keyPoints": [
+        {
+          "text": "Não negava a existência da mente/eventos internos",
+          "weight": 0.5,
+          "keywords": [
+            "não negava",
+            "existência"
+          ]
+        },
+        {
+          "text": "Excluía por não serem observáveis/mensuráveis objetivamente",
+          "weight": 0.5,
+          "keywords": [
+            "observável",
+            "objetivamente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-098",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Compare o behaviorismo de Watson com o de Skinner quanto à relação mente-corpo e à aceitação da introspecção como método de estudo.",
+      "modelAnswer": "Watson era dualista quanto à relação mente-corpo e não aceitava a introspecção como método de estudo válido para a Psicologia. Skinner, por sua vez, era monista, considerando mente e corpo parte de um mesmo sistema, e aceitava a introspecção, mas de forma restrita, como método de estudo do comportamento verbal.",
+      "keyPoints": [
+        {
+          "text": "Watson: dualista, rejeitava introspecção",
+          "weight": 0.5,
+          "keywords": [
+            "Watson",
+            "dualista",
+            "rejeitava"
+          ]
+        },
+        {
+          "text": "Skinner: monista, aceitava introspecção para comportamento verbal",
+          "weight": 0.5,
+          "keywords": [
+            "Skinner",
+            "monista",
+            "comportamento verbal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-099",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique de que forma o trabalho de Watson se contrapunha às ideias da eugenia vigentes no início do século XX.",
+      "modelAnswer": "Enquanto a eugenia defendia que características e comportamentos humanos eram determinados essencialmente pela herança genética, Watson demonstrou, por meio de seus experimentos de condicionamento, que o desenvolvimento dos comportamentos humanos dependia fortemente das interações do indivíduo com o ambiente, e não apenas de fatores hereditários.",
+      "keyPoints": [
+        {
+          "text": "Eugenia: comportamento determinado pela herança genética",
+          "weight": 0.5,
+          "keywords": [
+            "eugenia",
+            "herança genética"
+          ]
+        },
+        {
+          "text": "Watson: comportamento moldado pelas interações com o ambiente",
+          "weight": 0.5,
+          "keywords": [
+            "ambiente",
+            "interações"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "12"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-100",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Descreva as propriedades dos reflexos relacionadas à intensidade do estímulo e da resposta, segundo o modelo de Watson baseado nos estudos de Pavlov.",
+      "modelAnswer": "A primeira propriedade estabelece que quanto maior a intensidade do estímulo, maior será a intensidade da resposta. Além disso, existe uma intensidade mínima (limiar) necessária para que a resposta ocorra, e o tempo entre a apresentação do estímulo e a resposta (latência) diminui à medida que a intensidade do estímulo aumenta.",
+      "keyPoints": [
+        {
+          "text": "Maior intensidade do estímulo, maior intensidade da resposta",
+          "weight": 0.4,
+          "keywords": [
+            "maior intensidade",
+            "resposta"
+          ]
+        },
+        {
+          "text": "Existe uma intensidade mínima (limiar)",
+          "weight": 0.3,
+          "keywords": [
+            "limiar",
+            "mínima"
+          ]
+        },
+        {
+          "text": "Latência diminui com o aumento da intensidade",
+          "weight": 0.3,
+          "keywords": [
+            "latência",
+            "diminui"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7-8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-101",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Explique por que o experimento do pequeno Albert seria considerado antiético segundo os padrões atuais de pesquisa, mesmo tendo contribuído cientificamente para a compreensão do condicionamento respondente.",
+      "modelAnswer": "O experimento induziu deliberadamente medo em uma criança pequena, sem consentimento informado adequado e sem qualquer preocupação em reverter os efeitos do condicionamento ao final do estudo, expondo o participante a sofrimento psicológico evitável. Por isso, hoje não seria aprovado por nenhum comitê de ética em pesquisa, apesar de ter demonstrado de forma clara os fenômenos de condicionamento, generalização e extinção respondente.",
+      "keyPoints": [
+        {
+          "text": "Induziu sofrimento/medo deliberado em criança sem reversão adequada",
+          "weight": 0.6,
+          "keywords": [
+            "sofrimento",
+            "medo",
+            "criança"
+          ]
+        },
+        {
+          "text": "Não seria aprovado por comitês de ética atuais",
+          "weight": 0.4,
+          "keywords": [
+            "ética",
+            "não seria aprovado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-102",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo o material, qual seria, na visão de Watson, o propósito central do behaviorismo enquanto ciência do comportamento?",
+      "modelAnswer": "Para Watson, o propósito do behaviorismo seria prever a resposta do organismo a partir do conhecimento do estímulo apresentado ou, inversamente, dada uma resposta observada, identificar qual estímulo a causou — estabelecendo assim relações objetivas e previsíveis entre estímulo e resposta.",
+      "keyPoints": [
+        {
+          "text": "Prever a resposta a partir do estímulo",
+          "weight": 0.5,
+          "keywords": [
+            "prever",
+            "resposta",
+            "estímulo"
+          ]
+        },
+        {
+          "text": "Ou identificar o estímulo causador a partir da resposta",
+          "weight": 0.5,
+          "keywords": [
+            "identificar",
+            "causou"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-103",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Descreva o circuito da percepção visual, desde a captação da luz pelos olhos até o processamento final no córtex cerebral.",
+      "modelAnswer": "A luz refletida pelos objetos atinge a retina, sendo convertida em impulsos elétricos pelos fotorreceptores (cones e bastonetes). Esses impulsos são transmitidos pelo nervo óptico até o tálamo, onde são processados antes de seguirem para o córtex visual, localizado no lobo occipital, onde ocorre o processamento final que forma a representação consciente do ambiente visual.",
+      "keyPoints": [
+        {
+          "text": "Luz captada pela retina e convertida por cones/bastonetes",
+          "weight": 0.3,
+          "keywords": [
+            "retina",
+            "cones",
+            "bastonetes"
+          ]
+        },
+        {
+          "text": "Transmissão pelo nervo óptico até o tálamo",
+          "weight": 0.35,
+          "keywords": [
+            "nervo óptico",
+            "tálamo"
+          ]
+        },
+        {
+          "text": "Processamento final no córtex visual (lobo occipital)",
+          "weight": 0.35,
+          "keywords": [
+            "córtex visual",
+            "occipital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-104",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique a relação entre percepção e atenção, destacando o papel da atenção como filtro de estímulos.",
+      "modelAnswer": "A percepção organiza e interpreta os estímulos captados pelos sentidos, mas o volume de estímulos disponíveis no ambiente é muito maior do que o sistema cognitivo consegue processar por completo. A atenção atua como um filtro que seleciona, dentre esses estímulos percebidos, aqueles que serão processados de forma mais aprofundada, permitindo um funcionamento cognitivo eficiente.",
+      "keyPoints": [
+        {
+          "text": "Percepção organiza e interpreta estímulos captados",
+          "weight": 0.4,
+          "keywords": [
+            "percepção",
+            "organiza"
+          ]
+        },
+        {
+          "text": "Atenção seleciona/filtra quais estímulos serão processados",
+          "weight": 0.6,
+          "keywords": [
+            "filtro",
+            "seleciona"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9-10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-105",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Cite e explique os cinco fatores relacionados aos processos atencionais apresentados no material.",
+      "modelAnswer": "Os cinco fatores são: grau de alerta (prontidão geral do organismo para responder a estímulos), concentração (capacidade de manter o foco resistindo a distrações), orientação (capacidade de direcionar os recursos atencionais a um estímulo específico), seleção (escolha de quais estímulos serão processados prioritariamente) e exploração (busca ativa de novas informações no ambiente).",
+      "keyPoints": [
+        {
+          "text": "Grau de alerta: prontidão do organismo",
+          "weight": 0.2,
+          "keywords": [
+            "alerta",
+            "prontidão"
+          ]
+        },
+        {
+          "text": "Concentração: manter foco resistindo a distrações",
+          "weight": 0.2,
+          "keywords": [
+            "concentração",
+            "distrações"
+          ]
+        },
+        {
+          "text": "Orientação: direcionar recursos a um estímulo",
+          "weight": 0.2,
+          "keywords": [
+            "orientação",
+            "direcionar"
+          ]
+        },
+        {
+          "text": "Seleção: escolher estímulos prioritários",
+          "weight": 0.2,
+          "keywords": [
+            "seleção",
+            "prioritários"
+          ]
+        },
+        {
+          "text": "Exploração: busca ativa de novas informações",
+          "weight": 0.2,
+          "keywords": [
+            "exploração",
+            "busca ativa"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-106",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Diferencie os quatro tipos de atenção apresentados no material (seletiva, alternada, sustentada e concentrada), dando um exemplo de cada.",
+      "modelAnswer": "A atenção seletiva foca em um estímulo específico, ignorando concorrentes (ex.: acompanhar uma conversa em ambiente barulhento). A alternada revezar o foco entre duas ou mais tarefas (ex.: um DJ que ouve a próxima música enquanto toca a atual). A sustentada mantém o foco por período prolongado (ex.: um motorista em rodovia monótona). A concentrada envolve profundidade tal que há perda da noção do tempo, o chamado estado de fluxo (ex.: um estudante absorto na leitura).",
+      "keyPoints": [
+        {
+          "text": "Seletiva: foco em estímulo específico ignorando concorrentes",
+          "weight": 0.25,
+          "keywords": [
+            "seletiva",
+            "ignorando"
+          ]
+        },
+        {
+          "text": "Alternada: revezar foco entre tarefas",
+          "weight": 0.25,
+          "keywords": [
+            "alternada",
+            "revezar"
+          ]
+        },
+        {
+          "text": "Sustentada: manter foco por período prolongado",
+          "weight": 0.25,
+          "keywords": [
+            "sustentada",
+            "prolongado"
+          ]
+        },
+        {
+          "text": "Concentrada: estado de fluxo, perda da noção do tempo",
+          "weight": 0.25,
+          "keywords": [
+            "concentrada",
+            "fluxo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11-12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-107",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique o chamado 'efeito coquetel' à luz da atenção seletiva, utilizando o exemplo de uma pessoa em um café.",
+      "modelAnswer": "Uma pessoa lendo em um café ignora conscientemente as conversas ao redor, filtrando-as como estímulos irrelevantes por meio da atenção seletiva. No entanto, se alguém mencionar seu nome em uma dessas conversas, a pessoa frequentemente percebe imediatamente, o que demonstra que a atenção seletiva não bloqueia totalmente os estímulos ignorados, permanecendo sensível a estímulos de relevância pessoal.",
+      "keyPoints": [
+        {
+          "text": "Atenção seletiva filtra estímulos irrelevantes (conversas ao redor)",
+          "weight": 0.5,
+          "keywords": [
+            "filtra",
+            "irrelevantes"
+          ]
+        },
+        {
+          "text": "Permanece sensível a estímulos de relevância pessoal (próprio nome)",
+          "weight": 0.5,
+          "keywords": [
+            "nome",
+            "relevância pessoal"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-108",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique a diferença entre a atenção sustentada e a atenção concentrada, destacando em que ponto elas se assemelham e em que ponto se diferenciam.",
+      "modelAnswer": "Ambas envolvem manutenção do foco ao longo do tempo, mas a atenção sustentada refere-se a manter o foco por um período prolongado em uma tarefa, mesmo diante de monotonia ou cansaço, enquanto a atenção concentrada envolve um grau de profundidade tal que o indivíduo perde a noção do tempo e do ambiente ao redor, correspondendo ao chamado estado de fluxo.",
+      "keyPoints": [
+        {
+          "text": "Semelhança: ambas envolvem manter o foco ao longo do tempo",
+          "weight": 0.3,
+          "keywords": [
+            "manter o foco",
+            "tempo"
+          ]
+        },
+        {
+          "text": "Sustentada: foco prolongado apesar de monotonia/cansaço",
+          "weight": 0.35,
+          "keywords": [
+            "prolongado",
+            "monotonia"
+          ]
+        },
+        {
+          "text": "Concentrada: profundidade com perda da noção do tempo (fluxo)",
+          "weight": 0.35,
+          "keywords": [
+            "fluxo",
+            "perda da noção"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "tcc-disc-109",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique como dificuldades nos processos atencionais, especialmente na seleção e na concentração, podem se manifestar clinicamente, citando um exemplo de transtorno associado.",
+      "modelAnswer": "Quando o indivíduo apresenta dificuldade em filtrar estímulos irrelevantes (seleção) e em manter o foco resistindo a distrações (concentração), isso pode prejudicar significativamente seu desempenho em tarefas cotidianas, acadêmicas e profissionais. Esse padrão de dificuldade está frequentemente associado, na prática clínica, ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH).",
+      "keyPoints": [
+        {
+          "text": "Dificuldade em filtrar estímulos e manter o foco",
+          "weight": 0.5,
+          "keywords": [
+            "filtrar",
+            "manter o foco"
+          ]
+        },
+        {
+          "text": "Associação com TDAH",
+          "weight": 0.5,
+          "keywords": [
+            "TDAH"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-110",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique por que os processos cognitivos básicos, como percepção e atenção, são considerados fundamentais para o funcionamento adaptativo do indivíduo.",
+      "modelAnswer": "Esses processos permitem que o indivíduo capte as informações do ambiente (percepção), selecione as que são relevantes em cada momento (atenção) e as processe de forma organizada, orientando comportamentos adaptativos diante das demandas e dos riscos do ambiente em que vive.",
+      "keyPoints": [
+        {
+          "text": "Percepção capta informações do ambiente",
+          "weight": 0.4,
+          "keywords": [
+            "percepção",
+            "capta"
+          ]
+        },
+        {
+          "text": "Atenção seleciona o que é relevante, orientando o comportamento adaptativo",
+          "weight": 0.6,
+          "keywords": [
+            "seleciona",
+            "adaptativo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-111",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Descreva o trajeto neural percorrido pela informação visual, citando as estruturas envolvidas entre a retina e o córtex occipital.",
+      "modelAnswer": "A informação visual, após ser convertida em impulsos elétricos pelos fotorreceptores da retina, é conduzida pelo nervo óptico até o tálamo, estrutura que realiza um processamento intermediário antes de encaminhar a informação ao córtex visual, localizado no lobo occipital, onde ocorre o processamento final da imagem.",
+      "keyPoints": [
+        {
+          "text": "Retina → nervo óptico",
+          "weight": 0.35,
+          "keywords": [
+            "retina",
+            "nervo óptico"
+          ]
+        },
+        {
+          "text": "Nervo óptico → tálamo (processamento intermediário)",
+          "weight": 0.35,
+          "keywords": [
+            "tálamo"
+          ]
+        },
+        {
+          "text": "Tálamo → córtex visual no lobo occipital",
+          "weight": 0.3,
+          "keywords": [
+            "córtex visual",
+            "occipital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
+    },
+    {
+      "id": "tcc-disc-112",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Explique, com um exemplo prático do cotidiano, como a atenção seletiva e a atenção alternada podem atuar de forma diferente diante de uma mesma situação, como atravessar uma rua movimentada enquanto se conversa ao telefone.",
+      "modelAnswer": "Se a pessoa focar exclusivamente nos carros que se aproximam, ignorando a conversa no telefone, está utilizando a atenção seletiva. Caso ela revezasse o foco entre observar o trânsito e acompanhar a conversa, ora em um, ora em outro, estaria utilizando a atenção alternada — o que, nessa situação de risco, tende a ser menos seguro do que a seleção exclusiva do estímulo relevante (o trânsito).",
+      "keyPoints": [
+        {
+          "text": "Seletiva: foco exclusivo no estímulo relevante (trânsito)",
+          "weight": 0.5,
+          "keywords": [
+            "seletiva",
+            "trânsito"
+          ]
+        },
+        {
+          "text": "Alternada: revezamento do foco entre os dois estímulos",
+          "weight": 0.5,
+          "keywords": [
+            "alternada",
+            "revezamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -13301,6 +15460,484 @@
       "subject": "Terapia Cognitivo-Comportamental (TCC)",
       "difficulty": "medio",
       "miniLesson": "Por que a TCC é focada inicialmente no presente? Porque só podemos alterar o presente; há grande ênfase no momento atual e no enfrentamento da realidade como ela é, embora o passado também possa ser explorado em situações específicas."
+    },
+    {
+      "id": "tcc-oral-093",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual publicação de Watson, de 1913, é considerada o marco inicial do behaviorismo?",
+      "modelAnswer": "Psychology as the behaviorist views it (Psicologia como um comportamentista a vê).",
+      "keyPoints": [
+        {
+          "text": "Psychology as the behaviorist views it, de 1913",
+          "weight": 1,
+          "keywords": [
+            "1913",
+            "behaviorist views it"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "baixo",
+      "miniLesson": "Qual publicação de Watson, de 1913, é considerada o marco inicial do behaviorismo? Psychology as the behaviorist views it (Psicologia como um comportamentista a vê)."
+    },
+    {
+      "id": "tcc-oral-094",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual fisiologista russo influenciou fortemente os estudos de Watson sobre reflexos?",
+      "modelAnswer": "Ivan Petrovich Pavlov.",
+      "keyPoints": [
+        {
+          "text": "Pavlov",
+          "weight": 1,
+          "keywords": [
+            "Pavlov"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "4"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "baixo",
+      "miniLesson": "Qual fisiologista russo influenciou fortemente os estudos de Watson sobre reflexos? Ivan Petrovich Pavlov."
+    },
+    {
+      "id": "tcc-oral-095",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "O que representa a equação Sn → Rn dos reflexos?",
+      "modelAnswer": "Que determinado estímulo elicia uma resposta específica no organismo.",
+      "keyPoints": [
+        {
+          "text": "Estímulo elicia uma resposta",
+          "weight": 1,
+          "keywords": [
+            "estímulo",
+            "elicia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "7"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "O que representa a equação Sn → Rn dos reflexos? Que determinado estímulo elicia uma resposta específica no organismo."
+    },
+    {
+      "id": "tcc-oral-096",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "O que é a lei do limiar?",
+      "modelAnswer": "É a lei que estabelece que sempre há uma intensidade mínima de estímulo necessária para que a resposta seja eliciada.",
+      "keyPoints": [
+        {
+          "text": "Intensidade mínima necessária para eliciar resposta",
+          "weight": 1,
+          "keywords": [
+            "intensidade mínima"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "O que é a lei do limiar? É a lei que estabelece que sempre há uma intensidade mínima de estímulo necessária para que a resposta seja eliciada."
+    },
+    {
+      "id": "tcc-oral-097",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual é a diferença entre habituação e sensibilização?",
+      "modelAnswer": "Na habituação, a repetição do estímulo reduz a intensidade da resposta; na sensibilização, a repetição do estímulo aumenta a intensidade da resposta.",
+      "keyPoints": [
+        {
+          "text": "Habituação reduz a resposta",
+          "weight": 0.5,
+          "keywords": [
+            "habituação",
+            "reduz"
+          ]
+        },
+        {
+          "text": "Sensibilização aumenta a resposta",
+          "weight": 0.5,
+          "keywords": [
+            "sensibilização",
+            "aumenta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "8"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a diferença entre habituação e sensibilização? Na habituação, a repetição do estímulo reduz a intensidade da resposta; na sensibilização, a repetição do estímulo aumenta a intensidade da resposta."
+    },
+    {
+      "id": "tcc-oral-098",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "No experimento de Pavlov, o que a comida representa antes do condicionamento?",
+      "modelAnswer": "É o estímulo incondicionado, pois elicia automaticamente a resposta de salivação no organismo.",
+      "keyPoints": [
+        {
+          "text": "Estímulo incondicionado, elicia salivação automaticamente",
+          "weight": 1,
+          "keywords": [
+            "incondicionado",
+            "salivação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "9"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "No experimento de Pavlov, o que a comida representa antes do condicionamento? É o estímulo incondicionado, pois elicia automaticamente a resposta de salivação no organismo."
+    },
+    {
+      "id": "tcc-oral-099",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Qual foi a principal contribuição de Watson a partir dos estudos de Pavlov sobre condicionamento respondente?",
+      "modelAnswer": "Criar as bases do behaviorismo metodológico, aplicando os princípios do condicionamento respondente ao estudo científico do comportamento humano.",
+      "keyPoints": [
+        {
+          "text": "Criação das bases do behaviorismo metodológico",
+          "weight": 1,
+          "keywords": [
+            "behaviorismo metodológico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Qual foi a principal contribuição de Watson a partir dos estudos de Pavlov sobre condicionamento respondente? Criar as bases do behaviorismo metodológico, aplicando os princípios do condicionamento respondente ao estudo científico do comportamento humano."
+    },
+    {
+      "id": "tcc-oral-100",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "No experimento do pequeno Albert, o que aconteceu quando a criança passou a temer também coelhos e ursinhos de pelúcia, além do rato branco?",
+      "modelAnswer": "Ocorreu o fenômeno de generalização respondente, em que o medo condicionado se estendeu a estímulos com características semelhantes ao estímulo original.",
+      "keyPoints": [
+        {
+          "text": "Generalização respondente",
+          "weight": 1,
+          "keywords": [
+            "generalização"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "11"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "No experimento do pequeno Albert, o que aconteceu quando a criança passou a temer também coelhos e ursinhos de pelúcia, além do rato branco? Ocorreu o fenômeno de generalização respondente, em que o medo condicionado se estendeu a estímulos com características semelhantes ao estímulo original."
+    },
+    {
+      "id": "tcc-oral-101",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Quanto à relação mente-corpo, Watson era dualista ou monista?",
+      "modelAnswer": "Watson era dualista, diferentemente de Skinner, que era monista.",
+      "keyPoints": [
+        {
+          "text": "Watson era dualista",
+          "weight": 1,
+          "keywords": [
+            "dualista"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "16"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Quanto à relação mente-corpo, Watson era dualista ou monista? Watson era dualista, diferentemente de Skinner, que era monista."
+    },
+    {
+      "id": "tcc-oral-102",
+      "topic": "Behaviorismo metodológico (Watson)",
+      "question": "Segundo Watson, qual seria o propósito central do behaviorismo?",
+      "modelAnswer": "Prever a resposta do organismo com base no estímulo apresentado, ou, dada uma resposta, descobrir qual estímulo a causou.",
+      "keyPoints": [
+        {
+          "text": "Prever resposta a partir do estímulo ou vice-versa",
+          "weight": 1,
+          "keywords": [
+            "prever",
+            "estímulo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Princípios básicos do behaviorismo.pdf",
+        "page": "10"
+      },
+      "subject": "Behaviorismo metodológico (Watson)",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Watson, qual seria o propósito central do behaviorismo? Prever a resposta do organismo com base no estímulo apresentado, ou, dada uma resposta, descobrir qual estímulo a causou."
+    },
+    {
+      "id": "tcc-oral-103",
+      "topic": "Processos cognitivos: atenção",
+      "question": "O que é a percepção, segundo o material?",
+      "modelAnswer": "É o processo pelo qual o cérebro organiza e interpreta as informações captadas pelos sentidos, atribuindo-lhes significado.",
+      "keyPoints": [
+        {
+          "text": "Organiza e interpreta informações captadas pelos sentidos",
+          "weight": 1,
+          "keywords": [
+            "organiza",
+            "interpreta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "3"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo",
+      "miniLesson": "O que é a percepção, segundo o material? É o processo pelo qual o cérebro organiza e interpreta as informações captadas pelos sentidos, atribuindo-lhes significado."
+    },
+    {
+      "id": "tcc-oral-104",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Por qual nervo as informações visuais são transmitidas da retina até o cérebro?",
+      "modelAnswer": "Pelo nervo óptico.",
+      "keyPoints": [
+        {
+          "text": "Nervo óptico",
+          "weight": 1,
+          "keywords": [
+            "nervo óptico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo",
+      "miniLesson": "Por qual nervo as informações visuais são transmitidas da retina até o cérebro? Pelo nervo óptico."
+    },
+    {
+      "id": "tcc-oral-105",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Em qual lobo cerebral está localizado o córtex visual?",
+      "modelAnswer": "No lobo occipital.",
+      "keyPoints": [
+        {
+          "text": "Lobo occipital",
+          "weight": 1,
+          "keywords": [
+            "occipital"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "baixo",
+      "miniLesson": "Em qual lobo cerebral está localizado o córtex visual? No lobo occipital."
+    },
+    {
+      "id": "tcc-oral-106",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Cite três dos cinco fatores relacionados aos processos atencionais.",
+      "modelAnswer": "Grau de alerta, concentração e orientação (também há seleção e exploração).",
+      "keyPoints": [
+        {
+          "text": "Cita corretamente pelo menos três fatores atencionais",
+          "weight": 1,
+          "keywords": [
+            "alerta",
+            "concentração",
+            "orientação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Cite três dos cinco fatores relacionados aos processos atencionais. Grau de alerta, concentração e orientação (também há seleção e exploração)."
+    },
+    {
+      "id": "tcc-oral-107",
+      "topic": "Processos cognitivos: atenção",
+      "question": "O que é a atenção seletiva?",
+      "modelAnswer": "É a capacidade de focar em um estímulo específico, ignorando outros estímulos concorrentes presentes no ambiente.",
+      "keyPoints": [
+        {
+          "text": "Foco em estímulo específico, ignorando concorrentes",
+          "weight": 1,
+          "keywords": [
+            "foco",
+            "ignorando"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "O que é a atenção seletiva? É a capacidade de focar em um estímulo específico, ignorando outros estímulos concorrentes presentes no ambiente."
+    },
+    {
+      "id": "tcc-oral-108",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Qual exemplo o material usa para ilustrar a atenção alternada?",
+      "modelAnswer": "O exemplo de um DJ que precisa ouvir a próxima música em seus fones de ouvido enquanto ainda toca a atual música para o público.",
+      "keyPoints": [
+        {
+          "text": "Exemplo do DJ",
+          "weight": 1,
+          "keywords": [
+            "DJ"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "11"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Qual exemplo o material usa para ilustrar a atenção alternada? O exemplo de um DJ que precisa ouvir a próxima música em seus fones de ouvido enquanto ainda toca a atual música para o público."
+    },
+    {
+      "id": "tcc-oral-109",
+      "topic": "Processos cognitivos: atenção",
+      "question": "O que caracteriza a atenção sustentada?",
+      "modelAnswer": "A capacidade de manter o foco em uma tarefa ou estímulo por um período prolongado de tempo.",
+      "keyPoints": [
+        {
+          "text": "Manter o foco por período prolongado",
+          "weight": 1,
+          "keywords": [
+            "prolongado"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a atenção sustentada? A capacidade de manter o foco em uma tarefa ou estímulo por um período prolongado de tempo."
+    },
+    {
+      "id": "tcc-oral-110",
+      "topic": "Processos cognitivos: atenção",
+      "question": "O que é o chamado 'estado de fluxo', associado à atenção concentrada?",
+      "modelAnswer": "É um nível tão profundo de concentração em uma atividade que o indivíduo perde a noção do tempo e do ambiente ao redor.",
+      "keyPoints": [
+        {
+          "text": "Perda da noção do tempo e do ambiente por concentração profunda",
+          "weight": 1,
+          "keywords": [
+            "perde a noção",
+            "concentração profunda"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "12"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "O que é o chamado 'estado de fluxo', associado à atenção concentrada? É um nível tão profundo de concentração em uma atividade que o indivíduo perde a noção do tempo e do ambiente ao redor."
+    },
+    {
+      "id": "tcc-oral-111",
+      "topic": "Processos cognitivos: atenção",
+      "question": "A dificuldade de filtrar estímulos irrelevantes e manter o foco está associada a qual transtorno mencionado no material?",
+      "modelAnswer": "O Transtorno de Déficit de Atenção e Hiperatividade (TDAH).",
+      "keyPoints": [
+        {
+          "text": "TDAH",
+          "weight": 1,
+          "keywords": [
+            "TDAH"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "10"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "A dificuldade de filtrar estímulos irrelevantes e manter o foco está associada a qual transtorno mencionado no material? O Transtorno de Déficit de Atenção e Hiperatividade (TDAH)."
+    },
+    {
+      "id": "tcc-oral-112",
+      "topic": "Processos cognitivos: atenção",
+      "question": "Qual estrutura cerebral processa a informação visual antes de ela chegar ao córtex occipital?",
+      "modelAnswer": "O tálamo.",
+      "keyPoints": [
+        {
+          "text": "Tálamo",
+          "weight": 1,
+          "keywords": [
+            "tálamo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/As Teorias Cognitivo-Comportamentais",
+        "document": "Abordagens da cognição humana.pdf",
+        "page": "9"
+      },
+      "subject": "Processos cognitivos: atenção",
+      "difficulty": "medio",
+      "miniLesson": "Qual estrutura cerebral processa a informação visual antes de ela chegar ao córtex occipital? O tálamo."
     }
   ]
 }
