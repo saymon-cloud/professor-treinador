@@ -29,3 +29,5 @@ usado pelo app.
 | 21 | Neuroanatomofisiologia | Diencéfalo e núcleos da base | 2026-09-04 | `4416707` |
 | 22 | Neuroanatomofisiologia | Meninges e líquor | 2026-09-05 | `11d6908` |
 | 23 | Neuroanatomofisiologia | Vascularização do SNC | 2026-09-05 | `11d6908` |
+| 24 | As Teorias Cognitivo-Comportamentais | Bases filosóficas do behaviorismo | 2026-09-05 | `6b0dff7` |
+| 25 | As Teorias Cognitivo-Comportamentais | Filogênese, ontogênese e sociogênese | 2026-09-05 | `6b0dff7` |
