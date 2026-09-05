@@ -39,3 +39,5 @@ usado pelo app.
 | 31 | Neuroanatomofisiologia | Organização geral do sistema nervoso | 2026-09-05 | `b5bf58d` |
 | 32 | Neuroanatomofisiologia | Desenvolvimento embrionário do SN | 2026-09-05 | `8479ae1` |
 | 33 | Neuroanatomofisiologia | Sistema nervoso autônomo | 2026-09-05 | `8479ae1` |
+| 34 | Neuroanatomofisiologia | Nervos espinhais e plexos | 2026-09-05 | `bc4b16b` |
+| 35 | Neuroanatomofisiologia | Nervos cranianos | 2026-09-05 | `bc4b16b` |
