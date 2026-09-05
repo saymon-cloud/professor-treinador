@@ -33,3 +33,5 @@ usado pelo app.
 | 25 | As Teorias Cognitivo-Comportamentais | Filogênese, ontogênese e sociogênese | 2026-09-05 | `6b0dff7` |
 | 26 | As Teorias Cognitivo-Comportamentais | Neurociência cognitiva: lobos cerebrais e neuroplasticidade | 2026-09-05 | `1e52433` |
 | 27 | As Teorias Cognitivo-Comportamentais | Terapia Cognitivo-Comportamental (TCC) | 2026-09-05 | `1e52433` |
+| 28 | As Teorias Cognitivo-Comportamentais | Behaviorismo metodológico (Watson) | 2026-09-05 | `161c285` |
+| 29 | As Teorias Cognitivo-Comportamentais | Processos cognitivos: atenção | 2026-09-05 | `161c285` |
