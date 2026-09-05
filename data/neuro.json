@@ -8215,6 +8215,1469 @@
       "subject": "Vascularização do SNC",
       "difficulty": "dificil",
       "miniLesson": "Um paciente apresenta, subitamente, fraqueza no membro superior direito e na face, associada a dificuldade para se expressar verbalmente (mas com boa compreensão), sugerindo afasia motora. Com base nos territórios arteriais descritos no material, a artéria mais provavelmente obstruída é a: O quadro de comprometimento motor e sensitivo bráquio-facial (membro superior e face) associado à afasia motora é característico de obstrução da artéria cerebral média, cujo território inclui o centro da palavra falada e escrita; como a lesão gera déficits no lado direito do corpo, a artéria acometida seria a cerebral média esquerda."
+    },
+    {
+      "id": "neuro-obj-377",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, a unidade básica do sistema nervoso é a célula nervosa, ou neurônio, sendo que o cérebro humano contém aproximadamente:",
+      "options": {
+        "a": "100 bilhões de neurônios",
+        "b": "100 milhões de neurônios",
+        "c": "10 mil neurônios",
+        "d": "1 trilhão de neurônios",
+        "e": "500 neurônios"
+      },
+      "correct": "a",
+      "explanation": "O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, a unidade básica do sistema nervoso é a célula nervosa, ou neurônio, sendo que o cérebro humano contém aproximadamente: O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos."
+    },
+    {
+      "id": "neuro-obj-378",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, um neurônio típico é composto por três estruturas principais: dendritos, corpo celular e:",
+      "options": {
+        "a": "Axônio",
+        "b": "Núcleo caudado",
+        "c": "Bainha aracnóidea",
+        "d": "Plexo coroide",
+        "e": "Corpo caloso"
+      },
+      "correct": "a",
+      "explanation": "Um neurônio típico consiste em dendritos, corpo celular e axônio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, um neurônio típico é composto por três estruturas principais: dendritos, corpo celular e: Um neurônio típico consiste em dendritos, corpo celular e axônio."
+    },
+    {
+      "id": "neuro-obj-379",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os dendritos são chamados de região de entrada receptiva porque:",
+      "options": {
+        "a": "Têm grande área de superfície para receber sinais de outros neurônios e transmiti-los ao corpo celular",
+        "b": "São responsáveis por armazenar o núcleo e as organelas do neurônio",
+        "c": "Conduzem o impulso nervoso para fora do corpo celular em direção a outro neurônio",
+        "d": "Formam a bainha de mielina que envolve o axônio",
+        "e": "São exclusivos dos neurônios motores, não existindo em neurônios sensoriais"
+      },
+      "correct": "a",
+      "explanation": "Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os dendritos são chamados de região de entrada receptiva porque: Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva."
+    },
+    {
+      "id": "neuro-obj-380",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, o corpo celular do neurônio é considerado o principal centro biossintético porque:",
+      "options": {
+        "a": "Produz todas as proteínas e contém organelas especializadas, como núcleo, grânulos e corpos de Nissl",
+        "b": "É responsável exclusivamente pela condução do impulso nervoso",
+        "c": "Forma a bainha de mielina ao redor do axônio",
+        "d": "Recebe diretamente os neurotransmissores liberados na fenda sináptica",
+        "e": "É a única parte do neurônio capaz de se regenerar"
+      },
+      "correct": "a",
+      "explanation": "O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o corpo celular do neurônio é considerado o principal centro biossintético porque: O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl."
+    },
+    {
+      "id": "neuro-obj-381",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, o axônio surge de uma porção em forma de cone do corpo celular denominada:",
+      "options": {
+        "a": "Cone de implantação do axônio",
+        "b": "Nódulo de Ranvier",
+        "c": "Fenda sináptica",
+        "d": "Bainha de mielina",
+        "e": "Corpo de Nissl"
+      },
+      "correct": "a",
+      "explanation": "O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o axônio surge de uma porção em forma de cone do corpo celular denominada: O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio."
+    },
+    {
+      "id": "neuro-obj-382",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, a camada gordurosa esbranquiçada que circunda os axônios, responsável por acelerar a condução do impulso nervoso, é chamada de:",
+      "options": {
+        "a": "Bainha de mielina",
+        "b": "Neurilema",
+        "c": "Corpo de Nissl",
+        "d": "Glicocálice",
+        "e": "Fenda sináptica"
+      },
+      "correct": "a",
+      "explanation": "Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a camada gordurosa esbranquiçada que circunda os axônios, responsável por acelerar a condução do impulso nervoso, é chamada de: Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema."
+    },
+    {
+      "id": "neuro-obj-383",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, existem seis tipos de neuroglia, sendo quatro encontrados no Sistema Nervoso Central e dois no:",
+      "options": {
+        "a": "Sistema Nervoso Periférico",
+        "b": "Sistema límbico",
+        "c": "Tronco encefálico exclusivamente",
+        "d": "Cerebelo exclusivamente",
+        "e": "Bulbo olfatório exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem seis tipos de neuroglia, sendo quatro encontrados no Sistema Nervoso Central e dois no: Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann)."
+    },
+    {
+      "id": "neuro-obj-384",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os astrócitos, células gliais mais abundantes do SNC, têm o formato de estrela e desempenham a função de:",
+      "options": {
+        "a": "Sustentar e proteger os neurônios, ancorando-os às linhas de suprimento de nutrientes e regulando a homeostase cerebral",
+        "b": "Formar exclusivamente a bainha de mielina ao redor dos axônios do SNC",
+        "c": "Atuar exclusivamente como macrófagos fagocíticos na limpeza de restos neuronais",
+        "d": "Revestir exclusivamente as cavidades centrais do cérebro e da medula espinhal",
+        "e": "Circundar exclusivamente os corpos celulares dos neurônios no Sistema Nervoso Periférico"
+      },
+      "correct": "a",
+      "explanation": "Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os astrócitos, células gliais mais abundantes do SNC, têm o formato de estrela e desempenham a função de: Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes."
+    },
+    {
+      "id": "neuro-obj-385",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as células microgliais, encontradas no SNC, desempenham a função de:",
+      "options": {
+        "a": "Transformar-se em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza de restos neuronais",
+        "b": "Produzir a bainha de mielina que envolve os axônios do SNC",
+        "c": "Nutrir diretamente os neurônios, transferindo nutrientes dos capilares sanguíneos",
+        "d": "Revestir as cavidades centrais do cérebro, formando o líquido cefalorraquidiano",
+        "e": "Circundar os corpos celulares dos neurônios no Sistema Nervoso Periférico"
+      },
+      "correct": "a",
+      "explanation": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as células microgliais, encontradas no SNC, desempenham a função de: As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais."
+    },
+    {
+      "id": "neuro-obj-386",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre:",
+      "options": {
+        "a": "O líquido cefalorraquidiano e as células dos tecidos do SNC",
+        "b": "O sangue e a bainha de mielina",
+        "c": "O axônio e o corpo celular do neurônio",
+        "d": "A fenda sináptica e o dendrito pós-sináptico",
+        "e": "O núcleo do neurônio e o citoplasma"
+      },
+      "correct": "a",
+      "explanation": "As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre: As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC."
+    },
+    {
+      "id": "neuro-obj-387",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os oligodendrócitos, encontrados no SNC, têm como principal função:",
+      "options": {
+        "a": "Alinhar-se ao longo dos nervos e produzir a bainha de mielina, isolando os axônios",
+        "b": "Revestir as cavidades centrais do cérebro e da medula espinhal",
+        "c": "Transformar-se em macrófagos fagocíticos diante de lesões neuronais",
+        "d": "Circundar os corpos celulares dos neurônios no Sistema Nervoso Periférico",
+        "e": "Regular exclusivamente a barreira hematoencefálica"
+      },
+      "correct": "a",
+      "explanation": "Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os oligodendrócitos, encontrados no SNC, têm como principal função: Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC."
+    },
+    {
+      "id": "neuro-obj-388",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as células satélites, encontradas no Sistema Nervoso Periférico, são análogas, em função, aos seguintes tipos celulares do SNC:",
+      "options": {
+        "a": "Astrócitos",
+        "b": "Oligodendrócitos",
+        "c": "Células microgliais",
+        "d": "Células ependimárias",
+        "e": "Neurônios motores"
+      },
+      "correct": "a",
+      "explanation": "As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as células satélites, encontradas no Sistema Nervoso Periférico, são análogas, em função, aos seguintes tipos celulares do SNC: As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC."
+    },
+    {
+      "id": "neuro-obj-389",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as células de Schwann, encontradas no Sistema Nervoso Periférico, desempenham função semelhante à dos oligodendrócitos no SNC, sendo responsáveis por:",
+      "options": {
+        "a": "Formar bainhas de mielina ao redor das fibras nervosas periféricas, aumentando a velocidade de propagação do impulso",
+        "b": "Revestir exclusivamente as cavidades centrais do cérebro",
+        "c": "Atuar exclusivamente como macrófagos fagocíticos",
+        "d": "Regular exclusivamente a barreira hematoencefálica",
+        "e": "Produzir exclusivamente o líquido cefalorraquidiano"
+      },
+      "correct": "a",
+      "explanation": "As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as células de Schwann, encontradas no Sistema Nervoso Periférico, desempenham função semelhante à dos oligodendrócitos no SNC, sendo responsáveis por: As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP."
+    },
+    {
+      "id": "neuro-obj-390",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, a bainha de mielina formada pelas células de Schwann é interrompida em intervalos regulares por estruturas denominadas:",
+      "options": {
+        "a": "Nós de Ranvier",
+        "b": "Corpos de Nissl",
+        "c": "Fendas sinápticas",
+        "d": "Núcleos da base",
+        "e": "Gânglios da base"
+      },
+      "correct": "a",
+      "explanation": "A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a bainha de mielina formada pelas células de Schwann é interrompida em intervalos regulares por estruturas denominadas: A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier."
+    },
+    {
+      "id": "neuro-obj-391",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, em termos de função, os cientistas classificam os neurônios em três grandes tipos: sensoriais, motores e:",
+      "options": {
+        "a": "Interneurônios",
+        "b": "Piramidais",
+        "c": "Bipolares",
+        "d": "Unipolares",
+        "e": "Multipolares"
+      },
+      "correct": "a",
+      "explanation": "Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "7",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em termos de função, os cientistas classificam os neurônios em três grandes tipos: sensoriais, motores e: Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios."
+    },
+    {
+      "id": "neuro-obj-392",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os neurônios sensoriais são acionados por estímulos físicos (som, toque, calor, luz) e estímulos químicos, sendo estes últimos representados por:",
+      "options": {
+        "a": "Olfato e sabor",
+        "b": "Visão e audição",
+        "c": "Toque e temperatura",
+        "d": "Pressão e dor",
+        "e": "Equilíbrio e propriocepção"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "7",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurônios sensoriais são acionados por estímulos físicos (som, toque, calor, luz) e estímulos químicos, sendo estes últimos representados por: Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos."
+    },
+    {
+      "id": "neuro-obj-393",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, no exemplo de uma pessoa que pisa na areia quente, os neurônios sensoriais ativados nas solas dos pés enviam uma mensagem que torna o cérebro ciente:",
+      "options": {
+        "a": "Do calor",
+        "b": "Exclusivamente da dor",
+        "c": "Exclusivamente da pressão",
+        "d": "Exclusivamente do som",
+        "e": "Exclusivamente do sabor"
+      },
+      "correct": "a",
+      "explanation": "Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "7",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, no exemplo de uma pessoa que pisa na areia quente, os neurônios sensoriais ativados nas solas dos pés enviam uma mensagem que torna o cérebro ciente: Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor."
+    },
+    {
+      "id": "neuro-obj-394",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os neurônios motores inferiores são responsáveis por carregar sinais:",
+      "options": {
+        "a": "Da medula espinhal para os músculos lisos e esqueléticos",
+        "b": "Do cérebro para a medula espinhal",
+        "c": "Dos órgãos sensoriais para o cérebro",
+        "d": "De um interneurônio para outro interneurônio, exclusivamente",
+        "e": "Da glândula suprarrenal para o coração"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurônios motores inferiores são responsáveis por carregar sinais: Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos."
+    },
+    {
+      "id": "neuro-obj-395",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os neurônios motores superiores são responsáveis por transportar sinais entre:",
+      "options": {
+        "a": "O cérebro e a medula espinhal",
+        "b": "Os músculos lisos e os músculos esqueléticos",
+        "c": "Os órgãos sensoriais e a pele",
+        "d": "As glândulas e os vasos sanguíneos",
+        "e": "Os dois hemisférios cerebrais exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurônios motores superiores são responsáveis por transportar sinais entre: Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal."
+    },
+    {
+      "id": "neuro-obj-396",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os interneurônios, considerados o tipo mais comum de neurônio, são encontrados principalmente:",
+      "options": {
+        "a": "No cérebro e na medula espinhal, passando sinais de neurônios sensoriais para neurônios motores e outros interneurônios",
+        "b": "Exclusivamente nos músculos esqueléticos",
+        "c": "Exclusivamente nas glândulas endócrinas",
+        "d": "Exclusivamente na pele e nos órgãos dos sentidos",
+        "e": "Exclusivamente nos nervos cranianos"
+      },
+      "correct": "a",
+      "explanation": "Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os interneurônios, considerados o tipo mais comum de neurônio, são encontrados principalmente: Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios."
+    },
+    {
+      "id": "neuro-obj-397",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, no exemplo de uma pessoa que toca em algo quente e retira a mão rapidamente enquanto sente dor, os interneurônios da medula espinhal desempenham o papel de:",
+      "options": {
+        "a": "Passar o sinal para os neurônios motores da mão (permitindo afastá-la) e, simultaneamente, enviar um sinal ao centro de dor no cérebro",
+        "b": "Produzir diretamente a bainha de mielina ao redor do nervo afetado",
+        "c": "Armazenar permanentemente a memória do episódio doloroso",
+        "d": "Substituir a função dos neurônios sensoriais nas pontas dos dedos",
+        "e": "Bloquear completamente a chegada do estímulo doloroso ao cérebro"
+      },
+      "correct": "a",
+      "explanation": "Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, no exemplo de uma pessoa que toca em algo quente e retira a mão rapidamente enquanto sente dor, os interneurônios da medula espinhal desempenham o papel de: Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro."
+    },
+    {
+      "id": "neuro-obj-398",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, a membrana plasmática do neurônio é composta, em cerca de metade de sua estrutura, por uma bicamada de:",
+      "options": {
+        "a": "Fosfolipídios",
+        "b": "Carboidratos exclusivamente",
+        "c": "Colágeno exclusivamente",
+        "d": "Queratina exclusivamente",
+        "e": "Actina exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a membrana plasmática do neurônio é composta, em cerca de metade de sua estrutura, por uma bicamada de: Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios."
+    },
+    {
+      "id": "neuro-obj-399",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as extremidades das moléculas de fosfolipídios que compõem a membrana do neurônio são classificadas como hidrofílicas (voltadas para os meios aquosos) e:",
+      "options": {
+        "a": "Hidrofóbicas (repelentes de água)",
+        "b": "Eletronegativas exclusivamente",
+        "c": "Radioativas",
+        "d": "Termorreceptoras",
+        "e": "Fotorreceptoras"
+      },
+      "correct": "a",
+      "explanation": "Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, as extremidades das moléculas de fosfolipídios que compõem a membrana do neurônio são classificadas como hidrofílicas (voltadas para os meios aquosos) e: Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água)."
+    },
+    {
+      "id": "neuro-obj-400",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as proteínas embutidas na bicamada lipídica da membrana do neurônio podem formar canais que permitem a passagem de íons, sendo essa ação o mecanismo fundamental que determina:",
+      "options": {
+        "a": "A excitabilidade e o padrão de atividade elétrica do neurônio",
+        "b": "Exclusivamente a cor da substância cinzenta",
+        "c": "Exclusivamente a velocidade de crescimento do axônio durante o desenvolvimento",
+        "d": "Exclusivamente a formação da bainha de mielina",
+        "e": "Exclusivamente a produção de neurotransmissores excitatórios"
+      },
+      "correct": "a",
+      "explanation": "As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as proteínas embutidas na bicamada lipídica da membrana do neurônio podem formar canais que permitem a passagem de íons, sendo essa ação o mecanismo fundamental que determina: As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio."
+    },
+    {
+      "id": "neuro-obj-401",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, na sinapse química, os neurotransmissores são liberados na finalização pré-sináptica, cruzam a fenda sináptica e se ligam a receptores localizados:",
+      "options": {
+        "a": "Na terminação pós-sináptica de um dendrito",
+        "b": "Exclusivamente no núcleo do neurônio pré-sináptico",
+        "c": "Exclusivamente na bainha de mielina",
+        "d": "Exclusivamente no corpo celular do neurônio pré-sináptico",
+        "e": "Exclusivamente nas células gliais satélites"
+      },
+      "correct": "a",
+      "explanation": "Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na sinapse química, os neurotransmissores são liberados na finalização pré-sináptica, cruzam a fenda sináptica e se ligam a receptores localizados: Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito."
+    },
+    {
+      "id": "neuro-obj-402",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os neurotransmissores liberados em uma sinapse química podem excitar o neurônio pós-sináptico, gerando um potencial de ação, ou podem:",
+      "options": {
+        "a": "Inibir o neurônio pós-sináptico, impedindo a geração de um potencial de ação",
+        "b": "Formar diretamente uma nova bainha de mielina",
+        "c": "Substituir permanentemente os receptores da membrana pós-sináptica",
+        "d": "Transformar o neurônio pós-sináptico em uma célula glial",
+        "e": "Aumentar permanentemente o diâmetro do axônio pós-sináptico"
+      },
+      "correct": "a",
+      "explanation": "Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os neurotransmissores liberados em uma sinapse química podem excitar o neurônio pós-sináptico, gerando um potencial de ação, ou podem: Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação."
+    },
+    {
+      "id": "neuro-obj-403",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, as sinapses elétricas, diferentemente das sinapses químicas, ocorrem quando dois neurônios são conectados por uma junção de lacuna, sendo uma característica dessas sinapses:",
+      "options": {
+        "a": "Serem muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro",
+        "b": "Utilizarem exclusivamente neurotransmissores como a acetilcolina",
+        "c": "Ocorrerem exclusivamente entre neurônios sensoriais e motores",
+        "d": "Serem mais lentas do que as sinapses químicas em todas as situações",
+        "e": "Não permitirem qualquer forma de comunicação entre neurônios"
+      },
+      "correct": "a",
+      "explanation": "As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, as sinapses elétricas, diferentemente das sinapses químicas, ocorrem quando dois neurônios são conectados por uma junção de lacuna, sendo uma característica dessas sinapses: As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão."
+    },
+    {
+      "id": "neuro-obj-404",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, o espaço localizado entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde ocorre a passagem do impulso nervoso, é denominado:",
+      "options": {
+        "a": "Sinapse",
+        "b": "Nódulo de Ranvier",
+        "c": "Citoplasma",
+        "d": "Dendrito",
+        "e": "Axônio"
+      },
+      "correct": "a",
+      "explanation": "O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "10",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o espaço localizado entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde ocorre a passagem do impulso nervoso, é denominado: O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse."
+    },
+    {
+      "id": "neuro-obj-405",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, dentre as funções dos astrócitos relacionadas à homeostase do Sistema Nervoso Central, destaca-se a capacidade de:",
+      "options": {
+        "a": "Nutrir os neurônios, transferindo nutrientes do sangue por meio de seus prolongamentos que circundam os vasos sanguíneos",
+        "b": "Conduzir o impulso nervoso pelo organismo",
+        "c": "Formar a bainha de mielina ao redor dos axônios",
+        "d": "Atuar exclusivamente na defesa imune do Sistema Nervoso Central",
+        "e": "Revestir exclusivamente os neurônios sensoriais"
+      },
+      "correct": "a",
+      "explanation": "Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "10-11",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, dentre as funções dos astrócitos relacionadas à homeostase do Sistema Nervoso Central, destaca-se a capacidade de: Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios."
+    },
+    {
+      "id": "neuro-obj-406",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, o citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de:",
+      "options": {
+        "a": "Tubulina",
+        "b": "Queratina",
+        "c": "Colágeno",
+        "d": "Mielina",
+        "e": "Glicocálice"
+      },
+      "correct": "a",
+      "explanation": "O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8-9",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de: O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina."
+    },
+    {
+      "id": "neuro-obj-407",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, o tecido nervoso, uma das quatro classes principais de tecidos, é composto por duas categorias de células: os neurônios e:",
+      "options": {
+        "a": "A neuroglia (células de suporte)",
+        "b": "Os osteócitos",
+        "c": "Os condrócitos",
+        "d": "Os miócitos",
+        "e": "Os hepatócitos"
+      },
+      "correct": "a",
+      "explanation": "O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o tecido nervoso, uma das quatro classes principais de tecidos, é composto por duas categorias de células: os neurônios e: O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte)."
+    },
+    {
+      "id": "neuro-obj-408",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, quando um neurônio envia uma mensagem a outro, o sinal elétrico percorre o axônio e, ao chegar ao seu final, se transforma em um sinal:",
+      "options": {
+        "a": "Químico",
+        "b": "Magnético",
+        "c": "Térmico",
+        "d": "Sonoro",
+        "e": "Mecânico exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "4",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando um neurônio envia uma mensagem a outro, o sinal elétrico percorre o axônio e, ao chegar ao seu final, se transforma em um sinal: Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico."
+    },
+    {
+      "id": "neuro-obj-409",
+      "topic": "Neurônios e neuroglia",
+      "question": "Segundo o material, os feixes de axônios espalhados pelo corpo, que permitem a comunicação entre neurônios mesmo a longas distâncias, são chamados de:",
+      "options": {
+        "a": "Nervos",
+        "b": "Gânglios",
+        "c": "Núcleos",
+        "d": "Sinapses",
+        "e": "Dendritos"
+      },
+      "correct": "a",
+      "explanation": "Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "3",
+        "citation": "BEAR; CONNORS; PARADISO, 2017"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, os feixes de axônios espalhados pelo corpo, que permitem a comunicação entre neurônios mesmo a longas distâncias, são chamados de: Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias."
+    },
+    {
+      "id": "neuro-obj-410",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o sistema nervoso possui três funções amplas: entrada sensorial, processamento de informações e:",
+      "options": {
+        "a": "Saída motora",
+        "b": "Regulação hormonal exclusiva",
+        "c": "Produção de anticorpos",
+        "d": "Digestão exclusiva",
+        "e": "Termorregulação exclusiva"
+      },
+      "correct": "a",
+      "explanation": "O sistema nervoso tem três funções amplas: entrada sensorial, processamento de informações e saída motora.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o sistema nervoso possui três funções amplas: entrada sensorial, processamento de informações e: O sistema nervoso tem três funções amplas: entrada sensorial, processamento de informações e saída motora."
+    },
+    {
+      "id": "neuro-obj-411",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, é chamada de:",
+      "options": {
+        "a": "Entrada sensorial",
+        "b": "Produção motora",
+        "c": "Integração exclusivamente",
+        "d": "Homeostase exclusivamente",
+        "e": "Neurotransmissão exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "A entrada sensorial é a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, como toque ou temperatura.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, é chamada de: A entrada sensorial é a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, como toque ou temperatura."
+    },
+    {
+      "id": "neuro-obj-412",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a divisão do sistema nervoso é considerada puramente didática, pois:",
+      "options": {
+        "a": "As partes estão intimamente relacionadas do ponto de vista morfofisiológico",
+        "b": "Cada divisão funciona de maneira totalmente independente das demais",
+        "c": "Não existem critérios anatômicos ou funcionais para dividi-lo",
+        "d": "O sistema nervoso central não se relaciona com o periférico",
+        "e": "Apenas o critério embriológico é válido cientificamente"
+      },
+      "correct": "a",
+      "explanation": "A divisão do sistema nervoso é puramente didática, visto que as partes estão intimamente relacionadas do ponto de vista morfofisiológico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a divisão do sistema nervoso é considerada puramente didática, pois: A divisão do sistema nervoso é puramente didática, visto que as partes estão intimamente relacionadas do ponto de vista morfofisiológico."
+    },
+    {
+      "id": "neuro-obj-413",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Central pode ser amplamente subdividido em centros inferiores, que incluem a medula espinhal e o tronco cerebral, e centros superiores, localizados:",
+      "options": {
+        "a": "Dentro do cérebro, controlando o processamento de informações mais sofisticado, incluindo pensamentos e percepções",
+        "b": "Exclusivamente no cerebelo",
+        "c": "Exclusivamente nos nervos espinhais",
+        "d": "Exclusivamente nos gânglios periféricos",
+        "e": "Exclusivamente na medula adrenal"
+      },
+      "correct": "a",
+      "explanation": "Os centros inferiores incluem a medula espinhal e o tronco cerebral, realizando funções essenciais de controle do corpo; os centros superiores estão dentro do cérebro, controlando o processamento de informações mais sofisticado, como pensamentos e percepções.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Central pode ser amplamente subdividido em centros inferiores, que incluem a medula espinhal e o tronco cerebral, e centros superiores, localizados: Os centros inferiores incluem a medula espinhal e o tronco cerebral, realizando funções essenciais de controle do corpo; os centros superiores estão dentro do cérebro, controlando o processamento de informações mais sofisticado, como pensamentos e percepções."
+    },
+    {
+      "id": "neuro-obj-414",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, por convenção, um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de:",
+      "options": {
+        "a": "Gânglio",
+        "b": "Trato",
+        "c": "Fascículo",
+        "d": "Plexo exclusivamente sensorial",
+        "e": "Sinapse"
+      },
+      "correct": "a",
+      "explanation": "Um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de gânglio.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, por convenção, um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de: Um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de gânglio."
+    },
+    {
+      "id": "neuro-obj-415",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, uma exceção notável à regra de que agrupamentos neuronais na periferia são chamados de gânglios é constituída pelos:",
+      "options": {
+        "a": "Gânglios da base",
+        "b": "Núcleos cranianos",
+        "c": "Núcleos do tálamo",
+        "d": "Corpos de Nissl",
+        "e": "Nódulos de Ranvier"
+      },
+      "correct": "a",
+      "explanation": "Existem exceções notáveis à regra de nomenclatura núcleo/gânglio, incluindo os gânglios da base, uma estrutura localizada no cérebro (prosencéfalo), e não na periferia.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, uma exceção notável à regra de que agrupamentos neuronais na periferia são chamados de gânglios é constituída pelos: Existem exceções notáveis à regra de nomenclatura núcleo/gânglio, incluindo os gânglios da base, uma estrutura localizada no cérebro (prosencéfalo), e não na periferia."
+    },
+    {
+      "id": "neuro-obj-416",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a substância cinzenta contém uma proporção relativamente alta de corpos celulares de neurônios, sendo cinza no tecido preservado, mas apresentando qual coloração no tecido vivo?",
+      "options": {
+        "a": "Rosa ou marrom-claro",
+        "b": "Azul intenso",
+        "c": "Verde",
+        "d": "Amarelo brilhante",
+        "e": "Preto"
+      },
+      "correct": "a",
+      "explanation": "A substância cinzenta é cinza no tecido preservado, mas rosa ou marrom-claro no tecido vivo, contendo alta proporção de corpos celulares de neurônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a substância cinzenta contém uma proporção relativamente alta de corpos celulares de neurônios, sendo cinza no tecido preservado, mas apresentando qual coloração no tecido vivo? A substância cinzenta é cinza no tecido preservado, mas rosa ou marrom-claro no tecido vivo, contendo alta proporção de corpos celulares de neurônios."
+    },
+    {
+      "id": "neuro-obj-417",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a substância branca é composta principalmente de axônios, recebendo esse nome devido à cor do isolamento de gordura chamado:",
+      "options": {
+        "a": "Mielina",
+        "b": "Colágeno",
+        "c": "Queratina",
+        "d": "Elastina",
+        "e": "Glicocálice"
+      },
+      "correct": "a",
+      "explanation": "A substância branca é composta principalmente de axônios e recebe esse nome devido à cor do isolamento de gordura chamado mielina, que reveste muitos axônios.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a substância branca é composta principalmente de axônios, recebendo esse nome devido à cor do isolamento de gordura chamado: A substância branca é composta principalmente de axônios e recebe esse nome devido à cor do isolamento de gordura chamado mielina, que reveste muitos axônios."
+    },
+    {
+      "id": "neuro-obj-418",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Periférico é uma vasta rede de nervos formada por feixes de axônios que ligam o corpo:",
+      "options": {
+        "a": "Ao cérebro e à medula espinhal",
+        "b": "Exclusivamente ao coração",
+        "c": "Exclusivamente ao sistema digestivo",
+        "d": "Exclusivamente aos músculos esqueléticos",
+        "e": "Exclusivamente às glândulas endócrinas"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Periférico (SNP) é uma vasta rede de nervos que consiste em feixes de axônios que ligam o corpo ao cérebro e à medula espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é uma vasta rede de nervos formada por feixes de axônios que ligam o corpo: O Sistema Nervoso Periférico (SNP) é uma vasta rede de nervos que consiste em feixes de axônios que ligam o corpo ao cérebro e à medula espinhal."
+    },
+    {
+      "id": "neuro-obj-419",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a informação captada pelos receptores sensoriais do SNP é enviada ao SNC por meio dos nervos sensoriais:",
+      "options": {
+        "a": "Aferentes",
+        "b": "Eferentes",
+        "c": "Simpáticos exclusivamente",
+        "d": "Entéricos exclusivamente",
+        "e": "Motores exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os nervos sensoriais do SNP contêm receptores sensoriais que detectam mudanças no ambiente; essa informação é enviada ao SNC por meio dos nervos sensoriais aferentes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a informação captada pelos receptores sensoriais do SNP é enviada ao SNC por meio dos nervos sensoriais: Os nervos sensoriais do SNP contêm receptores sensoriais que detectam mudanças no ambiente; essa informação é enviada ao SNC por meio dos nervos sensoriais aferentes."
+    },
+    {
+      "id": "neuro-obj-420",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos:",
+      "options": {
+        "a": "Eferentes",
+        "b": "Aferentes",
+        "c": "Sensoriais exclusivamente",
+        "d": "Entéricos exclusivamente",
+        "e": "Vagais exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos eferentes.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos: Após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos eferentes."
+    },
+    {
+      "id": "neuro-obj-421",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Periférico é subdividido em Sistema Nervoso Autônomo (SNA) e:",
+      "options": {
+        "a": "Sistema Nervoso Somático (SNS)",
+        "b": "Sistema Nervoso Entérico exclusivamente",
+        "c": "Sistema Límbico",
+        "d": "Sistema Nervoso Central",
+        "e": "Sistema Reticular Ativador"
+      },
+      "correct": "a",
+      "explanation": "O SNP é subdividido em Sistema Nervoso Autônomo (SNA), com controle involuntário, e Sistema Nervoso Somático (SNS), com controle voluntário via músculo esquelético.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é subdividido em Sistema Nervoso Autônomo (SNA) e: O SNP é subdividido em Sistema Nervoso Autônomo (SNA), com controle involuntário, e Sistema Nervoso Somático (SNS), com controle voluntário via músculo esquelético."
+    },
+    {
+      "id": "neuro-obj-422",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Autônomo tem controle involuntário sobre órgãos internos, vasos sanguíneos e músculos lisos e cardíacos, afetando, entre outras funções:",
+      "options": {
+        "a": "A frequência cardíaca, a digestão, a frequência respiratória, a salivação e a excitação sexual",
+        "b": "Exclusivamente a contração dos músculos esqueléticos voluntários",
+        "c": "Exclusivamente a memória de longo prazo",
+        "d": "Exclusivamente a produção de linguagem verbal",
+        "e": "Exclusivamente o aprendizado motor consciente"
+      },
+      "correct": "a",
+      "explanation": "O SNA afeta a frequência cardíaca, digestão, frequência respiratória, salivação, transpiração, diâmetro da pupila, micção e excitação sexual.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo tem controle involuntário sobre órgãos internos, vasos sanguíneos e músculos lisos e cardíacos, afetando, entre outras funções: O SNA afeta a frequência cardíaca, digestão, frequência respiratória, salivação, transpiração, diâmetro da pupila, micção e excitação sexual."
+    },
+    {
+      "id": "neuro-obj-423",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Autônomo é classicamente dividido em dois subsistemas: o Sistema Nervoso Simpático e o:",
+      "options": {
+        "a": "Sistema Nervoso Parassimpático",
+        "b": "Sistema Nervoso Somático",
+        "c": "Sistema Nervoso Entérico exclusivamente",
+        "d": "Sistema Límbico",
+        "e": "Sistema Reticular"
+      },
+      "correct": "a",
+      "explanation": "O SNA é classicamente dividido em dois subsistemas: o Sistema Nervoso Parassimpático (SNPS) e o Sistema Nervoso Simpático (SNS).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo é classicamente dividido em dois subsistemas: o Sistema Nervoso Simpático e o: O SNA é classicamente dividido em dois subsistemas: o Sistema Nervoso Parassimpático (SNPS) e o Sistema Nervoso Simpático (SNS)."
+    },
+    {
+      "id": "neuro-obj-424",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo:",
+      "options": {
+        "a": "Excitação sexual, salivação, lacrimejamento, micção, digestão e defecação",
+        "b": "Exclusivamente a aceleração da frequência cardíaca",
+        "c": "Exclusivamente a dilatação da pupila (midríase)",
+        "d": "Exclusivamente a constrição de vasos sanguíneos periféricos",
+        "e": "Exclusivamente a liberação de adrenalina pela medula suprarrenal"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo excitação sexual, salivação, lacrimejamento, micção, digestão e defecação.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo: O Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo excitação sexual, salivação, lacrimejamento, micção, digestão e defecação."
+    },
+    {
+      "id": "neuro-obj-425",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Simpático é responsável por estimular as atividades associadas à resposta de:",
+      "options": {
+        "a": "'Lutar ou fugir'",
+        "b": "'Repouso e digestão'",
+        "c": "Sono profundo exclusivamente",
+        "d": "Memória de longo prazo exclusivamente",
+        "e": "Aprendizagem motora exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Simpático é responsável por estimular atividades associadas à resposta de 'lutar ou fugir', mobilizando os sistemas do corpo para escapar ou atacar fontes de perigo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Simpático é responsável por estimular as atividades associadas à resposta de: O Sistema Nervoso Simpático é responsável por estimular atividades associadas à resposta de 'lutar ou fugir', mobilizando os sistemas do corpo para escapar ou atacar fontes de perigo."
+    },
+    {
+      "id": "neuro-obj-426",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Entérico (SNE), responsável por controlar o sistema gastrointestinal, apresenta como característica particular o fato de:",
+      "options": {
+        "a": "Poder operar independentemente do cérebro e da medula espinhal",
+        "b": "Depender exclusivamente e diretamente do córtex cerebral para funcionar",
+        "c": "Não possuir qualquer relação com o Sistema Nervoso Autônomo",
+        "d": "Ser exclusivamente responsável pela visão e pela audição",
+        "e": "Estar localizado exclusivamente no tronco encefálico"
+      },
+      "correct": "a",
+      "explanation": "O Sistema Nervoso Entérico controla o sistema gastrointestinal e pode ser considerado parte do SNA ou um sistema independente, já que pode operar independentemente do cérebro e da medula espinhal.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Entérico (SNE), responsável por controlar o sistema gastrointestinal, apresenta como característica particular o fato de: O Sistema Nervoso Entérico controla o sistema gastrointestinal e pode ser considerado parte do SNA ou um sistema independente, já que pode operar independentemente do cérebro e da medula espinhal."
+    },
+    {
+      "id": "neuro-obj-427",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, no Sistema Nervoso Periférico, os feixes de axônios são chamados de nervos, enquanto no Sistema Nervoso Central esses feixes são chamados de:",
+      "options": {
+        "a": "Tratos",
+        "b": "Gânglios",
+        "c": "Fascículos exclusivamente",
+        "d": "Plexos exclusivamente",
+        "e": "Núcleos"
+      },
+      "correct": "a",
+      "explanation": "No SNC, os feixes de axônios são chamados de tratos, enquanto no SNP são chamados de nervos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no Sistema Nervoso Periférico, os feixes de axônios são chamados de nervos, enquanto no Sistema Nervoso Central esses feixes são chamados de: No SNC, os feixes de axônios são chamados de tratos, enquanto no SNP são chamados de nervos."
+    },
+    {
+      "id": "neuro-obj-428",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, cada nervo periférico é coberto externamente por uma densa bainha de tecido conjuntivo denominada:",
+      "options": {
+        "a": "Epineuro",
+        "b": "Perineuro",
+        "c": "Endoneuro",
+        "d": "Glicocálice",
+        "e": "Neurilema"
+      },
+      "correct": "a",
+      "explanation": "Cada nervo é coberto externamente por uma densa bainha de tecido conjuntivo, o epineuro.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, cada nervo periférico é coberto externamente por uma densa bainha de tecido conjuntivo denominada: Cada nervo é coberto externamente por uma densa bainha de tecido conjuntivo, o epineuro."
+    },
+    {
+      "id": "neuro-obj-429",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o perineuro forma uma manga completa em torno de um feixe de axônios chamado de:",
+      "options": {
+        "a": "Fascículo",
+        "b": "Gânglio",
+        "c": "Trato",
+        "d": "Plexo",
+        "e": "Núcleo"
+      },
+      "correct": "a",
+      "explanation": "Subjacente ao epineuro, o perineuro forma uma manga completa em torno de um feixe de axônios chamados de fascículos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o perineuro forma uma manga completa em torno de um feixe de axônios chamado de: Subjacente ao epineuro, o perineuro forma uma manga completa em torno de um feixe de axônios chamados de fascículos."
+    },
+    {
+      "id": "neuro-obj-430",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o nervo mais longo do corpo humano, que vai da base da medula espinhal ao dedão de cada pé, é o nervo:",
+      "options": {
+        "a": "Ciático",
+        "b": "Vago",
+        "c": "Trigêmeo",
+        "d": "Facial",
+        "e": "Óptico"
+      },
+      "correct": "a",
+      "explanation": "Os axônios mais longos do corpo humano são os do nervo ciático, que vão da base da medula espinhal ao dedão de cada pé.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o nervo mais longo do corpo humano, que vai da base da medula espinhal ao dedão de cada pé, é o nervo: Os axônios mais longos do corpo humano são os do nervo ciático, que vão da base da medula espinhal ao dedão de cada pé."
+    },
+    {
+      "id": "neuro-obj-431",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, existem 12 pares de nervos cranianos e quantos pares de nervos espinhais?",
+      "options": {
+        "a": "31 pares",
+        "b": "12 pares",
+        "c": "24 pares",
+        "d": "8 pares",
+        "e": "42 pares"
+      },
+      "correct": "a",
+      "explanation": "Existem 12 pares de nervos cranianos e 31 pares de nervos espinhais no Sistema Nervoso Periférico.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "17"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, existem 12 pares de nervos cranianos e quantos pares de nervos espinhais? Existem 12 pares de nervos cranianos e 31 pares de nervos espinhais no Sistema Nervoso Periférico."
+    },
+    {
+      "id": "neuro-obj-432",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente:",
+      "options": {
+        "a": "Ao tronco cerebral",
+        "b": "Ao cerebelo exclusivamente",
+        "c": "Ao hipotálamo exclusivamente",
+        "d": "Ao corpo caloso exclusivamente",
+        "e": "Aos gânglios da base exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente ao tronco cerebral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "17"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente: Os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente ao tronco cerebral."
+    },
+    {
+      "id": "neuro-obj-433",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o potencial de membrana em repouso de um neurônio é de aproximadamente:",
+      "options": {
+        "a": "-70mV",
+        "b": "0mV",
+        "c": "+40mV",
+        "d": "-140mV",
+        "e": "+70mV"
+      },
+      "correct": "a",
+      "explanation": "O potencial de membrana em repouso de um neurônio é de cerca de -70mV, significando que o interior do neurônio é 70mV menor que o exterior.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "18"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o potencial de membrana em repouso de um neurônio é de aproximadamente: O potencial de membrana em repouso de um neurônio é de cerca de -70mV, significando que o interior do neurônio é 70mV menor que o exterior."
+    },
+    {
+      "id": "neuro-obj-434",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, quando a despolarização de um neurônio atinge cerca de -55mV, ocorre o disparo de um potencial de ação; esse valor é chamado de:",
+      "options": {
+        "a": "Limiar",
+        "b": "Potencial de repouso",
+        "c": "Hiperpolarização",
+        "d": "Repolarização",
+        "e": "Potencial de placa"
+      },
+      "correct": "a",
+      "explanation": "Quando a despolarização atinge cerca de -55mV, um neurônio dispara um potencial de ação; esse é o limiar, o nível crítico necessário para o disparo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando a despolarização de um neurônio atinge cerca de -55mV, ocorre o disparo de um potencial de ação; esse valor é chamado de: Quando a despolarização atinge cerca de -55mV, um neurônio dispara um potencial de ação; esse é o limiar, o nível crítico necessário para o disparo."
+    },
+    {
+      "id": "neuro-obj-435",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o princípio segundo o qual o estímulo é suficientemente intenso para excitar o neurônio e desencadear um potencial de ação de tamanho sempre igual, ou nada acontece, é conhecido como:",
+      "options": {
+        "a": "Princípio do tudo ou nada",
+        "b": "Lei do limiar exclusivamente",
+        "c": "Lei da latência",
+        "d": "Princípio da somação temporal",
+        "e": "Princípio da inibição lateral"
+      },
+      "correct": "a",
+      "explanation": "A estimulação de um neurônio segue a lei do tudo ou nada: ou o estímulo é suficientemente intenso para desencadear o potencial de ação (de tamanho sempre igual), ou nada acontece.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o princípio segundo o qual o estímulo é suficientemente intenso para excitar o neurônio e desencadear um potencial de ação de tamanho sempre igual, ou nada acontece, é conhecido como: A estimulação de um neurônio segue a lei do tudo ou nada: ou o estímulo é suficientemente intenso para desencadear o potencial de ação (de tamanho sempre igual), ou nada acontece."
+    },
+    {
+      "id": "neuro-obj-436",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, o Sistema Nervoso Central é formado pelo encéfalo e pela medula espinhal, enquanto o Sistema Nervoso Periférico é constituído por:",
+      "options": {
+        "a": "Nervos e gânglios nervosos",
+        "b": "Exclusivamente pelo cerebelo",
+        "c": "Exclusivamente pelo diencéfalo",
+        "d": "Exclusivamente por neurotransmissores",
+        "e": "Exclusivamente pelo tronco encefálico"
+      },
+      "correct": "a",
+      "explanation": "O SNC é formado pelo encéfalo e a medula espinhal, enquanto o SNP é constituído pelos nervos e gânglios nervosos.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "20-21"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o material, o Sistema Nervoso Central é formado pelo encéfalo e pela medula espinhal, enquanto o Sistema Nervoso Periférico é constituído por: O SNC é formado pelo encéfalo e a medula espinhal, enquanto o SNP é constituído pelos nervos e gânglios nervosos."
+    },
+    {
+      "id": "neuro-obj-437",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, quando um estímulo faz com que os canais de sódio se abram, os íons de sódio invadem o neurônio, tornando-o mais positivo; esse processo é denominado:",
+      "options": {
+        "a": "Despolarização",
+        "b": "Repolarização",
+        "c": "Hiperpolarização",
+        "d": "Polarização",
+        "e": "Potencial de repouso"
+      },
+      "correct": "a",
+      "explanation": "Um estímulo faz com que os canais de sódio se abram; como o sódio tem carga positiva e invade o neurônio, este se torna mais positivo, processo chamado de despolarização.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando um estímulo faz com que os canais de sódio se abram, os íons de sódio invadem o neurônio, tornando-o mais positivo; esse processo é denominado: Um estímulo faz com que os canais de sódio se abram; como o sódio tem carga positiva e invade o neurônio, este se torna mais positivo, processo chamado de despolarização."
+    },
+    {
+      "id": "neuro-obj-438",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, quando os canais de potássio se abrem e o potássio sai da célula, revertendo a despolarização e retornando o potencial ao valor próximo de -70mV, esse processo é chamado de:",
+      "options": {
+        "a": "Repolarização",
+        "b": "Despolarização",
+        "c": "Polarização inicial",
+        "d": "Potencial de ação sublimiar",
+        "e": "Excitação pós-sináptica"
+      },
+      "correct": "a",
+      "explanation": "A abertura dos canais de potássio faz com que o potássio saia da célula, revertendo a despolarização; isso faz com que o potencial de ação volte para -70mV, processo chamado de repolarização.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando os canais de potássio se abrem e o potássio sai da célula, revertendo a despolarização e retornando o potencial ao valor próximo de -70mV, esse processo é chamado de: A abertura dos canais de potássio faz com que o potássio saia da célula, revertendo a despolarização; isso faz com que o potencial de ação volte para -70mV, processo chamado de repolarização."
+    },
+    {
+      "id": "neuro-obj-439",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, a resposta motora voluntária, ligada à contração do músculo esquelético, é governada pelo Sistema Nervoso Somático, enquanto as respostas involuntárias são governadas pelo:",
+      "options": {
+        "a": "Sistema Nervoso Autônomo",
+        "b": "Sistema Nervoso Central exclusivamente",
+        "c": "Sistema límbico exclusivamente",
+        "d": "Cerebelo exclusivamente",
+        "e": "Córtex motor exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "As respostas voluntárias são governadas pelo Sistema Nervoso Somático, e as respostas involuntárias, pelo Sistema Nervoso Autônomo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "32-33"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a resposta motora voluntária, ligada à contração do músculo esquelético, é governada pelo Sistema Nervoso Somático, enquanto as respostas involuntárias são governadas pelo: As respostas voluntárias são governadas pelo Sistema Nervoso Somático, e as respostas involuntárias, pelo Sistema Nervoso Autônomo."
+    },
+    {
+      "id": "neuro-obj-440",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, quando a informação sensorial surge de receptores localizados na pele, em músculos esqueléticos ou articulações, ela é classificada como informação sensorial:",
+      "options": {
+        "a": "Somática",
+        "b": "Visceral",
+        "c": "Entérica exclusivamente",
+        "d": "Autônoma exclusivamente",
+        "e": "Motora exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Quando a informação sensorial surge de receptores na pele, músculos esqueléticos ou articulações, entende-se por informação sensorial somática.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "32"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando a informação sensorial surge de receptores localizados na pele, em músculos esqueléticos ou articulações, ela é classificada como informação sensorial: Quando a informação sensorial surge de receptores na pele, músculos esqueléticos ou articulações, entende-se por informação sensorial somática."
+    },
+    {
+      "id": "neuro-obj-441",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Segundo o material, quando a informação sensorial surge de receptores localizados nos vasos sanguíneos ou órgãos internos, ela é classificada como informação sensorial:",
+      "options": {
+        "a": "Visceral",
+        "b": "Somática",
+        "c": "Cranial exclusivamente",
+        "d": "Periférica exclusivamente",
+        "e": "Aferente exclusivamente sem outra classificação"
+      },
+      "correct": "a",
+      "explanation": "Quando a informação sensorial surge de receptores sensoriais nos vasos sanguíneos ou órgãos internos, entende-se por informação sensorial visceral.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "32"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando a informação sensorial surge de receptores localizados nos vasos sanguíneos ou órgãos internos, ela é classificada como informação sensorial: Quando a informação sensorial surge de receptores sensoriais nos vasos sanguíneos ou órgãos internos, entende-se por informação sensorial visceral."
     }
   ],
   "discursive": [
@@ -13139,6 +14602,680 @@
       },
       "subject": "Vascularização do SNC",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-116",
+      "topic": "Neurônios e neuroglia",
+      "question": "Descreva as três estruturas básicas de um neurônio típico e a função de cada uma delas.",
+      "modelAnswer": "Os dendritos recebem sinais de outros neurônios, funcionando como região de entrada receptiva. O corpo celular é o principal centro biossintético, produzindo proteínas e contendo organelas especializadas. O axônio é a região condutora do neurônio, responsável por gerar e transmitir impulsos nervosos para outro neurônio ou órgão efetor.",
+      "keyPoints": [
+        {
+          "text": "Dendritos: recebem sinais (entrada receptiva)",
+          "weight": 0.34,
+          "keywords": [
+            "dendritos",
+            "recebem"
+          ]
+        },
+        {
+          "text": "Corpo celular: centro biossintético, produz proteínas",
+          "weight": 0.33,
+          "keywords": [
+            "corpo celular",
+            "biossintético"
+          ]
+        },
+        {
+          "text": "Axônio: conduz e transmite impulsos",
+          "weight": 0.33,
+          "keywords": [
+            "axônio",
+            "conduz"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-117",
+      "topic": "Neurônios e neuroglia",
+      "question": "Cite os seis tipos de neuroglia mencionados no material, indicando em qual divisão do sistema nervoso (SNC ou SNP) cada um se encontra.",
+      "modelAnswer": "No SNC: astrócitos, células microgliais, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann.",
+      "keyPoints": [
+        {
+          "text": "SNC: astrócitos, microgliais, ependimárias, oligodendrócitos",
+          "weight": 0.6,
+          "keywords": [
+            "astrócitos",
+            "microgliais",
+            "ependimárias",
+            "oligodendrócitos"
+          ]
+        },
+        {
+          "text": "SNP: células satélites e células de Schwann",
+          "weight": 0.4,
+          "keywords": [
+            "satélites",
+            "Schwann"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-118",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique a função dos astrócitos no Sistema Nervoso Central.",
+      "modelAnswer": "Os astrócitos têm formato de estrela, são as células gliais mais abundantes do SNC, participam da barreira hematoencefálica e regulam a homeostase cerebral. Sustentam e protegem os neurônios, ancorando-os às linhas de suprimento de nutrientes, ajudam a orientar a migração de jovens neurônios e controlam o ambiente químico ao redor dos neurônios.",
+      "keyPoints": [
+        {
+          "text": "Participam da barreira hematoencefálica e regulam homeostase",
+          "weight": 0.4,
+          "keywords": [
+            "barreira hematoencefálica",
+            "homeostase"
+          ]
+        },
+        {
+          "text": "Sustentam, protegem e nutrem os neurônios",
+          "weight": 0.6,
+          "keywords": [
+            "sustentam",
+            "protegem",
+            "nutrem"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-119",
+      "topic": "Neurônios e neuroglia",
+      "question": "Diferencie os neurônios motores superiores dos neurônios motores inferiores.",
+      "modelAnswer": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos, sendo, portanto, mais próximos do órgão efetor.",
+      "keyPoints": [
+        {
+          "text": "Superiores: entre cérebro e medula espinhal",
+          "weight": 0.5,
+          "keywords": [
+            "superiores",
+            "cérebro",
+            "medula"
+          ]
+        },
+        {
+          "text": "Inferiores: da medula espinhal para os músculos",
+          "weight": 0.5,
+          "keywords": [
+            "inferiores",
+            "músculos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-120",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique o papel dos interneurônios, utilizando o exemplo de uma pessoa que toca em algo quente.",
+      "modelAnswer": "Os interneurônios são intermediários neurais que passam sinais de neurônios sensoriais para neurônios motores e outros interneurônios. No exemplo, os neurônios sensoriais dos dedos enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam um sinal ao centro de dor no cérebro, gerando a sensação de dor.",
+      "keyPoints": [
+        {
+          "text": "Interneurônios conectam sensoriais a motores/outros interneurônios",
+          "weight": 0.4,
+          "keywords": [
+            "conectam",
+            "sensoriais",
+            "motores"
+          ]
+        },
+        {
+          "text": "Exemplo: retirar a mão (motor) e sentir dor (cérebro)",
+          "weight": 0.6,
+          "keywords": [
+            "retirar a mão",
+            "dor"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-121",
+      "topic": "Neurônios e neuroglia",
+      "question": "Descreva o processo de comunicação em uma sinapse química, desde o potencial de ação até a chegada do sinal ao neurônio seguinte.",
+      "modelAnswer": "O potencial de ação é transportado ao longo do axônio até a finalização pré-sináptica, desencadeando a liberação de neurotransmissores. Essas moléculas cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito, podendo excitar o neurônio pós-sináptico (gerando um novo potencial de ação) ou inibi-lo.",
+      "keyPoints": [
+        {
+          "text": "Potencial de ação chega à finalização pré-sináptica e libera neurotransmissores",
+          "weight": 0.4,
+          "keywords": [
+            "neurotransmissores",
+            "pré-sináptica"
+          ]
+        },
+        {
+          "text": "Cruzam a fenda sináptica e se ligam a receptores pós-sinápticos",
+          "weight": 0.3,
+          "keywords": [
+            "fenda sináptica",
+            "receptores"
+          ]
+        },
+        {
+          "text": "Podem excitar ou inibir o neurônio pós-sináptico",
+          "weight": 0.3,
+          "keywords": [
+            "excitar",
+            "inibir"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-122",
+      "topic": "Neurônios e neuroglia",
+      "question": "Compare as sinapses químicas e as sinapses elétricas quanto à velocidade e à eficácia da transmissão.",
+      "modelAnswer": "As sinapses elétricas ocorrem por junções de lacuna e permitem transmissão direta e muito mais rápida do sinal elétrico, mas apenas de forma excitatória, e o sinal diminui de um neurônio para o outro, tornando-as menos eficazes. As sinapses químicas, por dependerem da liberação e ligação de neurotransmissores, são mais lentas, mas podem ser excitatórias ou inibitórias.",
+      "keyPoints": [
+        {
+          "text": "Elétricas: mais rápidas, mas o sinal diminui e só excitam",
+          "weight": 0.5,
+          "keywords": [
+            "elétricas",
+            "rápidas",
+            "excitam"
+          ]
+        },
+        {
+          "text": "Químicas: mais lentas, podem excitar ou inibir",
+          "weight": 0.5,
+          "keywords": [
+            "químicas",
+            "lentas",
+            "inibir"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-123",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique a função das células de Schwann e dos oligodendrócitos, destacando em qual parte do sistema nervoso cada uma atua.",
+      "modelAnswer": "As células de Schwann, encontradas no Sistema Nervoso Periférico, envolvem as fibras nervosas formando bainhas de mielina, aumentando a velocidade de propagação do impulso. Os oligodendrócitos desempenham função semelhante, mas no Sistema Nervoso Central, alinhando-se ao longo dos nervos e produzindo a capa isolante de mielina.",
+      "keyPoints": [
+        {
+          "text": "Células de Schwann: SNP, formam bainha de mielina",
+          "weight": 0.5,
+          "keywords": [
+            "Schwann",
+            "SNP",
+            "mielina"
+          ]
+        },
+        {
+          "text": "Oligodendrócitos: SNC, função semelhante",
+          "weight": 0.5,
+          "keywords": [
+            "oligodendrócitos",
+            "SNC"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-124",
+      "topic": "Neurônios e neuroglia",
+      "question": "Descreva a estrutura da membrana plasmática do neurônio, mencionando a bicamada lipídica e o papel das proteínas embutidas nela.",
+      "modelAnswer": "Cerca de metade da membrana é uma bicamada lipídica composta principalmente de fosfolipídios, cujas extremidades hidrofílicas se voltam para os meios aquosos e as hidrofóbicas para o espaço entre as folhas. Embutidas nessa bicamada estão proteínas que podem formar canais permitindo ou bloqueando a passagem de íons, mecanismo fundamental que determina a excitabilidade e a atividade elétrica do neurônio.",
+      "keyPoints": [
+        {
+          "text": "Bicamada lipídica de fosfolipídios (hidrofílico/hidrofóbico)",
+          "weight": 0.5,
+          "keywords": [
+            "bicamada",
+            "fosfolipídios"
+          ]
+        },
+        {
+          "text": "Proteínas formam canais que regulam passagem de íons e a excitabilidade",
+          "weight": 0.5,
+          "keywords": [
+            "canais",
+            "íons",
+            "excitabilidade"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8-9"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-125",
+      "topic": "Neurônios e neuroglia",
+      "question": "Explique a função das células microgliais e das células ependimárias no Sistema Nervoso Central.",
+      "modelAnswer": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza de restos neuronais. As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.",
+      "keyPoints": [
+        {
+          "text": "Microgliais: defesa/limpeza de restos neuronais (fagocitose)",
+          "weight": 0.5,
+          "keywords": [
+            "microgliais",
+            "fagocítico"
+          ]
+        },
+        {
+          "text": "Ependimárias: revestem cavidades, barreira com o líquido cefalorraquidiano",
+          "weight": 0.5,
+          "keywords": [
+            "ependimárias",
+            "líquido cefalorraquidiano"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-126",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Explique por que a divisão do sistema nervoso em partes é considerada 'puramente didática' pelo material.",
+      "modelAnswer": "Porque, embora existam critérios embriológicos, anatômicos e funcionais que permitam dividir o sistema nervoso em partes (como SNC e SNP), essas partes estão intimamente relacionadas do ponto de vista morfofisiológico, funcionando de forma integrada e não isolada.",
+      "keyPoints": [
+        {
+          "text": "Existem critérios (embriológico, anatômico, funcional) para dividir",
+          "weight": 0.4,
+          "keywords": [
+            "critérios",
+            "anatômico",
+            "funcional"
+          ]
+        },
+        {
+          "text": "As partes são intimamente relacionadas e funcionam de forma integrada",
+          "weight": 0.6,
+          "keywords": [
+            "intimamente relacionadas",
+            "integrada"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-127",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Diferencie núcleo e gânglio, na nomenclatura utilizada em neuroanatomia, citando a exceção mencionada no material.",
+      "modelAnswer": "Um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo; um agrupamento na periferia é chamado de gânglio. Uma exceção notável são os gânglios da base, que, apesar do nome, estão localizados no prosencéfalo, e não na periferia.",
+      "keyPoints": [
+        {
+          "text": "Núcleo: agrupamento no SNC (substância cinzenta)",
+          "weight": 0.4,
+          "keywords": [
+            "núcleo",
+            "SNC"
+          ]
+        },
+        {
+          "text": "Gânglio: agrupamento na periferia",
+          "weight": 0.3,
+          "keywords": [
+            "gânglio",
+            "periferia"
+          ]
+        },
+        {
+          "text": "Exceção: gânglios da base, localizados no prosencéfalo",
+          "weight": 0.3,
+          "keywords": [
+            "gânglios da base",
+            "prosencéfalo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-128",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Diferencie substância cinzenta e substância branca quanto à composição e à coloração.",
+      "modelAnswer": "A substância cinzenta contém alta proporção de corpos celulares de neurônios, sendo cinza no tecido preservado e rosa ou marrom-claro no tecido vivo. A substância branca é composta principalmente de axônios e recebe esse nome devido à coloração esbranquiçada da mielina que reveste muitos desses axônios.",
+      "keyPoints": [
+        {
+          "text": "Cinzenta: corpos celulares de neurônios",
+          "weight": 0.5,
+          "keywords": [
+            "cinzenta",
+            "corpos celulares"
+          ]
+        },
+        {
+          "text": "Branca: axônios revestidos por mielina",
+          "weight": 0.5,
+          "keywords": [
+            "branca",
+            "axônios",
+            "mielina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-129",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Explique a diferença entre nervos aferentes e nervos eferentes no Sistema Nervoso Periférico.",
+      "modelAnswer": "Os nervos aferentes (sensoriais) conduzem a informação captada pelos receptores sensoriais em direção ao SNC, informando sobre mudanças no ambiente interno e externo. Os nervos eferentes (motores) retransmitem, após o processamento no SNC, os sinais de volta ao SNP, direcionando-os aos órgãos efetores.",
+      "keyPoints": [
+        {
+          "text": "Aferentes: levam informação sensorial ao SNC",
+          "weight": 0.5,
+          "keywords": [
+            "aferentes",
+            "sensorial",
+            "SNC"
+          ]
+        },
+        {
+          "text": "Eferentes: levam sinais do SNC de volta ao SNP/órgãos efetores",
+          "weight": 0.5,
+          "keywords": [
+            "eferentes",
+            "órgãos efetores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-130",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Descreva as subdivisões do Sistema Nervoso Periférico quanto ao controle voluntário e involuntário do corpo.",
+      "modelAnswer": "O SNP é subdividido em Sistema Nervoso Autônomo (SNA), com controle involuntário dos órgãos internos, vasos sanguíneos e músculos lisos e cardíacos, e Sistema Nervoso Somático (SNS), com controle voluntário dos movimentos por meio dos músculos esqueléticos.",
+      "keyPoints": [
+        {
+          "text": "SNA: controle involuntário",
+          "weight": 0.5,
+          "keywords": [
+            "SNA",
+            "involuntário"
+          ]
+        },
+        {
+          "text": "SNS: controle voluntário via músculo esquelético",
+          "weight": 0.5,
+          "keywords": [
+            "SNS",
+            "voluntário"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-131",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Compare as funções do Sistema Nervoso Simpático e do Sistema Nervoso Parassimpático.",
+      "modelAnswer": "O Sistema Nervoso Simpático é responsável por estimular atividades associadas à resposta de 'lutar ou fugir', mobilizando o corpo para escapar ou atacar fontes de perigo. O Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', como excitação sexual, salivação, lacrimejamento, micção, digestão e defecação, ocorrendo quando o corpo está em repouso.",
+      "keyPoints": [
+        {
+          "text": "Simpático: 'lutar ou fugir'",
+          "weight": 0.5,
+          "keywords": [
+            "simpático",
+            "lutar ou fugir"
+          ]
+        },
+        {
+          "text": "Parassimpático: 'repouso e digestão'",
+          "weight": 0.5,
+          "keywords": [
+            "parassimpático",
+            "repouso e digestão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-132",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Explique o que é o potencial de ação e descreva as etapas de despolarização e repolarização da membrana neuronal.",
+      "modelAnswer": "O potencial de ação é uma explosão de atividade elétrica que ocorre quando um estímulo faz o potencial de repouso (-70mV) se mover em direção a 0mV; ao atingir o limiar de -55mV, o neurônio dispara. Na despolarização, os canais de sódio se abrem e o sódio invade a célula, tornando-a mais positiva. Na repolarização, os canais de potássio se abrem, o potássio sai da célula e o potencial retorna a valores próximos de -70mV.",
+      "keyPoints": [
+        {
+          "text": "Potencial de ação: disparado ao atingir o limiar (-55mV)",
+          "weight": 0.3,
+          "keywords": [
+            "potencial de ação",
+            "limiar"
+          ]
+        },
+        {
+          "text": "Despolarização: entrada de sódio, célula fica mais positiva",
+          "weight": 0.35,
+          "keywords": [
+            "despolarização",
+            "sódio"
+          ]
+        },
+        {
+          "text": "Repolarização: saída de potássio, retorno ao potencial de repouso",
+          "weight": 0.35,
+          "keywords": [
+            "repolarização",
+            "potássio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-133",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Explique o princípio do 'tudo ou nada' na estimulação de um neurônio.",
+      "modelAnswer": "A estimulação de um neurônio segue a lei do tudo ou nada: se o estímulo for suficientemente intenso para atingir o limiar (cerca de -55mV), um potencial de ação de tamanho fixo é disparado; se não atingir esse limiar, nenhum potencial de ação ocorre. Não existem potenciais de ação mais fortes ou mais fracos — o tamanho é sempre o mesmo, independentemente da intensidade do estímulo acima do limiar.",
+      "keyPoints": [
+        {
+          "text": "Estímulo atinge o limiar → potencial de ação de tamanho fixo dispara",
+          "weight": 0.5,
+          "keywords": [
+            "limiar",
+            "tamanho fixo"
+          ]
+        },
+        {
+          "text": "Não há potenciais de ação parciais/mais fracos ou mais fortes",
+          "weight": 0.5,
+          "keywords": [
+            "não há",
+            "mais fraco",
+            "mais forte"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-134",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Diferencie informação sensorial somática e informação sensorial visceral, dando um exemplo de cada.",
+      "modelAnswer": "A informação sensorial somática surge de receptores localizados na pele, em músculos esqueléticos ou articulações (por exemplo, a dor ao pisar em algo pontiagudo). A informação sensorial visceral surge de receptores localizados nos vasos sanguíneos ou órgãos internos (por exemplo, a sensação de plenitude gástrica após uma refeição).",
+      "keyPoints": [
+        {
+          "text": "Somática: receptores na pele, músculos, articulações",
+          "weight": 0.5,
+          "keywords": [
+            "somática",
+            "pele",
+            "músculos"
+          ]
+        },
+        {
+          "text": "Visceral: receptores em vasos sanguíneos/órgãos internos",
+          "weight": 0.5,
+          "keywords": [
+            "visceral",
+            "órgãos internos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "32"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio"
+    },
+    {
+      "id": "neuro-disc-135",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Descreva a organização das camadas de tecido conjuntivo que envolvem um nervo periférico, do exterior para o interior.",
+      "modelAnswer": "Externamente, cada nervo é coberto por uma densa bainha de tecido conjuntivo, o epineuro. Subjacente a essa camada, o perineuro forma uma manga completa em torno de um feixe de axônios chamado fascículo. Ao redor de cada axônio individual, está o endoneuro, que consiste em uma manga interna de glicocálice e uma malha externa de fibras de colágeno.",
+      "keyPoints": [
+        {
+          "text": "Epineuro: camada mais externa",
+          "weight": 0.34,
+          "keywords": [
+            "epineuro",
+            "externa"
+          ]
+        },
+        {
+          "text": "Perineuro: envolve o fascículo",
+          "weight": 0.33,
+          "keywords": [
+            "perineuro",
+            "fascículo"
+          ]
+        },
+        {
+          "text": "Endoneuro: envolve cada axônio individual",
+          "weight": 0.33,
+          "keywords": [
+            "endoneuro",
+            "axônio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
@@ -16975,6 +19112,476 @@
       "subject": "Vascularização do SNC",
       "difficulty": "dificil",
       "miniLesson": "Segundo a fórmula de Kety (1950), de que o fluxo sanguíneo cerebral é diretamente e inversamente proporcional? O fluxo sanguíneo cerebral é diretamente proporcional à diferença entre a pressão arterial e a pressão venosa, e inversamente proporcional à resistência cerebrovascular."
+    },
+    {
+      "id": "neuro-oral-116",
+      "topic": "Neurônios e neuroglia",
+      "question": "Quais são as três estruturas básicas de um neurônio típico?",
+      "modelAnswer": "Dendritos, corpo celular e axônio.",
+      "keyPoints": [
+        {
+          "text": "Dendritos, corpo celular e axônio",
+          "weight": 1,
+          "keywords": [
+            "dendritos",
+            "corpo celular",
+            "axônio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "5"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três estruturas básicas de um neurônio típico? Dendritos, corpo celular e axônio."
+    },
+    {
+      "id": "neuro-oral-117",
+      "topic": "Neurônios e neuroglia",
+      "question": "Qual célula glial é responsável por nutrir os neurônios, transferindo nutrientes dos vasos sanguíneos?",
+      "modelAnswer": "Os astrócitos.",
+      "keyPoints": [
+        {
+          "text": "Astrócitos",
+          "weight": 1,
+          "keywords": [
+            "astrócitos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "10-11"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Qual célula glial é responsável por nutrir os neurônios, transferindo nutrientes dos vasos sanguíneos? Os astrócitos."
+    },
+    {
+      "id": "neuro-oral-118",
+      "topic": "Neurônios e neuroglia",
+      "question": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Central?",
+      "modelAnswer": "Os oligodendrócitos.",
+      "keyPoints": [
+        {
+          "text": "Oligodendrócitos",
+          "weight": 1,
+          "keywords": [
+            "oligodendrócitos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Central? Os oligodendrócitos."
+    },
+    {
+      "id": "neuro-oral-119",
+      "topic": "Neurônios e neuroglia",
+      "question": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Periférico?",
+      "modelAnswer": "As células de Schwann.",
+      "keyPoints": [
+        {
+          "text": "Células de Schwann",
+          "weight": 1,
+          "keywords": [
+            "Schwann"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Periférico? As células de Schwann."
+    },
+    {
+      "id": "neuro-oral-120",
+      "topic": "Neurônios e neuroglia",
+      "question": "Qual é o tipo mais comum de neurônio, encontrado no cérebro e na medula espinhal?",
+      "modelAnswer": "Os interneurônios.",
+      "keyPoints": [
+        {
+          "text": "Interneurônios",
+          "weight": 1,
+          "keywords": [
+            "interneurônios"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "8"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o tipo mais comum de neurônio, encontrado no cérebro e na medula espinhal? Os interneurônios."
+    },
+    {
+      "id": "neuro-oral-121",
+      "topic": "Neurônios e neuroglia",
+      "question": "O que é a sinapse?",
+      "modelAnswer": "É o espaço entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde neurotransmissores são liberados para garantir a passagem do impulso nervoso.",
+      "keyPoints": [
+        {
+          "text": "Espaço entre neurônios onde neurotransmissores passam o impulso",
+          "weight": 1,
+          "keywords": [
+            "espaço",
+            "neurotransmissores"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "10"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "O que é a sinapse? É o espaço entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde neurotransmissores são liberados para garantir a passagem do impulso nervoso."
+    },
+    {
+      "id": "neuro-oral-122",
+      "topic": "Neurônios e neuroglia",
+      "question": "Qual é a diferença de velocidade entre sinapses elétricas e sinapses químicas?",
+      "modelAnswer": "As sinapses elétricas são muito mais rápidas do que as sinapses químicas, embora sejam menos eficazes na transmissão, pois o sinal diminui de um neurônio para o outro.",
+      "keyPoints": [
+        {
+          "text": "Elétricas são mais rápidas que as químicas",
+          "weight": 1,
+          "keywords": [
+            "elétricas",
+            "mais rápidas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "9"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Qual é a diferença de velocidade entre sinapses elétricas e sinapses químicas? As sinapses elétricas são muito mais rápidas do que as sinapses químicas, embora sejam menos eficazes na transmissão, pois o sinal diminui de um neurônio para o outro."
+    },
+    {
+      "id": "neuro-oral-123",
+      "topic": "Neurônios e neuroglia",
+      "question": "Que estrutura interrompe em intervalos regulares a bainha de mielina formada pelas células de Schwann?",
+      "modelAnswer": "Os nós de Ranvier.",
+      "keyPoints": [
+        {
+          "text": "Nós de Ranvier",
+          "weight": 1,
+          "keywords": [
+            "nós de Ranvier"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Que estrutura interrompe em intervalos regulares a bainha de mielina formada pelas células de Schwann? Os nós de Ranvier."
+    },
+    {
+      "id": "neuro-oral-124",
+      "topic": "Neurônios e neuroglia",
+      "question": "Quais são os dois tipos de estímulo que ativam os neurônios sensoriais, segundo o material?",
+      "modelAnswer": "Estímulos físicos (como som, toque, calor e luz) e estímulos químicos (como olfato e sabor).",
+      "keyPoints": [
+        {
+          "text": "Estímulos físicos e estímulos químicos",
+          "weight": 1,
+          "keywords": [
+            "físicos",
+            "químicos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "7"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "Quais são os dois tipos de estímulo que ativam os neurônios sensoriais, segundo o material? Estímulos físicos (como som, toque, calor e luz) e estímulos químicos (como olfato e sabor)."
+    },
+    {
+      "id": "neuro-oral-125",
+      "topic": "Neurônios e neuroglia",
+      "question": "O que fazem as células microgliais diante de um microrganismo invasor ou de neurônios mortos?",
+      "modelAnswer": "Podem se transformar em macrófagos fagocíticos, ajudando na limpeza dos restos neuronais.",
+      "keyPoints": [
+        {
+          "text": "Transformam-se em macrófagos fagocíticos",
+          "weight": 1,
+          "keywords": [
+            "macrófagos",
+            "fagocíticos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "6"
+      },
+      "subject": "Neurônios e neuroglia",
+      "difficulty": "medio",
+      "miniLesson": "O que fazem as células microgliais diante de um microrganismo invasor ou de neurônios mortos? Podem se transformar em macrófagos fagocíticos, ajudando na limpeza dos restos neuronais."
+    },
+    {
+      "id": "neuro-oral-126",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Quais são as três funções amplas do sistema nervoso?",
+      "modelAnswer": "Entrada sensorial, processamento de informações e saída motora.",
+      "keyPoints": [
+        {
+          "text": "Entrada sensorial, processamento e saída motora",
+          "weight": 1,
+          "keywords": [
+            "entrada sensorial",
+            "saída motora"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "12"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Quais são as três funções amplas do sistema nervoso? Entrada sensorial, processamento de informações e saída motora."
+    },
+    {
+      "id": "neuro-oral-127",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Como se chama um agrupamento de corpos celulares de neurônios na periferia?",
+      "modelAnswer": "Gânglio.",
+      "keyPoints": [
+        {
+          "text": "Gânglio",
+          "weight": 1,
+          "keywords": [
+            "gânglio"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "13"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Como se chama um agrupamento de corpos celulares de neurônios na periferia? Gânglio."
+    },
+    {
+      "id": "neuro-oral-128",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Em quais dois subsistemas o Sistema Nervoso Autônomo é classicamente dividido?",
+      "modelAnswer": "Sistema Nervoso Simpático e Sistema Nervoso Parassimpático.",
+      "keyPoints": [
+        {
+          "text": "Simpático e parassimpático",
+          "weight": 1,
+          "keywords": [
+            "simpático",
+            "parassimpático"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "14"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Em quais dois subsistemas o Sistema Nervoso Autônomo é classicamente dividido? Sistema Nervoso Simpático e Sistema Nervoso Parassimpático."
+    },
+    {
+      "id": "neuro-oral-129",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Qual sistema é responsável pela resposta de 'lutar ou fugir'?",
+      "modelAnswer": "O Sistema Nervoso Simpático.",
+      "keyPoints": [
+        {
+          "text": "Sistema Nervoso Simpático",
+          "weight": 1,
+          "keywords": [
+            "simpático"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "15"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Qual sistema é responsável pela resposta de 'lutar ou fugir'? O Sistema Nervoso Simpático."
+    },
+    {
+      "id": "neuro-oral-130",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Quantos pares de nervos cranianos e quantos pares de nervos espinhais existem?",
+      "modelAnswer": "12 pares de nervos cranianos e 31 pares de nervos espinhais.",
+      "keyPoints": [
+        {
+          "text": "12 cranianos e 31 espinhais",
+          "weight": 1,
+          "keywords": [
+            "12",
+            "31"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "17"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Quantos pares de nervos cranianos e quantos pares de nervos espinhais existem? 12 pares de nervos cranianos e 31 pares de nervos espinhais."
+    },
+    {
+      "id": "neuro-oral-131",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Qual é o potencial de membrana em repouso de um neurônio?",
+      "modelAnswer": "Cerca de -70mV.",
+      "keyPoints": [
+        {
+          "text": "-70mV",
+          "weight": 1,
+          "keywords": [
+            "-70"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "18"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o potencial de membrana em repouso de um neurônio? Cerca de -70mV."
+    },
+    {
+      "id": "neuro-oral-132",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Em que valor de despolarização o neurônio dispara um potencial de ação (limiar)?",
+      "modelAnswer": "Cerca de -55mV.",
+      "keyPoints": [
+        {
+          "text": "-55mV",
+          "weight": 1,
+          "keywords": [
+            "-55"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Em que valor de despolarização o neurônio dispara um potencial de ação (limiar)? Cerca de -55mV."
+    },
+    {
+      "id": "neuro-oral-133",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "O que estabelece o princípio do 'tudo ou nada'?",
+      "modelAnswer": "Que o estímulo é suficientemente intenso para desencadear um potencial de ação de tamanho fixo, ou nada acontece — não existem potenciais de ação mais fortes ou mais fracos.",
+      "keyPoints": [
+        {
+          "text": "Potencial de ação de tamanho fixo ou nada acontece",
+          "weight": 1,
+          "keywords": [
+            "tamanho fixo",
+            "nada acontece"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "19"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "O que estabelece o princípio do 'tudo ou nada'? Que o estímulo é suficientemente intenso para desencadear um potencial de ação de tamanho fixo, ou nada acontece — não existem potenciais de ação mais fortes ou mais fracos."
+    },
+    {
+      "id": "neuro-oral-134",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Como se chama a camada de tecido conjuntivo que cobre externamente cada nervo periférico?",
+      "modelAnswer": "Epineuro.",
+      "keyPoints": [
+        {
+          "text": "Epineuro",
+          "weight": 1,
+          "keywords": [
+            "epineuro"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Como se chama a camada de tecido conjuntivo que cobre externamente cada nervo periférico? Epineuro."
+    },
+    {
+      "id": "neuro-oral-135",
+      "topic": "Organização geral do sistema nervoso",
+      "question": "Qual é o nervo mais longo do corpo humano?",
+      "modelAnswer": "O nervo ciático.",
+      "keyPoints": [
+        {
+          "text": "Nervo ciático",
+          "weight": 1,
+          "keywords": [
+            "ciático"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
+        "page": "16"
+      },
+      "subject": "Organização geral do sistema nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Qual é o nervo mais longo do corpo humano? O nervo ciático."
     }
   ]
 }
