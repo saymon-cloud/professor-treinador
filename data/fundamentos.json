@@ -5103,6 +5103,1326 @@
       "subject": "Positivismo e psicofísica",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas, a Lei de Weber-Fechner atendeu diretamente aos critérios de cientificidade propostos pelo: A Lei de Weber-Fechner atendeu diretamente aos critérios positivistas de cientificidade, ao demonstrar que fenômenos mentais subjetivos poderiam ser medidos e correlacionados matematicamente com magnitudes físicas."
+    },
+    {
+      "id": "fund-obj-233",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a partir da década de 1950, o domínio quase absoluto do behaviorismo na psicologia acadêmica americana começou a enfrentar desafios significativos quando o foco recaía sobre processos humanos altamente complexos, como:",
+      "options": {
+        "a": "A aquisição da linguagem, a resolução de problemas lógicos e o funcionamento da memória a longo prazo",
+        "b": "Exclusivamente os reflexos incondicionados básicos",
+        "c": "Exclusivamente a salivação de animais em laboratório",
+        "d": "Exclusivamente a extinção de respostas condicionadas simples",
+        "e": "Exclusivamente comportamentos motores automáticos"
+      },
+      "correct": "a",
+      "explanation": "O modelo operante de Skinner mostrou limitações ao explicar processos humanos complexos como a aquisição da linguagem, a resolução de problemas lógicos e o funcionamento da memória a longo prazo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a partir da década de 1950, o domínio quase absoluto do behaviorismo na psicologia acadêmica americana começou a enfrentar desafios significativos quando o foco recaía sobre processos humanos altamente complexos, como: O modelo operante de Skinner mostrou limitações ao explicar processos humanos complexos como a aquisição da linguagem, a resolução de problemas lógicos e o funcionamento da memória a longo prazo."
+    },
+    {
+      "id": "fund-obj-234",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, um dos primeiros sinais de mudança em direção à revolução cognitiva surgiu dentro do próprio campo comportamental, com o trabalho de Edward Tolman, que propôs o que chamou de:",
+      "options": {
+        "a": "Behaviorismo intencional",
+        "b": "Behaviorismo radical",
+        "c": "Behaviorismo metodológico",
+        "d": "Cognitivismo puro",
+        "e": "Funcionalismo aplicado"
+      },
+      "correct": "a",
+      "explanation": "Edward Tolman propôs o behaviorismo intencional, demonstrando em experimentos com ratos em labirintos que os animais formavam representações internas do ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um dos primeiros sinais de mudança em direção à revolução cognitiva surgiu dentro do próprio campo comportamental, com o trabalho de Edward Tolman, que propôs o que chamou de: Edward Tolman propôs o behaviorismo intencional, demonstrando em experimentos com ratos em labirintos que os animais formavam representações internas do ambiente."
+    },
+    {
+      "id": "fund-obj-235",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, em seus experimentos com ratos em labirintos, Tolman demonstrou que os animais aprendiam a estrutura espacial do labirinto mesmo na ausência de reforço alimentar, formando:",
+      "options": {
+        "a": "'Mapas cognitivos' do ambiente",
+        "b": "Reflexos incondicionados exclusivamente",
+        "c": "Esquemas de reforçamento fixo exclusivamente",
+        "d": "Respostas puramente motoras sem qualquer representação",
+        "e": "Cadeias associativas S-R exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Tolman argumentou que os ratos formavam 'mapas cognitivos' do ambiente, representações internas que guiavam o comportamento, mesmo sem reforço alimentar direto.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em seus experimentos com ratos em labirintos, Tolman demonstrou que os animais aprendiam a estrutura espacial do labirinto mesmo na ausência de reforço alimentar, formando: Tolman argumentou que os ratos formavam 'mapas cognitivos' do ambiente, representações internas que guiavam o comportamento, mesmo sem reforço alimentar direto."
+    },
+    {
+      "id": "fund-obj-236",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a afirmação de Tolman sobre os mapas cognitivos inseriu variáveis intervenientes (processos internos não observáveis diretamente) entre o estímulo e a resposta, o que teve como efeito:",
+      "options": {
+        "a": "Fissurar a barreira do behaviorismo radical",
+        "b": "Reforçar totalmente o modelo S-R sem qualquer alteração",
+        "c": "Eliminar definitivamente qualquer interesse por processos internos",
+        "d": "Consolidar o estruturalismo de Titchener",
+        "e": "Restaurar integralmente o método introspectivo de Wundt"
+      },
+      "correct": "a",
+      "explanation": "A inserção de variáveis intervenientes (processos internos) entre estímulo e resposta fissurou a barreira do behaviorismo radical, abrindo caminho para futuras abordagens cognitivas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a afirmação de Tolman sobre os mapas cognitivos inseriu variáveis intervenientes (processos internos não observáveis diretamente) entre o estímulo e a resposta, o que teve como efeito: A inserção de variáveis intervenientes (processos internos) entre estímulo e resposta fissurou a barreira do behaviorismo radical, abrindo caminho para futuras abordagens cognitivas."
+    },
+    {
+      "id": "fund-obj-237",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, em 1957, Skinner publicou o livro 'O Comportamento Verbal', no qual tentava explicar a linguagem humana através das contingências de reforçamento; em 1959, quem publicou uma resenha devastadora sobre esse livro?",
+      "options": {
+        "a": "Noam Chomsky",
+        "b": "Edward Tolman",
+        "c": "Aaron Beck",
+        "d": "Albert Bandura",
+        "e": "Ivan Pavlov"
+      },
+      "correct": "a",
+      "explanation": "Em 1959, o linguista Noam Chomsky publicou uma resenha devastadora sobre o livro 'O Comportamento Verbal' de Skinner.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, em 1957, Skinner publicou o livro 'O Comportamento Verbal', no qual tentava explicar a linguagem humana através das contingências de reforçamento; em 1959, quem publicou uma resenha devastadora sobre esse livro? Em 1959, o linguista Noam Chomsky publicou uma resenha devastadora sobre o livro 'O Comportamento Verbal' de Skinner."
+    },
+    {
+      "id": "fund-obj-238",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, Chomsky argumentou que a linguagem humana é criativa e generativa, pois as crianças produzem frases que nunca ouviram antes e que, portanto, nunca poderiam ter sido reforçadas, defendendo a existência de:",
+      "options": {
+        "a": "Uma estrutura inata para a aquisição da linguagem, um dispositivo biológico de processamento de regras gramaticais",
+        "b": "Um processo exclusivamente de imitação e reforçamento social",
+        "c": "Uma ausência total de qualquer base biológica para a linguagem",
+        "d": "Um processo idêntico ao condicionamento clássico de Pavlov",
+        "e": "Uma explicação puramente ambiental, sem qualquer fator inato"
+      },
+      "correct": "a",
+      "explanation": "Chomsky defendeu a existência de uma estrutura inata para a aquisição da linguagem, um dispositivo biológico de processamento de regras gramaticais, criticando a explicação puramente comportamental de Skinner.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Chomsky argumentou que a linguagem humana é criativa e generativa, pois as crianças produzem frases que nunca ouviram antes e que, portanto, nunca poderiam ter sido reforçadas, defendendo a existência de: Chomsky defendeu a existência de uma estrutura inata para a aquisição da linguagem, um dispositivo biológico de processamento de regras gramaticais, criticando a explicação puramente comportamental de Skinner."
+    },
+    {
+      "id": "fund-obj-239",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a crítica de Chomsky ao livro de Skinner evidenciou a necessidade de:",
+      "options": {
+        "a": "Postular estruturas mentais internas para explicar o comportamento humano complexo",
+        "b": "Abandonar completamente o estudo da linguagem",
+        "c": "Reforçar ainda mais o modelo Estímulo-Resposta sem qualquer alteração",
+        "d": "Eliminar toda e qualquer influência biológica da psicologia",
+        "e": "Retornar ao método da introspecção estruturalista"
+      },
+      "correct": "a",
+      "explanation": "A crítica de Chomsky evidenciou a necessidade de postular estruturas mentais internas para explicar o comportamento humano complexo, como a linguagem.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a crítica de Chomsky ao livro de Skinner evidenciou a necessidade de: A crítica de Chomsky evidenciou a necessidade de postular estruturas mentais internas para explicar o comportamento humano complexo, como a linguagem."
+    },
+    {
+      "id": "fund-obj-240",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a insatisfação com as limitações do behaviorismo coincidiu com avanços tecnológicos fora da psicologia, sobretudo o desenvolvimento da ciência da computação, da teoria da informação e:",
+      "options": {
+        "a": "Da cibernética",
+        "b": "Exclusivamente da genética molecular",
+        "c": "Exclusivamente da física quântica",
+        "d": "Exclusivamente da neurologia clínica",
+        "e": "Exclusivamente da estatística bayesiana"
+      },
+      "correct": "a",
+      "explanation": "A insatisfação com as limitações do behaviorismo coincidiu com avanços tecnológicos fora da psicologia, como a ciência da computação, a teoria da informação e a cibernética.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a insatisfação com as limitações do behaviorismo coincidiu com avanços tecnológicos fora da psicologia, sobretudo o desenvolvimento da ciência da computação, da teoria da informação e: A insatisfação com as limitações do behaviorismo coincidiu com avanços tecnológicos fora da psicologia, como a ciência da computação, a teoria da informação e a cibernética."
+    },
+    {
+      "id": "fund-obj-241",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, no novo paradigma que marcou a revolução cognitiva, o cérebro passou a ser compreendido como um sistema de processamento de informações, similar em sua arquitetura lógica ao funcionamento de:",
+      "options": {
+        "a": "Um computador",
+        "b": "Uma máquina a vapor",
+        "c": "Um relógio mecânico",
+        "d": "Um motor de combustão",
+        "e": "Um telégrafo"
+      },
+      "correct": "a",
+      "explanation": "No novo paradigma da revolução cognitiva, o cérebro passou a ser compreendido como um sistema de processamento de informações, similar em sua arquitetura lógica ao funcionamento de um computador.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no novo paradigma que marcou a revolução cognitiva, o cérebro passou a ser compreendido como um sistema de processamento de informações, similar em sua arquitetura lógica ao funcionamento de: No novo paradigma da revolução cognitiva, o cérebro passou a ser compreendido como um sistema de processamento de informações, similar em sua arquitetura lógica ao funcionamento de um computador."
+    },
+    {
+      "id": "fund-obj-242",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, no modelo de processamento de informação, os estímulos do ambiente passaram a ser concebidos como 'inputs' (entradas de dados); estes dados são recebidos pelos sistemas sensoriais, codificados, armazenados na memória, manipulados por regras lógicas e, por fim, geram:",
+      "options": {
+        "a": "Um 'output' (saída), que é o comportamento observável",
+        "b": "Exclusivamente uma resposta reflexa automática",
+        "c": "Exclusivamente uma extinção da resposta condicionada",
+        "d": "Exclusivamente um reforço negativo automático",
+        "e": "Exclusivamente uma generalização de estímulos"
+      },
+      "correct": "a",
+      "explanation": "Os dados de entrada são codificados, armazenados na memória, manipulados por regras lógicas e geram um 'output' (saída), que é o comportamento observável.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no modelo de processamento de informação, os estímulos do ambiente passaram a ser concebidos como 'inputs' (entradas de dados); estes dados são recebidos pelos sistemas sensoriais, codificados, armazenados na memória, manipulados por regras lógicas e, por fim, geram: Os dados de entrada são codificados, armazenados na memória, manipulados por regras lógicas e geram um 'output' (saída), que é o comportamento observável."
+    },
+    {
+      "id": "fund-obj-243",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a psicologia cognitiva reintroduziu a mente como objeto de estudo científico, mas o fez com um rigor metodológico superior ao da antiga introspecção, pois os processos mentais eram inferidos a partir de:",
+      "options": {
+        "a": "Tempo de reação, taxas de erro em tarefas de memória e experimentos de atenção dividida",
+        "b": "Relatos subjetivos livres e não controlados, como na introspecção wundtiana",
+        "c": "Exclusivamente a opinião pessoal do pesquisador",
+        "d": "Exclusivamente a observação direta do comportamento verbal",
+        "e": "Exclusivamente a análise de sonhos e associação livre"
+      },
+      "correct": "a",
+      "explanation": "Os processos mentais na psicologia cognitiva não eram acessados por relatos subjetivos, mas inferidos a partir do tempo de reação, de taxas de erro em tarefas de memória e de experimentos de atenção dividida.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a psicologia cognitiva reintroduziu a mente como objeto de estudo científico, mas o fez com um rigor metodológico superior ao da antiga introspecção, pois os processos mentais eram inferidos a partir de: Os processos mentais na psicologia cognitiva não eram acessados por relatos subjetivos, mas inferidos a partir do tempo de reação, de taxas de erro em tarefas de memória e de experimentos de atenção dividida."
+    },
+    {
+      "id": "fund-obj-244",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo Penna (1991), citado no material, a revolução cognitiva não descartou o rigor experimental estabelecido pelo behaviorismo, mas sim:",
+      "options": {
+        "a": "O absorveu e o direcionou para variáveis internas",
+        "b": "O rejeitou completamente, retornando à especulação filosófica",
+        "c": "O substituiu integralmente pela introspecção livre",
+        "d": "O ignorou por completo, sem qualquer aproveitamento",
+        "e": "O restringiu exclusivamente a experimentos com animais"
+      },
+      "correct": "a",
+      "explanation": "Segundo Penna (1991), a revolução cognitiva absorveu o rigor experimental do behaviorismo e o direcionou para o estudo de variáveis internas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Penna (1991), citado no material, a revolução cognitiva não descartou o rigor experimental estabelecido pelo behaviorismo, mas sim: Segundo Penna (1991), a revolução cognitiva absorveu o rigor experimental do behaviorismo e o direcionou para o estudo de variáveis internas."
+    },
+    {
+      "id": "fund-obj-245",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, na revolução cognitiva, o comportamento passou a ser visto como um indicador de:",
+      "options": {
+        "a": "Processos mentais subjacentes",
+        "b": "Exclusivamente reflexos inatos",
+        "c": "Exclusivamente reforçadores primários",
+        "d": "Exclusivamente contingências ambientais isoladas",
+        "e": "Exclusivamente traços de personalidade herdados"
+      },
+      "correct": "a",
+      "explanation": "Na revolução cognitiva, a observação do comportamento continuou sendo o dado primário da pesquisa, mas o comportamento passou a ser visto como um indicador de processos mentais subjacentes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na revolução cognitiva, o comportamento passou a ser visto como um indicador de: Na revolução cognitiva, a observação do comportamento continuou sendo o dado primário da pesquisa, mas o comportamento passou a ser visto como um indicador de processos mentais subjacentes."
+    },
+    {
+      "id": "fund-obj-246",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, teorias sobre a atenção seletiva, a memória de trabalho e os esquemas de representação do conhecimento proliferaram, estabelecendo a psicologia cognitiva como:",
+      "options": {
+        "a": "A força dominante na pesquisa acadêmica na segunda metade do século XX",
+        "b": "Uma corrente marginal, sem qualquer influência acadêmica",
+        "c": "Uma continuação idêntica do estruturalismo de Titchener",
+        "d": "Uma abordagem exclusivamente aplicada, sem base experimental",
+        "e": "Uma teoria totalmente incompatível com qualquer pesquisa experimental"
+      },
+      "correct": "a",
+      "explanation": "Teorias sobre atenção seletiva, memória de trabalho e esquemas de representação do conhecimento proliferaram, estabelecendo a psicologia cognitiva como a força dominante na pesquisa acadêmica na segunda metade do século XX.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, teorias sobre a atenção seletiva, a memória de trabalho e os esquemas de representação do conhecimento proliferaram, estabelecendo a psicologia cognitiva como: Teorias sobre atenção seletiva, memória de trabalho e esquemas de representação do conhecimento proliferaram, estabelecendo a psicologia cognitiva como a força dominante na pesquisa acadêmica na segunda metade do século XX."
+    },
+    {
+      "id": "fund-obj-247",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, outra figura de transição fundamental para a revolução cognitiva foi Albert Bandura, com sua:",
+      "options": {
+        "a": "Teoria da Aprendizagem Social",
+        "b": "Teoria do Desenvolvimento Psicossexual",
+        "c": "Teoria da Epistemologia Genética",
+        "d": "Teoria do Condicionamento Operante",
+        "e": "Teoria da Análise Experimental do Comportamento"
+      },
+      "correct": "a",
+      "explanation": "Albert Bandura, com sua Teoria da Aprendizagem Social, foi outra figura de transição fundamental para a revolução cognitiva.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, outra figura de transição fundamental para a revolução cognitiva foi Albert Bandura, com sua: Albert Bandura, com sua Teoria da Aprendizagem Social, foi outra figura de transição fundamental para a revolução cognitiva."
+    },
+    {
+      "id": "fund-obj-248",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, Bandura demonstrou que a aprendizagem não requer a experiência direta de reforço ou punição, pois os seres humanos aprendem por:",
+      "options": {
+        "a": "Observação, modelando o comportamento de outras pessoas",
+        "b": "Exclusivamente reflexos condicionados clássicos",
+        "c": "Exclusivamente punição direta e imediata",
+        "d": "Exclusivamente instrução verbal explícita",
+        "e": "Exclusivamente tentativa e erro isolada, sem qualquer modelo"
+      },
+      "correct": "a",
+      "explanation": "Bandura demonstrou que os seres humanos aprendem por observação, modelando o comportamento de outras pessoas, sem necessitar de experiência direta de reforço ou punição.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Bandura demonstrou que a aprendizagem não requer a experiência direta de reforço ou punição, pois os seres humanos aprendem por: Bandura demonstrou que os seres humanos aprendem por observação, modelando o comportamento de outras pessoas, sem necessitar de experiência direta de reforço ou punição."
+    },
+    {
+      "id": "fund-obj-249",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a aprendizagem observacional proposta por Bandura exige processos cognitivos:",
+      "options": {
+        "a": "Atencionais, de retenção na memória e de motivação",
+        "b": "Exclusivamente reflexos, sem qualquer componente cognitivo",
+        "c": "Exclusivamente hormonais",
+        "d": "Exclusivamente relacionados à digestão",
+        "e": "Exclusivamente motores automáticos"
+      },
+      "correct": "a",
+      "explanation": "A aprendizagem observacional exige processos cognitivos atencionais, de retenção na memória e de motivação, criando uma ponte entre os princípios comportamentais e a necessidade de variáveis cognitivas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a aprendizagem observacional proposta por Bandura exige processos cognitivos: A aprendizagem observacional exige processos cognitivos atencionais, de retenção na memória e de motivação, criando uma ponte entre os princípios comportamentais e a necessidade de variáveis cognitivas."
+    },
+    {
+      "id": "fund-obj-250",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a teoria de Bandura criou uma ponte definitiva entre os princípios comportamentais e a necessidade de variáveis cognitivas para explicar:",
+      "options": {
+        "a": "A socialização humana",
+        "b": "Exclusivamente os reflexos condicionados",
+        "c": "Exclusivamente a digestão animal",
+        "d": "Exclusivamente o desenvolvimento embrionário",
+        "e": "Exclusivamente a extinção de respostas"
+      },
+      "correct": "a",
+      "explanation": "A Teoria da Aprendizagem Social de Bandura criou uma ponte definitiva entre os princípios comportamentais e a necessidade de variáveis cognitivas para explicar a socialização humana.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a teoria de Bandura criou uma ponte definitiva entre os princípios comportamentais e a necessidade de variáveis cognitivas para explicar: A Teoria da Aprendizagem Social de Bandura criou uma ponte definitiva entre os princípios comportamentais e a necessidade de variáveis cognitivas para explicar a socialização humana."
+    },
+    {
+      "id": "fund-obj-251",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a transição para o novo modelo epistemológico cognitivo não ocorreu de forma abrupta, mas por meio de:",
+      "options": {
+        "a": "O acúmulo de anomalias que o paradigma comportamental vigente tinha dificuldade em explicar",
+        "b": "Uma única publicação isolada, sem qualquer contexto histórico",
+        "c": "Uma decisão administrativa das universidades americanas",
+        "d": "Uma imposição legal do governo dos Estados Unidos",
+        "e": "Um consenso unânime e imediato entre todos os psicólogos da época"
+      },
+      "correct": "a",
+      "explanation": "A transição para o novo modelo epistemológico não ocorreu de forma abrupta, mas por meio do acúmulo de anomalias que o paradigma comportamental vigente tinha dificuldade em explicar.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a transição para o novo modelo epistemológico cognitivo não ocorreu de forma abrupta, mas por meio de: A transição para o novo modelo epistemológico não ocorreu de forma abrupta, mas por meio do acúmulo de anomalias que o paradigma comportamental vigente tinha dificuldade em explicar."
+    },
+    {
+      "id": "fund-obj-252",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, o modelo operante de Skinner provou-se excepcional para explicar:",
+      "options": {
+        "a": "A aquisição e a manutenção de uma vasta gama de comportamentos",
+        "b": "Exclusivamente processos mentais complexos como a linguagem",
+        "c": "Exclusivamente a resolução de problemas lógicos abstratos",
+        "d": "Exclusivamente o funcionamento da memória de longo prazo",
+        "e": "Nenhum tipo de comportamento, sendo totalmente inadequado"
+      },
+      "correct": "a",
+      "explanation": "O modelo operante de Skinner provou-se excepcional para explicar a aquisição e a manutenção de uma vasta gama de comportamentos, mas apresentou limitações diante de processos mais complexos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o modelo operante de Skinner provou-se excepcional para explicar: O modelo operante de Skinner provou-se excepcional para explicar a aquisição e a manutenção de uma vasta gama de comportamentos, mas apresentou limitações diante de processos mais complexos."
+    },
+    {
+      "id": "fund-obj-253",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a psicologia cognitiva compreende o cérebro sob uma perspectiva analógica em relação à arquitetura de um computador, o que constitui, segundo a questão de prática do material, o modelo teórico central estabelecido pela revolução cognitiva para o estudo:",
+      "options": {
+        "a": "Da mente",
+        "b": "Exclusivamente do sistema digestivo",
+        "c": "Exclusivamente do sistema circulatório",
+        "d": "Exclusivamente dos reflexos medulares",
+        "e": "Exclusivamente da genética comportamental"
+      },
+      "correct": "a",
+      "explanation": "A revolução cognitiva estabeleceu como modelo teórico central para o estudo da mente o sistema de processamento de informações semelhante à arquitetura de um computador.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "27-28"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a psicologia cognitiva compreende o cérebro sob uma perspectiva analógica em relação à arquitetura de um computador, o que constitui, segundo a questão de prática do material, o modelo teórico central estabelecido pela revolução cognitiva para o estudo: A revolução cognitiva estabeleceu como modelo teórico central para o estudo da mente o sistema de processamento de informações semelhante à arquitetura de um computador."
+    },
+    {
+      "id": "fund-obj-254",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, dentre os experimentos de Tolman, o fato de os ratos aprenderem a estrutura espacial do labirinto mesmo sem receber alimento demonstra que a aprendizagem pode ocorrer:",
+      "options": {
+        "a": "De forma latente, sem manifestação imediata em comportamento reforçado",
+        "b": "Exclusivamente por meio de reforçamento contínuo e imediato",
+        "c": "Apenas quando há punição associada ao erro",
+        "d": "Exclusivamente por condicionamento clássico pavloviano",
+        "e": "De forma impossível sem qualquer estímulo incondicionado presente"
+      },
+      "correct": "a",
+      "explanation": "O experimento de Tolman demonstrou a chamada aprendizagem latente: os ratos aprendiam a estrutura do labirinto (formavam mapas cognitivos) mesmo sem reforço alimentar imediato, manifestando esse conhecimento apenas quando o reforço passava a ser oferecido.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, dentre os experimentos de Tolman, o fato de os ratos aprenderem a estrutura espacial do labirinto mesmo sem receber alimento demonstra que a aprendizagem pode ocorrer: O experimento de Tolman demonstrou a chamada aprendizagem latente: os ratos aprendiam a estrutura do labirinto (formavam mapas cognitivos) mesmo sem reforço alimentar imediato, manifestando esse conhecimento apenas quando o reforço passava a ser oferecido."
+    },
+    {
+      "id": "fund-obj-255",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a crise do paradigma comportamental estrito, que abriu caminho para a revolução cognitiva, teve início a partir de qual década?",
+      "options": {
+        "a": "Década de 1950",
+        "b": "Década de 1900",
+        "c": "Década de 1930",
+        "d": "Década de 1980",
+        "e": "Década de 2000"
+      },
+      "correct": "a",
+      "explanation": "A partir da década de 1950, o domínio quase absoluto do behaviorismo na psicologia acadêmica americana começou a enfrentar desafios significativos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a crise do paradigma comportamental estrito, que abriu caminho para a revolução cognitiva, teve início a partir de qual década? A partir da década de 1950, o domínio quase absoluto do behaviorismo na psicologia acadêmica americana começou a enfrentar desafios significativos."
+    },
+    {
+      "id": "fund-obj-256",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, ao propor o behaviorismo intencional, Tolman se diferenciava do behaviorismo radical de Skinner e do behaviorismo metodológico de Watson ao admitir:",
+      "options": {
+        "a": "A existência de variáveis intervenientes, como representações internas do ambiente",
+        "b": "A exclusão total de qualquer estudo do comportamento observável",
+        "c": "A rejeição completa do método experimental",
+        "d": "A impossibilidade de estudar animais em laboratório",
+        "e": "A adoção exclusiva da introspecção como método"
+      },
+      "correct": "a",
+      "explanation": "Tolman se diferenciava ao admitir a existência de variáveis intervenientes — processos internos não observáveis diretamente, como os mapas cognitivos — entre o estímulo e a resposta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao propor o behaviorismo intencional, Tolman se diferenciava do behaviorismo radical de Skinner e do behaviorismo metodológico de Watson ao admitir: Tolman se diferenciava ao admitir a existência de variáveis intervenientes — processos internos não observáveis diretamente, como os mapas cognitivos — entre o estímulo e a resposta."
+    },
+    {
+      "id": "fund-obj-257",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, o novo vocabulário fornecido pela ciência da computação para a psicologia cognitiva incluiu termos como 'input' e 'output', que se referem, respectivamente, a:",
+      "options": {
+        "a": "Entrada de dados e saída (comportamento observável)",
+        "b": "Reforço positivo e reforço negativo",
+        "c": "Estímulo incondicionado e resposta incondicionada",
+        "d": "Extinção e recuperação espontânea",
+        "e": "Generalização e discriminação de estímulos"
+      },
+      "correct": "a",
+      "explanation": "No vocabulário da revolução cognitiva, 'input' refere-se à entrada de dados (estímulos do ambiente) e 'output' refere-se à saída, que é o comportamento observável resultante do processamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o novo vocabulário fornecido pela ciência da computação para a psicologia cognitiva incluiu termos como 'input' e 'output', que se referem, respectivamente, a: No vocabulário da revolução cognitiva, 'input' refere-se à entrada de dados (estímulos do ambiente) e 'output' refere-se à saída, que é o comportamento observável resultante do processamento."
+    },
+    {
+      "id": "fund-obj-258",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a crítica de Chomsky ao behaviorismo de Skinner é considerada o 'golpe mais contundente' contra o monopólio comportamental porque:",
+      "options": {
+        "a": "Veio de uma disciplina externa à psicologia (a linguística), questionando a capacidade explicativa do modelo S-R para fenômenos criativos e generativos",
+        "b": "Foi a única crítica já feita ao behaviorismo em toda sua história",
+        "c": "Foi publicada antes mesmo do surgimento do behaviorismo radical",
+        "d": "Propunha o retorno completo à introspecção estruturalista",
+        "e": "Não teve qualquer repercussão acadêmica na época"
+      },
+      "correct": "a",
+      "explanation": "A crítica de Chomsky é considerada o golpe mais contundente por vir de uma disciplina externa (a linguística), demonstrando que fenômenos criativos e generativos como a linguagem não podiam ser explicados apenas pelo modelo S-R reforçado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, a crítica de Chomsky ao behaviorismo de Skinner é considerada o 'golpe mais contundente' contra o monopólio comportamental porque: A crítica de Chomsky é considerada o golpe mais contundente por vir de uma disciplina externa (a linguística), demonstrando que fenômenos criativos e generativos como a linguagem não podiam ser explicados apenas pelo modelo S-R reforçado."
+    },
+    {
+      "id": "fund-obj-259",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, o estudo da atenção dividida, mencionado como uma das formas de inferir processos mentais na psicologia cognitiva, permite ao pesquisador:",
+      "options": {
+        "a": "Investigar indiretamente processos mentais por meio de medidas objetivas de desempenho",
+        "b": "Acessar diretamente os pensamentos do participante por meio de relatos verbais livres",
+        "c": "Eliminar totalmente a necessidade de qualquer medida comportamental",
+        "d": "Substituir totalmente os experimentos com animais",
+        "e": "Comprovar exclusivamente teorias psicanalíticas sobre o inconsciente"
+      },
+      "correct": "a",
+      "explanation": "Experimentos de atenção dividida, assim como o tempo de reação e as taxas de erro em tarefas de memória, permitem investigar indiretamente processos mentais por meio de medidas objetivas de desempenho, mantendo o rigor metodológico herdado do behaviorismo.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o estudo da atenção dividida, mencionado como uma das formas de inferir processos mentais na psicologia cognitiva, permite ao pesquisador: Experimentos de atenção dividida, assim como o tempo de reação e as taxas de erro em tarefas de memória, permitem investigar indiretamente processos mentais por meio de medidas objetivas de desempenho, mantendo o rigor metodológico herdado do behaviorismo."
+    },
+    {
+      "id": "fund-obj-260",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a Teoria da Aprendizagem Social de Bandura é considerada uma 'figura de transição' porque:",
+      "options": {
+        "a": "Combina princípios comportamentais (aprendizagem por consequências) com processos cognitivos (atenção, retenção, motivação)",
+        "b": "Rejeita totalmente qualquer influência do ambiente sobre o comportamento",
+        "c": "Defende que a aprendizagem ocorre exclusivamente por reforço direto",
+        "d": "Ignora completamente os processos de socialização humana",
+        "e": "Se opõe integralmente a qualquer princípio da revolução cognitiva"
+      },
+      "correct": "a",
+      "explanation": "A teoria de Bandura é considerada uma figura de transição porque combina princípios comportamentais (a relevância das consequências) com a necessidade de processos cognitivos (atenção, retenção e motivação) para explicar a aprendizagem por observação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a Teoria da Aprendizagem Social de Bandura é considerada uma 'figura de transição' porque: A teoria de Bandura é considerada uma figura de transição porque combina princípios comportamentais (a relevância das consequências) com a necessidade de processos cognitivos (atenção, retenção e motivação) para explicar a aprendizagem por observação."
+    },
+    {
+      "id": "fund-obj-261",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, o novo paradigma que marcou a revolução cognitiva reintroduziu a mente como objeto de estudo científico, mas se diferenciou do estruturalismo de Titchener principalmente porque:",
+      "options": {
+        "a": "Os processos mentais eram inferidos indiretamente por medidas objetivas de desempenho, e não por relatos introspectivos subjetivos",
+        "b": "Excluiu completamente qualquer interesse pelos processos mentais internos",
+        "c": "Utilizou exclusivamente o mesmo método de introspecção experimental de Wundt",
+        "d": "Rejeitou totalmente a necessidade de rigor experimental",
+        "e": "Restringiu-se exclusivamente ao estudo de animais em laboratório"
+      },
+      "correct": "a",
+      "explanation": "Diferentemente do estruturalismo, que dependia de relatos introspectivos subjetivos, a psicologia cognitiva inferia os processos mentais indiretamente, a partir de medidas objetivas como tempo de reação e taxas de erro.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o novo paradigma que marcou a revolução cognitiva reintroduziu a mente como objeto de estudo científico, mas se diferenciou do estruturalismo de Titchener principalmente porque: Diferentemente do estruturalismo, que dependia de relatos introspectivos subjetivos, a psicologia cognitiva inferia os processos mentais indiretamente, a partir de medidas objetivas como tempo de reação e taxas de erro."
+    },
+    {
+      "id": "fund-obj-262",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo o material, a publicação do livro 'O Comportamento Verbal' por Skinner, em 1957, tinha como objetivo:",
+      "options": {
+        "a": "Explicar a linguagem humana através das contingências de reforçamento",
+        "b": "Refutar antecipadamente as futuras críticas de Chomsky",
+        "c": "Apresentar o conceito de mapas cognitivos",
+        "d": "Descrever o funcionamento do processamento de informação",
+        "e": "Estabelecer as bases da Teoria da Aprendizagem Social"
+      },
+      "correct": "a",
+      "explanation": "Em 1957, Skinner publicou 'O Comportamento Verbal', no qual tentava explicar a linguagem humana através das contingências de reforçamento — obra que seria duramente criticada por Chomsky em 1959.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a publicação do livro 'O Comportamento Verbal' por Skinner, em 1957, tinha como objetivo: Em 1957, Skinner publicou 'O Comportamento Verbal', no qual tentava explicar a linguagem humana através das contingências de reforçamento — obra que seria duramente criticada por Chomsky em 1959."
+    },
+    {
+      "id": "fund-obj-263",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, Aaron Beck e Albert Ellis foram os pioneiros no desenvolvimento de modelos clínicos que integravam:",
+      "options": {
+        "a": "A cognição ao comportamento",
+        "b": "Exclusivamente a psicanálise ao behaviorismo radical",
+        "c": "Exclusivamente a fisiologia à introspecção",
+        "d": "Exclusivamente o funcionalismo ao estruturalismo",
+        "e": "Exclusivamente a fenomenologia à psicofísica"
+      },
+      "correct": "a",
+      "explanation": "Aaron Beck e Albert Ellis foram os pioneiros no desenvolvimento de modelos clínicos que integravam a cognição ao comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Aaron Beck e Albert Ellis foram os pioneiros no desenvolvimento de modelos clínicos que integravam: Aaron Beck e Albert Ellis foram os pioneiros no desenvolvimento de modelos clínicos que integravam a cognição ao comportamento."
+    },
+    {
+      "id": "fund-obj-264",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, Beck, trabalhando com pacientes com depressão, observou que eles apresentavam um fluxo constante de:",
+      "options": {
+        "a": "Pensamentos automáticos negativos",
+        "b": "Reflexos condicionados exclusivamente",
+        "c": "Comportamentos operantes reforçados positivamente",
+        "d": "Respostas motoras involuntárias",
+        "e": "Esquemas de reforçamento intermitente"
+      },
+      "correct": "a",
+      "explanation": "Beck observou que pacientes com depressão apresentavam um fluxo constante de pensamentos automáticos negativos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Beck, trabalhando com pacientes com depressão, observou que eles apresentavam um fluxo constante de: Beck observou que pacientes com depressão apresentavam um fluxo constante de pensamentos automáticos negativos."
+    },
+    {
+      "id": "fund-obj-265",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, Beck propôs o modelo cognitivo da psicopatologia, postulando que:",
+      "options": {
+        "a": "Não são as situações em si que causam o sofrimento emocional, mas sim a interpretação que o indivíduo faz destas situações",
+        "b": "As situações externas são a única causa direta do sofrimento emocional, sem qualquer mediação cognitiva",
+        "c": "O sofrimento emocional é determinado exclusivamente por fatores genéticos",
+        "d": "A interpretação das situações nunca influencia o sofrimento emocional",
+        "e": "Apenas eventos traumáticos da infância causam sofrimento na vida adulta"
+      },
+      "correct": "a",
+      "explanation": "Beck postulou que não são as situações em si que causam o sofrimento emocional, mas sim a interpretação que o indivíduo faz dessas situações.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, Beck propôs o modelo cognitivo da psicopatologia, postulando que: Beck postulou que não são as situações em si que causam o sofrimento emocional, mas sim a interpretação que o indivíduo faz dessas situações."
+    },
+    {
+      "id": "fund-obj-266",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, o modelo de Beck baseia-se na existência de esquemas cognitivos, definidos como:",
+      "options": {
+        "a": "Estruturas profundas de crenças formadas ao longo da vida",
+        "b": "Reflexos incondicionados presentes desde o nascimento",
+        "c": "Reforçadores primários biologicamente determinados",
+        "d": "Padrões motores automáticos sem qualquer componente cognitivo",
+        "e": "Estruturas exclusivamente linguísticas inatas"
+      },
+      "correct": "a",
+      "explanation": "Os esquemas cognitivos são estruturas profundas de crenças formadas ao longo da vida, que, quando ativados por eventos estressores, geram distorções cognitivas e pensamentos automáticos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o modelo de Beck baseia-se na existência de esquemas cognitivos, definidos como: Os esquemas cognitivos são estruturas profundas de crenças formadas ao longo da vida, que, quando ativados por eventos estressores, geram distorções cognitivas e pensamentos automáticos."
+    },
+    {
+      "id": "fund-obj-267",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, quando ativados por eventos estressores, os esquemas cognitivos geram distorções cognitivas, definidas como:",
+      "options": {
+        "a": "Erros de processamento de informação, como generalização excessiva ou pensamento dicotômico",
+        "b": "Reflexos condicionados exclusivamente motores",
+        "c": "Comportamentos operantes reforçados negativamente",
+        "d": "Padrões exclusivamente genéticos de resposta emocional",
+        "e": "Estruturas linguísticas inatas propostas por Chomsky"
+      },
+      "correct": "a",
+      "explanation": "As distorções cognitivas são erros de processamento de informação, como a generalização excessiva ou o pensamento dicotômico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quando ativados por eventos estressores, os esquemas cognitivos geram distorções cognitivas, definidas como: As distorções cognitivas são erros de processamento de informação, como a generalização excessiva ou o pensamento dicotômico."
+    },
+    {
+      "id": "fund-obj-268",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a Terapia Cognitivo-Comportamental (TCC) emergiu como um modelo:",
+      "options": {
+        "a": "Estruturado, diretivo e focado no presente",
+        "b": "Não estruturado e sem qualquer direcionamento do terapeuta",
+        "c": "Focado exclusivamente no passado remoto do paciente",
+        "d": "Baseado exclusivamente na associação livre",
+        "e": "Sem qualquer objetivo de reestruturação cognitiva"
+      },
+      "correct": "a",
+      "explanation": "A TCC emergiu como um modelo estruturado, diretivo e focado no presente, que busca identificar, avaliar e reestruturar cognições disfuncionais.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a Terapia Cognitivo-Comportamental (TCC) emergiu como um modelo: A TCC emergiu como um modelo estruturado, diretivo e focado no presente, que busca identificar, avaliar e reestruturar cognições disfuncionais."
+    },
+    {
+      "id": "fund-obj-269",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a força da TCC reside em sua natureza integrativa, pois ela não abandonou as técnicas comportamentais, mas as incorporou como:",
+      "options": {
+        "a": "Ferramentas essenciais para a mudança cognitiva",
+        "b": "Elementos irrelevantes e descartáveis",
+        "c": "Técnicas exclusivas para tratamento de fobias apenas",
+        "d": "Métodos incompatíveis com a reestruturação cognitiva",
+        "e": "Práticas restritas exclusivamente ao contexto animal"
+      },
+      "correct": "a",
+      "explanation": "A TCC incorporou as técnicas comportamentais como ferramentas essenciais para a mudança cognitiva, integrando cognição e comportamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a força da TCC reside em sua natureza integrativa, pois ela não abandonou as técnicas comportamentais, mas as incorporou como: A TCC incorporou as técnicas comportamentais como ferramentas essenciais para a mudança cognitiva, integrando cognição e comportamento."
+    },
+    {
+      "id": "fund-obj-270",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a técnica de reestruturação cognitiva utiliza o questionamento socrático para ajudar a pessoa a:",
+      "options": {
+        "a": "Avaliar as evidências que sustentam seus pensamentos, promovendo interpretações mais realistas e adaptativas",
+        "b": "Memorizar listas de comportamentos desejáveis sem qualquer reflexão",
+        "c": "Evitar completamente qualquer contato com pensamentos negativos",
+        "d": "Substituir a terapia por medicação exclusivamente",
+        "e": "Eliminar totalmente a necessidade de qualquer diálogo terapêutico"
+      },
+      "correct": "a",
+      "explanation": "Na reestruturação cognitiva, o terapeuta utiliza o questionamento socrático para ajudar a pessoa a avaliar as evidências que sustentam seus pensamentos, promovendo interpretações mais realistas e adaptativas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a técnica de reestruturação cognitiva utiliza o questionamento socrático para ajudar a pessoa a: Na reestruturação cognitiva, o terapeuta utiliza o questionamento socrático para ajudar a pessoa a avaliar as evidências que sustentam seus pensamentos, promovendo interpretações mais realistas e adaptativas."
+    },
+    {
+      "id": "fund-obj-271",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a ativação comportamental, técnica de origem puramente operante utilizada no tratamento da depressão, envolve:",
+      "options": {
+        "a": "O agendamento de atividades que proporcionem senso de prazer e de domínio, restaurando o contato com fontes de reforçamento positivo",
+        "b": "A eliminação total de qualquer atividade cotidiana do paciente",
+        "c": "O uso exclusivo de medicação psiquiátrica sem qualquer intervenção comportamental",
+        "d": "A punição sistemática de comportamentos de esquiva",
+        "e": "A análise exclusiva de sonhos e conteúdos inconscientes"
+      },
+      "correct": "a",
+      "explanation": "A ativação comportamental envolve o agendamento de atividades que proporcionem senso de prazer e de domínio, restaurando o contato do indivíduo com fontes de reforçamento positivo no ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a ativação comportamental, técnica de origem puramente operante utilizada no tratamento da depressão, envolve: A ativação comportamental envolve o agendamento de atividades que proporcionem senso de prazer e de domínio, restaurando o contato do indivíduo com fontes de reforçamento positivo no ambiente."
+    },
+    {
+      "id": "fund-obj-272",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, os experimentos comportamentais na TCC representam a integração perfeita entre cognição e comportamento, pois:",
+      "options": {
+        "a": "O paciente e o terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional",
+        "b": "Envolvem exclusivamente a memorização de conceitos teóricos sem qualquer ação prática",
+        "c": "Substituem totalmente a necessidade de reestruturação cognitiva",
+        "d": "São aplicados exclusivamente em contextos de laboratório com animais",
+        "e": "Eliminam por completo qualquer participação ativa do paciente"
+      },
+      "correct": "a",
+      "explanation": "Nos experimentos comportamentais, o paciente e o terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional, servindo o comportamento como um teste empírico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os experimentos comportamentais na TCC representam a integração perfeita entre cognição e comportamento, pois: Nos experimentos comportamentais, o paciente e o terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional, servindo o comportamento como um teste empírico."
+    },
+    {
+      "id": "fund-obj-273",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a integração entre cognição e comportamento tornou a TCC o modelo de intervenção com o maior volume de evidências de eficácia para uma ampla gama de transtornos, incluindo:",
+      "options": {
+        "a": "Ansiedade, depressão, transtornos alimentares e dependência química",
+        "b": "Exclusivamente fobias específicas simples",
+        "c": "Exclusivamente transtornos do sono",
+        "d": "Exclusivamente transtornos de personalidade",
+        "e": "Exclusivamente transtornos neurológicos degenerativos"
+      },
+      "correct": "a",
+      "explanation": "A integração entre cognição e comportamento tornou a TCC o modelo com maior volume de evidências de eficácia para transtornos como ansiedade, depressão, transtornos alimentares e dependência química.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a integração entre cognição e comportamento tornou a TCC o modelo de intervenção com o maior volume de evidências de eficácia para uma ampla gama de transtornos, incluindo: A integração entre cognição e comportamento tornou a TCC o modelo com maior volume de evidências de eficácia para transtornos como ansiedade, depressão, transtornos alimentares e dependência química."
+    },
+    {
+      "id": "fund-obj-274",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a literatura denomina 'terceira onda' o desenvolvimento mais recente das terapias comportamentais e cognitivas; a primeira onda focava na modificação direta do comportamento, e a segunda onda focava:",
+      "options": {
+        "a": "Na mudança do conteúdo dos pensamentos (TCC clássica)",
+        "b": "Exclusivamente na análise do inconsciente",
+        "c": "Exclusivamente na estrutura da consciência",
+        "d": "Exclusivamente nos reflexos condicionados",
+        "e": "Exclusivamente na psicofísica"
+      },
+      "correct": "a",
+      "explanation": "A primeira onda focava na modificação direta do comportamento (behaviorismo clássico e operante), e a segunda onda focava na mudança do conteúdo dos pensamentos (TCC clássica).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a literatura denomina 'terceira onda' o desenvolvimento mais recente das terapias comportamentais e cognitivas; a primeira onda focava na modificação direta do comportamento, e a segunda onda focava: A primeira onda focava na modificação direta do comportamento (behaviorismo clássico e operante), e a segunda onda focava na mudança do conteúdo dos pensamentos (TCC clássica)."
+    },
+    {
+      "id": "fund-obj-275",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a terceira onda das terapias comportamentais e cognitivas propõe uma mudança na:",
+      "options": {
+        "a": "Relação que o indivíduo estabelece com seus próprios eventos internos",
+        "b": "Estrutura anatômica do cérebro por meio de intervenção farmacológica",
+        "c": "Genética herdada dos pais, por meio de terapia gênica",
+        "d": "Composição química dos neurotransmissores exclusivamente",
+        "e": "Anatomia da glândula pineal, retomando o dualismo cartesiano"
+      },
+      "correct": "a",
+      "explanation": "A terceira onda propõe uma mudança na relação que o indivíduo estabelece com seus próprios eventos internos, e não necessariamente na mudança do conteúdo desses eventos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a terceira onda das terapias comportamentais e cognitivas propõe uma mudança na: A terceira onda propõe uma mudança na relação que o indivíduo estabelece com seus próprios eventos internos, e não necessariamente na mudança do conteúdo desses eventos."
+    },
+    {
+      "id": "fund-obj-276",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, quais são dois modelos de terapia de terceira onda mencionados no material, que integram a análise funcional do comportamento com práticas de mindfulness e aceitação?",
+      "options": {
+        "a": "Terapia de Aceitação e Compromisso (ACT) e Terapia Comportamental Dialética (DBT)",
+        "b": "Psicanálise freudiana e Gestalt-terapia",
+        "c": "Behaviorismo metodológico e estruturalismo",
+        "d": "Funcionalismo e pragmatismo americano",
+        "e": "Terapia centrada na pessoa e logoterapia"
+      },
+      "correct": "a",
+      "explanation": "A Terapia de Aceitação e Compromisso (ACT) e a Terapia Comportamental Dialética (DBT) são exemplos de terapias de terceira onda que integram o rigor da análise funcional do comportamento com práticas de mindfulness e aceitação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, quais são dois modelos de terapia de terceira onda mencionados no material, que integram a análise funcional do comportamento com práticas de mindfulness e aceitação? A Terapia de Aceitação e Compromisso (ACT) e a Terapia Comportamental Dialética (DBT) são exemplos de terapias de terceira onda que integram o rigor da análise funcional do comportamento com práticas de mindfulness e aceitação."
+    },
+    {
+      "id": "fund-obj-277",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a premissa das terapias de terceira onda é que a tentativa incessante de controlar ou eliminar pensamentos e sentimentos aversivos, chamada de esquiva experiencial, é, com frequência:",
+      "options": {
+        "a": "A raiz do sofrimento psicológico",
+        "b": "A única forma eficaz de tratamento psicológico",
+        "c": "Um processo totalmente benéfico e sem qualquer consequência negativa",
+        "d": "Irrelevante para a compreensão do sofrimento humano",
+        "e": "Um comportamento exclusivamente adaptativo, sem qualquer prejuízo"
+      },
+      "correct": "a",
+      "explanation": "A premissa das terapias de terceira onda é que a esquiva experiencial (tentativa incessante de controlar ou eliminar eventos internos aversivos) é, com frequência, a raiz do sofrimento psicológico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24-25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a premissa das terapias de terceira onda é que a tentativa incessante de controlar ou eliminar pensamentos e sentimentos aversivos, chamada de esquiva experiencial, é, com frequência: A premissa das terapias de terceira onda é que a esquiva experiencial (tentativa incessante de controlar ou eliminar eventos internos aversivos) é, com frequência, a raiz do sofrimento psicológico."
+    },
+    {
+      "id": "fund-obj-278",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, um terapeuta de terceira onda não busca necessariamente alterar o conteúdo de um pensamento negativo, mas sim utiliza técnicas para promover a desfusão cognitiva, ajudando o indivíduo a:",
+      "options": {
+        "a": "Observar o pensamento apenas como um evento mental transitório, e não como uma verdade absoluta",
+        "b": "Memorizar o pensamento negativo repetidamente até que ele se intensifique",
+        "c": "Eliminar fisicamente qualquer estímulo que provoque o pensamento",
+        "d": "Substituir o pensamento negativo por uma crença religiosa específica",
+        "e": "Ignorar completamente a existência do pensamento, sem qualquer observação"
+      },
+      "correct": "a",
+      "explanation": "A desfusão cognitiva ajuda o indivíduo a observar o pensamento apenas como um evento mental transitório, e não como uma verdade absoluta.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, um terapeuta de terceira onda não busca necessariamente alterar o conteúdo de um pensamento negativo, mas sim utiliza técnicas para promover a desfusão cognitiva, ajudando o indivíduo a: A desfusão cognitiva ajuda o indivíduo a observar o pensamento apenas como um evento mental transitório, e não como uma verdade absoluta."
+    },
+    {
+      "id": "fund-obj-279",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, na terceira onda, o foco terapêutico redireciona-se para a clarificação de valores pessoais e para o comprometimento com:",
+      "options": {
+        "a": "Ações que enriqueçam a vida, mesmo na presença de desconforto emocional",
+        "b": "A eliminação total e definitiva de qualquer desconforto emocional antes de agir",
+        "c": "A evitação sistemática de qualquer situação que gere ansiedade",
+        "d": "A dependência exclusiva de medicação psiquiátrica",
+        "e": "A supressão de qualquer expressão emocional em público"
+      },
+      "correct": "a",
+      "explanation": "Na terceira onda, o foco terapêutico redireciona-se para a clarificação de valores pessoais e para o comprometimento com ações que enriqueçam a vida, mesmo na presença de desconforto emocional.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na terceira onda, o foco terapêutico redireciona-se para a clarificação de valores pessoais e para o comprometimento com: Na terceira onda, o foco terapêutico redireciona-se para a clarificação de valores pessoais e para o comprometimento com ações que enriqueçam a vida, mesmo na presença de desconforto emocional."
+    },
+    {
+      "id": "fund-obj-280",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, no mercado de trabalho contemporâneo, a proficiência no modelo integrativo da TCC é considerada:",
+      "options": {
+        "a": "Uma das competências mais requisitadas para a atuação na psicologia clínica e em instituições de saúde",
+        "b": "Uma competência irrelevante e pouco valorizada no mercado atual",
+        "c": "Exclusiva para profissionais que atuam apenas com pesquisa básica em laboratório",
+        "d": "Dispensável diante do avanço exclusivo da psicanálise",
+        "e": "Restrita apenas a contextos educacionais, sem aplicação clínica"
+      },
+      "correct": "a",
+      "explanation": "No mercado de trabalho contemporâneo, a proficiência no modelo integrativo da TCC é uma das competências mais requisitadas para a atuação na psicologia clínica e em instituições de saúde.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no mercado de trabalho contemporâneo, a proficiência no modelo integrativo da TCC é considerada: No mercado de trabalho contemporâneo, a proficiência no modelo integrativo da TCC é uma das competências mais requisitadas para a atuação na psicologia clínica e em instituições de saúde."
+    },
+    {
+      "id": "fund-obj-281",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, no exemplo clínico do material, um paciente com quadro depressivo que acredita ser incapaz de realizar qualquer atividade produtiva é orientado pelo terapeuta a realizar uma pequena tarefa doméstica e registrar o resultado; essa técnica é denominada, na estrutura da TCC:",
+      "options": {
+        "a": "Experimento comportamental",
+        "b": "Desfusão cognitiva",
+        "c": "Questionamento socrático isolado",
+        "d": "Esquiva experiencial",
+        "e": "Extinção operante"
+      },
+      "correct": "a",
+      "explanation": "Essa técnica, na qual paciente e terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional, denomina-se experimento comportamental.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "26-27"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, no exemplo clínico do material, um paciente com quadro depressivo que acredita ser incapaz de realizar qualquer atividade produtiva é orientado pelo terapeuta a realizar uma pequena tarefa doméstica e registrar o resultado; essa técnica é denominada, na estrutura da TCC: Essa técnica, na qual paciente e terapeuta desenham uma situação prática para testar a validade de uma crença disfuncional, denomina-se experimento comportamental."
+    },
+    {
+      "id": "fund-obj-282",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a integração entre o comportamento observável e a cognição, consolidada ao longo da história da psicologia como ciência do comportamento, fornece aos profissionais contemporâneos ferramentas para:",
+      "options": {
+        "a": "Aliviar o sofrimento humano e promover a saúde mental com base em evidências científicas rigorosas",
+        "b": "Substituir totalmente a necessidade de qualquer formação teórica",
+        "c": "Eliminar por completo a prática clínica baseada em evidências",
+        "d": "Restringir a psicologia exclusivamente ao ambiente de laboratório",
+        "e": "Descartar toda e qualquer contribuição histórica do behaviorismo"
+      },
+      "correct": "a",
+      "explanation": "A integração entre o comportamento observável e a cognição fornece aos profissionais contemporâneos ferramentas de alta precisão para aliviar o sofrimento humano e promover a saúde mental com base em evidências científicas rigorosas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a integração entre o comportamento observável e a cognição, consolidada ao longo da história da psicologia como ciência do comportamento, fornece aos profissionais contemporâneos ferramentas para: A integração entre o comportamento observável e a cognição fornece aos profissionais contemporâneos ferramentas de alta precisão para aliviar o sofrimento humano e promover a saúde mental com base em evidências científicas rigorosas."
+    },
+    {
+      "id": "fund-obj-283",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, diferentemente da reestruturação cognitiva (que busca alterar o conteúdo do pensamento), a desfusão cognitiva, técnica típica da terceira onda, busca alterar:",
+      "options": {
+        "a": "A relação do indivíduo com o pensamento, e não seu conteúdo",
+        "b": "Exclusivamente a frequência de ocorrência do pensamento",
+        "c": "Exclusivamente a intensidade fisiológica associada ao pensamento",
+        "d": "O conteúdo do pensamento, de forma idêntica à reestruturação cognitiva",
+        "e": "A origem genética do pensamento automático"
+      },
+      "correct": "a",
+      "explanation": "A desfusão cognitiva, técnica da terceira onda, busca alterar a relação do indivíduo com o pensamento (observá-lo como evento transitório), diferentemente da reestruturação cognitiva, que busca alterar o conteúdo do pensamento.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, diferentemente da reestruturação cognitiva (que busca alterar o conteúdo do pensamento), a desfusão cognitiva, técnica típica da terceira onda, busca alterar: A desfusão cognitiva, técnica da terceira onda, busca alterar a relação do indivíduo com o pensamento (observá-lo como evento transitório), diferentemente da reestruturação cognitiva, que busca alterar o conteúdo do pensamento."
+    },
+    {
+      "id": "fund-obj-284",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, os transtornos alimentares e a dependência química estão entre os quadros para os quais a TCC apresenta:",
+      "options": {
+        "a": "O maior volume de evidências de eficácia",
+        "b": "Nenhuma evidência de eficácia documentada",
+        "c": "Eficácia exclusivamente teórica, sem qualquer estudo empírico",
+        "d": "Eficácia inferior a todas as demais abordagens terapêuticas",
+        "e": "Contraindicação total de uso"
+      },
+      "correct": "a",
+      "explanation": "A TCC apresenta o maior volume de evidências de eficácia para uma ampla gama de transtornos, incluindo ansiedade, depressão, transtornos alimentares e dependência química.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, os transtornos alimentares e a dependência química estão entre os quadros para os quais a TCC apresenta: A TCC apresenta o maior volume de evidências de eficácia para uma ampla gama de transtornos, incluindo ansiedade, depressão, transtornos alimentares e dependência química."
+    },
+    {
+      "id": "fund-obj-285",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, ao comparar as três 'ondas' das terapias comportamentais e cognitivas, é correto afirmar que:",
+      "options": {
+        "a": "Cada onda incorpora e integra elementos da anterior, sem simplesmente substituí-la",
+        "b": "Cada onda rejeita e elimina completamente os princípios estabelecidos pela onda anterior",
+        "c": "Todas as três ondas surgiram simultaneamente, sem qualquer ordem cronológica",
+        "d": "A terceira onda representa um retorno puro ao behaviorismo metodológico de Watson",
+        "e": "A segunda onda ignora completamente qualquer técnica comportamental"
+      },
+      "correct": "a",
+      "explanation": "As ondas se sucedem de forma integrativa: a TCC (segunda onda) incorporou técnicas comportamentais da primeira onda, e a terceira onda integra o rigor da análise funcional do comportamento com novas práticas como mindfulness e aceitação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, ao comparar as três 'ondas' das terapias comportamentais e cognitivas, é correto afirmar que: As ondas se sucedem de forma integrativa: a TCC (segunda onda) incorporou técnicas comportamentais da primeira onda, e a terceira onda integra o rigor da análise funcional do comportamento com novas práticas como mindfulness e aceitação."
+    },
+    {
+      "id": "fund-obj-286",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, o modelo cognitivo da psicopatologia proposto por Beck fundamenta-se, principalmente, na análise de pacientes com quadro de:",
+      "options": {
+        "a": "Depressão",
+        "b": "Esquizofrenia exclusivamente",
+        "c": "Transtorno de personalidade antissocial exclusivamente",
+        "d": "Transtorno do espectro autista exclusivamente",
+        "e": "Demência exclusivamente"
+      },
+      "correct": "a",
+      "explanation": "Beck, trabalhando com pacientes com depressão, observou o fluxo constante de pensamentos automáticos negativos, o que fundamentou o modelo cognitivo da psicopatologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, o modelo cognitivo da psicopatologia proposto por Beck fundamenta-se, principalmente, na análise de pacientes com quadro de: Beck, trabalhando com pacientes com depressão, observou o fluxo constante de pensamentos automáticos negativos, o que fundamentou o modelo cognitivo da psicopatologia."
+    },
+    {
+      "id": "fund-obj-287",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, na Terapia Comportamental Dialética (DBT), assim como na ACT, há uma integração entre a análise funcional do comportamento e:",
+      "options": {
+        "a": "Práticas de mindfulness (atenção plena) e aceitação",
+        "b": "Exclusivamente técnicas de hipnose clínica",
+        "c": "Exclusivamente psicofármacos de última geração",
+        "d": "Exclusivamente testes projetivos de personalidade",
+        "e": "Exclusivamente entrevistas psicanalíticas clássicas"
+      },
+      "correct": "a",
+      "explanation": "Tanto a DBT quanto a ACT integram o rigor da análise funcional do comportamento com práticas de mindfulness (atenção plena) e aceitação.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, na Terapia Comportamental Dialética (DBT), assim como na ACT, há uma integração entre a análise funcional do comportamento e: Tanto a DBT quanto a ACT integram o rigor da análise funcional do comportamento com práticas de mindfulness (atenção plena) e aceitação."
+    },
+    {
+      "id": "fund-obj-288",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, o pensamento dicotômico, citado como exemplo de distorção cognitiva, caracteriza-se por:",
+      "options": {
+        "a": "Uma forma de processamento de informação categorizada em extremos (tudo ou nada), sem meios-termos",
+        "b": "Um raciocínio exclusivamente lógico e matematicamente correto",
+        "c": "Uma habilidade cognitiva superior, sem qualquer prejuízo psicológico",
+        "d": "Um processo exclusivamente inconsciente, inacessível à terapia",
+        "e": "Uma característica exclusivamente genética, sem influência do esquema cognitivo"
+      },
+      "correct": "a",
+      "explanation": "O pensamento dicotômico é uma distorção cognitiva citada como exemplo de erro de processamento de informação, caracterizada por avaliar situações em extremos (tudo ou nada), sem meios-termos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, o pensamento dicotômico, citado como exemplo de distorção cognitiva, caracteriza-se por: O pensamento dicotômico é uma distorção cognitiva citada como exemplo de erro de processamento de informação, caracterizada por avaliar situações em extremos (tudo ou nada), sem meios-termos."
+    },
+    {
+      "id": "fund-obj-289",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, ao integrar cognição e comportamento na TCC, a mudança de humor e de cognição pode ser alcançada indiretamente por meio de uma técnica de origem puramente comportamental, denominada:",
+      "options": {
+        "a": "Ativação comportamental",
+        "b": "Reestruturação cognitiva",
+        "c": "Desfusão cognitiva",
+        "d": "Questionamento socrático",
+        "e": "Esquiva experiencial"
+      },
+      "correct": "a",
+      "explanation": "A ativação comportamental, de origem puramente operante, restaura o contato do indivíduo com fontes de reforçamento positivo, o que, por consequência, altera o humor e a cognição.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, ao integrar cognição e comportamento na TCC, a mudança de humor e de cognição pode ser alcançada indiretamente por meio de uma técnica de origem puramente comportamental, denominada: A ativação comportamental, de origem puramente operante, restaura o contato do indivíduo com fontes de reforçamento positivo, o que, por consequência, altera o humor e a cognição."
+    },
+    {
+      "id": "fund-obj-290",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a integração entre a pesquisa cognitiva básica e a prática clínica, exemplificada pelo trabalho de Beck e Ellis, demonstra que:",
+      "options": {
+        "a": "A revolução cognitiva teve um impacto profundo na prática clínica, gerando um movimento de integração com o comportamentalismo",
+        "b": "A prática clínica permaneceu totalmente isolada dos avanços da pesquisa cognitiva básica",
+        "c": "Beck e Ellis rejeitaram totalmente qualquer influência da pesquisa cognitiva em seus modelos",
+        "d": "A TCC surgiu de forma independente e sem qualquer relação com a revolução cognitiva",
+        "e": "A prática clínica antecedeu cronologicamente a revolução cognitiva na pesquisa básica"
+      },
+      "correct": "a",
+      "explanation": "A revolução cognitiva na pesquisa básica teve um impacto profundo na prática clínica, gerando um movimento de integração que transformou a atuação profissional, exemplificado pelo trabalho pioneiro de Beck e Ellis.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a integração entre a pesquisa cognitiva básica e a prática clínica, exemplificada pelo trabalho de Beck e Ellis, demonstra que: A revolução cognitiva na pesquisa básica teve um impacto profundo na prática clínica, gerando um movimento de integração que transformou a atuação profissional, exemplificado pelo trabalho pioneiro de Beck e Ellis."
+    },
+    {
+      "id": "fund-obj-291",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, na estrutura da TCC, a técnica de experimento comportamental se diferencia da ativação comportamental porque:",
+      "options": {
+        "a": "O experimento comportamental testa diretamente a validade de uma crença disfuncional específica, enquanto a ativação comportamental busca restaurar, de forma mais ampla, o contato com fontes de reforçamento positivo",
+        "b": "São exatamente a mesma técnica, apenas com nomes diferentes",
+        "c": "O experimento comportamental não envolve qualquer ação prática do paciente",
+        "d": "A ativação comportamental é exclusiva da terceira onda, e não da TCC clássica",
+        "e": "O experimento comportamental é utilizado exclusivamente em contextos organizacionais"
+      },
+      "correct": "a",
+      "explanation": "O experimento comportamental testa diretamente a validade de uma crença disfuncional específica por meio de uma situação prática planejada, enquanto a ativação comportamental busca, de forma mais ampla, restaurar o contato do paciente com fontes de reforçamento positivo no ambiente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o material, na estrutura da TCC, a técnica de experimento comportamental se diferencia da ativação comportamental porque: O experimento comportamental testa diretamente a validade de uma crença disfuncional específica por meio de uma situação prática planejada, enquanto a ativação comportamental busca, de forma mais ampla, restaurar o contato do paciente com fontes de reforçamento positivo no ambiente."
+    },
+    {
+      "id": "fund-obj-292",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo o material, a Terapia Cognitivo-Comportamental (TCC) representa um movimento de integração surgido a partir do impacto da revolução cognitiva sobre:",
+      "options": {
+        "a": "A prática clínica, que passou a integrar cognição e comportamento na compreensão do sofrimento humano",
+        "b": "Exclusivamente a pesquisa básica em laboratório com animais",
+        "c": "Exclusivamente o ambiente organizacional e o mercado de trabalho",
+        "d": "Exclusivamente o campo da linguística e da aquisição da linguagem",
+        "e": "Exclusivamente a neurociência e a genética comportamental"
+      },
+      "correct": "a",
+      "explanation": "A revolução cognitiva na pesquisa básica teve um impacto profundo na prática clínica, gerando um movimento de integração entre cognição e comportamento que deu origem à TCC.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o material, a Terapia Cognitivo-Comportamental (TCC) representa um movimento de integração surgido a partir do impacto da revolução cognitiva sobre: A revolução cognitiva na pesquisa básica teve um impacto profundo na prática clínica, gerando um movimento de integração entre cognição e comportamento que deu origem à TCC."
     }
   ],
   "discursive": [
@@ -8241,6 +9561,653 @@
       },
       "subject": "Positivismo e psicofísica",
       "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-075",
+      "topic": "Revolução cognitiva",
+      "question": "Explique a contribuição de Edward Tolman para a crise do paradigma comportamental estrito.",
+      "modelAnswer": "Tolman propôs o behaviorismo intencional, demonstrando em experimentos com ratos em labirintos que os animais aprendiam a estrutura espacial mesmo sem reforço alimentar, formando 'mapas cognitivos' do ambiente — representações internas que guiavam o comportamento. Essa proposta inseriu variáveis intervenientes entre estímulo e resposta, fissurando a barreira do behaviorismo radical.",
+      "keyPoints": [
+        {
+          "text": "Behaviorismo intencional; mapas cognitivos em ratos",
+          "weight": 0.5,
+          "keywords": [
+            "behaviorismo intencional",
+            "mapas cognitivos"
+          ]
+        },
+        {
+          "text": "Inseriu variáveis intervenientes, fissurando o behaviorismo radical",
+          "weight": 0.5,
+          "keywords": [
+            "variáveis intervenientes"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-076",
+      "topic": "Revolução cognitiva",
+      "question": "Explique a crítica de Chomsky ao livro 'O Comportamento Verbal' de Skinner e sua importância histórica.",
+      "modelAnswer": "Chomsky argumentou que a linguagem humana é criativa e generativa: crianças produzem frases nunca ouvidas antes, que portanto não poderiam ter sido reforçadas. Ele defendeu a existência de uma estrutura inata para a aquisição da linguagem. Essa crítica é considerada o golpe mais contundente contra o monopólio comportamental, pois evidenciou a necessidade de postular estruturas mentais internas para explicar o comportamento humano complexo.",
+      "keyPoints": [
+        {
+          "text": "Linguagem criativa/generativa não pode ser só reforçada",
+          "weight": 0.4,
+          "keywords": [
+            "criativa",
+            "generativa"
+          ]
+        },
+        {
+          "text": "Defendeu estrutura inata para a linguagem",
+          "weight": 0.3,
+          "keywords": [
+            "estrutura inata"
+          ]
+        },
+        {
+          "text": "Evidenciou necessidade de estruturas mentais internas",
+          "weight": 0.3,
+          "keywords": [
+            "estruturas mentais internas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-077",
+      "topic": "Revolução cognitiva",
+      "question": "Explique o modelo de processamento de informação que caracteriza a revolução cognitiva, incluindo os conceitos de input e output.",
+      "modelAnswer": "Nesse modelo, o cérebro é compreendido como um sistema de processamento de informações, análogo a um computador. Os estímulos do ambiente são concebidos como 'inputs' (entradas de dados), recebidos pelos sistemas sensoriais, codificados, armazenados na memória e manipulados por regras lógicas; o resultado final é um 'output' (saída), que é o comportamento observável.",
+      "keyPoints": [
+        {
+          "text": "Cérebro como sistema de processamento, análogo a um computador",
+          "weight": 0.4,
+          "keywords": [
+            "processamento de informações",
+            "computador"
+          ]
+        },
+        {
+          "text": "Input: entrada de dados/estímulos",
+          "weight": 0.3,
+          "keywords": [
+            "input"
+          ]
+        },
+        {
+          "text": "Output: saída/comportamento observável",
+          "weight": 0.3,
+          "keywords": [
+            "output"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-078",
+      "topic": "Revolução cognitiva",
+      "question": "Explique como a revolução cognitiva se relaciona metodologicamente com o rigor experimental herdado do behaviorismo, segundo Penna (1991).",
+      "modelAnswer": "Segundo Penna (1991), a revolução cognitiva não descartou o rigor experimental estabelecido pelo behaviorismo; ela o absorveu e o direcionou para variáveis internas. A observação do comportamento continuou sendo o dado primário da pesquisa, mas passou a ser vista como um indicador de processos mentais subjacentes, inferidos por meio de medidas objetivas como tempo de reação e taxas de erro.",
+      "keyPoints": [
+        {
+          "text": "Absorveu o rigor experimental do behaviorismo, direcionando-o a variáveis internas",
+          "weight": 0.6,
+          "keywords": [
+            "absorveu",
+            "variáveis internas"
+          ]
+        },
+        {
+          "text": "Comportamento como indicador de processos mentais, medido objetivamente",
+          "weight": 0.4,
+          "keywords": [
+            "indicador",
+            "processos mentais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-079",
+      "topic": "Revolução cognitiva",
+      "question": "Explique a contribuição de Albert Bandura, com a Teoria da Aprendizagem Social, para a integração entre behaviorismo e cognitivismo.",
+      "modelAnswer": "Bandura demonstrou que a aprendizagem não requer experiência direta de reforço ou punição: os seres humanos aprendem por observação, modelando o comportamento de outras pessoas. A aprendizagem observacional exige processos cognitivos atencionais, de retenção na memória e de motivação, criando uma ponte entre os princípios comportamentais e a necessidade de variáveis cognitivas para explicar a socialização humana.",
+      "keyPoints": [
+        {
+          "text": "Aprendizagem por observação, sem reforço direto",
+          "weight": 0.4,
+          "keywords": [
+            "observação",
+            "sem reforço direto"
+          ]
+        },
+        {
+          "text": "Exige processos cognitivos (atenção, retenção, motivação)",
+          "weight": 0.3,
+          "keywords": [
+            "atenção",
+            "retenção",
+            "motivação"
+          ]
+        },
+        {
+          "text": "Ponte entre behaviorismo e cognitivismo",
+          "weight": 0.3,
+          "keywords": [
+            "ponte"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-080",
+      "topic": "Revolução cognitiva",
+      "question": "Explique por que a psicologia cognitiva é considerada metodologicamente superior à introspecção estruturalista, embora reintroduza a mente como objeto de estudo.",
+      "modelAnswer": "A psicologia cognitiva reintroduziu a mente como objeto de estudo científico, mas com rigor metodológico superior ao da antiga introspecção. Os processos mentais não eram acessados por relatos subjetivos, mas inferidos indiretamente a partir de medidas objetivas, como o tempo de reação, as taxas de erro em tarefas de memória e experimentos de atenção dividida.",
+      "keyPoints": [
+        {
+          "text": "Reintroduz a mente, mas sem depender de relatos subjetivos",
+          "weight": 0.5,
+          "keywords": [
+            "reintroduziu",
+            "sem relatos subjetivos"
+          ]
+        },
+        {
+          "text": "Usa medidas objetivas indiretas: tempo de reação, taxas de erro",
+          "weight": 0.5,
+          "keywords": [
+            "tempo de reação",
+            "medidas objetivas"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-081",
+      "topic": "Revolução cognitiva",
+      "question": "Explique quais foram as principais limitações do modelo operante de Skinner que motivaram o surgimento da revolução cognitiva.",
+      "modelAnswer": "O modelo operante de Skinner provou-se excepcional para explicar a aquisição e manutenção de uma vasta gama de comportamentos, mas apresentou limitações ao explicar processos humanos altamente complexos, como a aquisição da linguagem, a resolução de problemas lógicos e o funcionamento da memória a longo prazo — fenômenos que exigiam a postulação de processos mentais internos.",
+      "keyPoints": [
+        {
+          "text": "Limitações em explicar linguagem, resolução de problemas, memória de longo prazo",
+          "weight": 1,
+          "keywords": [
+            "linguagem",
+            "problemas lógicos",
+            "memória"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-082",
+      "topic": "Revolução cognitiva",
+      "question": "Explique quais avanços tecnológicos fora da psicologia contribuíram para o surgimento do novo paradigma cognitivo.",
+      "modelAnswer": "A insatisfação com as limitações do behaviorismo coincidiu com avanços tecnológicos externos à psicologia, sobretudo o desenvolvimento da ciência da computação, da teoria da informação e da cibernética. Esses avanços forneceram aos psicólogos um novo vocabulário e um novo modelo teórico para estudar a mente humana, comparando-a à arquitetura de um computador.",
+      "keyPoints": [
+        {
+          "text": "Ciência da computação, teoria da informação e cibernética",
+          "weight": 0.6,
+          "keywords": [
+            "ciência da computação",
+            "cibernética"
+          ]
+        },
+        {
+          "text": "Forneceram novo vocabulário/modelo para estudar a mente",
+          "weight": 0.4,
+          "keywords": [
+            "novo vocabulário",
+            "modelo teórico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-083",
+      "topic": "Revolução cognitiva",
+      "question": "Explique o conceito de 'aprendizagem latente', ilustrado pelos experimentos de Tolman com ratos em labirintos.",
+      "modelAnswer": "A aprendizagem latente refere-se à aquisição de conhecimento (no caso, a estrutura espacial do labirinto) que ocorre mesmo na ausência de reforço, mas que só se manifesta em comportamento observável quando o reforço se torna disponível. Isso demonstrou que os ratos formavam representações internas (mapas cognitivos) do ambiente, e não apenas cadeias associativas simples de estímulo-resposta.",
+      "keyPoints": [
+        {
+          "text": "Aprendizagem ocorre sem reforço, manifesta-se quando reforço surge",
+          "weight": 0.5,
+          "keywords": [
+            "sem reforço",
+            "manifesta"
+          ]
+        },
+        {
+          "text": "Evidencia representações internas (mapas cognitivos)",
+          "weight": 0.5,
+          "keywords": [
+            "representações internas",
+            "mapas cognitivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-084",
+      "topic": "Revolução cognitiva",
+      "question": "Explique de que forma a transição do paradigma comportamental para o cognitivo exemplifica o conceito de 'acúmulo de anomalias' na história da ciência.",
+      "modelAnswer": "A transição para o novo modelo epistemológico não ocorreu de forma abrupta, mas por meio do acúmulo de anomalias que o paradigma comportamental vigente tinha dificuldade em explicar — como a aquisição da linguagem (anomalia explorada por Tolman e depois por Chomsky) e a resolução de problemas complexos. Esse acúmulo gradual de evidências contrárias ao paradigma dominante culminou na consolidação da revolução cognitiva.",
+      "keyPoints": [
+        {
+          "text": "Transição gradual, não abrupta, por acúmulo de anomalias",
+          "weight": 0.6,
+          "keywords": [
+            "acúmulo",
+            "anomalias",
+            "gradual"
+          ]
+        },
+        {
+          "text": "Exemplos: linguagem, mapas cognitivos, problemas complexos",
+          "weight": 0.4,
+          "keywords": [
+            "linguagem",
+            "mapas cognitivos"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-085",
+      "topic": "TCC e terceira onda",
+      "question": "Explique o modelo cognitivo da psicopatologia proposto por Aaron Beck.",
+      "modelAnswer": "Beck, trabalhando com pacientes deprimidos, observou um fluxo constante de pensamentos automáticos negativos e propôs que não são as situações em si que causam o sofrimento emocional, mas sim a interpretação que o indivíduo faz delas. Esse modelo baseia-se na existência de esquemas cognitivos — estruturas profundas de crenças formadas ao longo da vida — que, quando ativados por eventos estressores, geram distorções cognitivas e pensamentos automáticos.",
+      "keyPoints": [
+        {
+          "text": "Não são as situações, mas a interpretação que causa sofrimento",
+          "weight": 0.5,
+          "keywords": [
+            "interpretação",
+            "sofrimento emocional"
+          ]
+        },
+        {
+          "text": "Esquemas cognitivos geram distorções e pensamentos automáticos",
+          "weight": 0.5,
+          "keywords": [
+            "esquemas cognitivos",
+            "distorções"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-086",
+      "topic": "TCC e terceira onda",
+      "question": "Descreva as três técnicas integrativas da TCC apresentadas no material: reestruturação cognitiva, ativação comportamental e experimentos comportamentais.",
+      "modelAnswer": "A reestruturação cognitiva usa o questionamento socrático para avaliar evidências dos pensamentos automáticos. A ativação comportamental (de origem operante) agenda atividades prazerosas para restaurar o contato com reforçadores positivos, alterando indiretamente humor e cognição. Os experimentos comportamentais integram cognição e comportamento: paciente e terapeuta testam na prática a validade de uma crença disfuncional.",
+      "keyPoints": [
+        {
+          "text": "Reestruturação cognitiva: questionamento socrático",
+          "weight": 0.34,
+          "keywords": [
+            "reestruturação",
+            "questionamento socrático"
+          ]
+        },
+        {
+          "text": "Ativação comportamental: agenda atividades/reforçadores positivos",
+          "weight": 0.33,
+          "keywords": [
+            "ativação comportamental"
+          ]
+        },
+        {
+          "text": "Experimentos comportamentais: testam crenças na prática",
+          "weight": 0.33,
+          "keywords": [
+            "experimentos comportamentais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-087",
+      "topic": "TCC e terceira onda",
+      "question": "Diferencie as três 'ondas' das terapias comportamentais e cognitivas quanto a seu foco principal.",
+      "modelAnswer": "A primeira onda (behaviorismo clássico e operante) focava na modificação direta do comportamento. A segunda onda (TCC clássica) focava na mudança do conteúdo dos pensamentos. A terceira onda propõe uma mudança na relação que o indivíduo estabelece com seus próprios eventos internos, em vez de alterar diretamente seu conteúdo, integrando análise funcional do comportamento com mindfulness e aceitação.",
+      "keyPoints": [
+        {
+          "text": "Primeira onda: modificação direta do comportamento",
+          "weight": 0.34,
+          "keywords": [
+            "primeira onda",
+            "comportamento"
+          ]
+        },
+        {
+          "text": "Segunda onda: mudança do conteúdo dos pensamentos",
+          "weight": 0.33,
+          "keywords": [
+            "segunda onda",
+            "conteúdo"
+          ]
+        },
+        {
+          "text": "Terceira onda: mudança na relação com eventos internos",
+          "weight": 0.33,
+          "keywords": [
+            "terceira onda",
+            "relação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-088",
+      "topic": "TCC e terceira onda",
+      "question": "Explique o conceito de esquiva experiencial e sua relação com o sofrimento psicológico, segundo as terapias de terceira onda.",
+      "modelAnswer": "A esquiva experiencial é a tentativa incessante de controlar ou eliminar pensamentos e sentimentos aversivos. Segundo a premissa das terapias de terceira onda, essa tentativa é, com frequência, a própria raiz do sofrimento psicológico — em vez de eliminar o desconforto, tende a intensificá-lo ou cronificá-lo, o que justifica um foco terapêutico na aceitação, em vez do controle.",
+      "keyPoints": [
+        {
+          "text": "Esquiva experiencial: tentar controlar/eliminar eventos internos aversivos",
+          "weight": 0.5,
+          "keywords": [
+            "esquiva experiencial",
+            "controlar"
+          ]
+        },
+        {
+          "text": "Considerada raiz do sofrimento psicológico",
+          "weight": 0.5,
+          "keywords": [
+            "raiz",
+            "sofrimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24-25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-089",
+      "topic": "TCC e terceira onda",
+      "question": "Explique a técnica de desfusão cognitiva e como ela se diferencia da reestruturação cognitiva clássica.",
+      "modelAnswer": "A desfusão cognitiva ajuda o indivíduo a observar o pensamento apenas como um evento mental transitório, e não como uma verdade absoluta, sem necessariamente alterar seu conteúdo. Isso a diferencia da reestruturação cognitiva clássica (segunda onda), que busca avaliar evidências e modificar diretamente o conteúdo do pensamento disfuncional.",
+      "keyPoints": [
+        {
+          "text": "Desfusão: observar pensamento como evento transitório, não verdade absoluta",
+          "weight": 0.5,
+          "keywords": [
+            "evento transitório",
+            "não como verdade"
+          ]
+        },
+        {
+          "text": "Diferença: não altera o conteúdo, apenas a relação com ele",
+          "weight": 0.5,
+          "keywords": [
+            "não altera conteúdo",
+            "relação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-090",
+      "topic": "TCC e terceira onda",
+      "question": "Cite dois modelos de terapia de terceira onda mencionados no material e explique o que eles têm em comum.",
+      "modelAnswer": "A Terapia de Aceitação e Compromisso (ACT) e a Terapia Comportamental Dialética (DBT) são exemplos de terceira onda. Ambas integram o rigor da análise funcional do comportamento, herdado do behaviorismo, com práticas de mindfulness (atenção plena) e aceitação, buscando mudar a relação do indivíduo com seus eventos internos, em vez de eliminá-los.",
+      "keyPoints": [
+        {
+          "text": "ACT e DBT como exemplos de terceira onda",
+          "weight": 0.4,
+          "keywords": [
+            "ACT",
+            "DBT"
+          ]
+        },
+        {
+          "text": "Combinam análise funcional do comportamento com mindfulness/aceitação",
+          "weight": 0.6,
+          "keywords": [
+            "análise funcional",
+            "mindfulness"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-091",
+      "topic": "TCC e terceira onda",
+      "question": "Explique por que a TCC é considerada o modelo de intervenção com maior volume de evidências de eficácia, segundo o material.",
+      "modelAnswer": "A força da TCC reside em sua natureza integrativa: ela não abandonou as técnicas comportamentais, incorporando-as como ferramentas essenciais para a mudança cognitiva. Essa integração entre reestruturação cognitiva, ativação comportamental e experimentos comportamentais tornou a TCC o modelo com maior volume de evidências de eficácia para transtornos como ansiedade, depressão, transtornos alimentares e dependência química.",
+      "keyPoints": [
+        {
+          "text": "Natureza integrativa: incorpora técnicas comportamentais à mudança cognitiva",
+          "weight": 0.5,
+          "keywords": [
+            "integrativa",
+            "técnicas comportamentais"
+          ]
+        },
+        {
+          "text": "Maior volume de evidências para ansiedade, depressão, etc.",
+          "weight": 0.5,
+          "keywords": [
+            "evidências",
+            "ansiedade",
+            "depressão"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-092",
+      "topic": "TCC e terceira onda",
+      "question": "Descreva o que são distorções cognitivas, citando ao menos dois exemplos mencionados no material.",
+      "modelAnswer": "Distorções cognitivas são erros de processamento de informação que ocorrem quando esquemas cognitivos são ativados por eventos estressores. O material cita como exemplos a generalização excessiva (concluir uma regra geral a partir de um único evento) e o pensamento dicotômico (avaliar situações em extremos, tudo ou nada).",
+      "keyPoints": [
+        {
+          "text": "Erros de processamento de informação, ligados a esquemas ativados",
+          "weight": 0.4,
+          "keywords": [
+            "erros de processamento"
+          ]
+        },
+        {
+          "text": "Exemplos: generalização excessiva e pensamento dicotômico",
+          "weight": 0.6,
+          "keywords": [
+            "generalização excessiva",
+            "pensamento dicotômico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-093",
+      "topic": "TCC e terceira onda",
+      "question": "Explique como o foco terapêutico da terceira onda se relaciona com a clarificação de valores pessoais.",
+      "modelAnswer": "Na terceira onda, o foco terapêutico redireciona-se para a clarificação de valores pessoais e para o comprometimento com ações que enriqueçam a vida, mesmo na presença de desconforto emocional — em vez de priorizar a eliminação do sofrimento como pré-condição para agir, como ocorreria em modelos centrados no controle dos sintomas.",
+      "keyPoints": [
+        {
+          "text": "Foco em clarificar valores e comprometer-se com ações que enriquecem a vida",
+          "weight": 0.6,
+          "keywords": [
+            "valores pessoais",
+            "enriqueçam a vida"
+          ]
+        },
+        {
+          "text": "Mesmo na presença de desconforto emocional (aceitação, não eliminação)",
+          "weight": 0.4,
+          "keywords": [
+            "desconforto emocional",
+            "aceitação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-094",
+      "topic": "TCC e terceira onda",
+      "question": "Explique a diferença fundamental entre a ativação comportamental e o questionamento socrático quanto à via de intervenção utilizada.",
+      "modelAnswer": "A ativação comportamental atua por via comportamental: reintroduz o contato com reforçadores positivos por meio do agendamento de atividades, alterando o humor e a cognição de forma indireta. O questionamento socrático atua por via cognitiva/verbal: por meio do diálogo terapêutico, avalia diretamente as evidências que sustentam os pensamentos, promovendo reestruturação cognitiva direta.",
+      "keyPoints": [
+        {
+          "text": "Ativação comportamental: via comportamental, ação/reforçadores",
+          "weight": 0.5,
+          "keywords": [
+            "ativação comportamental",
+            "reforçadores"
+          ]
+        },
+        {
+          "text": "Questionamento socrático: via verbal/cognitiva, avalia evidências",
+          "weight": 0.5,
+          "keywords": [
+            "questionamento socrático",
+            "evidências"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio"
     }
   ],
   "oral": [
@@ -10601,6 +12568,470 @@
       "subject": "Positivismo e psicofísica",
       "difficulty": "medio",
       "miniLesson": "Que prática clínica contemporânea reflete a continuidade dos critérios de cientificidade positivistas, ao basear intervenções em estudos controlados e randomizados? A Prática Baseada em Evidências (PBE)."
+    },
+    {
+      "id": "fund-oral-075",
+      "topic": "Revolução cognitiva",
+      "question": "Quem propôs o 'behaviorismo intencional' e o conceito de mapas cognitivos?",
+      "modelAnswer": "Edward Tolman.",
+      "keyPoints": [
+        {
+          "text": "Edward Tolman",
+          "weight": 1,
+          "keywords": [
+            "Tolman"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "baixo",
+      "miniLesson": "Quem propôs o 'behaviorismo intencional' e o conceito de mapas cognitivos? Edward Tolman."
+    },
+    {
+      "id": "fund-oral-076",
+      "topic": "Revolução cognitiva",
+      "question": "Quem publicou, em 1959, uma resenha crítica devastadora ao livro 'O Comportamento Verbal' de Skinner?",
+      "modelAnswer": "Noam Chomsky.",
+      "keyPoints": [
+        {
+          "text": "Noam Chomsky",
+          "weight": 1,
+          "keywords": [
+            "Chomsky"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Quem publicou, em 1959, uma resenha crítica devastadora ao livro 'O Comportamento Verbal' de Skinner? Noam Chomsky."
+    },
+    {
+      "id": "fund-oral-077",
+      "topic": "Revolução cognitiva",
+      "question": "Que estrutura Chomsky defendeu existir para a aquisição da linguagem?",
+      "modelAnswer": "Uma estrutura inata, um dispositivo biológico de processamento de regras gramaticais.",
+      "keyPoints": [
+        {
+          "text": "Estrutura inata para a linguagem",
+          "weight": 1,
+          "keywords": [
+            "estrutura inata"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21-22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Que estrutura Chomsky defendeu existir para a aquisição da linguagem? Uma estrutura inata, um dispositivo biológico de processamento de regras gramaticais."
+    },
+    {
+      "id": "fund-oral-078",
+      "topic": "Revolução cognitiva",
+      "question": "A que o cérebro passou a ser comparado no novo paradigma da revolução cognitiva?",
+      "modelAnswer": "A um sistema de processamento de informações, similar a um computador.",
+      "keyPoints": [
+        {
+          "text": "Sistema de processamento de informações/computador",
+          "weight": 1,
+          "keywords": [
+            "computador",
+            "processamento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "A que o cérebro passou a ser comparado no novo paradigma da revolução cognitiva? A um sistema de processamento de informações, similar a um computador."
+    },
+    {
+      "id": "fund-oral-079",
+      "topic": "Revolução cognitiva",
+      "question": "O que representa o 'output' no modelo de processamento de informação?",
+      "modelAnswer": "O comportamento observável, resultado do processamento das informações.",
+      "keyPoints": [
+        {
+          "text": "Comportamento observável",
+          "weight": 1,
+          "keywords": [
+            "comportamento observável"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "O que representa o 'output' no modelo de processamento de informação? O comportamento observável, resultado do processamento das informações."
+    },
+    {
+      "id": "fund-oral-080",
+      "topic": "Revolução cognitiva",
+      "question": "Como os processos mentais eram inferidos na psicologia cognitiva, ao invés de relatos introspectivos?",
+      "modelAnswer": "A partir do tempo de reação, de taxas de erro em tarefas de memória e de experimentos de atenção dividida.",
+      "keyPoints": [
+        {
+          "text": "Tempo de reação, taxas de erro, atenção dividida",
+          "weight": 1,
+          "keywords": [
+            "tempo de reação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Como os processos mentais eram inferidos na psicologia cognitiva, ao invés de relatos introspectivos? A partir do tempo de reação, de taxas de erro em tarefas de memória e de experimentos de atenção dividida."
+    },
+    {
+      "id": "fund-oral-081",
+      "topic": "Revolução cognitiva",
+      "question": "Quem propôs a Teoria da Aprendizagem Social?",
+      "modelAnswer": "Albert Bandura.",
+      "keyPoints": [
+        {
+          "text": "Albert Bandura",
+          "weight": 1,
+          "keywords": [
+            "Bandura"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Quem propôs a Teoria da Aprendizagem Social? Albert Bandura."
+    },
+    {
+      "id": "fund-oral-082",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo Bandura, como as pessoas podem aprender sem experiência direta de reforço ou punição?",
+      "modelAnswer": "Por observação, modelando o comportamento de outras pessoas.",
+      "keyPoints": [
+        {
+          "text": "Por observação/modelagem",
+          "weight": 1,
+          "keywords": [
+            "observação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Bandura, como as pessoas podem aprender sem experiência direta de reforço ou punição? Por observação, modelando o comportamento de outras pessoas."
+    },
+    {
+      "id": "fund-oral-083",
+      "topic": "Revolução cognitiva",
+      "question": "Segundo Penna (1991), o que a revolução cognitiva fez com o rigor experimental do behaviorismo?",
+      "modelAnswer": "Absorveu-o e o direcionou para variáveis internas.",
+      "keyPoints": [
+        {
+          "text": "Absorveu, direcionou a variáveis internas",
+          "weight": 1,
+          "keywords": [
+            "absorveu"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "22"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Penna (1991), o que a revolução cognitiva fez com o rigor experimental do behaviorismo? Absorveu-o e o direcionou para variáveis internas."
+    },
+    {
+      "id": "fund-oral-084",
+      "topic": "Revolução cognitiva",
+      "question": "A partir de qual década o domínio do behaviorismo na psicologia americana começou a enfrentar desafios significativos?",
+      "modelAnswer": "A partir da década de 1950.",
+      "keyPoints": [
+        {
+          "text": "Década de 1950",
+          "weight": 1,
+          "keywords": [
+            "1950"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "21"
+      },
+      "subject": "Revolução cognitiva",
+      "difficulty": "medio",
+      "miniLesson": "A partir de qual década o domínio do behaviorismo na psicologia americana começou a enfrentar desafios significativos? A partir da década de 1950."
+    },
+    {
+      "id": "fund-oral-085",
+      "topic": "TCC e terceira onda",
+      "question": "Quais dois autores são citados como pioneiros na integração da cognição ao comportamento?",
+      "modelAnswer": "Aaron Beck e Albert Ellis.",
+      "keyPoints": [
+        {
+          "text": "Aaron Beck e Albert Ellis",
+          "weight": 1,
+          "keywords": [
+            "Beck",
+            "Ellis"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "baixo",
+      "miniLesson": "Quais dois autores são citados como pioneiros na integração da cognição ao comportamento? Aaron Beck e Albert Ellis."
+    },
+    {
+      "id": "fund-oral-086",
+      "topic": "TCC e terceira onda",
+      "question": "Segundo Beck, o que causa o sofrimento emocional: as situações em si ou a interpretação delas?",
+      "modelAnswer": "A interpretação que o indivíduo faz das situações.",
+      "keyPoints": [
+        {
+          "text": "A interpretação das situações",
+          "weight": 1,
+          "keywords": [
+            "interpretação"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Beck, o que causa o sofrimento emocional: as situações em si ou a interpretação delas? A interpretação que o indivíduo faz das situações."
+    },
+    {
+      "id": "fund-oral-087",
+      "topic": "TCC e terceira onda",
+      "question": "O que são esquemas cognitivos, segundo o modelo de Beck?",
+      "modelAnswer": "Estruturas profundas de crenças formadas ao longo da vida.",
+      "keyPoints": [
+        {
+          "text": "Estruturas profundas de crenças",
+          "weight": 1,
+          "keywords": [
+            "estruturas de crenças"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "O que são esquemas cognitivos, segundo o modelo de Beck? Estruturas profundas de crenças formadas ao longo da vida."
+    },
+    {
+      "id": "fund-oral-088",
+      "topic": "TCC e terceira onda",
+      "question": "Qual técnica da TCC utiliza o questionamento socrático para avaliar evidências dos pensamentos?",
+      "modelAnswer": "A reestruturação cognitiva.",
+      "keyPoints": [
+        {
+          "text": "Reestruturação cognitiva",
+          "weight": 1,
+          "keywords": [
+            "reestruturação cognitiva"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "23-24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Qual técnica da TCC utiliza o questionamento socrático para avaliar evidências dos pensamentos? A reestruturação cognitiva."
+    },
+    {
+      "id": "fund-oral-089",
+      "topic": "TCC e terceira onda",
+      "question": "Qual técnica comportamental da TCC envolve agendar atividades prazerosas para tratar a depressão?",
+      "modelAnswer": "A ativação comportamental.",
+      "keyPoints": [
+        {
+          "text": "Ativação comportamental",
+          "weight": 1,
+          "keywords": [
+            "ativação comportamental"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Qual técnica comportamental da TCC envolve agendar atividades prazerosas para tratar a depressão? A ativação comportamental."
+    },
+    {
+      "id": "fund-oral-090",
+      "topic": "TCC e terceira onda",
+      "question": "O que caracteriza a primeira onda das terapias comportamentais e cognitivas?",
+      "modelAnswer": "O foco na modificação direta do comportamento (behaviorismo clássico e operante).",
+      "keyPoints": [
+        {
+          "text": "Modificação direta do comportamento",
+          "weight": 1,
+          "keywords": [
+            "modificação direta"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "O que caracteriza a primeira onda das terapias comportamentais e cognitivas? O foco na modificação direta do comportamento (behaviorismo clássico e operante)."
+    },
+    {
+      "id": "fund-oral-091",
+      "topic": "TCC e terceira onda",
+      "question": "Cite dois modelos de terapia de terceira onda mencionados no material.",
+      "modelAnswer": "Terapia de Aceitação e Compromisso (ACT) e Terapia Comportamental Dialética (DBT).",
+      "keyPoints": [
+        {
+          "text": "ACT e DBT",
+          "weight": 1,
+          "keywords": [
+            "ACT",
+            "DBT"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Cite dois modelos de terapia de terceira onda mencionados no material. Terapia de Aceitação e Compromisso (ACT) e Terapia Comportamental Dialética (DBT)."
+    },
+    {
+      "id": "fund-oral-092",
+      "topic": "TCC e terceira onda",
+      "question": "O que é a esquiva experiencial?",
+      "modelAnswer": "A tentativa incessante de controlar ou eliminar pensamentos e sentimentos aversivos.",
+      "keyPoints": [
+        {
+          "text": "Tentar controlar/eliminar eventos internos aversivos",
+          "weight": 1,
+          "keywords": [
+            "controlar",
+            "eliminar"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "24-25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "O que é a esquiva experiencial? A tentativa incessante de controlar ou eliminar pensamentos e sentimentos aversivos."
+    },
+    {
+      "id": "fund-oral-093",
+      "topic": "TCC e terceira onda",
+      "question": "O que é a desfusão cognitiva?",
+      "modelAnswer": "Técnica que ajuda o indivíduo a observar o pensamento como um evento mental transitório, e não como uma verdade absoluta.",
+      "keyPoints": [
+        {
+          "text": "Observar pensamento como evento transitório",
+          "weight": 1,
+          "keywords": [
+            "evento transitório"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "O que é a desfusão cognitiva? Técnica que ajuda o indivíduo a observar o pensamento como um evento mental transitório, e não como uma verdade absoluta."
+    },
+    {
+      "id": "fund-oral-094",
+      "topic": "TCC e terceira onda",
+      "question": "Para que se redireciona o foco terapêutico nas terapias de terceira onda?",
+      "modelAnswer": "Para a clarificação de valores pessoais e o comprometimento com ações que enriqueçam a vida.",
+      "keyPoints": [
+        {
+          "text": "Clarificação de valores e ações que enriquecem a vida",
+          "weight": 1,
+          "keywords": [
+            "valores pessoais"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "PSICOLOGIA COMO CIÊNCIA DO COMPORTAMENTO.pdf",
+        "page": "25"
+      },
+      "subject": "TCC e terceira onda",
+      "difficulty": "medio",
+      "miniLesson": "Para que se redireciona o foco terapêutico nas terapias de terceira onda? Para a clarificação de valores pessoais e o comprometimento com ações que enriqueçam a vida."
     }
   ]
 }
