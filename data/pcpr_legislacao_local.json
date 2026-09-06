@@ -1,0 +1,1766 @@
+{
+  "objective": [
+    {
+      "id": "pcpr-obj-001",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "João, recém-empossado Delegado de Polícia no Paraná, participa de um debate sobre a natureza jurídica da instituição a que pertence. Um colega afirma que a Constituição do Estado do Paraná define a Polícia Civil como instituição permanente e essencial à função da Segurança Pública, dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, com incumbência de exercer as funções de polícia judiciária e as apurações das infrações penais, exceto as militares. Segundo o art. 47, caput, da Constituição Estadual, essa afirmação está:",
+      "options": {
+        "a": "Correta, exatamente nesses termos.",
+        "b": "Incorreta, pois a CE/PR atribui a chefia da Polícia Civil ao Secretário de Estado da Segurança Pública, e não a um delegado de polícia.",
+        "c": "Incorreta, pois a Constituição Estadual não trata da Polícia Civil, matéria reservada exclusivamente à lei federal.",
+        "d": "Correta, mas a Polícia Civil, segundo a CE/PR, só tem incumbência sobre infrações penais militares.",
+        "e": "Incorreta, pois a hierarquia e a disciplina não fundamentam a função policial civil segundo a CE/PR."
+      },
+      "correct": "a",
+      "explanation": "O art. 47, caput, da Constituição do Estado do Paraná reproduz exatamente essa definição: a Polícia Civil, dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, é instituição permanente e essencial à função da Segurança Pública, incumbida das funções de polícia judiciária e das apurações das infrações penais, exceto as militares. O §1º do mesmo artigo acrescenta que a função policial civil se fundamenta na hierarquia e disciplina.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "João, recém-empossado Delegado de Polícia no Paraná, participa de um debate sobre a natureza jurídica da instituição a que pertence. Um colega afirma que a Constituição do Estado do Paraná define a Polícia Civil como instituição permanente e essencial à função da Segurança Pública, dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, com incumbência de exercer as funções de polícia judiciária e as apurações das infrações penais, exceto as militares. Segundo o art. 47, caput, da Constituição Estadual, essa afirmação está: O art. 47, caput, da Constituição do Estado do Paraná reproduz exatamente essa definição: a Polícia Civil, dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, é instituição permanente e essencial à função da Segurança Pública, incumbida das funções de polícia judiciária e das apurações das infrações penais, exceto as militares. O §1º do mesmo artigo acrescenta que a função policial civil se fundamenta na hierarquia e disciplina."
+    },
+    {
+      "id": "pcpr-obj-002",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o §2º do art. 47 da Constituição do Estado do Paraná, o órgão responsável, no âmbito estadual, pelo controle do ingresso, da ascensão funcional, da hierarquia e do regime disciplinar das carreiras policiais civis é qualificado, pelo próprio texto constitucional, como órgão:",
+      "options": {
+        "a": "Consultivo, normativo e deliberativo.",
+        "b": "Diretivo, consultivo, normativo, deliberativo e sancionador.",
+        "c": "Exclusivamente normativo e fiscalizador, sem poder deliberativo.",
+        "d": "Jurisdicional e disciplinar, com competência para processar crimes comuns.",
+        "e": "Meramente opinativo, sem qualquer poder deliberativo."
+      },
+      "correct": "a",
+      "explanation": "O §2º do art. 47 da CE/PR qualifica o Conselho da Polícia Civil apenas como órgão consultivo, normativo e deliberativo. Já o art. 16 da Lei nº 23.213/2026, ao tratar do Conselho Superior de Polícia, amplia essa qualificação para órgão diretivo, consultivo, normativo, deliberativo e sancionador — é preciso não confundir a redação de cada diploma normativo.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o §2º do art. 47 da Constituição do Estado do Paraná, o órgão responsável, no âmbito estadual, pelo controle do ingresso, da ascensão funcional, da hierarquia e do regime disciplinar das carreiras policiais civis é qualificado, pelo próprio texto constitucional, como órgão: O §2º do art. 47 da CE/PR qualifica o Conselho da Polícia Civil apenas como órgão consultivo, normativo e deliberativo. Já o art. 16 da Lei nº 23.213/2026, ao tratar do Conselho Superior de Polícia, amplia essa qualificação para órgão diretivo, consultivo, normativo, deliberativo e sancionador — é preciso não confundir a redação de cada diploma normativo."
+    },
+    {
+      "id": "pcpr-obj-003",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Maria, insatisfeita por não perceber vantagens equivalentes às de outras carreiras jurídicas do Estado, questiona se o cargo de Delegado de Polícia possui essa natureza. Segundo o §4º do art. 47 da Constituição do Estado do Paraná (incluído pela Emenda Constitucional nº 27/2010), o cargo de Delegado de Polícia:",
+      "options": {
+        "a": "Integra, para todos os efeitos, as carreiras jurídicas do Estado.",
+        "b": "Não integra as carreiras jurídicas do Estado, sujeitando-se apenas ao regime geral dos servidores civis.",
+        "c": "Somente integra as carreiras jurídicas do Estado após dez anos de exercício no cargo.",
+        "d": "Integra as carreiras jurídicas do Estado apenas para fins remuneratórios, e não para os demais efeitos legais.",
+        "e": "Integra as carreiras jurídicas do Estado exclusivamente quando o Delegado exercer função de chefia de unidade."
+      },
+      "correct": "a",
+      "explanation": "O §4º do art. 47 da CE/PR, na redação dada pela Emenda Constitucional nº 27/2010, estabelece que o cargo de Delegado de Polícia integra, para todos os fins, as carreiras jurídicas do Estado, sem qualquer condicionante de tempo de exercício ou de função de chefia.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Maria, insatisfeita por não perceber vantagens equivalentes às de outras carreiras jurídicas do Estado, questiona se o cargo de Delegado de Polícia possui essa natureza. Segundo o §4º do art. 47 da Constituição do Estado do Paraná (incluído pela Emenda Constitucional nº 27/2010), o cargo de Delegado de Polícia: O §4º do art. 47 da CE/PR, na redação dada pela Emenda Constitucional nº 27/2010, estabelece que o cargo de Delegado de Polícia integra, para todos os fins, as carreiras jurídicas do Estado, sem qualquer condicionante de tempo de exercício ou de função de chefia."
+    },
+    {
+      "id": "pcpr-obj-004",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Durante uma operação conjunta, surge a dúvida sobre a quem se subordinam a Polícia Militar, o Corpo de Bombeiros Militar, a Polícia Civil e a Polícia Penal do Estado do Paraná. Segundo o art. 49 da Constituição do Estado do Paraná, essas corporações:",
+      "options": {
+        "a": "Subordinam-se ao Governador do Estado e são regidas por legislação especial, que definirá suas estruturas, competências, direitos, garantias, deveres e prerrogativas de seus integrantes.",
+        "b": "Subordinam-se diretamente à Assembleia Legislativa, independentemente de qualquer vínculo com o Poder Executivo.",
+        "c": "São todas organizadas com base na hierarquia e disciplina militares, inclusive a Polícia Civil.",
+        "d": "Não possuem legislação especial própria, aplicando-se a todas o regime geral dos servidores civis do Estado.",
+        "e": "Subordinam-se ao Secretário de Estado da Segurança Pública, e não ao Governador do Estado."
+      },
+      "correct": "a",
+      "explanation": "O art. 49 da CE/PR estabelece que a Polícia Militar e o Corpo de Bombeiros Militar, a Polícia Civil e a Polícia Penal subordinam-se ao Governador do Estado e serão regidas por legislação especial, que definirá suas estruturas, competências, bem como direitos, garantias, deveres e prerrogativas de seus integrantes, de maneira a assegurar a eficiência de suas atividades. A organização com base na hierarquia e disciplina militares é exclusiva da Polícia Militar e do Corpo de Bombeiros Militar (art. 48), não se estendendo à Polícia Civil, cuja função se fundamenta em hierarquia e disciplina próprias (art. 47, §1º).",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "14"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Durante uma operação conjunta, surge a dúvida sobre a quem se subordinam a Polícia Militar, o Corpo de Bombeiros Militar, a Polícia Civil e a Polícia Penal do Estado do Paraná. Segundo o art. 49 da Constituição do Estado do Paraná, essas corporações: O art. 49 da CE/PR estabelece que a Polícia Militar e o Corpo de Bombeiros Militar, a Polícia Civil e a Polícia Penal subordinam-se ao Governador do Estado e serão regidas por legislação especial, que definirá suas estruturas, competências, bem como direitos, garantias, deveres e prerrogativas de seus integrantes, de maneira a assegurar a eficiência de suas atividades. A organização com base na hierarquia e disciplina militares é exclusiva da Polícia Militar e do Corpo de Bombeiros Militar (art. 48), não se estendendo à Polícia Civil, cuja função se fundamenta em hierarquia e disciplina próprias (art. 47, §1º)."
+    },
+    {
+      "id": "pcpr-obj-005",
+      "topic": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "question": "Pedro é bacharel em Administração de Empresas e pretende concorrer ao cargo de Delegado de Polícia no próximo concurso da Polícia Civil do Paraná. Considerando a Lei Complementar Estadual nº 259/2023, a pretensão de Pedro:",
+      "options": {
+        "a": "Não pode ser atendida nos moldes atuais, pois o ingresso na carreira de Delegado de Polícia exige bacharelado em Direito, além da comprovação de três anos de atividade jurídica ou policial até a data da inscrição definitiva prevista no edital.",
+        "b": "Pode ser atendida, pois basta a conclusão de qualquer curso superior completo, independentemente da área de graduação.",
+        "c": "Pode ser atendida, desde que Pedro possua pós-graduação em Segurança Pública, o que dispensa a exigência de área específica de graduação.",
+        "d": "Não pode ser atendida, pois o ingresso na carreira de Delegado depende, exclusivamente, de aprovação prévia no cargo de Agente de Polícia Judiciária.",
+        "e": "Pode ser atendida, pois a exigência de bacharelado em Direito somente se aplica a candidatos com mais de trinta anos de idade."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 5º da LC nº 259/2023 exige, para o cargo de Delegado de Polícia, bacharelado em Direito, e o inciso XI do art. 11 exige comprovação de três anos de atividade jurídica ou policial até a data da inscrição definitiva prevista no edital. Já os cargos de Agente de Polícia Judiciária e Papiloscopista Policial (art. 6º) exigem apenas curso superior completo em qualquer área.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-complementar-259-2023-Parana-PR-consolidada-[13-11-2024].pdf",
+        "page": "2"
+      },
+      "subject": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Pedro é bacharel em Administração de Empresas e pretende concorrer ao cargo de Delegado de Polícia no próximo concurso da Polícia Civil do Paraná. Considerando a Lei Complementar Estadual nº 259/2023, a pretensão de Pedro: O parágrafo único do art. 5º da LC nº 259/2023 exige, para o cargo de Delegado de Polícia, bacharelado em Direito, e o inciso XI do art. 11 exige comprovação de três anos de atividade jurídica ou policial até a data da inscrição definitiva prevista no edital. Já os cargos de Agente de Polícia Judiciária e Papiloscopista Policial (art. 6º) exigem apenas curso superior completo em qualquer área."
+    },
+    {
+      "id": "pcpr-obj-006",
+      "topic": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "question": "O estágio probatório dos servidores das carreiras da Polícia Civil do Estado do Paraná, nos termos do art. 27 da Lei Complementar nº 259/2023, tem duração e exigências assim disciplinadas:",
+      "options": {
+        "a": "Três anos de efetivo exercício no cargo, com no mínimo três avaliações de desempenho ao longo do período, sendo obrigatória a realização de ao menos uma avaliação em cada ano.",
+        "b": "Dois anos de efetivo exercício, aplicando-se sem qualquer exceção o regime geral do art. 43 da Lei nº 6.174/1970 aos policiais civis do Estado.",
+        "c": "Um ano de efetivo exercício, dispensada qualquer avaliação especial de desempenho para fins de estabilidade.",
+        "d": "Quatro anos de efetivo exercício, prorrogáveis indefinidamente a critério exclusivo da chefia imediata.",
+        "e": "Cinco anos de efetivo exercício, contados da posse, independentemente de qualquer avaliação de desempenho."
+      },
+      "correct": "a",
+      "explanation": "O art. 27 da LC nº 259/2023 fixa, para as carreiras da Polícia Civil, estágio probatório de três anos de efetivo exercício, com no mínimo três avaliações de desempenho, sendo necessária ao menos uma em cada ano — regime especial que diverge do estágio probatório geral de dois anos previsto no art. 43 da Lei nº 6.174/1970, aplicável ao funcionalismo civil em geral.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-complementar-259-2023-Parana-PR-consolidada-[13-11-2024].pdf",
+        "page": "8"
+      },
+      "subject": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "O estágio probatório dos servidores das carreiras da Polícia Civil do Estado do Paraná, nos termos do art. 27 da Lei Complementar nº 259/2023, tem duração e exigências assim disciplinadas: O art. 27 da LC nº 259/2023 fixa, para as carreiras da Polícia Civil, estágio probatório de três anos de efetivo exercício, com no mínimo três avaliações de desempenho, sendo necessária ao menos uma em cada ano — regime especial que diverge do estágio probatório geral de dois anos previsto no art. 43 da Lei nº 6.174/1970, aplicável ao funcionalismo civil em geral."
+    },
+    {
+      "id": "pcpr-obj-007",
+      "topic": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "question": "Um Agente de Polícia Judiciária registra, em seus assentos funcionais, penalidade administrativa de suspensão que lhe foi aplicada há um ano e meio, contado da data de abertura do processo de promoção. Nos termos do art. 60 da Lei Complementar nº 259/2023, esse servidor:",
+      "options": {
+        "a": "Não poderá ser promovido, pois a vedação decorrente de punição de suspensão persiste pelos dois anos anteriores à data de abertura do processo de promoção.",
+        "b": "Poderá ser promovido normalmente, pois a vedação por suspensão vale apenas para os cento e oitenta dias anteriores à abertura do processo.",
+        "c": "Não poderá ser promovido em nenhuma hipótese futura, ainda que decorridos mais de dois anos da punição.",
+        "d": "Poderá ser promovido, pois a vedação prevista na lei somente se aplica à penalidade de advertência.",
+        "e": "Poderá ser promovido, desde que efetue o ressarcimento ao erário do valor correspondente aos dias de suspensão."
+      },
+      "correct": "a",
+      "explanation": "O inciso VI do art. 60 da LC nº 259/2023 veda a promoção do policial civil que registre, em seus assentos funcionais, punição administrativa de suspensão nos dois anos anteriores à data de abertura do processo de promoção. Como o intervalo do caso é de apenas um ano e meio, a vedação ainda se aplica. Já o inciso V trata da penalidade de advertência, cujo prazo de vedação é de cento e oitenta dias.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-complementar-259-2023-Parana-PR-consolidada-[13-11-2024].pdf",
+        "page": "19"
+      },
+      "subject": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Um Agente de Polícia Judiciária registra, em seus assentos funcionais, penalidade administrativa de suspensão que lhe foi aplicada há um ano e meio, contado da data de abertura do processo de promoção. Nos termos do art. 60 da Lei Complementar nº 259/2023, esse servidor: O inciso VI do art. 60 da LC nº 259/2023 veda a promoção do policial civil que registre, em seus assentos funcionais, punição administrativa de suspensão nos dois anos anteriores à data de abertura do processo de promoção. Como o intervalo do caso é de apenas um ano e meio, a vedação ainda se aplica. Já o inciso V trata da penalidade de advertência, cujo prazo de vedação é de cento e oitenta dias."
+    },
+    {
+      "id": "pcpr-obj-008",
+      "topic": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "question": "A Medalha do Serviço Policial, honraria prevista na Lei Complementar nº 259/2023, compreende as categorias bronze, prata e ouro, concedidas, respectivamente, ao servidor policial civil que complete:",
+      "options": {
+        "a": "Dez, vinte e trinta anos de efetivo serviço na Polícia Civil do Paraná.",
+        "b": "Cinco, dez e quinze anos de efetivo serviço na Polícia Civil do Paraná.",
+        "c": "Quinze, vinte e cinco e trinta e cinco anos de efetivo serviço na Polícia Civil do Paraná.",
+        "d": "Vinte, vinte e cinco e trinta anos de efetivo serviço na Polícia Civil do Paraná.",
+        "e": "Dez, quinze e vinte anos de efetivo serviço na Polícia Civil do Paraná."
+      },
+      "correct": "a",
+      "explanation": "O §1º do art. 35 da LC nº 259/2023 estabelece que a categoria bronze é concedida ao servidor que completar dez anos de efetivo serviço, a prata a quem completar vinte anos, e a ouro a quem completar trinta anos de efetivo serviço na Polícia Civil do Paraná.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-complementar-259-2023-Parana-PR-consolidada-[13-11-2024].pdf",
+        "page": "11"
+      },
+      "subject": "Lei Complementar nº 259/2023 — Estruturação das Carreiras da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "A Medalha do Serviço Policial, honraria prevista na Lei Complementar nº 259/2023, compreende as categorias bronze, prata e ouro, concedidas, respectivamente, ao servidor policial civil que complete: O §1º do art. 35 da LC nº 259/2023 estabelece que a categoria bronze é concedida ao servidor que completar dez anos de efetivo serviço, a prata a quem completar vinte anos, e a ouro a quem completar trinta anos de efetivo serviço na Polícia Civil do Paraná."
+    },
+    {
+      "id": "pcpr-obj-009",
+      "topic": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "question": "Uma comissão de concurso público está elaborando o edital para o cargo de Delegado de Polícia de determinado Estado e questiona quais regras a Lei Federal nº 14.735/2023 (Lei Orgânica Nacional das Polícias Civis) impõe, como normas gerais, para esse certame. Segundo o art. 21 dessa Lei, é correto afirmar que:",
+      "options": {
+        "a": "O tempo de atividade policial civil deve ser valorado em até 30% da pontuação máxima da prova de títulos, na proporção mínima de 0,5 e máxima de 2 pontos percentuais por ano de serviço, e a prova oral é etapa obrigatória do certame para o cargo de Delegado.",
+        "b": "A prova de títulos é sempre facultativa e, quando prevista, não pode ultrapassar 5% da nota total do certame.",
+        "c": "A prova oral é vedada nos concursos para Delegado de Polícia, por violar o princípio da impessoalidade.",
+        "d": "O tempo de atividade policial civil não pode, em nenhuma hipótese, ser considerado para fins de pontuação em prova de títulos.",
+        "e": "A pontuação da prova de títulos deve corresponder a, no mínimo, 50% do total da nota do certame."
+      },
+      "correct": "a",
+      "explanation": "O art. 21, caput, da Lei nº 14.735/2023 determina que o tempo de atividade policial civil seja valorado em até 30% da pontuação máxima da prova de títulos, com faixa de 0,5 a 2 pontos percentuais por ano de serviço; o §2º fixa piso de 10% da nota total para a prova de títulos; e o §3º torna obrigatória a prova oral nos concursos para Delegado de Polícia, assegurados critérios objetivos de aferição e sistema de recurso.",
+      "source": {
+        "folder": "PCPR",
+        "document": "L14735.pdf",
+        "page": "8"
+      },
+      "subject": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "difficulty": "medio",
+      "miniLesson": "Uma comissão de concurso público está elaborando o edital para o cargo de Delegado de Polícia de determinado Estado e questiona quais regras a Lei Federal nº 14.735/2023 (Lei Orgânica Nacional das Polícias Civis) impõe, como normas gerais, para esse certame. Segundo o art. 21 dessa Lei, é correto afirmar que: O art. 21, caput, da Lei nº 14.735/2023 determina que o tempo de atividade policial civil seja valorado em até 30% da pontuação máxima da prova de títulos, com faixa de 0,5 a 2 pontos percentuais por ano de serviço; o §2º fixa piso de 10% da nota total para a prova de títulos; e o §3º torna obrigatória a prova oral nos concursos para Delegado de Polícia, assegurados critérios objetivos de aferição e sistema de recurso."
+    },
+    {
+      "id": "pcpr-obj-010",
+      "topic": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "question": "Um Oficial Investigador de Polícia Civil do Paraná, em deslocamento a outro Estado da Federação a serviço, tem seu documento de identidade funcional e sua arma de fogo questionados por não conhecerem a validade desses instrumentos fora do território paranaense. Segundo o art. 30 da Lei nº 14.735/2023, são direitos e garantias assegurados aos policiais civis em atividade, entre outros:",
+      "options": {
+        "a": "Documento de identidade funcional com validade em todo o território nacional e registro e livre porte de arma de fogo, ambos com igual validade nacional.",
+        "b": "Documento de identidade funcional válido apenas no território do respectivo Estado, salvo autorização expressa do Ministério da Justiça e Segurança Pública.",
+        "c": "Porte de arma de fogo restrito ao horário de expediente e ao território do município de lotação do servidor.",
+        "d": "Prioridade de atendimento apenas perante o Poder Judiciário, excluídos o Ministério Público e a Defensoria Pública.",
+        "e": "Direito à aposentadoria compulsória aos quarenta e cinco anos de idade, independentemente do tempo de contribuição."
+      },
+      "correct": "a",
+      "explanation": "Os incisos I e II do art. 30 da Lei nº 14.735/2023 asseguram aos policiais civis em atividade documento de identidade funcional com validade em todo o território nacional e registro e livre porte de arma de fogo, também com validade em todo o território nacional. O inciso VIII, por sua vez, assegura atendimento prioritário e imediato pelo Ministério Público, pela Defensoria Pública e pelo Poder Judiciário, entre outros órgãos.",
+      "source": {
+        "folder": "PCPR",
+        "document": "L14735.pdf",
+        "page": "10"
+      },
+      "subject": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "difficulty": "medio",
+      "miniLesson": "Um Oficial Investigador de Polícia Civil do Paraná, em deslocamento a outro Estado da Federação a serviço, tem seu documento de identidade funcional e sua arma de fogo questionados por não conhecerem a validade desses instrumentos fora do território paranaense. Segundo o art. 30 da Lei nº 14.735/2023, são direitos e garantias assegurados aos policiais civis em atividade, entre outros: Os incisos I e II do art. 30 da Lei nº 14.735/2023 asseguram aos policiais civis em atividade documento de identidade funcional com validade em todo o território nacional e registro e livre porte de arma de fogo, também com validade em todo o território nacional. O inciso VIII, por sua vez, assegura atendimento prioritário e imediato pelo Ministério Público, pela Defensoria Pública e pelo Poder Judiciário, entre outros órgãos."
+    },
+    {
+      "id": "pcpr-obj-011",
+      "topic": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "question": "Uma unidade de polícia civil pretende compor sua equipe de interceptação de comunicação telefônica, de informática e telemática com servidores cedidos por uma empresa pública de tecnologia da informação, sob a justificativa de suprir a carência de pessoal especializado. Segundo o §2º do art. 12 da Lei nº 14.735/2023, essa composição:",
+      "options": {
+        "a": "É incompatível com a Lei, pois o efetivo das unidades especializadas em combate à lavagem de dinheiro e em interceptação de comunicação telefônica, de informática e telemática deve ser composto exclusivamente por policiais civis.",
+        "b": "É compatível com a Lei, desde que os servidores cedidos representem, no máximo, metade do efetivo da unidade.",
+        "c": "É compatível com a Lei, desde que haja convênio formal entre a polícia civil e a empresa pública de tecnologia.",
+        "d": "É compatível com a Lei, pois esta nada dispõe sobre a composição de unidades especializadas em interceptação.",
+        "e": "É incompatível com a Lei apenas se a cessão for onerosa para os cofres públicos."
+      },
+      "correct": "a",
+      "explanation": "O §2º do art. 12 da Lei nº 14.735/2023 exige que o efetivo das unidades especializadas em combate à lavagem de dinheiro e em interceptação de comunicação telefônica, de informática e telemática seja composto exclusivamente de policiais civis, não admitindo composição mista com servidores cedidos de outros órgãos.",
+      "source": {
+        "folder": "PCPR",
+        "document": "L14735.pdf",
+        "page": "6"
+      },
+      "subject": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "difficulty": "medio",
+      "miniLesson": "Uma unidade de polícia civil pretende compor sua equipe de interceptação de comunicação telefônica, de informática e telemática com servidores cedidos por uma empresa pública de tecnologia da informação, sob a justificativa de suprir a carência de pessoal especializado. Segundo o §2º do art. 12 da Lei nº 14.735/2023, essa composição: O §2º do art. 12 da Lei nº 14.735/2023 exige que o efetivo das unidades especializadas em combate à lavagem de dinheiro e em interceptação de comunicação telefônica, de informática e telemática seja composto exclusivamente de policiais civis, não admitindo composição mista com servidores cedidos de outros órgãos."
+    },
+    {
+      "id": "pcpr-obj-012",
+      "topic": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "question": "Carla, recém-formada no curso de formação profissional, toma posse como Oficial Investigadora de Polícia e, após um ano de exercício, pede exoneração do cargo para assumir outro concurso público. Nos termos do §1º do art. 24 da Lei nº 14.735/2023, essa situação implica:",
+      "options": {
+        "a": "Dever de ressarcir ao erário os gastos com sua formação, proporcionalmente ao tempo de serviço já prestado, uma vez que a exoneração ocorreu antes de completados três anos de exercício.",
+        "b": "Nenhuma consequência patrimonial, pois a Lei Orgânica Nacional das Polícias Civis não prevê ressarcimento de gastos com formação.",
+        "c": "Obrigação de permanecer no cargo por mais dois anos, sob pena de responder a processo penal por abandono de cargo.",
+        "d": "Dever de devolver integralmente a remuneração recebida durante todo o período de exercício, e não apenas os gastos com a formação.",
+        "e": "Perda automática do direito de participar de qualquer concurso público estadual pelo prazo de cinco anos."
+      },
+      "correct": "a",
+      "explanation": "O §1º do art. 24 da Lei nº 14.735/2023 determina que o servidor que pedir exoneração antes de completar três anos de exercício deve ressarcir ao erário competente os gastos com sua formação, proporcionalmente ao tempo de serviço prestado — e não a integralidade da remuneração recebida.",
+      "source": {
+        "folder": "PCPR",
+        "document": "L14735.pdf",
+        "page": "9"
+      },
+      "subject": "Lei nº 14.735/2023 — Lei Orgânica Nacional das Polícias Civis",
+      "difficulty": "medio",
+      "miniLesson": "Carla, recém-formada no curso de formação profissional, toma posse como Oficial Investigadora de Polícia e, após um ano de exercício, pede exoneração do cargo para assumir outro concurso público. Nos termos do §1º do art. 24 da Lei nº 14.735/2023, essa situação implica: O §1º do art. 24 da Lei nº 14.735/2023 determina que o servidor que pedir exoneração antes de completar três anos de exercício deve ressarcir ao erário competente os gastos com sua formação, proporcionalmente ao tempo de serviço prestado — e não a integralidade da remuneração recebida."
+    },
+    {
+      "id": "pcpr-obj-013",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Em uma operação conjunta, um Agente de Polícia Judiciária de classe elevada e grande antiguidade questiona se, por seu tempo de serviço, teria precedência hierárquica sobre um Delegado de Polícia recém-empossado, de classe inicial. Segundo o §2º do art. 9º da Lei nº 23.213/2026, a resposta correta é:",
+      "options": {
+        "a": "Será sempre observada a precedência hierárquica da carreira de Delegado de Polícia sobre as demais carreiras da PCPR, independentemente da antiguidade do servidor nas outras carreiras.",
+        "b": "A precedência hierárquica será decidida por votação entre os servidores policiais presentes na unidade.",
+        "c": "A antiguidade no serviço público prevalece sobre a carreira, de modo que o Agente mais antigo teria precedência sobre o Delegado.",
+        "d": "Não há qualquer hierarquia entre as carreiras da Polícia Civil do Paraná, todas em situação de igualdade formal.",
+        "e": "A precedência hierárquica é definida exclusivamente pelo tempo de formação acadêmica de cada servidor."
+      },
+      "correct": "a",
+      "explanation": "O §2º do art. 9º da Lei nº 23.213/2026 é expresso: será sempre observada a precedência hierárquica da carreira de Delegado de Polícia sobre as demais carreiras, independentemente de antiguidade. Já o §1º do mesmo artigo trata da precedência entre Delegados de classes distintas em exercício na mesma unidade.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Em uma operação conjunta, um Agente de Polícia Judiciária de classe elevada e grande antiguidade questiona se, por seu tempo de serviço, teria precedência hierárquica sobre um Delegado de Polícia recém-empossado, de classe inicial. Segundo o §2º do art. 9º da Lei nº 23.213/2026, a resposta correta é: O §2º do art. 9º da Lei nº 23.213/2026 é expresso: será sempre observada a precedência hierárquica da carreira de Delegado de Polícia sobre as demais carreiras, independentemente de antiguidade. Já o §1º do mesmo artigo trata da precedência entre Delegados de classes distintas em exercício na mesma unidade."
+    },
+    {
+      "id": "pcpr-obj-014",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Considerando a estrutura organizacional básica da Polícia Civil do Estado do Paraná prevista no art. 10 da Lei nº 23.213/2026, integram o Nível de Direção Superior:",
+      "options": {
+        "a": "Delegacia-Geral, Conselho Superior de Polícia e Corregedoria-Geral de Polícia.",
+        "b": "Escola Superior de Polícia Civil, Departamento de Tecnologia da Informação e Inovação e Instituto de Identificação.",
+        "c": "Departamento de Inteligência Policial e Departamento de Controle Interno.",
+        "d": "Apenas o Delegado-Geral, sem qualquer órgão colegiado no nível de direção superior.",
+        "e": "Coordenadoria de Operações Integradas e os Departamentos e Unidades de Polícia Judiciária."
+      },
+      "correct": "a",
+      "explanation": "O inciso I do art. 10 da Lei nº 23.213/2026 relaciona, no Nível de Direção Superior, a Delegacia-Geral, o Conselho Superior de Polícia e a Corregedoria-Geral de Polícia. As demais alternativas descrevem órgãos dos Níveis de Assessoramento, Instrumental e de Execução.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "Considerando a estrutura organizacional básica da Polícia Civil do Estado do Paraná prevista no art. 10 da Lei nº 23.213/2026, integram o Nível de Direção Superior: O inciso I do art. 10 da Lei nº 23.213/2026 relaciona, no Nível de Direção Superior, a Delegacia-Geral, o Conselho Superior de Polícia e a Corregedoria-Geral de Polícia. As demais alternativas descrevem órgãos dos Níveis de Assessoramento, Instrumental e de Execução."
+    },
+    {
+      "id": "pcpr-obj-015",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Comparando o §2º do art. 47 da Constituição do Estado do Paraná com o art. 16 da Lei nº 23.213/2026, ambos referentes ao órgão colegiado superior da Polícia Civil do Paraná, é correto afirmar que esse órgão é qualificado:",
+      "options": {
+        "a": "Pela Constituição Estadual, apenas como órgão consultivo, normativo e deliberativo; e, de forma mais ampla, pela Lei nº 23.213/2026, também como órgão diretivo e sancionador.",
+        "b": "Por ambas as normas, de forma idêntica, apenas como órgão consultivo.",
+        "c": "Pela Constituição Estadual, como órgão sancionador; e pela Lei nº 23.213/2026, apenas como órgão consultivo.",
+        "d": "Como órgão jurisdicional em ambas as normas, com competência para processar e julgar crimes praticados por policiais civis.",
+        "e": "Como órgão exclusivamente orçamentário, sem qualquer competência disciplinar."
+      },
+      "correct": "a",
+      "explanation": "O §2º do art. 47 da CE/PR qualifica o Conselho da Polícia Civil como órgão consultivo, normativo e deliberativo. Já o art. 16 da Lei nº 23.213/2026, ao disciplinar o Conselho Superior de Polícia, atribui-lhe expressamente também natureza diretiva e sancionadora, além de consultiva, normativa e deliberativa — é a lei orgânica estadual mais recente que detalha, de forma mais ampla, a natureza desse órgão.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "5"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Comparando o §2º do art. 47 da Constituição do Estado do Paraná com o art. 16 da Lei nº 23.213/2026, ambos referentes ao órgão colegiado superior da Polícia Civil do Paraná, é correto afirmar que esse órgão é qualificado: O §2º do art. 47 da CE/PR qualifica o Conselho da Polícia Civil como órgão consultivo, normativo e deliberativo. Já o art. 16 da Lei nº 23.213/2026, ao disciplinar o Conselho Superior de Polícia, atribui-lhe expressamente também natureza diretiva e sancionadora, além de consultiva, normativa e deliberativa — é a lei orgânica estadual mais recente que detalha, de forma mais ampla, a natureza desse órgão."
+    },
+    {
+      "id": "pcpr-obj-016",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "O Delegado-Geral da Polícia Civil do Paraná pretende celebrar contrato de gestão com uma organização social para que esta assuma, em caráter permanente, as funções de polícia judiciária de determinada unidade especializada, sob a justificativa de ganho de eficiência. Nos termos do parágrafo único do art. 6º da Lei nº 23.213/2026, essa pretensão:",
+      "options": {
+        "a": "É incompatível com a Lei, pois as funções e competências da Polícia Civil do Estado do Paraná são irrenunciáveis e indelegáveis, somente podendo ser desempenhadas por ocupantes das carreiras que a integram.",
+        "b": "É compatível com a Lei, desde que autorizada previamente pelo Conselho Superior de Polícia.",
+        "c": "É compatível com a Lei, por se tratar de atividade meramente administrativa, e não de polícia judiciária propriamente dita.",
+        "d": "É incompatível com a Lei apenas se a organização social não tiver sede no Estado do Paraná.",
+        "e": "É compatível com a Lei, desde que o contrato tenha prazo determinado não superior a um ano."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 6º da Lei nº 23.213/2026 estabelece que as funções e competências da PCPR são irrenunciáveis e indelegáveis, somente podendo ser desempenhadas por ocupantes das carreiras que a integram — o que impede, em qualquer hipótese, sua transferência a terceiros, ainda que sob contrato de gestão.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "2"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "O Delegado-Geral da Polícia Civil do Paraná pretende celebrar contrato de gestão com uma organização social para que esta assuma, em caráter permanente, as funções de polícia judiciária de determinada unidade especializada, sob a justificativa de ganho de eficiência. Nos termos do parágrafo único do art. 6º da Lei nº 23.213/2026, essa pretensão: O parágrafo único do art. 6º da Lei nº 23.213/2026 estabelece que as funções e competências da PCPR são irrenunciáveis e indelegáveis, somente podendo ser desempenhadas por ocupantes das carreiras que a integram — o que impede, em qualquer hipótese, sua transferência a terceiros, ainda que sob contrato de gestão."
+    },
+    {
+      "id": "pcpr-obj-017",
+      "topic": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "question": "Um servidor da Polícia Civil pratica conduta que viola um dos deveres funcionais previstos na Lei nº 21.894/2024, sem que essa conduta esteja tipificada em nenhuma das transgressões disciplinares especificamente descritas na lei. Nesse caso, nos termos do art. 7º, a penalidade cabível é:",
+      "options": {
+        "a": "Repreensão a suspensão de um a dez dias.",
+        "b": "Suspensão de trinta dias a demissão, independentemente da natureza da infração.",
+        "c": "Advertência verbal, sem qualquer registro nos assentos funcionais do servidor.",
+        "d": "Demissão sumária, por se tratar de transgressão disciplinar residual.",
+        "e": "Multa pecuniária equivalente a um dia de subsídio."
+      },
+      "correct": "a",
+      "explanation": "O art. 7º da Lei nº 21.894/2024 comina, para a transgressão disciplinar residual (ação ou omissão contrária aos deveres, não prevista expressamente em outra transgressão), a penalidade de repreensão a suspensão de um a dez dias. Somente quando a infração residual disser respeito a uma vedação (e não a um dever) é que a penalidade prevista passa a ser de suspensão de trinta dias a demissão.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-21894-2024-Parana-PR.pdf",
+        "page": "6"
+      },
+      "subject": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Um servidor da Polícia Civil pratica conduta que viola um dos deveres funcionais previstos na Lei nº 21.894/2024, sem que essa conduta esteja tipificada em nenhuma das transgressões disciplinares especificamente descritas na lei. Nesse caso, nos termos do art. 7º, a penalidade cabível é: O art. 7º da Lei nº 21.894/2024 comina, para a transgressão disciplinar residual (ação ou omissão contrária aos deveres, não prevista expressamente em outra transgressão), a penalidade de repreensão a suspensão de um a dez dias. Somente quando a infração residual disser respeito a uma vedação (e não a um dever) é que a penalidade prevista passa a ser de suspensão de trinta dias a demissão."
+    },
+    {
+      "id": "pcpr-obj-018",
+      "topic": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "question": "Uma transgressão disciplinar cuja penalidade cominada varia entre suspensão e demissão foi cometida por um servidor da Polícia Civil do Paraná. Nos termos do art. 62 e de seu §1º da Lei nº 21.894/2024, o prazo prescricional aplicável a essa transgressão é de:",
+      "options": {
+        "a": "Cinco anos, pois, quando a penalidade prevista para a transgressão varia de suspensão a demissão, o prazo prescricional passa a ser de cinco anos.",
+        "b": "Dois anos, por se tratar de transgressão punível, em tese, com suspensão.",
+        "c": "Um ano, prazo geral aplicável a toda e qualquer transgressão disciplinar prevista na lei.",
+        "d": "Dez anos, equiparando-se aos crimes hediondos.",
+        "e": "Não há prescrição para transgressões que admitam, entre suas penalidades possíveis, a demissão."
+      },
+      "correct": "a",
+      "explanation": "O art. 62 da Lei nº 21.894/2024 prevê, como regra, dois anos de prescrição para transgressões puníveis com repreensão ou suspensão, e cinco anos para as puníveis com demissão, cassação de aposentadoria ou de disponibilidade. Contudo, o §1º do mesmo artigo estabelece uma exceção relevante: quando a penalidade prevista para a transgressão variar de suspensão a demissão, o prazo prescricional será de cinco anos, e não de dois.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-21894-2024-Parana-PR.pdf",
+        "page": "30"
+      },
+      "subject": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Uma transgressão disciplinar cuja penalidade cominada varia entre suspensão e demissão foi cometida por um servidor da Polícia Civil do Paraná. Nos termos do art. 62 e de seu §1º da Lei nº 21.894/2024, o prazo prescricional aplicável a essa transgressão é de: O art. 62 da Lei nº 21.894/2024 prevê, como regra, dois anos de prescrição para transgressões puníveis com repreensão ou suspensão, e cinco anos para as puníveis com demissão, cassação de aposentadoria ou de disponibilidade. Contudo, o §1º do mesmo artigo estabelece uma exceção relevante: quando a penalidade prevista para a transgressão variar de suspensão a demissão, o prazo prescricional será de cinco anos, e não de dois."
+    },
+    {
+      "id": "pcpr-obj-019",
+      "topic": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "question": "O art. 15 da Lei nº 21.894/2024 relaciona como penas disciplinares a repreensão, a suspensão, a demissão, a cassação de disponibilidade e a cassação da aposentadoria. Quanto à pena de suspensão, especificamente, o art. 20 da mesma lei estabelece que ela acarreta:",
+      "options": {
+        "a": "A perda de metade do subsídio por dia de suspensão, não podendo o prazo exceder noventa dias, com recolhimento da arma institucional enquanto durar a penalidade.",
+        "b": "A perda integral do subsídio durante todo o período, que pode se estender por até um ano.",
+        "c": "Apenas o afastamento das funções, sem qualquer repercussão financeira sobre o subsídio.",
+        "d": "A perda de um terço do subsídio, limitada a trinta dias, sem recolhimento da arma institucional.",
+        "e": "A conversão automática em pena de demissão após o terceiro dia consecutivo de suspensão."
+      },
+      "correct": "a",
+      "explanation": "O art. 20 e seu parágrafo único da Lei nº 21.894/2024 dispõem que a pena de suspensão acarreta a perda de metade do subsídio por dia, enquanto durar, não podendo exceder o prazo de noventa dias, além de implicar, enquanto durar a penalidade, o recolhimento da arma de fogo institucional do servidor.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-21894-2024-Parana-PR.pdf",
+        "page": "14"
+      },
+      "subject": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "O art. 15 da Lei nº 21.894/2024 relaciona como penas disciplinares a repreensão, a suspensão, a demissão, a cassação de disponibilidade e a cassação da aposentadoria. Quanto à pena de suspensão, especificamente, o art. 20 da mesma lei estabelece que ela acarreta: O art. 20 e seu parágrafo único da Lei nº 21.894/2024 dispõem que a pena de suspensão acarreta a perda de metade do subsídio por dia, enquanto durar, não podendo exceder o prazo de noventa dias, além de implicar, enquanto durar a penalidade, o recolhimento da arma de fogo institucional do servidor."
+    },
+    {
+      "id": "pcpr-obj-020",
+      "topic": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "question": "Um Delegado de Polícia deseja designar seu primo, parente colateral de segundo grau, para atuar sob sua chefia imediata, na mesma unidade policial, havendo outras unidades da Polícia Civil disponíveis naquela mesma localidade. Diante da vedação prevista no inciso V do art. 6º da Lei nº 21.894/2024, essa designação:",
+      "options": {
+        "a": "É vedada, pois é proibido manter sob chefia imediata cônjuge, companheiro ou parente consanguíneo ou afim até o segundo grau, salvo quando se tratar de Unidade Policial única na localidade, com ambos os servidores sendo policiais de carreira.",
+        "b": "É permitida em qualquer hipótese, pois a lei não disciplina relações de parentesco entre policiais civis.",
+        "c": "É vedada de forma absoluta, mesmo que a unidade policial seja a única existente na localidade.",
+        "d": "É permitida, desde que o primo seja submetido a avaliação psicológica específica para esse fim.",
+        "e": "É vedada apenas quando o parentesco for em linha reta, não alcançando parentes colaterais como primos."
+      },
+      "correct": "a",
+      "explanation": "O inciso V do art. 6º da Lei nº 21.894/2024 veda manter sob chefia imediata cônjuge, companheiro ou parente consanguíneo ou afim até o segundo grau, ressalvada apenas a hipótese de Unidade Policial única na localidade, com ambos os servidores sendo policiais de carreira. Como, no caso, existem outras unidades disponíveis na localidade, a exceção não se aplica e a designação permanece vedada.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-21894-2024-Parana-PR.pdf",
+        "page": "5"
+      },
+      "subject": "Lei nº 21.894/2024 — Código Disciplinar da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Um Delegado de Polícia deseja designar seu primo, parente colateral de segundo grau, para atuar sob sua chefia imediata, na mesma unidade policial, havendo outras unidades da Polícia Civil disponíveis naquela mesma localidade. Diante da vedação prevista no inciso V do art. 6º da Lei nº 21.894/2024, essa designação: O inciso V do art. 6º da Lei nº 21.894/2024 veda manter sob chefia imediata cônjuge, companheiro ou parente consanguíneo ou afim até o segundo grau, ressalvada apenas a hipótese de Unidade Policial única na localidade, com ambos os servidores sendo policiais de carreira. Como, no caso, existem outras unidades disponíveis na localidade, a exceção não se aplica e a designação permanece vedada."
+    },
+    {
+      "id": "pcpr-obj-021",
+      "topic": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "question": "João preenche todos os requisitos gerais do art. 22 da Lei nº 6.174/1970 (nacionalidade brasileira, maioridade, quitação de obrigações militares, gozo de direitos políticos, boa conduta, boa saúde e aptidão para o cargo) para investidura em cargo público estadual, mas não possui Carteira Nacional de Habilitação. Para o ingresso na carreira de Agente de Polícia Judiciária da PCPR, essa ausência:",
+      "options": {
+        "a": "Impede o provimento, pois o inciso III do art. 11 da Lei Complementar nº 259/2023 exige, sem prejuízo das demais condições gerais do art. 22 da Lei nº 6.174/1970, a posse de CNH ou permissão para dirigir veículos automotores, categoria mínima B, regular e dentro do prazo de validade.",
+        "b": "Não impede o provimento, pois os requisitos do art. 22 da Lei nº 6.174/1970 são os únicos exigíveis para qualquer cargo público estadual, inclusive na Polícia Civil.",
+        "c": "Impede o provimento apenas para o cargo de Delegado de Polícia, sendo dispensável para as demais carreiras policiais civis.",
+        "d": "Não impede o provimento, desde que o candidato obtenha a CNH em até cinco anos após a posse.",
+        "e": "Impede o provimento apenas se o candidato for lotado em unidade circunscricional, sendo dispensado em unidades especializadas."
+      },
+      "correct": "a",
+      "explanation": "O art. 22 da Lei nº 6.174/1970 fixa os requisitos gerais para provimento em qualquer cargo público estadual. O art. 11 da LC nº 259/2023, ao disciplinar especificamente o provimento nas carreiras da Polícia Civil, acrescenta exigências próprias — entre elas, no inciso III, a posse de CNH ou permissão para dirigir na categoria mínima B — expressamente 'sem prejuízo das demais condições gerais' do art. 22 da Lei nº 6.174/1970 (inciso X do mesmo art. 11), de modo que as duas normas se aplicam cumulativamente.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-6174-1970-Parana-PR-consolidada-[04-12-2024].pdf",
+        "page": "5"
+      },
+      "subject": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "difficulty": "dificil",
+      "miniLesson": "João preenche todos os requisitos gerais do art. 22 da Lei nº 6.174/1970 (nacionalidade brasileira, maioridade, quitação de obrigações militares, gozo de direitos políticos, boa conduta, boa saúde e aptidão para o cargo) para investidura em cargo público estadual, mas não possui Carteira Nacional de Habilitação. Para o ingresso na carreira de Agente de Polícia Judiciária da PCPR, essa ausência: O art. 22 da Lei nº 6.174/1970 fixa os requisitos gerais para provimento em qualquer cargo público estadual. O art. 11 da LC nº 259/2023, ao disciplinar especificamente o provimento nas carreiras da Polícia Civil, acrescenta exigências próprias — entre elas, no inciso III, a posse de CNH ou permissão para dirigir na categoria mínima B — expressamente 'sem prejuízo das demais condições gerais' do art. 22 da Lei nº 6.174/1970 (inciso X do mesmo art. 11), de modo que as duas normas se aplicam cumulativamente."
+    },
+    {
+      "id": "pcpr-obj-022",
+      "topic": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "question": "Segundo o §1º do art. 43 da Lei nº 6.174/1970, os requisitos apurados durante o estágio probatório do regime geral dos servidores públicos civis do Estado do Paraná são:",
+      "options": {
+        "a": "Idoneidade moral, assiduidade, disciplina e eficiência.",
+        "b": "Urbanidade, discrição, lealdade e assiduidade.",
+        "c": "Antiguidade, merecimento, titulação e capacitação.",
+        "d": "Produtividade, eficiência, eficácia e economicidade.",
+        "e": "Apenas assiduidade e pontualidade, sem qualquer avaliação de eficiência."
+      },
+      "correct": "a",
+      "explanation": "O §1º do art. 43 da Lei nº 6.174/1970 estabelece que, durante o estágio probatório — período de dois anos de efetivo exercício, no regime geral —, são apurados os requisitos de idoneidade moral, assiduidade, disciplina e eficiência.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-6174-1970-Parana-PR-consolidada-[04-12-2024].pdf",
+        "page": "9"
+      },
+      "subject": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o §1º do art. 43 da Lei nº 6.174/1970, os requisitos apurados durante o estágio probatório do regime geral dos servidores públicos civis do Estado do Paraná são: O §1º do art. 43 da Lei nº 6.174/1970 estabelece que, durante o estágio probatório — período de dois anos de efetivo exercício, no regime geral —, são apurados os requisitos de idoneidade moral, assiduidade, disciplina e eficiência."
+    },
+    {
+      "id": "pcpr-obj-023",
+      "topic": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "question": "Um servidor estadual, fora do horário de expediente, mas dentro das dependências da repartição, vende produtos de beleza para colegas de trabalho, de forma habitual. Essa conduta, à luz do art. 285 da Lei nº 6.174/1970, configura, em princípio, violação à proibição de:",
+      "options": {
+        "a": "Exercer comércio entre os colegas de trabalho.",
+        "b": "Exercer cumulativamente dois ou mais cargos públicos.",
+        "c": "Retirar documento de órgão estadual sem prévia autorização da autoridade competente.",
+        "d": "Coagir ou aliciar subordinados com finalidade partidária.",
+        "e": "Referir-se de modo depreciativo às autoridades em parecer ou despacho oficial."
+      },
+      "correct": "a",
+      "explanation": "O inciso XX do art. 285 da Lei nº 6.174/1970 proíbe expressamente ao funcionário exercer comércio entre os colegas de trabalho, conduta distinta das demais proibições listadas nas outras alternativas (incisos I, III, VI e II, respectivamente).",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei-ordinaria-6174-1970-Parana-PR-consolidada-[04-12-2024].pdf",
+        "page": "64"
+      },
+      "subject": "Lei nº 6.174/1970 — Regime Jurídico dos Servidores Públicos do Paraná",
+      "difficulty": "medio",
+      "miniLesson": "Um servidor estadual, fora do horário de expediente, mas dentro das dependências da repartição, vende produtos de beleza para colegas de trabalho, de forma habitual. Essa conduta, à luz do art. 285 da Lei nº 6.174/1970, configura, em princípio, violação à proibição de: O inciso XX do art. 285 da Lei nº 6.174/1970 proíbe expressamente ao funcionário exercer comércio entre os colegas de trabalho, conduta distinta das demais proibições listadas nas outras alternativas (incisos I, III, VI e II, respectivamente)."
+    },
+    {
+      "id": "pcpr-obj-024",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Marcos, integrante da Polícia Militar do Paraná na ativa, é aprovado em concurso público para um cargo civil permanente em outra secretaria estadual e manifesta interesse em tomar posse. Segundo o art. 45, §1º, da Constituição do Estado do Paraná, ao tomar posse nesse cargo civil permanente, Marcos será:",
+      "options": {
+        "a": "Transferido para a reserva, nos termos da lei.",
+        "b": "Automaticamente exonerado do cargo militar sem qualquer transferência para a reserva.",
+        "c": "Mantido simultaneamente nos dois cargos, sem qualquer restrição funcional.",
+        "d": "Obrigado a devolver todas as vantagens já percebidas na carreira militar.",
+        "e": "Agregado ao quadro militar por prazo indeterminado, sem possibilidade de reforma."
+      },
+      "correct": "a",
+      "explanation": "Segundo o art. 45, §1º, da CE/PR, o militar estadual da ativa que aceitar cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Marcos, integrante da Polícia Militar do Paraná na ativa, é aprovado em concurso público para um cargo civil permanente em outra secretaria estadual e manifesta interesse em tomar posse. Segundo o art. 45, §1º, da Constituição do Estado do Paraná, ao tomar posse nesse cargo civil permanente, Marcos será: Segundo o art. 45, §1º, da CE/PR, o militar estadual da ativa que aceitar cargo ou emprego público civil permanente será transferido para a reserva, nos termos da lei."
+    },
+    {
+      "id": "pcpr-obj-025",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Um militar estadual do Paraná toma posse em função pública civil temporária e não eletiva, permanecendo nessa condição por mais de dois anos, de forma contínua. Segundo o art. 45, §2º, da Constituição Estadual, decorrido esse prazo, esse militar será:",
+      "options": {
+        "a": "Transferido para a reserva remunerada, nos termos da lei.",
+        "b": "Automaticamente promovido por merecimento, independentemente de vaga.",
+        "c": "Exonerado do cargo civil, retornando compulsoriamente ao serviço militar ativo.",
+        "d": "Mantido agregado indefinidamente, sem qualquer prazo para transferência à reserva.",
+        "e": "Submetido a processo disciplinar por acumulação irregular de cargos."
+      },
+      "correct": "a",
+      "explanation": "O art. 45, §2º, da CE/PR estabelece que o militar estadual nessa condição, após 2 anos de afastamento contínuos ou não, será transferido para a reserva remunerada, nos termos da lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Um militar estadual do Paraná toma posse em função pública civil temporária e não eletiva, permanecendo nessa condição por mais de dois anos, de forma contínua. Segundo o art. 45, §2º, da Constituição Estadual, decorrido esse prazo, esse militar será: O art. 45, §2º, da CE/PR estabelece que o militar estadual nessa condição, após 2 anos de afastamento contínuos ou não, será transferido para a reserva remunerada, nos termos da lei."
+    },
+    {
+      "id": "pcpr-obj-026",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 45, §3º, da Constituição do Estado do Paraná, são vedadas ao militar estadual, entre outras condutas:",
+      "options": {
+        "a": "A sindicalização e a greve, sendo a filiação a partido político vedada apenas enquanto em efetivo serviço.",
+        "b": "Exclusivamente a greve, sendo permitidas a sindicalização e a filiação partidária em qualquer hipótese.",
+        "c": "Apenas a filiação a partido político, sendo livres a sindicalização e a greve.",
+        "d": "A candidatura a cargos eletivos, ainda que o militar esteja na reserva remunerada.",
+        "e": "A prestação de concurso público para cargos civis, mesmo após a transferência para a reserva."
+      },
+      "correct": "a",
+      "explanation": "O art. 45, §3º, da CE/PR veda ao militar estadual a sindicalização, a greve e, enquanto em efetivo serviço, a filiação a partido político.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 45, §3º, da Constituição do Estado do Paraná, são vedadas ao militar estadual, entre outras condutas: O art. 45, §3º, da CE/PR veda ao militar estadual a sindicalização, a greve e, enquanto em efetivo serviço, a filiação a partido político."
+    },
+    {
+      "id": "pcpr-obj-027",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Um oficial da Polícia Militar do Paraná é condenado na justiça comum à pena privativa de liberdade superior a dois anos, por sentença transitada em julgado. Segundo os §§4º e 5º do art. 45 da Constituição Estadual, para que esse oficial perca o posto e a patente, é necessário:",
+      "options": {
+        "a": "Julgamento pelo tribunal competente em tempo de paz, que o considere indigno do oficialato ou com ele incompatível.",
+        "b": "A simples comunicação administrativa do trânsito em julgado, sem qualquer julgamento adicional.",
+        "c": "Decisão exclusiva do Governador do Estado, independentemente de qualquer processo judicial específico.",
+        "d": "Deliberação do Conselho da Polícia Civil, órgão competente para julgar oficiais de todas as forças de segurança.",
+        "e": "Aprovação por dois terços da Assembleia Legislativa, em processo de perda de mandato."
+      },
+      "correct": "a",
+      "explanation": "Segundo os §§4º e 5º do art. 45 da CE/PR, o oficial condenado nessas condições será submetido ao julgamento do tribunal competente em tempo de paz, que decidirá se ele é indigno do oficialato ou com ele incompatível.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Um oficial da Polícia Militar do Paraná é condenado na justiça comum à pena privativa de liberdade superior a dois anos, por sentença transitada em julgado. Segundo os §§4º e 5º do art. 45 da Constituição Estadual, para que esse oficial perca o posto e a patente, é necessário: Segundo os §§4º e 5º do art. 45 da CE/PR, o oficial condenado nessas condições será submetido ao julgamento do tribunal competente em tempo de paz, que decidirá se ele é indigno do oficialato ou com ele incompatível."
+    },
+    {
+      "id": "pcpr-obj-028",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 45, §12, inciso I, da Constituição do Estado do Paraná, é direito do militar estadual:",
+      "options": {
+        "a": "Foro competente de primeira e segunda instâncias para o julgamento de crimes militares definidos em lei.",
+        "b": "Foro por prerrogativa de função perante o Supremo Tribunal Federal, para qualquer crime.",
+        "c": "Imunidade processual absoluta, mesmo para crimes comuns praticados fora do serviço.",
+        "d": "Julgamento exclusivo pelo júri popular, ainda que se trate de crime militar.",
+        "e": "Renúncia ao foro militar, mediante requerimento, para ser julgado pela justiça comum."
+      },
+      "correct": "a",
+      "explanation": "O art. 45, §12, I, da CE/PR assegura ao militar estadual o foro competente de primeira e segunda instâncias para o julgamento de crimes militares definidos em lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 45, §12, inciso I, da Constituição do Estado do Paraná, é direito do militar estadual: O art. 45, §12, I, da CE/PR assegura ao militar estadual o foro competente de primeira e segunda instâncias para o julgamento de crimes militares definidos em lei."
+    },
+    {
+      "id": "pcpr-obj-029",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 45, §12, inciso II, da Constituição Estadual, o soldo da classe inicial de soldado da Polícia Militar do Paraná:",
+      "options": {
+        "a": "Nunca poderá ser inferior ao salário mínimo fixado em lei, assegurada a diferenciação decorrente do escalonamento hierárquico.",
+        "b": "Deverá ser sempre igual ao subsídio do Governador do Estado, independentemente do posto ocupado.",
+        "c": "Poderá ser inferior ao salário mínimo em situações excepcionais de contingenciamento orçamentário.",
+        "d": "É fixado exclusivamente pelo Comandante-Geral da corporação, sem qualquer parâmetro constitucional mínimo.",
+        "e": "Não pode sofrer qualquer diferenciação em razão do escalonamento hierárquico da carreira."
+      },
+      "correct": "a",
+      "explanation": "O art. 45, §12, II, da CE/PR garante que o soldo da classe inicial de soldado nunca será inferior ao salário mínimo fixado em lei, assegurando-se a diferenciação decorrente do escalonamento hierárquico.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 45, §12, inciso II, da Constituição Estadual, o soldo da classe inicial de soldado da Polícia Militar do Paraná: O art. 45, §12, II, da CE/PR garante que o soldo da classe inicial de soldado nunca será inferior ao salário mínimo fixado em lei, assegurando-se a diferenciação decorrente do escalonamento hierárquico."
+    },
+    {
+      "id": "pcpr-obj-030",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 45, §13, da Constituição do Estado do Paraná, aplica-se ao servidor militar estadual:",
+      "options": {
+        "a": "A legislação penal militar.",
+        "b": "Exclusivamente a legislação penal comum, com exclusão de qualquer foro especial.",
+        "c": "O Código de Processo Civil, para fins de apuração de faltas disciplinares.",
+        "d": "A legislação trabalhista celetista, no que se refere aos direitos previdenciários.",
+        "e": "As normas do Estatuto da Criança e do Adolescente, quando o autuado for menor de idade."
+      },
+      "correct": "a",
+      "explanation": "O art. 45, §13, da CE/PR determina que se aplica ao servidor militar estadual a legislação penal militar.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "11"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 45, §13, da Constituição do Estado do Paraná, aplica-se ao servidor militar estadual: O art. 45, §13, da CE/PR determina que se aplica ao servidor militar estadual a legislação penal militar."
+    },
+    {
+      "id": "pcpr-obj-031",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Ao listar os órgãos por meio dos quais a Segurança Pública é exercida no Estado do Paraná, o art. 46 da Constituição Estadual — considerando as inclusões promovidas pelas Emendas Constitucionais nº 50/2021 e nº 53/2022 — contempla, entre outros, os seguintes órgãos:",
+      "options": {
+        "a": "Polícia Penal e Corpo de Bombeiros Militar, incluídos por emendas constitucionais recentes.",
+        "b": "Guarda Civil Municipal e Polícia Rodoviária Federal, incluídas por emenda constitucional estadual.",
+        "c": "Exclusivamente a Polícia Militar e a Polícia Civil, sem qualquer outro órgão previsto no dispositivo.",
+        "d": "Ministério Público e Defensoria Pública, como integrantes do sistema de segurança pública estadual.",
+        "e": "Tribunal de Justiça e Tribunal de Contas, como órgãos de controle da segurança pública."
+      },
+      "correct": "a",
+      "explanation": "O art. 46 da CE/PR foi complementado pela Emenda Constitucional nº 50/2021, que incluiu a Polícia Penal (inciso IV), e pela Emenda Constitucional nº 53/2022, que incluiu o Corpo de Bombeiros Militar (inciso V), entre os órgãos de Segurança Pública do Estado.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Ao listar os órgãos por meio dos quais a Segurança Pública é exercida no Estado do Paraná, o art. 46 da Constituição Estadual — considerando as inclusões promovidas pelas Emendas Constitucionais nº 50/2021 e nº 53/2022 — contempla, entre outros, os seguintes órgãos: O art. 46 da CE/PR foi complementado pela Emenda Constitucional nº 50/2021, que incluiu a Polícia Penal (inciso IV), e pela Emenda Constitucional nº 53/2022, que incluiu o Corpo de Bombeiros Militar (inciso V), entre os órgãos de Segurança Pública do Estado."
+    },
+    {
+      "id": "pcpr-obj-032",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 46, caput, da Constituição do Estado do Paraná, a Segurança Pública é qualificada, simultaneamente, como:",
+      "options": {
+        "a": "Dever do Estado e direito e responsabilidade de todos.",
+        "b": "Direito exclusivo do Estado, sem qualquer responsabilidade atribuída aos cidadãos.",
+        "c": "Obrigação exclusiva das forças policiais, sem qualquer participação da sociedade civil.",
+        "d": "Prerrogativa exclusiva do Governador do Estado, delegável apenas por decreto.",
+        "e": "Serviço público facultativo, prestado mediante concessão a empresas privadas."
+      },
+      "correct": "a",
+      "explanation": "O art. 46, caput, da CE/PR estabelece que a Segurança Pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 46, caput, da Constituição do Estado do Paraná, a Segurança Pública é qualificada, simultaneamente, como: O art. 46, caput, da CE/PR estabelece que a Segurança Pública é dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio."
+    },
+    {
+      "id": "pcpr-obj-033",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 48 da Constituição do Estado do Paraná, cabe à Polícia Militar, força estadual organizada com base na hierarquia e disciplina militares:",
+      "options": {
+        "a": "A polícia ostensiva, a preservação da ordem pública e o policiamento de trânsito urbano e rodoviário, de florestas e de mananciais.",
+        "b": "Exclusivamente as funções de polícia judiciária e as apurações das infrações penais comuns.",
+        "c": "A realização de perícias de criminalística e médico-legais em todo o território estadual.",
+        "d": "A segurança dos estabelecimentos penais e das custódias provisórias e temporárias.",
+        "e": "A coordenação exclusiva das ações de defesa civil em casos de eventos desastrosos."
+      },
+      "correct": "a",
+      "explanation": "O art. 48 da CE/PR atribui à Polícia Militar a polícia ostensiva, a preservação da ordem pública e o policiamento de trânsito urbano e rodoviário, de florestas e de mananciais, além de outras formas e funções definidas em lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 48 da Constituição do Estado do Paraná, cabe à Polícia Militar, força estadual organizada com base na hierarquia e disciplina militares: O art. 48 da CE/PR atribui à Polícia Militar a polícia ostensiva, a preservação da ordem pública e o policiamento de trânsito urbano e rodoviário, de florestas e de mananciais, além de outras formas e funções definidas em lei."
+    },
+    {
+      "id": "pcpr-obj-034",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o parágrafo único do art. 48 da Constituição Estadual, as patentes dos oficiais da Polícia Militar, com suas prerrogativas, direitos e deveres, são asseguradas em toda a sua plenitude:",
+      "options": {
+        "a": "Aos oficiais da ativa, da reserva ou reformados, sendo-lhes privativos os títulos, uniformes militares e postos até o coronel.",
+        "b": "Apenas aos oficiais da ativa, perdendo toda prerrogativa após a passagem à reserva.",
+        "c": "Exclusivamente aos oficiais que atingirem o posto de coronel, excluindo os postos inferiores.",
+        "d": "A qualquer servidor civil que tenha prestado serviço equivalente à corporação militar.",
+        "e": "Somente durante o período de efetivo exercício em unidades operacionais de policiamento ostensivo."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 48 da CE/PR assegura as patentes, com suas prerrogativas, direitos e deveres, em toda sua plenitude aos oficiais da ativa, reserva ou reformados da Polícia Militar, sendo-lhes privativos os títulos, uniformes militares e postos até o coronel.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o parágrafo único do art. 48 da Constituição Estadual, as patentes dos oficiais da Polícia Militar, com suas prerrogativas, direitos e deveres, são asseguradas em toda a sua plenitude: O parágrafo único do art. 48 da CE/PR assegura as patentes, com suas prerrogativas, direitos e deveres, em toda sua plenitude aos oficiais da ativa, reserva ou reformados da Polícia Militar, sendo-lhes privativos os títulos, uniformes militares e postos até o coronel."
+    },
+    {
+      "id": "pcpr-obj-035",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 48-A da Constituição do Estado do Paraná, incluído pela Emenda Constitucional nº 53/2022, compete ao Corpo de Bombeiros Militar, entre outras atribuições:",
+      "options": {
+        "a": "A coordenação e a execução de atividades de defesa civil, o combate a incêndios e desastres e o atendimento pré-hospitalar.",
+        "b": "Exclusivamente a fiscalização de trânsito rodoviário e urbano em todo o território estadual.",
+        "c": "A apuração de infrações penais militares cometidas por integrantes da Polícia Militar.",
+        "d": "A realização de perícias médico-legais em casos de morte violenta, com estrutura própria.",
+        "e": "A segurança de estabelecimentos penais e de outros setores vinculados à execução penal."
+      },
+      "correct": "a",
+      "explanation": "O art. 48-A da CE/PR, incluído pela EC 53/2022, atribui ao Corpo de Bombeiros Militar a coordenação e execução de atividades de defesa civil, o poder de polícia administrativa referente à prevenção de incêndios, o combate a incêndios e desastres, buscas, salvamentos, socorros públicos e atendimento pré-hospitalar.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 48-A da Constituição do Estado do Paraná, incluído pela Emenda Constitucional nº 53/2022, compete ao Corpo de Bombeiros Militar, entre outras atribuições: O art. 48-A da CE/PR, incluído pela EC 53/2022, atribui ao Corpo de Bombeiros Militar a coordenação e execução de atividades de defesa civil, o poder de polícia administrativa referente à prevenção de incêndios, o combate a incêndios e desastres, buscas, salvamentos, socorros públicos e atendimento pré-hospitalar."
+    },
+    {
+      "id": "pcpr-obj-036",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 48-A, §1º, da Constituição Estadual, aplicam-se aos integrantes do Corpo de Bombeiros Militar:",
+      "options": {
+        "a": "O art. 45 e o parágrafo único do art. 48 desta Constituição.",
+        "b": "Exclusivamente as normas aplicáveis à Polícia Civil, por força de equiparação funcional.",
+        "c": "As disposições específicas da Polícia Penal, relativas à segurança de estabelecimentos penais.",
+        "d": "Somente as normas do regime geral dos servidores públicos civis do Estado.",
+        "e": "As regras aplicáveis à Polícia Científica quanto ao ingresso e à ascensão funcional."
+      },
+      "correct": "a",
+      "explanation": "O art. 48-A, §1º, da CE/PR determina que se aplicam aos integrantes do Corpo de Bombeiros Militar o art. 45 (militares estaduais) e o parágrafo único do art. 48 (patentes dos oficiais) da Constituição Estadual.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 48-A, §1º, da Constituição Estadual, aplicam-se aos integrantes do Corpo de Bombeiros Militar: O art. 48-A, §1º, da CE/PR determina que se aplicam aos integrantes do Corpo de Bombeiros Militar o art. 45 (militares estaduais) e o parágrafo único do art. 48 (patentes dos oficiais) da Constituição Estadual."
+    },
+    {
+      "id": "pcpr-obj-037",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50 da Constituição do Estado do Paraná, a Polícia Científica, incumbida das perícias de criminalística e médico-legais, será dirigida por:",
+      "options": {
+        "a": "Perito oficial de carreira da classe mais elevada, na forma da lei.",
+        "b": "Delegado de polícia da classe mais elevada da carreira policial civil.",
+        "c": "Oficial da ativa do último posto do quadro de oficiais da Polícia Militar.",
+        "d": "Servidor de livre nomeação do Governador do Estado, sem vínculo com a carreira pericial.",
+        "e": "Policial Penal com no mínimo dez anos de exercício na função."
+      },
+      "correct": "a",
+      "explanation": "O art. 50 da CE/PR estabelece que a Polícia Científica será dirigida por perito oficial de carreira da classe mais elevada, na forma da lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50 da Constituição do Estado do Paraná, a Polícia Científica, incumbida das perícias de criminalística e médico-legais, será dirigida por: O art. 50 da CE/PR estabelece que a Polícia Científica será dirigida por perito oficial de carreira da classe mais elevada, na forma da lei."
+    },
+    {
+      "id": "pcpr-obj-038",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50, §1º, da Constituição Estadual, a função policial científica fundamenta-se:",
+      "options": {
+        "a": "Na hierarquia e disciplina.",
+        "b": "Exclusivamente na autonomia técnica dos peritos, sem qualquer vínculo hierárquico.",
+        "c": "Na subordinação direta e irrestrita ao Poder Judiciário estadual.",
+        "d": "Nas normas do regime celetista aplicável aos servidores públicos.",
+        "e": "Na deliberação colegiada obrigatória para qualquer ato pericial isolado."
+      },
+      "correct": "a",
+      "explanation": "O art. 50, §1º, da CE/PR estabelece que a função policial científica fundamenta-se na hierarquia e disciplina.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50, §1º, da Constituição Estadual, a função policial científica fundamenta-se: O art. 50, §1º, da CE/PR estabelece que a função policial científica fundamenta-se na hierarquia e disciplina."
+    },
+    {
+      "id": "pcpr-obj-039",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50, §3º, da Constituição do Estado do Paraná, os cargos da Polícia Científica serão providos mediante:",
+      "options": {
+        "a": "Concurso público de provas e títulos, observado o disposto na legislação específica.",
+        "b": "Livre nomeação do Secretário de Estado da Segurança Pública, sem concurso público.",
+        "c": "Indicação política aprovada pela Assembleia Legislativa em votação nominal.",
+        "d": "Promoção interna exclusiva de servidores da Polícia Civil, sem concurso específico.",
+        "e": "Convocação direta de profissionais liberais mediante contrato temporário."
+      },
+      "correct": "a",
+      "explanation": "O art. 50, §3º, da CE/PR estabelece que os cargos da Polícia Científica serão providos mediante concurso público de provas e títulos, observado o disposto na legislação específica.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 50, §3º, da Constituição do Estado do Paraná, os cargos da Polícia Científica serão providos mediante: O art. 50, §3º, da CE/PR estabelece que os cargos da Polícia Científica serão providos mediante concurso público de provas e títulos, observado o disposto na legislação específica."
+    },
+    {
+      "id": "pcpr-obj-040",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A da Constituição Estadual, incluído pela Emenda Constitucional nº 50/2021, a Polícia Penal do Paraná é instituição permanente e essencial à Segurança Pública, com incumbência de garantir a segurança dos estabelecimentos penais, excetuando-se expressamente:",
+      "options": {
+        "a": "As atribuições de polícia judiciária e as apurações de infrações penais, inclusive militares.",
+        "b": "A custódia de presos provisórios, que permanece sob responsabilidade exclusiva da Polícia Civil.",
+        "c": "O atendimento pré-hospitalar em unidades prisionais, atribuído ao Corpo de Bombeiros Militar.",
+        "d": "A segurança de medidas cautelares diversas da prisão, atribuída à Polícia Militar.",
+        "e": "A realização de perícias criminalísticas dentro dos estabelecimentos penais."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A da CE/PR estabelece que a Polícia Penal garante a segurança dos estabelecimentos penais e de outros setores vinculados à execução penal, excetuando-se as atribuições de polícia judiciária e as apurações de infrações penais, inclusive militares.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 50-A da Constituição Estadual, incluído pela Emenda Constitucional nº 50/2021, a Polícia Penal do Paraná é instituição permanente e essencial à Segurança Pública, com incumbência de garantir a segurança dos estabelecimentos penais, excetuando-se expressamente: O art. 50-A da CE/PR estabelece que a Polícia Penal garante a segurança dos estabelecimentos penais e de outros setores vinculados à execução penal, excetuando-se as atribuições de polícia judiciária e as apurações de infrações penais, inclusive militares."
+    },
+    {
+      "id": "pcpr-obj-041",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §1º, da Constituição do Estado do Paraná, a função policial penal fundamenta-se na hierarquia, estabelecida em níveis da carreira de Policial Penal, e:",
+      "options": {
+        "a": "Disciplina.",
+        "b": "Escolaridade mínima de nível superior em Direito.",
+        "c": "Subordinação direta ao Departamento de Polícia Científica.",
+        "d": "Vinculação orgânica exclusiva ao Poder Judiciário estadual.",
+        "e": "Antiguidade absoluta, sem qualquer critério de merecimento."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §1º, da CE/PR estabelece que a função policial penal fundamenta-se na hierarquia, estabelecida em níveis da carreira de Policial Penal, e disciplina.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50-A, §1º, da Constituição do Estado do Paraná, a função policial penal fundamenta-se na hierarquia, estabelecida em níveis da carreira de Policial Penal, e: O art. 50-A, §1º, da CE/PR estabelece que a função policial penal fundamenta-se na hierarquia, estabelecida em níveis da carreira de Policial Penal, e disciplina."
+    },
+    {
+      "id": "pcpr-obj-042",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §2º, da Constituição Estadual, o ingresso no quadro de servidores do órgão da Polícia Penal será feito:",
+      "options": {
+        "a": "Exclusivamente por meio de concurso público.",
+        "b": "Por indicação do Diretor do DEPPEN, mediante aprovação do Governador do Estado.",
+        "c": "Por transferência direta de servidores do quadro da Polícia Militar.",
+        "d": "Por meio de processo seletivo simplificado, sem exigência de concurso público.",
+        "e": "Por nomeação política, condicionada à aprovação da Assembleia Legislativa."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §2º, da CE/PR determina que o ingresso no quadro de servidores do órgão da Polícia Penal será feito, exclusivamente, por meio de concurso público.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 50-A, §2º, da Constituição Estadual, o ingresso no quadro de servidores do órgão da Polícia Penal será feito: O art. 50-A, §2º, da CE/PR determina que o ingresso no quadro de servidores do órgão da Polícia Penal será feito, exclusivamente, por meio de concurso público."
+    },
+    {
+      "id": "pcpr-obj-043",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §3º, da Constituição do Estado do Paraná, os cargos atuais de Agente Penitenciário:",
+      "options": {
+        "a": "Serão transformados em Policial Penal, nos termos da lei.",
+        "b": "Serão extintos, sendo seus ocupantes redistribuídos para outros órgãos da administração estadual.",
+        "c": "Permanecerão inalterados, sem qualquer relação com a nova carreira de Policial Penal.",
+        "d": "Serão automaticamente incorporados aos quadros da Polícia Civil do Paraná.",
+        "e": "Serão convertidos em cargos comissionados de livre nomeação e exoneração."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §3º, da CE/PR determina que os atuais cargos de Agente Penitenciário serão transformados em Policial Penal, nos termos da lei.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50-A, §3º, da Constituição do Estado do Paraná, os cargos atuais de Agente Penitenciário: O art. 50-A, §3º, da CE/PR determina que os atuais cargos de Agente Penitenciário serão transformados em Policial Penal, nos termos da lei."
+    },
+    {
+      "id": "pcpr-obj-044",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §4º, da Constituição Estadual, o Conselho da Polícia Penal é qualificado como órgão:",
+      "options": {
+        "a": "Consultivo, normativo e deliberativo, para fins de controle do ingresso, ascensão funcional, hierarquia e regime disciplinar da carreira.",
+        "b": "Exclusivamente jurisdicional, com competência para processar e julgar crimes comuns praticados por policiais penais.",
+        "c": "Meramente consultivo, sem qualquer poder normativo ou deliberativo.",
+        "d": "Diretivo, consultivo, normativo, deliberativo e sancionador, nos mesmos termos do Conselho Superior de Polícia.",
+        "e": "Vinculado exclusivamente ao Poder Judiciário, sem qualquer relação com o Poder Executivo estadual."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §4º, da CE/PR qualifica o Conselho da Polícia Penal como órgão consultivo, normativo e deliberativo, para fins de controle do ingresso, ascensão funcional, hierarquia e regime disciplinar da carreira da Polícia Penal.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50-A, §4º, da Constituição Estadual, o Conselho da Polícia Penal é qualificado como órgão: O art. 50-A, §4º, da CE/PR qualifica o Conselho da Polícia Penal como órgão consultivo, normativo e deliberativo, para fins de controle do ingresso, ascensão funcional, hierarquia e regime disciplinar da carreira da Polícia Penal."
+    },
+    {
+      "id": "pcpr-obj-045",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §6º, da Constituição do Estado do Paraná, a Polícia Penal será organizada em estrutura administrativa própria denominada:",
+      "options": {
+        "a": "Departamento de Polícia Penal do Estado do Paraná - DEPPEN.",
+        "b": "Secretaria de Estado da Administração Penitenciária - SEAP.",
+        "c": "Departamento Penitenciário Nacional - DEPEN, em regime de cooperação federativa.",
+        "d": "Instituto de Segurança Pública do Paraná - ISPP.",
+        "e": "Coordenadoria Estadual de Execução Penal - CEEP."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §6º, da CE/PR determina que a Polícia Penal será organizada em estrutura administrativa própria denominada Departamento de Polícia Penal do Estado do Paraná - DEPPEN.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 50-A, §6º, da Constituição do Estado do Paraná, a Polícia Penal será organizada em estrutura administrativa própria denominada: O art. 50-A, §6º, da CE/PR determina que a Polícia Penal será organizada em estrutura administrativa própria denominada Departamento de Polícia Penal do Estado do Paraná - DEPPEN."
+    },
+    {
+      "id": "pcpr-obj-046",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 50-A, §7º, da Constituição Estadual, enquanto não houver a regulamentação da lei disposta no caput do artigo, o cargo de Diretor do DEPPEN será ocupado, preferencialmente, por:",
+      "options": {
+        "a": "Servidor público, de livre nomeação do Governador do Estado.",
+        "b": "Delegado de polícia da classe mais elevada da carreira, indicado pelo Conselho da Polícia Civil.",
+        "c": "Oficial da ativa do último posto do quadro de oficiais da Polícia Militar.",
+        "d": "Perito oficial de carreira da Polícia Científica, aprovado pela Assembleia Legislativa.",
+        "e": "Magistrado aposentado, indicado pelo Tribunal de Justiça do Estado."
+      },
+      "correct": "a",
+      "explanation": "O art. 50-A, §7º, da CE/PR determina que, enquanto não houver a regulamentação da lei, o cargo de Diretor do DEPPEN será ocupado, preferencialmente, por servidor público, de livre nomeação do Governador do Estado.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 50-A, §7º, da Constituição Estadual, enquanto não houver a regulamentação da lei disposta no caput do artigo, o cargo de Diretor do DEPPEN será ocupado, preferencialmente, por: O art. 50-A, §7º, da CE/PR determina que, enquanto não houver a regulamentação da lei, o cargo de Diretor do DEPPEN será ocupado, preferencialmente, por servidor público, de livre nomeação do Governador do Estado."
+    },
+    {
+      "id": "pcpr-obj-047",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 51 da Constituição do Estado do Paraná, a prevenção de eventos desastrosos, o socorro e a assistência aos atingidos por tais eventos e a recuperação dos danos causados serão coordenados:",
+      "options": {
+        "a": "Pela Defesa Civil.",
+        "b": "Exclusivamente pelo Corpo de Bombeiros Militar, sem qualquer coordenação civil.",
+        "c": "Pela Polícia Militar, em articulação direta com o Ministério da Defesa.",
+        "d": "Pelo Departamento de Polícia Penal do Estado do Paraná - DEPPEN.",
+        "e": "Pela Polícia Científica, em conjunto com o Instituto Médico-Legal."
+      },
+      "correct": "a",
+      "explanation": "O art. 51 da CE/PR estabelece que a prevenção de eventos desastrosos, o socorro e a assistência aos atingidos e a recuperação dos danos serão coordenados pela Defesa Civil.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "14"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 51 da Constituição do Estado do Paraná, a prevenção de eventos desastrosos, o socorro e a assistência aos atingidos por tais eventos e a recuperação dos danos causados serão coordenados: O art. 51 da CE/PR estabelece que a prevenção de eventos desastrosos, o socorro e a assistência aos atingidos e a recuperação dos danos serão coordenados pela Defesa Civil."
+    },
+    {
+      "id": "pcpr-obj-048",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 51, inciso I, da Constituição Estadual, a organização sistêmica da Defesa Civil no Paraná é composta pelos órgãos públicos estaduais, podendo integrar suas ações:",
+      "options": {
+        "a": "Os órgãos municipais e federais, entidades classistas e assistenciais, clubes de serviço, a imprensa, autoridades eclesiásticas e a comunidade em geral.",
+        "b": "Exclusivamente órgãos federais de segurança pública, com exclusão de qualquer entidade municipal.",
+        "c": "Somente forças de segurança armadas, com exclusão de entidades civis ou religiosas.",
+        "d": "Apenas empresas privadas de seguros, mediante convênio remunerado com o Estado.",
+        "e": "Exclusivamente órgãos internacionais de assistência humanitária, mediante tratado específico."
+      },
+      "correct": "a",
+      "explanation": "O art. 51, I, da CE/PR estabelece que a organização sistêmica da Defesa Civil pode integrar em suas ações os órgãos municipais e federais, entidades classistas e assistenciais, clubes de serviço, a imprensa, autoridades eclesiásticas e a comunidade em geral.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "14"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 51, inciso I, da Constituição Estadual, a organização sistêmica da Defesa Civil no Paraná é composta pelos órgãos públicos estaduais, podendo integrar suas ações: O art. 51, I, da CE/PR estabelece que a organização sistêmica da Defesa Civil pode integrar em suas ações os órgãos municipais e federais, entidades classistas e assistenciais, clubes de serviço, a imprensa, autoridades eclesiásticas e a comunidade em geral."
+    },
+    {
+      "id": "pcpr-obj-049",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Segundo o art. 51, inciso II, da Constituição do Estado do Paraná, a coordenadoria estadual da Defesa Civil está vinculada:",
+      "options": {
+        "a": "Ao gabinete do Governador do Estado.",
+        "b": "À Secretaria de Estado da Segurança Pública, com subordinação direta ao Secretário.",
+        "c": "Ao Comando-Geral da Polícia Militar, como unidade operacional subordinada.",
+        "d": "À Assembleia Legislativa, como órgão auxiliar do Poder Legislativo.",
+        "e": "Ao Tribunal de Justiça do Estado, para fins de coordenação de perícias em desastres."
+      },
+      "correct": "a",
+      "explanation": "O art. 51, II, da CE/PR estabelece que a coordenadoria estadual da Defesa Civil está vinculada ao gabinete do Governador do Estado.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "14"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 51, inciso II, da Constituição do Estado do Paraná, a coordenadoria estadual da Defesa Civil está vinculada: O art. 51, II, da CE/PR estabelece que a coordenadoria estadual da Defesa Civil está vinculada ao gabinete do Governador do Estado."
+    },
+    {
+      "id": "pcpr-obj-050",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Um candidato ao cargo de Delegado de Polícia Civil do Paraná estuda a estrutura constitucional da Segurança Pública estadual e conclui, corretamente, que a Polícia Civil e a Polícia Militar diferem quanto ao fundamento de sua organização, pois, segundo os arts. 47, §1º, e 48 da Constituição Estadual:",
+      "options": {
+        "a": "A função policial civil fundamenta-se na hierarquia e disciplina, ao passo que a Polícia Militar é organizada com base na hierarquia e disciplina militares.",
+        "b": "Ambas as corporações são organizadas exclusivamente com base na hierarquia e disciplina militares, sem qualquer distinção.",
+        "c": "A Polícia Civil não possui qualquer fundamento hierárquico, sendo organizada em bases exclusivamente civis e igualitárias.",
+        "d": "A Polícia Militar é organizada com base na hierarquia civil, ao passo que a Polícia Civil segue hierarquia militar.",
+        "e": "Nenhuma das duas corporações possui fundamento constitucional expresso quanto à hierarquia e disciplina."
+      },
+      "correct": "a",
+      "explanation": "O art. 47, §1º, da CE/PR estabelece que a função policial civil se fundamenta na hierarquia e disciplina (civis), ao passo que o art. 48 estabelece que a Polícia Militar é organizada com base na hierarquia e disciplina militares — uma distinção terminológica relevante entre as duas corporações.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Um candidato ao cargo de Delegado de Polícia Civil do Paraná estuda a estrutura constitucional da Segurança Pública estadual e conclui, corretamente, que a Polícia Civil e a Polícia Militar diferem quanto ao fundamento de sua organização, pois, segundo os arts. 47, §1º, e 48 da Constituição Estadual: O art. 47, §1º, da CE/PR estabelece que a função policial civil se fundamenta na hierarquia e disciplina (civis), ao passo que o art. 48 estabelece que a Polícia Militar é organizada com base na hierarquia e disciplina militares — uma distinção terminológica relevante entre as duas corporações."
+    },
+    {
+      "id": "pcpr-obj-051",
+      "topic": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "question": "Comparando os órgãos de Segurança Pública do Estado do Paraná quanto à forma de provimento de seus cargos, é correto afirmar, com base nos arts. 47, §3º, 50, §3º, e 50-A, §2º, da Constituição Estadual, que os cargos da Polícia Civil, da Polícia Científica e da Polícia Penal têm em comum a exigência de:",
+      "options": {
+        "a": "Concurso público, ainda que os dispositivos constitucionais utilizem redações ligeiramente distintas entre si.",
+        "b": "Indicação política do Governador do Estado, referendada pela Assembleia Legislativa.",
+        "c": "Promoção interna exclusiva entre servidores de outras carreiras policiais já existentes.",
+        "d": "Livre nomeação pelo Secretário de Estado da Segurança Pública, sem qualquer certame público.",
+        "e": "Aprovação prévia do Conselho Superior de Polícia, dispensado o concurso público."
+      },
+      "correct": "a",
+      "explanation": "Os arts. 47, §3º (Polícia Civil), 50, §3º (Polícia Científica) e 50-A, §2º (Polícia Penal) da CE/PR exigem, todos, o concurso público como forma de provimento dos respectivos cargos, ainda que com redações específicas para cada carreira.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Constituicao_Estado_PR.pdf",
+        "page": "12-13"
+      },
+      "subject": "Constituição do Estado do Paraná — Segurança Pública e Polícia Civil",
+      "difficulty": "dificil",
+      "miniLesson": "Comparando os órgãos de Segurança Pública do Estado do Paraná quanto à forma de provimento de seus cargos, é correto afirmar, com base nos arts. 47, §3º, 50, §3º, e 50-A, §2º, da Constituição Estadual, que os cargos da Polícia Civil, da Polícia Científica e da Polícia Penal têm em comum a exigência de: Os arts. 47, §3º (Polícia Civil), 50, §3º (Polícia Científica) e 50-A, §2º (Polícia Penal) da CE/PR exigem, todos, o concurso público como forma de provimento dos respectivos cargos, ainda que com redações específicas para cada carreira."
+    },
+    {
+      "id": "pcpr-obj-052",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o parágrafo único do art. 1º da Lei nº 23.213/2026, para os fins dessa Lei, as expressões \"Polícia Civil do Estado do Paraná\" e \"Polícia Judiciária do Estado do Paraná\":",
+      "options": {
+        "a": "Equivalem-se, ambas designadas pela sigla PCPR.",
+        "b": "São instituições distintas, com estruturas e comandos autônomos entre si.",
+        "c": "Referem-se, respectivamente, à Polícia Civil e à Polícia Federal em atuação conjunta no Estado.",
+        "d": "São equivalentes apenas para fins orçamentários, mantendo estruturas hierárquicas distintas.",
+        "e": "Designam, respectivamente, os órgãos de execução e de corregedoria da instituição."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 1º da Lei nº 23.213/2026 estabelece que se equivalem, para os fins dessa Lei, as expressões Polícia Civil do Estado do Paraná e Polícia Judiciária do Estado do Paraná, cuja sigla é PCPR.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o parágrafo único do art. 1º da Lei nº 23.213/2026, para os fins dessa Lei, as expressões \"Polícia Civil do Estado do Paraná\" e \"Polícia Judiciária do Estado do Paraná\": O parágrafo único do art. 1º da Lei nº 23.213/2026 estabelece que se equivalem, para os fins dessa Lei, as expressões Polícia Civil do Estado do Paraná e Polícia Judiciária do Estado do Paraná, cuja sigla é PCPR."
+    },
+    {
+      "id": "pcpr-obj-053",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 2º da Lei nº 23.213/2026, a Polícia Civil do Estado do Paraná é dirigida por Delegado de Polícia:",
+      "options": {
+        "a": "Em atividade e da classe mais elevada, nomeado pelo Governador do Estado.",
+        "b": "Eleito pelos pares em votação direta e secreta entre todos os Delegados da carreira.",
+        "c": "Indicado pelo Secretário de Estado da Segurança Pública, independentemente da classe funcional.",
+        "d": "Da classe inicial da carreira, escolhido por critério de antiguidade.",
+        "e": "Designado pelo Conselho Superior de Polícia, mediante aprovação da Assembleia Legislativa."
+      },
+      "correct": "a",
+      "explanation": "O art. 2º da Lei nº 23.213/2026 estabelece que a PCPR é dirigida por Delegado de Polícia, em atividade e da classe mais elevada, nomeado pelo Governador do Estado.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 2º da Lei nº 23.213/2026, a Polícia Civil do Estado do Paraná é dirigida por Delegado de Polícia: O art. 2º da Lei nº 23.213/2026 estabelece que a PCPR é dirigida por Delegado de Polícia, em atividade e da classe mais elevada, nomeado pelo Governador do Estado."
+    },
+    {
+      "id": "pcpr-obj-054",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Um Delegado de Polícia do Paraná argumenta, em uma palestra, que a função policial civil não se fundamenta apenas em normas de conduta, mas em um princípio organizacional específico. Segundo o parágrafo único do art. 2º da Lei nº 23.213/2026, esse princípio é:",
+      "options": {
+        "a": "A hierarquia e a disciplina.",
+        "b": "Exclusivamente a hierarquia militar, tal como na Polícia Militar.",
+        "c": "A subordinação técnica ao Poder Judiciário estadual.",
+        "d": "A autonomia funcional plena, sem qualquer vínculo hierárquico.",
+        "e": "A colegialidade decisória obrigatória em toda investigação."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 2º da Lei nº 23.213/2026 estabelece que a função policial civil se fundamenta na hierarquia e na disciplina.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "Um Delegado de Polícia do Paraná argumenta, em uma palestra, que a função policial civil não se fundamenta apenas em normas de conduta, mas em um princípio organizacional específico. Segundo o parágrafo único do art. 2º da Lei nº 23.213/2026, esse princípio é: O parágrafo único do art. 2º da Lei nº 23.213/2026 estabelece que a função policial civil se fundamenta na hierarquia e na disciplina."
+    },
+    {
+      "id": "pcpr-obj-055",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 4º da Lei nº 23.213/2026, são princípios institucionais da Polícia Civil do Estado do Paraná, além daqueles previstos na Lei Federal nº 14.735/2023:",
+      "options": {
+        "a": "A eficiência, a cultura de resultados, a excelência no atendimento ao público e o incentivo à pesquisa e inovação.",
+        "b": "Exclusivamente o sigilo absoluto de todos os procedimentos investigativos, sem qualquer publicidade.",
+        "c": "A subordinação direta e irrestrita ao Ministério Público, sem autonomia investigativa.",
+        "d": "A gratuidade de todos os serviços periciais prestados a órgãos privados.",
+        "e": "A obrigatoriedade de terceirização das atividades de identificação civil e criminal."
+      },
+      "correct": "a",
+      "explanation": "O art. 4º da Lei nº 23.213/2026 estabelece como princípios institucionais da PCPR a eficiência, a cultura de resultados, a excelência no atendimento ao público e o incentivo à pesquisa e inovação, além dos previstos na Lei Federal nº 14.735/2023.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 4º da Lei nº 23.213/2026, são princípios institucionais da Polícia Civil do Estado do Paraná, além daqueles previstos na Lei Federal nº 14.735/2023: O art. 4º da Lei nº 23.213/2026 estabelece como princípios institucionais da PCPR a eficiência, a cultura de resultados, a excelência no atendimento ao público e o incentivo à pesquisa e inovação, além dos previstos na Lei Federal nº 14.735/2023."
+    },
+    {
+      "id": "pcpr-obj-056",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 5º, inciso I, da Lei nº 23.213/2026, a estrutura organizacional da PCPR deve ser voltada à repressão qualificada de determinados crimes. Entre os exemplos expressamente citados nesse inciso estão:",
+      "options": {
+        "a": "Crimes hediondos e equiparados, corrupção, tráfico de drogas, lavagem de dinheiro e crime organizado.",
+        "b": "Exclusivamente contravenções penais de menor potencial ofensivo.",
+        "c": "Exclusivamente infrações de trânsito e crimes ambientais de pequena monta.",
+        "d": "Exclusivamente crimes militares, ressalvada expressamente a competência da Justiça Militar estadual.",
+        "e": "Exclusivamente crimes de responsabilidade de agentes políticos."
+      },
+      "correct": "a",
+      "explanation": "O art. 5º, I, da Lei nº 23.213/2026 relaciona, entre outros, os crimes hediondos e equiparados, de combate à corrupção, tráfico de drogas, lavagem de dinheiro e crime organizado como alvo da estrutura organizacional voltada à repressão qualificada.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 5º, inciso I, da Lei nº 23.213/2026, a estrutura organizacional da PCPR deve ser voltada à repressão qualificada de determinados crimes. Entre os exemplos expressamente citados nesse inciso estão: O art. 5º, I, da Lei nº 23.213/2026 relaciona, entre outros, os crimes hediondos e equiparados, de combate à corrupção, tráfico de drogas, lavagem de dinheiro e crime organizado como alvo da estrutura organizacional voltada à repressão qualificada."
+    },
+    {
+      "id": "pcpr-obj-057",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 5º, inciso II, da Lei nº 23.213/2026, é diretriz da PCPR a atuação:",
+      "options": {
+        "a": "De forma cooperativa, sistêmica e harmônica junto aos demais órgãos do Sistema Único de Segurança Pública - SUSP.",
+        "b": "Isolada e independente de qualquer outro órgão de segurança pública, para preservar sua autonomia.",
+        "c": "Subordinada operacionalmente à Polícia Militar em todas as ações de investigação criminal.",
+        "d": "Exclusivamente municipal, sem qualquer articulação com órgãos federais.",
+        "e": "Restrita ao âmbito da própria Secretaria de Estado da Segurança Pública, vedada cooperação externa."
+      },
+      "correct": "a",
+      "explanation": "O art. 5º, II, da Lei nº 23.213/2026 estabelece como diretriz a atuação de forma cooperativa, sistêmica e harmônica junto aos demais órgãos do Sistema Único de Segurança Pública - SUSP, respeitados os limites de suas competências.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 5º, inciso II, da Lei nº 23.213/2026, é diretriz da PCPR a atuação: O art. 5º, II, da Lei nº 23.213/2026 estabelece como diretriz a atuação de forma cooperativa, sistêmica e harmônica junto aos demais órgãos do Sistema Único de Segurança Pública - SUSP, respeitados os limites de suas competências."
+    },
+    {
+      "id": "pcpr-obj-058",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 5º, inciso IV, da Lei nº 23.213/2026, a publicidade dos atos de polícia judiciária e investigativa é uma diretriz institucional, ressalvados os casos em que:",
+      "options": {
+        "a": "O sigilo da informação seja imprescindível à segurança da sociedade e ao bom andamento dos trabalhos policiais.",
+        "b": "O investigado seja autoridade pública, hipótese em que a publicidade é sempre vedada.",
+        "c": "A investigação envolva mais de um Estado da federação, hipótese em que a publicidade é automática.",
+        "d": "O crime investigado seja de menor potencial ofensivo, hipótese em que a publicidade é obrigatória.",
+        "e": "A vítima solicite expressamente a publicidade do procedimento, ainda que contra o interesse da investigação."
+      },
+      "correct": "a",
+      "explanation": "O art. 5º, IV, da Lei nº 23.213/2026 estabelece a publicidade dos atos de polícia judiciária e investigativa, ressalvados os casos em que o sigilo da informação seja imprescindível à segurança da sociedade e ao bom andamento dos trabalhos policiais.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 5º, inciso IV, da Lei nº 23.213/2026, a publicidade dos atos de polícia judiciária e investigativa é uma diretriz institucional, ressalvados os casos em que: O art. 5º, IV, da Lei nº 23.213/2026 estabelece a publicidade dos atos de polícia judiciária e investigativa, ressalvados os casos em que o sigilo da informação seja imprescindível à segurança da sociedade e ao bom andamento dos trabalhos policiais."
+    },
+    {
+      "id": "pcpr-obj-059",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o caput do art. 6º da Lei nº 23.213/2026, compete à PCPR executar privativamente as funções de polícia judiciária civil e de apuração de infrações penais, ressalvadas:",
+      "options": {
+        "a": "A competência da União e a apuração das infrações penais militares.",
+        "b": "Exclusivamente a competência da Polícia Científica, quanto às perícias criminalísticas.",
+        "c": "Exclusivamente a competência do Ministério Público, quanto ao oferecimento de denúncia.",
+        "d": "Exclusivamente a competência dos Municípios, quanto às Guardas Civis Municipais.",
+        "e": "Nenhuma ressalva, sendo a competência da PCPR absoluta em todo o território estadual."
+      },
+      "correct": "a",
+      "explanation": "O art. 6º, caput, da Lei nº 23.213/2026 estabelece que compete à PCPR executar privativamente as funções de polícia judiciária civil e de apuração de infrações penais, ressalvadas a competência da União e a apuração das infrações penais militares.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o caput do art. 6º da Lei nº 23.213/2026, compete à PCPR executar privativamente as funções de polícia judiciária civil e de apuração de infrações penais, ressalvadas: O art. 6º, caput, da Lei nº 23.213/2026 estabelece que compete à PCPR executar privativamente as funções de polícia judiciária civil e de apuração de infrações penais, ressalvadas a competência da União e a apuração das infrações penais militares."
+    },
+    {
+      "id": "pcpr-obj-060",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Um custodiado é recolhido a uma unidade da Polícia Civil do Paraná durante a lavratura do auto de prisão em flagrante. Segundo o art. 6º, inciso V, da Lei nº 23.213/2026, esse custodiado deve ser mantido na unidade policial:",
+      "options": {
+        "a": "Apenas pelo tempo indispensável à lavratura do procedimento de flagrante, devendo ser obrigatoriamente encaminhado ao sistema prisional logo em seguida.",
+        "b": "Por prazo indeterminado, até que seja proferida sentença condenatória transitada em julgado.",
+        "c": "Por, no mínimo, trinta dias, para fins de investigação complementar dentro da própria unidade policial.",
+        "d": "Até a realização da audiência de custódia, ainda que esta demore meses para ser agendada.",
+        "e": "Pelo tempo que o Delegado de Polícia entender necessário, sem qualquer limite legal expresso."
+      },
+      "correct": "a",
+      "explanation": "O art. 6º, V, da Lei nº 23.213/2026 estabelece que os custodiados devem ser cadastrados durante o tempo indispensável à lavratura do procedimento de flagrante, devendo, obrigatoriamente, ser encaminhados ao sistema prisional logo após a prática do ato.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Um custodiado é recolhido a uma unidade da Polícia Civil do Paraná durante a lavratura do auto de prisão em flagrante. Segundo o art. 6º, inciso V, da Lei nº 23.213/2026, esse custodiado deve ser mantido na unidade policial: O art. 6º, V, da Lei nº 23.213/2026 estabelece que os custodiados devem ser cadastrados durante o tempo indispensável à lavratura do procedimento de flagrante, devendo, obrigatoriamente, ser encaminhados ao sistema prisional logo após a prática do ato."
+    },
+    {
+      "id": "pcpr-obj-061",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 6º, inciso XVIII, da Lei nº 23.213/2026, entre as competências da PCPR está:",
+      "options": {
+        "a": "Exercer o poder hierárquico e o poder disciplinar de seus integrantes.",
+        "b": "Exercer o poder disciplinar exclusivamente sobre servidores de outras secretarias estaduais.",
+        "c": "Delegar seu poder disciplinar a entidades privadas de auditoria e compliance.",
+        "d": "Renunciar ao poder hierárquico interno em favor do Conselho Superior de Polícia.",
+        "e": "Exercer o poder hierárquico apenas sobre os cargos de nível superior da carreira."
+      },
+      "correct": "a",
+      "explanation": "O art. 6º, XVIII, da Lei nº 23.213/2026 estabelece como competência da PCPR exercer o poder hierárquico e o poder disciplinar de seus integrantes.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "1"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 6º, inciso XVIII, da Lei nº 23.213/2026, entre as competências da PCPR está: O art. 6º, XVIII, da Lei nº 23.213/2026 estabelece como competência da PCPR exercer o poder hierárquico e o poder disciplinar de seus integrantes."
+    },
+    {
+      "id": "pcpr-obj-062",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 7º, caput, da Lei nº 23.213/2026, a investigação policial tem caráter:",
+      "options": {
+        "a": "Técnico, científico e jurídico.",
+        "b": "Exclusivamente jurídico, sem qualquer componente técnico ou científico.",
+        "c": "Meramente administrativo, sem qualquer repercussão jurídica direta.",
+        "d": "Discricionário, dispensando qualquer método técnico-científico de coleta de provas.",
+        "e": "Sigiloso e irrecorrível, não se submetendo a controle judicial posterior."
+      },
+      "correct": "a",
+      "explanation": "O art. 7º, caput, da Lei nº 23.213/2026 estabelece que a investigação policial tem caráter técnico, científico e jurídico, iniciando-se com a notícia da infração penal e encerrando-se com o relatório final apresentado ao Poder Judiciário.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "2"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 7º, caput, da Lei nº 23.213/2026, a investigação policial tem caráter: O art. 7º, caput, da Lei nº 23.213/2026 estabelece que a investigação policial tem caráter técnico, científico e jurídico, iniciando-se com a notícia da infração penal e encerrando-se com o relatório final apresentado ao Poder Judiciário."
+    },
+    {
+      "id": "pcpr-obj-063",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Um Delegado de Polícia se depara com a impossibilidade circunstancial de investigar, ao mesmo tempo, diversas infrações penais que lhe foram distribuídas. Segundo o parágrafo único do art. 7º da Lei nº 23.213/2026, ele deverá, conforme diretrizes institucionais:",
+      "options": {
+        "a": "Dar prioridade às infrações de maior potencial ofensivo.",
+        "b": "Arquivar automaticamente as infrações de menor gravidade, sem qualquer investigação.",
+        "c": "Distribuir aleatoriamente as investigações entre os demais Delegados da unidade, sem qualquer critério.",
+        "d": "Aguardar autorização expressa do Conselho Superior de Polícia para cada caso individualmente.",
+        "e": "Priorizar sempre a infração mais antiga, independentemente de sua gravidade."
+      },
+      "correct": "a",
+      "explanation": "O parágrafo único do art. 7º da Lei nº 23.213/2026 determina que, havendo impossibilidade circunstancial de investigação concomitante, o Delegado deverá dar prioridade às infrações de maior potencial ofensivo.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "2"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Um Delegado de Polícia se depara com a impossibilidade circunstancial de investigar, ao mesmo tempo, diversas infrações penais que lhe foram distribuídas. Segundo o parágrafo único do art. 7º da Lei nº 23.213/2026, ele deverá, conforme diretrizes institucionais: O parágrafo único do art. 7º da Lei nº 23.213/2026 determina que, havendo impossibilidade circunstancial de investigação concomitante, o Delegado deverá dar prioridade às infrações de maior potencial ofensivo."
+    },
+    {
+      "id": "pcpr-obj-064",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 9º, §1º, da Lei nº 23.213/2026, quando Delegados de Polícia de classes distintas estão em exercício na mesma unidade ou em trabalho de equipe, a precedência hierárquica é definida por:",
+      "options": {
+        "a": "A classe mais elevada, que tem precedência sobre a classe inferior.",
+        "b": "A antiguidade no serviço público estadual, independentemente da classe da carreira.",
+        "c": "A ordem alfabética dos nomes dos Delegados envolvidos.",
+        "d": "Sorteio realizado pela Corregedoria-Geral de Polícia.",
+        "e": "Indicação discricionária do Secretário de Estado da Segurança Pública."
+      },
+      "correct": "a",
+      "explanation": "O art. 9º, §1º, da Lei nº 23.213/2026 estabelece que os Delegados de Polícia de classe mais elevada têm precedência hierárquica sobre os de classe inferior quando em exercício na mesma unidade ou em trabalhos de equipe.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "2"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 9º, §1º, da Lei nº 23.213/2026, quando Delegados de Polícia de classes distintas estão em exercício na mesma unidade ou em trabalho de equipe, a precedência hierárquica é definida por: O art. 9º, §1º, da Lei nº 23.213/2026 estabelece que os Delegados de Polícia de classe mais elevada têm precedência hierárquica sobre os de classe inferior quando em exercício na mesma unidade ou em trabalhos de equipe."
+    },
+    {
+      "id": "pcpr-obj-065",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 9º, §3º, da Lei nº 23.213/2026, os cargos de Agente de Polícia Judiciária, Papiloscopista Policial e Agente de Operações guardam correlação hierárquica relacionada:",
+      "options": {
+        "a": "À função que desempenham em determinada unidade, estabelecida por regulamento ou designação da autoridade policial.",
+        "b": "Exclusivamente ao tempo de serviço na corporação, sem qualquer relação com a função exercida.",
+        "c": "Ao resultado obtido em concurso público de ingresso na carreira, independentemente da unidade de lotação.",
+        "d": "À titulação acadêmica de cada servidor, com precedência automática para pós-graduados.",
+        "e": "À indicação política do Secretário de Estado da Segurança Pública, atualizada anualmente."
+      },
+      "correct": "a",
+      "explanation": "O art. 9º, §3º, da Lei nº 23.213/2026 estabelece que esses cargos guardam correlação hierárquica relacionada à função que desempenham em determinada unidade, estabelecida por regulamento ou mediante designação pela autoridade policial.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "2"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 9º, §3º, da Lei nº 23.213/2026, os cargos de Agente de Polícia Judiciária, Papiloscopista Policial e Agente de Operações guardam correlação hierárquica relacionada: O art. 9º, §3º, da Lei nº 23.213/2026 estabelece que esses cargos guardam correlação hierárquica relacionada à função que desempenham em determinada unidade, estabelecida por regulamento ou mediante designação pela autoridade policial."
+    },
+    {
+      "id": "pcpr-obj-066",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 11 da Lei nº 23.213/2026, o Delegado-Geral da Polícia Civil do Estado do Paraná é nomeado pelo Governador do Estado e escolhido dentre:",
+      "options": {
+        "a": "Os Delegados de Polícia em atividade e da classe mais elevada.",
+        "b": "Qualquer servidor público estadual, independentemente de vínculo com a carreira policial.",
+        "c": "Os membros do Conselho Superior de Polícia eleitos por seus pares.",
+        "d": "Os Delegados de Polícia aposentados com mais de vinte anos de serviço.",
+        "e": "Os integrantes do Ministério Público com atuação na área criminal."
+      },
+      "correct": "a",
+      "explanation": "O art. 11 da Lei nº 23.213/2026 estabelece que o Delegado-Geral é nomeado pelo Governador do Estado e escolhido dentre os Delegados de Polícia em atividade e da classe mais elevada.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "baixo",
+      "miniLesson": "Segundo o art. 11 da Lei nº 23.213/2026, o Delegado-Geral da Polícia Civil do Estado do Paraná é nomeado pelo Governador do Estado e escolhido dentre: O art. 11 da Lei nº 23.213/2026 estabelece que o Delegado-Geral é nomeado pelo Governador do Estado e escolhido dentre os Delegados de Polícia em atividade e da classe mais elevada."
+    },
+    {
+      "id": "pcpr-obj-067",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 12, inciso II, da Lei nº 23.213/2026, entre as atribuições do Delegado-Geral está exercer a função de:",
+      "options": {
+        "a": "Presidente do Conselho Superior de Polícia - CSP.",
+        "b": "Corregedor-Geral de Polícia, cumulativamente com sua função de Delegado-Geral.",
+        "c": "Diretor da Escola Superior de Polícia Civil, em caráter permanente.",
+        "d": "Relator de todos os processos disciplinares em curso na Corregedoria.",
+        "e": "Presidente da Comissão Permanente de Concurso, com exclusividade."
+      },
+      "correct": "a",
+      "explanation": "O art. 12, II, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral exercer a função de presidente do Conselho Superior de Polícia - CSP.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 12, inciso II, da Lei nº 23.213/2026, entre as atribuições do Delegado-Geral está exercer a função de: O art. 12, II, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral exercer a função de presidente do Conselho Superior de Polícia - CSP."
+    },
+    {
+      "id": "pcpr-obj-068",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 13 da Lei nº 23.213/2026, a PCPR contará, em sua direção superior, com um Delegado-Geral Adjunto Administrativo e um Delegado-Geral Adjunto Operacional, designados:",
+      "options": {
+        "a": "Pelo Delegado-Geral, dentre os Delegados de Polícia em atividade, ocupantes da classe mais elevada da carreira.",
+        "b": "Pelo Governador do Estado, independentemente de indicação do Delegado-Geral.",
+        "c": "Pela Assembleia Legislativa, mediante sabatina pública dos candidatos.",
+        "d": "Pelo Secretário de Estado da Segurança Pública, sem qualquer participação do Delegado-Geral.",
+        "e": "Por eleição direta entre todos os servidores da carreira policial civil."
+      },
+      "correct": "a",
+      "explanation": "O art. 13 da Lei nº 23.213/2026 estabelece que os Delegados-Gerais Adjuntos são designados pelo Delegado-Geral, dentre os Delegados de Polícia em atividade, ocupantes da classe mais elevada da carreira.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 13 da Lei nº 23.213/2026, a PCPR contará, em sua direção superior, com um Delegado-Geral Adjunto Administrativo e um Delegado-Geral Adjunto Operacional, designados: O art. 13 da Lei nº 23.213/2026 estabelece que os Delegados-Gerais Adjuntos são designados pelo Delegado-Geral, dentre os Delegados de Polícia em atividade, ocupantes da classe mais elevada da carreira."
+    },
+    {
+      "id": "pcpr-obj-069",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 14, inciso III, da Lei nº 23.213/2026, compete ao Delegado-Geral Adjunto Administrativo:",
+      "options": {
+        "a": "Elaborar proposta orçamentária anual e plurianual da PCPR, submetendo-as à apreciação do Delegado-Geral.",
+        "b": "Conduzir o processo de gestão de risco das operações de repressão qualificada.",
+        "c": "Presidir, com exclusividade, o Conselho Superior de Polícia em todas as suas sessões.",
+        "d": "Promover a apuração das transgressões disciplinares atribuídas a servidores policiais civis.",
+        "e": "Designar autoridades policiais para condução de investigações de grande repercussão."
+      },
+      "correct": "a",
+      "explanation": "O art. 14, III, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral Adjunto Administrativo elaborar a proposta orçamentária anual e plurianual da PCPR, submetendo-as à apreciação do Delegado-Geral.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 14, inciso III, da Lei nº 23.213/2026, compete ao Delegado-Geral Adjunto Administrativo: O art. 14, III, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral Adjunto Administrativo elaborar a proposta orçamentária anual e plurianual da PCPR, submetendo-as à apreciação do Delegado-Geral."
+    },
+    {
+      "id": "pcpr-obj-070",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 15, inciso V, da Lei nº 23.213/2026, compete ao Delegado-Geral Adjunto Operacional:",
+      "options": {
+        "a": "Conduzir o processo de gestão de risco das operações de repressão qualificada conduzidas pela PCPR.",
+        "b": "Elaborar a proposta orçamentária anual e plurianual da instituição.",
+        "c": "Exercer a função de Corregedor-Geral de Polícia, cumulativamente com suas demais atribuições.",
+        "d": "Presidir a Comissão Permanente de Concurso para ingresso nas carreiras policiais.",
+        "e": "Aprovar o regimento interno da Escola Superior de Polícia Civil."
+      },
+      "correct": "a",
+      "explanation": "O art. 15, V, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral Adjunto Operacional conduzir o processo de gestão de risco das operações de repressão qualificada conduzidas pela PCPR.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "3"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 15, inciso V, da Lei nº 23.213/2026, compete ao Delegado-Geral Adjunto Operacional: O art. 15, V, da Lei nº 23.213/2026 estabelece que compete ao Delegado-Geral Adjunto Operacional conduzir o processo de gestão de risco das operações de repressão qualificada conduzidas pela PCPR."
+    },
+    {
+      "id": "pcpr-obj-071",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 16, inciso XI, da Lei nº 23.213/2026, a deliberação do Conselho Superior de Polícia sobre a remoção de Delegados de Polícia deve se dar por ato fundamentado e no interesse do serviço policial, cuja aprovação dependerá de quórum de:",
+      "options": {
+        "a": "3/5 (três quintos) dos membros do Conselho.",
+        "b": "Maioria simples dos membros presentes à sessão.",
+        "c": "Unanimidade de todos os membros do Conselho, sem qualquer exceção.",
+        "d": "Metade mais um dos membros natos, excluídos os eleitos.",
+        "e": "2/3 (dois terços) exclusivamente dos membros eleitos pelos pares."
+      },
+      "correct": "a",
+      "explanation": "O art. 16, XI, da Lei nº 23.213/2026 estabelece que a deliberação sobre a remoção de Delegados de Polícia, por ato fundamentado e no interesse do serviço, dependerá do quórum de 3/5 (três quintos).",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 16, inciso XI, da Lei nº 23.213/2026, a deliberação do Conselho Superior de Polícia sobre a remoção de Delegados de Polícia deve se dar por ato fundamentado e no interesse do serviço policial, cuja aprovação dependerá de quórum de: O art. 16, XI, da Lei nº 23.213/2026 estabelece que a deliberação sobre a remoção de Delegados de Polícia, por ato fundamentado e no interesse do serviço, dependerá do quórum de 3/5 (três quintos)."
+    },
+    {
+      "id": "pcpr-obj-072",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 17 da Lei nº 23.213/2026, são membros natos do Conselho Superior de Polícia, entre outros:",
+      "options": {
+        "a": "O Delegado-Geral, os Delegados-Gerais Adjuntos, o Corregedor-Geral e o Diretor do DPAF.",
+        "b": "Exclusivamente membros eleitos por voto direto e secreto de todos os servidores da carreira.",
+        "c": "Exclusivamente representantes indicados pelo Governador do Estado, sem qualquer membro nato.",
+        "d": "Exclusivamente o Secretário de Estado da Segurança Pública e seus assessores diretos.",
+        "e": "Exclusivamente Delegados aposentados, indicados pela Associação dos Delegados de Polícia."
+      },
+      "correct": "a",
+      "explanation": "O art. 17, §1º, da Lei nº 23.213/2026 estabelece que são membros natos do CSP o Delegado-Geral, o Delegado-Geral Adjunto Administrativo, o Delegado-Geral Adjunto Operacional, o Corregedor-Geral, o Diretor do DPAF e o Diretor do Departamento de Polícia do Interior.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 17 da Lei nº 23.213/2026, são membros natos do Conselho Superior de Polícia, entre outros: O art. 17, §1º, da Lei nº 23.213/2026 estabelece que são membros natos do CSP o Delegado-Geral, o Delegado-Geral Adjunto Administrativo, o Delegado-Geral Adjunto Operacional, o Corregedor-Geral, o Diretor do DPAF e o Diretor do Departamento de Polícia do Interior."
+    },
+    {
+      "id": "pcpr-obj-073",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 18 da Lei nº 23.213/2026, os Conselheiros do Conselho Superior de Polícia (excetuados os membros natos) poderão ser destituídos por deliberação fundamentada da maioria absoluta de seus integrantes, em caso de:",
+      "options": {
+        "a": "Abuso de poder, grave omissão nos deveres do cargo ou prática de ato incompatível com suas atribuições, assegurada ampla defesa.",
+        "b": "Simples divergência de opinião em relação a decisões majoritárias do próprio Conselho.",
+        "c": "Ausência a uma única sessão do Conselho, ainda que devidamente justificada.",
+        "d": "Discordância pública de atos do Governador do Estado, mesmo fora do exercício da função.",
+        "e": "Filiação a associação de classe representativa da categoria policial civil."
+      },
+      "correct": "a",
+      "explanation": "O art. 18 da Lei nº 23.213/2026 permite a destituição de Conselheiros não natos por deliberação fundamentada da maioria absoluta, em caso de abuso de poder, grave omissão nos deveres do cargo, prática de ato incompatível com suas atribuições ou que importe em escândalo ou grave comprometimento à imagem institucional, assegurada ampla defesa.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 18 da Lei nº 23.213/2026, os Conselheiros do Conselho Superior de Polícia (excetuados os membros natos) poderão ser destituídos por deliberação fundamentada da maioria absoluta de seus integrantes, em caso de: O art. 18 da Lei nº 23.213/2026 permite a destituição de Conselheiros não natos por deliberação fundamentada da maioria absoluta, em caso de abuso de poder, grave omissão nos deveres do cargo, prática de ato incompatível com suas atribuições ou que importe em escândalo ou grave comprometimento à imagem institucional, assegurada ampla defesa."
+    },
+    {
+      "id": "pcpr-obj-074",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 20 da Lei nº 23.213/2026, somente poderão ser candidatos a Conselheiro da Polícia Civil do Estado do Paraná os policiais que:",
+      "options": {
+        "a": "Não respondam procedimentos disciplinares por fatos graves, ações de improbidade administrativa ou ação penal, nem tenham sido condenados nos últimos cinco anos.",
+        "b": "Tenham, no mínimo, trinta anos de efetivo exercício na carreira policial civil.",
+        "c": "Possuam formação acadêmica em nível de doutorado em qualquer área do conhecimento.",
+        "d": "Sejam exclusivamente da classe inicial da carreira, para garantir representatividade das bases.",
+        "e": "Tenham exercido, anteriormente, o cargo de Delegado-Geral ou de Corregedor-Geral."
+      },
+      "correct": "a",
+      "explanation": "O art. 20 da Lei nº 23.213/2026 estabelece que somente poderão ser candidatos a Conselheiro os policiais que não respondam a procedimentos disciplinares por fatos graves, ações de improbidade ou ação penal, e que não tenham sido condenados em processo administrativo disciplinar ou criminal nos últimos cinco anos.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 20 da Lei nº 23.213/2026, somente poderão ser candidatos a Conselheiro da Polícia Civil do Estado do Paraná os policiais que: O art. 20 da Lei nº 23.213/2026 estabelece que somente poderão ser candidatos a Conselheiro os policiais que não respondam a procedimentos disciplinares por fatos graves, ações de improbidade ou ação penal, e que não tenham sido condenados em processo administrativo disciplinar ou criminal nos últimos cinco anos."
+    },
+    {
+      "id": "pcpr-obj-075",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 21, inciso I, da Lei nº 23.213/2026, compete à Corregedoria-Geral de Polícia:",
+      "options": {
+        "a": "Promover, com exclusividade, a apuração das transgressões disciplinares atribuídas a servidores policiais civis.",
+        "b": "Exercer a direção geral da PCPR na ausência do Delegado-Geral e de seus adjuntos.",
+        "c": "Presidir, obrigatoriamente, todas as sessões do Conselho Superior de Polícia.",
+        "d": "Realizar exclusivamente perícias criminalísticas nos casos de morte violenta.",
+        "e": "Nomear diretamente os Delegados de Polícia para as unidades do interior do Estado."
+      },
+      "correct": "a",
+      "explanation": "O art. 21, I, da Lei nº 23.213/2026 estabelece que compete à Corregedoria-Geral de Polícia promover, com exclusividade, a apuração das transgressões disciplinares atribuídas a servidores policiais civis.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 21, inciso I, da Lei nº 23.213/2026, compete à Corregedoria-Geral de Polícia: O art. 21, I, da Lei nº 23.213/2026 estabelece que compete à Corregedoria-Geral de Polícia promover, com exclusividade, a apuração das transgressões disciplinares atribuídas a servidores policiais civis."
+    },
+    {
+      "id": "pcpr-obj-076",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 21, §1º, da Lei nº 23.213/2026, o Corregedor-Geral será escolhido e indicado pelo Delegado-Geral dentre os Delegados de Polícia:",
+      "options": {
+        "a": "Em atividade e em exercício na classe mais elevada da carreira.",
+        "b": "Aposentados, com no mínimo dez anos de exercício na Corregedoria.",
+        "c": "Eleitos por voto direto de todos os integrantes da carreira policial civil.",
+        "d": "Indicados pelo Ministério Público do Estado, em lista tríplice.",
+        "e": "Da classe inicial da carreira, para garantir renovação do quadro dirigente."
+      },
+      "correct": "a",
+      "explanation": "O art. 21, §1º, da Lei nº 23.213/2026 estabelece que o Corregedor-Geral será escolhido e indicado pelo Delegado-Geral dentre os Delegados de Polícia em atividade e em exercício na classe mais elevada da carreira.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "4"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 21, §1º, da Lei nº 23.213/2026, o Corregedor-Geral será escolhido e indicado pelo Delegado-Geral dentre os Delegados de Polícia: O art. 21, §1º, da Lei nº 23.213/2026 estabelece que o Corregedor-Geral será escolhido e indicado pelo Delegado-Geral dentre os Delegados de Polícia em atividade e em exercício na classe mais elevada da carreira."
+    },
+    {
+      "id": "pcpr-obj-077",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 30 da Lei nº 23.213/2026, ao Instituto de Identificação, órgão central de identificação civil e criminal do Estado do Paraná, compete, entre outras atribuições:",
+      "options": {
+        "a": "A identificação humana por processos multibiométricos para fins cíveis e de investigação criminal.",
+        "b": "A apuração exclusiva de transgressões disciplinares de servidores da carreira policial civil.",
+        "c": "A condução de investigações de crimes de repercussão nacional em cooperação com a Polícia Federal.",
+        "d": "A gestão do orçamento anual da Polícia Civil do Estado do Paraná.",
+        "e": "A representação institucional da PCPR perante o Poder Legislativo estadual."
+      },
+      "correct": "a",
+      "explanation": "O art. 30, I, da Lei nº 23.213/2026 atribui ao Instituto de Identificação a identificação humana por processos multibiométricos para fins cíveis e de investigação criminal, entre outras competências relacionadas.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "7"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 30 da Lei nº 23.213/2026, ao Instituto de Identificação, órgão central de identificação civil e criminal do Estado do Paraná, compete, entre outras atribuições: O art. 30, I, da Lei nº 23.213/2026 atribui ao Instituto de Identificação a identificação humana por processos multibiométricos para fins cíveis e de investigação criminal, entre outras competências relacionadas."
+    },
+    {
+      "id": "pcpr-obj-078",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 51 da Lei nº 23.213/2026, é vedada, como regra geral, a avocação de inquérito policial ou outro procedimento previsto em lei, podendo a unidade especializada, se o interesse público assim o exigir:",
+      "options": {
+        "a": "Atuar em regime de cooperação com o Delegado de Polícia responsável pela investigação.",
+        "b": "Assumir automaticamente a condução do inquérito, independentemente de despacho fundamentado.",
+        "c": "Determinar o arquivamento imediato do procedimento, sem qualquer motivação.",
+        "d": "Transferir a investigação diretamente para o Ministério Público, dispensando o inquérito policial.",
+        "e": "Delegar a investigação a uma organização social conveniada com o Estado."
+      },
+      "correct": "a",
+      "explanation": "O art. 51 da Lei nº 23.213/2026 veda, como regra, a avocação de inquérito policial, mas permite que a unidade especializada atue em regime de cooperação com o Delegado de Polícia responsável pela investigação, se o interesse público assim o exigir.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "9"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "dificil",
+      "miniLesson": "Segundo o art. 51 da Lei nº 23.213/2026, é vedada, como regra geral, a avocação de inquérito policial ou outro procedimento previsto em lei, podendo a unidade especializada, se o interesse público assim o exigir: O art. 51 da Lei nº 23.213/2026 veda, como regra, a avocação de inquérito policial, mas permite que a unidade especializada atue em regime de cooperação com o Delegado de Polícia responsável pela investigação, se o interesse público assim o exigir."
+    },
+    {
+      "id": "pcpr-obj-079",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 54, inciso I, alínea 'b', da Lei nº 23.213/2026, um dos requisitos básicos para a criação de uma nova unidade policial é que o distrito-sede do município tenha população não inferior a:",
+      "options": {
+        "a": "Trinta mil habitantes.",
+        "b": "Cem mil habitantes.",
+        "c": "Cinco mil habitantes.",
+        "d": "Um milhão de habitantes.",
+        "e": "Não há exigência mínima de população para a criação de unidades policiais."
+      },
+      "correct": "a",
+      "explanation": "O art. 54, I, 'b', da Lei nº 23.213/2026 estabelece, como requisito básico para a criação de unidade policial, que a população do distrito-sede do município não seja inferior a trinta mil habitantes.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "9"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 54, inciso I, alínea 'b', da Lei nº 23.213/2026, um dos requisitos básicos para a criação de uma nova unidade policial é que o distrito-sede do município tenha população não inferior a: O art. 54, I, 'b', da Lei nº 23.213/2026 estabelece, como requisito básico para a criação de unidade policial, que a população do distrito-sede do município não seja inferior a trinta mil habitantes."
+    },
+    {
+      "id": "pcpr-obj-080",
+      "topic": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "question": "Segundo o art. 54, §2º, da Lei nº 23.213/2026, todo município sede de comarca terá, independentemente do requisito populacional mínimo:",
+      "options": {
+        "a": "Delegacia de Polícia - DP.",
+        "b": "Departamento Estadual de Homicídios e Proteção à Pessoa - DHPP.",
+        "c": "Instituto de Identificação próprio, com estrutura pericial completa.",
+        "d": "Escola Superior de Polícia Civil - ESPC regionalizada.",
+        "e": "Departamento de Operações Especiais - DOESP."
+      },
+      "correct": "a",
+      "explanation": "O art. 54, §2º, da Lei nº 23.213/2026 estabelece que todo município sede de comarca terá Delegacia de Polícia - DP, independentemente do requisito populacional mínimo previsto no inciso I do caput.",
+      "source": {
+        "folder": "PCPR",
+        "document": "Lei 23.213 - 22 de maio de 2026.pdf",
+        "page": "9"
+      },
+      "subject": "Lei nº 23.213/2026 — Lei Orgânica da PCPR",
+      "difficulty": "medio",
+      "miniLesson": "Segundo o art. 54, §2º, da Lei nº 23.213/2026, todo município sede de comarca terá, independentemente do requisito populacional mínimo: O art. 54, §2º, da Lei nº 23.213/2026 estabelece que todo município sede de comarca terá Delegacia de Polícia - DP, independentemente do requisito populacional mínimo previsto no inciso I do caput."
+    }
+  ],
+  "discursive": [],
+  "oral": []
+}

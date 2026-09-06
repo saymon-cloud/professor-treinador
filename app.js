@@ -4,6 +4,7 @@ const state = {
   currentUser: null,       // {id, name}
   manifest: null,
   banks: {},                // disciplineId -> parsed JSON
+  currentCourse: null,      // manifest course object (trilha: Psicologia, Concurso PCPR, ...)
   currentSemester: null,    // manifest semester object
   currentDiscipline: null,  // {id, file, icon, title}
   selectedSubjects: new Set(), // seleção em andamento na tela de assuntos
@@ -287,8 +288,8 @@ async function doLoginSilently(name) {
 async function doLogin(name) {
   const ok = await doLoginSilently(name);
   if (ok) {
-    showScreen("screen-semesters");
-    renderSemesters();
+    showScreen("screen-courses");
+    renderCourses();
   } else {
     alert("Não foi possível entrar. Verifique se o servidor está rodando.");
   }
@@ -389,19 +390,20 @@ document.querySelectorAll("[data-back]").forEach(btn => {
     if (state.recognition) { try { state.recognition.stop(); } catch (e) {} }
     window.speechSynthesis && window.speechSynthesis.cancel();
     showScreen(btn.dataset.back);
-    if (btn.dataset.back === "screen-semesters") { setCrumbs(""); }
-    else if (btn.dataset.back === "screen-disciplines") { crumbsPath([state.currentSemester && state.currentSemester.label]); }
-    else if (btn.dataset.back === "screen-subjects") { crumbsPath([state.currentSemester && state.currentSemester.label, state.currentDiscipline && state.currentDiscipline.title]); }
-    else if (btn.dataset.back === "screen-subject-detail") { crumbsPath([state.currentSemester && state.currentSemester.label, state.currentDiscipline && state.currentDiscipline.title, subjectsLabel()]); }
+    if (btn.dataset.back === "screen-courses") { setCrumbs(""); }
+    else if (btn.dataset.back === "screen-semesters") { crumbsPath([state.currentCourse && state.currentCourse.label]); }
+    else if (btn.dataset.back === "screen-disciplines") { crumbsPath([state.currentCourse && state.currentCourse.label, state.currentSemester && state.currentSemester.label]); }
+    else if (btn.dataset.back === "screen-subjects") { crumbsPath([state.currentCourse && state.currentCourse.label, state.currentSemester && state.currentSemester.label, state.currentDiscipline && state.currentDiscipline.title]); }
+    else if (btn.dataset.back === "screen-subject-detail") { crumbsPath([state.currentCourse && state.currentCourse.label, state.currentSemester && state.currentSemester.label, state.currentDiscipline && state.currentDiscipline.title, subjectsLabel()]); }
   });
 });
 
 document.getElementById("brandHome").addEventListener("click", () => {
   window.speechSynthesis && window.speechSynthesis.cancel();
   if (!state.currentUser) { showScreen("screen-login"); return; }
-  showScreen("screen-semesters");
+  showScreen("screen-courses");
   setCrumbs("");
-  renderSemesters();
+  renderCourses();
 });
 
 // ---------- Carregamento de dados ----------
@@ -422,13 +424,39 @@ async function loadBank(discipline) {
   return json;
 }
 
+// ---------- Tela: cursos/trilhas ----------
+
+async function renderCourses() {
+  await loadManifest();
+  const grid = document.getElementById("courseGrid");
+  grid.innerHTML = "";
+  state.manifest.courses.forEach(course => {
+    const totalDisciplines = course.semesters.reduce((sum, s) => sum + (s.disciplines || []).length, 0);
+    const card = document.createElement("button");
+    card.className = "semester-card";
+    card.innerHTML = `
+      <span class="semester-title">${course.icon ? course.icon + " " : ""}${escapeHtml(course.label)}</span>
+      <span class="semester-desc">${escapeHtml(course.subtitle || "")}</span>
+    `;
+    card.addEventListener("click", () => selectCourse(course));
+    grid.appendChild(card);
+  });
+}
+
+function selectCourse(course) {
+  state.currentCourse = course;
+  document.getElementById("semestersSubtitle").textContent = course.subtitle || "";
+  crumbsPath([course.label]);
+  renderSemesters(course);
+  showScreen("screen-semesters");
+}
+
 // ---------- Tela: semestres ----------
 
-async function renderSemesters() {
-  await loadManifest();
+function renderSemesters(course) {
   const grid = document.getElementById("semesterGrid");
   grid.innerHTML = "";
-  state.manifest.semesters.forEach(sem => {
+  course.semesters.forEach(sem => {
     const card = document.createElement("button");
     card.className = "semester-card" + (sem.available ? "" : " disabled");
     card.innerHTML = `
@@ -445,7 +473,7 @@ async function renderSemesters() {
 function selectSemester(sem) {
   state.currentSemester = sem;
   document.getElementById("semesterTitle").textContent = sem.label;
-  crumbsPath([sem.label]);
+  crumbsPath([state.currentCourse.label, sem.label]);
   renderDisciplines(sem);
   showScreen("screen-disciplines");
 }
@@ -482,7 +510,7 @@ function renderDisciplines(sem) {
 async function selectDiscipline(disc) {
   state.currentDiscipline = disc;
   document.getElementById("disciplineTitleSubjects").textContent = disc.title;
-  crumbsPath([state.currentSemester.label, disc.title]);
+  crumbsPath([state.currentCourse.label, state.currentSemester.label, disc.title]);
   await loadBank(disc);
   state.selectedSubjects = new Set();
   renderSubjects();
@@ -520,51 +548,118 @@ function diffCounts(questions) {
   return counts;
 }
 
-function renderSubjects() {
-  const bank = state.banks[state.currentDiscipline.id];
+// Agrupa os assuntos (subject) de um banco por documento-fonte (PDF), formando
+// uma árvore: tronco = PDF, galhos = assuntos/tópicos daquele PDF. Um assunto
+// cujas questões apontem para mais de um PDF é agrupado sob o primeiro
+// documento encontrado (caso raro).
+function collectSubjectsTree(bank) {
   const subjectsMap = collectSubjects(bank);
-  const grid = document.getElementById("subjectGrid");
-  grid.innerHTML = "";
-
-  Object.keys(subjectsMap).sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(subject => {
+  const tree = {};
+  Object.keys(subjectsMap).forEach(subject => {
     const buckets = subjectsMap[subject];
     const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
-    const dc = diffCounts(all);
-    const badges = ["baixo", "medio", "dificil"]
-      .filter(d => dc[d] > 0)
-      .map(d => `<span class="diff-badge ${d}">${DIFF_LABEL[d]} ${dc[d]}</span>`)
-      .join("");
-    const sourceDocs = subjectSourceDocuments(all);
-    const sourceLine = sourceDocs.length
-      ? `<span class="subject-source">📄 ${sourceDocs.map(escapeHtml).join(" · ")}</span>`
-      : "";
+    const docs = subjectSourceDocuments(all);
+    const doc = docs[0] || "Outros materiais";
+    if (!tree[doc]) tree[doc] = {};
+    tree[doc][subject] = buckets;
+  });
+  return tree;
+}
 
-    const card = document.createElement("button");
-    card.className = "subject-card" + (state.selectedSubjects.has(subject) ? " selected" : "");
-    card.dataset.subject = subject;
-    card.innerHTML = `
-      <span class="subject-checkbox">✓</span>
-      <span class="subject-title">${escapeHtml(subject)}</span>
-      <span class="subject-total">${all.length} questões · ${buckets.objective.length} obj · ${buckets.discursive.length} disc · ${buckets.oral.length} oral</span>
-      ${sourceLine}
-      <div class="diff-badges">${badges}</div>
+function renderSubjects() {
+  const bank = state.banks[state.currentDiscipline.id];
+  const tree = collectSubjectsTree(bank);
+  const container = document.getElementById("subjectGrid");
+  container.innerHTML = "";
+  container.classList.add("subject-tree");
+
+  Object.keys(tree).sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(doc => {
+    const subjectsInDoc = tree[doc];
+    const subjectNames = Object.keys(subjectsInDoc).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+    const trunkTotal = subjectNames.reduce((sum, s) => {
+      const b = subjectsInDoc[s];
+      return sum + b.objective.length + b.discursive.length + b.oral.length;
+    }, 0);
+
+    const trunk = document.createElement("div");
+    trunk.className = "tree-trunk";
+    trunk.innerHTML = `
+      <div class="tree-trunk-header">
+        <span class="tree-checkbox trunk-checkbox"></span>
+        <span class="tree-trunk-title">📄 ${escapeHtml(doc)}</span>
+        <span class="tree-trunk-meta">${subjectNames.length} assunto${subjectNames.length > 1 ? "s" : ""} · ${trunkTotal} questões</span>
+      </div>
+      <div class="tree-branches"></div>
     `;
-    card.addEventListener("click", () => toggleSubject(subject, card));
-    grid.appendChild(card);
+
+    const branchesEl = trunk.querySelector(".tree-branches");
+    subjectNames.forEach(subject => {
+      const buckets = subjectsInDoc[subject];
+      const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
+      const dc = diffCounts(all);
+      const badges = ["baixo", "medio", "dificil"]
+        .filter(d => dc[d] > 0)
+        .map(d => `<span class="diff-badge ${d}">${DIFF_LABEL[d]} ${dc[d]}</span>`)
+        .join("");
+
+      const branch = document.createElement("button");
+      branch.className = "tree-branch" + (state.selectedSubjects.has(subject) ? " selected" : "");
+      branch.dataset.subject = subject;
+      branch.innerHTML = `
+        <span class="tree-checkbox branch-checkbox"></span>
+        <span class="tree-branch-body">
+          <span class="tree-branch-title">${escapeHtml(subject)}</span>
+          <span class="tree-branch-meta">${all.length} questões · ${buckets.objective.length} obj · ${buckets.discursive.length} disc · ${buckets.oral.length} oral</span>
+          <div class="diff-badges">${badges}</div>
+        </span>
+      `;
+      branch.addEventListener("click", () => toggleSubject(subject, branch));
+      branchesEl.appendChild(branch);
+    });
+
+    trunk.querySelector(".tree-trunk-header").addEventListener("click", () => toggleTrunk(subjectNames, trunk));
+    container.appendChild(trunk);
+    updateTrunkCheckboxState(trunk, subjectNames);
   });
 
   updateSubjectsActionBar();
 }
 
-function toggleSubject(subject, cardEl) {
+function toggleSubject(subject, branchEl) {
   if (state.selectedSubjects.has(subject)) {
     state.selectedSubjects.delete(subject);
-    cardEl.classList.remove("selected");
+    branchEl.classList.remove("selected");
   } else {
     state.selectedSubjects.add(subject);
-    cardEl.classList.add("selected");
+    branchEl.classList.add("selected");
+  }
+  const trunkEl = branchEl.closest(".tree-trunk");
+  if (trunkEl) {
+    const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(trunkEl, subjectNames);
   }
   updateSubjectsActionBar();
+}
+
+function toggleTrunk(subjectNames, trunkEl) {
+  const allSelected = subjectNames.every(s => state.selectedSubjects.has(s));
+  subjectNames.forEach(s => {
+    if (allSelected) state.selectedSubjects.delete(s);
+    else state.selectedSubjects.add(s);
+  });
+  trunkEl.querySelectorAll(".tree-branch").forEach(b => {
+    b.classList.toggle("selected", state.selectedSubjects.has(b.dataset.subject));
+  });
+  updateTrunkCheckboxState(trunkEl, subjectNames);
+  updateSubjectsActionBar();
+}
+
+function updateTrunkCheckboxState(trunkEl, subjectNames) {
+  const cb = trunkEl.querySelector(".trunk-checkbox");
+  const selectedCount = subjectNames.filter(s => state.selectedSubjects.has(s)).length;
+  cb.classList.remove("checked", "indeterminate");
+  if (selectedCount > 0 && selectedCount === subjectNames.length) cb.classList.add("checked");
+  else if (selectedCount > 0) cb.classList.add("indeterminate");
 }
 
 function updateSubjectsActionBar() {
@@ -575,16 +670,24 @@ function updateSubjectsActionBar() {
 }
 
 document.getElementById("subjectsSelectAll").addEventListener("click", () => {
-  document.querySelectorAll("#subjectGrid .subject-card").forEach(card => {
-    state.selectedSubjects.add(card.dataset.subject);
-    card.classList.add("selected");
+  document.querySelectorAll("#subjectGrid .tree-branch").forEach(branch => {
+    state.selectedSubjects.add(branch.dataset.subject);
+    branch.classList.add("selected");
+  });
+  document.querySelectorAll("#subjectGrid .tree-trunk").forEach(trunkEl => {
+    const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(trunkEl, subjectNames);
   });
   updateSubjectsActionBar();
 });
 
 document.getElementById("subjectsClearAll").addEventListener("click", () => {
   state.selectedSubjects.clear();
-  document.querySelectorAll("#subjectGrid .subject-card").forEach(card => card.classList.remove("selected"));
+  document.querySelectorAll("#subjectGrid .tree-branch").forEach(branch => branch.classList.remove("selected"));
+  document.querySelectorAll("#subjectGrid .tree-trunk").forEach(trunkEl => {
+    const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(trunkEl, subjectNames);
+  });
   updateSubjectsActionBar();
 });
 
@@ -595,7 +698,7 @@ document.getElementById("subjectsContinueBtn").addEventListener("click", () => {
   state.currentDifficulty = "all";
   document.getElementById("subjectTitle").textContent = subjectsLabel();
   document.getElementById("subjectDisciplineLabel").textContent = state.currentDiscipline.title;
-  crumbsPath([state.currentSemester.label, state.currentDiscipline.title, subjectsLabel()]);
+  crumbsPath([state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel()]);
   renderSubjectDetail();
   showScreen("screen-subject-detail");
 });
@@ -681,7 +784,7 @@ function startSession() {
   state.answers = [];
 
   crumbsPath([
-    state.currentSemester.label, state.currentDiscipline.title, subjectsLabel(),
+    state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel(),
     { objective: "Objetiva", discursive: "Discursiva", oral: "Oral" }[state.currentMode],
   ]);
 
@@ -1011,13 +1114,13 @@ function finishSession() {
 
 document.getElementById("retryBtn").addEventListener("click", () => {
   showScreen("screen-subject-detail");
-  crumbsPath([state.currentSemester.label, state.currentDiscipline.title, subjectsLabel()]);
+  crumbsPath([state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel()]);
 });
 
 document.getElementById("homeBtn").addEventListener("click", () => {
-  showScreen("screen-semesters");
+  showScreen("screen-courses");
   setCrumbs("");
-  renderSemesters();
+  renderCourses();
 });
 
 // ---------- Caderno de erros ----------
@@ -1172,9 +1275,12 @@ retryModal.addEventListener("click", (e) => {
 async function findQuestionForError(err) {
   await loadManifest();
   let discipline = null;
-  for (const sem of state.manifest.semesters) {
-    discipline = (sem.disciplines || []).find(d => d.title === err.discipline);
-    if (discipline) break;
+  outer:
+  for (const course of state.manifest.courses) {
+    for (const sem of course.semesters) {
+      discipline = (sem.disciplines || []).find(d => d.title === err.discipline);
+      if (discipline) break outer;
+    }
   }
   if (!discipline) return null;
   const bank = await loadBank(discipline);
@@ -1349,8 +1455,8 @@ async function init() {
     // que os erros fiquem sendo gravados com um userId que não existe mais.
     const ok = await doLoginSilently(saved.name);
     if (ok) {
-      await renderSemesters();
-      showScreen("screen-semesters");
+      await renderCourses();
+      showScreen("screen-courses");
       return;
     }
   }
