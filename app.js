@@ -16,6 +16,8 @@ const state = {
   answers: [],
   recognition: null,
   finalTranscript: "",
+  answeredMap: {},          // "mode:questionId" -> true/false (acertou?), carregado do servidor por usuário
+  filterRemove: { answered: false, wrong: false, correct: false }, // filtro "Remover" na tela do assunto
 };
 
 const DIFF_LABEL = { baixo: "Baixo", medio: "Médio", dificil: "Difícil" };
@@ -279,9 +281,54 @@ async function doLoginSilently(name) {
     state.currentUser = data.user;
     saveUserLocal(data.user);
     updateUserChip();
+    loadAnsweredMap();
     return true;
   } catch (e) {
     return false;
+  }
+}
+
+// ---------- Mapa de respostas já dadas (para o filtro "Remover" na tela do assunto) ----------
+
+async function loadAnsweredMap() {
+  if (!state.currentUser) { state.answeredMap = {}; return; }
+  try {
+    const res = await fetch(`/api/answers?user_id=${state.currentUser.id}`);
+    if (!res.ok) return;
+    const data = await res.json();
+    const map = {};
+    (data.answers || []).forEach(a => { map[a.mode + ":" + a.question_id] = !!a.correct; });
+    state.answeredMap = map;
+  } catch (e) {
+    console.warn("Não foi possível carregar o histórico de respostas:", e);
+  }
+}
+
+async function recordAnswer({ q, mode, correct }) {
+  if (!state.currentUser) return;
+  state.answeredMap[mode + ":" + q.id] = correct; // atualização otimista, já reflete no filtro na hora
+  try {
+    const res = await fetch("/api/answers", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        userId: state.currentUser.id,
+        questionId: q.id,
+        mode,
+        subject: q.subject || q.topic || "",
+        correct,
+      }),
+    });
+    if (!res.ok) {
+      const errBody = await res.json().catch(() => ({}));
+      if (res.status === 502 && /usuário|user|foreign key|constraint/i.test(errBody.error || "")) {
+        const revalidated = await doLoginSilently(state.currentUser.name);
+        if (revalidated) { await recordAnswer({ q, mode, correct }); return; }
+      }
+      console.error("Falha ao registrar resposta:", res.status, errBody.error || "");
+    }
+  } catch (e) {
+    console.warn("Não foi possível registrar a resposta (rede/servidor indisponível):", e);
   }
 }
 
@@ -696,6 +743,8 @@ document.getElementById("subjectsContinueBtn").addEventListener("click", () => {
   state.currentSubjects = [...state.selectedSubjects];
   state.currentMode = "objective";
   state.currentDifficulty = "all";
+  state.filterRemove = { answered: false, wrong: false, correct: false };
+  document.querySelectorAll("#answerFilterChips .chip").forEach(c => c.classList.remove("active"));
   document.getElementById("subjectTitle").textContent = subjectsLabel();
   document.getElementById("subjectDisciplineLabel").textContent = state.currentDiscipline.title;
   crumbsPath([state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel()]);
@@ -719,12 +768,26 @@ function currentSubjectPool(mode) {
   return (bank[mode] || []).filter(q => subs.has(q.subject || q.topic || "Geral"));
 }
 
+function applyAnswerFilters(pool, mode) {
+  const { answered, wrong, correct } = state.filterRemove;
+  if (!answered && !wrong && !correct) return pool;
+  return pool.filter(q => {
+    const key = mode + ":" + q.id;
+    if (!(key in state.answeredMap)) return true; // nunca respondida -> mantém
+    const wasCorrect = state.answeredMap[key];
+    if (answered) return false;
+    if (wrong && !wasCorrect) return false;
+    if (correct && wasCorrect) return false;
+    return true;
+  });
+}
+
 function renderSubjectDetail() {
   document.querySelectorAll(".tab-btn").forEach(t => {
     t.classList.toggle("active", t.dataset.mode === state.currentMode);
   });
 
-  const pool = currentSubjectPool(state.currentMode);
+  const pool = applyAnswerFilters(currentSubjectPool(state.currentMode), state.currentMode);
   const dc = diffCounts(pool);
   document.querySelector('.chip-count[data-count="all"]').textContent = pool.length ? `(${pool.length})` : "";
   ["baixo", "medio", "dificil"].forEach(d => {
@@ -765,6 +828,14 @@ document.querySelectorAll("#difficultyChips .chip").forEach(chip => {
   });
 });
 
+document.querySelectorAll("#answerFilterChips .chip").forEach(chip => {
+  chip.addEventListener("click", () => {
+    chip.classList.toggle("active");
+    state.filterRemove[chip.dataset.filter] = chip.classList.contains("active");
+    renderSubjectDetail();
+  });
+});
+
 document.getElementById("startBtn").addEventListener("click", startSession);
 
 function shuffle(arr) {
@@ -775,7 +846,7 @@ function shuffle(arr) {
 }
 
 function startSession() {
-  const pool = filterByDifficulty(currentSubjectPool(state.currentMode), state.currentDifficulty);
+  const pool = filterByDifficulty(applyAnswerFilters(currentSubjectPool(state.currentMode), state.currentMode), state.currentDifficulty);
   if (pool.length === 0) return;
   const questions = pool.slice();
   shuffle(questions);
@@ -851,6 +922,7 @@ document.getElementById("objConfirmBtn").addEventListener("click", () => {
   fb.classList.remove("hidden");
 
   state.answers.push({ question: q.question, score: correct ? 10 : 0, correct });
+  recordAnswer({ q, mode: "objective", correct });
 
   if (!correct) {
     recordError({
@@ -907,6 +979,7 @@ document.getElementById("discSubmitBtn").addEventListener("click", async () => {
   renderOpenFeedback("discFeedback", result, q);
 
   state.answers.push({ question: q.question, score: result.score, correct: result.score >= 6 });
+  recordAnswer({ q, mode: "discursive", correct: result.score >= 6 });
   if (result.score < 6) {
     recordError({ q, mode: "discursive", userAnswer: userText, correctAnswer: q.modelAnswer, score: result.score });
   }
@@ -1065,6 +1138,7 @@ async function finalizeOralAnswer(text) {
   document.getElementById("oralFallbackSubmit").disabled = false;
 
   state.answers.push({ question: q.question, score: result.score, correct: result.score >= 6, transcript: text });
+  recordAnswer({ q, mode: "oral", correct: result.score >= 6 });
   if (result.score < 6) {
     recordError({ q, mode: "oral", userAnswer: text, correctAnswer: q.modelAnswer, score: result.score });
   }

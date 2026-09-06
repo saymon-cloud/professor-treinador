@@ -132,6 +132,18 @@ def init_db():
                 created_at TEXT NOT NULL
             )
         """)
+        run(conn, """
+            CREATE TABLE IF NOT EXISTS answers (
+                id SERIAL PRIMARY KEY,
+                user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                question_id TEXT NOT NULL,
+                mode TEXT NOT NULL,
+                subject TEXT,
+                correct INTEGER NOT NULL DEFAULT 0,
+                created_at TEXT NOT NULL,
+                UNIQUE(user_id, question_id, mode)
+            )
+        """)
     else:
         conn.executescript(
             """
@@ -158,6 +170,16 @@ def init_db():
                 mini_lesson TEXT,
                 resolved INTEGER NOT NULL DEFAULT 0,
                 created_at TEXT NOT NULL
+            );
+            CREATE TABLE IF NOT EXISTS answers (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                question_id TEXT NOT NULL,
+                mode TEXT NOT NULL,
+                subject TEXT,
+                correct INTEGER NOT NULL DEFAULT 0,
+                created_at TEXT NOT NULL,
+                UNIQUE(user_id, question_id, mode)
             );
             """
         )
@@ -292,6 +314,40 @@ def delete_error(error_id):
         conn.close()
 
 
+def record_answer(payload):
+    conn = db()
+    try:
+        user_id = payload.get("userId")
+        question_id = payload.get("questionId", "")
+        mode = payload.get("mode", "")
+        subject = payload.get("subject", "")
+        correct = 1 if payload.get("correct") else 0
+        # Substitui a tentativa anterior da mesma questão (mantém só a mais recente).
+        run(conn, "DELETE FROM answers WHERE user_id = ? AND question_id = ? AND mode = ?",
+            (user_id, question_id, mode))
+        run(conn,
+            "INSERT INTO answers(user_id, question_id, mode, subject, correct, created_at) "
+            "VALUES (?, ?, ?, ?, ?, ?)",
+            (user_id, question_id, mode, subject, correct, now_iso()))
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def list_answers(user_id, mode=None):
+    conn = db()
+    try:
+        q = "SELECT question_id, mode, subject, correct FROM answers WHERE user_id = ?"
+        params = [user_id]
+        if mode:
+            q += " AND mode = ?"
+            params.append(mode)
+        rows = run(conn, q, params).fetchall()
+        return [dict(r) for r in rows]
+    finally:
+        conn.close()
+
+
 # ---------- Ollama ----------
 
 def ollama_request(path, payload=None, method="GET", timeout=6):
@@ -422,6 +478,16 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self._send_json(500, {"error": str(exc)})
             return
 
+        if path == "/api/answers":
+            try:
+                qs = self._query()
+                user_id = int(qs.get("user_id", ["0"])[0])
+                mode = qs.get("mode", [None])[0]
+                self._send_json(200, {"answers": list_answers(user_id, mode)})
+            except Exception as exc:
+                self._send_json(500, {"error": str(exc)})
+            return
+
         super().do_GET()
 
     def do_POST(self):
@@ -466,6 +532,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             if path == "/api/errors/delete":
                 payload = self._read_json_body()
                 delete_error(payload.get("id"))
+                self._send_json(200, {"ok": True})
+                return
+
+            if path == "/api/answers":
+                payload = self._read_json_body()
+                if not payload.get("userId"):
+                    self._send_json(400, {"error": "userId é obrigatório"})
+                    return
+                record_answer(payload)
                 self._send_json(200, {"ok": True})
                 return
 
