@@ -16037,6 +16037,226 @@
       "subject": "Epistemologia e pluralidade da psicologia",
       "difficulty": "medio",
       "miniLesson": "Segundo as considerações finais do material, a ausência de um paradigma único na psicologia: A ausência de um paradigma único não invalida o estatuto científico da psicologia; pelo contrário, a pluralidade de matrizes teóricas reflete a complexidade inerente ao ser humano."
+    },
+    {
+      "id": "fund-obj-730",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Um estudante afirma que, para Descartes, 'ser humano é ser, ao mesmo tempo, uma coisa que pensa e uma coisa que ocupa espaço, sendo as duas absolutamente diferentes uma da outra'. Essa afirmação expressa corretamente a distinção cartesiana entre:",
+      "options": {
+        "a": "psique e soma, na acepção grega original.",
+        "b": "matéria e forma, na leitura aristotélica.",
+        "c": "paralelismo psicofísico e monismo materialista.",
+        "d": "res cogitans e res extensa.",
+        "e": "racionalismo e empirismo."
+      },
+      "correct": "d",
+      "explanation": "A afirmação descreve exatamente a distinção cartesiana entre res cogitans (coisa pensante, a mente, imaterial e inextensa) e res extensa (coisa extensa, o corpo, material e mensurável), o núcleo do dualismo interacionista de Descartes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Um estudante afirma que, para Descartes, 'ser humano é ser, ao mesmo tempo, uma coisa que pensa e uma coisa que ocupa espaço, sendo as duas absolutamente diferentes uma da outra'. Essa afirmação expressa corretamente a distinção cartesiana entre: A afirmação descreve exatamente a distinção cartesiana entre res cogitans (coisa pensante, a mente, imaterial e inextensa) e res extensa (coisa extensa, o corpo, material e mensurável), o núcleo do dualismo interacionista de Descartes."
+    },
+    {
+      "id": "fund-obj-731",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "A separação cartesiana entre um sujeito pensante, livre e consciente, e um corpo-máquina regido por leis físicas consolidou, no pensamento ocidental, uma concepção de ser humano que ainda hoje influencia debates sobre identidade pessoal e saúde. Essa consequência histórica do dualismo cartesiano diz respeito, sobretudo, a que tipo de impacto?",
+      "options": {
+        "a": "Um impacto que Descartes buscou deliberadamente evitar ao formular sua teoria.",
+        "b": "Um impacto cultural e filosófico de longo prazo sobre a própria concepção de ser humano, para além do debate estritamente científico.",
+        "c": "Um impacto restrito exclusivamente ao vocabulário técnico da anatomia do século XVII.",
+        "d": "Um impacto que se esgotou completamente com a refutação da glândula pineal.",
+        "e": "Um impacto limitado à filosofia francesa, sem repercussão em outras tradições de pensamento."
+      },
+      "correct": "b",
+      "explanation": "Segundo o material, a separação radical entre mente e corpo proposta por Descartes não ficou restrita ao debate filosófico do século XVII: ela moldou, de forma duradoura, a concepção ocidental de ser humano, com desdobramentos que chegam até a prática clínica contemporânea.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "A separação cartesiana entre um sujeito pensante, livre e consciente, e um corpo-máquina regido por leis físicas consolidou, no pensamento ocidental, uma concepção de ser humano que ainda hoje influencia debates sobre identidade pessoal e saúde. Essa consequência histórica do dualismo cartesiano diz respeito, sobretudo, a que tipo de impacto? Segundo o material, a separação radical entre mente e corpo proposta por Descartes não ficou restrita ao debate filosófico do século XVII: ela moldou, de forma duradoura, a concepção ocidental de ser humano, com desdobramentos que chegam até a prática clínica contemporânea."
+    },
+    {
+      "id": "fund-obj-732",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Em relação à origem do conhecimento, o principal ponto de divergência entre o racionalismo cartesiano e o empirismo de Locke e Hume está em:",
+      "options": {
+        "a": "Se o corpo humano deve ser estudado pela anatomia, tema estranho a ambas as correntes.",
+        "b": "Se o conhecimento deriva primariamente da razão e de ideias inatas, ou da experiência sensorial e da observação.",
+        "c": "Se a psicologia deveria ou não se tornar uma ciência, debate anacrônico para o século XVII.",
+        "d": "Se a mente existe ou não, questão sobre a qual ambas as correntes concordam plenamente.",
+        "e": "Se o método científico deve ou não utilizar a observação, ponto pacífico entre as duas correntes."
+      },
+      "correct": "b",
+      "explanation": "O racionalismo (Descartes) defende a razão e a dedução lógica, com ideias inatas, como fonte primária do conhecimento; o empirismo (Locke e Hume) sustenta que todo conhecimento deriva da experiência sensorial e da observação, rejeitando ideias inatas — esse é o eixo central da divergência entre as duas correntes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Em relação à origem do conhecimento, o principal ponto de divergência entre o racionalismo cartesiano e o empirismo de Locke e Hume está em: O racionalismo (Descartes) defende a razão e a dedução lógica, com ideias inatas, como fonte primária do conhecimento; o empirismo (Locke e Hume) sustenta que todo conhecimento deriva da experiência sensorial e da observação, rejeitando ideias inatas — esse é o eixo central da divergência entre as duas correntes."
+    },
+    {
+      "id": "fund-obj-733",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "A ênfase empirista de Locke na experiência sensorial como fonte do conhecimento teve um desdobramento metodológico específico e duradouro para a futura psicologia científica, que foi:",
+      "options": {
+        "a": "Fornecer a base metodológica para o estudo experimental da percepção e da aprendizagem.",
+        "b": "Consolidar definitivamente o racionalismo como único método válido em psicologia.",
+        "c": "Fundamentar exclusivamente os métodos introspectivos da psicanálise.",
+        "d": "Eliminar por completo a necessidade de observação em pesquisa psicológica.",
+        "e": "Justificar teologicamente a existência da alma imaterial."
+      },
+      "correct": "a",
+      "explanation": "Segundo o material, a ênfase empirista na experiência e na observação dos sentidos forneceu a base metodológica para o futuro estudo experimental da percepção e da aprendizagem, uma contribuição direta ao método experimental da psicologia moderna.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "A ênfase empirista de Locke na experiência sensorial como fonte do conhecimento teve um desdobramento metodológico específico e duradouro para a futura psicologia científica, que foi: Segundo o material, a ênfase empirista na experiência e na observação dos sentidos forneceu a base metodológica para o futuro estudo experimental da percepção e da aprendizagem, uma contribuição direta ao método experimental da psicologia moderna."
+    },
+    {
+      "id": "fund-obj-734",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Antes da Revolução Científica do século XVII, a natureza era compreendida sob forte influência de explicações teológicas e finalistas. Ao conceber o universo como uma grande máquina regida por leis matemáticas passíveis de observação e dedução, esse período histórico teve como principal implicação para o estudo dos organismos vivos:",
+      "options": {
+        "a": "Deixarem de ser considerados sistemas passíveis de leis, permanecendo um mistério irredutível.",
+        "b": "Tornarem-se objeto de estudo apenas da teologia natural, e não das ciências naturais.",
+        "c": "Passarem a ser estudados sob a ótica da física e da anatomia, abrindo caminho para uma abordagem mecanicista do corpo.",
+        "d": "Serem definitivamente excluídos de qualquer tipo de investigação científica.",
+        "e": "Passarem a ser compreendidos exclusivamente por meio de dogmas religiosos, sem qualquer mudança metodológica."
+      },
+      "correct": "c",
+      "explanation": "O mecanicismo decorrente da Revolução Científica influenciou diretamente a visão sobre os organismos vivos, que passaram a ser estudados sob a ótica da física e da anatomia — o corpo humano, para Descartes, tornou-se uma máquina complexa passível de dissecação e estudo sem restrições teológicas.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Antes da Revolução Científica do século XVII, a natureza era compreendida sob forte influência de explicações teológicas e finalistas. Ao conceber o universo como uma grande máquina regida por leis matemáticas passíveis de observação e dedução, esse período histórico teve como principal implicação para o estudo dos organismos vivos: O mecanicismo decorrente da Revolução Científica influenciou diretamente a visão sobre os organismos vivos, que passaram a ser estudados sob a ótica da física e da anatomia — o corpo humano, para Descartes, tornou-se uma máquina complexa passível de dissecação e estudo sem restrições teológicas."
+    },
+    {
+      "id": "fund-obj-735",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Se a ciência, tal como reconfigurada pela Revolução Científica, exige a observação e a medição de fenômenos materiais, qual dilema epistemológico específico essa exigência colocou para o futuro estudo científico da mente humana, concebida por Descartes como substância imaterial?",
+      "options": {
+        "a": "Como substituir a observação científica pela intuição racionalista, sem perda de rigor.",
+        "b": "Como seria possível justificar teologicamente a existência da glândula pineal.",
+        "c": "Como eliminar de vez a noção de corpo do estudo da psicologia, tornando-a puramente espiritual.",
+        "d": "Como conciliar o racionalismo francês com o empirismo alemão, questão irrelevante para a psicologia.",
+        "e": "Como seria possível estudar cientificamente algo, a mente, que por definição não é material nem mensurável pelos métodos da física."
+      },
+      "correct": "e",
+      "explanation": "Segundo o material, a separação radical entre o físico e o mental criou um dilema epistemológico: se a ciência exige observação e medição de fenômenos materiais, como seria possível estudar cientificamente a mente imaterial? Esse impasse definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "Se a ciência, tal como reconfigurada pela Revolução Científica, exige a observação e a medição de fenômenos materiais, qual dilema epistemológico específico essa exigência colocou para o futuro estudo científico da mente humana, concebida por Descartes como substância imaterial? Segundo o material, a separação radical entre o físico e o mental criou um dilema epistemológico: se a ciência exige observação e medição de fenômenos materiais, como seria possível estudar cientificamente a mente imaterial? Esse impasse definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes."
+    },
+    {
+      "id": "fund-obj-736",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Diferentemente do paralelismo psicofísico, que concebe mente e corpo como processos distintos ocorrendo de forma sincronizada, mas sem causação direta entre eles, o monismo materialista, como posição filosófica decorrente do impasse mente-corpo de Descartes, caracteriza-se por:",
+      "options": {
+        "a": "Negar a existência de duas substâncias distintas, reduzindo os processos mentais a processos fisiológicos e cerebrais.",
+        "b": "Defender exatamente a mesma tese do dualismo interacionista cartesiano, sem qualquer diferença relevante.",
+        "c": "Afirmar que apenas a mente existe, sendo o corpo uma ilusão sensorial.",
+        "d": "Sustentar que mente e corpo interagem livremente por meio da glândula pineal, tal como propôs Descartes.",
+        "e": "Recusar qualquer tentativa de explicação científica para os fenômenos mentais."
+      },
+      "correct": "a",
+      "explanation": "O monismo materialista rejeita a existência de duas substâncias distintas (mente e corpo), afirmando que existe apenas uma realidade, a material, à qual os processos mentais são, em última instância, reduzidos — uma solução filosófica diametralmente distinta do dualismo interacionista de Descartes e também do paralelismo psicofísico.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil",
+      "miniLesson": "Diferentemente do paralelismo psicofísico, que concebe mente e corpo como processos distintos ocorrendo de forma sincronizada, mas sem causação direta entre eles, o monismo materialista, como posição filosófica decorrente do impasse mente-corpo de Descartes, caracteriza-se por: O monismo materialista rejeita a existência de duas substâncias distintas (mente e corpo), afirmando que existe apenas uma realidade, a material, à qual os processos mentais são, em última instância, reduzidos — uma solução filosófica diametralmente distinta do dualismo interacionista de Descartes e também do paralelismo psicofísico."
+    },
+    {
+      "id": "fund-obj-737",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Segundo Figueiredo (2009), citado no material, as diferentes posições filosóficas geradas pela tentativa de resolver o problema mente-corpo cartesiano tiveram qual consequência para o desenvolvimento da própria psicologia como campo de conhecimento?",
+      "options": {
+        "a": "Unificaram a psicologia em um único paradigma teórico incontestável.",
+        "b": "Impediram definitivamente que a psicologia se tornasse uma ciência autônoma.",
+        "c": "Não tiveram qualquer relação com a formação das diferentes escolas psicológicas.",
+        "d": "Influenciaram diretamente as matrizes teóricas da psicologia, moldando as diferentes maneiras de se fazer psicologia.",
+        "e": "Restringiram-se ao debate filosófico francês, sem alcançar a psicologia enquanto disciplina."
+      },
+      "correct": "d",
+      "explanation": "Segundo Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas — do paralelismo psicofísico ao monismo materialista — que influenciaram diretamente as matrizes teóricas da psicologia, moldando as diferentes maneiras de se fazer psicologia.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Segundo Figueiredo (2009), citado no material, as diferentes posições filosóficas geradas pela tentativa de resolver o problema mente-corpo cartesiano tiveram qual consequência para o desenvolvimento da própria psicologia como campo de conhecimento? Segundo Figueiredo (2009), a tentativa de resolver o problema mente-corpo gerou diversas posições filosóficas — do paralelismo psicofísico ao monismo materialista — que influenciaram diretamente as matrizes teóricas da psicologia, moldando as diferentes maneiras de se fazer psicologia."
+    },
+    {
+      "id": "fund-obj-738",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Em um hospital geral, é comum que a equipe médica trate os sintomas físicos de um paciente com medicação, enquanto a equipe de psicologia trata, separadamente, os conflitos emocionais associados. Essa organização do cuidado em saúde exemplifica, segundo o material estudado, a persistência de qual legado histórico?",
+      "options": {
+        "a": "O legado do empirismo britânico, sem qualquer relação com a prática clínica.",
+        "b": "O legado da psicanálise freudiana, único responsável por essa divisão institucional.",
+        "c": "O legado do dualismo cartesiano, que separou mente e corpo como domínios distintos de intervenção.",
+        "d": "O legado do monismo materialista, que reduz toda intervenção psicológica a processos fisiológicos.",
+        "e": "O legado exclusivo da abordagem biopsicossocial, que já superou totalmente essa divisão."
+      },
+      "correct": "c",
+      "explanation": "A divisão do cuidado em saúde entre tratamento do corpo (medicina) e tratamento da mente (psicologia) é apontada pelo material como um eco direto do dualismo cartesiano na prática profissional contemporânea, ainda não plenamente superado.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "Em um hospital geral, é comum que a equipe médica trate os sintomas físicos de um paciente com medicação, enquanto a equipe de psicologia trata, separadamente, os conflitos emocionais associados. Essa organização do cuidado em saúde exemplifica, segundo o material estudado, a persistência de qual legado histórico? A divisão do cuidado em saúde entre tratamento do corpo (medicina) e tratamento da mente (psicologia) é apontada pelo material como um eco direto do dualismo cartesiano na prática profissional contemporânea, ainda não plenamente superado."
+    },
+    {
+      "id": "fund-obj-739",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "A abordagem biopsicossocial, mencionada no material como esforço atual para superar a dicotomia dualista na prática clínica, propõe fundamentalmente que a saúde e o adoecimento sejam determinados por:",
+      "options": {
+        "a": "Exclusivamente fatores sociais, sem qualquer relação com o corpo ou a mente.",
+        "b": "Exclusivamente processos psicológicos, independentemente do corpo físico.",
+        "c": "A integração indissociável entre processos biológicos, psicológicos e sociais.",
+        "d": "Exclusivamente processos biológicos, sendo os demais fatores irrelevantes.",
+        "e": "Uma hierarquia rígida em que o biológico sempre determina o psicológico e o social."
+      },
+      "correct": "c",
+      "explanation": "O material define o esforço da psicossomática e das abordagens biopsicossociais como a busca por reconhecer a integração indissociável entre os processos biológicos, psicológicos e sociais na determinação da saúde e do adoecimento, superando a fragmentação herdada do dualismo cartesiano.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio",
+      "miniLesson": "A abordagem biopsicossocial, mencionada no material como esforço atual para superar a dicotomia dualista na prática clínica, propõe fundamentalmente que a saúde e o adoecimento sejam determinados por: O material define o esforço da psicossomática e das abordagens biopsicossociais como a busca por reconhecer a integração indissociável entre os processos biológicos, psicológicos e sociais na determinação da saúde e do adoecimento, superando a fragmentação herdada do dualismo cartesiano."
     }
   ],
   "discursive": [
