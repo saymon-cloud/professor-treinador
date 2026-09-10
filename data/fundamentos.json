@@ -25122,6 +25122,216 @@
       },
       "subject": "Epistemologia e pluralidade da psicologia",
       "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-236",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "O que é o dualismo cartesiano e quais são as duas substâncias propostas por Descartes? Explique a distinção entre res cogitans e res extensa, e discuta de que forma essa separação influenciou a concepção de ser humano no pensamento ocidental.",
+      "modelAnswer": "O dualismo cartesiano, proposto por René Descartes no século XVII, é um sistema filosófico conhecido como dualismo interacionista, segundo o qual o ser humano é composto por duas substâncias de naturezas distintas e incompatíveis: a res cogitans (coisa pensante), correspondente à mente, imaterial e inextensa, e a res extensa (coisa extensa), correspondente ao corpo, material, mensurável e sujeito às leis da mecânica. Essa separação radical consolidou, no pensamento ocidental, a concepção do ser humano como uma dualidade entre um sujeito pensante, livre e consciente, e um corpo-máquina regido por leis físicas, passível de ser dissecado e estudado sem restrições teológicas — uma cisão que ainda hoje molda a forma como se compreendem saúde, doença e identidade pessoal.",
+      "keyPoints": [
+        {
+          "text": "Dualismo interacionista: duas substâncias distintas e incompatíveis",
+          "weight": 0.3,
+          "keywords": [
+            "dualismo interacionista",
+            "Descartes",
+            "substâncias"
+          ]
+        },
+        {
+          "text": "res cogitans = mente imaterial/pensante; res extensa = corpo material/mecânico",
+          "weight": 0.4,
+          "keywords": [
+            "res cogitans",
+            "res extensa",
+            "mente",
+            "corpo"
+          ]
+        },
+        {
+          "text": "Influenciou a concepção ocidental do ser humano (sujeito pensante x corpo-máquina)",
+          "weight": 0.3,
+          "keywords": [
+            "pensamento ocidental",
+            "corpo-máquina"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-237",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Como as correntes do Racionalismo e do Empirismo contribuíram para a formação da Psicologia como ciência? Compare as posições de Descartes (racionalismo) e de Locke/Hume (empirismo) quanto à origem do conhecimento, e analise de que modo essa tensão filosófica moldou os métodos da psicologia moderna.",
+      "modelAnswer": "O racionalismo, representado por René Descartes, defende a razão e a dedução lógica como fontes primárias do conhecimento, postulando a existência de ideias inatas, independentes da experiência sensorial. Já o empirismo britânico, representado por John Locke e David Hume, sustenta que todo conhecimento deriva da experiência sensorial e da observação empírica: Locke rejeitou as ideias inatas, propondo que a mente humana nasce como uma tábula rasa, uma folha em branco preenchida pela experiência. Essa tensão entre racionalismo e empirismo moldou diretamente os métodos da psicologia moderna: a ênfase empirista na experiência e na observação dos sentidos forneceu a base metodológica para o futuro estudo experimental da percepção e da aprendizagem, enquanto o racionalismo cartesiano, ao separar mente e corpo, colocou o problema de como estudar cientificamente algo imaterial — dilema que a psicologia teve de enfrentar para se consolidar como ciência.",
+      "keyPoints": [
+        {
+          "text": "Racionalismo (Descartes): razão, dedução lógica, ideias inatas",
+          "weight": 0.3,
+          "keywords": [
+            "racionalismo",
+            "Descartes",
+            "ideias inatas"
+          ]
+        },
+        {
+          "text": "Empirismo (Locke/Hume): conhecimento pela experiência sensorial, tábula rasa",
+          "weight": 0.35,
+          "keywords": [
+            "empirismo",
+            "Locke",
+            "Hume",
+            "tábula rasa"
+          ]
+        },
+        {
+          "text": "Tensão moldou métodos: empirismo fundamenta o método experimental; racionalismo levanta o problema de estudar a mente cientificamente",
+          "weight": 0.35,
+          "keywords": [
+            "método experimental",
+            "psicologia moderna"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-238",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Qual foi o papel da Revolução Científica do século XVII na transformação das concepções sobre a mente? Discuta como a visão mecanicista do universo alterou a forma de compreender os organismos vivos e o que isso implicou para o estudo científico da mente humana.",
+      "modelAnswer": "A Revolução Científica do século XVII alterou radicalmente a forma de investigar a natureza: o universo passou a ser concebido como uma grande máquina, regida por leis matemáticas e mecânicas que poderiam ser descobertas por meio da observação rigorosa e da dedução lógica. Esse mecanicismo influenciou diretamente a visão sobre os organismos vivos, que passaram a ser estudados sob a ótica da física e da anatomia — o próprio Descartes concebeu o corpo humano como uma máquina complexa, cujos movimentos reflexos involuntários poderiam ser explicados por princípios puramente físicos, sem intervenção da mente, o que permitiu o avanço da fisiologia e da anatomia, já que o corpo físico podia ser dissecado e estudado sem restrições teológicas. Para o estudo científico da mente, porém, essa mesma lógica mecanicista gerou um dilema: se a ciência exige observação e medição de fenômenos materiais, como seria possível estudar cientificamente uma mente concebida como imaterial? Esse impasse definiu a agenda da psicologia e da filosofia da mente pelos séculos seguintes, impulsionando, mais tarde, o desenvolvimento da psicofísica como tentativa de medir a relação entre estímulos físicos e sensações mentais.",
+      "keyPoints": [
+        {
+          "text": "Universo concebido como máquina regida por leis matemáticas/mecânicas (mecanicismo)",
+          "weight": 0.3,
+          "keywords": [
+            "Revolução Científica",
+            "mecanicismo"
+          ]
+        },
+        {
+          "text": "Organismos vivos passam a ser estudados pela física/anatomia; corpo-máquina cartesiano",
+          "weight": 0.35,
+          "keywords": [
+            "corpo-máquina",
+            "fisiologia",
+            "anatomia"
+          ]
+        },
+        {
+          "text": "Dilema: como estudar cientificamente uma mente imaterial, agenda futura da psicologia/psicofísica",
+          "weight": 0.35,
+          "keywords": [
+            "mente imaterial",
+            "psicofísica",
+            "dilema epistemológico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "5-6"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-239",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "De que maneira o problema da interação mente-corpo, proposto por Descartes, gerou diferentes posições filosóficas? Apresente e compare ao menos duas posições filosóficas decorrentes desse impasse (ex.: paralelismo psicofísico e monismo materialista), relacionando-as com as matrizes teóricas da Psicologia.",
+      "modelAnswer": "Descartes não conseguiu explicar satisfatoriamente como duas substâncias de naturezas tão diferentes — a mente imaterial e o corpo material — poderiam interagir causalmente; sua tentativa de localizar essa interação na glândula pineal foi posteriormente refutada pelos avanços da fisiologia. Esse impasse gerou, segundo Figueiredo (2009), diversas posições filosóficas que influenciaram diretamente as matrizes teóricas da psicologia. O paralelismo psicofísico sustenta que mente e corpo constituem processos distintos que ocorrem em paralelo, de forma sincronizada, mas sem causação direta entre eles: a cada evento mental corresponde um evento físico, sem que um cause o outro. Já o monismo materialista rejeita a própria existência de duas substâncias distintas, afirmando que existe apenas uma realidade, a material, e que os processos mentais são, em última instância, redutíveis a processos fisiológicos e cerebrais. Essas diferentes soluções filosóficas para o problema mente-corpo moldaram as diferentes maneiras de se fazer psicologia: matrizes mais próximas do monismo materialista tendem a explicar o comportamento e a cognição a partir de processos fisiológicos observáveis, enquanto outras matrizes preservam, em maior ou menor grau, a autonomia dos fenômenos mentais e subjetivos frente ao substrato biológico.",
+      "keyPoints": [
+        {
+          "text": "Impasse cartesiano: como duas substâncias distintas interagem (glândula pineal, refutada)",
+          "weight": 0.25,
+          "keywords": [
+            "glândula pineal",
+            "interação mente-corpo"
+          ]
+        },
+        {
+          "text": "Paralelismo psicofísico: processos mentais e físicos correm em paralelo, sem causação direta",
+          "weight": 0.3,
+          "keywords": [
+            "paralelismo psicofísico"
+          ]
+        },
+        {
+          "text": "Monismo materialista: apenas uma substância material; mente reduzida a processos fisiológicos",
+          "weight": 0.25,
+          "keywords": [
+            "monismo materialista"
+          ]
+        },
+        {
+          "text": "Relação com as matrizes teóricas da psicologia (Figueiredo, 2009)",
+          "weight": 0.2,
+          "keywords": [
+            "matrizes teóricas",
+            "Figueiredo"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "6-7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-240",
+      "topic": "Dualismo e raízes filosóficas",
+      "question": "Como o legado do dualismo mente-corpo ainda se manifesta na prática clínica contemporânea? Reflita sobre a divisão entre o tratamento do corpo (medicina) e da mente (psicologia), e avalie a contribuição da abordagem biopsicossocial para a superação dessa dicotomia.",
+      "modelAnswer": "Na prática profissional contemporânea, os ecos do dualismo cartesiano ainda se fazem presentes: em contextos hospitalares e clínicos, observa-se com frequência a divisão do cuidado em saúde, na qual profissionais da medicina tratam o corpo (sintomas físicos, prescrição de psicofármacos) enquanto profissionais da psicologia tratam a mente (conflitos emocionais, padrões de pensamento), como se fossem dois domínios separados e independentes. O esforço atual da psicossomática e das abordagens biopsicossociais consiste justamente em superar essa dicotomia herdada de Descartes, reconhecendo a integração indissociável entre os processos biológicos, psicológicos e sociais na determinação da saúde e do adoecimento — ou seja, tratando o ser humano como uma totalidade biopsicossocial, e não como a soma de um corpo-máquina e uma mente separada, o que favorece práticas de cuidado mais integradas e efetivas.",
+      "keyPoints": [
+        {
+          "text": "Ecos do dualismo: divisão do cuidado (medicina trata corpo / psicologia trata mente)",
+          "weight": 0.35,
+          "keywords": [
+            "divisão do cuidado",
+            "dualismo cartesiano"
+          ]
+        },
+        {
+          "text": "Psicossomática e abordagem biopsicossocial buscam superar essa dicotomia",
+          "weight": 0.35,
+          "keywords": [
+            "psicossomática",
+            "abordagem biopsicossocial"
+          ]
+        },
+        {
+          "text": "Integração indissociável dos processos biológicos, psicológicos e sociais",
+          "weight": 0.3,
+          "keywords": [
+            "integração",
+            "biopsicossocial",
+            "saúde e adoecimento"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "ANTECEDENTES HISTÓRICOS E ESTATUTO CIENTÍFICO DA PSICOLOGIA.pdf",
+        "page": "7"
+      },
+      "subject": "Dualismo e raízes filosóficas",
+      "difficulty": "dificil"
     }
   ],
   "oral": [
