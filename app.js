@@ -806,6 +806,7 @@ function renderSubjectDetail() {
     : `Nenhuma questão ${modeLabel} disponível para este filtro ainda.`;
 
   document.getElementById("startBtn").disabled = filtered.length === 0;
+  document.getElementById("printExamBtn").disabled = filtered.length === 0;
 }
 
 function filterByDifficulty(pool, diff) {
@@ -862,6 +863,98 @@ function startSession() {
   if (state.currentMode === "objective") renderObjective();
   else if (state.currentMode === "discursive") renderDiscursive();
   else renderOral();
+}
+
+// ---------- Impressão: caderno de questões (prova) ----------
+
+document.getElementById("printExamBtn").addEventListener("click", () => {
+  const pool = filterByDifficulty(applyAnswerFilters(currentSubjectPool(state.currentMode), state.currentMode), state.currentDifficulty);
+  if (pool.length === 0) return;
+  const questions = pool.slice();
+  shuffle(questions);
+  openPrintableExam(questions, state.currentMode);
+});
+
+function openPrintableExam(questions, mode) {
+  const modeLabel = { objective: "Prova Objetiva", discursive: "Prova Discursiva", oral: "Prova Oral" }[mode];
+  const title = `${state.currentDiscipline.title} — ${subjectsLabel()}`;
+  const letters = ["a", "b", "c", "d", "e"];
+
+  let questionsHtml = "";
+  let gabaritoHtml = "";
+
+  questions.forEach((q, idx) => {
+    const n = idx + 1;
+    questionsHtml += `<div class="pq">
+      <p class="pq-head"><strong>${n}.</strong> <span class="pq-topic">${escapeHtml(q.topic || q.subject || "")}</span></p>
+      <p class="pq-text">${escapeHtml(q.question)}</p>`;
+
+    if (mode === "objective") {
+      questionsHtml += `<ul class="pq-options">` +
+        letters.filter(l => q.options && q.options[l]).map(l => `<li>(${l.toUpperCase()}) ${escapeHtml(q.options[l])}</li>`).join("") +
+        `</ul>`;
+      gabaritoHtml += `<div class="pg-item"><strong>${n}.</strong> ${(q.correct || "").toUpperCase()}</div>`;
+    } else {
+      questionsHtml += `<div class="pq-lines"></div>`;
+      gabaritoHtml += `<div class="pg-block"><strong>${n}. ${escapeHtml(q.question)}</strong><p>${escapeHtml(q.modelAnswer || q.explanation || "")}</p></div>`;
+    }
+    questionsHtml += `</div>`;
+  });
+
+  const html = `<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>${escapeHtml(title)} — ${modeLabel}</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, "Times New Roman", serif; color: #111; max-width: 800px; margin: 24px auto; padding: 0 16px; line-height: 1.5; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .print-meta { color: #444; font-size: 14px; margin: 0 0 12px; }
+  .print-fields { display: flex; justify-content: space-between; gap: 24px; border-top: 1px solid #999; border-bottom: 1px solid #999; padding: 10px 0; margin-bottom: 24px; font-size: 14px; }
+  .pq { margin-bottom: 22px; page-break-inside: avoid; }
+  .pq-head { margin: 0 0 2px; }
+  .pq-topic { color: #666; font-size: 12px; font-style: italic; }
+  .pq-text { margin: 4px 0 8px; font-weight: 600; }
+  .pq-options { list-style: none; padding: 0; margin: 0; }
+  .pq-options li { margin: 4px 0 4px 12px; }
+  .pq-lines { border-bottom: 1px solid #bbb; height: 28px; margin: 6px 0; }
+  .pq-lines + .pq-lines { margin-top: -2px; }
+  .print-gabarito { page-break-before: always; margin-top: 24px; }
+  .print-gabarito h2 { font-size: 18px; border-bottom: 2px solid #111; padding-bottom: 6px; }
+  .pg-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px 4px; font-size: 14px; }
+  .pg-block { margin-bottom: 14px; font-size: 14px; }
+  .pg-block p { margin: 4px 0 0; color: #333; }
+  .print-actions { margin: 16px 0; }
+  @media print { .print-actions { display: none; } }
+</style>
+</head>
+<body>
+  <div class="print-actions"><button onclick="window.print()">🖨️ Imprimir / Salvar PDF</button></div>
+  <header>
+    <h1>${escapeHtml(title)}</h1>
+    <p class="print-meta">${modeLabel} · ${questions.length} questões · gerado pelo Professor Treinador</p>
+    <div class="print-fields">
+      <span>Nome: _______________________________________</span>
+      <span>Data: ____ / ____ / ________</span>
+    </div>
+  </header>
+  <main>${questionsHtml}</main>
+  <section class="print-gabarito">
+    <h2>Gabarito</h2>
+    ${mode === "objective" ? `<div class="pg-grid">${gabaritoHtml}</div>` : gabaritoHtml}
+  </section>
+</body>
+</html>`;
+
+  const win = window.open("", "_blank");
+  if (!win) {
+    alert("Não foi possível abrir a janela de impressão. Permita pop-ups para este site e tente novamente.");
+    return;
+  }
+  win.document.open();
+  win.document.write(html);
+  win.document.close();
 }
 
 // ---------- Modo Objetivo ----------
