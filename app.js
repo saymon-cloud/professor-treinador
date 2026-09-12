@@ -1483,6 +1483,104 @@ document.getElementById("homeBtn").addEventListener("click", () => {
   renderCourses();
 });
 
+// ---------- Agrupamento hierárquico (matéria > assunto > subassunto) ----------
+// Reaproveitado pelo Caderno de erros e por Respostas escritas: os dois
+// guardam apenas `discipline` (título) e `subject` (o assunto-folha) junto de
+// cada registro; para agrupar por assunto/subassunto, procuramos, no próprio
+// banco de questões já carregado (ou carregado sob demanda aqui), uma questão
+// atual com aquele `subject` e usamos seu campo opcional `section` (string ou
+// array) como o caminho de pastas entre a matéria e o assunto-folha.
+
+function findDisciplineByTitle(title) {
+  if (!state.manifest || !title) return null;
+  for (const course of state.manifest.courses) {
+    for (const sem of course.semesters) {
+      for (const d of (sem.disciplines || [])) {
+        if (d.title === title) return d;
+      }
+    }
+  }
+  return null;
+}
+
+async function resolveSectionPath(disciplineTitle, subject) {
+  const discipline = findDisciplineByTitle(disciplineTitle);
+  if (!discipline || !subject) return [];
+  let bank;
+  try {
+    bank = await loadBank(discipline);
+  } catch (e) {
+    return [];
+  }
+  const all = [...(bank.objective || []), ...(bank.discursive || []), ...(bank.oral || [])];
+  const q = all.find(x => x.subject === subject);
+  if (!q || !q.section) return [];
+  return Array.isArray(q.section) ? q.section : [q.section];
+}
+
+// Agrupa `records` (cada um com .discipline e .subject) em uma árvore
+// { [disciplina]: { children: { [pastaSeção]: {...} }, items: { [assunto]: [registros] } } }.
+async function groupRecordsHierarchically(records) {
+  const pathCache = new Map();
+  const uniqueKeys = [...new Set(records.map(r => (r.discipline || "") + " " + (r.subject || "")))];
+  await Promise.all(uniqueKeys.map(async key => {
+    const [discipline, subject] = key.split(" ");
+    pathCache.set(key, await resolveSectionPath(discipline, subject));
+  }));
+
+  const root = {};
+  records.forEach(r => {
+    const disciplineLabel = r.discipline || "Sem disciplina";
+    const key = (r.discipline || "") + " " + (r.subject || "");
+    const path = pathCache.get(key) || [];
+    if (!root[disciplineLabel]) root[disciplineLabel] = { children: {}, items: {} };
+    let node = root[disciplineLabel];
+    path.forEach(seg => {
+      if (!node.children[seg]) node.children[seg] = { children: {}, items: {} };
+      node = node.children[seg];
+    });
+    const subjectLabel = r.subject || "Sem assunto";
+    if (!node.items[subjectLabel]) node.items[subjectLabel] = [];
+    node.items[subjectLabel].push(r);
+  });
+  return root;
+}
+
+// Renderiza recursivamente subpastas (seções) e, no nível mais interno, os
+// assuntos-folha com seus itens (via `renderItem`, uma das duas funções de
+// renderização já existentes: renderNotebookItem ou renderWrittenAnswerItem).
+function renderHierNode(node, container, depth, renderItem) {
+  Object.keys(node.children).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true })).forEach(label => {
+    const heading = document.createElement("div");
+    heading.className = "hier-heading hier-section";
+    heading.style.paddingLeft = (depth * 18) + "px";
+    heading.textContent = "📁 " + label;
+    container.appendChild(heading);
+    renderHierNode(node.children[label], container, depth + 1, renderItem);
+  });
+  Object.keys(node.items).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true })).forEach(subject => {
+    const heading = document.createElement("div");
+    heading.className = "hier-heading hier-subject";
+    heading.style.paddingLeft = (depth * 18) + "px";
+    heading.textContent = "📌 " + subject;
+    container.appendChild(heading);
+    node.items[subject].forEach(r => container.appendChild(renderItem(r)));
+  });
+}
+
+async function renderHierarchical(records, container, renderItem) {
+  await loadManifest();
+  const root = await groupRecordsHierarchically(records);
+  container.innerHTML = "";
+  Object.keys(root).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true })).forEach(disciplineLabel => {
+    const heading = document.createElement("div");
+    heading.className = "hier-heading hier-discipline";
+    heading.textContent = "📚 " + disciplineLabel;
+    container.appendChild(heading);
+    renderHierNode(root[disciplineLabel], container, 1, renderItem);
+  });
+}
+
 // ---------- Caderno de erros ----------
 
 document.querySelectorAll("#notebookFilter .chip").forEach(chip => {
@@ -1508,12 +1606,11 @@ async function loadNotebook(filter) {
     const res = await fetch(url);
     const data = await res.json();
     const errors = data.errors || [];
-    listEl.innerHTML = "";
     if (!errors.length) {
       listEl.innerHTML = `<div class="notebook-empty">Nenhum erro por aqui${filter === "open" ? " — parabéns! 🎉" : "."}</div>`;
       return;
     }
-    errors.forEach(err => listEl.appendChild(renderNotebookItem(err)));
+    await renderHierarchical(errors, listEl, renderNotebookItem);
   } catch (e) {
     listEl.innerHTML = "<p class='subtitle'>Não foi possível carregar o caderno de erros.</p>";
   }
@@ -1528,7 +1625,7 @@ function renderNotebookItem(err) {
 
   div.innerHTML = `
     <div class="notebook-item-head">
-      <span class="notebook-item-meta">${escapeHtml(err.discipline)} · ${escapeHtml(err.subject)} · ${modeLabel} · ${date}</span>
+      <span class="notebook-item-meta">${modeLabel} · ${date}</span>
       <span class="notebook-item-score">${scoreTxt}</span>
     </div>
     <div class="notebook-item-question" title="Clique para refazer esta questão">${escapeHtml(err.question_text)}</div>
@@ -1596,12 +1693,11 @@ async function loadWrittenAnswers(filter) {
     ));
     const answers = results.flatMap(d => d.answers || []).sort((a, b) => (b.created_at || "").localeCompare(a.created_at || ""));
     writtenAnswersCache = answers;
-    listEl.innerHTML = "";
     if (!answers.length) {
       listEl.innerHTML = `<div class="notebook-empty">Nenhuma resposta escrita registrada ainda.</div>`;
       return;
     }
-    answers.forEach(a => listEl.appendChild(renderWrittenAnswerItem(a)));
+    await renderHierarchical(answers, listEl, renderWrittenAnswerItem);
   } catch (e) {
     listEl.innerHTML = "<p class='subtitle'>Não foi possível carregar as respostas escritas.</p>";
   }
@@ -1616,7 +1712,7 @@ function renderWrittenAnswerItem(a) {
 
   div.innerHTML = `
     <div class="notebook-item-head">
-      <span class="notebook-item-meta">${escapeHtml(a.discipline || "")} · ${escapeHtml(a.subject || "")} · ${modeLabel} · ${date}</span>
+      <span class="notebook-item-meta">${modeLabel} · ${date}</span>
       <span class="notebook-item-score">${scoreTxt}</span>
     </div>
     <div class="notebook-item-question">${escapeHtml(a.question_text || "")}</div>

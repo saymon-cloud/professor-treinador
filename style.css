@@ -576,6 +576,12 @@ button{ font-family:inherit; cursor:pointer; }
 
 /* ---------- Caderno de erros ---------- */
 .notebook-list{ display:flex; flex-direction:column; gap:12px; }
+
+.hier-heading{ font-weight:700; margin-top:6px; }
+.hier-discipline{ font-size:1.05rem; padding-top:18px; border-top:1px solid var(--border); }
+.hier-discipline:first-child{ padding-top:0; border-top:none; }
+.hier-section{ font-size:0.9rem; color: var(--text-dim); font-weight:600; }
+.hier-subject{ font-size:0.85rem; color: var(--accent); }
 .notebook-item{
   background: var(--panel);
   border:1px solid var(--border);
