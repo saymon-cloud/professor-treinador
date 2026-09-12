@@ -1570,10 +1570,84 @@ function renderWrittenAnswerItem(a) {
       <span class="notebook-item-score">${scoreTxt}</span>
     </div>
     <div class="notebook-item-question">${escapeHtml(a.question_text || "")}</div>
-    <div class="notebook-item-answer">Sua resposta: ${escapeHtml(a.user_answer || "—")}</div>
+    <div class="notebook-item-answer-view">Sua resposta: <span class="written-answer-text">${escapeHtml(a.user_answer || "—")}</span></div>
+    <textarea class="written-answer-edit hidden" rows="4">${escapeHtml(a.user_answer || "")}</textarea>
     <details class="model-answer"><summary style="cursor:pointer;color:var(--accent)">Ver resposta padrão</summary>${a.model_answer || ""}</details>
     ${renderSourceLine(a.source)}
+    <div class="notebook-item-actions">
+      <button class="btn-edit-answer">✏️ Editar</button>
+      <button class="btn-save-answer hidden">💾 Salvar</button>
+      <button class="btn-cancel-edit-answer hidden">✕ Cancelar</button>
+      <button class="btn-delete-answer">🗑 Excluir</button>
+    </div>
   `;
+
+  const viewEl = div.querySelector(".notebook-item-answer-view");
+  const textEl = div.querySelector(".written-answer-text");
+  const editEl = div.querySelector(".written-answer-edit");
+  const editBtn = div.querySelector(".btn-edit-answer");
+  const saveBtn = div.querySelector(".btn-save-answer");
+  const cancelBtn = div.querySelector(".btn-cancel-edit-answer");
+  const deleteBtn = div.querySelector(".btn-delete-answer");
+
+  editBtn.addEventListener("click", () => {
+    viewEl.classList.add("hidden");
+    editEl.classList.remove("hidden");
+    editBtn.classList.add("hidden");
+    saveBtn.classList.remove("hidden");
+    cancelBtn.classList.remove("hidden");
+    editEl.focus();
+  });
+
+  cancelBtn.addEventListener("click", () => {
+    editEl.value = a.user_answer || "";
+    viewEl.classList.remove("hidden");
+    editEl.classList.add("hidden");
+    editBtn.classList.remove("hidden");
+    saveBtn.classList.add("hidden");
+    cancelBtn.classList.add("hidden");
+  });
+
+  saveBtn.addEventListener("click", async () => {
+    const newText = editEl.value;
+    saveBtn.disabled = true;
+    try {
+      await fetch("/api/answers/update", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: a.id, userAnswer: newText }),
+      });
+      a.user_answer = newText;
+      textEl.textContent = newText || "—";
+      const cached = writtenAnswersCache.find(x => x.id === a.id);
+      if (cached) cached.user_answer = newText;
+    } catch (e) {
+      alert("Não foi possível salvar a edição. Verifique se o servidor está rodando.");
+    } finally {
+      saveBtn.disabled = false;
+      viewEl.classList.remove("hidden");
+      editEl.classList.add("hidden");
+      editBtn.classList.remove("hidden");
+      saveBtn.classList.add("hidden");
+      cancelBtn.classList.add("hidden");
+    }
+  });
+
+  deleteBtn.addEventListener("click", async () => {
+    if (!confirm("Excluir esta resposta escrita? Essa ação não pode ser desfeita.")) return;
+    await fetch("/api/answers/delete", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id: a.id }),
+    });
+    writtenAnswersCache = writtenAnswersCache.filter(x => x.id !== a.id);
+    div.remove();
+    if (!writtenAnswersCache.length) {
+      document.getElementById("writtenAnswersList").innerHTML =
+        '<div class="notebook-empty">Nenhuma resposta escrita registrada ainda.</div>';
+    }
+  });
+
   return div;
 }
 

@@ -412,6 +412,24 @@ def list_answers(user_id, mode=None):
         conn.close()
 
 
+def update_answer_text(answer_id, user_answer):
+    conn = db()
+    try:
+        run(conn, "UPDATE answers SET user_answer = ? WHERE id = ?", (user_answer, answer_id))
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def delete_answer(answer_id):
+    conn = db()
+    try:
+        run(conn, "DELETE FROM answers WHERE id = ?", (answer_id,))
+        conn.commit()
+    finally:
+        conn.close()
+
+
 # ---------- Ollama ----------
 
 def ollama_request(path, payload=None, method="GET", timeout=6):
@@ -605,6 +623,18 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     self._send_json(400, {"error": "userId é obrigatório"})
                     return
                 record_answer(payload)
+                self._send_json(200, {"ok": True})
+                return
+
+            if path == "/api/answers/update":
+                payload = self._read_json_body()
+                update_answer_text(payload.get("id"), payload.get("userAnswer", ""))
+                self._send_json(200, {"ok": True})
+                return
+
+            if path == "/api/answers/delete":
+                payload = self._read_json_body()
+                delete_answer(payload.get("id"))
                 self._send_json(200, {"ok": True})
                 return
 
