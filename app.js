@@ -599,32 +599,42 @@ function diffCounts(questions) {
 // uma árvore: tronco = PDF, galhos = assuntos/tópicos daquele PDF. Um assunto
 // cujas questões apontem para mais de um PDF é agrupado sob o primeiro
 // documento encontrado (caso raro). Quando as questões de um assunto trazem
-// um campo opcional `section` (capítulo/seção do PDF), os assuntos daquele
-// documento são agrupados em um nível intermediário por seção; documentos
-// sem esse campo mantêm o comportamento antigo (tronco -> assuntos direto).
-const NO_SECTION = "__sem_secao__";
+// um campo opcional `section`, ele vira um ou mais níveis de pasta entre o
+// tronco e o assunto: uma string cria 1 nível (comportamento legado); um
+// array de strings cria um nível de pasta por item do array, permitindo
+// aninhamento em quantos níveis o PDF realmente tiver (ex.: ["2. Título da
+// seção", "2.3 Subseção"]). Documentos/assuntos sem `section` mantêm o
+// comportamento antigo (tronco -> assuntos direto).
+function sectionPath(q) {
+  if (!q.section) return [];
+  return Array.isArray(q.section) ? q.section : [q.section];
+}
 
 function collectSubjectsTree(bank) {
   const subjectsMap = collectSubjects(bank);
-  const tree = {};
+  const docs = {};
   Object.keys(subjectsMap).forEach(subject => {
     const buckets = subjectsMap[subject];
     const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
-    const docs = subjectSourceDocuments(all);
-    const doc = docs[0] || "Outros materiais";
-    const sectioned = all.find(q => q.section);
-    const section = sectioned ? sectioned.section : NO_SECTION;
-    if (!tree[doc]) tree[doc] = {};
-    if (!tree[doc][section]) tree[doc][section] = {};
-    tree[doc][section][subject] = buckets;
+    const doc = subjectSourceDocuments(all)[0] || "Outros materiais";
+    const withSection = all.find(q => q.section);
+    const path = withSection ? sectionPath(withSection) : [];
+
+    if (!docs[doc]) docs[doc] = { children: new Map(), subjects: new Map() };
+    let node = docs[doc];
+    path.forEach(seg => {
+      if (!node.children.has(seg)) node.children.set(seg, { children: new Map(), subjects: new Map() });
+      node = node.children.get(seg);
+    });
+    node.subjects.set(subject, buckets);
   });
-  return tree;
+  return docs;
 }
 
 // Quando as questões de um assunto trazem um campo opcional `order` (posição
 // do título/subtítulo dentro do PDF), usamos essa ordem para exibir os
-// assuntos na mesma sequência em que aparecem no material, em vez de
-// alfabética. Assuntos sem essa informação continuam ordenados por nome.
+// assuntos/pastas na mesma sequência em que aparecem no material, em vez de
+// alfabética. Sem essa informação, a ordenação cai para o nome.
 function subjectOrderValue(buckets) {
   const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
   let min = null;
@@ -634,15 +644,49 @@ function subjectOrderValue(buckets) {
   return min;
 }
 
-function sortSubjectNamesByPdfOrder(subjectNames, subjectsMap) {
-  return subjectNames.sort((a, b) => {
-    const oa = subjectOrderValue(subjectsMap[a]);
-    const ob = subjectOrderValue(subjectsMap[b]);
+function groupOrderValue(node) {
+  let min = null;
+  node.children.forEach(child => {
+    const v = groupOrderValue(child);
+    if (v !== null && (min === null || v < min)) min = v;
+  });
+  node.subjects.forEach(buckets => {
+    const v = subjectOrderValue(buckets);
+    if (v !== null && (min === null || v < min)) min = v;
+  });
+  return min;
+}
+
+function groupAllSubjectNames(node) {
+  const names = [];
+  node.children.forEach(child => names.push(...groupAllSubjectNames(child)));
+  node.subjects.forEach((buckets, label) => names.push(label));
+  return names;
+}
+
+function groupTotalQuestions(node) {
+  let total = 0;
+  node.children.forEach(child => { total += groupTotalQuestions(child); });
+  node.subjects.forEach(buckets => { total += buckets.objective.length + buckets.discursive.length + buckets.oral.length; });
+  return total;
+}
+
+// Combina subpastas e assuntos-folha de um nó em uma única lista ordenada
+// (por `order`, com fallback alfabético), preservando a sequência real do
+// material mesmo quando pastas e assuntos se intercalam num mesmo nível.
+function sortedNodeEntries(node) {
+  const entries = [];
+  node.children.forEach((child, label) => entries.push({ kind: "group", label, node: child }));
+  node.subjects.forEach((buckets, label) => entries.push({ kind: "leaf", label, buckets }));
+  entries.sort((a, b) => {
+    const oa = a.kind === "leaf" ? subjectOrderValue(a.buckets) : groupOrderValue(a.node);
+    const ob = b.kind === "leaf" ? subjectOrderValue(b.buckets) : groupOrderValue(b.node);
     if (oa !== null && ob !== null) return oa - ob;
     if (oa !== null) return -1;
     if (ob !== null) return 1;
-    return a.localeCompare(b, "pt-BR", { numeric: true });
+    return a.label.localeCompare(b.label, "pt-BR", { numeric: true });
   });
+  return entries;
 }
 
 function renderTreeBranch(subject, buckets, parentEl) {
@@ -668,6 +712,36 @@ function renderTreeBranch(subject, buckets, parentEl) {
   parentEl.appendChild(branch);
 }
 
+// Renderiza recursivamente as subpastas e os assuntos-folha de um nó dentro
+// de `parentEl`. Cada nível de pasta reaproveita o mesmo template (📁),
+// aninhando quantas vezes o `section` de origem exigir.
+function renderTreeGroupEntries(node, parentEl) {
+  sortedNodeEntries(node).forEach(entry => {
+    if (entry.kind === "leaf") {
+      renderTreeBranch(entry.label, entry.buckets, parentEl);
+      return;
+    }
+    const subjectNames = groupAllSubjectNames(entry.node);
+    const total = groupTotalQuestions(entry.node);
+
+    const groupEl = document.createElement("div");
+    groupEl.className = "tree-section";
+    groupEl.innerHTML = `
+      <div class="tree-section-header">
+        <span class="tree-checkbox trunk-checkbox"></span>
+        <span class="tree-section-title">📁 ${escapeHtml(entry.label)}</span>
+        <span class="tree-section-meta">${subjectNames.length} assunto${subjectNames.length > 1 ? "s" : ""} · ${total} questões</span>
+      </div>
+      <div class="tree-branches"></div>
+    `;
+    const childBranchesEl = groupEl.querySelector(".tree-branches");
+    renderTreeGroupEntries(entry.node, childBranchesEl);
+    groupEl.querySelector(".tree-section-header").addEventListener("click", () => toggleTrunk(subjectNames, groupEl));
+    parentEl.appendChild(groupEl);
+    updateTrunkCheckboxState(groupEl, subjectNames);
+  });
+}
+
 function renderSubjects() {
   const bank = state.banks[state.currentDiscipline.id];
   const tree = collectSubjectsTree(bank);
@@ -676,19 +750,9 @@ function renderSubjects() {
   container.classList.add("subject-tree");
 
   Object.keys(tree).sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(doc => {
-    const sectionsInDoc = tree[doc];
-    const sectionKeys = Object.keys(sectionsInDoc);
-    const usesSections = !(sectionKeys.length === 1 && sectionKeys[0] === NO_SECTION);
-
-    let allSubjectNames = [];
-    let trunkTotal = 0;
-    sectionKeys.forEach(sk => {
-      Object.keys(sectionsInDoc[sk]).forEach(subj => {
-        const b = sectionsInDoc[sk][subj];
-        trunkTotal += b.objective.length + b.discursive.length + b.oral.length;
-        allSubjectNames.push(subj);
-      });
-    });
+    const docNode = tree[doc];
+    const allSubjectNames = groupAllSubjectNames(docNode);
+    const trunkTotal = groupTotalQuestions(docNode);
 
     const trunk = document.createElement("div");
     trunk.className = "tree-trunk";
@@ -701,38 +765,7 @@ function renderSubjects() {
       <div class="tree-branches"></div>
     `;
     const branchesRoot = trunk.querySelector(".tree-branches");
-
-    if (usesSections) {
-      const orderedSections = sectionKeys.sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
-      orderedSections.forEach(sectionName => {
-        const subjectsInSection = sectionsInDoc[sectionName];
-        const subjectNames = sortSubjectNamesByPdfOrder(Object.keys(subjectsInSection), subjectsInSection);
-        const sectionTotal = subjectNames.reduce((sum, s) => {
-          const b = subjectsInSection[s];
-          return sum + b.objective.length + b.discursive.length + b.oral.length;
-        }, 0);
-
-        const sectionEl = document.createElement("div");
-        sectionEl.className = "tree-section";
-        sectionEl.innerHTML = `
-          <div class="tree-section-header">
-            <span class="tree-checkbox trunk-checkbox"></span>
-            <span class="tree-section-title">📁 ${escapeHtml(sectionName)}</span>
-            <span class="tree-section-meta">${subjectNames.length} assunto${subjectNames.length > 1 ? "s" : ""} · ${sectionTotal} questões</span>
-          </div>
-          <div class="tree-branches"></div>
-        `;
-        const sectionBranches = sectionEl.querySelector(".tree-branches");
-        subjectNames.forEach(subj => renderTreeBranch(subj, subjectsInSection[subj], sectionBranches));
-        sectionEl.querySelector(".tree-section-header").addEventListener("click", () => toggleTrunk(subjectNames, sectionEl));
-        branchesRoot.appendChild(sectionEl);
-        updateTrunkCheckboxState(sectionEl, subjectNames);
-      });
-    } else {
-      const subjectsFlat = sectionsInDoc[NO_SECTION];
-      const subjectNames = sortSubjectNamesByPdfOrder(Object.keys(subjectsFlat), subjectsFlat);
-      subjectNames.forEach(subj => renderTreeBranch(subj, subjectsFlat[subj], branchesRoot));
-    }
+    renderTreeGroupEntries(docNode, branchesRoot);
 
     trunk.querySelector(".tree-trunk-header").addEventListener("click", () => toggleTrunk(allSubjectNames, trunk));
     container.appendChild(trunk);
@@ -740,6 +773,20 @@ function renderSubjects() {
   });
 
   updateSubjectsActionBar();
+}
+
+// Sobe pela árvore do DOM a partir de `el`, atualizando o checkbox de cada
+// pasta/tronco ancestral (podem ser vários níveis, ao contrário do antigo
+// esquema fixo de 2 níveis).
+function updateAncestorCheckboxes(el) {
+  let ancestor = el.closest(".tree-section, .tree-trunk");
+  while (ancestor) {
+    const namesInAncestor = [...ancestor.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(ancestor, namesInAncestor);
+    if (ancestor.classList.contains("tree-trunk")) break;
+    const parent = ancestor.parentElement;
+    ancestor = parent ? parent.closest(".tree-section, .tree-trunk") : null;
+  }
 }
 
 function toggleSubject(subject, branchEl) {
@@ -750,16 +797,7 @@ function toggleSubject(subject, branchEl) {
     state.selectedSubjects.add(subject);
     branchEl.classList.add("selected");
   }
-  const sectionEl = branchEl.closest(".tree-section");
-  if (sectionEl) {
-    const namesInSection = [...sectionEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
-    updateTrunkCheckboxState(sectionEl, namesInSection);
-  }
-  const trunkEl = branchEl.closest(".tree-trunk");
-  if (trunkEl) {
-    const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
-    updateTrunkCheckboxState(trunkEl, subjectNames);
-  }
+  updateAncestorCheckboxes(branchEl);
   updateSubjectsActionBar();
 }
 
@@ -773,10 +811,8 @@ function toggleTrunk(subjectNames, groupEl) {
     b.classList.toggle("selected", state.selectedSubjects.has(b.dataset.subject));
   });
   updateTrunkCheckboxState(groupEl, subjectNames);
-  const parentTrunk = groupEl.classList.contains("tree-trunk") ? null : groupEl.closest(".tree-trunk");
-  if (parentTrunk) {
-    const namesInTrunk = [...parentTrunk.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
-    updateTrunkCheckboxState(parentTrunk, namesInTrunk);
+  if (!groupEl.classList.contains("tree-trunk") && groupEl.parentElement) {
+    updateAncestorCheckboxes(groupEl.parentElement);
   }
   updateSubjectsActionBar();
 }

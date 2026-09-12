@@ -525,6 +525,13 @@ button{ font-family:inherit; cursor:pointer; }
 .tree-section .tree-branches{ border-top:1px solid var(--border); }
 .tree-section .tree-branch{ padding-left:64px; }
 
+/* Aninhamento de pastas em N níveis (2º e 3º nível de seção dentro de um
+   mesmo documento, ex.: "2. Seção" > "2.3 Subseção" > assunto). */
+.tree-section .tree-section .tree-section-header{ padding-left:44px; }
+.tree-section .tree-section .tree-section .tree-section-header{ padding-left:60px; }
+.tree-section .tree-section .tree-branch{ padding-left:80px; }
+.tree-section .tree-section .tree-section .tree-branch{ padding-left:96px; }
+
 /* ---------- Abas de modo + filtro de dificuldade ---------- */
 .tab-bar{
   display:flex;
