@@ -598,7 +598,12 @@ function diffCounts(questions) {
 // Agrupa os assuntos (subject) de um banco por documento-fonte (PDF), formando
 // uma árvore: tronco = PDF, galhos = assuntos/tópicos daquele PDF. Um assunto
 // cujas questões apontem para mais de um PDF é agrupado sob o primeiro
-// documento encontrado (caso raro).
+// documento encontrado (caso raro). Quando as questões de um assunto trazem
+// um campo opcional `section` (capítulo/seção do PDF), os assuntos daquele
+// documento são agrupados em um nível intermediário por seção; documentos
+// sem esse campo mantêm o comportamento antigo (tronco -> assuntos direto).
+const NO_SECTION = "__sem_secao__";
+
 function collectSubjectsTree(bank) {
   const subjectsMap = collectSubjects(bank);
   const tree = {};
@@ -607,10 +612,36 @@ function collectSubjectsTree(bank) {
     const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
     const docs = subjectSourceDocuments(all);
     const doc = docs[0] || "Outros materiais";
+    const sectioned = all.find(q => q.section);
+    const section = sectioned ? sectioned.section : NO_SECTION;
     if (!tree[doc]) tree[doc] = {};
-    tree[doc][subject] = buckets;
+    if (!tree[doc][section]) tree[doc][section] = {};
+    tree[doc][section][subject] = buckets;
   });
   return tree;
+}
+
+function renderTreeBranch(subject, buckets, parentEl) {
+  const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
+  const dc = diffCounts(all);
+  const badges = ["baixo", "medio", "dificil"]
+    .filter(d => dc[d] > 0)
+    .map(d => `<span class="diff-badge ${d}">${DIFF_LABEL[d]} ${dc[d]}</span>`)
+    .join("");
+
+  const branch = document.createElement("button");
+  branch.className = "tree-branch" + (state.selectedSubjects.has(subject) ? " selected" : "");
+  branch.dataset.subject = subject;
+  branch.innerHTML = `
+    <span class="tree-checkbox branch-checkbox"></span>
+    <span class="tree-branch-body">
+      <span class="tree-branch-title">${escapeHtml(subject)}</span>
+      <span class="tree-branch-meta">${all.length} questões · ${buckets.objective.length} obj · ${buckets.discursive.length} disc · ${buckets.oral.length} oral</span>
+      <div class="diff-badges">${badges}</div>
+    </span>
+  `;
+  branch.addEventListener("click", () => toggleSubject(subject, branch));
+  parentEl.appendChild(branch);
 }
 
 function renderSubjects() {
@@ -621,12 +652,19 @@ function renderSubjects() {
   container.classList.add("subject-tree");
 
   Object.keys(tree).sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(doc => {
-    const subjectsInDoc = tree[doc];
-    const subjectNames = Object.keys(subjectsInDoc).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
-    const trunkTotal = subjectNames.reduce((sum, s) => {
-      const b = subjectsInDoc[s];
-      return sum + b.objective.length + b.discursive.length + b.oral.length;
-    }, 0);
+    const sectionsInDoc = tree[doc];
+    const sectionKeys = Object.keys(sectionsInDoc);
+    const usesSections = !(sectionKeys.length === 1 && sectionKeys[0] === NO_SECTION);
+
+    let allSubjectNames = [];
+    let trunkTotal = 0;
+    sectionKeys.forEach(sk => {
+      Object.keys(sectionsInDoc[sk]).forEach(subj => {
+        const b = sectionsInDoc[sk][subj];
+        trunkTotal += b.objective.length + b.discursive.length + b.oral.length;
+        allSubjectNames.push(subj);
+      });
+    });
 
     const trunk = document.createElement("div");
     trunk.className = "tree-trunk";
@@ -634,39 +672,47 @@ function renderSubjects() {
       <div class="tree-trunk-header">
         <span class="tree-checkbox trunk-checkbox"></span>
         <span class="tree-trunk-title">📄 ${escapeHtml(doc)}</span>
-        <span class="tree-trunk-meta">${subjectNames.length} assunto${subjectNames.length > 1 ? "s" : ""} · ${trunkTotal} questões</span>
+        <span class="tree-trunk-meta">${allSubjectNames.length} assunto${allSubjectNames.length > 1 ? "s" : ""} · ${trunkTotal} questões</span>
       </div>
       <div class="tree-branches"></div>
     `;
+    const branchesRoot = trunk.querySelector(".tree-branches");
 
-    const branchesEl = trunk.querySelector(".tree-branches");
-    subjectNames.forEach(subject => {
-      const buckets = subjectsInDoc[subject];
-      const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
-      const dc = diffCounts(all);
-      const badges = ["baixo", "medio", "dificil"]
-        .filter(d => dc[d] > 0)
-        .map(d => `<span class="diff-badge ${d}">${DIFF_LABEL[d]} ${dc[d]}</span>`)
-        .join("");
+    if (usesSections) {
+      const orderedSections = sectionKeys.sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+      orderedSections.forEach(sectionName => {
+        const subjectsInSection = sectionsInDoc[sectionName];
+        const subjectNames = Object.keys(subjectsInSection).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+        const sectionTotal = subjectNames.reduce((sum, s) => {
+          const b = subjectsInSection[s];
+          return sum + b.objective.length + b.discursive.length + b.oral.length;
+        }, 0);
 
-      const branch = document.createElement("button");
-      branch.className = "tree-branch" + (state.selectedSubjects.has(subject) ? " selected" : "");
-      branch.dataset.subject = subject;
-      branch.innerHTML = `
-        <span class="tree-checkbox branch-checkbox"></span>
-        <span class="tree-branch-body">
-          <span class="tree-branch-title">${escapeHtml(subject)}</span>
-          <span class="tree-branch-meta">${all.length} questões · ${buckets.objective.length} obj · ${buckets.discursive.length} disc · ${buckets.oral.length} oral</span>
-          <div class="diff-badges">${badges}</div>
-        </span>
-      `;
-      branch.addEventListener("click", () => toggleSubject(subject, branch));
-      branchesEl.appendChild(branch);
-    });
+        const sectionEl = document.createElement("div");
+        sectionEl.className = "tree-section";
+        sectionEl.innerHTML = `
+          <div class="tree-section-header">
+            <span class="tree-checkbox trunk-checkbox"></span>
+            <span class="tree-section-title">📁 ${escapeHtml(sectionName)}</span>
+            <span class="tree-section-meta">${subjectNames.length} assunto${subjectNames.length > 1 ? "s" : ""} · ${sectionTotal} questões</span>
+          </div>
+          <div class="tree-branches"></div>
+        `;
+        const sectionBranches = sectionEl.querySelector(".tree-branches");
+        subjectNames.forEach(subj => renderTreeBranch(subj, subjectsInSection[subj], sectionBranches));
+        sectionEl.querySelector(".tree-section-header").addEventListener("click", () => toggleTrunk(subjectNames, sectionEl));
+        branchesRoot.appendChild(sectionEl);
+        updateTrunkCheckboxState(sectionEl, subjectNames);
+      });
+    } else {
+      const subjectsFlat = sectionsInDoc[NO_SECTION];
+      const subjectNames = Object.keys(subjectsFlat).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+      subjectNames.forEach(subj => renderTreeBranch(subj, subjectsFlat[subj], branchesRoot));
+    }
 
-    trunk.querySelector(".tree-trunk-header").addEventListener("click", () => toggleTrunk(subjectNames, trunk));
+    trunk.querySelector(".tree-trunk-header").addEventListener("click", () => toggleTrunk(allSubjectNames, trunk));
     container.appendChild(trunk);
-    updateTrunkCheckboxState(trunk, subjectNames);
+    updateTrunkCheckboxState(trunk, allSubjectNames);
   });
 
   updateSubjectsActionBar();
@@ -680,6 +726,11 @@ function toggleSubject(subject, branchEl) {
     state.selectedSubjects.add(subject);
     branchEl.classList.add("selected");
   }
+  const sectionEl = branchEl.closest(".tree-section");
+  if (sectionEl) {
+    const namesInSection = [...sectionEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(sectionEl, namesInSection);
+  }
   const trunkEl = branchEl.closest(".tree-trunk");
   if (trunkEl) {
     const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
@@ -688,21 +739,26 @@ function toggleSubject(subject, branchEl) {
   updateSubjectsActionBar();
 }
 
-function toggleTrunk(subjectNames, trunkEl) {
+function toggleTrunk(subjectNames, groupEl) {
   const allSelected = subjectNames.every(s => state.selectedSubjects.has(s));
   subjectNames.forEach(s => {
     if (allSelected) state.selectedSubjects.delete(s);
     else state.selectedSubjects.add(s);
   });
-  trunkEl.querySelectorAll(".tree-branch").forEach(b => {
+  groupEl.querySelectorAll(".tree-branch").forEach(b => {
     b.classList.toggle("selected", state.selectedSubjects.has(b.dataset.subject));
   });
-  updateTrunkCheckboxState(trunkEl, subjectNames);
+  updateTrunkCheckboxState(groupEl, subjectNames);
+  const parentTrunk = groupEl.classList.contains("tree-trunk") ? null : groupEl.closest(".tree-trunk");
+  if (parentTrunk) {
+    const namesInTrunk = [...parentTrunk.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(parentTrunk, namesInTrunk);
+  }
   updateSubjectsActionBar();
 }
 
-function updateTrunkCheckboxState(trunkEl, subjectNames) {
-  const cb = trunkEl.querySelector(".trunk-checkbox");
+function updateTrunkCheckboxState(groupEl, subjectNames) {
+  const cb = groupEl.querySelector(".trunk-checkbox");
   const selectedCount = subjectNames.filter(s => state.selectedSubjects.has(s)).length;
   cb.classList.remove("checked", "indeterminate");
   if (selectedCount > 0 && selectedCount === subjectNames.length) cb.classList.add("checked");
@@ -721,6 +777,10 @@ document.getElementById("subjectsSelectAll").addEventListener("click", () => {
     state.selectedSubjects.add(branch.dataset.subject);
     branch.classList.add("selected");
   });
+  document.querySelectorAll("#subjectGrid .tree-section").forEach(sectionEl => {
+    const subjectNames = [...sectionEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(sectionEl, subjectNames);
+  });
   document.querySelectorAll("#subjectGrid .tree-trunk").forEach(trunkEl => {
     const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
     updateTrunkCheckboxState(trunkEl, subjectNames);
@@ -731,6 +791,10 @@ document.getElementById("subjectsSelectAll").addEventListener("click", () => {
 document.getElementById("subjectsClearAll").addEventListener("click", () => {
   state.selectedSubjects.clear();
   document.querySelectorAll("#subjectGrid .tree-branch").forEach(branch => branch.classList.remove("selected"));
+  document.querySelectorAll("#subjectGrid .tree-section").forEach(sectionEl => {
+    const subjectNames = [...sectionEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
+    updateTrunkCheckboxState(sectionEl, subjectNames);
+  });
   document.querySelectorAll("#subjectGrid .tree-trunk").forEach(trunkEl => {
     const subjectNames = [...trunkEl.querySelectorAll(".tree-branch")].map(b => b.dataset.subject);
     updateTrunkCheckboxState(trunkEl, subjectNames);
