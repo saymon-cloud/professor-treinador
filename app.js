@@ -621,6 +621,30 @@ function collectSubjectsTree(bank) {
   return tree;
 }
 
+// Quando as questões de um assunto trazem um campo opcional `order` (posição
+// do título/subtítulo dentro do PDF), usamos essa ordem para exibir os
+// assuntos na mesma sequência em que aparecem no material, em vez de
+// alfabética. Assuntos sem essa informação continuam ordenados por nome.
+function subjectOrderValue(buckets) {
+  const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
+  let min = null;
+  all.forEach(q => {
+    if (typeof q.order === "number" && (min === null || q.order < min)) min = q.order;
+  });
+  return min;
+}
+
+function sortSubjectNamesByPdfOrder(subjectNames, subjectsMap) {
+  return subjectNames.sort((a, b) => {
+    const oa = subjectOrderValue(subjectsMap[a]);
+    const ob = subjectOrderValue(subjectsMap[b]);
+    if (oa !== null && ob !== null) return oa - ob;
+    if (oa !== null) return -1;
+    if (ob !== null) return 1;
+    return a.localeCompare(b, "pt-BR", { numeric: true });
+  });
+}
+
 function renderTreeBranch(subject, buckets, parentEl) {
   const all = [...buckets.objective, ...buckets.discursive, ...buckets.oral];
   const dc = diffCounts(all);
@@ -682,7 +706,7 @@ function renderSubjects() {
       const orderedSections = sectionKeys.sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
       orderedSections.forEach(sectionName => {
         const subjectsInSection = sectionsInDoc[sectionName];
-        const subjectNames = Object.keys(subjectsInSection).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+        const subjectNames = sortSubjectNamesByPdfOrder(Object.keys(subjectsInSection), subjectsInSection);
         const sectionTotal = subjectNames.reduce((sum, s) => {
           const b = subjectsInSection[s];
           return sum + b.objective.length + b.discursive.length + b.oral.length;
@@ -706,7 +730,7 @@ function renderSubjects() {
       });
     } else {
       const subjectsFlat = sectionsInDoc[NO_SECTION];
-      const subjectNames = Object.keys(subjectsFlat).sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+      const subjectNames = sortSubjectNamesByPdfOrder(Object.keys(subjectsFlat), subjectsFlat);
       subjectNames.forEach(subj => renderTreeBranch(subj, subjectsFlat[subj], branchesRoot));
     }
 

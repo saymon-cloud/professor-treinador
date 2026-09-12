@@ -22,7 +22,8 @@
       },
       "subject": "Sinapses",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-obj-002",
@@ -45,7 +46,8 @@
       },
       "subject": "Astrócitos",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 4
     },
     {
       "id": "neuro-obj-003",
@@ -67,7 +69,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-004",
@@ -90,7 +93,8 @@
       },
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "baixo",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-005",
@@ -112,7 +116,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-006",
@@ -134,7 +139,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-007",
@@ -156,7 +162,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "baixo",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-008",
@@ -178,7 +185,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "baixo",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-009",
@@ -410,7 +418,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-020",
@@ -432,7 +441,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-021",
@@ -623,7 +633,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-030",
@@ -646,7 +657,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-031",
@@ -669,7 +681,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-032",
@@ -692,7 +705,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-033",
@@ -714,7 +728,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-034",
@@ -736,7 +751,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-035",
@@ -758,7 +774,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-036",
@@ -802,7 +819,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-038",
@@ -824,7 +842,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-039",
@@ -967,7 +986,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-046",
@@ -1199,7 +1219,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "baixo",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-057",
@@ -8259,7 +8280,8 @@
       "subject": "Neurônios",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, a unidade básica do sistema nervoso é a célula nervosa, ou neurônio, sendo que o cérebro humano contém aproximadamente: O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-378",
@@ -8283,7 +8305,8 @@
       "subject": "Neurônios",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, um neurônio típico é composto por três estruturas principais: dendritos, corpo celular e: Um neurônio típico consiste em dendritos, corpo celular e axônio.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-379",
@@ -8307,7 +8330,8 @@
       "subject": "Neurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os dendritos são chamados de região de entrada receptiva porque: Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-380",
@@ -8331,7 +8355,8 @@
       "subject": "Neurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o corpo celular do neurônio é considerado o principal centro biossintético porque: O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-381",
@@ -8355,7 +8380,8 @@
       "subject": "Neurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o axônio surge de uma porção em forma de cone do corpo celular denominada: O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-382",
@@ -8379,7 +8405,8 @@
       "subject": "Neurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a camada gordurosa esbranquiçada que circunda os axônios, responsável por acelerar a condução do impulso nervoso, é chamada de: Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-383",
@@ -8403,7 +8430,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, existem seis tipos de neuroglia, sendo quatro encontrados no Sistema Nervoso Central e dois no: Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-384",
@@ -8427,7 +8455,8 @@
       "subject": "Astrócitos",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os astrócitos, células gliais mais abundantes do SNC, têm o formato de estrela e desempenham a função de: Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 4
     },
     {
       "id": "neuro-obj-385",
@@ -8451,7 +8480,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as células microgliais, encontradas no SNC, desempenham a função de: As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-386",
@@ -8475,7 +8505,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre: As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-387",
@@ -8499,7 +8530,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os oligodendrócitos, encontrados no SNC, têm como principal função: Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-388",
@@ -8523,7 +8555,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as células satélites, encontradas no Sistema Nervoso Periférico, são análogas, em função, aos seguintes tipos celulares do SNC: As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-389",
@@ -8547,7 +8580,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as células de Schwann, encontradas no Sistema Nervoso Periférico, desempenham função semelhante à dos oligodendrócitos no SNC, sendo responsáveis por: As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-390",
@@ -8571,7 +8605,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a bainha de mielina formada pelas células de Schwann é interrompida em intervalos regulares por estruturas denominadas: A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-obj-391",
@@ -8595,7 +8630,8 @@
       "subject": "Tipos de neurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, em termos de função, os cientistas classificam os neurônios em três grandes tipos: sensoriais, motores e: Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 5
     },
     {
       "id": "neuro-obj-392",
@@ -8619,7 +8655,8 @@
       "subject": "Neurônios sensoriais",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os neurônios sensoriais são acionados por estímulos físicos (som, toque, calor, luz) e estímulos químicos, sendo estes últimos representados por: Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 6
     },
     {
       "id": "neuro-obj-393",
@@ -8643,7 +8680,8 @@
       "subject": "Neurônios sensoriais",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, no exemplo de uma pessoa que pisa na areia quente, os neurônios sensoriais ativados nas solas dos pés enviam uma mensagem que torna o cérebro ciente: Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 6
     },
     {
       "id": "neuro-obj-394",
@@ -8667,7 +8705,8 @@
       "subject": "Neurônios motores",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os neurônios motores inferiores são responsáveis por carregar sinais: Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 7
     },
     {
       "id": "neuro-obj-395",
@@ -8691,7 +8730,8 @@
       "subject": "Neurônios motores",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os neurônios motores superiores são responsáveis por transportar sinais entre: Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 7
     },
     {
       "id": "neuro-obj-396",
@@ -8715,7 +8755,8 @@
       "subject": "Interneurônios",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os interneurônios, considerados o tipo mais comum de neurônio, são encontrados principalmente: Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 8
     },
     {
       "id": "neuro-obj-397",
@@ -8739,7 +8780,8 @@
       "subject": "Interneurônios",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, no exemplo de uma pessoa que toca em algo quente e retira a mão rapidamente enquanto sente dor, os interneurônios da medula espinhal desempenham o papel de: Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 8
     },
     {
       "id": "neuro-obj-398",
@@ -8763,7 +8805,8 @@
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a membrana plasmática do neurônio é composta, em cerca de metade de sua estrutura, por uma bicamada de: Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 9
     },
     {
       "id": "neuro-obj-399",
@@ -8787,7 +8830,8 @@
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as extremidades das moléculas de fosfolipídios que compõem a membrana do neurônio são classificadas como hidrofílicas (voltadas para os meios aquosos) e: Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 9
     },
     {
       "id": "neuro-obj-400",
@@ -8811,7 +8855,8 @@
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, as proteínas embutidas na bicamada lipídica da membrana do neurônio podem formar canais que permitem a passagem de íons, sendo essa ação o mecanismo fundamental que determina: As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 9
     },
     {
       "id": "neuro-obj-401",
@@ -8835,7 +8880,8 @@
       "subject": "Sinapses",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, na sinapse química, os neurotransmissores são liberados na finalização pré-sináptica, cruzam a fenda sináptica e se ligam a receptores localizados: Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-obj-402",
@@ -8859,7 +8905,8 @@
       "subject": "Sinapses",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os neurotransmissores liberados em uma sinapse química podem excitar o neurônio pós-sináptico, gerando um potencial de ação, ou podem: Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-obj-403",
@@ -8883,7 +8930,8 @@
       "subject": "Sinapses elétricas",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, as sinapses elétricas, diferentemente das sinapses químicas, ocorrem quando dois neurônios são conectados por uma junção de lacuna, sendo uma característica dessas sinapses: As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 11
     },
     {
       "id": "neuro-obj-404",
@@ -8907,7 +8955,8 @@
       "subject": "Sinapses",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o espaço localizado entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde ocorre a passagem do impulso nervoso, é denominado: O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-obj-405",
@@ -8931,7 +8980,8 @@
       "subject": "Astrócitos",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, dentre as funções dos astrócitos relacionadas à homeostase do Sistema Nervoso Central, destaca-se a capacidade de: Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 4
     },
     {
       "id": "neuro-obj-406",
@@ -8955,7 +9005,8 @@
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, o citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de: O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 9
     },
     {
       "id": "neuro-obj-407",
@@ -8979,7 +9030,8 @@
       "subject": "Tecido nervoso",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o tecido nervoso, uma das quatro classes principais de tecidos, é composto por duas categorias de células: os neurônios e: O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 1
     },
     {
       "id": "neuro-obj-408",
@@ -9003,7 +9055,8 @@
       "subject": "Sinapses",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando um neurônio envia uma mensagem a outro, o sinal elétrico percorre o axônio e, ao chegar ao seu final, se transforma em um sinal: Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-obj-409",
@@ -9027,7 +9080,8 @@
       "subject": "Neurônios",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, os feixes de axônios espalhados pelo corpo, que permitem a comunicação entre neurônios mesmo a longas distâncias, são chamados de: Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-obj-410",
@@ -9050,7 +9104,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o sistema nervoso possui três funções amplas: entrada sensorial, processamento de informações e: O sistema nervoso tem três funções amplas: entrada sensorial, processamento de informações e saída motora.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-411",
@@ -9073,7 +9128,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, é chamada de: A entrada sensorial é a soma total das informações coletadas pelos receptores sensoriais, que respondem a estímulos físicos do ambiente, como toque ou temperatura.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-412",
@@ -9096,7 +9152,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a divisão do sistema nervoso é considerada puramente didática, pois: A divisão do sistema nervoso é puramente didática, visto que as partes estão intimamente relacionadas do ponto de vista morfofisiológico.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-413",
@@ -9119,7 +9176,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Central pode ser amplamente subdividido em centros inferiores, que incluem a medula espinhal e o tronco cerebral, e centros superiores, localizados: Os centros inferiores incluem a medula espinhal e o tronco cerebral, realizando funções essenciais de controle do corpo; os centros superiores estão dentro do cérebro, controlando o processamento de informações mais sofisticado, como pensamentos e percepções.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-414",
@@ -9142,7 +9200,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, por convenção, um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de: Um agrupamento de corpos celulares de neurônios na substância cinzenta do cérebro ou da medula espinhal é chamado de núcleo, enquanto um agrupamento na periferia é chamado de gânglio.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-415",
@@ -9165,7 +9224,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, uma exceção notável à regra de que agrupamentos neuronais na periferia são chamados de gânglios é constituída pelos: Existem exceções notáveis à regra de nomenclatura núcleo/gânglio, incluindo os gânglios da base, uma estrutura localizada no cérebro (prosencéfalo), e não na periferia.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-416",
@@ -9188,7 +9248,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a substância cinzenta contém uma proporção relativamente alta de corpos celulares de neurônios, sendo cinza no tecido preservado, mas apresentando qual coloração no tecido vivo? A substância cinzenta é cinza no tecido preservado, mas rosa ou marrom-claro no tecido vivo, contendo alta proporção de corpos celulares de neurônios.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-417",
@@ -9211,7 +9272,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a substância branca é composta principalmente de axônios, recebendo esse nome devido à cor do isolamento de gordura chamado: A substância branca é composta principalmente de axônios e recebe esse nome devido à cor do isolamento de gordura chamado mielina, que reveste muitos axônios.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-418",
@@ -9234,7 +9296,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é uma vasta rede de nervos formada por feixes de axônios que ligam o corpo: O Sistema Nervoso Periférico (SNP) é uma vasta rede de nervos que consiste em feixes de axônios que ligam o corpo ao cérebro e à medula espinhal.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-419",
@@ -9257,7 +9320,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a informação captada pelos receptores sensoriais do SNP é enviada ao SNC por meio dos nervos sensoriais: Os nervos sensoriais do SNP contêm receptores sensoriais que detectam mudanças no ambiente; essa informação é enviada ao SNC por meio dos nervos sensoriais aferentes.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-420",
@@ -9280,7 +9344,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos: Após o processamento da informação no SNC, os sinais são retransmitidos de volta ao SNP por meio de nervos periféricos eferentes.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-421",
@@ -9303,7 +9368,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é subdividido em Sistema Nervoso Autônomo (SNA) e: O SNP é subdividido em Sistema Nervoso Autônomo (SNA), com controle involuntário, e Sistema Nervoso Somático (SNS), com controle voluntário via músculo esquelético.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-422",
@@ -9326,7 +9392,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo tem controle involuntário sobre órgãos internos, vasos sanguíneos e músculos lisos e cardíacos, afetando, entre outras funções: O SNA afeta a frequência cardíaca, digestão, frequência respiratória, salivação, transpiração, diâmetro da pupila, micção e excitação sexual.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-423",
@@ -9349,7 +9416,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo é classicamente dividido em dois subsistemas: o Sistema Nervoso Simpático e o: O SNA é classicamente dividido em dois subsistemas: o Sistema Nervoso Parassimpático (SNPS) e o Sistema Nervoso Simpático (SNS).",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-424",
@@ -9372,7 +9440,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo: O Sistema Nervoso Parassimpático é responsável pela estimulação das atividades de 'repouso e digestão', incluindo excitação sexual, salivação, lacrimejamento, micção, digestão e defecação.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-425",
@@ -9395,7 +9464,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o Sistema Nervoso Simpático é responsável por estimular as atividades associadas à resposta de: O Sistema Nervoso Simpático é responsável por estimular atividades associadas à resposta de 'lutar ou fugir', mobilizando os sistemas do corpo para escapar ou atacar fontes de perigo.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-426",
@@ -9418,7 +9488,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Entérico (SNE), responsável por controlar o sistema gastrointestinal, apresenta como característica particular o fato de: O Sistema Nervoso Entérico controla o sistema gastrointestinal e pode ser considerado parte do SNA ou um sistema independente, já que pode operar independentemente do cérebro e da medula espinhal.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-427",
@@ -9441,7 +9512,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, no Sistema Nervoso Periférico, os feixes de axônios são chamados de nervos, enquanto no Sistema Nervoso Central esses feixes são chamados de: No SNC, os feixes de axônios são chamados de tratos, enquanto no SNP são chamados de nervos.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-428",
@@ -9464,7 +9536,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, cada nervo periférico é coberto externamente por uma densa bainha de tecido conjuntivo denominada: Cada nervo é coberto externamente por uma densa bainha de tecido conjuntivo, o epineuro.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-429",
@@ -9487,7 +9560,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, o perineuro forma uma manga completa em torno de um feixe de axônios chamado de: Subjacente ao epineuro, o perineuro forma uma manga completa em torno de um feixe de axônios chamados de fascículos.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-430",
@@ -9510,7 +9584,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o nervo mais longo do corpo humano, que vai da base da medula espinhal ao dedão de cada pé, é o nervo: Os axônios mais longos do corpo humano são os do nervo ciático, que vão da base da medula espinhal ao dedão de cada pé.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-431",
@@ -9533,7 +9608,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, existem 12 pares de nervos cranianos e quantos pares de nervos espinhais? Existem 12 pares de nervos cranianos e 31 pares de nervos espinhais no Sistema Nervoso Periférico.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-432",
@@ -9556,7 +9632,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente: Os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro, especialmente ao tronco cerebral.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-433",
@@ -9579,7 +9656,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o potencial de membrana em repouso de um neurônio é de aproximadamente: O potencial de membrana em repouso de um neurônio é de cerca de -70mV, significando que o interior do neurônio é 70mV menor que o exterior.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-434",
@@ -9602,7 +9680,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando a despolarização de um neurônio atinge cerca de -55mV, ocorre o disparo de um potencial de ação; esse valor é chamado de: Quando a despolarização atinge cerca de -55mV, um neurônio dispara um potencial de ação; esse é o limiar, o nível crítico necessário para o disparo.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-435",
@@ -9625,7 +9704,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o princípio segundo o qual o estímulo é suficientemente intenso para excitar o neurônio e desencadear um potencial de ação de tamanho sempre igual, ou nada acontece, é conhecido como: A estimulação de um neurônio segue a lei do tudo ou nada: ou o estímulo é suficientemente intenso para desencadear o potencial de ação (de tamanho sempre igual), ou nada acontece.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-436",
@@ -9648,7 +9728,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, o Sistema Nervoso Central é formado pelo encéfalo e pela medula espinhal, enquanto o Sistema Nervoso Periférico é constituído por: O SNC é formado pelo encéfalo e a medula espinhal, enquanto o SNP é constituído pelos nervos e gânglios nervosos.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-437",
@@ -9671,7 +9752,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando um estímulo faz com que os canais de sódio se abram, os íons de sódio invadem o neurônio, tornando-o mais positivo; esse processo é denominado: Um estímulo faz com que os canais de sódio se abram; como o sódio tem carga positiva e invade o neurônio, este se torna mais positivo, processo chamado de despolarização.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-438",
@@ -9694,7 +9776,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando os canais de potássio se abrem e o potássio sai da célula, revertendo a despolarização e retornando o potencial ao valor próximo de -70mV, esse processo é chamado de: A abertura dos canais de potássio faz com que o potássio saia da célula, revertendo a despolarização; isso faz com que o potencial de ação volte para -70mV, processo chamado de repolarização.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-obj-439",
@@ -9717,7 +9800,8 @@
       "subject": "Organização e divisões funcionais do sistema nervoso",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a resposta motora voluntária, ligada à contração do músculo esquelético, é governada pelo Sistema Nervoso Somático, enquanto as respostas involuntárias são governadas pelo: As respostas voluntárias são governadas pelo Sistema Nervoso Somático, e as respostas involuntárias, pelo Sistema Nervoso Autônomo.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-440",
@@ -9740,7 +9824,8 @@
       "subject": "Organização e divisões funcionais do sistema nervoso",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando a informação sensorial surge de receptores localizados na pele, em músculos esqueléticos ou articulações, ela é classificada como informação sensorial: Quando a informação sensorial surge de receptores na pele, músculos esqueléticos ou articulações, entende-se por informação sensorial somática.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-441",
@@ -9763,7 +9848,8 @@
       "subject": "Organização e divisões funcionais do sistema nervoso",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quando a informação sensorial surge de receptores localizados nos vasos sanguíneos ou órgãos internos, ela é classificada como informação sensorial: Quando a informação sensorial surge de receptores sensoriais nos vasos sanguíneos ou órgãos internos, entende-se por informação sensorial visceral.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-442",
@@ -9786,7 +9872,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o desenvolvimento neural é considerado um dos primeiros sistemas a começar e: O desenvolvimento neural é um dos primeiros sistemas a começar e o último a ser concluído após o nascimento, o que faz com que insultos no útero possam ter consequências duradouras para o sistema nervoso.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-443",
@@ -9809,7 +9896,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Central inicialmente se forma a partir de uma placa neural simples que se dobra para formar, sucessivamente: O SNC começa como uma placa neural simples que se dobra para formar um sulco neural e, em seguida, o tubo neural.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-444",
@@ -9832,7 +9920,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a falha do fechamento das aberturas do tubo neural (neuróporos) contribui com uma classe importante de anormalidades neurais, conhecidas como: O tubo neural inicial é aberto em cada extremidade, formando os neuróporos; a falha dessa abertura para fechar contribui com uma classe importante de anormalidades neurais, os defeitos do tubo neural.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-445",
@@ -9855,7 +9944,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Central envolve três camadas germinativas: ectoderma, mesoderma e: O SNC envolve três camadas germinativas: ectoderma, endoderma e mesoderma.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-446",
@@ -9878,7 +9968,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o ectoderma é a principal estrutura iniciadora na embriogênese do SNC, sendo subespecializado em ectoderma de superfície e ectoderma neural, este último dando origem ao tubo neural e à: O ectoderma neural dá origem ao tubo neural e à crista neural, que, posteriormente, dá origem ao cérebro, à medula espinhal e aos nervos periféricos.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-447",
@@ -9901,7 +9992,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o mesoderma paraxial dá origem principalmente: O mesoderma paraxial contém principalmente somitos que dão origem ao esqueleto axial, à derme e ao músculo.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-448",
@@ -9924,7 +10016,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o mesoderma intermediário dá origem, principalmente: O mesoderma intermediário dá origem às gônadas, aos rins e às estruturas urogenitais.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-449",
@@ -9947,7 +10040,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, além de órgãos abdominais como: O endoderma dá origem ao revestimento dos sistemas gastrointestinal e respiratório, e também a órgãos abdominais como fígado, pâncreas e bexiga.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-450",
@@ -9970,7 +10064,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a linha primitiva cresce da região caudal para a cranial e induz a formação de uma estrutura celular semelhante a um bastão fino, denominada: A linha primitiva cresce da caudal ao cranial e induz a formação de notocórdio, uma estrutura celular semelhante a um bastão fino formada durante o desenvolvimento embrionário.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-451",
@@ -9993,7 +10088,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a neurulação refere-se ao dobramento da placa neural, processo induzido pelo notocórdio, que dá origem ao neuroectoderma e, finalmente, forma o SNC. Os dois terços craniais do neuroectoderma formam o cérebro, enquanto o terço caudal forma: A neurulação é o dobramento da placa neural em tubo neural (neuroectoderma); dois terços craniais do neuroectoderma formam o cérebro, e o terço caudal forma a medula espinhal.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-452",
@@ -10016,7 +10112,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, as células da crista neural formam os gânglios da raiz dorsal e: As células da crista neural formam os gânglios da raiz dorsal e o tecido conjuntivo na cabeça e no pescoço.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-453",
@@ -10039,7 +10136,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a medula espinhal é formada a partir da placa neural e contém três camadas: a camada ventricular, a camada marginal e a camada: A medula espinhal formada a partir da placa neural contém três camadas: a camada ventricular (reveste o canal central), a camada do manto (contém corpos neuronais, formará a massa cinzenta) e a camada marginal (contém axônios, formará a substância branca).",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-454",
@@ -10062,7 +10160,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a camada do manto da medula espinhal em desenvolvimento contém corpos neuronais que, eventualmente, formarão: A camada do manto contém corpos neuronais, os quais, eventualmente, formarão a massa cinzenta.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-455",
@@ -10085,7 +10184,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, o Sistema Nervoso Periférico é formado por células neuroepiteliais que viajam da pia-máter para a camada ventricular da medula espinhal, onde se diferenciam e migram para formar glioblastos, neurônios e: As células neuroepiteliais que formam o SNP se diferenciam e migram para formar glioblastos (células de suporte, células de Schwann), neurônios e células ependimárias.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-456",
@@ -10108,7 +10208,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a mielinização dos axônios periféricos ocorre por meio do neurolema, que vem das células de Schwann, enquanto a mielinização dos axônios do SNC ocorre via: A mielinização dos axônios do SNC ocorre via oligodendrócitos, que são derivados do neuroepitélio, enquanto a mielinização periférica ocorre via células de Schwann (derivadas da crista neural).",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-457",
@@ -10131,7 +10232,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, três camadas membranosas cobrem todo o SNC: a dura-máter, derivada do mesênquima circundante, e a aracnoide e a pia-máter, ambas derivadas: A dura-máter é derivada do mesênquima circundante; a aracnoide e a pia-máter são derivadas da crista neural.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-458",
@@ -10154,7 +10256,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em quantas vesículas cerebrais secundárias? Durante a formação do cérebro, existem três vesículas cerebrais primárias que se diferenciam em cinco vesículas cerebrais secundárias.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-459",
@@ -10177,7 +10280,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o encéfalo anterior (prosencéfalo) se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais responsáveis por: O prosencéfalo se diferencia em telencéfalo e diencéfalo, desenvolvendo-se nos hemisférios cerebrais, responsáveis pela consciência, transformação sensório-motora e integração sensorial.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-460",
@@ -10200,7 +10304,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o encéfalo posterior (rombencéfalo) se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e: O rombencéfalo se diferencia em metencéfalo e mielencéfalo, que posteriormente formarão o bulbo, a ponte e o cerebelo.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-461",
@@ -10223,7 +10328,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o metencéfalo corresponde ao crescimento dorsal do cerebelo, cuja função é: O metencéfalo corresponde ao crescimento dorsal do cerebelo, que integra informações sensoriais para ajustar a saída motora.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-462",
@@ -10246,7 +10352,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a hipófise posterior tem origem no hipotálamo, possuindo conexão direta com ele, enquanto a hipófise anterior é: A hipófise posterior é uma consequência do hipotálamo, com conexão direta; a hipófise anterior é um crescimento ectodérmico da boca, dependendo de uma densa rede capilar para se comunicar com o cérebro.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-463",
@@ -10269,7 +10376,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões altamente suscetíveis entre as semanas: A teratogênese é definida como qualquer fator externo que pode influenciar o crescimento do embrião; os embriões são altamente suscetíveis entre as semanas 3 e 8, quando os sistemas orgânicos se desenvolvem.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-464",
@@ -10292,7 +10400,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o disrafismo é definido como: O disrafismo é a falha de fusão entre metades simétricas de uma estrutura anatômica, incluindo as malformações da espinha bífida.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-465",
@@ -10315,7 +10424,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a espinha bífida oculta, forma menos grave de disrafismo, ocorre mais comumente na região: A espinha bífida oculta ocorre quando a coluna vertebral não consegue se fundir, mas outras camadas se desenvolvem normalmente; geralmente afeta a região lombossacra (L5 a S1 mais comumente).",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-466",
@@ -10338,7 +10448,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a forma mais grave de disrafismo, na qual os pacientes podem desenvolver incontinência urinária ou fecal, é a: A espinha bífida cística é a forma mais grave de disrafismo; os pacientes podem desenvolver incontinência urinária ou fecal, e 80% dessas lesões ocorrem na região lombossacra.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-467",
@@ -10361,7 +10472,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a encefalocele, malformação análoga à espinha bífida no crânio, caracteriza-se por: A encefalocele é a protrusão do cérebro no espaço subaracnóide, podendo estar associada à malformação de Chiari III e à fissura labiopalatina.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-468",
@@ -10384,7 +10496,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a anencefalia caracteriza-se pela ausência, geralmente, do córtex cerebral e das estruturas talâmicas, podendo ocorrer devido a: A anencefalia é onde o córtex cerebral e as estruturas talâmicas geralmente estão ausentes; pode ocorrer devido à falha da sinalização da notocorda, necessária para a indução da maturação das células da crista neural.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-469",
@@ -10407,7 +10520,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a holoprosencefalia é a falha de formação das características ao longo da linha média da face, podendo incluir incisivo central único e: A holoprosencefalia inclui características como incisivo central único, ciclopia ou hemisfério cerebral não pareado.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-470",
@@ -10430,7 +10544,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a craniorraquisquise total ocorre quando toda a placa neural não se dobra, deixando o SNC aberto para a cavidade amniótica, sendo frequentemente associada a: A craniorraquisquise total ocorre quando toda a placa neural não se dobra e o SNC está aberto para a cavidade amniótica, frequentemente associando-se a fetos natimortos.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-471",
@@ -10453,7 +10568,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, para evitar o desenvolvimento embriológico anormal, a mãe deve se abster de teratógenos, especialmente durante as semanas 3 a 8 da embriogênese, sendo exemplos significativos de teratógenos: Os teratógenos significativos incluem álcool, uso de tabaco, certos medicamentos prescritos e drogas ilícitas, dos quais a gestante deve se abster.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-472",
@@ -10476,7 +10592,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de: Mulheres que desejam engravidar ou que estão grávidas devem tomar multivitaminas, especialmente suplementos de ácido fólico, para ajudar no neurodesenvolvimento do bebê.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-473",
@@ -10499,7 +10616,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal, principalmente para evitar: Bebês nascidos com espinha bífida requerem avaliação adicional com ultrassom e correção cirúrgica da medula espinhal para evitar herniação ou outras complicações.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-474",
@@ -10522,7 +10640,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, o fosso primitivo é uma depressão localizada no centro do nó primitivo, correspondendo a: O fosso primitivo é uma depressão no centro do nó primitivo, que é uma abertura no canal notocordal.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-obj-475",
@@ -10545,7 +10664,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo pode ser dividido, principalmente, com base em uma diferença funcional nas respostas, em Sistema Nervoso Somático e: O sistema é dividido em duas partes com base em diferença funcional: Sistema Nervoso Somático (SNS) e Sistema Nervoso Autônomo (SNA).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-476",
@@ -10568,7 +10688,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Somático (SNS) é responsável pela percepção consciente e pelas respostas motoras voluntárias, que envolvem a contração: O Sistema Nervoso Somático é responsável pela percepção consciente e pelas respostas motoras voluntárias, que significam a contração do músculo esquelético.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-477",
@@ -10591,7 +10712,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, algumas respostas motoras somáticas são reflexos que acontecem sem uma decisão consciente, como no exemplo de uma pessoa que se assusta e salta para trás ao ouvir um grito repentino de um amigo, o que envolve: Algumas respostas motoras somáticas são reflexos que acontecem sem decisão consciente, mas ainda envolvem contrações do músculo esquelético, como no exemplo de se assustar e saltar para trás.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-478",
@@ -10614,7 +10736,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, respostas motoras que se tornam automáticas (inconscientes) conforme a pessoa aprende habilidades motoras são conhecidas como aprendizado de hábito ou: Respostas motoras que se tornam automáticas conforme a pessoa aprende habilidades motoras são conhecidas como 'aprendizado de hábito' ou 'memória procedural'.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-479",
@@ -10637,7 +10760,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Autônomo (SNA) é responsável pelo controle involuntário do corpo, geralmente com a finalidade de: O Sistema Nervoso Autônomo é responsável pelo controle involuntário do corpo, geralmente para fins de homeostase, ou seja, regulação do ambiente interno.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-480",
@@ -10660,7 +10784,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o exemplo das glândulas sudoríparas ilustra que, além do mecanismo homeostático (suar quando está com calor), a transpiração pode também ocorrer como: Quando se está com calor, a transpiração é um mecanismo homeostático; mas, quando se está nervoso, a transpiração pode ocorrer como resposta fisiológica a um estado emocional, não homeostático.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-481",
@@ -10683,7 +10808,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, além das divisões simpática e parassimpática, existe outra divisão do Sistema Nervoso Autônomo relacionada às funções gastrointestinais, denominada: Existe uma região do SNP chamada Sistema Nervoso Entérico, responsável pelo controle do músculo liso e do tecido glandular do sistema digestivo.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-482",
@@ -10706,7 +10832,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Entérico (SNE) é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo, sendo uma característica particular desse sistema: O SNE é responsável por controlar o músculo liso e o tecido glandular do sistema digestivo e trata-se de uma grande parte do SNP que não depende do SNC.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-483",
@@ -10729,7 +10856,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "baixo",
       "miniLesson": "Segundo o material, além do sistema endócrino, o Sistema Nervoso Autônomo é fundamental para os mecanismos homeostáticos do corpo, sendo suas duas divisões principais a divisão simpática e a divisão: As duas divisões do sistema nervoso autônomo são a divisão simpática e a divisão parassimpática, que atuam em equilíbrio para a homeostase.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-484",
@@ -10752,7 +10880,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, no exemplo da inervação dupla do coração, uma divisão do SNA faz a frequência cardíaca aumentar, enquanto a outra: O coração recebe conexões das divisões simpática e parassimpática; uma faz a frequência cardíaca aumentar, enquanto a outra causa uma diminuição dessa frequência.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-485",
@@ -10775,7 +10904,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e: O Sistema Nervoso Simpático estende-se das vértebras torácicas às lombares e possui conexões com os plexos torácico, aórtico abdominal e pélvico.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-486",
@@ -10798,7 +10928,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, as fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina e, em menor grau, de: As fibras simpáticas pré-ganglionares que terminam na medula adrenal secretam acetilcolina, que ativa a secreção de adrenalina (epinefrina) e, em menor grau, de noradrenalina (norepinefrina).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-487",
@@ -10821,7 +10952,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Simpático é responsável por regular diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e: As fibras do SNS fornecem regulação fisiológica sobre diversos processos do corpo, incluindo o diâmetro da pupila, a motilidade intestinal e o débito urinário.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-488",
@@ -10844,7 +10976,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a resposta de luta ou fuga, também conhecida como resposta simpático-adrenal, foi descrita pela primeira vez pelo fisiologista e médico estadunidense: A resposta de luta ou fuga foi descrita pela primeira vez por Walter Bradford Cannon (1871-1945), fisiologista e médico estadunidense.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-489",
@@ -10867,7 +11000,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a teoria de Cannon afirma que os animais reagem às ameaças com uma descarga geral do Sistema Nervoso Simpático, preparando o animal para lutar ou fugir, sendo essa resposta reconhecida como o primeiro estágio de uma: A resposta de luta ou fuga foi reconhecida como o primeiro estágio de uma síndrome de adaptação geral que regula as respostas ao estresse entre vertebrados e outros organismos.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-490",
@@ -10890,7 +11024,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, entre as reações físicas imediatas facilitadas pelos hormônios catecolaminas na resposta de luta ou fuga, está a aceleração da ação cardíaca e pulmonar, e também: Entre as reações físicas da resposta de luta ou fuga estão a dilatação da pupila (midríase), além de aceleração cardíaca e pulmonar, entre outras.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-491",
@@ -10913,7 +11048,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, entre os efeitos da resposta de luta ou fuga, ocorre a inibição da ação do estômago e do intestino superior, fazendo com que: Entre os efeitos da resposta de luta ou fuga está a inibição da ação do estômago e do intestino superior, a ponto de a digestão diminuir ou parar.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-492",
@@ -10936,7 +11072,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, quanto às diferenças entre os sexos na resposta ao estresse, o material aponta que os homens são mais propensos a responder com agressão (lutar), enquanto as mulheres são mais propensas a: As mulheres são mais propensas a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem a responder com agressão.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-493",
@@ -10959,7 +11096,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático é considerado um sistema de amortecimento de ativação lenta, sendo sua ação descrita como complementar à do Sistema Nervoso Simpático, responsável por estimular as atividades associadas à resposta de: O Sistema Nervoso Parassimpático regula funções de repouso e digestão, e sua ação é complementar à do Sistema Nervoso Simpático, responsável pela resposta de luta ou fuga.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-494",
@@ -10982,7 +11120,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático utiliza, principalmente, qual neurotransmissor? O Sistema Nervoso Parassimpático utiliza, principalmente, a acetilcolina (ACh) como seu neurotransmissor, embora peptídeos também possam atuar.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-495",
@@ -11005,7 +11144,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, a acetilcolina liberada pelo Sistema Nervoso Parassimpático atua sobre dois tipos de receptores colinérgicos, os receptores: A acetilcolina (ACh) atua sobre dois tipos de receptores colinérgicos: os muscarínicos e os nicotínicos.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-496",
@@ -11028,7 +11168,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, na transmissão do Sistema Nervoso Parassimpático, o nervo pré-ganglionar libera ACh no gânglio, que atua nos receptores nicotínicos dos neurônios pós-ganglionares; em seguida, o nervo pós-ganglionar libera ACh para estimular os receptores: Na transmissão parassimpática, o nervo pré-ganglionar libera ACh no gânglio (receptores nicotínicos), e o nervo pós-ganglionar libera ACh para estimular os receptores muscarínicos do órgão-alvo.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-497",
@@ -11051,7 +11192,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a divisão simpática pode ser comparada, por analogia, ao acelerador de um veículo, enquanto a divisão parassimpática pode ser comparada: Por analogia, pode-se pensar na divisão simpática como o acelerador e na divisão parassimpática como o freio.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-498",
@@ -11074,7 +11216,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, a divisão simpática normalmente funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que: A divisão simpática funciona em ações que requerem respostas rápidas, enquanto a divisão parassimpática funciona com ações que não requerem reação imediata.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-499",
@@ -11097,7 +11240,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, pode-se considerar o sistema simpático como associado a 'lutar ou fugir', enquanto o parassimpático pode ser considerado associado a: Considere simpático como lutar ou fugir e parassimpático como descansar e digerir ou alimentar e procriar.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-500",
@@ -11120,7 +11264,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o nervo vago, que representa a principal via parassimpática relacionada ao coração, ao ser estimulado, provoca: O nervo vago (via parassimpática) libera acetilcolina, que promove a redução da frequência cardíaca na sua ação sobre o nodo sinoatrial (marca-passo cardíaco).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-501",
@@ -11143,7 +11288,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os nervos simpáticos que inervam o coração liberam, como neurotransmissor, a adrenalina, provocando: Os nervos simpáticos que liberam adrenalina no coração provocam aceleração da frequência cardíaca, em oposição ao efeito parassimpático.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-502",
@@ -11166,7 +11312,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas, que geram as alterações no corpo para a reação de luta ou fuga, são: Os hormônios produzidos pela medula da glândula suprarrenal, chamados conjuntamente de catecolaminas (adrenalina e noradrenalina), são liberados a partir da estimulação simpática, gerando as alterações da reação de luta ou fuga.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-503",
@@ -11189,7 +11336,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, entre as respostas parassimpáticas ilustradas, encontram-se a dilatação da pupila e a inibição da salivação. Essa afirmação está: É o Sistema Nervoso Simpático que dilata a pupila e inibe a salivação; o parassimpático, ao contrário, contrai a pupila e estimula o fluxo de saliva.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-504",
@@ -11212,7 +11360,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, o Sistema Nervoso Parassimpático estimula a produção e a liberação de bile, além de estimular: O Sistema Nervoso Parassimpático estimula o peristaltismo e a secreção do sistema digestivo, além de estimular a liberação de bile.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-505",
@@ -11235,7 +11384,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, entre os efeitos parassimpáticos descritos, o sistema também contrai a bexiga, ao passo que o Sistema Nervoso Simpático: O Sistema Nervoso Parassimpático contrai a bexiga (favorecendo a micção), enquanto o Sistema Nervoso Simpático inibe sua contração.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-506",
@@ -11258,7 +11408,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
       "miniLesson": "Segundo o material, é possível afirmar que as divisões simpática e parassimpática, embora normalmente funcionem em oposição, são mais bem compreendidas como de natureza: As divisões simpática e parassimpática normalmente funcionam em oposição, mas essa oposição é melhor entendida como complementar em natureza do que antagônica.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-obj-507",
@@ -12797,7 +12948,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-disc-002",
@@ -12853,7 +13005,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-disc-003",
@@ -12898,7 +13051,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-disc-004",
@@ -17699,7 +17853,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-disc-117",
@@ -17733,7 +17888,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-disc-118",
@@ -17766,7 +17922,8 @@
       },
       "subject": "Astrócitos",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 4
     },
     {
       "id": "neuro-disc-119",
@@ -17799,7 +17956,8 @@
       },
       "subject": "Neurônios motores",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 7
     },
     {
       "id": "neuro-disc-120",
@@ -17832,7 +17990,8 @@
       },
       "subject": "Interneurônios",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 8
     },
     {
       "id": "neuro-disc-121",
@@ -17872,7 +18031,8 @@
       },
       "subject": "Sinapses",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-disc-122",
@@ -17906,7 +18066,8 @@
       },
       "subject": "Sinapses elétricas",
       "difficulty": "dificil",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 11
     },
     {
       "id": "neuro-disc-123",
@@ -17939,7 +18100,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-disc-124",
@@ -17972,7 +18134,8 @@
       },
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "dificil",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 9
     },
     {
       "id": "neuro-disc-125",
@@ -18004,7 +18167,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-disc-126",
@@ -18037,7 +18201,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-127",
@@ -18077,7 +18242,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "dificil",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-128",
@@ -18110,7 +18276,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-129",
@@ -18143,7 +18310,8 @@
       },
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-130",
@@ -18175,7 +18343,8 @@
       },
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-131",
@@ -18207,7 +18376,8 @@
       },
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-132",
@@ -18247,7 +18417,8 @@
       },
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "dificil",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-disc-133",
@@ -18280,7 +18451,8 @@
       },
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-disc-134",
@@ -18313,7 +18485,8 @@
       },
       "subject": "Organização e divisões funcionais do sistema nervoso",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-135",
@@ -18353,7 +18526,8 @@
       },
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "dificil",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-disc-136",
@@ -18394,7 +18568,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-137",
@@ -18436,7 +18611,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-138",
@@ -18476,7 +18652,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-139",
@@ -18508,7 +18685,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-140",
@@ -18549,7 +18727,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-141",
@@ -18582,7 +18761,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-142",
@@ -18623,7 +18803,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-143",
@@ -18664,7 +18845,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-144",
@@ -18704,7 +18886,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "dificil",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-145",
@@ -18736,7 +18919,8 @@
       },
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-disc-146",
@@ -18770,7 +18954,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-147",
@@ -18808,7 +18993,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-148",
@@ -18855,7 +19041,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-149",
@@ -18887,7 +19074,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-150",
@@ -18919,7 +19107,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-151",
@@ -18953,7 +19142,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-152",
@@ -18985,7 +19175,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "dificil",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-153",
@@ -19017,7 +19208,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-154",
@@ -19049,7 +19241,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-155",
@@ -19087,7 +19280,8 @@
       },
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-disc-156",
@@ -19861,7 +20055,8 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-oral-002",
@@ -19912,7 +20107,8 @@
       },
       "subject": "Neuroglia",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-oral-003",
@@ -19953,7 +20149,8 @@
       },
       "subject": "Sinapses",
       "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-oral-004",
@@ -23673,7 +23870,8 @@
       "subject": "Neurônios",
       "difficulty": "baixo",
       "miniLesson": "Quais são as três estruturas básicas de um neurônio típico? Dendritos, corpo celular e axônio.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 2
     },
     {
       "id": "neuro-oral-117",
@@ -23697,7 +23895,8 @@
       "subject": "Astrócitos",
       "difficulty": "medio",
       "miniLesson": "Qual célula glial é responsável por nutrir os neurônios, transferindo nutrientes dos vasos sanguíneos? Os astrócitos.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 4
     },
     {
       "id": "neuro-oral-118",
@@ -23721,7 +23920,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Central? Os oligodendrócitos.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-oral-119",
@@ -23745,7 +23945,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Periférico? As células de Schwann.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-oral-120",
@@ -23769,7 +23970,8 @@
       "subject": "Interneurônios",
       "difficulty": "medio",
       "miniLesson": "Qual é o tipo mais comum de neurônio, encontrado no cérebro e na medula espinhal? Os interneurônios.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 8
     },
     {
       "id": "neuro-oral-121",
@@ -23794,7 +23996,8 @@
       "subject": "Sinapses",
       "difficulty": "medio",
       "miniLesson": "O que é a sinapse? É o espaço entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde neurotransmissores são liberados para garantir a passagem do impulso nervoso.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 10
     },
     {
       "id": "neuro-oral-122",
@@ -23819,7 +24022,8 @@
       "subject": "Sinapses elétricas",
       "difficulty": "medio",
       "miniLesson": "Qual é a diferença de velocidade entre sinapses elétricas e sinapses químicas? As sinapses elétricas são muito mais rápidas do que as sinapses químicas, embora sejam menos eficazes na transmissão, pois o sinal diminui de um neurônio para o outro.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 11
     },
     {
       "id": "neuro-oral-123",
@@ -23843,7 +24047,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "Que estrutura interrompe em intervalos regulares a bainha de mielina formada pelas células de Schwann? Os nós de Ranvier.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-oral-124",
@@ -23868,7 +24073,8 @@
       "subject": "Neurônios sensoriais",
       "difficulty": "medio",
       "miniLesson": "Quais são os dois tipos de estímulo que ativam os neurônios sensoriais, segundo o material? Estímulos físicos (como som, toque, calor e luz) e estímulos químicos (como olfato e sabor).",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 6
     },
     {
       "id": "neuro-oral-125",
@@ -23893,7 +24099,8 @@
       "subject": "Neuroglia",
       "difficulty": "medio",
       "miniLesson": "O que fazem as células microgliais diante de um microrganismo invasor ou de neurônios mortos? Podem se transformar em macrófagos fagocíticos, ajudando na limpeza dos restos neuronais.",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia"
+      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
+      "order": 3
     },
     {
       "id": "neuro-oral-126",
@@ -23918,7 +24125,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "baixo",
       "miniLesson": "Quais são as três funções amplas do sistema nervoso? Entrada sensorial, processamento de informações e saída motora.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-127",
@@ -23942,7 +24150,8 @@
       "subject": "Sistema Nervoso Central e Periférico",
       "difficulty": "medio",
       "miniLesson": "Como se chama um agrupamento de corpos celulares de neurônios na periferia? Gânglio.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-128",
@@ -23967,7 +24176,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "medio",
       "miniLesson": "Em quais dois subsistemas o Sistema Nervoso Autônomo é classicamente dividido? Sistema Nervoso Simpático e Sistema Nervoso Parassimpático.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-129",
@@ -23991,7 +24201,8 @@
       "subject": "Sistema Nervoso Autônomo e Sistema Nervoso Somático",
       "difficulty": "baixo",
       "miniLesson": "Qual sistema é responsável pela resposta de 'lutar ou fugir'? O Sistema Nervoso Simpático.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-130",
@@ -24016,7 +24227,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Quantos pares de nervos cranianos e quantos pares de nervos espinhais existem? 12 pares de nervos cranianos e 31 pares de nervos espinhais.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-131",
@@ -24040,7 +24252,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Qual é o potencial de membrana em repouso de um neurônio? Cerca de -70mV.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-132",
@@ -24064,7 +24277,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Em que valor de despolarização o neurônio dispara um potencial de ação (limiar)? Cerca de -55mV.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-133",
@@ -24089,7 +24303,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "O que estabelece o princípio do 'tudo ou nada'? Que o estímulo é suficientemente intenso para desencadear um potencial de ação de tamanho fixo, ou nada acontece — não existem potenciais de ação mais fortes ou mais fracos.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-134",
@@ -24113,7 +24328,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Como se chama a camada de tecido conjuntivo que cobre externamente cada nervo periférico? Epineuro.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-135",
@@ -24137,7 +24353,8 @@
       "subject": "Neuroanatomofisiologia celular",
       "difficulty": "medio",
       "miniLesson": "Qual é o nervo mais longo do corpo humano? O nervo ciático.",
-      "section": "2. Organização morfofisiológica do sistema nervoso"
+      "section": "2. Organização morfofisiológica do sistema nervoso",
+      "order": 3
     },
     {
       "id": "neuro-oral-136",
@@ -24163,7 +24380,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
       "miniLesson": "Quais são as três camadas germinativas envolvidas na embriogênese do SNC? Ectoderma, mesoderma e endoderma.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-137",
@@ -24188,7 +24406,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "O que é a notocorda? É uma estrutura celular semelhante a um bastão fino, que se forma durante o desenvolvimento embrionário e induz a formação da placa neural.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-138",
@@ -24213,7 +24432,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "O que é a neurulação? É o dobramento da placa neural, induzido pelo notocórdio, que forma o tubo neural (neuroectoderma), dando origem ao SNC.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-139",
@@ -24237,7 +24457,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Qual camada da medula espinhal em formação dará origem à substância branca? A camada marginal.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-140",
@@ -24262,7 +24483,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Quantas vesículas cerebrais primárias existem e em quantas secundárias elas se diferenciam? Existem três vesículas cerebrais primárias, que se diferenciam em cinco vesículas cerebrais secundárias.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-141",
@@ -24288,7 +24510,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "O rombencéfalo dá origem a quais estruturas? Ao bulbo, à ponte e ao cerebelo.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-142",
@@ -24312,7 +24535,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "O que é a teratogênese? É definida como qualquer fator externo que pode influenciar o crescimento do embrião, sendo os embriões mais suscetíveis entre as semanas 3 e 8.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-143",
@@ -24336,7 +24560,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "Qual é a forma mais grave de disrafismo mencionada no material? A espinha bífida cística.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-144",
@@ -24361,7 +24586,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "medio",
       "miniLesson": "O que caracteriza a anencefalia? A ausência, geralmente, do córtex cerebral e das estruturas talâmicas, embora cerebelo, tronco cerebral e medula espinhal possam estar presentes.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-145",
@@ -24385,7 +24611,8 @@
       "subject": "Desenvolvimento embrionário do SN",
       "difficulty": "baixo",
       "miniLesson": "Qual suplemento vitamínico é especialmente recomendado para gestantes ajudarem no neurodesenvolvimento fetal? Ácido fólico.",
-      "section": "3. Desenvolvimento embrionário do sistema nervoso"
+      "section": "3. Desenvolvimento embrionário do sistema nervoso",
+      "order": 1
     },
     {
       "id": "neuro-oral-146",
@@ -24410,7 +24637,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "baixo",
       "miniLesson": "Quais são as duas divisões clássicas do Sistema Nervoso Autônomo? Divisão simpática e divisão parassimpática.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-147",
@@ -24434,7 +24662,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Quem descreveu pela primeira vez a resposta de luta ou fuga? Walter Bradford Cannon.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-148",
@@ -24459,7 +24688,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Quais são as catecolaminas liberadas pela medula da glândula suprarrenal na resposta de luta ou fuga? Adrenalina e noradrenalina.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-149",
@@ -24483,7 +24713,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Qual neurotransmissor é utilizado principalmente pelo Sistema Nervoso Parassimpático? A acetilcolina (ACh).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-150",
@@ -24507,7 +24738,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Que efeito o nervo vago (via parassimpática) provoca sobre a frequência cardíaca? Diminuição da frequência cardíaca.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-151",
@@ -24532,7 +24764,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "O que acontece com a pupila sob ação do Sistema Nervoso Simpático? Ela se dilata (midríase).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-152",
@@ -24556,7 +24789,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Quais respostas motoras se tornam automáticas conforme a prática de habilidades? Como esse processo é chamado? Aprendizado de hábito, também conhecido como memória procedural.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-153",
@@ -24580,7 +24814,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "O que controla o Sistema Nervoso Entérico? O músculo liso e o tecido glandular do sistema digestivo.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-154",
@@ -24605,7 +24840,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Na analogia usada pelo material, a que se compara a divisão simpática e a que se compara a divisão parassimpática? A divisão simpática é comparada ao acelerador, e a parassimpática, ao freio.",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-155",
@@ -24629,7 +24865,8 @@
       "subject": "Sistema Nervoso Autônomo: fisiologia simpática e parassimpática",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, como as mulheres tendem a responder a situações estressantes, diferentemente dos homens? Tendem a fugir, pedir ajuda a outras pessoas ou tentar amenizar a situação (cuidar e fazer amizade), enquanto os homens tendem à agressão (lutar).",
-      "section": "4. Organização e a divisão do sistema nervoso"
+      "section": "4. Organização e a divisão do sistema nervoso",
+      "order": 2
     },
     {
       "id": "neuro-oral-156",
