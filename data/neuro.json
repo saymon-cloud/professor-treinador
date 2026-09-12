@@ -665,31 +665,6 @@
       "miniLesson": "Em relação à estrutura básica do neurônio, a sequência que representa corretamente o fluxo da informação nervosa é: A informação entra pelos dendritos, é integrada no corpo celular e conduzida para fora pelo axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
-      "id": "neuro-obj-031",
-      "topic": "Neurônios",
-      "question": "Neurônios que possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no sistema nervoso central (como os neurônios motores da medula), são classificados como:",
-      "options": {
-        "a": "Apolares",
-        "b": "Bipolares",
-        "c": "Multipolares",
-        "d": "Unipolares",
-        "e": "Pseudounipolares"
-      },
-      "correct": "c",
-      "explanation": "Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
-      "source": {
-        "folder": "1 Semestre/Neuroanatomofisiologia",
-        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
-        "citation": "BEAR; CONNORS; PARADISO, 2017"
-      },
-      "subject": "Neurônios",
-      "difficulty": "baixo",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2,
-      "miniLesson": "Neurônios que possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no sistema nervoso central (como os neurônios motores da medula), são classificados como: Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
-    },
-    {
       "id": "neuro-obj-032",
       "topic": "Neuroglia",
       "question": "As células gliais responsáveis pela produção da bainha de mielina no Sistema Nervoso Central são os:",
@@ -13014,52 +12989,6 @@
       "difficulty": "medio",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
-    },
-    {
-      "id": "neuro-disc-003",
-      "topic": "Neurônios",
-      "question": "Explique a diferença entre neurônios multipolares, bipolares e unipolares (pseudounipolares), dando um exemplo de localização de cada tipo.",
-      "modelAnswer": "Os neurônios são classificados morfologicamente de acordo com o número de prolongamentos que emergem do corpo celular. Os neurônios multipolares possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no Sistema Nervoso Central, como os motoneurônios da medula espinhal. Os neurônios bipolares apresentam apenas dois prolongamentos, um dendrito e um axônio, partindo de lados opostos do corpo celular; são encontrados, por exemplo, na retina e no epitélio olfatório. Já os neurônios pseudounipolares (ou unipolares) apresentam um único prolongamento que se bifurca em dois ramos, um periférico (que capta o estímulo sensitivo) e um central (que leva a informação até o SNC); esse tipo é típico dos neurônios sensitivos localizados nos gânglios das raízes dorsais dos nervos espinhais.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
-      "keyPoints": [
-        {
-          "text": "Multipolares: um axônio e vários dendritos, comuns no SNC (ex: motoneurônios)",
-          "weight": 3,
-          "keywords": [
-            "multipolar",
-            "vários dendritos",
-            "motoneurônio"
-          ]
-        },
-        {
-          "text": "Bipolares: um dendrito e um axônio, ex: retina e olfato",
-          "weight": 2,
-          "keywords": [
-            "bipolar",
-            "retina",
-            "olfato"
-          ]
-        },
-        {
-          "text": "Pseudounipolares: um prolongamento que se bifurca, típicos de gânglios sensitivos espinhais",
-          "weight": 3,
-          "keywords": [
-            "pseudounipolar",
-            "unipolar",
-            "gânglio espinhal",
-            "sensitivo"
-          ]
-        }
-      ],
-      "source": {
-        "folder": "1 Semestre/Neuroanatomofisiologia",
-        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
-        "citation": "BEAR; CONNORS; PARADISO, 2017"
-      },
-      "subject": "Neurônios",
-      "difficulty": "medio",
-      "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
     },
     {
       "id": "neuro-disc-004",
