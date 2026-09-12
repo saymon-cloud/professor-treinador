@@ -996,6 +996,11 @@ function startSession() {
   state.questions = questions; // usa o máximo de questões disponíveis
   state.index = 0;
   state.answers = [];
+  // Rascunho digitado e resultado já avaliado por questão (índice), para
+  // permitir pular uma discursiva e voltar a ela depois sem perder o que já
+  // foi escrito ou refazer uma correção que já tinha sido feita.
+  state.discDrafts = new Array(questions.length).fill("");
+  state.discResults = new Array(questions.length).fill(null);
 
   crumbsPath([
     state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel(),
@@ -1188,16 +1193,64 @@ document.getElementById("objNextBtn").addEventListener("click", () => {
 function renderDiscursive() {
   showScreen("screen-discursive");
   const q = state.questions[state.index];
+  const cached = state.discResults[state.index];
 
   document.getElementById("discProgress").style.width = (state.index / state.questions.length * 100) + "%";
   document.getElementById("discCounter").textContent = `Questão ${state.index + 1} de ${state.questions.length}`;
   document.getElementById("discTopic").textContent = (q.topic || "") + (q.difficulty ? "  ·  " + (DIFF_LABEL[q.difficulty] || q.difficulty) : "");
   document.getElementById("discQuestion").textContent = q.question;
-  document.getElementById("discAnswer").value = "";
-  document.getElementById("discAnswer").disabled = false;
-  document.getElementById("discFeedback").classList.add("hidden");
-  document.getElementById("discSubmitBtn").classList.remove("hidden");
-  document.getElementById("discNextBtn").classList.add("hidden");
+
+  const answerEl = document.getElementById("discAnswer");
+  const prevBtn = document.getElementById("discPrevBtn");
+  const submitBtn = document.getElementById("discSubmitBtn");
+  const skipBtn = document.getElementById("discSkipBtn");
+  const nextBtn = document.getElementById("discNextBtn");
+
+  prevBtn.disabled = state.index === 0;
+
+  if (cached) {
+    // Questão já respondida nesta sessão: mostra o que foi enviado e a
+    // correção já obtida, sem permitir reenviar; só navegação.
+    answerEl.value = state.discDrafts[state.index] || "";
+    answerEl.disabled = true;
+    renderOpenFeedback("discFeedback", cached, q);
+    document.getElementById("discFeedback").classList.remove("hidden");
+    submitBtn.classList.add("hidden");
+    skipBtn.classList.add("hidden");
+    nextBtn.classList.remove("hidden");
+  } else {
+    answerEl.value = state.discDrafts[state.index] || "";
+    answerEl.disabled = false;
+    document.getElementById("discFeedback").classList.add("hidden");
+    submitBtn.classList.remove("hidden");
+    submitBtn.disabled = false;
+    submitBtn.textContent = "Enviar resposta";
+    skipBtn.classList.remove("hidden");
+    nextBtn.classList.add("hidden");
+  }
+}
+
+// Salva o rascunho da questão atual (se ainda não enviada) e navega para
+// `newIndex`. Ao ultrapassar o fim da lista, volta para a primeira questão
+// ainda pendente (pulada) em vez de encerrar direto, e só finaliza a sessão
+// quando não sobrar nenhuma.
+function discGoTo(newIndex) {
+  if (!state.discResults[state.index]) {
+    state.discDrafts[state.index] = document.getElementById("discAnswer").value;
+  }
+  if (newIndex >= state.questions.length) {
+    const pendingIdx = state.discResults.findIndex(r => !r);
+    if (pendingIdx !== -1) {
+      state.index = pendingIdx;
+      renderDiscursive();
+      return;
+    }
+    document.getElementById("discProgress").style.width = "100%";
+    finishSession();
+    return;
+  }
+  state.index = Math.max(0, newIndex);
+  renderDiscursive();
 }
 
 document.getElementById("discSubmitBtn").addEventListener("click", async () => {
@@ -1214,6 +1267,8 @@ document.getElementById("discSubmitBtn").addEventListener("click", async () => {
   const result = await gradeAnswer(q, userText);
   renderOpenFeedback("discFeedback", result, q);
 
+  state.discResults[state.index] = result;
+  state.discDrafts[state.index] = userText;
   state.answers.push({ question: q.question, score: result.score, correct: result.score >= 6 });
   recordAnswer({ q, mode: "discursive", correct: result.score >= 6, userAnswer: userText, score: result.score });
   if (result.score < 6) {
@@ -1223,18 +1278,13 @@ document.getElementById("discSubmitBtn").addEventListener("click", async () => {
   btn.textContent = originalLabel;
   btn.disabled = false;
   btn.classList.add("hidden");
+  document.getElementById("discSkipBtn").classList.add("hidden");
   document.getElementById("discNextBtn").classList.remove("hidden");
 });
 
-document.getElementById("discNextBtn").addEventListener("click", () => {
-  state.index++;
-  if (state.index >= state.questions.length) {
-    document.getElementById("discProgress").style.width = "100%";
-    finishSession();
-  } else {
-    renderDiscursive();
-  }
-});
+document.getElementById("discPrevBtn").addEventListener("click", () => discGoTo(state.index - 1));
+document.getElementById("discSkipBtn").addEventListener("click", () => discGoTo(state.index + 1));
+document.getElementById("discNextBtn").addEventListener("click", () => discGoTo(state.index + 1));
 
 function renderOpenFeedback(boxId, result, q) {
   const fb = document.getElementById(boxId);
