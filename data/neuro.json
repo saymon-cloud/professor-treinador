@@ -13,17 +13,18 @@
         "e": "Sinapse"
       },
       "correct": "e",
-      "explanation": "A sinapse é o ponto de comunicação entre dois neurônios (ou entre neurônio e célula efetora), onde ocorre a liberação de neurotransmissores na fenda sináptica.",
+      "explanation": "A sinapse é o ponto de comunicação entre dois neurônios (ou entre neurônio e célula efetora), onde ocorre a liberação de neurotransmissores na fenda sináptica.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "9",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Sinapses",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 10
+      "order": 10,
+      "miniLesson": "A estrutura especializada por meio da qual um neurônio se comunica com outro, liberando neurotransmissores no espaço entre as duas células, é denominada: A sinapse é o ponto de comunicação entre dois neurônios (ou entre neurônio e célula efetora), onde ocorre a liberação de neurotransmissores na fenda sináptica.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante)."
     },
     {
       "id": "neuro-obj-002",
@@ -37,17 +38,18 @@
         "e": "Célula de Schwann"
       },
       "correct": "d",
-      "explanation": "Os astrócitos desempenham funções de suporte metabólico e nutricional aos neurônios, além de participarem da formação da barreira hematoencefálica.",
+      "explanation": "Os astrócitos desempenham funções de suporte metabólico e nutricional aos neurônios, além de participarem da formação da barreira hematoencefálica.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Astrócitos",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 4
+      "order": 4,
+      "miniLesson": "Dentre as células da neuroglia do Sistema Nervoso Central, aquela responsável principalmente por nutrir os neurônios, participar da barreira hematoencefálica e regular o ambiente químico extracelular é o(a): Os astrócitos desempenham funções de suporte metabólico e nutricional aos neurônios, além de participarem da formação da barreira hematoencefálica.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento."
     },
     {
       "id": "neuro-obj-003",
@@ -624,17 +626,18 @@
         "e": "Neurônios"
       },
       "correct": "e",
-      "explanation": "Os neurônios são as unidades funcionais especializadas em receber, processar e transmitir impulsos nervosos.",
+      "explanation": "Os neurônios são as unidades funcionais especializadas em receber, processar e transmitir impulsos nervosos.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
+      "order": 2,
+      "miniLesson": "São consideradas as unidades funcionais do sistema nervoso, especializadas em receber, processar e transmitir informações por meio de impulsos elétricos e químicos: Os neurônios são as unidades funcionais especializadas em receber, processar e transmitir impulsos nervosos.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
       "id": "neuro-obj-030",
@@ -648,17 +651,18 @@
         "e": "Dendrito - corpo celular - axônio"
       },
       "correct": "e",
-      "explanation": "A informação entra pelos dendritos, é integrada no corpo celular e conduzida para fora pelo axônio.",
+      "explanation": "A informação entra pelos dendritos, é integrada no corpo celular e conduzida para fora pelo axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
+      "order": 2,
+      "miniLesson": "Em relação à estrutura básica do neurônio, a sequência que representa corretamente o fluxo da informação nervosa é: A informação entra pelos dendritos, é integrada no corpo celular e conduzida para fora pelo axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
       "id": "neuro-obj-031",
@@ -672,7 +676,7 @@
         "e": "Pseudounipolares"
       },
       "correct": "c",
-      "explanation": "Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.",
+      "explanation": "Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -682,7 +686,8 @@
       "subject": "Neurônios",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
+      "order": 2,
+      "miniLesson": "Neurônios que possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no sistema nervoso central (como os neurônios motores da medula), são classificados como: Os neurônios multipolares possuem vários dendritos e um único axônio, sendo o tipo predominante no SNC.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
       "id": "neuro-obj-032",
@@ -696,17 +701,18 @@
         "e": "Células de Schwann"
       },
       "correct": "d",
-      "explanation": "Os oligodendrócitos produzem mielina no SNC, enquanto as células de Schwann exercem essa função no SNP.",
+      "explanation": "Os oligodendrócitos produzem mielina no SNC, enquanto as células de Schwann exercem essa função no SNP.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "6",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neuroglia",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 3
+      "order": 3,
+      "miniLesson": "As células gliais responsáveis pela produção da bainha de mielina no Sistema Nervoso Central são os: Os oligodendrócitos produzem mielina no SNC, enquanto as células de Schwann exercem essa função no SNP.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier."
     },
     {
       "id": "neuro-obj-033",
@@ -810,17 +816,18 @@
         "e": "1, 3, 2, 4"
       },
       "correct": "b",
-      "explanation": "I=Axônio(1), II=Dendrito(2), III=Mielina(3), IV=Sinapse(4), resultando na sequência 1, 2, 3, 4.",
+      "explanation": "I=Axônio(1), II=Dendrito(2), III=Mielina(3), IV=Sinapse(4), resultando na sequência 1, 2, 3, 4.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
+      "order": 2,
+      "miniLesson": "Relacione as estruturas às suas definições: 1) Axônio, 2) Dendrito, 3) Mielina, 4) Sinapse. (I) Fibra longa responsável pela condução do impulso nervoso para fora do corpo celular; (II) Fibra curta que recebe informações de outros neurônios; (III) Envoltório que acelera a condução do impulso nervoso; (IV) Junção onde o neurotransmissor é liberado entre dois neurônios. A sequência correta de associação (I, II, III, IV) é: I=Axônio(1), II=Dendrito(2), III=Mielina(3), IV=Sinapse(4), resultando na sequência 1, 2, 3, 4.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
       "id": "neuro-obj-038",
@@ -977,17 +984,17 @@
         "e": "Bipolares"
       },
       "correct": "b",
-      "explanation": "Os neurônios radiculares, de axônio longo, pertencem ao tipo I de Golgi e saem da medula constituindo a raiz ventral.",
+      "explanation": "Os neurônios radiculares, de axônio longo, pertencem ao tipo I de Golgi e saem da medula constituindo a raiz ventral.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
-        "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
-        "citation": "BEAR; CONNORS; PARADISO, 2017"
+        "document": "Sistema nervoso central.pdf",
+        "page": "8"
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
-      "order": 2
+      "order": 2,
+      "miniLesson": "Neurônios de axônio longo que saem da medula para constituir a raiz ventral são classificados, segundo a classificação de Golgi, como neurônios do tipo: Os neurônios radiculares, de axônio longo, pertencem ao tipo I de Golgi e saem da medula constituindo a raiz ventral.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann."
     },
     {
       "id": "neuro-obj-046",
@@ -8270,7 +8277,7 @@
         "e": "100 bilhões de neurônios"
       },
       "correct": "e",
-      "explanation": "O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.",
+      "explanation": "O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8279,7 +8286,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, a unidade básica do sistema nervoso é a célula nervosa, ou neurônio, sendo que o cérebro humano contém aproximadamente: O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.",
+      "miniLesson": "Segundo o material, a unidade básica do sistema nervoso é a célula nervosa, ou neurônio, sendo que o cérebro humano contém aproximadamente: O cérebro humano contém cerca de 100 bilhões de neurônios, cada um com corpo celular, axônio e dendritos.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8295,7 +8302,7 @@
         "e": "Axônio"
       },
       "correct": "e",
-      "explanation": "Um neurônio típico consiste em dendritos, corpo celular e axônio.",
+      "explanation": "Um neurônio típico consiste em dendritos, corpo celular e axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8304,7 +8311,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, um neurônio típico é composto por três estruturas principais: dendritos, corpo celular e: Um neurônio típico consiste em dendritos, corpo celular e axônio.",
+      "miniLesson": "Segundo o material, um neurônio típico é composto por três estruturas principais: dendritos, corpo celular e: Um neurônio típico consiste em dendritos, corpo celular e axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8320,7 +8327,7 @@
         "e": "São responsáveis por armazenar o núcleo e as organelas do neurônio"
       },
       "correct": "d",
-      "explanation": "Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.",
+      "explanation": "Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8329,7 +8336,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os dendritos são chamados de região de entrada receptiva porque: Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.",
+      "miniLesson": "Segundo o material, os dendritos são chamados de região de entrada receptiva porque: Os dendritos têm grande área de superfície para receber sinais de outros neurônios, transmitindo mensagens ao corpo celular, por isso são chamados de região de entrada receptiva.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8345,7 +8352,7 @@
         "e": "Produz todas as proteínas e contém organelas especializadas, como núcleo, grânulos e corpos de Nissl"
       },
       "correct": "e",
-      "explanation": "O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.",
+      "explanation": "O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8354,7 +8361,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, o corpo celular do neurônio é considerado o principal centro biossintético porque: O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.",
+      "miniLesson": "Segundo o material, o corpo celular do neurônio é considerado o principal centro biossintético porque: O corpo celular é o principal centro biossintético do neurônio, produzindo todas as proteínas e contendo organelas especializadas, como núcleos, grânulos e corpos de Nissl.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8370,7 +8377,7 @@
         "e": "Bainha de mielina"
       },
       "correct": "b",
-      "explanation": "O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.",
+      "explanation": "O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8379,7 +8386,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, o axônio surge de uma porção em forma de cone do corpo celular denominada: O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.",
+      "miniLesson": "Segundo o material, o axônio surge de uma porção em forma de cone do corpo celular denominada: O axônio surge da porção em forma de cone do corpo celular chamada de cone de implantação do axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8395,7 +8402,7 @@
         "e": "Fenda sináptica"
       },
       "correct": "b",
-      "explanation": "Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.",
+      "explanation": "Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8404,7 +8411,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, a camada gordurosa esbranquiçada que circunda os axônios, responsável por acelerar a condução do impulso nervoso, é chamada de: Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.",
+      "miniLesson": "Segundo o material, a camada gordurosa esbranquiçada que circunda os axônios, responsável por acelerar a condução do impulso nervoso, é chamada de: Os axônios são circundados por uma camada gordurosa esbranquiçada chamada bainha de mielina; fora dela existe uma camada celular chamada de neurilema.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -8420,7 +8427,7 @@
         "e": "Sistema Nervoso Periférico"
       },
       "correct": "e",
-      "explanation": "Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).",
+      "explanation": "Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8429,7 +8436,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, existem seis tipos de neuroglia, sendo quatro encontrados no Sistema Nervoso Central e dois no: Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).",
+      "miniLesson": "Segundo o material, existem seis tipos de neuroglia, sendo quatro encontrados no Sistema Nervoso Central e dois no: Existem seis tipos de neuroglia, quatro no Sistema Nervoso Central (astrócitos, microgliais, ependimárias, oligodendrócitos) e dois no Sistema Nervoso Periférico (satélites e células de Schwann).\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8445,7 +8452,7 @@
         "e": "Formar exclusivamente a bainha de mielina ao redor dos axônios do SNC"
       },
       "correct": "a",
-      "explanation": "Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.",
+      "explanation": "Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8454,7 +8461,7 @@
       },
       "subject": "Astrócitos",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os astrócitos, células gliais mais abundantes do SNC, têm o formato de estrela e desempenham a função de: Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.",
+      "miniLesson": "Segundo o material, os astrócitos, células gliais mais abundantes do SNC, têm o formato de estrela e desempenham a função de: Os astrócitos têm formato de estrela, participam da barreira hematoencefálica, regulam a homeostase cerebral, sustentam e protegem os neurônios e os ancoram às linhas de suprimento de nutrientes.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 4
     },
@@ -8470,7 +8477,7 @@
         "e": "Transformar-se em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza de restos neuronais"
       },
       "correct": "e",
-      "explanation": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.",
+      "explanation": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8479,7 +8486,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, as células microgliais, encontradas no SNC, desempenham a função de: As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.",
+      "miniLesson": "Segundo o material, as células microgliais, encontradas no SNC, desempenham a função de: As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza dos restos neuronais.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8495,7 +8502,7 @@
         "e": "O sangue e a bainha de mielina"
       },
       "correct": "b",
-      "explanation": "As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.",
+      "explanation": "As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8504,7 +8511,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, as células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre: As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.",
+      "miniLesson": "Segundo o material, as células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre: As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8520,7 +8527,7 @@
         "e": "Circundar os corpos celulares dos neurônios no Sistema Nervoso Periférico"
       },
       "correct": "b",
-      "explanation": "Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.",
+      "explanation": "Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8529,7 +8536,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os oligodendrócitos, encontrados no SNC, têm como principal função: Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.",
+      "miniLesson": "Segundo o material, os oligodendrócitos, encontrados no SNC, têm como principal função: Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina), sendo encontrados no SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8545,7 +8552,7 @@
         "e": "Astrócitos"
       },
       "correct": "e",
-      "explanation": "As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.",
+      "explanation": "As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8554,7 +8561,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, as células satélites, encontradas no Sistema Nervoso Periférico, são análogas, em função, aos seguintes tipos celulares do SNC: As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.",
+      "miniLesson": "Segundo o material, as células satélites, encontradas no Sistema Nervoso Periférico, são análogas, em função, aos seguintes tipos celulares do SNC: As células satélites circundam os corpos celulares dos neurônios no SNP e são análogas aos astrócitos no SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8570,7 +8577,7 @@
         "e": "Revestir exclusivamente as cavidades centrais do cérebro"
       },
       "correct": "d",
-      "explanation": "As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.",
+      "explanation": "As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8579,7 +8586,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, as células de Schwann, encontradas no Sistema Nervoso Periférico, desempenham função semelhante à dos oligodendrócitos no SNC, sendo responsáveis por: As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.",
+      "miniLesson": "Segundo o material, as células de Schwann, encontradas no Sistema Nervoso Periférico, desempenham função semelhante à dos oligodendrócitos no SNC, sendo responsáveis por: As células de Schwann suportam a função neural, aumentando a velocidade de propagação do impulso, e formam bainhas de mielina ao redor das fibras nervosas no SNP.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8595,7 +8602,7 @@
         "e": "Gânglios da base"
       },
       "correct": "b",
-      "explanation": "A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.",
+      "explanation": "A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8604,7 +8611,7 @@
       },
       "subject": "Neuroglia",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, a bainha de mielina formada pelas células de Schwann é interrompida em intervalos regulares por estruturas denominadas: A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.",
+      "miniLesson": "Segundo o material, a bainha de mielina formada pelas células de Schwann é interrompida em intervalos regulares por estruturas denominadas: A bainha de mielina formada pelas células de Schwann é sustentada pela bainha medular, que é interrompida em intervalos pelos nós de Ranvier.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 3
     },
@@ -8620,7 +8627,7 @@
         "e": "Unipolares"
       },
       "correct": "b",
-      "explanation": "Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.",
+      "explanation": "Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.\n\n📚 Conceitos técnicos para revisão: Classificação funcional dos neurônios: sensoriais (aferentes, captam estímulos), motores (eferentes, geram respostas) e interneurônios (associativos, conectam os dois anteriores).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8629,7 +8636,7 @@
       },
       "subject": "Tipos de neurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, em termos de função, os cientistas classificam os neurônios em três grandes tipos: sensoriais, motores e: Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.",
+      "miniLesson": "Segundo o material, em termos de função, os cientistas classificam os neurônios em três grandes tipos: sensoriais, motores e: Em termos de função, os neurônios são classificados em três grandes tipos: sensoriais, motores e interneurônios.\n\n📚 Conceitos técnicos para revisão: Classificação funcional dos neurônios: sensoriais (aferentes, captam estímulos), motores (eferentes, geram respostas) e interneurônios (associativos, conectam os dois anteriores).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 5
     },
@@ -8645,7 +8652,7 @@
         "e": "Visão e audição"
       },
       "correct": "a",
-      "explanation": "Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.",
+      "explanation": "Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.\n\n📚 Conceitos técnicos para revisão: Neurônios sensoriais (aferentes) = captam estímulos físicos (mecânicos, térmicos, luminosos, sonoros) e químicos (olfativos, gustativos) por meio de receptores sensoriais e conduzem essa informação ao Sistema Nervoso Central.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8654,7 +8661,7 @@
       },
       "subject": "Neurônios sensoriais",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os neurônios sensoriais são acionados por estímulos físicos (som, toque, calor, luz) e estímulos químicos, sendo estes últimos representados por: Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.",
+      "miniLesson": "Segundo o material, os neurônios sensoriais são acionados por estímulos físicos (som, toque, calor, luz) e estímulos químicos, sendo estes últimos representados por: Os neurônios sensoriais são acionados por estímulos físicos e químicos do ambiente; som, toque, calor e luz são entradas físicas, enquanto olfato e sabor são insumos químicos.\n\n📚 Conceitos técnicos para revisão: Neurônios sensoriais (aferentes) = captam estímulos físicos (mecânicos, térmicos, luminosos, sonoros) e químicos (olfativos, gustativos) por meio de receptores sensoriais e conduzem essa informação ao Sistema Nervoso Central.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 6
     },
@@ -8670,7 +8677,7 @@
         "e": "Exclusivamente do sabor"
       },
       "correct": "c",
-      "explanation": "Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.",
+      "explanation": "Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.\n\n📚 Conceitos técnicos para revisão: Neurônios sensoriais (aferentes) = captam estímulos físicos (mecânicos, térmicos, luminosos, sonoros) e químicos (olfativos, gustativos) por meio de receptores sensoriais e conduzem essa informação ao Sistema Nervoso Central.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8679,7 +8686,7 @@
       },
       "subject": "Neurônios sensoriais",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, no exemplo de uma pessoa que pisa na areia quente, os neurônios sensoriais ativados nas solas dos pés enviam uma mensagem que torna o cérebro ciente: Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.",
+      "miniLesson": "Segundo o material, no exemplo de uma pessoa que pisa na areia quente, os neurônios sensoriais ativados nas solas dos pés enviam uma mensagem que torna o cérebro ciente: Pisar na areia quente ativa os neurônios sensoriais nas solas dos pés, que enviam uma mensagem ao cérebro, tornando-o ciente do calor.\n\n📚 Conceitos técnicos para revisão: Neurônios sensoriais (aferentes) = captam estímulos físicos (mecânicos, térmicos, luminosos, sonoros) e químicos (olfativos, gustativos) por meio de receptores sensoriais e conduzem essa informação ao Sistema Nervoso Central.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 6
     },
@@ -8695,7 +8702,7 @@
         "e": "De um interneurônio para outro interneurônio, exclusivamente"
       },
       "correct": "c",
-      "explanation": "Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.",
+      "explanation": "Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.\n\n📚 Conceitos técnicos para revisão: Neurônios motores (eferentes) = geram respostas motoras. Neurônios motores inferiores conduzem sinais da medula espinhal aos músculos esqueléticos e lisos; neurônios motores superiores conduzem sinais do encéfalo até a medula espinhal.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8704,7 +8711,7 @@
       },
       "subject": "Neurônios motores",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os neurônios motores inferiores são responsáveis por carregar sinais: Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.",
+      "miniLesson": "Segundo o material, os neurônios motores inferiores são responsáveis por carregar sinais: Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos.\n\n📚 Conceitos técnicos para revisão: Neurônios motores (eferentes) = geram respostas motoras. Neurônios motores inferiores conduzem sinais da medula espinhal aos músculos esqueléticos e lisos; neurônios motores superiores conduzem sinais do encéfalo até a medula espinhal.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 7
     },
@@ -8720,7 +8727,7 @@
         "e": "O cérebro e a medula espinhal"
       },
       "correct": "e",
-      "explanation": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.",
+      "explanation": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.\n\n📚 Conceitos técnicos para revisão: Neurônios motores (eferentes) = geram respostas motoras. Neurônios motores inferiores conduzem sinais da medula espinhal aos músculos esqueléticos e lisos; neurônios motores superiores conduzem sinais do encéfalo até a medula espinhal.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8729,7 +8736,7 @@
       },
       "subject": "Neurônios motores",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os neurônios motores superiores são responsáveis por transportar sinais entre: Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.",
+      "miniLesson": "Segundo o material, os neurônios motores superiores são responsáveis por transportar sinais entre: Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal.\n\n📚 Conceitos técnicos para revisão: Neurônios motores (eferentes) = geram respostas motoras. Neurônios motores inferiores conduzem sinais da medula espinhal aos músculos esqueléticos e lisos; neurônios motores superiores conduzem sinais do encéfalo até a medula espinhal.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 7
     },
@@ -8745,7 +8752,7 @@
         "e": "Exclusivamente nos nervos cranianos"
       },
       "correct": "b",
-      "explanation": "Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.",
+      "explanation": "Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8754,7 +8761,7 @@
       },
       "subject": "Interneurônios",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os interneurônios, considerados o tipo mais comum de neurônio, são encontrados principalmente: Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.",
+      "miniLesson": "Segundo o material, os interneurônios, considerados o tipo mais comum de neurônio, são encontrados principalmente: Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal, sendo o tipo mais comum de neurônio; passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 8
     },
@@ -8770,7 +8777,7 @@
         "e": "Produzir diretamente a bainha de mielina ao redor do nervo afetado"
       },
       "correct": "a",
-      "explanation": "Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.",
+      "explanation": "Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8779,7 +8786,7 @@
       },
       "subject": "Interneurônios",
       "difficulty": "dificil",
-      "miniLesson": "Segundo o material, no exemplo de uma pessoa que toca em algo quente e retira a mão rapidamente enquanto sente dor, os interneurônios da medula espinhal desempenham o papel de: Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.",
+      "miniLesson": "Segundo o material, no exemplo de uma pessoa que toca em algo quente e retira a mão rapidamente enquanto sente dor, os interneurônios da medula espinhal desempenham o papel de: Quando um indivíduo toca em algo quente, os neurônios sensoriais enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam sinal ao centro de dor no cérebro.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 8
     },
@@ -8795,7 +8802,7 @@
         "e": "Colágeno exclusivamente"
       },
       "correct": "b",
-      "explanation": "Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.",
+      "explanation": "Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8804,7 +8811,7 @@
       },
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, a membrana plasmática do neurônio é composta, em cerca de metade de sua estrutura, por uma bicamada de: Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.",
+      "miniLesson": "Segundo o material, a membrana plasmática do neurônio é composta, em cerca de metade de sua estrutura, por uma bicamada de: Cerca de metade da membrana plasmática do neurônio é a bicamada lipídica, formada principalmente por fosfolipídios.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 9
     },
@@ -8820,7 +8827,7 @@
         "e": "Hidrofóbicas (repelentes de água)"
       },
       "correct": "e",
-      "explanation": "Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).",
+      "explanation": "Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8829,7 +8836,7 @@
       },
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, as extremidades das moléculas de fosfolipídios que compõem a membrana do neurônio são classificadas como hidrofílicas (voltadas para os meios aquosos) e: Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).",
+      "miniLesson": "Segundo o material, as extremidades das moléculas de fosfolipídios que compõem a membrana do neurônio são classificadas como hidrofílicas (voltadas para os meios aquosos) e: Uma das extremidades da molécula de fosfolipídio é hidrofílica (de fixação de água) e a outra é hidrofóbica (repelente de água).\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 9
     },
@@ -8845,7 +8852,7 @@
         "e": "Exclusivamente a velocidade de crescimento do axônio durante o desenvolvimento"
       },
       "correct": "c",
-      "explanation": "As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.",
+      "explanation": "As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8854,7 +8861,7 @@
       },
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "dificil",
-      "miniLesson": "Segundo o material, as proteínas embutidas na bicamada lipídica da membrana do neurônio podem formar canais que permitem a passagem de íons, sendo essa ação o mecanismo fundamental que determina: As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.",
+      "miniLesson": "Segundo o material, as proteínas embutidas na bicamada lipídica da membrana do neurônio podem formar canais que permitem a passagem de íons, sendo essa ação o mecanismo fundamental que determina: As proteínas que penetram na membrana podem formar canais que permitem ou bloqueiam a passagem de íons; essa ação é o mecanismo fundamental que determina a excitabilidade e o padrão de atividade elétrica do neurônio.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 9
     },
@@ -8870,7 +8877,7 @@
         "e": "Exclusivamente no corpo celular do neurônio pré-sináptico"
       },
       "correct": "b",
-      "explanation": "Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.",
+      "explanation": "Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8879,7 +8886,7 @@
       },
       "subject": "Sinapses",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, na sinapse química, os neurotransmissores são liberados na finalização pré-sináptica, cruzam a fenda sináptica e se ligam a receptores localizados: Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.",
+      "miniLesson": "Segundo o material, na sinapse química, os neurotransmissores são liberados na finalização pré-sináptica, cruzam a fenda sináptica e se ligam a receptores localizados: Os neurotransmissores liberados na finalização pré-sináptica cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 10
     },
@@ -8895,7 +8902,7 @@
         "e": "Aumentar permanentemente o diâmetro do axônio pós-sináptico"
       },
       "correct": "b",
-      "explanation": "Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.",
+      "explanation": "Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8904,7 +8911,7 @@
       },
       "subject": "Sinapses",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, os neurotransmissores liberados em uma sinapse química podem excitar o neurônio pós-sináptico, gerando um potencial de ação, ou podem: Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.",
+      "miniLesson": "Segundo o material, os neurotransmissores liberados em uma sinapse química podem excitar o neurônio pós-sináptico, gerando um potencial de ação, ou podem: Os neurotransmissores podem excitar o neurônio pós-sináptico, fazendo com que gere um potencial de ação próprio, ou podem inibi-lo, caso em que não gera um potencial de ação.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 10
     },
@@ -8920,7 +8927,7 @@
         "e": "Não permitirem qualquer forma de comunicação entre neurônios"
       },
       "correct": "a",
-      "explanation": "As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.",
+      "explanation": "As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.\n\n📚 Conceitos técnicos para revisão: Sinapses elétricas = conexão entre dois neurônios por junções comunicantes (gap junctions), com passagem direta de corrente elétrica, sem mediação química; são exclusivamente excitatórias e mais rápidas que as sinapses químicas, porém o sinal se atenua (perde intensidade) de um neurônio para o outro, reduzindo sua eficácia.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8929,7 +8936,7 @@
       },
       "subject": "Sinapses elétricas",
       "difficulty": "dificil",
-      "miniLesson": "Segundo o material, as sinapses elétricas, diferentemente das sinapses químicas, ocorrem quando dois neurônios são conectados por uma junção de lacuna, sendo uma característica dessas sinapses: As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.",
+      "miniLesson": "Segundo o material, as sinapses elétricas, diferentemente das sinapses químicas, ocorrem quando dois neurônios são conectados por uma junção de lacuna, sendo uma característica dessas sinapses: As sinapses elétricas podem apenas excitar e são muito mais rápidas do que as sinapses químicas, embora o sinal diminua de um neurônio para o outro, tornando-as menos eficazes na transmissão.\n\n📚 Conceitos técnicos para revisão: Sinapses elétricas = conexão entre dois neurônios por junções comunicantes (gap junctions), com passagem direta de corrente elétrica, sem mediação química; são exclusivamente excitatórias e mais rápidas que as sinapses químicas, porém o sinal se atenua (perde intensidade) de um neurônio para o outro, reduzindo sua eficácia.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 11
     },
@@ -8945,7 +8952,7 @@
         "e": "Sinapse"
       },
       "correct": "e",
-      "explanation": "O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.",
+      "explanation": "O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8954,7 +8961,7 @@
       },
       "subject": "Sinapses",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, o espaço localizado entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde ocorre a passagem do impulso nervoso, é denominado: O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.",
+      "miniLesson": "Segundo o material, o espaço localizado entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde ocorre a passagem do impulso nervoso, é denominado: O espaço entre a porção final do axônio e a superfície da célula seguinte, onde neurotransmissores são lançados, é chamado de sinapse.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 10
     },
@@ -8970,7 +8977,7 @@
         "e": "Conduzir o impulso nervoso pelo organismo"
       },
       "correct": "d",
-      "explanation": "Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.",
+      "explanation": "Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -8979,7 +8986,7 @@
       },
       "subject": "Astrócitos",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, dentre as funções dos astrócitos relacionadas à homeostase do Sistema Nervoso Central, destaca-se a capacidade de: Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.",
+      "miniLesson": "Segundo o material, dentre as funções dos astrócitos relacionadas à homeostase do Sistema Nervoso Central, destaca-se a capacidade de: Os astrócitos possuem prolongamentos que circundam os vasos sanguíneos e permitem a transferência de nutrientes do sangue para os neurônios.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 4
     },
@@ -8995,7 +9002,7 @@
         "e": "Mielina"
       },
       "correct": "d",
-      "explanation": "O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.",
+      "explanation": "O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -9004,7 +9011,7 @@
       },
       "subject": "Membrana plasmática do neurônio",
       "difficulty": "dificil",
-      "miniLesson": "Segundo o material, o citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de: O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.",
+      "miniLesson": "Segundo o material, o citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de: O citoesqueleto do neurônio inclui neurofilamentos finos contendo actina, neurofilamentos espessos semelhantes à miosina e microtúbulos compostos de tubulina.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 9
     },
@@ -9020,7 +9027,7 @@
         "e": "Os osteócitos"
       },
       "correct": "a",
-      "explanation": "O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).",
+      "explanation": "O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).\n\n📚 Conceitos técnicos para revisão: Tecido nervoso = uma das quatro classes teciduais fundamentais do organismo (ao lado do epitelial, do conjuntivo e do muscular), especializada na geração e condução de impulsos nervosos; composto por duas categorias celulares: neurônios (células excitáveis, condutoras do impulso) e neuroglia (células de suporte, não excitáveis).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -9029,7 +9036,7 @@
       },
       "subject": "Tecido nervoso",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, o tecido nervoso, uma das quatro classes principais de tecidos, é composto por duas categorias de células: os neurônios e: O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).",
+      "miniLesson": "Segundo o material, o tecido nervoso, uma das quatro classes principais de tecidos, é composto por duas categorias de células: os neurônios e: O tecido nervoso é composto por duas categorias de células: neurônios e neuroglia (células de suporte).\n\n📚 Conceitos técnicos para revisão: Tecido nervoso = uma das quatro classes teciduais fundamentais do organismo (ao lado do epitelial, do conjuntivo e do muscular), especializada na geração e condução de impulsos nervosos; composto por duas categorias celulares: neurônios (células excitáveis, condutoras do impulso) e neuroglia (células de suporte, não excitáveis).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 1
     },
@@ -9045,7 +9052,7 @@
         "e": "Térmico"
       },
       "correct": "a",
-      "explanation": "Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.",
+      "explanation": "Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -9054,7 +9061,7 @@
       },
       "subject": "Sinapses",
       "difficulty": "medio",
-      "miniLesson": "Segundo o material, quando um neurônio envia uma mensagem a outro, o sinal elétrico percorre o axônio e, ao chegar ao seu final, se transforma em um sinal: Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.",
+      "miniLesson": "Segundo o material, quando um neurônio envia uma mensagem a outro, o sinal elétrico percorre o axônio e, ao chegar ao seu final, se transforma em um sinal: Quando um neurônio envia uma mensagem, ele envia um sinal elétrico ao longo do axônio; no final do axônio, esse sinal elétrico muda para um sinal químico.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 10
     },
@@ -9070,7 +9077,7 @@
         "e": "Sinapses"
       },
       "correct": "b",
-      "explanation": "Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.",
+      "explanation": "Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
@@ -9079,7 +9086,7 @@
       },
       "subject": "Neurônios",
       "difficulty": "baixo",
-      "miniLesson": "Segundo o material, os feixes de axônios espalhados pelo corpo, que permitem a comunicação entre neurônios mesmo a longas distâncias, são chamados de: Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.",
+      "miniLesson": "Segundo o material, os feixes de axônios espalhados pelo corpo, que permitem a comunicação entre neurônios mesmo a longas distâncias, são chamados de: Feixes de axônios, chamados de nervos, são encontrados por todo o corpo, permitindo que os neurônios se comuniquem mesmo em longas distâncias.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "section": "1. Conceitos fundamentais da neuroanatomofisiologia",
       "order": 2
     },
@@ -12891,7 +12898,7 @@
       "id": "neuro-disc-001",
       "topic": "Neurônios",
       "question": "Descreva a estrutura básica de um neurônio (corpo celular, dendritos e axônio) e explique como ocorre a transmissão do impulso nervoso de um neurônio para outro através da sinapse.",
-      "modelAnswer": "O neurônio é composto por corpo celular (soma), onde ficam o núcleo e as principais organelas; dendritos, prolongamentos curtos e ramificados que recebem informações de outros neurônios; e axônio, um prolongamento longo, geralmente revestido por bainha de mielina, que conduz o impulso nervoso para fora do corpo celular. A mielina, produzida por oligodendrócitos no SNC, permite a condução saltatória, tornando o impulso mais rápido. Quando o impulso elétrico chega à extremidade do axônio (botão sináptico), ocorre a abertura de canais de cálcio e a liberação de neurotransmissores na fenda sináptica. Esses neurotransmissores se ligam a receptores específicos na membrana do neurônio seguinte, podendo gerar um novo potencial de ação e dar continuidade à transmissão da informação.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
+      "modelAnswer": "O neurônio é composto por corpo celular (soma), onde ficam o núcleo e as principais organelas; dendritos, prolongamentos curtos e ramificados que recebem informações de outros neurônios; e axônio, um prolongamento longo, geralmente revestido por bainha de mielina, que conduz o impulso nervoso para fora do corpo celular. A mielina, produzida por oligodendrócitos no SNC, permite a condução saltatória, tornando o impulso mais rápido. Quando o impulso elétrico chega à extremidade do axônio (botão sináptico), ocorre a abertura de canais de cálcio e a liberação de neurotransmissores na fenda sináptica. Esses neurotransmissores se ligam a receptores específicos na membrana do neurônio seguinte, podendo gerar um novo potencial de ação e dar continuidade à transmissão da informação.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
       "keyPoints": [
         {
           "text": "Corpo celular (soma) contém núcleo e organelas",
@@ -12943,7 +12950,7 @@
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neurônios",
@@ -12955,7 +12962,7 @@
       "id": "neuro-disc-002",
       "topic": "Neuroglia",
       "question": "Compare os astrócitos, os oligodendrócitos e a micróglia quanto à sua função no Sistema Nervoso Central.",
-      "modelAnswer": "Os astrócitos são células gliais estreladas com função de nutrição e suporte metabólico aos neurônios, participação na formação da barreira hematoencefálica e regulação do ambiente químico extracelular, incluindo a captação de neurotransmissores. Os oligodendrócitos são responsáveis pela produção da bainha de mielina que envolve os axônios no Sistema Nervoso Central, permitindo a condução saltatória e mais rápida do impulso nervoso; cada oligodendrócito pode mielinizar segmentos de vários axônios diferentes. Já a micróglia constitui as células de defesa imunológica do SNC, atuando na fagocitose de resíduos celulares, patógenos e neurônios danificados, funcionando como o sistema imune residente do tecido nervoso. No Sistema Nervoso Periférico, a função equivalente à dos oligodendrócitos é exercida pelas células de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
+      "modelAnswer": "Os astrócitos são células gliais estreladas com função de nutrição e suporte metabólico aos neurônios, participação na formação da barreira hematoencefálica e regulação do ambiente químico extracelular, incluindo a captação de neurotransmissores. Os oligodendrócitos são responsáveis pela produção da bainha de mielina que envolve os axônios no Sistema Nervoso Central, permitindo a condução saltatória e mais rápida do impulso nervoso; cada oligodendrócito pode mielinizar segmentos de vários axônios diferentes. Já a micróglia constitui as células de defesa imunológica do SNC, atuando na fagocitose de resíduos celulares, patógenos e neurônios danificados, funcionando como o sistema imune residente do tecido nervoso. No Sistema Nervoso Periférico, a função equivalente à dos oligodendrócitos é exercida pelas células de Schwann.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
       "keyPoints": [
         {
           "text": "Astrócitos: nutrição, suporte metabólico e barreira hematoencefálica",
@@ -13000,7 +13007,7 @@
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5-6",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neuroglia",
@@ -13012,7 +13019,7 @@
       "id": "neuro-disc-003",
       "topic": "Neurônios",
       "question": "Explique a diferença entre neurônios multipolares, bipolares e unipolares (pseudounipolares), dando um exemplo de localização de cada tipo.",
-      "modelAnswer": "Os neurônios são classificados morfologicamente de acordo com o número de prolongamentos que emergem do corpo celular. Os neurônios multipolares possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no Sistema Nervoso Central, como os motoneurônios da medula espinhal. Os neurônios bipolares apresentam apenas dois prolongamentos, um dendrito e um axônio, partindo de lados opostos do corpo celular; são encontrados, por exemplo, na retina e no epitélio olfatório. Já os neurônios pseudounipolares (ou unipolares) apresentam um único prolongamento que se bifurca em dois ramos, um periférico (que capta o estímulo sensitivo) e um central (que leva a informação até o SNC); esse tipo é típico dos neurônios sensitivos localizados nos gânglios das raízes dorsais dos nervos espinhais.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
+      "modelAnswer": "Os neurônios são classificados morfologicamente de acordo com o número de prolongamentos que emergem do corpo celular. Os neurônios multipolares possuem um único axônio e múltiplos dendritos, sendo o tipo mais comum no Sistema Nervoso Central, como os motoneurônios da medula espinhal. Os neurônios bipolares apresentam apenas dois prolongamentos, um dendrito e um axônio, partindo de lados opostos do corpo celular; são encontrados, por exemplo, na retina e no epitélio olfatório. Já os neurônios pseudounipolares (ou unipolares) apresentam um único prolongamento que se bifurca em dois ramos, um periférico (que capta o estímulo sensitivo) e um central (que leva a informação até o SNC); esse tipo é típico dos neurônios sensitivos localizados nos gânglios das raízes dorsais dos nervos espinhais.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 3-11): \"1. Conceitos fundamentais da neuroanatomofisiologia Introdução Como já mencionamos, o sistema nervoso possui duas partes principais: o Sistema Nervoso Central, que é composto pelo cérebro e pela medula espinhal; e o Sistema Nervoso Periférico, que é composto de nervos que se ramificam da medula espinhal e se estendem a todas as partes do corpo. O sistema nervoso transmite sinais entre o cérebro e o resto do corpo, incluindo órgãos internos. Dessa forma, a atividade do sistema nervoso controla a capacidade de mover, respirar, ver, pensar e muito mais. A unidade básica do sistema nervoso é uma célula nervosa, ou neurônio. O cérebro humano contém cerca de 100 bilhões de neurônios. Um neurônio tem um corpo celular, que inclui o núcleo da célula, e extensões especiais chamadas axônios e dendritos. Feixes de axônios, chamados de nervos, são encontrados por todo o corpo. (...)\"",
       "keyPoints": [
         {
           "text": "Multipolares: um axônio e vários dendritos, comuns no SNC (ex: motoneurônios)",
@@ -17819,7 +17826,7 @@
       "id": "neuro-disc-116",
       "topic": "Neurônios",
       "question": "Descreva as três estruturas básicas de um neurônio típico e a função de cada uma delas.",
-      "modelAnswer": "Os dendritos recebem sinais de outros neurônios, funcionando como região de entrada receptiva. O corpo celular é o principal centro biossintético, produzindo proteínas e contendo organelas especializadas. O axônio é a região condutora do neurônio, responsável por gerar e transmitir impulsos nervosos para outro neurônio ou órgão efetor.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
+      "modelAnswer": "Os dendritos recebem sinais de outros neurônios, funcionando como região de entrada receptiva. O corpo celular é o principal centro biossintético, produzindo proteínas e contendo organelas especializadas. O axônio é a região condutora do neurônio, responsável por gerar e transmitir impulsos nervosos para outro neurônio ou órgão efetor.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
       "keyPoints": [
         {
           "text": "Dendritos: recebem sinais (entrada receptiva)",
@@ -17860,7 +17867,7 @@
       "id": "neuro-disc-117",
       "topic": "Neuroglia",
       "question": "Cite os seis tipos de neuroglia mencionados no material, indicando em qual divisão do sistema nervoso (SNC ou SNP) cada um se encontra.",
-      "modelAnswer": "No SNC: astrócitos, células microgliais, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
+      "modelAnswer": "No SNC: astrócitos, células microgliais, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
       "keyPoints": [
         {
           "text": "SNC: astrócitos, microgliais, ependimárias, oligodendrócitos",
@@ -17895,7 +17902,7 @@
       "id": "neuro-disc-118",
       "topic": "Astrócitos",
       "question": "Explique a função dos astrócitos no Sistema Nervoso Central.",
-      "modelAnswer": "Os astrócitos têm formato de estrela, são as células gliais mais abundantes do SNC, participam da barreira hematoencefálica e regulam a homeostase cerebral. Sustentam e protegem os neurônios, ancorando-os às linhas de suprimento de nutrientes, ajudam a orientar a migração de jovens neurônios e controlam o ambiente químico ao redor dos neurônios.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
+      "modelAnswer": "Os astrócitos têm formato de estrela, são as células gliais mais abundantes do SNC, participam da barreira hematoencefálica e regulam a homeostase cerebral. Sustentam e protegem os neurônios, ancorando-os às linhas de suprimento de nutrientes, ajudam a orientar a migração de jovens neurônios e controlam o ambiente químico ao redor dos neurônios.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 5): \"Vamos apresentar agora alguns conceitos fundamentais. Tecido nervoso O tecido nervoso é uma das quatro classes principais de tecidos. É um tecido especializado encontrado no Sistema Nervoso Central e no Sistema Nervoso Periférico. É composto por categorias de células: neurônios e neuroglia (células de suporte). Neurônios Os neurônios são células nervosas altamente especializadas que geram e conduzem impulsos nervosos. Um neurônio típico consiste em: dendritos, corpo celular e axônio. Dendritos Os dendritos são neurônios motores curtos e têm uma grande área de superfície para receber sinais de outros neurônios. São responsáveis por responder aos estímulos, transmitem mensagens que chegam ao corpo celular e, por esse motivo, são chamados de região de entrada receptiva. Corpo celular O corpo celular é o principal centro biossintético de um neurônio. (...)\"",
       "keyPoints": [
         {
           "text": "Participam da barreira hematoencefálica e regulam homeostase",
@@ -17929,7 +17936,7 @@
       "id": "neuro-disc-119",
       "topic": "Neurônios motores",
       "question": "Diferencie os neurônios motores superiores dos neurônios motores inferiores.",
-      "modelAnswer": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos, sendo, portanto, mais próximos do órgão efetor.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
+      "modelAnswer": "Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos, sendo, portanto, mais próximos do órgão efetor.\n\n📚 Conceitos técnicos para revisão: Neurônios motores (eferentes) = geram respostas motoras. Neurônios motores inferiores conduzem sinais da medula espinhal aos músculos esqueléticos e lisos; neurônios motores superiores conduzem sinais do encéfalo até a medula espinhal.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
       "keyPoints": [
         {
           "text": "Superiores: entre cérebro e medula espinhal",
@@ -17963,7 +17970,7 @@
       "id": "neuro-disc-120",
       "topic": "Interneurônios",
       "question": "Explique o papel dos interneurônios, utilizando o exemplo de uma pessoa que toca em algo quente.",
-      "modelAnswer": "Os interneurônios são intermediários neurais que passam sinais de neurônios sensoriais para neurônios motores e outros interneurônios. No exemplo, os neurônios sensoriais dos dedos enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam um sinal ao centro de dor no cérebro, gerando a sensação de dor.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
+      "modelAnswer": "Os interneurônios são intermediários neurais que passam sinais de neurônios sensoriais para neurônios motores e outros interneurônios. No exemplo, os neurônios sensoriais dos dedos enviam um sinal aos interneurônios da medula espinhal; alguns interneurônios passam o sinal aos neurônios motores da mão, permitindo afastá-la, enquanto outros enviam um sinal ao centro de dor no cérebro, gerando a sensação de dor.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
       "keyPoints": [
         {
           "text": "Interneurônios conectam sensoriais a motores/outros interneurônios",
@@ -17997,7 +18004,7 @@
       "id": "neuro-disc-121",
       "topic": "Sinapses",
       "question": "Descreva o processo de comunicação em uma sinapse química, desde o potencial de ação até a chegada do sinal ao neurônio seguinte.",
-      "modelAnswer": "O potencial de ação é transportado ao longo do axônio até a finalização pré-sináptica, desencadeando a liberação de neurotransmissores. Essas moléculas cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito, podendo excitar o neurônio pós-sináptico (gerando um novo potencial de ação) ou inibi-lo.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 9): \"extremidades hidrofóbicas das moléculas se voltam para o espaço entre as folhas. Essas camadas lipídicas não são estruturas rígidas; as moléculas de fosfolipídios fracamente ligadas podem se mover lateralmente através das superfícies da membrana e o interior está em um estado altamente líquido. Embutidas na bicamada lipídica estão as proteínas, que também flutuam no meio líquido da membrana. Estes incluem glicoproteínas contendo cadeias de polissacarídeos, que funcionam, junto com outros carboidratos, como locais de adesão e locais de reconhecimento para ligação e interação química com outros neurônios. As proteínas fornecem outra função básica e crucial: aquelas que penetram na membrana podem existir em mais de um estado conformacional, ou forma molecular, formando canais que permitem a passagem de íons entre o fluido extracelular e o citoplasma, ou o conteúdo interno da célula. (...)\"",
+      "modelAnswer": "O potencial de ação é transportado ao longo do axônio até a finalização pré-sináptica, desencadeando a liberação de neurotransmissores. Essas moléculas cruzam a fenda sináptica e se ligam a receptores na terminação pós-sináptica de um dendrito, podendo excitar o neurônio pós-sináptico (gerando um novo potencial de ação) ou inibi-lo.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 9): \"extremidades hidrofóbicas das moléculas se voltam para o espaço entre as folhas. Essas camadas lipídicas não são estruturas rígidas; as moléculas de fosfolipídios fracamente ligadas podem se mover lateralmente através das superfícies da membrana e o interior está em um estado altamente líquido. Embutidas na bicamada lipídica estão as proteínas, que também flutuam no meio líquido da membrana. Estes incluem glicoproteínas contendo cadeias de polissacarídeos, que funcionam, junto com outros carboidratos, como locais de adesão e locais de reconhecimento para ligação e interação química com outros neurônios. As proteínas fornecem outra função básica e crucial: aquelas que penetram na membrana podem existir em mais de um estado conformacional, ou forma molecular, formando canais que permitem a passagem de íons entre o fluido extracelular e o citoplasma, ou o conteúdo interno da célula. (...)\"",
       "keyPoints": [
         {
           "text": "Potencial de ação chega à finalização pré-sináptica e libera neurotransmissores",
@@ -18038,7 +18045,7 @@
       "id": "neuro-disc-122",
       "topic": "Sinapses elétricas",
       "question": "Compare as sinapses químicas e as sinapses elétricas quanto à velocidade e à eficácia da transmissão.",
-      "modelAnswer": "As sinapses elétricas ocorrem por junções de lacuna e permitem transmissão direta e muito mais rápida do sinal elétrico, mas apenas de forma excitatória, e o sinal diminui de um neurônio para o outro, tornando-as menos eficazes. As sinapses químicas, por dependerem da liberação e ligação de neurotransmissores, são mais lentas, mas podem ser excitatórias ou inibitórias.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 9): \"extremidades hidrofóbicas das moléculas se voltam para o espaço entre as folhas. Essas camadas lipídicas não são estruturas rígidas; as moléculas de fosfolipídios fracamente ligadas podem se mover lateralmente através das superfícies da membrana e o interior está em um estado altamente líquido. Embutidas na bicamada lipídica estão as proteínas, que também flutuam no meio líquido da membrana. Estes incluem glicoproteínas contendo cadeias de polissacarídeos, que funcionam, junto com outros carboidratos, como locais de adesão e locais de reconhecimento para ligação e interação química com outros neurônios. As proteínas fornecem outra função básica e crucial: aquelas que penetram na membrana podem existir em mais de um estado conformacional, ou forma molecular, formando canais que permitem a passagem de íons entre o fluido extracelular e o citoplasma, ou o conteúdo interno da célula. (...)\"",
+      "modelAnswer": "As sinapses elétricas ocorrem por junções de lacuna e permitem transmissão direta e muito mais rápida do sinal elétrico, mas apenas de forma excitatória, e o sinal diminui de um neurônio para o outro, tornando-as menos eficazes. As sinapses químicas, por dependerem da liberação e ligação de neurotransmissores, são mais lentas, mas podem ser excitatórias ou inibitórias.\n\n📚 Conceitos técnicos para revisão: Sinapses elétricas = conexão entre dois neurônios por junções comunicantes (gap junctions), com passagem direta de corrente elétrica, sem mediação química; são exclusivamente excitatórias e mais rápidas que as sinapses químicas, porém o sinal se atenua (perde intensidade) de um neurônio para o outro, reduzindo sua eficácia.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 9): \"extremidades hidrofóbicas das moléculas se voltam para o espaço entre as folhas. Essas camadas lipídicas não são estruturas rígidas; as moléculas de fosfolipídios fracamente ligadas podem se mover lateralmente através das superfícies da membrana e o interior está em um estado altamente líquido. Embutidas na bicamada lipídica estão as proteínas, que também flutuam no meio líquido da membrana. Estes incluem glicoproteínas contendo cadeias de polissacarídeos, que funcionam, junto com outros carboidratos, como locais de adesão e locais de reconhecimento para ligação e interação química com outros neurônios. As proteínas fornecem outra função básica e crucial: aquelas que penetram na membrana podem existir em mais de um estado conformacional, ou forma molecular, formando canais que permitem a passagem de íons entre o fluido extracelular e o citoplasma, ou o conteúdo interno da célula. (...)\"",
       "keyPoints": [
         {
           "text": "Elétricas: mais rápidas, mas o sinal diminui e só excitam",
@@ -18073,7 +18080,7 @@
       "id": "neuro-disc-123",
       "topic": "Neuroglia",
       "question": "Explique a função das células de Schwann e dos oligodendrócitos, destacando em qual parte do sistema nervoso cada uma atua.",
-      "modelAnswer": "As células de Schwann, encontradas no Sistema Nervoso Periférico, envolvem as fibras nervosas formando bainhas de mielina, aumentando a velocidade de propagação do impulso. Os oligodendrócitos desempenham função semelhante, mas no Sistema Nervoso Central, alinhando-se ao longo dos nervos e produzindo a capa isolante de mielina.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 6): \"Células microgliais As células microgliais são pequenas e ovoides com processos espinhosos, sendo encontradas no SNC. Quando um microrganismo invasor ou neurônios mortos estão presentes, as células microgliais podem se transformar em um macrófago fagocítico e ajudar na limpeza dos restos neuronais. Células ependimárias As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, onde formam uma barreira bastante permeável entre o líquido cefalorraquidiano que preenche essas cavidades e as células dos tecidos do SNC. Oligodendrócitos Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina). Eles são encontrados no SNC. Células satélites As células satélites circundam os corpos celulares dos neurônios no SNP. São análogas aos astrócitos no SNC. (...)\"",
+      "modelAnswer": "As células de Schwann, encontradas no Sistema Nervoso Periférico, envolvem as fibras nervosas formando bainhas de mielina, aumentando a velocidade de propagação do impulso. Os oligodendrócitos desempenham função semelhante, mas no Sistema Nervoso Central, alinhando-se ao longo dos nervos e produzindo a capa isolante de mielina.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 6): \"Células microgliais As células microgliais são pequenas e ovoides com processos espinhosos, sendo encontradas no SNC. Quando um microrganismo invasor ou neurônios mortos estão presentes, as células microgliais podem se transformar em um macrófago fagocítico e ajudar na limpeza dos restos neuronais. Células ependimárias As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, onde formam uma barreira bastante permeável entre o líquido cefalorraquidiano que preenche essas cavidades e as células dos tecidos do SNC. Oligodendrócitos Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina). Eles são encontrados no SNC. Células satélites As células satélites circundam os corpos celulares dos neurônios no SNP. São análogas aos astrócitos no SNC. (...)\"",
       "keyPoints": [
         {
           "text": "Células de Schwann: SNP, formam bainha de mielina",
@@ -18107,7 +18114,7 @@
       "id": "neuro-disc-124",
       "topic": "Membrana plasmática do neurônio",
       "question": "Descreva a estrutura da membrana plasmática do neurônio, mencionando a bicamada lipídica e o papel das proteínas embutidas nela.",
-      "modelAnswer": "Cerca de metade da membrana é uma bicamada lipídica composta principalmente de fosfolipídios, cujas extremidades hidrofílicas se voltam para os meios aquosos e as hidrofóbicas para o espaço entre as folhas. Embutidas nessa bicamada estão proteínas que podem formar canais permitindo ou bloqueando a passagem de íons, mecanismo fundamental que determina a excitabilidade e a atividade elétrica do neurônio.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8-9): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
+      "modelAnswer": "Cerca de metade da membrana é uma bicamada lipídica composta principalmente de fosfolipídios, cujas extremidades hidrofílicas se voltam para os meios aquosos e as hidrofóbicas para o espaço entre as folhas. Embutidas nessa bicamada estão proteínas que podem formar canais permitindo ou bloqueando a passagem de íons, mecanismo fundamental que determina a excitabilidade e a atividade elétrica do neurônio.\n\n📚 Conceitos técnicos para revisão: Membrana plasmática = bicamada fosfolipídica (moléculas anfipáticas: porção hidrofílica voltada para os meios aquosos, porção hidrofóbica voltada para o interior da bicamada) com proteínas integrais/periféricas embutidas — glicoproteínas (adesão/reconhecimento celular) e proteínas-canal (transporte seletivo de íons, base da excitabilidade neuronal). Citoesqueleto = rede de filamentos proteicos (neurofilamentos de actina, neurofilamentos semelhantes à miosina, microtúbulos de tubulina) que sustenta a célula e participa do transporte intracelular.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 8-9): \"Inferiores Os neurônios motores inferiores carregam sinais da medula espinhal para os músculos lisos e esqueléticos. Superiores Os neurônios motores superiores transportam sinais entre o cérebro e a medula espinhal. Exemplo Quando uma pessoa come, os neurônios motores inferiores da medula espinhal enviam sinais para os músculos lisos do esôfago, estômago e intestinos. Esses músculos se contraem, o que permite que os alimentos se movam pelo trato digestivo. Interneurônios Interneurônios são intermediários neurais encontrados no cérebro e na medula espinhal. Eles são o tipo mais comum de neurônio. Eles passam sinais de neurônios sensoriais e outros interneurônios para neurônios motores e outros interneurônios. Frequentemente, formam circuitos complexos que o ajudam a reagir a estímulos externos. (...)\"",
       "keyPoints": [
         {
           "text": "Bicamada lipídica de fosfolipídios (hidrofílico/hidrofóbico)",
@@ -18141,7 +18148,7 @@
       "id": "neuro-disc-125",
       "topic": "Neuroglia",
       "question": "Explique a função das células microgliais e das células ependimárias no Sistema Nervoso Central.",
-      "modelAnswer": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza de restos neuronais. As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 6): \"Células microgliais As células microgliais são pequenas e ovoides com processos espinhosos, sendo encontradas no SNC. Quando um microrganismo invasor ou neurônios mortos estão presentes, as células microgliais podem se transformar em um macrófago fagocítico e ajudar na limpeza dos restos neuronais. Células ependimárias As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, onde formam uma barreira bastante permeável entre o líquido cefalorraquidiano que preenche essas cavidades e as células dos tecidos do SNC. Oligodendrócitos Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina). Eles são encontrados no SNC. Células satélites As células satélites circundam os corpos celulares dos neurônios no SNP. São análogas aos astrócitos no SNC. (...)\"",
+      "modelAnswer": "As células microgliais, pequenas e ovoides, podem se transformar em macrófagos fagocíticos diante de microrganismos invasores ou neurônios mortos, ajudando na limpeza de restos neuronais. As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, formando uma barreira permeável entre o líquido cefalorraquidiano e as células dos tecidos do SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.\n\nTrecho da fonte (Introdução ao estudo da neuroanatofisiologia.pdf, p. 6): \"Células microgliais As células microgliais são pequenas e ovoides com processos espinhosos, sendo encontradas no SNC. Quando um microrganismo invasor ou neurônios mortos estão presentes, as células microgliais podem se transformar em um macrófago fagocítico e ajudar na limpeza dos restos neuronais. Células ependimárias As células ependimárias são ciliadas e revestem as cavidades centrais do cérebro e da medula espinhal, onde formam uma barreira bastante permeável entre o líquido cefalorraquidiano que preenche essas cavidades e as células dos tecidos do SNC. Oligodendrócitos Os oligodendrócitos se alinham ao longo dos nervos e produzem uma capa isolante (bainha de mielina). Eles são encontrados no SNC. Células satélites As células satélites circundam os corpos celulares dos neurônios no SNP. São análogas aos astrócitos no SNC. (...)\"",
       "keyPoints": [
         {
           "text": "Microgliais: defesa/limpeza de restos neuronais (fagocitose)",
@@ -20010,7 +20017,7 @@
       "id": "neuro-oral-001",
       "topic": "Neurônios",
       "question": "Descreva o trajeto do impulso nervoso no neurônio, da entrada até a saída do sinal.",
-      "modelAnswer": "O impulso entra pelos dendritos, que recebem a informação de outros neurônios. Essa informação é integrada no corpo celular e, se atingir o limiar necessário, gera um potencial de ação que percorre o axônio até sua extremidade. Ali, na sinapse, ocorre a liberação de neurotransmissores que vão estimular o próximo neurônio da cadeia.",
+      "modelAnswer": "O impulso entra pelos dendritos, que recebem a informação de outros neurônios. Essa informação é integrada no corpo celular e, se atingir o limiar necessário, gera um potencial de ação que percorre o axônio até sua extremidade. Ali, na sinapse, ocorre a liberação de neurotransmissores que vão estimular o próximo neurônio da cadeia.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "keyPoints": [
         {
           "text": "Dendrito recebe a informação",
@@ -20050,7 +20057,7 @@
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neurônios",
@@ -20062,7 +20069,7 @@
       "id": "neuro-oral-002",
       "topic": "Neuroglia",
       "question": "Quais são os principais tipos de células da glia e qual a função de cada uma?",
-      "modelAnswer": "Os principais tipos são os astrócitos, que nutrem e dão suporte aos neurônios; os oligodendrócitos, que produzem mielina no sistema nervoso central; a micróglia, que faz a defesa imunológica do tecido nervoso; e, no sistema nervoso periférico, as células de Schwann, que produzem mielina fora do SNC.",
+      "modelAnswer": "Os principais tipos são os astrócitos, que nutrem e dão suporte aos neurônios; os oligodendrócitos, que produzem mielina no sistema nervoso central; a micróglia, que faz a defesa imunológica do tecido nervoso; e, no sistema nervoso periférico, as células de Schwann, que produzem mielina fora do SNC.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "keyPoints": [
         {
           "text": "Astrócitos: nutrição e suporte aos neurônios",
@@ -20102,7 +20109,7 @@
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "5-6",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Neuroglia",
@@ -20114,7 +20121,7 @@
       "id": "neuro-oral-003",
       "topic": "Sinapses",
       "question": "Explique com suas palavras o que é uma sinapse e por que ela é importante para o funcionamento do cérebro.",
-      "modelAnswer": "Sinapse é o ponto de comunicação entre dois neurônios, onde ocorre a liberação de neurotransmissores que passam a informação de uma célula para a outra. Ela é fundamental porque é através das sinapses que o cérebro processa, integra e transmite todas as informações, permitindo desde reflexos simples até funções cognitivas complexas.",
+      "modelAnswer": "Sinapse é o ponto de comunicação entre dois neurônios, onde ocorre a liberação de neurotransmissores que passam a informação de uma célula para a outra. Ela é fundamental porque é através das sinapses que o cérebro processa, integra e transmite todas as informações, permitindo desde reflexos simples até funções cognitivas complexas.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "keyPoints": [
         {
           "text": "Ponto de comunicação entre neurônios",
@@ -20144,7 +20151,7 @@
       "source": {
         "folder": "1 Semestre/Neuroanatomofisiologia",
         "document": "Introdução ao estudo da neuroanatofisiologia.pdf",
-        "page": "3-11",
+        "page": "9",
         "citation": "BEAR; CONNORS; PARADISO, 2017"
       },
       "subject": "Sinapses",
@@ -23850,7 +23857,7 @@
       "id": "neuro-oral-116",
       "topic": "Neurônios",
       "question": "Quais são as três estruturas básicas de um neurônio típico?",
-      "modelAnswer": "Dendritos, corpo celular e axônio.",
+      "modelAnswer": "Dendritos, corpo celular e axônio.\n\n📚 Conceitos técnicos para revisão: Neurônio = célula nervosa excitável, unidade estrutural e funcional do sistema nervoso, formada por três porções: dendritos (prolongamentos curtos e ramificados, região receptiva que capta sinais de outros neurônios), corpo celular/soma (centro biossintético, contém núcleo e corpos de Nissl) e axônio (prolongamento único, região condutora, originado no cone de implantação axônico). Bainha de mielina = revestimento lipídico segmentado do axônio; neurilema = camada celular externa à bainha, formada pelo citoplasma/núcleo da célula de Schwann.",
       "keyPoints": [
         {
           "text": "Dendritos, corpo celular e axônio",
@@ -23877,7 +23884,7 @@
       "id": "neuro-oral-117",
       "topic": "Astrócitos",
       "question": "Qual célula glial é responsável por nutrir os neurônios, transferindo nutrientes dos vasos sanguíneos?",
-      "modelAnswer": "Os astrócitos.",
+      "modelAnswer": "Os astrócitos.\n\n📚 Conceitos técnicos para revisão: Astrócitos = células gliais estreladas, as mais numerosas do SNC; exercem suporte metabólico/nutricional aos neurônios, compõem a barreira hematoencefálica (regulação seletiva da passagem sangue-tecido nervoso), participam da homeostase do meio extracelular (captação de íons e neurotransmissores) e orientam a migração neuronal no desenvolvimento.",
       "keyPoints": [
         {
           "text": "Astrócitos",
@@ -23902,7 +23909,7 @@
       "id": "neuro-oral-118",
       "topic": "Neuroglia",
       "question": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Central?",
-      "modelAnswer": "Os oligodendrócitos.",
+      "modelAnswer": "Os oligodendrócitos.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "keyPoints": [
         {
           "text": "Oligodendrócitos",
@@ -23927,7 +23934,7 @@
       "id": "neuro-oral-119",
       "topic": "Neuroglia",
       "question": "Quais células gliais formam a bainha de mielina no Sistema Nervoso Periférico?",
-      "modelAnswer": "As células de Schwann.",
+      "modelAnswer": "As células de Schwann.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "keyPoints": [
         {
           "text": "Células de Schwann",
@@ -23952,7 +23959,7 @@
       "id": "neuro-oral-120",
       "topic": "Interneurônios",
       "question": "Qual é o tipo mais comum de neurônio, encontrado no cérebro e na medula espinhal?",
-      "modelAnswer": "Os interneurônios.",
+      "modelAnswer": "Os interneurônios.\n\n📚 Conceitos técnicos para revisão: Interneurônios (neurônios de associação) = tipo mais numeroso de neurônio, localizados inteiramente no encéfalo e na medula espinhal; integram sinais entre neurônios sensoriais e motores, formando circuitos neurais (ex.: arco reflexo).",
       "keyPoints": [
         {
           "text": "Interneurônios",
@@ -23977,7 +23984,7 @@
       "id": "neuro-oral-121",
       "topic": "Sinapses",
       "question": "O que é a sinapse?",
-      "modelAnswer": "É o espaço entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde neurotransmissores são liberados para garantir a passagem do impulso nervoso.",
+      "modelAnswer": "É o espaço entre a porção final do axônio de um neurônio e a superfície da célula seguinte, onde neurotransmissores são liberados para garantir a passagem do impulso nervoso.\n\n📚 Conceitos técnicos para revisão: Sinapse química = região de comunicação entre dois neurônios, formada por terminação pré-sináptica, fenda sináptica e terminação pós-sináptica; a chegada do potencial de ação à terminação pré-sináptica libera neurotransmissores, que atravessam a fenda e se ligam a receptores pós-sinápticos, gerando efeito excitatório (despolarizante) ou inibitório (hiperpolarizante).",
       "keyPoints": [
         {
           "text": "Espaço entre neurônios onde neurotransmissores passam o impulso",
@@ -24003,7 +24010,7 @@
       "id": "neuro-oral-122",
       "topic": "Sinapses elétricas",
       "question": "Qual é a diferença de velocidade entre sinapses elétricas e sinapses químicas?",
-      "modelAnswer": "As sinapses elétricas são muito mais rápidas do que as sinapses químicas, embora sejam menos eficazes na transmissão, pois o sinal diminui de um neurônio para o outro.",
+      "modelAnswer": "As sinapses elétricas são muito mais rápidas do que as sinapses químicas, embora sejam menos eficazes na transmissão, pois o sinal diminui de um neurônio para o outro.\n\n📚 Conceitos técnicos para revisão: Sinapses elétricas = conexão entre dois neurônios por junções comunicantes (gap junctions), com passagem direta de corrente elétrica, sem mediação química; são exclusivamente excitatórias e mais rápidas que as sinapses químicas, porém o sinal se atenua (perde intensidade) de um neurônio para o outro, reduzindo sua eficácia.",
       "keyPoints": [
         {
           "text": "Elétricas são mais rápidas que as químicas",
@@ -24029,7 +24036,7 @@
       "id": "neuro-oral-123",
       "topic": "Neuroglia",
       "question": "Que estrutura interrompe em intervalos regulares a bainha de mielina formada pelas células de Schwann?",
-      "modelAnswer": "Os nós de Ranvier.",
+      "modelAnswer": "Os nós de Ranvier.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "keyPoints": [
         {
           "text": "Nós de Ranvier",
@@ -24054,7 +24061,7 @@
       "id": "neuro-oral-124",
       "topic": "Neurônios sensoriais",
       "question": "Quais são os dois tipos de estímulo que ativam os neurônios sensoriais, segundo o material?",
-      "modelAnswer": "Estímulos físicos (como som, toque, calor e luz) e estímulos químicos (como olfato e sabor).",
+      "modelAnswer": "Estímulos físicos (como som, toque, calor e luz) e estímulos químicos (como olfato e sabor).\n\n📚 Conceitos técnicos para revisão: Neurônios sensoriais (aferentes) = captam estímulos físicos (mecânicos, térmicos, luminosos, sonoros) e químicos (olfativos, gustativos) por meio de receptores sensoriais e conduzem essa informação ao Sistema Nervoso Central.",
       "keyPoints": [
         {
           "text": "Estímulos físicos e estímulos químicos",
@@ -24080,7 +24087,7 @@
       "id": "neuro-oral-125",
       "topic": "Neuroglia",
       "question": "O que fazem as células microgliais diante de um microrganismo invasor ou de neurônios mortos?",
-      "modelAnswer": "Podem se transformar em macrófagos fagocíticos, ajudando na limpeza dos restos neuronais.",
+      "modelAnswer": "Podem se transformar em macrófagos fagocíticos, ajudando na limpeza dos restos neuronais.\n\n📚 Conceitos técnicos para revisão: Neuroglia (glia) = células de suporte do sistema nervoso, não excitáveis, responsáveis por sustentação, nutrição, isolamento e defesa dos neurônios. No SNC: astrócitos, micróglia, células ependimárias e oligodendrócitos. No SNP: células satélites e células de Schwann. Micróglia = células de defesa (fagocitárias) do SNC. Células ependimárias = revestem as cavidades ventriculares e participam da dinâmica do líquido cefalorraquidiano. Oligodendrócitos = produzem a bainha de mielina no SNC (um oligodendrócito mieliniza múltiplos axônios). Células satélites = envolvem corpos neuronais nos gânglios do SNP, análogas aos astrócitos. Células de Schwann = mielinizam um único axônio por vez no SNP, com a bainha interrompida pelos nós de Ranvier.",
       "keyPoints": [
         {
           "text": "Transformam-se em macrófagos fagocíticos",
