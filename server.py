@@ -101,6 +101,23 @@ def run(conn, sql, params=()):
     return conn.execute(sql, params)
 
 
+# Colunas ricas da tabela "answers", adicionadas depois da criação inicial da
+# tabela para guardar o texto completo das respostas discursivas/orais
+# (pergunta, resposta do usuário, resposta padrão, fonte) para consulta
+# futura e geração de PDF -- não apenas o booleano de acerto/erro.
+ANSWERS_EXTRA_COLUMNS = [
+    ("semester", "TEXT"),
+    ("discipline", "TEXT"),
+    ("question_text", "TEXT"),
+    ("user_answer", "TEXT"),
+    ("model_answer", "TEXT"),
+    ("key_points_json", "TEXT"),
+    ("source_json", "TEXT"),
+    ("mini_lesson", "TEXT"),
+    ("score", "REAL"),
+]
+
+
 def init_db():
     conn = db()
     if USE_POSTGRES:
@@ -141,9 +158,20 @@ def init_db():
                 subject TEXT,
                 correct INTEGER NOT NULL DEFAULT 0,
                 created_at TEXT NOT NULL,
+                semester TEXT,
+                discipline TEXT,
+                question_text TEXT,
+                user_answer TEXT,
+                model_answer TEXT,
+                key_points_json TEXT,
+                source_json TEXT,
+                mini_lesson TEXT,
+                score REAL,
                 UNIQUE(user_id, question_id, mode)
             )
         """)
+        for col, coltype in ANSWERS_EXTRA_COLUMNS:
+            run(conn, f"ALTER TABLE answers ADD COLUMN IF NOT EXISTS {col} {coltype}")
     else:
         conn.executescript(
             """
@@ -187,6 +215,12 @@ def init_db():
         cols = [r["name"] for r in conn.execute("PRAGMA table_info(errors)").fetchall()]
         if "mini_lesson" not in cols:
             conn.execute("ALTER TABLE errors ADD COLUMN mini_lesson TEXT")
+        # Migração leve para bancos SQLite criados antes das colunas ricas de
+        # "answers" existirem (guardar texto completo das respostas discursivas).
+        answers_cols = [r["name"] for r in conn.execute("PRAGMA table_info(answers)").fetchall()]
+        for col, coltype in ANSWERS_EXTRA_COLUMNS:
+            if col not in answers_cols:
+                conn.execute(f"ALTER TABLE answers ADD COLUMN {col} {coltype}")
     conn.commit()
     conn.close()
 
@@ -326,9 +360,25 @@ def record_answer(payload):
         run(conn, "DELETE FROM answers WHERE user_id = ? AND question_id = ? AND mode = ?",
             (user_id, question_id, mode))
         run(conn,
-            "INSERT INTO answers(user_id, question_id, mode, subject, correct, created_at) "
-            "VALUES (?, ?, ?, ?, ?, ?)",
-            (user_id, question_id, mode, subject, correct, now_iso()))
+            """
+            INSERT INTO answers(
+                user_id, question_id, mode, subject, correct, created_at,
+                semester, discipline, question_text, user_answer, model_answer,
+                key_points_json, source_json, mini_lesson, score
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                user_id, question_id, mode, subject, correct, now_iso(),
+                payload.get("semester", ""),
+                payload.get("discipline", ""),
+                payload.get("question", ""),
+                payload.get("userAnswer", ""),
+                payload.get("modelAnswer", ""),
+                json.dumps(payload.get("keyPoints", []), ensure_ascii=False),
+                json.dumps(payload.get("source"), ensure_ascii=False) if payload.get("source") else None,
+                payload.get("miniLesson", ""),
+                payload.get("score"),
+            ))
         conn.commit()
     finally:
         conn.close()
@@ -337,13 +387,27 @@ def record_answer(payload):
 def list_answers(user_id, mode=None):
     conn = db()
     try:
-        q = "SELECT question_id, mode, subject, correct FROM answers WHERE user_id = ?"
+        q = "SELECT * FROM answers WHERE user_id = ?"
         params = [user_id]
         if mode:
             q += " AND mode = ?"
             params.append(mode)
+        q += " ORDER BY created_at DESC"
         rows = run(conn, q, params).fetchall()
-        return [dict(r) for r in rows]
+        out = []
+        for r in rows:
+            d = dict(r)
+            try:
+                d["keyPoints"] = json.loads(d.pop("key_points_json") or "[]")
+            except Exception:
+                d["keyPoints"] = []
+            src = d.pop("source_json", None)
+            try:
+                d["source"] = json.loads(src) if src else None
+            except Exception:
+                d["source"] = None
+            out.append(d)
+        return out
     finally:
         conn.close()
 

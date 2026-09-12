@@ -210,14 +210,17 @@ function clearUserLocal() {
 function updateUserChip() {
   const chip = document.getElementById("userChip");
   const notebookBtn = document.getElementById("notebookBtn");
+  const writtenAnswersBtn = document.getElementById("writtenAnswersBtn");
   if (state.currentUser) {
     chip.textContent = "👤 " + state.currentUser.name + " (trocar)";
     chip.classList.remove("hidden");
     notebookBtn.classList.remove("hidden");
+    writtenAnswersBtn.classList.remove("hidden");
     refreshNotebookCount();
   } else {
     chip.classList.add("hidden");
     notebookBtn.classList.add("hidden");
+    writtenAnswersBtn.classList.add("hidden");
   }
 }
 
@@ -304,7 +307,7 @@ async function loadAnsweredMap() {
   }
 }
 
-async function recordAnswer({ q, mode, correct }) {
+async function recordAnswer({ q, mode, correct, userAnswer, score }) {
   if (!state.currentUser) return;
   state.answeredMap[mode + ":" + q.id] = correct; // atualização otimista, já reflete no filtro na hora
   try {
@@ -317,13 +320,22 @@ async function recordAnswer({ q, mode, correct }) {
         mode,
         subject: q.subject || q.topic || "",
         correct,
+        semester: state.currentSemester ? state.currentSemester.label : "",
+        discipline: state.currentDiscipline ? state.currentDiscipline.title : "",
+        question: q.question,
+        userAnswer: userAnswer || "",
+        modelAnswer: q.modelAnswer || q.explanation || "",
+        keyPoints: q.keyPoints || [],
+        source: q.source || null,
+        miniLesson: q.miniLesson || "",
+        score: typeof score === "number" ? score : null,
       }),
     });
     if (!res.ok) {
       const errBody = await res.json().catch(() => ({}));
       if (res.status === 502 && /usuário|user|foreign key|constraint/i.test(errBody.error || "")) {
         const revalidated = await doLoginSilently(state.currentUser.name);
-        if (revalidated) { await recordAnswer({ q, mode, correct }); return; }
+        if (revalidated) { await recordAnswer({ q, mode, correct, userAnswer, score }); return; }
       }
       console.error("Falha ao registrar resposta:", res.status, errBody.error || "");
     }
@@ -367,6 +379,12 @@ document.getElementById("notebookFromResultsBtn").addEventListener("click", () =
   showScreen("screen-notebook");
   setCrumbs("Caderno de erros");
   loadNotebook("open");
+});
+
+document.getElementById("writtenAnswersBtn").addEventListener("click", () => {
+  showScreen("screen-written-answers");
+  setCrumbs("Respostas escritas");
+  loadWrittenAnswers("all");
 });
 
 // ---------- Registro de erros ----------
@@ -1139,7 +1157,8 @@ document.getElementById("objConfirmBtn").addEventListener("click", () => {
   fb.classList.remove("hidden");
 
   state.answers.push({ question: q.question, score: correct ? 10 : 0, correct });
-  recordAnswer({ q, mode: "objective", correct });
+  const objUserAnswer = objSelectedKey ? `${objSelectedKey.toUpperCase()}) ${q.options[objSelectedKey]}` : "";
+  recordAnswer({ q, mode: "objective", correct, userAnswer: objUserAnswer, score: correct ? 10 : 0 });
 
   if (!correct) {
     recordError({
@@ -1196,7 +1215,7 @@ document.getElementById("discSubmitBtn").addEventListener("click", async () => {
   renderOpenFeedback("discFeedback", result, q);
 
   state.answers.push({ question: q.question, score: result.score, correct: result.score >= 6 });
-  recordAnswer({ q, mode: "discursive", correct: result.score >= 6 });
+  recordAnswer({ q, mode: "discursive", correct: result.score >= 6, userAnswer: userText, score: result.score });
   if (result.score < 6) {
     recordError({ q, mode: "discursive", userAnswer: userText, correctAnswer: q.modelAnswer, score: result.score });
   }
@@ -1355,7 +1374,7 @@ async function finalizeOralAnswer(text) {
   document.getElementById("oralFallbackSubmit").disabled = false;
 
   state.answers.push({ question: q.question, score: result.score, correct: result.score >= 6, transcript: text });
-  recordAnswer({ q, mode: "oral", correct: result.score >= 6 });
+  recordAnswer({ q, mode: "oral", correct: result.score >= 6, userAnswer: text, score: result.score });
   if (result.score < 6) {
     recordError({ q, mode: "oral", userAnswer: text, correctAnswer: q.modelAnswer, score: result.score });
   }
@@ -1499,6 +1518,131 @@ function renderNotebookItem(err) {
   });
 
   return div;
+}
+
+// ---------- Respostas escritas (histórico completo de discursivas/orais) ----------
+
+document.querySelectorAll("#writtenAnswersFilter .chip").forEach(chip => {
+  chip.addEventListener("click", () => {
+    document.querySelectorAll("#writtenAnswersFilter .chip").forEach(c => c.classList.remove("active"));
+    chip.classList.add("active");
+    loadWrittenAnswers(chip.dataset.filter);
+  });
+});
+
+let writtenAnswersCache = [];
+
+async function loadWrittenAnswers(filter) {
+  const listEl = document.getElementById("writtenAnswersList");
+  const subtitleEl = document.getElementById("writtenAnswersSubtitle");
+  if (!state.currentUser) { listEl.innerHTML = ""; return; }
+  subtitleEl.textContent = `Todas as respostas discursivas e orais que ${state.currentUser.name} já enviou, com a resposta padrão e a fonte, para consulta.`;
+  listEl.innerHTML = "<p class='subtitle'>Carregando...</p>";
+
+  try {
+    const modes = filter === "all" ? ["discursive", "oral"] : [filter];
+    const results = await Promise.all(modes.map(m =>
+      fetch(`/api/answers?user_id=${state.currentUser.id}&mode=${m}`).then(r => r.json())
+    ));
+    const answers = results.flatMap(d => d.answers || []).sort((a, b) => (b.created_at || "").localeCompare(a.created_at || ""));
+    writtenAnswersCache = answers;
+    listEl.innerHTML = "";
+    if (!answers.length) {
+      listEl.innerHTML = `<div class="notebook-empty">Nenhuma resposta escrita registrada ainda.</div>`;
+      return;
+    }
+    answers.forEach(a => listEl.appendChild(renderWrittenAnswerItem(a)));
+  } catch (e) {
+    listEl.innerHTML = "<p class='subtitle'>Não foi possível carregar as respostas escritas.</p>";
+  }
+}
+
+function renderWrittenAnswerItem(a) {
+  const div = document.createElement("div");
+  div.className = "notebook-item";
+  const date = a.created_at ? a.created_at.replace("T", " ").slice(0, 16) : "";
+  const modeLabel = { discursive: "Discursiva", oral: "Oral" }[a.mode] || a.mode;
+  const scoreTxt = typeof a.score === "number" ? a.score.toFixed(1) + " / 10" : "—";
+
+  div.innerHTML = `
+    <div class="notebook-item-head">
+      <span class="notebook-item-meta">${escapeHtml(a.discipline || "")} · ${escapeHtml(a.subject || "")} · ${modeLabel} · ${date}</span>
+      <span class="notebook-item-score">${scoreTxt}</span>
+    </div>
+    <div class="notebook-item-question">${escapeHtml(a.question_text || "")}</div>
+    <div class="notebook-item-answer">Sua resposta: ${escapeHtml(a.user_answer || "—")}</div>
+    <details class="model-answer"><summary style="cursor:pointer;color:var(--accent)">Ver resposta padrão</summary>${a.model_answer || ""}</details>
+    ${renderSourceLine(a.source)}
+  `;
+  return div;
+}
+
+// Monta um PDF (via impressão do navegador) com todas as respostas escritas
+// atualmente carregadas: pergunta, resposta dada e resposta padrão + fonte.
+document.getElementById("writtenAnswersPdfBtn").addEventListener("click", () => {
+  if (!writtenAnswersCache.length) {
+    alert("Não há respostas escritas para incluir no PDF.");
+    return;
+  }
+  openPrintableWrittenAnswers(writtenAnswersCache);
+});
+
+function openPrintableWrittenAnswers(answers) {
+  const title = `Respostas escritas — ${state.currentUser ? state.currentUser.name : ""}`;
+  const modeLabel = { discursive: "Discursiva", oral: "Oral" };
+
+  const itemsHtml = answers.map((a, idx) => {
+    const n = idx + 1;
+    const date = a.created_at ? a.created_at.replace("T", " ").slice(0, 16) : "";
+    const scoreTxt = typeof a.score === "number" ? a.score.toFixed(1) + " / 10" : "—";
+    const srcTxt = a.source && a.source.document
+      ? `${a.source.document}${a.source.page ? ", p. " + a.source.page : ""}`
+      : "";
+    return `<div class="pq">
+      <p class="pq-head"><strong>${n}.</strong> <span class="pq-topic">${escapeHtml(a.discipline || "")} · ${escapeHtml(a.subject || "")} · ${modeLabel[a.mode] || a.mode} · ${date} · Nota: ${scoreTxt}</span></p>
+      <p class="pq-text">${escapeHtml(a.question_text || "")}</p>
+      <p class="pg-block"><strong>Sua resposta:</strong><br>${escapeHtml(a.user_answer || "—")}</p>
+      <p class="pg-block"><strong>Resposta padrão:</strong><br>${(a.model_answer || "").replace(/\n/g, "<br>")}${srcTxt ? `<br><em>Fonte: ${escapeHtml(srcTxt)}</em>` : ""}</p>
+    </div>`;
+  }).join("");
+
+  const html = `<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>${escapeHtml(title)}</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, "Times New Roman", serif; color: #111; max-width: 800px; margin: 24px auto; padding: 0 16px; line-height: 1.5; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .print-meta { color: #444; font-size: 14px; margin: 0 0 20px; }
+  .pq { margin-bottom: 26px; padding-bottom: 18px; border-bottom: 1px solid #ccc; page-break-inside: avoid; }
+  .pq-head { margin: 0 0 2px; }
+  .pq-topic { color: #666; font-size: 12px; font-style: italic; }
+  .pq-text { margin: 4px 0 10px; font-weight: 600; }
+  .pg-block { font-size: 14px; margin: 8px 0; }
+  .print-actions { margin: 16px 0; }
+  @media print { .print-actions { display: none; } }
+</style>
+</head>
+<body>
+  <div class="print-actions"><button onclick="window.print()">🖨️ Imprimir / Salvar PDF</button></div>
+  <header>
+    <h1>${escapeHtml(title)}</h1>
+    <p class="print-meta">${answers.length} respostas · gerado pelo Professor Treinador</p>
+  </header>
+  <main>${itemsHtml}</main>
+</body>
+</html>`;
+
+  const win = window.open("", "_blank");
+  if (!win) {
+    alert("Não foi possível abrir a janela de impressão. Permita pop-ups para este site e tente novamente.");
+    return;
+  }
+  win.document.open();
+  win.document.write(html);
+  win.document.close();
 }
 
 // ---------- Modal de mini-aula ----------

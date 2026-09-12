@@ -14,6 +14,7 @@
   <div class="topbar-right">
     <div class="ai-badge" id="aiBadge"></div>
     <button class="notebook-btn hidden" id="notebookBtn">📕 Caderno de erros <span id="notebookCount" class="notebook-count hidden">0</span></button>
+    <button class="notebook-btn hidden" id="writtenAnswersBtn">📝 Respostas escritas</button>
     <button class="user-chip hidden" id="userChip"></button>
   </div>
 </header>
@@ -197,6 +198,25 @@
     </div>
 
     <div id="notebookList" class="notebook-list"></div>
+  </section>
+
+  <!-- TELA 10: Respostas escritas (histórico de discursivas/orais) -->
+  <section id="screen-written-answers" class="screen">
+    <button class="back-btn" data-back="screen-courses">← Voltar</button>
+    <h1>📝 Respostas escritas</h1>
+    <p class="subtitle" id="writtenAnswersSubtitle"></p>
+
+    <div class="chip-group" id="writtenAnswersFilter" style="margin-bottom:20px;">
+      <button class="chip active" data-filter="all">Todas</button>
+      <button class="chip" data-filter="discursive">Discursivas</button>
+      <button class="chip" data-filter="oral">Orais</button>
+    </div>
+
+    <div class="action-row">
+      <button id="writtenAnswersPdfBtn" class="secondary-btn">🖨️ Gerar PDF</button>
+    </div>
+
+    <div id="writtenAnswersList" class="notebook-list"></div>
   </section>
 
 </main>
