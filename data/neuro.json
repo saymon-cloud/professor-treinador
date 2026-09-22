@@ -13326,6 +13326,138 @@
       "subject": "Nervos cranianos",
       "difficulty": "medio",
       "miniLesson": "Segundo o material, os nervos encefálicos são responsáveis pela inervação das estruturas da cabeça e do pescoço, mas NÃO apresentam relação com a transmissão de informações somatossensoriais: Os nervos encefálicos estão relacionados à inervação motora e sensitiva das estruturas da cabeça e pescoço, não apresentando relação com a transmissão de informações somatossensoriais do tronco e dos membros (função dos nervos espinhais)."
+    },
+    {
+      "id": "neuro-obj-574",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Qual das alternativas abaixo representa uma estrutura que faz parte do diencéfalo?",
+      "options": {
+        "a": "Mesencéfalo.",
+        "b": "Ponte.",
+        "c": "Bulbo.",
+        "d": "Hipotálamo.",
+        "e": "Cerebelo."
+      },
+      "correct": "d",
+      "explanation": "O diencéfalo é formado por tálamo, hipotálamo, epitálamo e subtálamo. Mesencéfalo, ponte e bulbo pertencem ao tronco encefálico, e o cerebelo é uma estrutura à parte — apenas o hipotálamo, entre as opções, faz parte do diencéfalo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "1"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Qual das alternativas abaixo representa uma estrutura que faz parte do diencéfalo? O diencéfalo é formado por tálamo, hipotálamo, epitálamo e subtálamo. Mesencéfalo, ponte e bulbo pertencem ao tronco encefálico, e o cerebelo é uma estrutura à parte — apenas o hipotálamo, entre as opções, faz parte do diencéfalo."
+    },
+    {
+      "id": "neuro-obj-575",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Os dendritos do neurônio possuem como principal função:",
+      "options": {
+        "a": "Produzir mielina",
+        "b": "Gerar neurotransmissores",
+        "c": "Receber estímulos nervosos",
+        "d": "Formar a bainha neural",
+        "e": "Produzir líquido cefalorraquidiano"
+      },
+      "correct": "c",
+      "explanation": "Os dendritos são prolongamentos curtos e ramificados do neurônio, especializados em captar e receber estímulos/impulsos nervosos de outros neurônios, conduzindo-os até o corpo celular.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "2"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Os dendritos do neurônio possuem como principal função: Os dendritos são prolongamentos curtos e ramificados do neurônio, especializados em captar e receber estímulos/impulsos nervosos de outros neurônios, conduzindo-os até o corpo celular."
+    },
+    {
+      "id": "neuro-obj-576",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Qual estrutura do sistema nervoso tem a função de acelerar a passagem do impulso nervoso e, além disso, funciona como um isolante ao redor do axônio?",
+      "options": {
+        "a": "Dendritos",
+        "b": "Axônio",
+        "c": "Corpo Celular",
+        "d": "Bainha de mielina",
+        "e": "Nenhuma das alternativas"
+      },
+      "correct": "d",
+      "explanation": "A bainha de mielina é o revestimento lipídico que envolve o axônio, isolando-o e permitindo a condução saltatória do impulso nervoso, o que acelera significativamente sua propagação.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "3"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Qual estrutura do sistema nervoso tem a função de acelerar a passagem do impulso nervoso e, além disso, funciona como um isolante ao redor do axônio? A bainha de mielina é o revestimento lipídico que envolve o axônio, isolando-o e permitindo a condução saltatória do impulso nervoso, o que acelera significativamente sua propagação."
+    },
+    {
+      "id": "neuro-obj-577",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Qual das seguintes opções descreve corretamente a função dos neurônios?",
+      "options": {
+        "a": "Armazenam informações em formato digital.",
+        "b": "Regulam a pressão arterial e os batimentos cardíacos.",
+        "c": "Conduzem sinais elétricos e transmitem informações no sistema nervoso.",
+        "d": "Produzem hormônios que controlam o metabolismo.",
+        "e": "Realizam a filtração do sangue nos rins."
+      },
+      "correct": "c",
+      "explanation": "Neurônios são células excitáveis especializadas em gerar e conduzir impulsos elétricos (potenciais de ação), transmitindo informações entre diferentes regiões do sistema nervoso e do corpo.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "4"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Qual das seguintes opções descreve corretamente a função dos neurônios? Neurônios são células excitáveis especializadas em gerar e conduzir impulsos elétricos (potenciais de ação), transmitindo informações entre diferentes regiões do sistema nervoso e do corpo."
+    },
+    {
+      "id": "neuro-obj-578",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Os neurônios são células especializadas na transmissão de impulsos nervosos. De acordo com sua função, eles podem ser classificados como:",
+      "options": {
+        "a": "Motores, gliais e ependimários.",
+        "b": "Sensoriais, motores e interneurônios.",
+        "c": "Aferentes, eferentes e mioelínicos.",
+        "d": "Gliais, sensitivos e autonômicos.",
+        "e": "Axonais, dendríticos e somáticos."
+      },
+      "correct": "b",
+      "explanation": "A classificação funcional clássica dos neurônios os divide em sensoriais (aferentes, captam estímulos), motores (eferentes, geram respostas) e interneurônios (associativos, conectam sensoriais e motores).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "5"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "baixo",
+      "miniLesson": "Os neurônios são células especializadas na transmissão de impulsos nervosos. De acordo com sua função, eles podem ser classificados como: A classificação funcional clássica dos neurônios os divide em sensoriais (aferentes, captam estímulos), motores (eferentes, geram respostas) e interneurônios (associativos, conectam sensoriais e motores)."
+    },
+    {
+      "id": "neuro-obj-579",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Além dos neurônios, o sistema nervoso é formado por células da glia (neuroglia). Sobre essas células, é correto afirmar que:",
+      "options": {
+        "a": "São responsáveis diretas por gerar e propagar o potencial de ação.",
+        "b": "Não desempenham qualquer função relevante no tecido nervoso.",
+        "c": "Dão suporte, nutrição, sustentação e proteção aos neurônios, além de participarem da formação da mielina.",
+        "d": "Existem apenas no sistema nervoso periférico.",
+        "e": "Substituem os neurônios na transmissão sináptica."
+      },
+      "correct": "c",
+      "explanation": "As células da neuroglia (astrócitos, micróglia, oligodendrócitos, ependimárias no SNC; células satélites e de Schwann no SNP) não geram potenciais de ação, mas sustentam, nutrem e protegem os neurônios, além de formarem a bainha de mielina.",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "6"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Além dos neurônios, o sistema nervoso é formado por células da glia (neuroglia). Sobre essas células, é correto afirmar que: As células da neuroglia (astrócitos, micróglia, oligodendrócitos, ependimárias no SNC; células satélites e de Schwann no SNP) não geram potenciais de ação, mas sustentam, nutrem e protegem os neurônios, além de formarem a bainha de mielina."
     }
   ],
   "discursive": [

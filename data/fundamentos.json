@@ -16257,6 +16257,226 @@
       "subject": "Dualismo Cartesiano e Mente-Corpo",
       "difficulty": "medio",
       "miniLesson": "A abordagem biopsicossocial, mencionada no material como esforço atual para superar a dicotomia dualista na prática clínica, propõe fundamentalmente que a saúde e o adoecimento sejam determinados por: O material define o esforço da psicossomática e das abordagens biopsicossociais como a busca por reconhecer a integração indissociável entre os processos biológicos, psicológicos e sociais na determinação da saúde e do adoecimento, superando a fragmentação herdada do dualismo cartesiano."
+    },
+    {
+      "id": "fund-obj-740",
+      "topic": "Revisão Simulado 1",
+      "question": "Para Descartes, as ideias derivadas (adventícias) são aquelas que:",
+      "options": {
+        "a": "Surgem da experiência e parecem chegar ao pensamento por meio dos sentidos.",
+        "b": "Existem na mente independentemente de qualquer experiência.",
+        "c": "São necessariamente produzidas pela razão antes da experiência.",
+        "d": "São exclusivamente ideias matemáticas.",
+        "e": "Correspondem apenas às ideias relacionadas a Deus."
+      },
+      "correct": "a",
+      "explanation": "As ideias derivadas ou adventícias, na classificação cartesiana, são aquelas que parecem vir de fora do sujeito, chegando ao pensamento por meio dos sentidos e da experiência sensível — diferentes das ideias inatas e das ideias factícias (inventadas pela própria mente).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "1"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio",
+      "miniLesson": "Para Descartes, as ideias derivadas (adventícias) são aquelas que: As ideias derivadas ou adventícias, na classificação cartesiana, são aquelas que parecem vir de fora do sujeito, chegando ao pensamento por meio dos sentidos e da experiência sensível — diferentes das ideias inatas e das ideias factícias (inventadas pela própria mente)."
+    },
+    {
+      "id": "fund-obj-741",
+      "topic": "Revisão Simulado 1",
+      "question": "Durante o século XIX, diversos pesquisadores passaram a buscar formas mais sistemáticas de estudar os fenômenos psicológicos. Esse processo foi importante para a consolidação da Psicologia como ciência porque:",
+      "options": {
+        "a": "A Psicologia abandonou completamente os estudos sobre o comportamento humano.",
+        "b": "A Psicologia passou a utilizar exclusivamente explicações filosóficas.",
+        "c": "Os pesquisadores deixaram de realizar observações sobre os fenômenos psicológicos.",
+        "d": "A Psicologia passou a considerar um conhecimento que refutava a metodologia científica corrente.",
+        "e": "Os fenômenos psicológicos passaram a ser investigados por meio de métodos científicos e experimentais."
+      },
+      "correct": "e",
+      "explanation": "A consolidação da Psicologia como ciência no século XIX se deu justamente pela adoção de métodos científicos e experimentais (observação sistemática, mensuração, experimentação controlada) para investigar fenômenos até então tratados apenas filosoficamente.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "2"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio",
+      "miniLesson": "Durante o século XIX, diversos pesquisadores passaram a buscar formas mais sistemáticas de estudar os fenômenos psicológicos. Esse processo foi importante para a consolidação da Psicologia como ciência porque: A consolidação da Psicologia como ciência no século XIX se deu justamente pela adoção de métodos científicos e experimentais (observação sistemática, mensuração, experimentação controlada) para investigar fenômenos até então tratados apenas filosoficamente."
+    },
+    {
+      "id": "fund-obj-742",
+      "topic": "Revisão Simulado 1",
+      "question": "Na filosofia de René Descartes, as ideias inatas são aquelas que:",
+      "options": {
+        "a": "São adquiridas exclusivamente por meio dos sentidos.",
+        "b": "São produzidas pela imaginação a partir de experiências anteriores.",
+        "c": "Estão presentes na razão e não dependem diretamente da experiência sensível.",
+        "d": "São formadas somente pela observação dos fenômenos naturais.",
+        "e": "Resultam da combinação de diferentes experiências sensoriais."
+      },
+      "correct": "c",
+      "explanation": "As ideias inatas, para Descartes, já estão presentes na razão desde o nascimento, independentemente da experiência sensível — exemplo clássico é a ideia de Deus ou de perfeição, que a razão possui sem tê-la extraído dos sentidos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "3"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio",
+      "miniLesson": "Na filosofia de René Descartes, as ideias inatas são aquelas que: As ideias inatas, para Descartes, já estão presentes na razão desde o nascimento, independentemente da experiência sensível — exemplo clássico é a ideia de Deus ou de perfeição, que a razão possui sem tê-la extraído dos sentidos."
+    },
+    {
+      "id": "fund-obj-743",
+      "topic": "Revisão Simulado 1",
+      "question": "A Gestalt é uma escola da Psicologia que se dedicou ao estudo da percepção e da forma como os indivíduos organizam os estímulos. Para essa abordagem, a experiência perceptiva não pode ser compreendida apenas pela soma dos elementos isolados, pois a organização do conjunto produz uma configuração própria. A partir desses pressupostos, assinale a alternativa CORRETA:",
+      "options": {
+        "a": "A lei da boa forma, ou pregnância, explica a tendência de percebermos elementos que estão próximos uns dos outros como pertencentes a um mesmo grupo.",
+        "b": "A lei da proximidade é a principal lei da Gestalt e afirma que o cérebro sempre interpreta as imagens da forma mais simples e equilibrada possível.",
+        "c": "O insight corresponde à compreensão súbita de uma situação ou à percepção repentina da solução de um problema.",
+        "d": "A lei do fechamento afirma que o olhar tende a seguir uma direção contínua, acompanhando linhas e curvas.",
+        "e": "A lei da continuidade explica a tendência de completarmos mentalmente formas que estão incompletas para percebermos um objeto fechado."
+      },
+      "correct": "c",
+      "explanation": "As alternativas A, B, D e E trocam as definições entre as leis da Gestalt (a descrição de A é da lei da proximidade; a de B é da lei da boa forma/pregnância; a de D é da lei da continuidade; a de E é da lei do fechamento). Apenas a alternativa C descreve corretamente o insight: a compreensão súbita de uma situação-problema, sem tentativa e erro gradual, um conceito genuíno da Gestalt (estudado por Köhler).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "4"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "dificil",
+      "miniLesson": "A Gestalt é uma escola da Psicologia que se dedicou ao estudo da percepção e da forma como os indivíduos organizam os estímulos. Para essa abordagem, a experiência perceptiva não pode ser compreendida apenas pela soma dos elementos isolados, pois a organização do conjunto produz uma configuração própria. A partir desses pressupostos, assinale a alternativa CORRETA: As alternativas A, B, D e E trocam as definições entre as leis da Gestalt (a descrição de A é da lei da proximidade; a de B é da lei da boa forma/pregnância; a de D é da lei da continuidade; a de E é da lei do fechamento). Apenas a alternativa C descreve corretamente o insight: a compreensão súbita de uma situação-problema, sem tentativa e erro gradual, um conceito genuíno da Gestalt (estudado por Köhler)."
+    },
+    {
+      "id": "fund-obj-744",
+      "topic": "Revisão Simulado 1",
+      "question": "O desenvolvimento da ciência moderna esteve relacionado ao chamado método científico. De modo geral, esse método buscava:",
+      "options": {
+        "a": "Produzir conhecimentos baseados na observação, na formulação de hipóteses e na verificação.",
+        "b": "Explicar os fenômenos apenas por meio de tradições antigas.",
+        "c": "Substituir a razão pela fé como principal forma de conhecimento.",
+        "d": "Evitar qualquer tipo de experimentação.",
+        "e": "Considerar que todos os conhecimentos já haviam sido produzidos na Antiguidade."
+      },
+      "correct": "a",
+      "explanation": "O método científico moderno se caracteriza pela produção de conhecimento a partir da observação sistemática, da formulação de hipóteses testáveis e da verificação empírica/experimental dessas hipóteses.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "5"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "baixo",
+      "miniLesson": "O desenvolvimento da ciência moderna esteve relacionado ao chamado método científico. De modo geral, esse método buscava: O método científico moderno se caracteriza pela produção de conhecimento a partir da observação sistemática, da formulação de hipóteses testáveis e da verificação empírica/experimental dessas hipóteses."
+    },
+    {
+      "id": "fund-obj-745",
+      "topic": "Revisão Simulado 1",
+      "question": "João, 25 anos, procura atendimento psicológico após perceber que, sempre que está prestes a alcançar uma conquista importante, encontra alguma maneira de desistir ou acaba cometendo erros que prejudicam seus resultados. Embora reconheça conscientemente que deseja ter sucesso, afirma: \"É como se uma parte de mim não quisesse que as coisas dessem certo\". Durante as sessões, João relata que seu pai costumava exigir que ele fosse sempre o melhor e demonstrava decepção quando ele cometia erros. Ao falar sobre essas situações, João afirma que isso não teve importância e muda de assunto. Algumas semanas depois, começa a chegar atrasado às sessões e questiona se realmente precisa continuar o tratamento. Considerando os pressupostos da Psicanálise, assinale a alternativa que apresenta a interpretação mais adequada do caso:",
+      "options": {
+        "a": "Os comportamentos de João podem estar relacionados a conflitos psíquicos inconscientes, enquanto suas mudanças de assunto e atrasos podem representar formas de resistência diante de conteúdos que provocam conflitos.",
+        "b": "O comportamento de João é resultado exclusivamente da falta de motivação consciente e pode ser solucionado por meio do estabelecimento de metas e recompensas.",
+        "c": "A dificuldade de João deve ser compreendida principalmente como uma resposta automática a estímulos ambientais, sem necessidade de considerar sua história pessoal.",
+        "d": "O autossabotamento de João é apenas uma coincidência estatística, sem qualquer relação com sua história de vida ou com processos psíquicos inconscientes.",
+        "e": "João deveria ser orientado a ignorar completamente suas lembranças de infância, já que, para a Psicanálise, o passado não interfere no comportamento presente."
+      },
+      "correct": "a",
+      "explanation": "Sob a ótica psicanalítica, o autossabotamento de João sugere um conflito psíquico inconsciente (possivelmente ligado às exigências e à decepção do pai internalizadas), e a mudança de assunto, os atrasos e a resistência a continuar o tratamento são interpretados como mecanismos de resistência — defesas do ego contra a emergência de conteúdos inconscientes conflituosos.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "6"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "dificil",
+      "miniLesson": "João, 25 anos, procura atendimento psicológico após perceber que, sempre que está prestes a alcançar uma conquista importante, encontra alguma maneira de desistir ou acaba cometendo erros que prejudicam seus resultados. Embora reconheça conscientemente que deseja ter sucesso, afirma: \"É como se uma parte de mim não quisesse que as coisas dessem certo\". Durante as sessões, João relata que seu pai costumava exigir que ele fosse sempre o melhor e demonstrava decepção quando ele cometia erros. Ao falar sobre essas situações, João afirma que isso não teve importância e muda de assunto. Algumas semanas depois, começa a chegar atrasado às sessões e questiona se realmente precisa continuar o tratamento. Considerando os pressupostos da Psicanálise, assinale a alternativa que apresenta a interpretação mais adequada do caso: Sob a ótica psicanalítica, o autossabotamento de João sugere um conflito psíquico inconsciente (possivelmente ligado às exigências e à decepção do pai internalizadas), e a mudança de assunto, os atrasos e a resistência a continuar o tratamento são interpretados como mecanismos de resistência — defesas do ego contra a emergência de conteúdos inconscientes conflituosos."
+    },
+    {
+      "id": "fund-obj-746",
+      "topic": "Revisão Simulado 1",
+      "question": "Um marco frequentemente associado à consolidação da Psicologia como ciência ocorreu no século XIX, quando Wilhelm Wundt criou um laboratório dedicado à investigação de processos psicológicos em Leipzig, na Alemanha. Esse acontecimento é importante porque:",
+      "options": {
+        "a": "Representou o início dos estudos psicológicos exclusivamente religiosos.",
+        "b": "Demonstrou que a Psicologia poderia desenvolver investigações experimentais próprias.",
+        "c": "Eliminou a influência da Filosofia sobre todos os estudos psicológicos.",
+        "d": "Estabeleceu a Psicanálise como principal escola psicológica.",
+        "e": "Definiu o comportamento como único objeto possível da Psicologia."
+      },
+      "correct": "b",
+      "explanation": "A fundação do laboratório de Wundt em 1879, em Leipzig, é considerada o marco do nascimento da Psicologia experimental, pois demonstrou que era possível investigar processos psicológicos por meio de métodos experimentais próprios, e não apenas especulação filosófica.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "7"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio",
+      "miniLesson": "Um marco frequentemente associado à consolidação da Psicologia como ciência ocorreu no século XIX, quando Wilhelm Wundt criou um laboratório dedicado à investigação de processos psicológicos em Leipzig, na Alemanha. Esse acontecimento é importante porque: A fundação do laboratório de Wundt em 1879, em Leipzig, é considerada o marco do nascimento da Psicologia experimental, pois demonstrou que era possível investigar processos psicológicos por meio de métodos experimentais próprios, e não apenas especulação filosófica."
+    },
+    {
+      "id": "fund-obj-747",
+      "topic": "Revisão Simulado 1",
+      "question": "Considere a seguinte situação: uma pessoa observa uma árvore e forma em sua mente a ideia desse objeto. De acordo com a classificação de Descartes, essa ideia pode ser considerada:",
+      "options": {
+        "a": "Inata, pois todas as ideias sobre objetos já estão prontas na mente.",
+        "b": "Inata, pois resulta exclusivamente da razão.",
+        "c": "Inata, pois não depende da experiência.",
+        "d": "Impossível, pois os sentidos não participam da formação de ideias.",
+        "e": "Derivada ou adventícia, pois está relacionada à experiência sensível."
+      },
+      "correct": "e",
+      "explanation": "Observar uma árvore e formar a ideia correspondente é um exemplo típico de ideia derivada ou adventícia, já que ela chega à mente por meio da experiência sensível (a visão do objeto), e não está presente na razão independentemente da experiência.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "8"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "baixo",
+      "miniLesson": "Considere a seguinte situação: uma pessoa observa uma árvore e forma em sua mente a ideia desse objeto. De acordo com a classificação de Descartes, essa ideia pode ser considerada: Observar uma árvore e formar a ideia correspondente é um exemplo típico de ideia derivada ou adventícia, já que ela chega à mente por meio da experiência sensível (a visão do objeto), e não está presente na razão independentemente da experiência."
+    },
+    {
+      "id": "fund-obj-748",
+      "topic": "Revisão Simulado 1",
+      "question": "Na primeira tópica, Freud propôs uma compreensão do aparelho psíquico a partir dos sistemas inconsciente, pré-consciente e consciente. Posteriormente, diante dos limites desse primeiro modelo para explicar determinados fenômenos clínicos, Freud reformulou sua concepção e apresentou, em 1923, a chamada segunda tópica, constituída pelas instâncias Isso (id), Eu (ego) e Supereu (superego). Nessa nova formulação, o aparelho psíquico passa a ser compreendido como resultado da interação entre diferentes instâncias, que apresentam funções e exigências distintas. De acordo com a teoria psicanalítica freudiana, qual é o papel principal desempenhado pelo Eu (Ego) na segunda tópica do aparelho psíquico?",
+      "options": {
+        "a": "Atuar como a sede primitiva das pulsões, buscando sua satisfação imediata segundo o princípio do prazer.",
+        "b": "Mediar as exigências pulsionais do Isso (id), as imposições da realidade e as demandas do Supereu (superego).",
+        "c": "Estabelecer julgamentos morais e sentimentos de culpa por meio da internalização de normas e valores.",
+        "d": "Exercer a função simbólica de separar de forma definitiva a relação dual entre mãe e bebê.",
+        "e": "Buscar a satisfação imediata dos desejos inconscientes, sem considerar as exigências da realidade ou as normas internalizadas."
+      },
+      "correct": "b",
+      "explanation": "Na segunda tópica freudiana, o Eu (Ego) desempenha a função de mediador: administra as exigências pulsionais vindas do Isso (id), as imposições e limites da realidade externa, e as demandas morais/normativas do Supereu (superego).",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "9"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio",
+      "miniLesson": "Na primeira tópica, Freud propôs uma compreensão do aparelho psíquico a partir dos sistemas inconsciente, pré-consciente e consciente. Posteriormente, diante dos limites desse primeiro modelo para explicar determinados fenômenos clínicos, Freud reformulou sua concepção e apresentou, em 1923, a chamada segunda tópica, constituída pelas instâncias Isso (id), Eu (ego) e Supereu (superego). Nessa nova formulação, o aparelho psíquico passa a ser compreendido como resultado da interação entre diferentes instâncias, que apresentam funções e exigências distintas. De acordo com a teoria psicanalítica freudiana, qual é o papel principal desempenhado pelo Eu (Ego) na segunda tópica do aparelho psíquico? Na segunda tópica freudiana, o Eu (Ego) desempenha a função de mediador: administra as exigências pulsionais vindas do Isso (id), as imposições e limites da realidade externa, e as demandas morais/normativas do Supereu (superego)."
+    },
+    {
+      "id": "fund-obj-749",
+      "topic": "Revisão Simulado 1",
+      "question": "Identifique as afirmativas abaixo, assinalando \"1\" para Racionalismo e \"2\" para Empirismo para, depois, marcar a alternativa que apresenta a sequência correta: ( ) Defende que o conhecimento se inicia pela experiência, pela observação e pelas sensações que temos do mundo. ( ) A partir da observação da realidade, é possível organizar as informações, identificar regularidades e, por meio da abstração e da razão, chegar a conhecimentos mais gerais. ( ) Considera que o conhecimento é construído a partir da experiência, dos hábitos e das relações que estabelecemos com o mundo. ( ) Defende uma distinção entre alma e corpo e considera que existem estruturas ou ideias que não dependem da experiência para serem conhecidas. ( ) Defende que a razão é o principal meio para alcançar conhecimentos verdadeiros e universais. ( ) Considera que algumas ideias ou princípios fundamentais são inatos, não sendo adquiridos exclusivamente por meio da experiência.",
+      "options": {
+        "a": "2 – 2 – 2 – 1 – 1 – 1",
+        "b": "2 – 2 – 1 – 2 – 1 – 1",
+        "c": "1 – 2 – 2 – 1 – 1 – 2",
+        "d": "2 – 2 – 1 – 1 – 2 – 1",
+        "e": "1 – 1 – 1 – 2 – 2 – 2"
+      },
+      "correct": "a",
+      "explanation": "As três primeiras afirmativas descrevem o Empirismo (conhecimento a partir da experiência, observação, sensações, hábitos), e as três últimas descrevem o Racionalismo (dualismo alma-corpo, primazia da razão, ideias inatas) — sequência 2-2-2-1-1-1.",
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "10"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "dificil",
+      "miniLesson": "Identifique as afirmativas abaixo, assinalando \"1\" para Racionalismo e \"2\" para Empirismo para, depois, marcar a alternativa que apresenta a sequência correta: ( ) Defende que o conhecimento se inicia pela experiência, pela observação e pelas sensações que temos do mundo. ( ) A partir da observação da realidade, é possível organizar as informações, identificar regularidades e, por meio da abstração e da razão, chegar a conhecimentos mais gerais. ( ) Considera que o conhecimento é construído a partir da experiência, dos hábitos e das relações que estabelecemos com o mundo. ( ) Defende uma distinção entre alma e corpo e considera que existem estruturas ou ideias que não dependem da experiência para serem conhecidas. ( ) Defende que a razão é o principal meio para alcançar conhecimentos verdadeiros e universais. ( ) Considera que algumas ideias ou princípios fundamentais são inatos, não sendo adquiridos exclusivamente por meio da experiência. As três primeiras afirmativas descrevem o Empirismo (conhecimento a partir da experiência, observação, sensações, hábitos), e as três últimas descrevem o Racionalismo (dualismo alma-corpo, primazia da razão, ideias inatas) — sequência 2-2-2-1-1-1."
     }
   ],
   "discursive": [
@@ -25551,6 +25771,167 @@
         "page": "7"
       },
       "subject": "Dualismo Cartesiano e Mente-Corpo",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-241",
+      "topic": "Revisão Simulado 1",
+      "question": "Uma pessoa profissional de psicologia organizacional é contratada por uma grande empresa de tecnologia para reformular o processo de recrutamento. Em vez de focar em traços de personalidade estáticos, a pessoa psicóloga decide implementar testes que avaliam como as pessoas candidatas resolvem problemas práticos, tomam decisões sob pressão e se ajustam rapidamente a mudanças no ambiente de trabalho. A abordagem adotada por essa profissional alinha-se aos princípios da escola de pensamento psicológico denominada:",
+      "modelAnswer": "A abordagem descrita alinha-se ao Funcionalismo. Diferentemente do Estruturalismo (que buscava identificar os elementos estáticos e a estrutura da consciência), o Funcionalismo, influenciado por William James e John Dewey, e pela teoria da evolução de Darwin, está interessado na função e na utilidade adaptativa dos processos mentais e comportamentais — como a mente e o comportamento ajudam o indivíduo a se adaptar e a resolver problemas em seu ambiente. Ao avaliar como as pessoas candidatas resolvem problemas práticos, tomam decisões sob pressão e se ajustam a mudanças, a profissional está justamente investigando a função adaptativa desses processos, e não traços estáticos de personalidade — o que é a marca central do pensamento funcionalista.",
+      "keyPoints": [
+        {
+          "text": "Identifica a escola como Funcionalismo",
+          "weight": 0.4,
+          "keywords": [
+            "funcionalismo"
+          ]
+        },
+        {
+          "text": "Contrasta com o Estruturalismo (estático x adaptativo/funcional)",
+          "weight": 0.3,
+          "keywords": [
+            "estruturalismo",
+            "estático",
+            "adaptativo"
+          ]
+        },
+        {
+          "text": "Relaciona à função/utilidade adaptativa dos processos mentais frente ao ambiente",
+          "weight": 0.3,
+          "keywords": [
+            "função",
+            "adaptação",
+            "ambiente"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "11"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-242",
+      "topic": "Revisão Simulado 1",
+      "question": "A transição da psicologia para o estatuto de ciência objetiva exigiu a adoção de métodos rigorosos de quantificação, influenciados pelo modelo positivista. Gustav Fechner, baseando-se nos estudos fisiológicos de Ernst Weber sobre o limiar diferencial, formulou uma lei matemática que estabeleceu um marco na história da disciplina. O principal avanço científico proporcionado pela Lei de Weber-Fechner consistiu em:",
+      "modelAnswer": "O principal avanço da Lei de Weber-Fechner foi demonstrar, pela primeira vez, que era possível estabelecer uma relação matemática precisa e mensurável entre a intensidade de um estímulo físico (variável objetiva, externa) e a intensidade da sensação subjetiva correspondente (variável psicológica, interna) — a sensação varia proporcionalmente ao logaritmo da intensidade do estímulo. Isso fundou a Psicofísica como campo de estudo, mostrando que fenômenos mentais, até então considerados puramente subjetivos e inacessíveis à ciência, podiam ser quantificados e estudados com o mesmo rigor experimental das ciências naturais — um passo decisivo para a consolidação da Psicologia como ciência objetiva e experimental.",
+      "keyPoints": [
+        {
+          "text": "Estabelece relação matemática/quantificável entre estímulo físico e sensação subjetiva",
+          "weight": 0.4,
+          "keywords": [
+            "estímulo",
+            "sensação",
+            "quantificação",
+            "matemática"
+          ]
+        },
+        {
+          "text": "Funda a Psicofísica como campo de estudo",
+          "weight": 0.3,
+          "keywords": [
+            "psicofísica"
+          ]
+        },
+        {
+          "text": "Permite tratar fenômenos mentais com rigor experimental, consolidando a psicologia como ciência",
+          "weight": 0.3,
+          "keywords": [
+            "rigor experimental",
+            "ciência"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "12"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "fund-disc-243",
+      "topic": "Revisão Simulado 1",
+      "question": "Em um hospital geral, a equipe de saúde divide o atendimento de uma pessoa paciente da seguinte maneira: a equipe médica prescreve medicamentos para tratar as dores físicas e os sintomas gástricos, enquanto a equipe de psicologia conduz sessões de psicoterapia para investigar os conflitos emocionais e o estresse no trabalho. Essa divisão prática do cuidado reflete uma matriz filosófica histórica que influenciou a formulação da psicologia. Identifica-se nessa situação o princípio filosófico fundamentado no:",
+      "modelAnswer": "Identifica-se, nessa situação, o dualismo cartesiano (dualismo mente-corpo), proposto por René Descartes. Descartes concebeu o ser humano como composto por duas substâncias distintas e incompatíveis: a res cogitans (a mente, imaterial) e a res extensa (o corpo, material). Essa separação radical influenciou profundamente a organização do cuidado em saúde no mundo ocidental, fazendo com que, historicamente, o corpo físico (sintomas, doenças orgânicas) fosse atribuído ao domínio da Medicina, enquanto a mente (emoções, conflitos psíquicos) fosse atribuída ao domínio da Psicologia — exatamente a divisão de trabalho observada no hospital do enunciado, um eco direto do legado dualista que a abordagem biopsicossocial atual busca superar.",
+      "keyPoints": [
+        {
+          "text": "Identifica o dualismo cartesiano/dualismo mente-corpo de Descartes",
+          "weight": 0.5,
+          "keywords": [
+            "dualismo cartesiano",
+            "Descartes",
+            "mente-corpo"
+          ]
+        },
+        {
+          "text": "Explica a separação res cogitans (mente) / res extensa (corpo)",
+          "weight": 0.3,
+          "keywords": [
+            "res cogitans",
+            "res extensa"
+          ]
+        },
+        {
+          "text": "Relaciona à divisão histórica do cuidado entre medicina (corpo) e psicologia (mente)",
+          "weight": 0.2,
+          "keywords": [
+            "divisão do cuidado",
+            "medicina",
+            "psicologia"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "13"
+      },
+      "subject": "Revisão Simulado 1",
+      "difficulty": "medio"
+    },
+    {
+      "id": "fund-disc-244",
+      "topic": "Revisão Simulado 1",
+      "question": "O laboratório fundado por Wilhelm Wundt em 1879 utilizou o método da introspecção experimental para investigar a experiência consciente imediata. Durante os experimentos, as pessoas participantes passavam por um treinamento rigoroso para evitar um tipo específico de falha metodológica ao relatar suas percepções. O conceito que descreve a falha em que a pessoa participante relata o objeto físico em si, em vez dos elementos sensoriais básicos provocados por ele, denomina-se:",
+      "modelAnswer": "O conceito descrito é o erro do estímulo (stimulus error), termo cunhado por Edward Titchener, discípulo de Wundt e fundador do Estruturalismo. O erro do estímulo ocorre quando a pessoa participante, ao realizar a introspecção experimental, relata o significado ou a identidade do objeto físico percebido (por exemplo, dizer 'vejo uma maçã vermelha') em vez de descrever apenas os elementos sensoriais básicos e imediatos da experiência consciente provocados por esse objeto (por exemplo, a sensação de cor, forma e brilho, sem nomear o objeto). Evitar esse erro era fundamental para o método introspeccionista, cujo objetivo era decompor a consciência em seus elementos mais simples, e não descrever o mundo por meio de categorias e significados já aprendidos.",
+      "keyPoints": [
+        {
+          "text": "Identifica o conceito como erro do estímulo (stimulus error)",
+          "weight": 0.5,
+          "keywords": [
+            "erro do estímulo",
+            "stimulus error"
+          ]
+        },
+        {
+          "text": "Relaciona ao Estruturalismo/Titchener e ao método da introspecção",
+          "weight": 0.3,
+          "keywords": [
+            "estruturalismo",
+            "Titchener",
+            "introspecção"
+          ]
+        },
+        {
+          "text": "Explica a diferença entre relatar o objeto (significado) e relatar os elementos sensoriais básicos",
+          "weight": 0.2,
+          "keywords": [
+            "elementos sensoriais",
+            "objeto físico"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Fundamentos His. e Epistemologicos da Psicologia",
+        "document": "Questões Extras de Sala",
+        "page": "14"
+      },
+      "subject": "Revisão Simulado 1",
       "difficulty": "dificil"
     }
   ],
