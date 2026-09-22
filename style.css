@@ -196,6 +196,7 @@ button{ font-family:inherit; cursor:pointer; }
 .q-counter{ color:var(--text-dim); font-size:0.85rem; margin:0 0 4px; }
 .q-topic{ color:var(--accent); font-size:0.85rem; margin:0 0 10px; font-weight:600; }
 .q-text{ font-size:1.3rem; line-height:1.5; margin: 0 0 20px; }
+.q-image{ display:block; max-width:100%; max-height:420px; margin: 0 0 20px; border-radius:8px; border:1px solid var(--border); }
 
 .options-list{ display:flex; flex-direction:column; gap:10px; margin-bottom:20px; }
 .option-item{

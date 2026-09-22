@@ -113,6 +113,18 @@ function escapeHtml(str) {
   return (str || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
+function setQuestionImage(elId, q) {
+  const img = document.getElementById(elId);
+  if (!img) return;
+  if (q.image) {
+    img.src = "data/" + q.image;
+    img.classList.remove("hidden");
+  } else {
+    img.removeAttribute("src");
+    img.classList.add("hidden");
+  }
+}
+
 function renderSourceLine(source) {
   if (!source || !source.document) return "";
   let line = "📄 Fonte: " + escapeHtml(source.document);
@@ -1034,7 +1046,8 @@ function openPrintableExam(questions, mode) {
     const n = idx + 1;
     questionsHtml += `<div class="pq">
       <p class="pq-head"><strong>${n}.</strong> <span class="pq-topic">${escapeHtml(q.topic || q.subject || "")}</span></p>
-      <p class="pq-text">${escapeHtml(q.question)}</p>`;
+      <p class="pq-text">${escapeHtml(q.question)}</p>
+      ${q.image ? `<img class="pq-image" src="${location.origin}/data/${q.image}" />` : ""}`;
 
     if (mode === "objective") {
       questionsHtml += `<ul class="pq-options">` +
@@ -1063,6 +1076,7 @@ function openPrintableExam(questions, mode) {
   .pq-head { margin: 0 0 2px; }
   .pq-topic { color: #666; font-size: 12px; font-style: italic; }
   .pq-text { margin: 4px 0 8px; font-weight: 600; }
+  .pq-image { display: block; max-width: 100%; max-height: 320px; margin: 6px 0 10px; }
   .pq-options { list-style: none; padding: 0; margin: 0; }
   .pq-options li { margin: 4px 0 4px 12px; }
   .pq-lines { border-bottom: 1px solid #bbb; height: 28px; margin: 6px 0; }
@@ -1119,6 +1133,7 @@ function renderObjective() {
   document.getElementById("objCounter").textContent = `Questão ${state.index + 1} de ${state.questions.length}`;
   document.getElementById("objTopic").textContent = (q.topic || "") + (q.difficulty ? "  ·  " + (DIFF_LABEL[q.difficulty] || q.difficulty) : "");
   document.getElementById("objQuestion").textContent = q.question;
+  setQuestionImage("objQuestionImage", q);
 
   const optsEl = document.getElementById("objOptions");
   optsEl.innerHTML = "";
@@ -1199,6 +1214,7 @@ function renderDiscursive() {
   document.getElementById("discCounter").textContent = `Questão ${state.index + 1} de ${state.questions.length}`;
   document.getElementById("discTopic").textContent = (q.topic || "") + (q.difficulty ? "  ·  " + (DIFF_LABEL[q.difficulty] || q.difficulty) : "");
   document.getElementById("discQuestion").textContent = q.question;
+  setQuestionImage("discQuestionImage", q);
 
   const answerEl = document.getElementById("discAnswer");
   const prevBtn = document.getElementById("discPrevBtn");
@@ -1329,6 +1345,7 @@ function renderOral() {
   document.getElementById("oralCounter").textContent = `Questão ${state.index + 1} de ${state.questions.length}`;
   document.getElementById("oralTopic").textContent = (q.topic || "") + (q.difficulty ? "  ·  " + (DIFF_LABEL[q.difficulty] || q.difficulty) : "");
   document.getElementById("oralQuestion").textContent = q.question;
+  setQuestionImage("oralQuestionImage", q);
   document.getElementById("oralStatus").textContent = "";
   document.getElementById("oralTranscriptBox").classList.add("hidden");
   document.getElementById("oralTranscript").textContent = "";
