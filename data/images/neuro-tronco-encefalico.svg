@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="420" height="320">
+  <rect width="420" height="320" fill="#ffffff"/>
+  <text x="20" y="28" font-size="20" font-weight="bold" fill="#111">Tronco Encefálico</text>
+
+  <!-- Contorno do encéfalo (visão sagital mediana, estilizado) -->
+  <path d="M 60,90
+           C 55,55 100,30 160,28
+           C 230,25 290,45 305,90
+           C 315,120 305,150 285,165
+           L 250,175
+           C 245,185 235,190 220,188
+           L 90,150
+           C 65,135 60,115 60,90 Z"
+        fill="#ffffff" stroke="#222" stroke-width="2.5"/>
+
+  <!-- Cerebelo (hachurado) -->
+  <g stroke="#333" stroke-width="1">
+    <path d="M 195,150 C 200,175 225,195 255,195 C 285,195 305,178 305,155 C 305,140 290,128 260,128 C 230,128 200,132 195,150 Z" fill="#fff"/>
+    <path d="M 205,145 L 215,190 M 215,140 L 228,193 M 228,137 L 242,195 M 242,135 L 255,196 M 255,134 L 268,194 M 268,135 L 280,188 M 280,138 L 292,178 M 292,142 L 300,165" stroke="#555" stroke-width="1"/>
+  </g>
+
+  <!-- Corpo caloso / tálamo (contexto, sem rótulo) -->
+  <ellipse cx="175" cy="70" rx="55" ry="16" fill="none" stroke="#222" stroke-width="1.5"/>
+  <circle cx="180" cy="95" r="18" fill="none" stroke="#222" stroke-width="1.5"/>
+
+  <!-- TRONCO ENCEFÁLICO destacado em verde: mesencéfalo + ponte + bulbo -->
+  <path d="M 190,108
+           C 198,106 208,108 212,116
+           C 216,124 214,134 208,140
+           C 214,146 218,156 214,166
+           C 210,178 198,190 186,196
+           C 176,200 166,196 162,186
+           C 158,176 160,160 168,146
+           C 160,140 156,130 160,120
+           C 164,110 178,106 190,108 Z"
+        fill="#4caf50" stroke="#1b5e20" stroke-width="2"/>
+
+  <!-- Linha de indicação até a caixa em branco -->
+  <line x1="214" y1="170" x2="330" y2="230" stroke="#111" stroke-width="1.5"/>
+  <rect x="330" y="210" width="70" height="40" rx="4" fill="#fff" stroke="#111" stroke-width="3"/>
+
+  <text x="30" y="300" font-size="13" fill="#333">Estrutura em destaque (verde): mesencéfalo, ponte e bulbo — escreva o nome na caixa.</text>
+</svg>

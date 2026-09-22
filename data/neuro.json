@@ -13458,6 +13458,29 @@
       "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
       "difficulty": "medio",
       "miniLesson": "Além dos neurônios, o sistema nervoso é formado por células da glia (neuroglia). Sobre essas células, é correto afirmar que: As células da neuroglia (astrócitos, micróglia, oligodendrócitos, ependimárias no SNC; células satélites e de Schwann no SNP) não geram potenciais de ação, mas sustentam, nutrem e protegem os neurônios, além de formarem a bainha de mielina."
+    },
+    {
+      "id": "neuro-obj-580",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Observe a imagem a seguir, que numera as principais regiões do encéfalo em uma vista lateral. A numeração de 1 a 5 corresponde, respectivamente, a:",
+      "image": "images/neuro-lobos-cerebrais.svg",
+      "options": {
+        "a": "Lobo parietal, lobo frontal, lobo occipital, lobo temporal e cerebelo.",
+        "b": "Lobo frontal, lobo parietal, lobo temporal, lobo occipital e cerebelo.",
+        "c": "Lobo frontal, lobo temporal, lobo parietal, lobo occipital e tronco encefálico.",
+        "d": "Lobo occipital, lobo parietal, lobo frontal, lobo temporal e cerebelo.",
+        "e": "Lobo frontal, lobo parietal, lobo occipital, lobo temporal e bulbo."
+      },
+      "correct": "b",
+      "explanation": "Na vista lateral do encéfalo, a numeração segue a disposição anteroposterior dos lobos: 1 = lobo frontal (região mais anterior, à frente do sulco central), 2 = lobo parietal (posterior ao sulco central), 3 = lobo temporal (região inferior, abaixo do sulco lateral), 4 = lobo occipital (região mais posterior) e 5 = cerebelo (estrutura posteroinferior, abaixo do lobo occipital, não é um lobo cerebral, mas frequentemente representada no mesmo esquema por sua posição).",
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "8-9"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "medio",
+      "miniLesson": "Observe a imagem a seguir, que numera as principais regiões do encéfalo em uma vista lateral. A numeração de 1 a 5 corresponde, respectivamente, a: Na vista lateral do encéfalo, a numeração segue a disposição anteroposterior dos lobos: 1 = lobo frontal (região mais anterior, à frente do sulco central), 2 = lobo parietal (posterior ao sulco central), 3 = lobo temporal (região inferior, abaixo do sulco lateral), 4 = lobo occipital (região mais posterior) e 5 = cerebelo (estrutura posteroinferior, abaixo do lobo occipital, não é um lobo cerebral, mas frequentemente representada no mesmo esquema por sua posição)."
     }
   ],
   "discursive": [
@@ -20664,6 +20687,48 @@
       },
       "subject": "Nervos cranianos",
       "difficulty": "dificil"
+    },
+    {
+      "id": "neuro-disc-176",
+      "topic": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "question": "Observe a imagem: em um corte sagital mediano do encéfalo, uma região é destacada em verde e indicada por uma seta até uma caixa em branco, pedindo a identificação da estrutura. Que estrutura do encéfalo está destacada, quais são suas três subdivisões e qual é a função geral dessa região?",
+      "image": "images/neuro-tronco-encefalico.svg",
+      "modelAnswer": "A estrutura destacada é o tronco encefálico, a porção do encéfalo que conecta o cérebro e o diencéfalo à medula espinal. Ele é formado por três subdivisões, no sentido craniocaudal: o mesencéfalo (a parte mais superior, logo abaixo do diencéfalo), a ponte (segmento intermediário, anterior ao cerebelo, ao qual se conecta pelos pedúnculos cerebelares) e o bulbo ou medula oblonga (a parte mais inferior, que se continua diretamente com a medula espinal). Funcionalmente, o tronco encefálico é responsável por funções vitais automáticas — como o controle da respiração, dos batimentos cardíacos e da pressão arterial —, por abrigar os núcleos da maioria dos nervos cranianos, e por servir como via de passagem para praticamente todas as fibras motoras e sensitivas que trafegam entre o encéfalo e a medula espinal.",
+      "keyPoints": [
+        {
+          "text": "Identifica a estrutura como tronco encefálico",
+          "weight": 0.3,
+          "keywords": [
+            "tronco encefálico"
+          ]
+        },
+        {
+          "text": "Cita as três subdivisões: mesencéfalo, ponte e bulbo (medula oblonga)",
+          "weight": 0.4,
+          "keywords": [
+            "mesencéfalo",
+            "ponte",
+            "bulbo",
+            "medula oblonga"
+          ]
+        },
+        {
+          "text": "Descreve a função geral: funções vitais automáticas, núcleos de nervos cranianos, via de passagem de fibras",
+          "weight": 0.3,
+          "keywords": [
+            "funções vitais",
+            "nervos cranianos",
+            "via de passagem"
+          ]
+        }
+      ],
+      "source": {
+        "folder": "1 Semestre/Neuroanatomofisiologia",
+        "document": "Questões Extras de Sala",
+        "page": "8-9"
+      },
+      "subject": "Revisão 1 — Estruturas e Funções do Sistema Nervoso",
+      "difficulty": "medio"
     }
   ],
   "oral": [
