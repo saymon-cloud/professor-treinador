@@ -1013,6 +1013,8 @@ function startSession() {
   // foi escrito ou refazer uma correção que já tinha sido feita.
   state.discDrafts = new Array(questions.length).fill("");
   state.discResults = new Array(questions.length).fill(null);
+  state.objDrafts = new Array(questions.length).fill(null);
+  state.objResults = new Array(questions.length).fill(null);
 
   crumbsPath([
     state.currentCourse.label, state.currentSemester.label, state.currentDiscipline.title, subjectsLabel(),
@@ -1126,8 +1128,9 @@ let objConfirmed = false;
 function renderObjective() {
   showScreen("screen-objective");
   const q = state.questions[state.index];
-  objSelectedKey = null;
-  objConfirmed = false;
+  const cached = state.objResults[state.index];
+  objSelectedKey = cached ? cached.selectedKey : (state.objDrafts[state.index] || null);
+  objConfirmed = !!cached;
 
   document.getElementById("objProgress").style.width = ((state.index) / state.questions.length * 100) + "%";
   document.getElementById("objCounter").textContent = `Questão ${state.index + 1} de ${state.questions.length}`;
@@ -1135,27 +1138,53 @@ function renderObjective() {
   document.getElementById("objQuestion").textContent = q.question;
   setQuestionImage("objQuestionImage", q);
 
+  const prevBtn = document.getElementById("objPrevBtn");
+  const confirmBtn = document.getElementById("objConfirmBtn");
+  const skipBtn = document.getElementById("objSkipBtn");
+  const nextBtn = document.getElementById("objNextBtn");
+  prevBtn.disabled = state.index === 0;
+
   const optsEl = document.getElementById("objOptions");
   optsEl.innerHTML = "";
   Object.entries(q.options).forEach(([key, text]) => {
     const item = document.createElement("div");
     item.className = "option-item";
+    if (key === objSelectedKey) item.classList.add("selected");
     item.innerHTML = `<span class="option-letter">${key.toUpperCase()})</span><span>${text}</span>`;
     item.addEventListener("click", () => {
       if (objConfirmed) return;
       document.querySelectorAll("#objOptions .option-item").forEach(o => o.classList.remove("selected"));
       item.classList.add("selected");
       objSelectedKey = key;
-      document.getElementById("objConfirmBtn").disabled = false;
+      state.objDrafts[state.index] = key;
+      confirmBtn.disabled = false;
     });
     item.dataset.key = key;
     optsEl.appendChild(item);
   });
 
-  document.getElementById("objFeedback").classList.add("hidden");
-  document.getElementById("objConfirmBtn").classList.remove("hidden");
-  document.getElementById("objConfirmBtn").disabled = true;
-  document.getElementById("objNextBtn").classList.add("hidden");
+  const fb = document.getElementById("objFeedback");
+  if (cached) {
+    document.querySelectorAll("#objOptions .option-item").forEach(o => {
+      if (o.dataset.key === q.correct) o.classList.add("correct");
+      else if (o.dataset.key === cached.selectedKey) o.classList.add("incorrect");
+    });
+    fb.className = "feedback-box " + (cached.correct ? "ok" : "bad");
+    fb.innerHTML = `<div class="feedback-score ${cached.correct ? "good" : "low"}">${cached.correct ? "✔ Correto!" : "✘ Incorreto"}</div>
+      ${q.explanation ? `<div>${q.explanation}</div>` : ""}
+      ${!cached.correct ? `<div style="margin-top:8px;color:var(--text-dim)">Resposta correta: <b>${q.correct.toUpperCase()}</b></div>` : ""}
+      ${renderSourceLine(q.source)}`;
+    fb.classList.remove("hidden");
+    confirmBtn.classList.add("hidden");
+    skipBtn.classList.add("hidden");
+    nextBtn.classList.remove("hidden");
+  } else {
+    fb.classList.add("hidden");
+    confirmBtn.classList.remove("hidden");
+    confirmBtn.disabled = !objSelectedKey;
+    skipBtn.classList.remove("hidden");
+    nextBtn.classList.add("hidden");
+  }
 }
 
 document.getElementById("objConfirmBtn").addEventListener("click", () => {
@@ -1176,6 +1205,8 @@ document.getElementById("objConfirmBtn").addEventListener("click", () => {
     ${renderSourceLine(q.source)}`;
   fb.classList.remove("hidden");
 
+  state.objResults[state.index] = { correct, selectedKey: objSelectedKey };
+  state.objDrafts[state.index] = objSelectedKey;
   state.answers.push({ question: q.question, score: correct ? 10 : 0, correct });
   const objUserAnswer = objSelectedKey ? `${objSelectedKey.toUpperCase()}) ${q.options[objSelectedKey]}` : "";
   recordAnswer({ q, mode: "objective", correct, userAnswer: objUserAnswer, score: correct ? 10 : 0 });
@@ -1190,18 +1221,36 @@ document.getElementById("objConfirmBtn").addEventListener("click", () => {
   }
 
   document.getElementById("objConfirmBtn").classList.add("hidden");
+  document.getElementById("objSkipBtn").classList.add("hidden");
   document.getElementById("objNextBtn").classList.remove("hidden");
 });
 
-document.getElementById("objNextBtn").addEventListener("click", () => {
-  state.index++;
-  if (state.index >= state.questions.length) {
+// Salva a seleção ainda não confirmada da questão atual (se houver) e navega
+// para `newIndex`. Ao ultrapassar o fim da lista, volta para a primeira
+// questão ainda pendente (pulada) em vez de encerrar direto, e só finaliza a
+// sessão quando não sobrar nenhuma — mesmo padrão do modo discursivo.
+function objGoTo(newIndex) {
+  if (!state.objResults[state.index]) {
+    state.objDrafts[state.index] = objSelectedKey;
+  }
+  if (newIndex >= state.questions.length) {
+    const pendingIdx = state.objResults.findIndex(r => !r);
+    if (pendingIdx !== -1) {
+      state.index = pendingIdx;
+      renderObjective();
+      return;
+    }
     document.getElementById("objProgress").style.width = "100%";
     finishSession();
-  } else {
-    renderObjective();
+    return;
   }
-});
+  state.index = Math.max(0, newIndex);
+  renderObjective();
+}
+
+document.getElementById("objPrevBtn").addEventListener("click", () => objGoTo(state.index - 1));
+document.getElementById("objSkipBtn").addEventListener("click", () => objGoTo(state.index + 1));
+document.getElementById("objNextBtn").addEventListener("click", () => objGoTo(state.index + 1));
 
 // ---------- Modo Discursivo ----------
 
