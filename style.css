@@ -198,6 +198,13 @@ button{ font-family:inherit; cursor:pointer; }
 .q-text{ font-size:1.3rem; line-height:1.5; margin: 0 0 20px; }
 .q-image{ display:block; max-width:100%; max-height:420px; margin: 0 0 20px; border-radius:8px; border:1px solid var(--border); }
 
+.corrections-box{ background:var(--panel); border:1px solid var(--border); border-radius:10px; padding:12px 16px; margin: 12px 0 20px; }
+.corrections-box h3{ margin:0 0 8px; font-size:0.95rem; color:var(--accent); }
+.corrections-list{ display:flex; flex-direction:column; gap:6px; }
+.correction-item{ display:flex; justify-content:space-between; gap:12px; padding:8px 10px; border-radius:6px; background:var(--panel-2); color:var(--text); text-decoration:none; font-size:0.9rem; }
+.correction-item:hover{ background:var(--border); }
+.correction-date{ color:var(--text-dim); font-size:0.8rem; white-space:nowrap; }
+
 .options-list{ display:flex; flex-direction:column; gap:10px; margin-bottom:20px; }
 .option-item{
   background: var(--panel);

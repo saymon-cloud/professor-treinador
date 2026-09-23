@@ -591,7 +591,37 @@ async function selectDiscipline(disc) {
   await loadBank(disc);
   state.selectedSubjects = new Set();
   renderSubjects();
+  renderCorrections(disc);
   showScreen("screen-subjects");
+}
+
+// ---------- Correções de provas (gabaritos em PDF por disciplina) ----------
+
+let correctionsCache = null;
+
+async function renderCorrections(disc) {
+  const box = document.getElementById("correctionsBox");
+  const list = document.getElementById("correctionsList");
+  try {
+    if (!correctionsCache) {
+      const res = await fetch("data/correcoes.json");
+      correctionsCache = res.ok ? await res.json() : {};
+    }
+    const items = correctionsCache[disc.id] || [];
+    if (items.length === 0) {
+      box.classList.add("hidden");
+      return;
+    }
+    list.innerHTML = items.map(it => `
+      <a class="correction-item" href="${it.file}" target="_blank" rel="noopener">
+        <span>📄 ${escapeHtml(it.title)}</span>
+        ${it.date ? `<span class="correction-date">${escapeHtml(it.date)}</span>` : ""}
+      </a>
+    `).join("");
+    box.classList.remove("hidden");
+  } catch {
+    box.classList.add("hidden");
+  }
 }
 
 // ---------- Tela: assuntos (seleção múltipla) ----------
