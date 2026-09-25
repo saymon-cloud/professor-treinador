@@ -12,5 +12,12 @@
       "file": "data/correcoes/fundamentos/SM1_0081153_gabarito.pdf",
       "date": "2026-09-24"
     }
+  ],
+  "teorias_cc": [
+    {
+      "title": "SM1 — Código 0076775 (Versão A) — 5/10 corretas",
+      "file": "data/correcoes/teorias_cc/SM1_0076775_gabarito.pdf",
+      "date": "2026-09-25"
+    }
   ]
 }
