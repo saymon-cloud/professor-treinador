@@ -3840,6 +3840,696 @@
       "subject": "Correição parcial excepcional para deferimento de medidas cautelares urgentes",
       "difficulty": "dificil",
       "miniLesson": "Indeferido pelo juiz de primeiro grau o pedido do Ministério Público de busca e apreensão e quebra de sigilo em investigação por concussão, o MP, em vez de apelar (art. 593, II, CPP), ajuizou correição parcial no Tribunal, que deferiu as medidas sem prévia intimação da defesa. O investigado alegou nulidade por uso da via processual incorreta e ausência de contraditório prévio. Segundo o STJ: O STJ manteve a validade das medidas: a correição parcial é admissível em situações extremamente excepcionais, com evidente inversão tumultuária e risco às investigações, como no deferimento de medidas cautelares urgentes; o contraditório diferido é cabível nessas hipóteses, não configurando nulidade a ausência de intimação prévia sem demonstração de prejuízo concreto à defesa."
+    },
+    {
+      "id": "pcprjur-obj-168",
+      "topic": "Tema 793/STF e inclusão da União no polo passivo de demanda de saúde (home care)",
+      "question": "Em ação de saúde pedindo o fornecimento de home care, a União foi incluída no polo passivo e o processo remetido à Justiça Federal, mas o juiz federal reconheceu sua ilegitimidade e devolveu os autos, gerando conflito de competência. O Estado sustentou que o custeio do home care seria da União, atraindo a competência federal com base no Tema 793/STF (solidariedade dos entes do SUS). Segundo o STJ:",
+      "options": {
+        "c": "A competência é sempre da Justiça Federal em qualquer demanda de saúde, por força da solidariedade entre os entes do SUS reconhecida no Tema 793/STF.",
+        "b": "O Tema 793/STF não autoriza, por si só, a inclusão da União no polo passivo como fundamento para atrair a competência federal, permitindo apenas o redirecionamento da obrigação de fazer ou do ressarcimento conforme as regras de repartição de competências do SUS; excluída a União pelo juízo federal, a competência é da Justiça Estadual, e essa exclusão só pode ser questionada por via recursal, não por conflito de competência.",
+        "a": "O home care está abrangido pelo Tema 1.234/STF sobre medicamentos oncológicos, aplicando-se os mesmos critérios de competência federal para aquisição centralizada.",
+        "d": "A competência é sempre da Justiça Estadual em matéria de saúde, sendo vedada a inclusão da União no polo passivo em qualquer hipótese.",
+        "e": "A exclusão da União pelo juízo federal deveria ter sido impugnada por conflito de competência, e não por recurso, sendo nula a decisão do juiz estadual que suscitou o conflito."
+      },
+      "correct": "b",
+      "explanation": "O STJ decidiu que o Tema 793/STF (solidariedade dos entes do SUS) não autoriza, por si só, a inclusão da União no polo passivo como fundamento para atrair a competência federal — serve apenas para redirecionar a obrigação de fazer ou o ressarcimento; o Tema 1.234/STF, por sua vez, alcança apenas medicamentos, não procedimentos domiciliares como o home care. Excluída a União pelo juízo federal, a competência é da Justiça Estadual (Súmulas 150 e 254/STJ), impugnável apenas por recurso.\n\nSTJ. 1ª Seção. AgInt no CC 216.376-RS, Rel. Min. Afrânio Vilela, julgado em 11/2/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Seção. AgInt no CC 216.376-RS, Rel. Min. Afrânio Vilela, julgado em 11/2/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Tema 793/STF e inclusão da União no polo passivo de demanda de saúde (home care)",
+      "difficulty": "dificil",
+      "miniLesson": "Em ação de saúde pedindo o fornecimento de home care, a União foi incluída no polo passivo e o processo remetido à Justiça Federal, mas o juiz federal reconheceu sua ilegitimidade e devolveu os autos, gerando conflito de competência. O Estado sustentou que o custeio do home care seria da União, atraindo a competência federal com base no Tema 793/STF (solidariedade dos entes do SUS). Segundo o STJ: O STJ decidiu que o Tema 793/STF (solidariedade dos entes do SUS) não autoriza, por si só, a inclusão da União no polo passivo como fundamento para atrair a competência federal — serve apenas para redirecionar a obrigação de fazer ou o ressarcimento; o Tema 1.234/STF, por sua vez, alcança apenas medicamentos, não procedimentos domiciliares como o home care. Excluída a União pelo juízo federal, a competência é da Justiça Estadual (Súmulas 150 e 254/STJ), impugnável apenas por recurso."
+    },
+    {
+      "id": "pcprjur-obj-169",
+      "topic": "Dano moral coletivo pela demora na titulação de território quilombola",
+      "question": "Uma comunidade quilombola, reconhecida como remanescente em 2006 e com relatório técnico de delimitação concluído pelo INCRA em 2017, aguarda há mais de 15 anos a publicação do decreto presidencial de desapropriação necessário à conclusão da titulação de seu território (art. 68 do ADCT). Segundo o STJ:",
+      "options": {
+        "a": "A mera demora administrativa, por mais longa que seja, não gera dano moral coletivo, exigindo-se sempre a comprovação de prejuízo financeiro concreto sofrido pela comunidade.",
+        "b": "A omissão estatal prolongada, injustificada e lesiva na titulação de território quilombola, arrastada por mais de 15 anos, configura, em si mesma (in re ipsa), dano moral coletivo indenizável, por atingir a propriedade coletiva, a identidade étnico-cultural e a razoável duração do processo, dispensando prova de sofrimento ou abalo psicológico específico.",
+        "d": "A responsabilidade pela demora é exclusiva do INCRA, não podendo a União ser condenada solidariamente, já que a publicação do decreto expropriatório é ato de competência exclusivamente autárquica.",
+        "c": "O direito ao território quilombola do art. 68 do ADCT é norma de eficácia limitada, dependente de regulamentação legal superveniente, não sendo exigível judicialmente antes de sua edição.",
+        "e": "A indenização por dano moral coletivo é incabível em favor de comunidades quilombolas, sendo cabível apenas a determinação judicial de conclusão do procedimento administrativo, sem componente indenizatório."
+      },
+      "correct": "b",
+      "explanation": "O STJ condenou a União e o INCRA solidariamente: o dano moral coletivo é aferível in re ipsa (dispensando prova de sofrimento específico), e a omissão estatal prolongada e injustificada na titulação de território quilombola, por mais de 15 anos, configura, por si só, dano moral coletivo, por atingir a propriedade coletiva, a identidade étnico-cultural e a razoável duração do processo — o direito ao território do art. 68 do ADCT tem eficácia plena e aplicação imediata.\n\nSTJ. 1ª Turma. AgInt no REsp 2.153.688-SE, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. AgInt no REsp 2.153.688-SE, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Dano moral coletivo pela demora na titulação de território quilombola",
+      "difficulty": "dificil",
+      "miniLesson": "Uma comunidade quilombola, reconhecida como remanescente em 2006 e com relatório técnico de delimitação concluído pelo INCRA em 2017, aguarda há mais de 15 anos a publicação do decreto presidencial de desapropriação necessário à conclusão da titulação de seu território (art. 68 do ADCT). Segundo o STJ: O STJ condenou a União e o INCRA solidariamente: o dano moral coletivo é aferível in re ipsa (dispensando prova de sofrimento específico), e a omissão estatal prolongada e injustificada na titulação de território quilombola, por mais de 15 anos, configura, por si só, dano moral coletivo, por atingir a propriedade coletiva, a identidade étnico-cultural e a razoável duração do processo — o direito ao território do art. 68 do ADCT tem eficácia plena e aplicação imediata."
+    },
+    {
+      "id": "pcprjur-obj-170",
+      "topic": "Transposição de servidor de ex-Território sem integração ao quadro do MAPA",
+      "question": "Um servidor, admitido pelo extinto Território Federal do Amapá como Médico Veterinário, permaneceu cedido ao Estado após a transformação em Estado, sem nunca integrar o Quadro de Pessoal do Ministério da Agricultura (MAPA). Com a transformação legal dos cargos de Médico Veterinário em Fiscal Federal Agropecuário, ele pediu enquadramento no novo cargo, alegando bastar o exercício das atividades típicas de fiscalização. Segundo o STJ:",
+      "options": {
+        "c": "A transposição deve ser concedida, pois basta o exercício efetivo das atividades de fiscalização agropecuária, sendo dispensável a integração formal ao quadro do MAPA.",
+        "a": "A transposição exige o preenchimento concomitante de todos os requisitos legais do art. 28 da MP nº 2.229-43/2001, entre eles pertencer ao Quadro de Pessoal do MAPA; o servidor que nunca integrou esse quadro, ainda que exerça as atividades típicas de fiscalização, não tem direito à transposição.",
+        "d": "A transposição é automática para todos os servidores oriundos de ex-Territórios Federais, independentemente de qualquer requisito adicional imposto por medida provisória.",
+        "e": "A transposição depende exclusivamente do reconhecimento, pela União, do direito adquirido ao regime jurídico anterior a 5/10/1988, sendo irrelevante a integração ao quadro do MAPA.",
+        "b": "A transposição deve ser negada em qualquer hipótese envolvendo servidores cedidos a Estados, ainda que preencham todos os demais requisitos legais."
+      },
+      "correct": "a",
+      "explanation": "O STJ negou a transposição: o art. 28 da MP nº 2.229-43/2001 exige o preenchimento concomitante de requisitos, entre eles pertencer ao Quadro de Pessoal do MAPA; o exercício das atividades típicas de fiscalização não dispensa essa integração formal, mesmo que o servidor invoque regime jurídico anterior à Constituição de 1988.\n\nSTJ. 1ª Turma. AgInt no AREsp 3.022.257-AP, Rel. Min. Benedito Gonçalves, julgado em 15/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. AgInt no AREsp 3.022.257-AP, Rel. Min. Benedito Gonçalves, julgado em 15/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Transposição de servidor de ex-Território sem integração ao quadro do MAPA",
+      "difficulty": "dificil",
+      "miniLesson": "Um servidor, admitido pelo extinto Território Federal do Amapá como Médico Veterinário, permaneceu cedido ao Estado após a transformação em Estado, sem nunca integrar o Quadro de Pessoal do Ministério da Agricultura (MAPA). Com a transformação legal dos cargos de Médico Veterinário em Fiscal Federal Agropecuário, ele pediu enquadramento no novo cargo, alegando bastar o exercício das atividades típicas de fiscalização. Segundo o STJ: O STJ negou a transposição: o art. 28 da MP nº 2.229-43/2001 exige o preenchimento concomitante de requisitos, entre eles pertencer ao Quadro de Pessoal do MAPA; o exercício das atividades típicas de fiscalização não dispensa essa integração formal, mesmo que o servidor invoque regime jurídico anterior à Constituição de 1988."
+    },
+    {
+      "id": "pcprjur-obj-171",
+      "topic": "Natureza territorial relativa da competência do art. 17, § 4º-A, da LIA",
+      "question": "Ação de improbidade ajuizada em Curitiba, sob a redação original da LIA (que permitia ao autor escolher o foro em danos de âmbito nacional), teve sua competência questionada após a Lei nº 14.230/2021 criar regra expressa no art. 17, § 4º-A, fixando o foro do local do dano ou da sede da pessoa jurídica lesada. Os réus sustentaram que a nova regra seria de competência absoluta, de aplicação imediata, deslocando o processo para a sede da empresa lesada. Segundo o STJ:",
+      "options": {
+        "d": "A competência deve ser deslocada, pois a nova regra de competência é absoluta e de aplicação imediata a todos os processos em curso, independentemente da data de propositura da ação.",
+        "c": "A regra de competência do art. 17, § 4º-A, da LIA tem natureza territorial, relativa e concorrente (facultando o foro do dano ou da sede da pessoa jurídica); como as normas processuais da Lei 14.230/2021 não retroagem e a nova regra não é de competência absoluta, não incide a exceção à perpetuatio jurisdictionis do art. 43 do CPC, permanecendo a competência fixada na propositura da ação.",
+        "a": "A competência deve ser deslocada apenas se o Ministério Público concordar expressamente com a mudança de foro, sendo irrelevante a natureza da regra de competência.",
+        "b": "A regra do art. 17, § 4º-A, da LIA é de competência absoluta, mas sua aplicação retroativa depende de decisão específica do STF em controle concentrado de constitucionalidade.",
+        "e": "A ação deveria ter sido extinta sem resolução de mérito, por impossibilidade de aplicação de qualquer regra de competência a fatos anteriores à vigência da Lei 14.230/2021."
+      },
+      "correct": "c",
+      "explanation": "O STJ manteve a competência de Curitiba: a regra do art. 17, § 4º-A, da LIA (incluída pela Lei 14.230/2021) tem natureza territorial, relativa e concorrente; como as normas processuais dessa lei não retroagem e a regra não é de competência absoluta, não se aplica a exceção à perpetuatio jurisdictionis do art. 43 do CPC, prevalecendo a competência fixada no momento da propositura da ação.\n\nSTJ. 1ª Turma. AgInt no AREsp 3.000.174-PR, Rel. Min. Regina Helena Costa, julgado em 9/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. AgInt no AREsp 3.000.174-PR, Rel. Min. Regina Helena Costa, julgado em 9/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Natureza territorial relativa da competência do art. 17, § 4º-A, da LIA",
+      "difficulty": "dificil",
+      "miniLesson": "Ação de improbidade ajuizada em Curitiba, sob a redação original da LIA (que permitia ao autor escolher o foro em danos de âmbito nacional), teve sua competência questionada após a Lei nº 14.230/2021 criar regra expressa no art. 17, § 4º-A, fixando o foro do local do dano ou da sede da pessoa jurídica lesada. Os réus sustentaram que a nova regra seria de competência absoluta, de aplicação imediata, deslocando o processo para a sede da empresa lesada. Segundo o STJ: O STJ manteve a competência de Curitiba: a regra do art. 17, § 4º-A, da LIA (incluída pela Lei 14.230/2021) tem natureza territorial, relativa e concorrente; como as normas processuais dessa lei não retroagem e a regra não é de competência absoluta, não se aplica a exceção à perpetuatio jurisdictionis do art. 43 do CPC, prevalecendo a competência fixada no momento da propositura da ação."
+    },
+    {
+      "id": "pcprjur-obj-172",
+      "topic": "Responsabilidade de pessoa jurídica por improbidade praticada por seu representante",
+      "question": "Um representante de uma entidade privada, contratada para consultoria em convênio de saúde municipal, passou a atuar também na execução do convênio — atribuição estranha à consultoria — e participou de esquema de desvio das verbas repassadas. O Ministério Público ajuizou improbidade também contra a entidade, sob o argumento de que nada fez para impedir a conduta de seu representante. Segundo o STJ:",
+      "options": {
+        "a": "A pessoa jurídica responde automaticamente pelos atos de improbidade de seu representante, bastando a comprovação da representação, independentemente de participação, ciência ou benefício da entidade.",
+        "e": "A pessoa jurídica não pode ser condenada por improbidade com base em presunção de ciência e em dever genérico de vigilância sobre o representante que atua em relações estranhas às atividades institucionais ou contratuais da entidade; exige-se comprovação de participação, ciência ou benefício da entidade, sob pena de a má escolha do representante configurar, no máximo, negligência.",
+        "d": "A pessoa jurídica somente pode ser responsabilizada se o representante for seu sócio majoritário, sendo isenta em relação a atos de empregados ou prepostos comuns.",
+        "b": "A responsabilidade da pessoa jurídica é sempre solidária e objetiva por qualquer ato de seu representante, independentemente da natureza da atividade exercida ou da relação com o objeto do contrato.",
+        "c": "A pessoa jurídica só pode ser condenada por improbidade se também for condenada criminalmente pelos mesmos fatos, em razão da unidade de instâncias no direito sancionador."
+      },
+      "correct": "e",
+      "explanation": "O STJ afastou a condenação da entidade: a atuação do representante, ainda que comprovada, não implica responsabilização automática da pessoa jurídica por atos praticados fora do âmbito de suas atividades institucionais ou contratuais, exigindo-se comprovação de participação, ciência ou benefício da entidade — a condenação baseada em mera presunção de ciência e dever genérico de vigilância revela, no máximo, negligência (culpa), insuficiente para improbidade.\n\nSTJ. 2ª Turma. AgInt no REsp 2.169.344-RJ, Rel. Min. Teodoro Silva Santos, julgado em 12/5/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 2ª Turma. AgInt no REsp 2.169.344-RJ, Rel. Min. Teodoro Silva Santos, julgado em 12/5/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Responsabilidade de pessoa jurídica por improbidade praticada por seu representante",
+      "difficulty": "dificil",
+      "miniLesson": "Um representante de uma entidade privada, contratada para consultoria em convênio de saúde municipal, passou a atuar também na execução do convênio — atribuição estranha à consultoria — e participou de esquema de desvio das verbas repassadas. O Ministério Público ajuizou improbidade também contra a entidade, sob o argumento de que nada fez para impedir a conduta de seu representante. Segundo o STJ: O STJ afastou a condenação da entidade: a atuação do representante, ainda que comprovada, não implica responsabilização automática da pessoa jurídica por atos praticados fora do âmbito de suas atividades institucionais ou contratuais, exigindo-se comprovação de participação, ciência ou benefício da entidade — a condenação baseada em mera presunção de ciência e dever genérico de vigilância revela, no máximo, negligência (culpa), insuficiente para improbidade."
+    },
+    {
+      "id": "pcprjur-obj-173",
+      "topic": "Nepotismo em cargos políticos e exigência de dolo específico",
+      "question": "Um prefeito nomeou suas duas filhas, com qualificação técnica comprovada, para cargos de secretárias municipais, sem indício de fraude. O Ministério Público sustentou que o art. 11, XI, da LIA (nepotismo), após a Lei nº 14.230/2021, não ressalva cargos políticos, de modo que a simples nomeação já provaria o dolo. Segundo o STJ:",
+      "options": {
+        "b": "A nomeação de parentes para cargos políticos configura nepotismo por presunção absoluta, bastando o vínculo familiar, independentemente de qualificação técnica ou de outros elementos concretos.",
+        "a": "A nomeação de parentes para cargos políticos não configura, por si só, ato de improbidade administrativa por nepotismo, exigindo-se a comprovação do dolo específico de obter proveito indevido; em cargos políticos, o exame deve considerar a jurisprudência da Súmula Vinculante 13, que exige elementos adicionais, como fraude ou patente ausência de qualificação técnica do nomeado.",
+        "c": "Cargos políticos estão absolutamente imunes à vedação de nepotismo, não podendo o Ministério Público nunca questionar nomeações desse tipo, independentemente das circunstâncias.",
+        "e": "A configuração do nepotismo em cargos políticos depende exclusivamente de decisão prévia do Tribunal de Contas competente, não podendo o Poder Judiciário apreciar a questão de forma independente.",
+        "d": "A qualificação técnica dos nomeados é irrelevante para a análise do nepotismo, que se configura sempre que o grau de parentesco for entre pais e filhos, mas não entre outros graus de parentesco."
+      },
+      "correct": "a",
+      "explanation": "O STJ manteve a improcedência: a condenação por nepotismo (art. 11, XI, LIA) exige dolo específico de obter proveito indevido, não bastando a mera voluntariedade da nomeação; em cargos políticos, o exame segue a jurisprudência da Súmula Vinculante 13, exigindo elementos adicionais como fraude ou ausência patente de qualificação técnica — ausentes no caso, dada a comprovada qualificação das filhas nomeadas.\n\nSTJ. 1ª Turma. AgInt no REsp 2.154.497-MG, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. AgInt no REsp 2.154.497-MG, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Nepotismo em cargos políticos e exigência de dolo específico",
+      "difficulty": "dificil",
+      "miniLesson": "Um prefeito nomeou suas duas filhas, com qualificação técnica comprovada, para cargos de secretárias municipais, sem indício de fraude. O Ministério Público sustentou que o art. 11, XI, da LIA (nepotismo), após a Lei nº 14.230/2021, não ressalva cargos políticos, de modo que a simples nomeação já provaria o dolo. Segundo o STJ: O STJ manteve a improcedência: a condenação por nepotismo (art. 11, XI, LIA) exige dolo específico de obter proveito indevido, não bastando a mera voluntariedade da nomeação; em cargos políticos, o exame segue a jurisprudência da Súmula Vinculante 13, exigindo elementos adicionais como fraude ou ausência patente de qualificação técnica — ausentes no caso, dada a comprovada qualificação das filhas nomeadas."
+    },
+    {
+      "id": "pcprjur-obj-174",
+      "topic": "Rol taxativo do art. 11 da LIA e vedação de reenquadramento em recurso exclusivo da defesa",
+      "question": "Antes da Lei nº 14.230/2021, um oficial de justiça foi condenado por improbidade com base no antigo inciso II do art. 11 da LIA (retardar ou deixar de praticar, indevidamente, ato de ofício), por lançar certidões falsas de diligências não realizadas. Apenas a defesa recorreu. Na pendência do recurso, a Lei 14.230/2021 revogou esse inciso e tornou taxativo o rol do art. 11. Segundo o STJ:",
+      "options": {
+        "c": "A condenação deve ser mantida com base no inciso revogado, por se tratar de conduta praticada antes da vigência da nova lei, aplicando-se o princípio tempus regit actum.",
+        "e": "É inviável manter a condenação pelo ato de 'retardar ou deixar de praticar, indevidamente, ato de ofício' após a revogação do inciso II do art. 11 pela Lei 14.230/2021 (rol agora taxativo, sem previsão equivalente), sendo vedado o reenquadramento da conduta em outro artigo da LIA quando há recurso exclusivo da defesa, sob pena de reformatio in pejus.",
+        "d": "A condenação deve ser automaticamente reenquadrada no art. 10 da LIA (dano ao erário), já que a falsificação de certidões causou prejuízo à Administração, independentemente de quem tenha recorrido.",
+        "b": "A revogação do inciso II do art. 11 não tem qualquer efeito sobre processos em curso sem trânsito em julgado, aplicando-se apenas a fatos praticados após a vigência da nova lei.",
+        "a": "A condenação deve ser mantida, pois a lavratura de certidão falsa configura, por si só, o crime de falsidade ideológica, que subsiste independentemente das alterações na Lei de Improbidade Administrativa."
+      },
+      "correct": "e",
+      "explanation": "O STJ extinguiu a ação quanto ao réu: com a revogação do inciso II do art. 11 da LIA e a taxatividade do rol atual, a conduta de retardar ou deixar de praticar ato de ofício não mais possui previsão normativa; não é possível readequar a condenação a outro artigo da LIA quando apenas a defesa recorreu, sob pena de violar o princípio da vedação à reformatio in pejus.\n\nSTJ. 2ª Turma. EDcl no AgInt nos EDcl no AREsp 1.486.065-SP, Rel. Min. Francisco Falcão, Rel. p/ acórdão Min. Maria Thereza de Assis Moura, julgado em 9/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 2ª Turma. EDcl no AgInt nos EDcl no AREsp 1.486.065-SP, Rel. Min. Francisco Falcão, Rel. p/ acórdão Min. Maria Thereza de Assis Moura, julgado em 9/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Rol taxativo do art. 11 da LIA e vedação de reenquadramento em recurso exclusivo da defesa",
+      "difficulty": "dificil",
+      "miniLesson": "Antes da Lei nº 14.230/2021, um oficial de justiça foi condenado por improbidade com base no antigo inciso II do art. 11 da LIA (retardar ou deixar de praticar, indevidamente, ato de ofício), por lançar certidões falsas de diligências não realizadas. Apenas a defesa recorreu. Na pendência do recurso, a Lei 14.230/2021 revogou esse inciso e tornou taxativo o rol do art. 11. Segundo o STJ: O STJ extinguiu a ação quanto ao réu: com a revogação do inciso II do art. 11 da LIA e a taxatividade do rol atual, a conduta de retardar ou deixar de praticar ato de ofício não mais possui previsão normativa; não é possível readequar a condenação a outro artigo da LIA quando apenas a defesa recorreu, sob pena de violar o princípio da vedação à reformatio in pejus."
+    },
+    {
+      "id": "pcprjur-obj-175",
+      "topic": "Limitação do ressarcimento no Acordo de Não Persecução Civil por contribuição de cada agente",
+      "question": "Condenado por improbidade junto com outros sete réus por desvio de cerca de R$ 1 milhão, um Deputado Estadual celebrou, em grau de apelação, acordo de não persecução civil (ANPC) comprometendo-se a devolver metade do prejuízo, percentual correspondente à sua participação segundo parâmetro fixado pelo próprio Tribunal. O relator recusou a homologação, por entender que o art. 17-B, I, da LIA exigiria ressarcimento integral do dano. Segundo o STJ:",
+      "options": {
+        "c": "A recusa foi correta, pois o ANPC sempre exige o ressarcimento integral e solidário do dano por todos os corresponsáveis, independentemente do grau de participação de cada um.",
+        "b": "A recusa foi incorreta: em caso de concurso de agentes, o ANPC pode limitar o ressarcimento à contribuição causal de cada imputado, desde que possível mensurar seu grau de participação (art. 17-C, § 2º, da LIA, que veda a solidariedade); como instrumento alternativo de solução da controvérsia, o ANPC não pode ser mais gravoso que o desfecho judicial.",
+        "a": "A recusa foi correta, pois o Judiciário não pode exercer qualquer controle sobre o conteúdo do ANPC, sendo a homologação sempre um ato vinculado à vontade das partes.",
+        "e": "A recusa foi incorreta, mas apenas porque o Deputado já havia sido condenado, hipótese em que qualquer acordo posterior seria automaticamente inválido, independentemente do percentual de ressarcimento.",
+        "d": "O ANPC é incabível após condenação em primeira instância, sendo cabível apenas na fase de investigação, antes do oferecimento da ação de improbidade."
+      },
+      "correct": "b",
+      "explanation": "O STJ anulou a recusa: em concurso de agentes, o ANPC pode limitar o ressarcimento à contribuição causal de cada imputado, quando mensurável (art. 17-C, § 2º, da LIA, que veda solidariedade), não podendo o instrumento alternativo de solução ser mais gravoso que o desfecho judicial; o art. 17-B, § 2º, autoriza controle judicial formal e substancial do ANPC, mas não a imposição de condição mais severa que a legalmente exigida.\n\nSTJ. 1ª Turma. REsp 2.263.884-SE, Rel. Min. Regina Helena Costa, julgado em 2/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. REsp 2.263.884-SE, Rel. Min. Regina Helena Costa, julgado em 2/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Limitação do ressarcimento no Acordo de Não Persecução Civil por contribuição de cada agente",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por improbidade junto com outros sete réus por desvio de cerca de R$ 1 milhão, um Deputado Estadual celebrou, em grau de apelação, acordo de não persecução civil (ANPC) comprometendo-se a devolver metade do prejuízo, percentual correspondente à sua participação segundo parâmetro fixado pelo próprio Tribunal. O relator recusou a homologação, por entender que o art. 17-B, I, da LIA exigiria ressarcimento integral do dano. Segundo o STJ: O STJ anulou a recusa: em concurso de agentes, o ANPC pode limitar o ressarcimento à contribuição causal de cada imputado, quando mensurável (art. 17-C, § 2º, da LIA, que veda solidariedade), não podendo o instrumento alternativo de solução ser mais gravoso que o desfecho judicial; o art. 17-B, § 2º, autoriza controle judicial formal e substancial do ANPC, mas não a imposição de condição mais severa que a legalmente exigida."
+    },
+    {
+      "id": "pcprjur-obj-176",
+      "topic": "Independência entre mandado de segurança sobre PAD e ação de improbidade pelos mesmos fatos",
+      "question": "Um servidor obteve, em mandado de segurança, o afastamento de sua demissão (aplicada em PAD por suposta improbidade), com o STJ apenas redimensionando a punição para infração menos grave, sem negar os fatos ou a autoria. Posteriormente, a União ajuizou ação de improbidade contra ele pelos mesmos fatos, e o servidor alegou coisa julgada, invocando o art. 21, § 3º, da LIA. Segundo o STJ:",
+      "options": {
+        "e": "Há coisa julgada, pois qualquer decisão favorável ao servidor em mandado de segurança relativo a PAD disciplinar impede, por si só, o ajuizamento de ação de improbidade pelos mesmos fatos.",
+        "c": "Não há coisa julgada: o art. 21, § 3º, da LIA só vincula quando a decisão anterior conclui pela inexistência da conduta ou pela negativa de autoria, o que não ocorre quando o mandado de segurança se limita a discutir a proporcionalidade da sanção disciplinar — os motivos da decisão não fazem coisa julgada (art. 504, I, CPC).",
+        "a": "A ação de improbidade é sempre cabível após qualquer mandado de segurança relativo a PAD, independentemente do conteúdo da decisão anterior, por se tratar de instâncias absolutamente incomunicáveis em qualquer hipótese.",
+        "d": "A ação de improbidade deveria ter sido extinta, pois a redução da punição no mandado de segurança já reconheceu implicitamente a inexistência de conduta ímproba.",
+        "b": "A vinculação do art. 21, § 3º, da LIA opera-se sempre que a decisão anterior seja favorável ao servidor, independentemente do fundamento específico utilizado por esse órgão julgador."
+      },
+      "correct": "c",
+      "explanation": "O STJ afastou a alegação de coisa julgada: o art. 21, § 3º, da LIA só vincula a ação de improbidade quando a decisão anterior concluir pela inexistência da conduta ou pela negativa de autoria — o que não ocorreu, já que o mandado de segurança apenas discutiu a proporcionalidade da sanção disciplinar (dosimetria da pena), não a existência dos fatos; os motivos da decisão não fazem coisa julgada (art. 504, I, CPC).\n\nSTJ. 1ª Turma. AgInt no AgInt no REsp 1.928.279-RS, Rel. Min. Sérgio Kukina, julgado em 2/6/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 1ª Turma. AgInt no AgInt no REsp 1.928.279-RS, Rel. Min. Sérgio Kukina, julgado em 2/6/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Independência entre mandado de segurança sobre PAD e ação de improbidade pelos mesmos fatos",
+      "difficulty": "dificil",
+      "miniLesson": "Um servidor obteve, em mandado de segurança, o afastamento de sua demissão (aplicada em PAD por suposta improbidade), com o STJ apenas redimensionando a punição para infração menos grave, sem negar os fatos ou a autoria. Posteriormente, a União ajuizou ação de improbidade contra ele pelos mesmos fatos, e o servidor alegou coisa julgada, invocando o art. 21, § 3º, da LIA. Segundo o STJ: O STJ afastou a alegação de coisa julgada: o art. 21, § 3º, da LIA só vincula a ação de improbidade quando a decisão anterior concluir pela inexistência da conduta ou pela negativa de autoria — o que não ocorreu, já que o mandado de segurança apenas discutiu a proporcionalidade da sanção disciplinar (dosimetria da pena), não a existência dos fatos; os motivos da decisão não fazem coisa julgada (art. 504, I, CPC)."
+    },
+    {
+      "id": "pcprjur-obj-177",
+      "topic": "Irretroatividade do limite de idade de militares temporários (Lei 13.954/2019)",
+      "question": "Um militar temporário voluntário, incorporado à Aeronáutica em 2011, foi licenciado ao completar 45 anos, com base no novo limite etário introduzido pela Lei nº 13.954/2019 no art. 27 da Lei do Serviço Militar. Segundo o STJ:",
+      "options": {
+        "e": "O licenciamento é válido, pois o limite etário se aplica imediatamente a todos os militares temporários em atividade, independentemente da data de incorporação, por se tratar de norma de ordem pública.",
+        "d": "O licenciamento é nulo: a limitação etária de 45 anos, introduzida pela Lei 13.954/2019, dirigiu-se aos futuros processos seletivos de incorporação (redação em tempo verbal prospectivo), não alcançando militares temporários já incorporados antes de sua vigência, tratando-se de irretroatividade, e não de direito adquirido a regime jurídico.",
+        "a": "O licenciamento é válido, pois o militar tinha direito adquirido a permanecer no serviço apenas até a idade vigente no momento da incorporação, sendo essa idade necessariamente inferior a 45 anos.",
+        "b": "A questão deveria ter sido resolvida pela Justiça Militar da União, e não pelo STJ, por se tratar de matéria de competência exclusiva daquele ramo especializado.",
+        "c": "O licenciamento é nulo, mas apenas porque a Lei 13.954/2019 seria formalmente inconstitucional, e não em razão de qualquer critério de irretroatividade."
+      },
+      "correct": "d",
+      "explanation": "O STJ reintegrou o militar: a limitação de 45 anos, redigida em tempo verbal prospectivo, dirigiu-se aos futuros processos seletivos de incorporação, não alcançando quem já estava incorporado antes da vigência da lei — trata-se de irretroatividade (o comando normativo não tem eficácia retroativa), e não de discussão sobre direito adquirido a regime jurídico.\n\nSTJ. 2ª Turma. AgInt no REsp 2.231.574-DF, Rel. Min. Francisco Falcão, julgado em 29/4/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 2ª Turma. AgInt no REsp 2.231.574-DF, Rel. Min. Francisco Falcão, julgado em 29/4/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Irretroatividade do limite de idade de militares temporários (Lei 13.954/2019)",
+      "difficulty": "dificil",
+      "miniLesson": "Um militar temporário voluntário, incorporado à Aeronáutica em 2011, foi licenciado ao completar 45 anos, com base no novo limite etário introduzido pela Lei nº 13.954/2019 no art. 27 da Lei do Serviço Militar. Segundo o STJ: O STJ reintegrou o militar: a limitação de 45 anos, redigida em tempo verbal prospectivo, dirigiu-se aos futuros processos seletivos de incorporação, não alcançando quem já estava incorporado antes da vigência da lei — trata-se de irretroatividade (o comando normativo não tem eficácia retroativa), e não de discussão sobre direito adquirido a regime jurídico."
+    },
+    {
+      "id": "pcprjur-obj-178",
+      "topic": "Importunação sexual sem contato físico entre autor e vítima (art. 215-A do CP)",
+      "question": "Por meio de conta anônima em rede social, um homem enviou fotos íntimas e mensagens a uma mulher, sem que ela tivesse solicitado ou consentido, com o intuito de satisfazer o próprio desejo sexual, sem que os dois jamais tivessem se encontrado pessoalmente. Denunciado por importunação sexual (art. 215-A do CP), ele alegou atipicidade por ausência de contato físico. Segundo o STJ:",
+      "options": {
+        "b": "A conduta é atípica, pois o tipo do art. 215-A do CP exige, implicitamente, contato físico entre autor e vítima, elemento ausente na comunicação exclusivamente virtual.",
+        "a": "A conduta é típica: o crime de importunação sexual não exige contato físico entre autor e vítima, contentando-se com a prática de ato libidinoso sem consentimento da ofendida, com intuito de satisfazer a lascívia do agente e ausentes violência ou grave ameaça, podendo ser praticado por recursos tecnológicos, como o envio de conteúdo pornográfico sem consentimento.",
+        "d": "A conduta configura, no máximo, contravenção penal, e não o crime do art. 215-A do CP, que se reserva exclusivamente a condutas presenciais.",
+        "e": "A conduta é atípica, pois o crime de importunação sexual exige a identificação plena do autor no momento do fato, o que não ocorre quando praticado por conta anônima.",
+        "c": "A conduta configura o crime de perseguição (stalking), e não de importunação sexual, por não ter havido qualquer contato físico ou presencial entre as partes."
+      },
+      "correct": "a",
+      "explanation": "O STJ manteve a condenação: o crime de importunação sexual (art. 215-A do CP) não exige contato físico, bastando a prática de ato libidinoso sem consentimento da vítima, com intuito de satisfazer a lascívia do agente, ausentes violência ou grave ameaça — podendo ser praticado por meios tecnológicos, como o envio de fotos íntimas não solicitadas.\n\nSTJ. 5ª Turma. AgRg no REsp 2.253.330-RJ, Rel. Min. Joel Ilan Paciornik, julgado em 22/4/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.253.330-RJ, Rel. Min. Joel Ilan Paciornik, julgado em 22/4/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Importunação sexual sem contato físico entre autor e vítima (art. 215-A do CP)",
+      "difficulty": "dificil",
+      "miniLesson": "Por meio de conta anônima em rede social, um homem enviou fotos íntimas e mensagens a uma mulher, sem que ela tivesse solicitado ou consentido, com o intuito de satisfazer o próprio desejo sexual, sem que os dois jamais tivessem se encontrado pessoalmente. Denunciado por importunação sexual (art. 215-A do CP), ele alegou atipicidade por ausência de contato físico. Segundo o STJ: O STJ manteve a condenação: o crime de importunação sexual (art. 215-A do CP) não exige contato físico, bastando a prática de ato libidinoso sem consentimento da vítima, com intuito de satisfazer a lascívia do agente, ausentes violência ou grave ameaça — podendo ser praticado por meios tecnológicos, como o envio de fotos íntimas não solicitadas."
+    },
+    {
+      "id": "pcprjur-obj-179",
+      "topic": "Dolo específico no crime de importação de medicamento falsificado (art. 273, § 1º-B, do CP)",
+      "question": "Um transportador foi preso levando do Paraguai ao Brasil medicamentos estrangeiros, parte sem registro no Brasil e parte falsificada, sem que os autos demonstrassem que ele soubesse da falsificação (apenas que sabia da irregularidade da importação em si). Condenado tanto pelo art. 273, § 1º, quanto pelo § 1º-B, I, do CP, o STJ:",
+      "options": {
+        "e": "Manteve a condenação por ambos os parágrafos, pois o crime do art. 273 é de perigo abstrato e dispensa qualquer conhecimento específico do agente sobre a condição dos produtos transportados.",
+        "b": "Absolveu o réu do § 1º (que exige conhecimento da falsificação, ausente no caso, já que ele apenas sabia da irregularidade da importação) e manteve a condenação pelo § 1º-B, I (que se satisfaz com o conhecimento da importação irregular), distinguindo os elementos subjetivos de cada dispositivo.",
+        "d": "Absolveu o réu de ambos os parágrafos, por entender que o desconhecimento da falsificação afasta toda e qualquer responsabilidade penal, mesmo quanto à importação irregular em si.",
+        "a": "Manteve a condenação por ambos os parágrafos, aplicando a teoria da cegueira deliberada de forma automática a qualquer transportador de mercadorias importadas irregularmente.",
+        "c": "Absolveu o réu do § 1º-B, I, por ausência de registro na ANVISA não configurar, por si só, conduta típica, mantendo apenas a condenação pelo § 1º."
+      },
+      "correct": "b",
+      "explanation": "O STJ distinguiu os elementos subjetivos: o § 1º do art. 273 exige conhecimento da falsificação (ausente no caso, pois o réu acreditava serem produtos genuínos, apenas sem autorização sanitária), enquanto o § 1º-B, I, se satisfaz com o dolo de importar produto sem registro, elemento que o réu efetivamente tinha — absolveu-se, portanto, apenas quanto ao § 1º, mantendo a condenação pelo § 1º-B, I.\n\nSTJ. 5ª Turma. REsp 2.088.056-PR, Rel. Min. Maria Marluce Caldas, julgado em 6/5/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. REsp 2.088.056-PR, Rel. Min. Maria Marluce Caldas, julgado em 6/5/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Dolo específico no crime de importação de medicamento falsificado (art. 273, § 1º-B, do CP)",
+      "difficulty": "dificil",
+      "miniLesson": "Um transportador foi preso levando do Paraguai ao Brasil medicamentos estrangeiros, parte sem registro no Brasil e parte falsificada, sem que os autos demonstrassem que ele soubesse da falsificação (apenas que sabia da irregularidade da importação em si). Condenado tanto pelo art. 273, § 1º, quanto pelo § 1º-B, I, do CP, o STJ: O STJ distinguiu os elementos subjetivos: o § 1º do art. 273 exige conhecimento da falsificação (ausente no caso, pois o réu acreditava serem produtos genuínos, apenas sem autorização sanitária), enquanto o § 1º-B, I, se satisfaz com o dolo de importar produto sem registro, elemento que o réu efetivamente tinha — absolveu-se, portanto, apenas quanto ao § 1º, mantendo a condenação pelo § 1º-B, I."
+    },
+    {
+      "id": "pcprjur-obj-180",
+      "topic": "Continuidade delitiva na sonegação fiscal mensal reiterada",
+      "question": "Uma administradora entregou, mês a mês durante um ano inteiro, declarações fiscais zeradas simulando ausência de empregados, quando, na realidade, o imposto de renda era retido dos salários e não repassado ao Fisco. Denunciada por sonegação fiscal (art. 1º, I, da Lei nº 8.137/90) doze vezes em continuidade delitiva, a defesa alegou crime único, por a sonegação de IR ter configuração anual. Segundo o STJ:",
+      "options": {
+        "e": "Configura-se crime único, pois a apuração do imposto de renda tem periodicidade anual, sendo as declarações mensais meros atos preparatórios de uma única infração consumada ao final do ano-calendário.",
+        "c": "Configura-se continuidade delitiva: em tributos declarados mensalmente, cada período de apuração corresponde a uma infração penal autônoma, e a entrega reiterada de declarações fraudulentas por doze meses consecutivos evidencia pluralidade de condutas autônomas ligadas a obrigações periódicas, preenchendo os requisitos do art. 71 do CP.",
+        "b": "Configura-se concurso material, e não continuidade delitiva, por ausência de identidade de condições de tempo, lugar e modo de execução entre as declarações mensais.",
+        "a": "A questão é irrelevante para a dosimetria, pois a pena do crime de sonegação fiscal é fixa, não comportando exasperação por continuidade delitiva.",
+        "d": "Configura-se crime único, mas apenas se a totalidade do valor sonegado ao longo do ano for inferior ao limite de insignificância penal tributária."
+      },
+      "correct": "c",
+      "explanation": "O STJ reconheceu a continuidade delitiva: em tributos declarados mensalmente, cada período de apuração é uma infração penal autônoma; a entrega reiterada de declarações fraudulentas por doze meses consecutivos evidencia pluralidade de condutas ligadas a obrigações periódicas, preenchendo os requisitos de tempo, lugar e modo de execução do art. 71 do CP.\n\nSTJ. 5ª Turma. REsp 2.204.207-PE, Rel. Min. Maria Marluce Caldas, julgado em 6/5/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. REsp 2.204.207-PE, Rel. Min. Maria Marluce Caldas, julgado em 6/5/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Continuidade delitiva na sonegação fiscal mensal reiterada",
+      "difficulty": "dificil",
+      "miniLesson": "Uma administradora entregou, mês a mês durante um ano inteiro, declarações fiscais zeradas simulando ausência de empregados, quando, na realidade, o imposto de renda era retido dos salários e não repassado ao Fisco. Denunciada por sonegação fiscal (art. 1º, I, da Lei nº 8.137/90) doze vezes em continuidade delitiva, a defesa alegou crime único, por a sonegação de IR ter configuração anual. Segundo o STJ: O STJ reconheceu a continuidade delitiva: em tributos declarados mensalmente, cada período de apuração é uma infração penal autônoma; a entrega reiterada de declarações fraudulentas por doze meses consecutivos evidencia pluralidade de condutas ligadas a obrigações periódicas, preenchendo os requisitos de tempo, lugar e modo de execução do art. 71 do CP."
+    },
+    {
+      "id": "pcprjur-obj-181",
+      "topic": "Qualificadora de violência doméstica em relação homoafetiva entre mulheres",
+      "question": "Após o término de um relacionamento homoafetivo, uma das ex-companheiras agrediu a outra, causando-lhe lesões corporais leves. O juiz condenou a agressora pelo § 9º do art. 129 do CP (violência doméstica genérica), e não pelo § 13 (qualificadora específica de gênero), sob o fundamento de que, entre duas mulheres, não haveria indicativo de supremacia física da agressora. Segundo o STJ:",
+      "options": {
+        "d": "A qualificadora do § 13 exige comprovação de supremacia física da agressora sobre a vítima, não podendo ser aplicada em relações homoafetivas entre mulheres, nas quais essa disparidade normalmente inexiste.",
+        "b": "A Lei Maria da Penha incide nas relações homoafetivas entre mulheres, pois a vulnerabilidade que protege não se funda na disparidade de força física entre agressor e vítima, mas na condição estrutural de subordinação a que as mulheres estão submetidas, independentemente do gênero de quem agride; reconhecida a violência doméstica, incide a qualificadora do art. 129, § 13, do CP, sem exigência de supremacia física da agressora.",
+        "c": "A qualificadora do § 13 somente se aplica quando o agressor for homem, sendo sempre correta a capitulação pelo § 9º quando ambas as partes forem mulheres.",
+        "a": "A Lei Maria da Penha não se aplica a relações entre duas mulheres, por exigir, em sua redação literal, que o agressor seja homem e a vítima, mulher.",
+        "e": "A definição da qualificadora aplicável depende de perícia técnica que meça objetivamente a força física de cada uma das partes envolvidas na agressão."
+      },
+      "correct": "b",
+      "explanation": "O STJ reformou a condenação: a Lei Maria da Penha incide em relações homoafetivas entre mulheres, pois a vulnerabilidade protegida decorre da condição estrutural de subordinação da mulher em contextos domésticos e afetivos, não da disparidade de força física — reconhecida a violência doméstica e familiar, incide a qualificadora do art. 129, § 13, do CP, sem exigência de supremacia física da agressora.\n\nSTJ. 6ª Turma. REsp 2.236.141-SC, Rel. Min. Rogerio Schietti Cruz, julgado em 12/5/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. REsp 2.236.141-SC, Rel. Min. Rogerio Schietti Cruz, julgado em 12/5/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Qualificadora de violência doméstica em relação homoafetiva entre mulheres",
+      "difficulty": "dificil",
+      "miniLesson": "Após o término de um relacionamento homoafetivo, uma das ex-companheiras agrediu a outra, causando-lhe lesões corporais leves. O juiz condenou a agressora pelo § 9º do art. 129 do CP (violência doméstica genérica), e não pelo § 13 (qualificadora específica de gênero), sob o fundamento de que, entre duas mulheres, não haveria indicativo de supremacia física da agressora. Segundo o STJ: O STJ reformou a condenação: a Lei Maria da Penha incide em relações homoafetivas entre mulheres, pois a vulnerabilidade protegida decorre da condição estrutural de subordinação da mulher em contextos domésticos e afetivos, não da disparidade de força física — reconhecida a violência doméstica e familiar, incide a qualificadora do art. 129, § 13, do CP, sem exigência de supremacia física da agressora."
+    },
+    {
+      "id": "pcprjur-obj-182",
+      "topic": "Crime do art. 24-A da Lei Maria da Penha por não instalação de tornozeleira eletrônica",
+      "question": "Determinado a usar monitoramento eletrônico para fiscalizar medidas protetivas de urgência (com base no art. 22, § 1º, da Lei Maria da Penha c/c art. 319, IX, do CPP), um agressor não compareceu para a instalação do equipamento e foi denunciado pelo crime do art. 24-A da Lei nº 11.340/2006. A defesa alegou atipicidade, pois, à época, o monitoramento eletrônico não constava expressamente do rol do art. 22 da lei como medida protetiva. Segundo o STJ:",
+      "options": {
+        "b": "A conduta é atípica, pois o crime do art. 24-A exige o descumprimento de medida expressamente listada no rol do art. 22 da Lei Maria da Penha, o que não incluía o monitoramento eletrônico à época dos fatos.",
+        "c": "A conduta pode configurar o crime do art. 24-A: esse dispositivo visa assegurar o respeito às decisões judiciais de proteção à vítima, consumando-se com a inobservância consciente e voluntária de ordem regularmente expedida, pouco importando o meio de fiscalização eleito ou se este constava expressamente do rol exemplificativo do art. 22, situação a ser apurada na instrução penal.",
+        "d": "A conduta configura apenas descumprimento de medida cautelar diversa da prisão do CPP, sem qualquer repercussão penal específica da Lei Maria da Penha, por não constar do rol do art. 22.",
+        "a": "A conduta é atípica em qualquer hipótese anterior à Lei nº 15.383/2026, que passou a incluir expressamente a monitoração eletrônica no rol do art. 22, sendo essa inclusão condição necessária e não meramente uma confirmação legislativa.",
+        "e": "A conduta configura crime de desobediência (art. 330 do CP), e não o tipo específico do art. 24-A da Lei Maria da Penha, por não se tratar de medida protetiva típica à época dos fatos."
+      },
+      "correct": "c",
+      "explanation": "O STJ considerou que a conduta pode configurar o crime do art. 24-A: o dispositivo protege o respeito às decisões judiciais de proteção à vítima, consumando-se com a inobservância consciente de ordem judicial regularmente expedida, independentemente de a monitoração eletrônica constituir ou não medida protetiva autônoma listada expressamente no art. 22 — a inclusão posterior pela Lei nº 15.383/2026 apenas reforça, para fatos futuros, o enquadramento, sem ser condição indispensável para os fatos anteriores.\n\nSTJ. 6ª Turma. REsp 2.224.804-PR, Rel. Min. Sebastião Reis Júnior, julgado em 10/3/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. REsp 2.224.804-PR, Rel. Min. Sebastião Reis Júnior, julgado em 10/3/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Crime do art. 24-A da Lei Maria da Penha por não instalação de tornozeleira eletrônica",
+      "difficulty": "dificil",
+      "miniLesson": "Determinado a usar monitoramento eletrônico para fiscalizar medidas protetivas de urgência (com base no art. 22, § 1º, da Lei Maria da Penha c/c art. 319, IX, do CPP), um agressor não compareceu para a instalação do equipamento e foi denunciado pelo crime do art. 24-A da Lei nº 11.340/2006. A defesa alegou atipicidade, pois, à época, o monitoramento eletrônico não constava expressamente do rol do art. 22 da lei como medida protetiva. Segundo o STJ: O STJ considerou que a conduta pode configurar o crime do art. 24-A: o dispositivo protege o respeito às decisões judiciais de proteção à vítima, consumando-se com a inobservância consciente de ordem judicial regularmente expedida, independentemente de a monitoração eletrônica constituir ou não medida protetiva autônoma listada expressamente no art. 22 — a inclusão posterior pela Lei nº 15.383/2026 apenas reforça, para fatos futuros, o enquadramento, sem ser condição indispensável para os fatos anteriores."
+    },
+    {
+      "id": "pcprjur-obj-183",
+      "topic": "Papiloscopistas policiais federais não são peritos oficiais",
+      "question": "Instrução normativa da Corregedoria da Polícia Federal afirmou que papiloscopistas policiais federais não são peritos oficiais, exigindo nomeação ad hoc para emissão de laudos periciais. O Ministério Público questionou o ato, sustentando que o art. 159 do CPP exigiria apenas diploma de curso superior, requisito preenchido pelos papiloscopistas. Segundo o STJ:",
+      "options": {
+        "e": "Os papiloscopistas policiais federais devem ser equiparados a peritos oficiais, pois preenchem o único requisito exigido pelo art. 159 do CPP (diploma de curso superior).",
+        "b": "Os papiloscopistas policiais federais não podem ser considerados peritos oficiais, pois a categoria não foi inserida no rol do art. 5º da Lei 12.030/2009 e suas atribuições, relativas à identificação, têm natureza diversa das perícias criminalísticas; a equiparação por decisão judicial violaria o art. 159 do CPP e a Súmula Vinculante 37, permanecendo válidos os laudos papiloscópicos para fins de identificação, com força probatória própria.",
+        "d": "A questão é irrelevante, pois os laudos papiloscópicos nunca têm força probatória para fins de condenação criminal, independentemente de seus emissores serem ou não peritos oficiais.",
+        "c": "Os papiloscopistas devem ser equiparados a peritos oficiais exclusivamente quando atuarem em investigações de crimes contra a Administração Pública.",
+        "a": "A equiparação depende de lei complementar federal específica, ainda inexistente, sendo prematura qualquer manifestação do STJ sobre o tema."
+      },
+      "correct": "b",
+      "explanation": "O STJ decidiu que os papiloscopistas policiais federais não são peritos oficiais, por não estarem no rol do art. 5º da Lei 12.030/2009, tendo atribuições de identificação distintas da criminalística; a equiparação por via judicial violaria o art. 159 do CPP e a Súmula Vinculante 37 (STF, ADI 4.354/DF), mas os laudos papiloscópicos continuam válidos e com força probatória própria, preenchidos os requisitos formais.\n\nSTJ. 2ª Turma. REsp 2.228.838-MG, Rel. Min. Teodoro Silva Santos, julgado em 12/5/2026 (Info 31 – Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 2ª Turma. REsp 2.228.838-MG, Rel. Min. Teodoro Silva Santos, julgado em 12/5/2026 (Info 31 – Edição Extraordinária)."
+      },
+      "subject": "Papiloscopistas policiais federais não são peritos oficiais",
+      "difficulty": "dificil",
+      "miniLesson": "Instrução normativa da Corregedoria da Polícia Federal afirmou que papiloscopistas policiais federais não são peritos oficiais, exigindo nomeação ad hoc para emissão de laudos periciais. O Ministério Público questionou o ato, sustentando que o art. 159 do CPP exigiria apenas diploma de curso superior, requisito preenchido pelos papiloscopistas. Segundo o STJ: O STJ decidiu que os papiloscopistas policiais federais não são peritos oficiais, por não estarem no rol do art. 5º da Lei 12.030/2009, tendo atribuições de identificação distintas da criminalística; a equiparação por via judicial violaria o art. 159 do CPP e a Súmula Vinculante 37 (STF, ADI 4.354/DF), mas os laudos papiloscópicos continuam válidos e com força probatória própria, preenchidos os requisitos formais."
+    },
+    {
+      "id": "pcprjur-obj-184",
+      "topic": "Competência do STJ para julgar membros de Tribunal de Contas por fatos anteriores à posse",
+      "question": "Um ex-Deputado Estadual, denunciado por organização criminosa e peculato praticados no mandato parlamentar, foi posteriormente nomeado Conselheiro de Tribunal de Contas estadual. O Tribunal de Justiça remeteu o processo à primeira instância, por entender que os crimes se ligavam ao antigo mandato, e não ao novo cargo; encerrada a instrução em primeiro grau, o Ministério Público suscitou usurpação de competência perante o STJ. Segundo o STJ:",
+      "options": {
+        "e": "A competência permanece na primeira instância, pois o encerramento da instrução processual perpetua a jurisdição, sendo vedado o deslocamento posterior para qualquer tribunal superior.",
+        "d": "Compete ao STJ julgar os membros dos Tribunais de Contas dos Estados e do Distrito Federal (art. 105, I, 'a', CF/88), ainda que por fatos anteriores à posse no cargo, não havendo perpetuação da jurisdição pelo mero encerramento da instrução em primeira instância; a reclamação para preservar essa competência prescinde de esgotamento das instâncias anteriores.",
+        "a": "A competência é do Tribunal de Justiça estadual, e não do STJ, por se tratar de crimes praticados no exercício de mandato parlamentar estadual, e não da função de Conselheiro.",
+        "c": "A competência do STJ somente se firmaria se os crimes tivessem sido praticados após a posse no cargo de Conselheiro, sendo irrelevante a superveniência da nova função para fatos anteriores.",
+        "b": "A reclamação é incabível nessa hipótese, sendo necessário o esgotamento de todos os recursos ordinários na primeira instância antes de qualquer arguição de incompetência perante o STJ."
+      },
+      "correct": "d",
+      "explanation": "O STJ reconheceu sua competência e avocou a ação penal: compete ao STJ julgar membros de Tribunais de Contas estaduais/distritais (art. 105, I, 'a', CF/88) mesmo por fatos anteriores à posse no cargo, não havendo perpetuação da jurisdição pelo encerramento da instrução em primeiro grau; a reclamação para preservar a competência do tribunal prescinde de esgotamento de instâncias anteriores, sendo cabível per saltum.\n\nSTJ. Corte Especial. AgRg na Rcl 48.698-RJ, Rel. Min. Maria Thereza de Assis Moura, julgado em 23/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. Corte Especial. AgRg na Rcl 48.698-RJ, Rel. Min. Maria Thereza de Assis Moura, julgado em 23/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Competência do STJ para julgar membros de Tribunal de Contas por fatos anteriores à posse",
+      "difficulty": "dificil",
+      "miniLesson": "Um ex-Deputado Estadual, denunciado por organização criminosa e peculato praticados no mandato parlamentar, foi posteriormente nomeado Conselheiro de Tribunal de Contas estadual. O Tribunal de Justiça remeteu o processo à primeira instância, por entender que os crimes se ligavam ao antigo mandato, e não ao novo cargo; encerrada a instrução em primeiro grau, o Ministério Público suscitou usurpação de competência perante o STJ. Segundo o STJ: O STJ reconheceu sua competência e avocou a ação penal: compete ao STJ julgar membros de Tribunais de Contas estaduais/distritais (art. 105, I, 'a', CF/88) mesmo por fatos anteriores à posse no cargo, não havendo perpetuação da jurisdição pelo encerramento da instrução em primeiro grau; a reclamação para preservar a competência do tribunal prescinde de esgotamento de instâncias anteriores, sendo cabível per saltum."
+    },
+    {
+      "id": "pcprjur-obj-185",
+      "topic": "Acesso a celular desbloqueado e abandonado por pessoa não identificada",
+      "question": "Um motorista fugiu a pé, abandonando um veículo com mercadorias contrabandeadas e um celular sem senha de desbloqueio, sem que ninguém aparecesse posteriormente para reclamar o aparelho. Policiais leram, sem autorização judicial, as mensagens do celular, encontrando um endereço que levou a nova apreensão e prisão. A defesa alegou nulidade por ausência de autorização judicial prévia para o acesso ao celular. Segundo o STJ:",
+      "options": {
+        "c": "A prova é ilícita, pois o acesso a dados de qualquer celular, ainda que desbloqueado e abandonado, sempre exige autorização judicial prévia, sob pena de violação ao art. 5º, XII, da CF/88.",
+        "e": "A prova é lícita: a proteção constitucional à inviolabilidade das comunicações não se aplica a celular desbloqueado e abandonado voluntariamente por pessoa não identificada, sem expectativa legítima de privacidade, estando a conduta policial ainda justificada por fundadas razões, como o estado de flagrância e a necessidade de identificar o proprietário do aparelho.",
+        "b": "A prova é lícita apenas se o celular estiver relacionado a crime permanente, sendo ilícita em qualquer outra hipótese de abandono de aparelho eletrônico.",
+        "d": "A prova é ilícita, pois o abandono do aparelho pelo motorista em fuga não afasta a expectativa de privacidade sobre seu conteúdo, que permanece protegida independentemente das circunstâncias.",
+        "a": "A licitude do acesso depende exclusivamente de perícia técnica prévia que comprove a ausência de senha de bloqueio, sendo irrelevantes as demais circunstâncias do caso."
+      },
+      "correct": "e",
+      "explanation": "O STJ considerou lícito o acesso: a proteção constitucional à inviolabilidade das comunicações pressupõe expectativa legítima de privacidade, ausente quando o celular é desbloqueado e abandonado voluntariamente por pessoa não identificada; a conduta policial, ademais, estava justificada por fundadas razões (flagrância e necessidade de identificação do proprietário).\n\nSTJ. 5ª Turma. AgRg no REsp 2.180.196-PR, Rel. Min. Messod Azulay Neto, julgado em 17/12/2025 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.180.196-PR, Rel. Min. Messod Azulay Neto, julgado em 17/12/2025 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Acesso a celular desbloqueado e abandonado por pessoa não identificada",
+      "difficulty": "dificil",
+      "miniLesson": "Um motorista fugiu a pé, abandonando um veículo com mercadorias contrabandeadas e um celular sem senha de desbloqueio, sem que ninguém aparecesse posteriormente para reclamar o aparelho. Policiais leram, sem autorização judicial, as mensagens do celular, encontrando um endereço que levou a nova apreensão e prisão. A defesa alegou nulidade por ausência de autorização judicial prévia para o acesso ao celular. Segundo o STJ: O STJ considerou lícito o acesso: a proteção constitucional à inviolabilidade das comunicações pressupõe expectativa legítima de privacidade, ausente quando o celular é desbloqueado e abandonado voluntariamente por pessoa não identificada; a conduta policial, ademais, estava justificada por fundadas razões (flagrância e necessidade de identificação do proprietário)."
+    },
+    {
+      "id": "pcprjur-obj-186",
+      "topic": "Acesso a celular encontrado por acaso dentro do presídio (extensão do Tema 977/STF)",
+      "question": "Durante revista em presídio, agentes penitenciários encontraram celular escondido em cela e, ao manuseá-lo, visualizaram na tela de bloqueio uma notificação relatando o cumprimento de uma ordem de matar. Diante disso, agiram para preservar o vestígio, obtendo decisão judicial superveniente que autorizou o acesso pleno ao conteúdo. A defesa alegou ilicitude por ausência de autorização judicial prévia para o acesso inicial. Segundo o STJ:",
+      "options": {
+        "c": "É sempre ilícito o acesso a dados de celular sem autorização judicial prévia, ainda que encontrado por acaso dentro de estabelecimento prisional, onde a expectativa de privacidade permanece plena.",
+        "e": "É lícito o acesso inicial às notificações e dados evidenciados na tela de celular encontrado por acaso dentro do presídio, sem autorização judicial prévia, desde que a medida seja depois justificada e submetida a controle judicial: a posse de celular no cárcere é proibida e configura falta grave, o que mitiga a expectativa de privacidade, e o Tema 977/STF (encontro fortuito, para esclarecer autoria) estende-se a esse contexto, com a extração completa do conteúdo dependendo de autorização judicial superveniente.",
+        "d": "O acesso é lícito, mas apenas se realizado por perito oficial, sendo vedado a agentes penitenciários comuns manusear ou visualizar qualquer conteúdo do aparelho.",
+        "a": "O acesso é sempre lícito dentro de estabelecimentos prisionais, independentemente de qualquer justificativa posterior ou submissão a controle judicial, dada a ausência de expectativa de privacidade do preso.",
+        "b": "A prova é ilícita, pois o Tema 977/STF exige, em qualquer circunstância, autorização judicial prévia para o acesso inicial a dispositivos eletrônicos, sem exceção para o ambiente carcerário."
+      },
+      "correct": "e",
+      "explanation": "O STJ considerou lícita a prova: a posse de celular no cárcere é proibida e configura falta grave, mitigando a expectativa de privacidade; o Tema 977/STF (que permite o acesso a dados de celular encontrado fortuitamente, para esclarecer autoria, sem autorização judicial prévia, desde que justificado depois) foi estendido a esse contexto, somando-se a posse proibida do aparelho — a extração completa do conteúdo dependeu de decisão judicial superveniente que convalidou a providência inicial.\n\nSTJ. 6ª Turma. AgRg no AREsp 3.208.338-RS, Rel. Min. Nilsoni de Freitas (Des. convocada do TJDFT), julgado em 16/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. AgRg no AREsp 3.208.338-RS, Rel. Min. Nilsoni de Freitas (Des. convocada do TJDFT), julgado em 16/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Acesso a celular encontrado por acaso dentro do presídio (extensão do Tema 977/STF)",
+      "difficulty": "dificil",
+      "miniLesson": "Durante revista em presídio, agentes penitenciários encontraram celular escondido em cela e, ao manuseá-lo, visualizaram na tela de bloqueio uma notificação relatando o cumprimento de uma ordem de matar. Diante disso, agiram para preservar o vestígio, obtendo decisão judicial superveniente que autorizou o acesso pleno ao conteúdo. A defesa alegou ilicitude por ausência de autorização judicial prévia para o acesso inicial. Segundo o STJ: O STJ considerou lícita a prova: a posse de celular no cárcere é proibida e configura falta grave, mitigando a expectativa de privacidade; o Tema 977/STF (que permite o acesso a dados de celular encontrado fortuitamente, para esclarecer autoria, sem autorização judicial prévia, desde que justificado depois) foi estendido a esse contexto, somando-se a posse proibida do aparelho — a extração completa do conteúdo dependeu de decisão judicial superveniente que convalidou a providência inicial."
+    },
+    {
+      "id": "pcprjur-obj-187",
+      "topic": "Cadeia de custódia e manuseio de celular por policiais antes da perícia oficial",
+      "question": "Celulares apreendidos em investigação de organização criminosa foram lacrados, mas agentes da própria Polícia Federal romperam os lacres e fizeram análise preliminar do conteúdo antes de encaminhá-los à perícia oficial, sem registro detalhado dos procedimentos realizados, relacrando os aparelhos com numeração diferente. A defesa alegou quebra da cadeia de custódia. Segundo o STJ:",
+      "options": {
+        "b": "Houve quebra da cadeia de custódia, gerando nulidade automática das provas extraídas, independentemente de qualquer demonstração concreta de adulteração dos vestígios.",
+        "a": "Não houve quebra da cadeia de custódia apta a gerar nulidade automática: o reconhecimento e a coleta preliminar do material, antes da perícia técnica oficial (art. 159 do CPP), prescindem da participação de perito oficial; a ausência de lacre ou de ficha de acompanhamento não implica, por si só, nulidade, exigindo-se comprovação de efetiva adulteração dos vestígios, cabendo ao juiz sopesar eventuais irregularidades à luz do conjunto probatório.",
+        "e": "A prova é sempre válida quando produzida por agentes da Polícia Federal, independentemente de qualquer formalidade relativa à cadeia de custódia, por presunção de boa-fé da autoridade pública.",
+        "c": "A quebra da cadeia de custódia somente pode ser alegada em habeas corpus, sendo incabível sua discussão em outros meios de impugnação processual.",
+        "d": "A ausência de registro do manuseio pelos agentes gera, automaticamente, a inversão do ônus da prova, cabendo à acusação demonstrar a integridade do material sob pena de nulidade."
+      },
+      "correct": "a",
+      "explanation": "O STJ não reconheceu quebra da cadeia de custódia apta a gerar nulidade: procedimentos preliminares de reconhecimento e coleta antecedem a perícia oficial e prescindem de perito; a ausência de lacre ou ficha de acompanhamento não implica nulidade automática, exigindo-se prova de efetiva adulteração, cabendo ao magistrado avaliar eventuais irregularidades à luz de todo o conjunto probatório produzido na instrução.\n\nSTJ. 6ª Turma. HC 1.054.038-SP, Rel. Min. Sebastião Reis Júnior, julgado em 10/3/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. HC 1.054.038-SP, Rel. Min. Sebastião Reis Júnior, julgado em 10/3/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Cadeia de custódia e manuseio de celular por policiais antes da perícia oficial",
+      "difficulty": "dificil",
+      "miniLesson": "Celulares apreendidos em investigação de organização criminosa foram lacrados, mas agentes da própria Polícia Federal romperam os lacres e fizeram análise preliminar do conteúdo antes de encaminhá-los à perícia oficial, sem registro detalhado dos procedimentos realizados, relacrando os aparelhos com numeração diferente. A defesa alegou quebra da cadeia de custódia. Segundo o STJ: O STJ não reconheceu quebra da cadeia de custódia apta a gerar nulidade: procedimentos preliminares de reconhecimento e coleta antecedem a perícia oficial e prescindem de perito; a ausência de lacre ou ficha de acompanhamento não implica nulidade automática, exigindo-se prova de efetiva adulteração, cabendo ao magistrado avaliar eventuais irregularidades à luz de todo o conjunto probatório produzido na instrução."
+    },
+    {
+      "id": "pcprjur-obj-188",
+      "topic": "Insuficiência de testemunho indireto para a pronúncia",
+      "question": "Em investigação de homicídio, duas testemunhas de identidade preservada apontaram dois suspeitos na fase policial, mas não confirmaram esse relato em juízo; a única prova de autoria produzida judicialmente foi o depoimento de alguém que não presenciou o crime e apenas disse ter ouvido dizer que os suspeitos eram os autores. Segundo o STJ:",
+      "options": {
+        "e": "É possível a pronúncia com base nesses elementos, pois o princípio in dubio pro societate autoriza a submissão ao júri sempre que houver qualquer indício, direto ou indireto, de autoria.",
+        "c": "Não é possível pronunciar o acusado com base apenas em depoimentos do inquérito não confirmados em juízo somados a testemunho de quem só ouviu dizer ('de ouvir dizer'): a pronúncia exige certeza da materialidade e indícios suficientes extraídos de prova produzida sob contraditório ou de elementos informativos corroborados em juízo, não bastando declarações inquisitoriais sem ratificação somadas a testemunho indireto, e o in dubio pro societate não supre essa insuficiência probatória.",
+        "a": "A pronúncia é sempre cabível quando há dificuldade probatória decorrente de intimidação comunitária, hipótese que automaticamente dispensa qualquer corroboração judicial dos elementos do inquérito.",
+        "d": "A pronúncia depende exclusivamente da gravidade abstrata do crime imputado, sendo irrelevante a qualidade dos indícios de autoria reunidos na investigação.",
+        "b": "A pronúncia deveria ter sido mantida, pois a mera existência de testemunhas de identidade preservada na fase policial já basta para a submissão do caso ao Tribunal do Júri."
+      },
+      "correct": "c",
+      "explanation": "O STJ considerou insuficientes os indícios: a pronúncia exige certeza da materialidade e indícios suficientes de autoria extraídos de prova sob contraditório ou de elementos informativos corroborados em juízo, não bastando declarações inquisitoriais não ratificadas somadas a testemunho indireto ('de ouvir dizer'); o in dubio pro societate não supre essa insuficiência, e mesmo o contexto de intimidação comunitária por facções não dispensa o mínimo de corroboração judicial.\n\nSTJ. 5ª Turma. AgRg no HC 1.088.780-ES, Rel. Min. Reynaldo Soares da Fonseca, julgado em 17/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no HC 1.088.780-ES, Rel. Min. Reynaldo Soares da Fonseca, julgado em 17/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Insuficiência de testemunho indireto para a pronúncia",
+      "difficulty": "dificil",
+      "miniLesson": "Em investigação de homicídio, duas testemunhas de identidade preservada apontaram dois suspeitos na fase policial, mas não confirmaram esse relato em juízo; a única prova de autoria produzida judicialmente foi o depoimento de alguém que não presenciou o crime e apenas disse ter ouvido dizer que os suspeitos eram os autores. Segundo o STJ: O STJ considerou insuficientes os indícios: a pronúncia exige certeza da materialidade e indícios suficientes de autoria extraídos de prova sob contraditório ou de elementos informativos corroborados em juízo, não bastando declarações inquisitoriais não ratificadas somadas a testemunho indireto ('de ouvir dizer'); o in dubio pro societate não supre essa insuficiência, e mesmo o contexto de intimidação comunitária por facções não dispensa o mínimo de corroboração judicial."
+    },
+    {
+      "id": "pcprjur-obj-189",
+      "topic": "Intimação por edital do acusado revel para sessão do Tribunal do Júri",
+      "question": "Um réu, citado pessoalmente e inicialmente presente com advogado constituído, mudou de endereço sem avisar o juízo e teve a revelia decretada, passando as comunicações a ser feitas por edital. Contudo, não foi publicado edital especificamente para intimá-lo da data da sessão de julgamento pelo júri, que se realizou normalmente com a Defensoria Pública atuando em sua defesa. Segundo o STJ:",
+      "options": {
+        "e": "A ausência de edital específico para a sessão de julgamento é suprida pela revelia já decretada e pela atuação da Defensoria Pública, não gerando qualquer nulidade.",
+        "c": "É indispensável a intimação do acusado, inclusive por edital, para a sessão do Tribunal do Júri, ainda que ele tenha sido declarado revel por mudar de endereço sem avisar o juízo; a ausência dessa intimação configura nulidade absoluta por ofensa à autodefesa, não sujeita a preclusão, não sendo suprida pela atuação exclusiva da defesa técnica.",
+        "a": "A intimação por edital é dispensável para a sessão de julgamento sempre que o acusado já tiver sido intimado por edital em qualquer ato anterior do processo.",
+        "b": "A nulidade somente se configuraria se o acusado tivesse comparecido a todos os demais atos processuais, o que não ocorreu no caso, afastando qualquer vício.",
+        "d": "A questão é irrelevante, pois a presença do acusado na sessão de julgamento do júri é sempre facultativa, bastando a presença de seu defensor técnico."
+      },
+      "correct": "c",
+      "explanation": "O STJ anulou a sessão de julgamento: é indispensável a intimação do acusado, inclusive por edital quando não localizado, para a sessão do júri, mesmo estando ele revel; a ausência dessa intimação configura nulidade absoluta por ofensa à autodefesa, não sanada pela atuação exclusiva da defesa técnica nem sujeita a preclusão.\n\nSTJ. 5ª Turma. AgRg no REsp 2.248.978-GO, Rel. Min. Reynaldo Soares da Fonseca, julgado em 5/5/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.248.978-GO, Rel. Min. Reynaldo Soares da Fonseca, julgado em 5/5/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Intimação por edital do acusado revel para sessão do Tribunal do Júri",
+      "difficulty": "dificil",
+      "miniLesson": "Um réu, citado pessoalmente e inicialmente presente com advogado constituído, mudou de endereço sem avisar o juízo e teve a revelia decretada, passando as comunicações a ser feitas por edital. Contudo, não foi publicado edital especificamente para intimá-lo da data da sessão de julgamento pelo júri, que se realizou normalmente com a Defensoria Pública atuando em sua defesa. Segundo o STJ: O STJ anulou a sessão de julgamento: é indispensável a intimação do acusado, inclusive por edital quando não localizado, para a sessão do júri, mesmo estando ele revel; a ausência dessa intimação configura nulidade absoluta por ofensa à autodefesa, não sanada pela atuação exclusiva da defesa técnica nem sujeita a preclusão."
+    },
+    {
+      "id": "pcprjur-obj-190",
+      "topic": "Vedação ao reconhecimento de agravante não debatida em plenário do júri",
+      "question": "Em julgamento pelo júri, a denúncia mencionava condenação anterior transitada em julgado do réu, mas nem acusação nem defesa debateram a reincidência nos debates em plenário — o Promotor apenas pediu a condenação 'nos termos da denúncia'. Os jurados condenaram o réu, e o juiz-presidente, na dosimetria, aumentou a pena pela reincidência. Segundo o STJ:",
+      "options": {
+        "a": "O aumento foi correto, pois a reincidência é agravante de natureza objetiva, dispensando debate específico em plenário quando já mencionada na própria denúncia.",
+        "c": "O aumento foi incorreto: nos termos do art. 492, I, 'b', do CPP, as agravantes e atenuantes só podem ser reconhecidas pelo juiz-presidente se tiverem sido efetivamente debatidas no plenário do júri; o mero pedido de condenação 'nos termos da denúncia' (que menciona condenações pretéritas) não supre essa exigência, ainda que se trate de circunstância objetiva.",
+        "e": "O aumento foi correto, pois compete exclusivamente ao juiz-presidente, e não aos jurados, decidir sobre agravantes e atenuantes, independentemente de qualquer debate em plenário.",
+        "b": "A ausência de debate sobre a reincidência em plenário é irrelevante fora do procedimento do júri, mas relevante apenas quando o Ministério Público, e não o juiz, aplicar a agravante.",
+        "d": "O aumento foi correto, pois circunstâncias objetivas como a reincidência podem ser reconhecidas de ofício pelo juiz em qualquer procedimento, inclusive no rito do júri, sem exceção."
+      },
+      "correct": "c",
+      "explanation": "O STJ afastou a agravante: nos termos do art. 492, I, 'b', do CPP, agravantes e atenuantes só podem ser reconhecidas pelo juiz-presidente se debatidas em plenário; o mero pedido de condenação 'nos termos da denúncia' não supre essa exigência, mesmo sendo a reincidência circunstância objetiva — fora do júri, o juiz pode reconhecer agravantes de ofício (art. 385, CPP), mas não no rito do Tribunal do Júri.\n\nSTJ. 6ª Turma. AgRg no HC 1.083.752-MS, Rel. Min. Nilsoni de Freitas (Des. convocada do TJDFT), julgado em 24/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. AgRg no HC 1.083.752-MS, Rel. Min. Nilsoni de Freitas (Des. convocada do TJDFT), julgado em 24/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Vedação ao reconhecimento de agravante não debatida em plenário do júri",
+      "difficulty": "dificil",
+      "miniLesson": "Em julgamento pelo júri, a denúncia mencionava condenação anterior transitada em julgado do réu, mas nem acusação nem defesa debateram a reincidência nos debates em plenário — o Promotor apenas pediu a condenação 'nos termos da denúncia'. Os jurados condenaram o réu, e o juiz-presidente, na dosimetria, aumentou a pena pela reincidência. Segundo o STJ: O STJ afastou a agravante: nos termos do art. 492, I, 'b', do CPP, agravantes e atenuantes só podem ser reconhecidas pelo juiz-presidente se debatidas em plenário; o mero pedido de condenação 'nos termos da denúncia' não supre essa exigência, mesmo sendo a reincidência circunstância objetiva — fora do júri, o juiz pode reconhecer agravantes de ofício (art. 385, CPP), mas não no rito do Tribunal do Júri."
+    },
+    {
+      "id": "pcprjur-obj-191",
+      "topic": "Tese de desclassificação subsidiária não configura confissão espontânea",
+      "question": "Negando a autoria de tentativa de homicídio durante toda a instrução e em plenário, um réu teve sua defesa técnica sustentando, como tese subsidiária nos debates, a desclassificação para lesão corporal. Condenado pelo Conselho de Sentença, ele pleiteou a atenuante da confissão espontânea, sob o argumento de que a tese subsidiária equivaleria a uma confissão qualificada. Segundo o STJ:",
+      "options": {
+        "a": "A tese de desclassificação subsidiária sustentada pela defesa técnica configura confissão qualificada, gerando direito à atenuante, independentemente da posição pessoal assumida pelo réu em seu interrogatório.",
+        "e": "A atenuante da confissão espontânea exige a admissão pessoal da conduta pelo próprio réu, de caráter personalíssimo, não suprida por tese jurídica subsidiária apresentada pela defesa técnica; tendo o acusado negado os fatos em interrogatório, a busca por desclassificação não configura a confissão do art. 65, III, 'd', do CP.",
+        "b": "A atenuante deve ser reconhecida sempre que a defesa técnica sustente tese subsidiária de desclassificação, independentemente de qualquer manifestação pessoal do acusado.",
+        "c": "A questão é irrelevante no rito do júri, pois nesse procedimento as atenuantes são sempre reconhecidas de ofício pelo juiz-presidente, independentemente de debate em plenário.",
+        "d": "A atenuante deveria ter sido reconhecida parcialmente, em grau reduzido, por analogia à confissão qualificada admitida em outros contextos processuais."
+      },
+      "correct": "e",
+      "explanation": "O STJ negou a atenuante: a confissão espontânea tem caráter personalíssimo, exigindo admissão da conduta pelo próprio réu, não suprida por tese jurídica subsidiária da defesa técnica; tendo o acusado negado a autoria durante toda a instrução e em plenário, a busca por desclassificação não configura a confissão do art. 65, III, 'd', do CP.\n\nSTJ. 6ª Turma. AgRg no AREsp 3.103.593-PR, Rel. Min. Antonio Saldanha Palheiro, julgado em 7/4/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. AgRg no AREsp 3.103.593-PR, Rel. Min. Antonio Saldanha Palheiro, julgado em 7/4/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Tese de desclassificação subsidiária não configura confissão espontânea",
+      "difficulty": "dificil",
+      "miniLesson": "Negando a autoria de tentativa de homicídio durante toda a instrução e em plenário, um réu teve sua defesa técnica sustentando, como tese subsidiária nos debates, a desclassificação para lesão corporal. Condenado pelo Conselho de Sentença, ele pleiteou a atenuante da confissão espontânea, sob o argumento de que a tese subsidiária equivaleria a uma confissão qualificada. Segundo o STJ: O STJ negou a atenuante: a confissão espontânea tem caráter personalíssimo, exigindo admissão da conduta pelo próprio réu, não suprida por tese jurídica subsidiária da defesa técnica; tendo o acusado negado a autoria durante toda a instrução e em plenário, a busca por desclassificação não configura a confissão do art. 65, III, 'd', do CP."
+    },
+    {
+      "id": "pcprjur-obj-192",
+      "topic": "Menção pontual a acórdão de pronúncia em plenário e vedação do art. 478, I, do CPP",
+      "question": "Durante os debates em plenário do júri, o Promotor mencionou brevemente que houve recurso do Ministério Público contra a pronúncia por homicídio simples, com resultado favorável à acusação (reinclusão da qualificadora), sem ler o acórdão. O juiz-presidente esclareceu de imediato que a decisão do Tribunal não vinculava os jurados. A defesa alegou nulidade por violação ao art. 478, I, do CPP. Segundo o STJ:",
+      "options": {
+        "e": "Qualquer menção, ainda que breve e não seguida de leitura, à decisão que confirmou a pronúncia configura automaticamente nulidade, por violação literal ao art. 478, I, do CPP.",
+        "d": "A simples menção, em plenário, ao acórdão que confirmou a pronúncia não anula o julgamento, salvo se a referência for utilizada como argumento de autoridade capaz de beneficiar ou prejudicar o acusado; no caso, houve referência pontual e breve, sem leitura integral ou parcial, e sem conversão em argumento de autoridade, não configurando a violação vedada.",
+        "b": "A nulidade deveria ser reconhecida independentemente do teor da menção, pois o esclarecimento do juiz-presidente sobre a não vinculação dos jurados é irrelevante para a análise da nulidade.",
+        "a": "A vedação do art. 478, I, do CPP aplica-se apenas à leitura integral de decisões, sendo sempre lícita qualquer menção oral, ainda que extensa, desde que não acompanhada de cópia física do documento.",
+        "c": "A nulidade deveria ser reconhecida, pois a simples existência de recurso do Ministério Público contra a pronúncia já configura, por si só, prejulgamento inadmissível da causa."
+      },
+      "correct": "d",
+      "explanation": "O STJ não reconheceu nulidade: o art. 478, I, do CPP veda o uso das peças ali listadas como argumento de autoridade capaz de beneficiar ou prejudicar o acusado, mas a simples menção pontual e breve, sem leitura integral ou parcial e sem conversão em argumento de autoridade, não configura a violação vedada pelo dispositivo.\n\nSTJ. 6ª Turma. AgRg no HC 1.073.623-SC, Rel. Min. Antonio Saldanha Palheiro, julgado em 31/3/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. AgRg no HC 1.073.623-SC, Rel. Min. Antonio Saldanha Palheiro, julgado em 31/3/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Menção pontual a acórdão de pronúncia em plenário e vedação do art. 478, I, do CPP",
+      "difficulty": "dificil",
+      "miniLesson": "Durante os debates em plenário do júri, o Promotor mencionou brevemente que houve recurso do Ministério Público contra a pronúncia por homicídio simples, com resultado favorável à acusação (reinclusão da qualificadora), sem ler o acórdão. O juiz-presidente esclareceu de imediato que a decisão do Tribunal não vinculava os jurados. A defesa alegou nulidade por violação ao art. 478, I, do CPP. Segundo o STJ: O STJ não reconheceu nulidade: o art. 478, I, do CPP veda o uso das peças ali listadas como argumento de autoridade capaz de beneficiar ou prejudicar o acusado, mas a simples menção pontual e breve, sem leitura integral ou parcial e sem conversão em argumento de autoridade, não configura a violação vedada pelo dispositivo."
+    },
+    {
+      "id": "pcprjur-obj-193",
+      "topic": "Vedação ao voto médio em empate sobre fração de atenuante mais gravosa ao réu",
+      "question": "Em embargos infringentes, formou-se maioria no Tribunal quanto ao reconhecimento da atenuante da confissão, mas houve empate de três a três quanto à fração aplicável (1/6, resultando em pena menor, ou 1/12, resultando em pena maior por se tratar de confissão qualificada). O Tribunal aplicou a 'técnica do voto médio' e proclamou a fração de 1/12 (menos favorável ao réu). Segundo o STJ:",
+      "options": {
+        "b": "A técnica do voto médio foi corretamente aplicada, pois sempre que houver empate sobre a extensão de um benefício já reconhecido, deve prevalecer a fração intermediária entre as posições divergentes.",
+        "d": "A técnica do voto médio foi incorretamente aplicada: havendo empate quanto à fração redutora de atenuante já reconhecida por maioria, deve prevalecer a solução mais favorável ao réu; o voto médio não pode ser utilizado para proclamar resultado mais gravoso quando a divergência recai sobre o próprio conteúdo da resposta penal, pois o empate em processo penal não é espaço a ser preenchido por critério intermediário construído pelo julgador.",
+        "c": "A técnica do voto médio deveria ter sido aplicada de forma inversa, resultando em fração de 1/9, como média aritmética exata entre as duas posições divergentes.",
+        "e": "A questão deveria ter sido resolvida por novo julgamento integral do recurso, e não pela aplicação de qualquer critério de desempate sobre a fração da atenuante.",
+        "a": "O empate deveria ter sido resolvido a favor da acusação, em prestígio à efetividade da persecução penal e à busca da verdade real."
+      },
+      "correct": "d",
+      "explanation": "O STJ reduziu a pena para a fração mais favorável: havendo empate quanto à fração de uma atenuante já reconhecida por maioria, prevalece a solução mais favorável ao réu (art. 615, § 1º, CPP); o voto médio não pode ser usado para impor consequência mais gravosa quando a divergência recai sobre a própria extensão da resposta penal, pois o empate em processo penal não constitui espaço para critério intermediário construído pelo julgador.\n\nSTJ. 5ª Turma. REsp 2.220.498-RS, Rel. Min. Ribeiro Dantas, julgado em 16/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. REsp 2.220.498-RS, Rel. Min. Ribeiro Dantas, julgado em 16/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Vedação ao voto médio em empate sobre fração de atenuante mais gravosa ao réu",
+      "difficulty": "dificil",
+      "miniLesson": "Em embargos infringentes, formou-se maioria no Tribunal quanto ao reconhecimento da atenuante da confissão, mas houve empate de três a três quanto à fração aplicável (1/6, resultando em pena menor, ou 1/12, resultando em pena maior por se tratar de confissão qualificada). O Tribunal aplicou a 'técnica do voto médio' e proclamou a fração de 1/12 (menos favorável ao réu). Segundo o STJ: O STJ reduziu a pena para a fração mais favorável: havendo empate quanto à fração de uma atenuante já reconhecida por maioria, prevalece a solução mais favorável ao réu (art. 615, § 1º, CPP); o voto médio não pode ser usado para impor consequência mais gravosa quando a divergência recai sobre a própria extensão da resposta penal, pois o empate em processo penal não constitui espaço para critério intermediário construído pelo julgador."
+    },
+    {
+      "id": "pcprjur-obj-194",
+      "topic": "Retificação da tese do Tema 1.195 sobre falta grave e indulto",
+      "question": "O STJ havia fixado, no Tema 1.195, que o período de 12 meses anteriores ao decreto de indulto (durante o qual a prática de falta grave impede a comutação) se caracteriza pela não ocorrência da falta, e não pela data de sua apuração, desde que já instaurado o processo administrativo disciplinar. Em embargos de declaração, o Ministério Público apontou contradição entre essa condicionante e a fundamentação do acórdão. Segundo a tese retificada pelo STJ:",
+      "options": {
+        "b": "A tese original foi mantida integralmente, sem qualquer alteração, tendo os embargos de declaração sido rejeitados por ausência de contradição.",
+        "c": "A tese foi retificada para dispensar até mesmo a instauração do processo administrativo disciplinar antes do decreto, bastando a prática da falta grave dentro dos 12 meses, independentemente de qualquer apuração.",
+        "d": "A tese foi retificada: o período de 12 meses caracteriza-se pela não ocorrência de falta grave nesse interstício, ainda que a apuração da infração disciplinar seja concluída em momento posterior ao decreto, desde que não configurada inércia ou mora estatal na instauração do procedimento apuratório — superando o critério antes vinculado exclusivamente à instauração formal do PAD.",
+        "a": "A tese foi retificada para exigir que a falta grave seja definitivamente julgada e transitada em julgado antes da publicação do decreto de indulto, sob pena de presunção de boa conduta do apenado.",
+        "e": "A tese foi retificada para eliminar totalmente a relevância da falta grave para fins de indulto, que passou a ser concedido independentemente do comportamento carcerário do sentenciado."
+      },
+      "correct": "d",
+      "explanation": "O STJ acolheu em parte os embargos e retificou a tese do Tema 1.195: o período de 12 meses se caracteriza pela não ocorrência de falta grave nesse interstício, ainda que a apuração seja concluída após o decreto, desde que não configurada inércia ou mora estatal na instauração do procedimento — um critério finalístico (o Estado cumpriu seu dever de apurar?), e não mais apenas formal (havia processo instaurado?).\n\nSTJ. 3ª Seção. EDcl no REsp 2.011.706-MG, Rel. Min. Og Fernandes, julgado em 10/6/2026 (Recurso Repetitivo – Tema 1195) (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 3ª Seção. EDcl no REsp 2.011.706-MG, Rel. Min. Og Fernandes, julgado em 10/6/2026 (Recurso Repetitivo – Tema 1195) (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Retificação da tese do Tema 1.195 sobre falta grave e indulto",
+      "difficulty": "dificil",
+      "miniLesson": "O STJ havia fixado, no Tema 1.195, que o período de 12 meses anteriores ao decreto de indulto (durante o qual a prática de falta grave impede a comutação) se caracteriza pela não ocorrência da falta, e não pela data de sua apuração, desde que já instaurado o processo administrativo disciplinar. Em embargos de declaração, o Ministério Público apontou contradição entre essa condicionante e a fundamentação do acórdão. Segundo a tese retificada pelo STJ: O STJ acolheu em parte os embargos e retificou a tese do Tema 1.195: o período de 12 meses se caracteriza pela não ocorrência de falta grave nesse interstício, ainda que a apuração seja concluída após o decreto, desde que não configurada inércia ou mora estatal na instauração do procedimento — um critério finalístico (o Estado cumpriu seu dever de apurar?), e não mais apenas formal (havia processo instaurado?)."
+    },
+    {
+      "id": "pcprjur-obj-195",
+      "topic": "Vedação ao desconto de dias de pena por violações de monitoramento eletrônico",
+      "question": "Um condenado em prisão domiciliar com monitoração eletrônica teve centenas de violações de perímetro registradas pelo sistema. O juiz da execução, além de reconhecer falta grave e regredir o regime, determinou que o cômputo do tempo de pena cumprida fosse interrompido na razão de um dia para cada violação registrada, somando 713 dias, com base em resolução do CNJ. Segundo o STJ:",
+      "options": {
+        "a": "A interrupção do cômputo é válida, pois a resolução do CNJ tem força de lei para fins de execução penal, podendo criar sanções não previstas expressamente na Lei de Execução Penal.",
+        "b": "A interrupção do cômputo é ilegal: a execução penal é regida pela estrita legalidade (art. 45 da LEP e art. 5º, XXXIX, CF/88), e as sanções por descumprimento das condições de monitoramento estão taxativamente previstas na LEP, não incluindo essa interrupção; a resolução do CNJ invocada é norma de proteção (para contar o monitoramento como tempo de pena), e extrair dela uma sanção autônoma extrapola o poder regulamentar do CNJ.",
+        "c": "A interrupção é válida, mas apenas quanto a metade dos dias computados, por analogia à detração penal, que sempre reduz o benefício pela metade em casos de reiteração de faltas.",
+        "e": "A questão é irrelevante, pois a regressão de regime já é sanção suficiente, sendo vedada, em qualquer hipótese, a aplicação cumulativa de perda de dias remidos.",
+        "d": "A interrupção do cômputo é sempre válida quando o número de violações ultrapassar 100 ocorrências, por se tratar, nesse patamar, de reiteração grave e inequívoca."
+      },
+      "correct": "b",
+      "explanation": "O STJ considerou ilegal a interrupção: a execução penal é regida pela estrita legalidade, e as sanções por descumprimento do monitoramento estão taxativamente na LEP, sem incluir essa interrupção de cômputo; a resolução do CNJ invocada é norma de inclusão protetiva (garante que o monitoramento conte como cumprimento de pena), e extrair dela uma sanção autônoma extrapola o poder regulamentar do CNJ, criando penalidade por via oblíqua.\n\nSTJ. 5ª Turma. AgRg no AREsp 3.114.054-SC, Rel. Min. Messod Azulay Neto, julgado em 2/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no AREsp 3.114.054-SC, Rel. Min. Messod Azulay Neto, julgado em 2/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Vedação ao desconto de dias de pena por violações de monitoramento eletrônico",
+      "difficulty": "dificil",
+      "miniLesson": "Um condenado em prisão domiciliar com monitoração eletrônica teve centenas de violações de perímetro registradas pelo sistema. O juiz da execução, além de reconhecer falta grave e regredir o regime, determinou que o cômputo do tempo de pena cumprida fosse interrompido na razão de um dia para cada violação registrada, somando 713 dias, com base em resolução do CNJ. Segundo o STJ: O STJ considerou ilegal a interrupção: a execução penal é regida pela estrita legalidade, e as sanções por descumprimento do monitoramento estão taxativamente na LEP, sem incluir essa interrupção de cômputo; a resolução do CNJ invocada é norma de inclusão protetiva (garante que o monitoramento conte como cumprimento de pena), e extrair dela uma sanção autônoma extrapola o poder regulamentar do CNJ, criando penalidade por via oblíqua."
+    },
+    {
+      "id": "pcprjur-obj-196",
+      "topic": "Indulto natalino: exigência de cumprimento efetivo de pena na data-base",
+      "question": "Condenada por furto qualificado a cumprir pena em regime aberto, uma ré teve o mandado de intimação para início da execução expedido em 11/12/2024, mas a audiência admonitória só ocorreu em 31/1/2025 — após 25/12/2024, data-base fixada pelo Decreto de indulto natalino (art. 9º, VIII) para que o sentenciado já estivesse cumprindo pena. Segundo o STJ:",
+      "options": {
+        "d": "O indulto é devido, pois basta o trânsito em julgado da condenação e a expedição do mandado de intimação antes da data-base, sendo irrelevante a data da audiência admonitória.",
+        "a": "O indulto não é devido: a concessão do indulto do Decreto 12.338/2024 exige que o sentenciado esteja em efetivo cumprimento da pena em 25 de dezembro de 2024, e não apenas o trânsito em julgado da condenação; no regime aberto, a audiência admonitória é o marco formal de início do cumprimento, de modo que sua realização após a data-base inviabiliza o benefício, ainda que a demora decorra do recesso forense.",
+        "b": "O indulto é devido, pois a demora na realização da audiência admonitória, decorrente do recesso forense, é circunstância que sempre autoriza o afastamento da data-base fixada no decreto.",
+        "c": "A data-base do decreto de indulto é inconstitucional quando aplicada a réus em regime aberto, por violar a isonomia em relação aos que cumprem pena em regime fechado.",
+        "e": "O indulto deveria ter sido concedido proporcionalmente, considerando o tempo decorrido entre a expedição do mandado e a efetiva realização da audiência admonitória."
+      },
+      "correct": "a",
+      "explanation": "O STJ negou o indulto: sua concessão exige que o sentenciado esteja em efetivo cumprimento de pena na data-base (25/12/2024), não bastando o trânsito em julgado; no regime aberto, a audiência admonitória é o marco formal de início do cumprimento, e sua realização após a data-base inviabiliza o benefício, mesmo quando a demora decorre do recesso forense.\n\nSTJ. 6ª Turma. AgRg nos EDcl no HC 1.005.325-SP, Rel. Min. Rogerio Schietti Cruz, julgado em 4/3/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 6ª Turma. AgRg nos EDcl no HC 1.005.325-SP, Rel. Min. Rogerio Schietti Cruz, julgado em 4/3/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Indulto natalino: exigência de cumprimento efetivo de pena na data-base",
+      "difficulty": "dificil",
+      "miniLesson": "Condenada por furto qualificado a cumprir pena em regime aberto, uma ré teve o mandado de intimação para início da execução expedido em 11/12/2024, mas a audiência admonitória só ocorreu em 31/1/2025 — após 25/12/2024, data-base fixada pelo Decreto de indulto natalino (art. 9º, VIII) para que o sentenciado já estivesse cumprindo pena. Segundo o STJ: O STJ negou o indulto: sua concessão exige que o sentenciado esteja em efetivo cumprimento de pena na data-base (25/12/2024), não bastando o trânsito em julgado; no regime aberto, a audiência admonitória é o marco formal de início do cumprimento, e sua realização após a data-base inviabiliza o benefício, mesmo quando a demora decorre do recesso forense."
+    },
+    {
+      "id": "pcprjur-obj-197",
+      "topic": "Dispensa de reparação do dano no indulto por presunção de incapacidade econômica",
+      "question": "Condenado por furto (crime patrimonial sem violência), um réu assistido pela Defensoria Pública e com dia-multa fixado no mínimo legal pediu indulto com base no art. 9º, XV, do Decreto nº 12.338/2024, sem ter reparado o dano. O juízo negou o benefício por ausência de reparação ou tentativa de reparação. Segundo o STJ:",
+      "options": {
+        "e": "A reparação do dano é sempre exigível para o indulto de crimes patrimoniais, independentemente de qualquer presunção de hipossuficiência econômica do condenado.",
+        "b": "O art. 9º, XV, do Decreto 12.338/2024 dispensa a reparação do dano sempre que configurada hipótese de presunção de incapacidade econômica do art. 12, § 2º, do mesmo decreto (como a atuação da Defensoria Pública ou a fixação do dia-multa no mínimo legal), sem exigir arrependimento posterior ou tentativa de reparação, incidindo essa presunção de pleno direito, sem necessidade de comprovação adicional.",
+        "d": "A dispensa de reparação depende de decisão judicial específica reconhecendo a hipossuficiência em cada caso, não bastando a atuação da Defensoria Pública ou a fixação do dia-multa mínimo.",
+        "c": "A reparação do dano é sempre dispensada em crimes patrimoniais sem violência, independentemente de qualquer previsão específica no decreto de indulto.",
+        "a": "A dispensa da reparação exige a aplicação do Tema Repetitivo 931 do STJ, que trata de matéria diversa, mas cujos critérios foram estendidos ao indulto coletivo."
+      },
+      "correct": "b",
+      "explanation": "O STJ reconheceu o direito ao indulto: o art. 9º, XV, do Decreto 12.338/2024 dispensa a reparação do dano sempre que configurada presunção de incapacidade econômica do art. 12, § 2º (como atuação da Defensoria Pública ou dia-multa no mínimo legal), sem exigir arrependimento ou tentativa de reparação, incidindo essa presunção de pleno direito — sendo inadequada a transposição do Tema Repetitivo 931/STJ (de contexto diverso) para essa análise.\n\nSTJ. 5ª Turma. AgRg no HC 1.050.739-SP, Rel. Min. Joel Ilan Paciornik, julgado em 16/6/2026 (Info 33 - Edição Extraordinária).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026 (Edição Extraordinária)",
+        "citation": "STJ. 5ª Turma. AgRg no HC 1.050.739-SP, Rel. Min. Joel Ilan Paciornik, julgado em 16/6/2026 (Info 33 - Edição Extraordinária)."
+      },
+      "subject": "Dispensa de reparação do dano no indulto por presunção de incapacidade econômica",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por furto (crime patrimonial sem violência), um réu assistido pela Defensoria Pública e com dia-multa fixado no mínimo legal pediu indulto com base no art. 9º, XV, do Decreto nº 12.338/2024, sem ter reparado o dano. O juízo negou o benefício por ausência de reparação ou tentativa de reparação. Segundo o STJ: O STJ reconheceu o direito ao indulto: o art. 9º, XV, do Decreto 12.338/2024 dispensa a reparação do dano sempre que configurada presunção de incapacidade econômica do art. 12, § 2º (como atuação da Defensoria Pública ou dia-multa no mínimo legal), sem exigir arrependimento ou tentativa de reparação, incidindo essa presunção de pleno direito — sendo inadequada a transposição do Tema Repetitivo 931/STJ (de contexto diverso) para essa análise."
     }
   ],
   "discursive": [],
