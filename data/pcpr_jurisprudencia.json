@@ -1011,6 +1011,443 @@
       "subject": "Competência para apurar a falta de advogado à sessão do júri após a Lei 14.752/2023",
       "difficulty": "dificil",
       "miniLesson": "Advogados que não compareceram à sessão do Tribunal do Júri, causando seu adiamento, foram multados pelo juiz da causa por ato atentatório à dignidade da justiça, com base no art. 3º do CPP combinado com o art. 77 do CPC. Segundo o STJ, após a Lei nº 14.752/2023: O STJ cassou a multa: a Lei nº 14.752/2023 alterou o art. 265 do CPP e suprimiu a multa por abandono de causa, retirando do juiz criminal a competência para sancionar pecuniariamente advogados, que devem ter sua conduta comunicada à OAB para apuração ética e disciplinar. Além disso, o art. 77, § 6º, do CPC expressamente exclui os advogados das sanções por ato atentatório à dignidade da justiça, reservando sua responsabilização ao Estatuto da Advocacia."
+    },
+    {
+      "id": "pcprjur-obj-045",
+      "topic": "Litígio estrutural e omissão estatal no uso da força policial",
+      "question": "Diante de relatos de uso excessivo da força pela Polícia Militar em manifestações públicas e da ausência de protocolos que definam parâmetros técnicos para essa atuação, a Defensoria Pública ajuizou ação civil pública pedindo a condenação do Estado a editar ato normativo regulamentando o tema. Segundo o entendimento do STJ, essa pretensão:",
+      "options": {
+        "e": "É incabível, pois a definição de parâmetros para o uso da força policial é matéria de discricionariedade administrativa insindicável pelo Poder Judiciário, sob pena de violação à separação de poderes.",
+        "a": "É cabível: a ausência de regulamentação configura omissão estatal que legitima a intervenção judicial por meio de processo estrutural, com a elaboração de um plano dialógico para a construção do protocolo, apresentado, acompanhado e aprovado pelo juízo da execução, sem ofensa à separação de poderes.",
+        "b": "É cabível, mas apenas para determinar a imediata suspensão de toda atividade de policiamento de manifestações públicas até a edição do protocolo pelo próprio Estado, sem qualquer acompanhamento judicial do processo de elaboração.",
+        "d": "É incabível, pois compete exclusivamente à União, e não aos Estados, disciplinar parâmetros de uso da força pelas polícias militares estaduais.",
+        "c": "É cabível, mas o Judiciário deve editar diretamente o protocolo de atuação, substituindo a atividade normativa do Poder Executivo estadual."
+      },
+      "correct": "a",
+      "explanation": "O STJ entendeu que a ausência de parâmetros técnicos para o uso proporcional e progressivo da força configura omissão estatal que legitima a intervenção judicial, sem ofensa à separação de poderes, tratando-se de litígio/processo estrutural: a solução é a elaboração de um plano dialógico para construção do protocolo, apresentado, acompanhado e aprovado pelo juízo da execução — não a edição direta da norma pelo Judiciário nem a mera suspensão da atividade policial.\n\nSTJ. 1ª Turma. AgInt no AREsp 2.068.297-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026",
+        "citation": "STJ. 1ª Turma. AgInt no AREsp 2.068.297-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 16/6/2026 (Info 894)."
+      },
+      "subject": "Litígio estrutural e omissão estatal no uso da força policial",
+      "difficulty": "dificil",
+      "miniLesson": "Diante de relatos de uso excessivo da força pela Polícia Militar em manifestações públicas e da ausência de protocolos que definam parâmetros técnicos para essa atuação, a Defensoria Pública ajuizou ação civil pública pedindo a condenação do Estado a editar ato normativo regulamentando o tema. Segundo o entendimento do STJ, essa pretensão: O STJ entendeu que a ausência de parâmetros técnicos para o uso proporcional e progressivo da força configura omissão estatal que legitima a intervenção judicial, sem ofensa à separação de poderes, tratando-se de litígio/processo estrutural: a solução é a elaboração de um plano dialógico para construção do protocolo, apresentado, acompanhado e aprovado pelo juízo da execução — não a edição direta da norma pelo Judiciário nem a mera suspensão da atividade policial."
+    },
+    {
+      "id": "pcprjur-obj-046",
+      "topic": "Custeio estatal de tratamento médico no exterior",
+      "question": "Paciente com doença rara, dependente de nutrição parenteral, pediu judicialmente o custeio de transplante nos Estados Unidos, alegando que o centro estrangeiro teria melhores taxas de sobrevida e que o hospital brasileiro credenciado pelo SUS nunca havia realizado o procedimento em crianças. Segundo as teses fixadas pelo STJ sobre custeio de tratamento no exterior, é correto afirmar que:",
+      "options": {
+        "a": "Existe direito subjetivo à melhor tecnologia disponível em centros estrangeiros sempre que houver evidência de taxas de sobrevida superiores às nacionais, independentemente de outros fatores.",
+        "d": "O custeio no exterior é admissível apenas em caráter excepcional, mediante demonstração cumulativa de inexistência de alternativa terapêutica eficaz no país, comprovação científica robusta, imprescindibilidade clínica e incapacidade financeira, com deferência às políticas públicas do SUS; a mera existência de centros nacionais habilitados afasta, em princípio, a necessidade de deslocamento, salvo prova de ineficácia ou risco específico.",
+        "c": "Basta prescrição ou relatório médico do médico assistente da família para afastar as diretrizes do SUS e determinar o custeio do tratamento no exterior.",
+        "b": "O custeio de tratamento no exterior é sempre vedado, independentemente das circunstâncias do caso concreto, por ausência de previsão legal expressa no âmbito do SUS.",
+        "e": "A existência de qualquer procedimento similar realizado no exterior, ainda que sem comprovação científica robusta de sua superioridade, já autoriza o custeio pelo Poder Público."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou que o custeio de tratamento no exterior é medida excepcional, exigindo cumulativamente: inexistência de alternativa terapêutica eficaz no país, comprovação científica robusta de eficácia e segurança, imprescindibilidade clínica e incapacidade financeira, com deferência às políticas do SUS. A presença de centros nacionais habilitados afasta, em princípio, a necessidade de tratamento no exterior, e as decisões judiciais devem se apoiar em Medicina Baseada em Evidências, não bastando prescrição isolada — não havendo direito subjetivo à melhor tecnologia estrangeira.\n\nSTJ. 2ª Turma. REsp 1.860.543-PR, Rel. Min. Marco Aurélio Bellizze, julgado em 16/6/2026 (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026",
+        "citation": "STJ. 2ª Turma. REsp 1.860.543-PR, Rel. Min. Marco Aurélio Bellizze, julgado em 16/6/2026 (Info 894)."
+      },
+      "subject": "Custeio estatal de tratamento médico no exterior",
+      "difficulty": "dificil",
+      "miniLesson": "Paciente com doença rara, dependente de nutrição parenteral, pediu judicialmente o custeio de transplante nos Estados Unidos, alegando que o centro estrangeiro teria melhores taxas de sobrevida e que o hospital brasileiro credenciado pelo SUS nunca havia realizado o procedimento em crianças. Segundo as teses fixadas pelo STJ sobre custeio de tratamento no exterior, é correto afirmar que: O STJ fixou que o custeio de tratamento no exterior é medida excepcional, exigindo cumulativamente: inexistência de alternativa terapêutica eficaz no país, comprovação científica robusta de eficácia e segurança, imprescindibilidade clínica e incapacidade financeira, com deferência às políticas do SUS. A presença de centros nacionais habilitados afasta, em princípio, a necessidade de tratamento no exterior, e as decisões judiciais devem se apoiar em Medicina Baseada em Evidências, não bastando prescrição isolada — não havendo direito subjetivo à melhor tecnologia estrangeira."
+    },
+    {
+      "id": "pcprjur-obj-047",
+      "topic": "Competência sobre telecomunicações e licenciamento ambiental de ERBs",
+      "question": "Lei estadual exigiu registro ambiental como condição para a instalação e operação de Estações Rádio-Base (ERBs) e demais infraestruturas de telecomunicações. Segundo o STF, essa exigência é:",
+      "options": {
+        "c": "Constitucional, por se inserir na competência comum dos entes federativos para proteger o meio ambiente e combater a poluição em qualquer de suas formas.",
+        "a": "Inconstitucional, por invadir a competência privativa da União para legislar sobre telecomunicações (arts. 21, XI, e 22, IV, da CF/88), tratando-se de infraestrutura de serviço de alcance e regulação nacional.",
+        "e": "Constitucional, desde que o registro ambiental não gere qualquer custo financeiro às operadoras de telecomunicações.",
+        "d": "Inconstitucional, mas apenas quanto às ERBs localizadas em áreas urbanas densamente povoadas, sendo válida a exigência em áreas rurais.",
+        "b": "Constitucional, pois a exigência de registro (e não de licenciamento pleno) é medida mais branda, compatível com a competência ambiental concorrente dos Estados."
+      },
+      "correct": "a",
+      "explanation": "O STF reafirmou ser inconstitucional norma estadual que exige licenciamento ou registro ambiental como condição para instalação e operação de ERBs e demais infraestruturas de telecomunicações, por invadir a competência privativa da União para legislar sobre telecomunicações (arts. 21, XI, e 22, IV, CF/88) — irrelevante se a exigência é chamada de 'licenciamento' ou 'registro'.\n\nSTF. Plenário. ADI 7.887/MA, Rel. Min. Cármen Lúcia, julgado em 16/06/2026 (Info 1222).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026",
+        "citation": "STF. Plenário. ADI 7.887/MA, Rel. Min. Cármen Lúcia, julgado em 16/06/2026 (Info 1222)."
+      },
+      "subject": "Competência sobre telecomunicações e licenciamento ambiental de ERBs",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual exigiu registro ambiental como condição para a instalação e operação de Estações Rádio-Base (ERBs) e demais infraestruturas de telecomunicações. Segundo o STF, essa exigência é: O STF reafirmou ser inconstitucional norma estadual que exige licenciamento ou registro ambiental como condição para instalação e operação de ERBs e demais infraestruturas de telecomunicações, por invadir a competência privativa da União para legislar sobre telecomunicações (arts. 21, XI, e 22, IV, CF/88) — irrelevante se a exigência é chamada de 'licenciamento' ou 'registro'."
+    },
+    {
+      "id": "pcprjur-obj-048",
+      "topic": "Transformação de cargo público e provimento derivado",
+      "question": "Ao longo de décadas, leis estaduais sucessivas alteraram a denominação e os requisitos de escolaridade de um cargo de perícia da Polícia Civil (de datiloscopista a papiloscopista, e depois a perito papiloscopista), sem exigir novo concurso dos ocupantes, até integrá-lo, por fim, à carreira de perito oficial forense. Segundo o STF, essa sucessão de leis é:",
+      "options": {
+        "b": "Inconstitucional, pois qualquer alteração de denominação ou de requisitos de escolaridade de cargo público, sem novo concurso, configura provimento derivado vedado pela Constituição.",
+        "c": "Constitucional, pois se trata de organização administrativa das carreiras da Polícia Civil, matéria de competência concorrente dos Estados, e a alteração de requisitos e denominação, mantidas as atribuições originais do cargo, configura modernização da estrutura de pessoal, e não provimento derivado.",
+        "a": "Inconstitucional, pois o rol de peritos de natureza criminal do art. 5º da Lei nº 12.030/2009 é exaustivo, não podendo os Estados criar especialidades de perícia nele não previstas, como a papiloscopia.",
+        "d": "Constitucional, mas apenas porque se trata de matéria de direito processual penal, de competência privativa da União, que autorizou expressamente essa transformação na Lei nº 12.030/2009.",
+        "e": "Inconstitucional, pois compete exclusivamente à União disciplinar a carreira de perito oficial em todo o território nacional, sem margem para regulação estadual suplementar."
+      },
+      "correct": "c",
+      "explanation": "O STF entendeu que a organização das carreiras da Polícia Civil estadual é matéria de competência concorrente (art. 24, XVI, CF/88), e não de direito processual penal privativo da União. O rol de peritos do art. 5º da Lei nº 12.030/2009 não é exaustivo, ressalvando a legislação específica de cada ente, que pode criar especialidades como a papiloscopia. Alterar requisitos de escolaridade e denominação, mantidas as atribuições, é modernização da estrutura de pessoal, não provimento derivado.\n\nSTF. Plenário. ADI 7.691/MS, Rel. Min. Cristiano Zanin, julgado em 15/06/2026 (Info 1222).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Julho/2026",
+        "citation": "STF. Plenário. ADI 7.691/MS, Rel. Min. Cristiano Zanin, julgado em 15/06/2026 (Info 1222)."
+      },
+      "subject": "Transformação de cargo público e provimento derivado",
+      "difficulty": "dificil",
+      "miniLesson": "Ao longo de décadas, leis estaduais sucessivas alteraram a denominação e os requisitos de escolaridade de um cargo de perícia da Polícia Civil (de datiloscopista a papiloscopista, e depois a perito papiloscopista), sem exigir novo concurso dos ocupantes, até integrá-lo, por fim, à carreira de perito oficial forense. Segundo o STF, essa sucessão de leis é: O STF entendeu que a organização das carreiras da Polícia Civil estadual é matéria de competência concorrente (art. 24, XVI, CF/88), e não de direito processual penal privativo da União. O rol de peritos do art. 5º da Lei nº 12.030/2009 não é exaustivo, ressalvando a legislação específica de cada ente, que pode criar especialidades como a papiloscopia. Alterar requisitos de escolaridade e denominação, mantidas as atribuições, é modernização da estrutura de pessoal, não provimento derivado."
+    },
+    {
+      "id": "pcprjur-obj-049",
+      "topic": "Prescrição do fundo de direito e omissão da Administração (Tema 1.410)",
+      "question": "Uma lei municipal assegurava, de forma automática e independentemente de requerimento, adicional por tempo de serviço a servidores, mas o Município nunca o implantou em folha nem editou qualquer ato negando o direito. Anos depois, o servidor ajuizou ação cobrando a implantação e as diferenças devidas. Segundo a tese fixada pelo STJ (Tema 1.410):",
+      "options": {
+        "a": "A prescrição do fundo de direito começa a correr automaticamente a partir do momento em que a vantagem deveria ter sido implantada, ainda que a Administração jamais tenha se manifestado expressamente contra o direito.",
+        "c": "Nas relações de trato sucessivo em que a Fazenda Pública é devedora, a prescrição do fundo de direito depende de negativa expressa do direito reclamado, formalizada em ato com ciência ao servidor; a simples omissão em implantar a vantagem em folha, sem tal negativa, não faz correr essa prescrição, ficando sujeitas à prescrição quinquenal apenas as parcelas mais antigas.",
+        "e": "A prescrição do fundo de direito é inaplicável às relações de trato sucessivo envolvendo a Fazenda Pública, que estão sujeitas exclusivamente à prescrição das parcelas vencidas.",
+        "b": "A omissão da Administração em implantar vantagem prevista em lei equivale, para todos os efeitos, a uma negativa tácita, apta a deflagrar a prescrição do fundo de direito.",
+        "d": "A prescrição do fundo de direito somente pode ser afastada mediante decisão judicial anterior que já tenha reconhecido o direito a outro servidor em situação idêntica."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou, no Tema 1.410, que a prescrição do fundo de direito, em relações de trato sucessivo com a Fazenda Pública, depende de negativa expressa (ato normativo de efeito concreto ou ato administrativo formalizado, com ciência ao servidor). A simples inércia em implantar a vantagem em folha é conduta omissiva que não equivale a essa negativa formal, não fazendo correr a prescrição do fundo de direito — restando sujeitas à prescrição quinquenal apenas as parcelas mais antigas.\n\nSTJ. 1ª Seção. REsp 2.228.834-MA e REsp 2.228.837-MA, Rel. Min. Maria Thereza de Assis Moura, julgados em 7/5/2026 (Recurso Repetitivo – Tema 1410) (Info 893).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026",
+        "citation": "STJ. 1ª Seção. REsp 2.228.834-MA e REsp 2.228.837-MA, Rel. Min. Maria Thereza de Assis Moura, julgados em 7/5/2026 (Recurso Repetitivo – Tema 1410) (Info 893)."
+      },
+      "subject": "Prescrição do fundo de direito e omissão da Administração (Tema 1.410)",
+      "difficulty": "dificil",
+      "miniLesson": "Uma lei municipal assegurava, de forma automática e independentemente de requerimento, adicional por tempo de serviço a servidores, mas o Município nunca o implantou em folha nem editou qualquer ato negando o direito. Anos depois, o servidor ajuizou ação cobrando a implantação e as diferenças devidas. Segundo a tese fixada pelo STJ (Tema 1.410): O STJ fixou, no Tema 1.410, que a prescrição do fundo de direito, em relações de trato sucessivo com a Fazenda Pública, depende de negativa expressa (ato normativo de efeito concreto ou ato administrativo formalizado, com ciência ao servidor). A simples inércia em implantar a vantagem em folha é conduta omissiva que não equivale a essa negativa formal, não fazendo correr a prescrição do fundo de direito — restando sujeitas à prescrição quinquenal apenas as parcelas mais antigas."
+    },
+    {
+      "id": "pcprjur-obj-050",
+      "topic": "Regime de precatórios e empresas estatais prestadoras de serviço público essencial",
+      "question": "Uma companhia estadual de saneamento, sociedade de economia mista que presta serviço público essencial em regime não concorrencial e sem intuito primário de lucro, passou a celebrar acordos extrajudiciais homologados judicialmente para pagar diretamente débitos já reconhecidos por sentença transitada em julgado, inclusive honorários sucumbenciais, sem observar a fila de precatórios. Segundo o STF:",
+      "options": {
+        "d": "A prática é válida, pois o regime de precatórios é uma prerrogativa disponível da Fazenda Pública, que pode ser afastada por acordo entre as partes, desde que homologado judicialmente.",
+        "a": "A prática é inconstitucional: o regime de precatórios do art. 100 da CF/88 é cogente e indisponível, abrangendo também as empresas estatais prestadoras de serviço público essencial, não podendo ser afastado por acordo, ainda que homologado em juízo.",
+        "b": "A prática é válida, mas apenas para o pagamento de honorários sucumbenciais, que têm natureza alimentar autônoma e podem ser quitados fora da ordem cronológica de precatórios.",
+        "c": "A prática é inconstitucional apenas quando o valor do acordo superar o teto de obrigação de pequeno valor (RPV), sendo válida para débitos de menor montante.",
+        "e": "A prática é válida, pois a homologação judicial do acordo convalida eventual vício na forma de pagamento, tornando-a definitiva e insuscetível de impugnação posterior."
+      },
+      "correct": "a",
+      "explanation": "O STF entendeu que o regime de precatórios, previsto no art. 100 da CF/88, é cogente e indisponível, abrangendo a expressão 'Fazenda Pública' também as empresas estatais prestadoras de serviços públicos essenciais. Não pode ser afastado por acordo entre as partes, ainda que homologado judicialmente, sob pena de violar a separação dos Poderes, a isonomia entre credores, a legalidade orçamentária e a estabilidade das finanças públicas.\n\nSTF. Plenário. ADPF 1.292/RO, Rel. Min. Flávio Dino, julgado em 10/06/2026 (Info 1221).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026",
+        "citation": "STF. Plenário. ADPF 1.292/RO, Rel. Min. Flávio Dino, julgado em 10/06/2026 (Info 1221)."
+      },
+      "subject": "Regime de precatórios e empresas estatais prestadoras de serviço público essencial",
+      "difficulty": "dificil",
+      "miniLesson": "Uma companhia estadual de saneamento, sociedade de economia mista que presta serviço público essencial em regime não concorrencial e sem intuito primário de lucro, passou a celebrar acordos extrajudiciais homologados judicialmente para pagar diretamente débitos já reconhecidos por sentença transitada em julgado, inclusive honorários sucumbenciais, sem observar a fila de precatórios. Segundo o STF: O STF entendeu que o regime de precatórios, previsto no art. 100 da CF/88, é cogente e indisponível, abrangendo a expressão 'Fazenda Pública' também as empresas estatais prestadoras de serviços públicos essenciais. Não pode ser afastado por acordo entre as partes, ainda que homologado judicialmente, sob pena de violar a separação dos Poderes, a isonomia entre credores, a legalidade orçamentária e a estabilidade das finanças públicas."
+    },
+    {
+      "id": "pcprjur-obj-051",
+      "topic": "Inscrição automática em previdência complementar do servidor público (opt-out)",
+      "question": "A Lei nº 12.618/2012 passou a determinar a inscrição automática dos novos servidores públicos federais no plano de previdência complementar desde a entrada em exercício, assegurando o direito de cancelamento a qualquer tempo, com restituição integral das contribuições se exercido em até 90 dias. Segundo o STF, esse modelo de inscrição automática (opt-out) é:",
+      "options": {
+        "a": "Inconstitucional, pois a facultatividade do regime de previdência complementar do servidor público (art. 202 da CF/88) exige que a adesão inicial dependa sempre de manifestação expressa de vontade do interessado.",
+        "d": "Constitucional, pois a inscrição automática não se confunde com participação compulsória: a compulsoriedade impede a saída do regime, enquanto a automaticidade apenas desloca o momento do exercício da liberdade de escolha, da adesão inicial para o eventual cancelamento, preservando a facultatividade.",
+        "e": "Inconstitucional, pois a restituição das contribuições, em caso de cancelamento, deveria ser proporcional ao tempo de permanência no plano, e não integral.",
+        "c": "Constitucional, mas apenas para servidores que já estivessem em estágio probatório à época da entrada em vigor da alteração legislativa.",
+        "b": "Inconstitucional, por ter sido introduzida por emenda parlamentar a medida provisória que tratava de tema diverso (regra 85/95 do RGPS), em ofensa ao princípio da pertinência temática."
+      },
+      "correct": "d",
+      "explanation": "O STF entendeu que a inscrição automática (opt-out) não se confunde com participação compulsória: a compulsoriedade retira do servidor a possibilidade de sair do regime, enquanto a automaticidade apenas inicia a participação sem ato do interessado, preservando sua liberdade de permanecer ou não. A facultatividade do art. 202 da CF/88 diz respeito à liberdade de escolha quanto à permanência no regime, não à forma de ingresso — liberdade que o modelo opt-out preserva, apenas deslocando o momento de seu exercício.\n\nSTF. ADI 5.502/DF, Rel. Min. Nunes Marques, julgado em 10/06/2026 (Info 1221).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Julho/2026",
+        "citation": "STF. ADI 5.502/DF, Rel. Min. Nunes Marques, julgado em 10/06/2026 (Info 1221)."
+      },
+      "subject": "Inscrição automática em previdência complementar do servidor público (opt-out)",
+      "difficulty": "dificil",
+      "miniLesson": "A Lei nº 12.618/2012 passou a determinar a inscrição automática dos novos servidores públicos federais no plano de previdência complementar desde a entrada em exercício, assegurando o direito de cancelamento a qualquer tempo, com restituição integral das contribuições se exercido em até 90 dias. Segundo o STF, esse modelo de inscrição automática (opt-out) é: O STF entendeu que a inscrição automática (opt-out) não se confunde com participação compulsória: a compulsoriedade retira do servidor a possibilidade de sair do regime, enquanto a automaticidade apenas inicia a participação sem ato do interessado, preservando sua liberdade de permanecer ou não. A facultatividade do art. 202 da CF/88 diz respeito à liberdade de escolha quanto à permanência no regime, não à forma de ingresso — liberdade que o modelo opt-out preserva, apenas deslocando o momento de seu exercício."
+    },
+    {
+      "id": "pcprjur-obj-052",
+      "topic": "Continuidade delitiva entre apropriação indébita e sonegação previdenciárias (Tema 1.353)",
+      "question": "Um administrador de empresa, durante o mesmo período, descontou contribuições previdenciárias dos salários dos empregados e não as repassou ao INSS (apropriação indébita previdenciária, art. 168-A do CP), e também prestou informação falsa em GFIP para reduzir o valor da contribuição patronal devida (sonegação de contribuição previdenciária, art. 337-A do CP). Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.353):",
+      "options": {
+        "c": "É cabível o reconhecimento de continuidade delitiva entre os dois crimes, por serem da mesma espécie e praticados no mesmo contexto temporal e empresarial.",
+        "d": "É inviável reconhecer continuidade delitiva entre a apropriação indébita previdenciária e a sonegação de contribuição previdenciária, por se tratar de espécies diversas que descrevem condutas típicas distintas, embora do mesmo gênero, aplicando-se o concurso material.",
+        "e": "Configura-se crime único, e não concurso de crimes, pois ambas as condutas atingem o mesmo bem jurídico (a arrecadação previdenciária) e decorrem de uma só resolução criminosa.",
+        "b": "Aplica-se o princípio da consunção, absorvendo a sonegação de contribuição previdenciária (crime-meio) pela apropriação indébita previdenciária (crime-fim).",
+        "a": "A questão depende exclusivamente do valor total sonegado: se inferior ao limite de insignificância penal tributária, reconhece-se a continuidade; se superior, aplica-se o concurso material."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou que é inviável a continuidade delitiva entre apropriação indébita previdenciária (art. 168-A do CP) e sonegação de contribuição previdenciária (art. 337-A do CP), por serem espécies diversas com condutas típicas distintas, ainda que do mesmo gênero — aplicando-se, portanto, o concurso material entre os delitos.\n\nSTJ. 3ª Seção. REsp 2.094.362-SP e REsp 2.078.417-SP, Rel. Min. Maria Marluce Caldas, julgados em 10/6/2026 (Recurso Repetitivo – Tema 1353) (Info 892).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.094.362-SP e REsp 2.078.417-SP, Rel. Min. Maria Marluce Caldas, julgados em 10/6/2026 (Recurso Repetitivo – Tema 1353) (Info 892)."
+      },
+      "subject": "Continuidade delitiva entre apropriação indébita e sonegação previdenciárias (Tema 1.353)",
+      "difficulty": "dificil",
+      "miniLesson": "Um administrador de empresa, durante o mesmo período, descontou contribuições previdenciárias dos salários dos empregados e não as repassou ao INSS (apropriação indébita previdenciária, art. 168-A do CP), e também prestou informação falsa em GFIP para reduzir o valor da contribuição patronal devida (sonegação de contribuição previdenciária, art. 337-A do CP). Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.353): O STJ fixou que é inviável a continuidade delitiva entre apropriação indébita previdenciária (art. 168-A do CP) e sonegação de contribuição previdenciária (art. 337-A do CP), por serem espécies diversas com condutas típicas distintas, ainda que do mesmo gênero — aplicando-se, portanto, o concurso material entre os delitos."
+    },
+    {
+      "id": "pcprjur-obj-053",
+      "topic": "Função de 'olheiro' como coautoria no tráfico de drogas (art. 33 x art. 37 da Lei 11.343/2006)",
+      "question": "Em uma venda de entorpecentes flagrada por vídeo, um dos envolvidos vendia diretamente a droga enquanto o outro observava a movimentação do local para garantir a segurança da operação ('olheiro'). Condenado por tráfico (art. 33 da Lei nº 11.343/2006), o 'olheiro' pediu a desclassificação para o crime de colaboração com grupo destinado ao tráfico (art. 37), por entender que sua conduta seria meramente periférica. Segundo o STJ:",
+      "options": {
+        "b": "A desclassificação deve ser acolhida, pois o art. 37 abrange justamente quem colabora indiretamente com o tráfico sem praticar os verbos nucleares do art. 33, como é o caso de quem apenas vigia.",
+        "e": "A função de 'olheiro', desempenhada de forma contínua e integrada à segurança da operação de venda, constitui mecanismo indispensável à concretização do tráfico e caracteriza coautoria ou participação no crime do art. 33, e não a colaboração externa e eventual do art. 37, de natureza subsidiária.",
+        "d": "A conduta é atípica, pois nada de ilícito foi apreendido em poder do 'olheiro', o que afasta qualquer responsabilidade penal por crime de tráfico.",
+        "a": "A desclassificação deve ser acolhida, pois o art. 37 tem pena mais grave que o art. 33, sendo mais adequado à gravidade da conduta de vigilância armada.",
+        "c": "A conduta configura participação de menor importância no crime do art. 33, o que impõe causa obrigatória de diminuição de pena, mas não desclassificação para o art. 37."
+      },
+      "correct": "e",
+      "explanation": "O STJ manteve a condenação no art. 33: o art. 37 da Lei de Drogas é subsidiário, alcançando apenas o informante externo e eventual, sem envolvimento direto na execução (por isso tem pena bem inferior). A função de 'olheiro', exercida de modo contínuo e essencial à segurança da venda, insere o agente na própria execução do crime de tráfico, dividindo tarefas com o vendedor — o fato de nada ter sido apreendido com ele não afasta a responsabilidade, pois o tráfico é crime de ação múltipla.\n\nSTJ. 5ª Turma. AgRg no AREsp 3.136.623-GO, Rel. Min. Ribeiro Dantas, julgado em 7/4/2026 (Info 892).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 5ª Turma. AgRg no AREsp 3.136.623-GO, Rel. Min. Ribeiro Dantas, julgado em 7/4/2026 (Info 892)."
+      },
+      "subject": "Função de 'olheiro' como coautoria no tráfico de drogas (art. 33 x art. 37 da Lei 11.343/2006)",
+      "difficulty": "dificil",
+      "miniLesson": "Em uma venda de entorpecentes flagrada por vídeo, um dos envolvidos vendia diretamente a droga enquanto o outro observava a movimentação do local para garantir a segurança da operação ('olheiro'). Condenado por tráfico (art. 33 da Lei nº 11.343/2006), o 'olheiro' pediu a desclassificação para o crime de colaboração com grupo destinado ao tráfico (art. 37), por entender que sua conduta seria meramente periférica. Segundo o STJ: O STJ manteve a condenação no art. 33: o art. 37 da Lei de Drogas é subsidiário, alcançando apenas o informante externo e eventual, sem envolvimento direto na execução (por isso tem pena bem inferior). A função de 'olheiro', exercida de modo contínuo e essencial à segurança da venda, insere o agente na própria execução do crime de tráfico, dividindo tarefas com o vendedor — o fato de nada ter sido apreendido com ele não afasta a responsabilidade, pois o tráfico é crime de ação múltipla."
+    },
+    {
+      "id": "pcprjur-obj-054",
+      "topic": "Violência psicológica contra a mulher e dispensa de prova técnica (art. 147-B do CP)",
+      "question": "Um magistrado foi denunciado por violência psicológica contra a mulher (art. 147-B do CP), entre outros crimes, após servidoras de seu gabinete relatarem padrão reiterado de controle, isolamento e assédio, com desenvolvimento de ansiedade e depressão, sem que tenha sido produzido laudo pericial específico sobre esses quadros. Segundo as teses fixadas pelo STJ:",
+      "options": {
+        "d": "O crime do art. 147-B do CP exige a comprovação de dano psíquico por perícia técnica, tal qual ocorre no crime de lesão corporal, sob pena de atipicidade da conduta.",
+        "b": "A violência psicológica contra a mulher não exige dano psíquico, mas apenas dano emocional — impacto no bem-estar da ofendida, sem exigir adoecimento ou sequela —, que pode ser comprovado por qualquer meio, dispensando prova técnica, por não se tratar de delito que deixa vestígios examináveis por corpo de delito.",
+        "e": "A ausência de laudo pericial impõe a rejeição da denúncia por falta de justa causa, já que o dano emocional, assim como o dano psíquico, é elemento normativo do tipo que depende de prova técnica.",
+        "c": "O crime de violência psicológica exige, como elementar, a ameaça expressa de prejudicar a vítima, sob pena de atipicidade da conduta.",
+        "a": "O assédio sexual, para se configurar, exige a enunciação direta e inequívoca do propósito sexual pelo agente, não bastando atos que apenas insinuem esse intuito."
+      },
+      "correct": "b",
+      "explanation": "O STJ fixou que o dano emocional do art. 147-B do CP (impacto no bem-estar da vítima) é distinto do dano psíquico (que configura lesão corporal e exige prova técnica), podendo ser comprovado por qualquer meio, já que a violência psicológica não é delito que deixe vestígios examináveis por corpo de delito. A Corte também fixou que a ameaça de prejudicar não é elementar do assédio sexual (a posição hierárquica já contém implícita a possibilidade de retaliação) e que o assédio pode se manifestar por atos que apenas insinuem o cunho sexual, sem enunciação direta.\n\nSTJ. Corte Especial. Inq 1.802-DF, Rel. Min. Maria Thereza de Assis Moura, julgado em 20/5/2026 (Info 893).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. Corte Especial. Inq 1.802-DF, Rel. Min. Maria Thereza de Assis Moura, julgado em 20/5/2026 (Info 893)."
+      },
+      "subject": "Violência psicológica contra a mulher e dispensa de prova técnica (art. 147-B do CP)",
+      "difficulty": "dificil",
+      "miniLesson": "Um magistrado foi denunciado por violência psicológica contra a mulher (art. 147-B do CP), entre outros crimes, após servidoras de seu gabinete relatarem padrão reiterado de controle, isolamento e assédio, com desenvolvimento de ansiedade e depressão, sem que tenha sido produzido laudo pericial específico sobre esses quadros. Segundo as teses fixadas pelo STJ: O STJ fixou que o dano emocional do art. 147-B do CP (impacto no bem-estar da vítima) é distinto do dano psíquico (que configura lesão corporal e exige prova técnica), podendo ser comprovado por qualquer meio, já que a violência psicológica não é delito que deixe vestígios examináveis por corpo de delito. A Corte também fixou que a ameaça de prejudicar não é elementar do assédio sexual (a posição hierárquica já contém implícita a possibilidade de retaliação) e que o assédio pode se manifestar por atos que apenas insinuem o cunho sexual, sem enunciação direta."
+    },
+    {
+      "id": "pcprjur-obj-055",
+      "topic": "Justa causa para ação penal por peculato-desvio baseada em prova indiciária",
+      "question": "Denúncia por peculato-desvio narra que uma Procuradora, mesmo sem mais atribuição no processo, atuou decisivamente na celebração de acordo que destinou recursos a instituto administrado, de fato, por pessoa próxima a ela, havendo perícia contábil apontando ausência de prestação de contas de parte relevante dos valores. A defesa sustentou que os fatos comportariam explicação alternativa, insuficiente para a condenação. Segundo o STJ, para o recebimento da denúncia:",
+      "options": {
+        "d": "É necessário juízo de certeza sobre a autoria e a materialidade, equivalente ao exigido para a condenação, sob pena de se admitir denúncias temerárias.",
+        "c": "Basta um suporte indiciário mínimo de materialidade (laudos, extratos, relatórios e procedimentos administrativos) e de autoria; eventual explicação alternativa da defesa ou dúvida residual não leva à rejeição liminar, mas à abertura da instrução, onde as versões serão submetidas ao contraditório pleno.",
+        "b": "A denúncia deve ser rejeitada sempre que a defesa apresente explicação alternativa plausível para os fatos narrados, ainda que não comprovada.",
+        "e": "A perícia contábil e os extratos bancários não podem ser considerados prova de materialidade para fins de recebimento de denúncia, exigindo-se prova pericial contábil judicial específica.",
+        "a": "A denúncia deve necessariamente narrar o dolo específico do agente de forma pormenorizada, sob pena de inépcia, ainda que a fase seja de mero recebimento."
+      },
+      "correct": "c",
+      "explanation": "O STJ recebeu a denúncia por entender suficiente um suporte indiciário mínimo de materialidade (perícia contábil, extratos, relatórios, quebra de sigilo) e autoria, não sendo necessário juízo de certeza nessa fase; eventual explicação alternativa da defesa ou dúvida residual não impede o recebimento, mas remete a controvérsia à instrução, sob contraditório pleno.\n\nSTJ. Corte Especial. Inq 1913-DF, Rel. Min. João Otávio de Noronha, julgado em 17/6/2025 (Info 893).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. Corte Especial. Inq 1913-DF, Rel. Min. João Otávio de Noronha, julgado em 17/6/2025 (Info 893)."
+      },
+      "subject": "Justa causa para ação penal por peculato-desvio baseada em prova indiciária",
+      "difficulty": "dificil",
+      "miniLesson": "Denúncia por peculato-desvio narra que uma Procuradora, mesmo sem mais atribuição no processo, atuou decisivamente na celebração de acordo que destinou recursos a instituto administrado, de fato, por pessoa próxima a ela, havendo perícia contábil apontando ausência de prestação de contas de parte relevante dos valores. A defesa sustentou que os fatos comportariam explicação alternativa, insuficiente para a condenação. Segundo o STJ, para o recebimento da denúncia: O STJ recebeu a denúncia por entender suficiente um suporte indiciário mínimo de materialidade (perícia contábil, extratos, relatórios, quebra de sigilo) e autoria, não sendo necessário juízo de certeza nessa fase; eventual explicação alternativa da defesa ou dúvida residual não impede o recebimento, mas remete a controvérsia à instrução, sob contraditório pleno."
+    },
+    {
+      "id": "pcprjur-obj-056",
+      "topic": "Concurso de crimes na condenação de Governador (fraude à licitação, peculato, corrupção, lavagem e organização criminosa)",
+      "question": "Um Governador de Estado foi condenado pelo STJ por dispensa indevida de licitação, peculato-desvio, corrupção passiva majorada, lavagem de dinheiro e organização criminosa, praticados em conjunto no mesmo esquema de desvio de recursos públicos. Sobre as teses fixadas nesse julgamento, é correto afirmar que:",
+      "options": {
+        "d": "Configura bis in idem a imputação simultânea de peculato-desvio e corrupção passiva, ou de fraude à licitação e corrupção passiva, quando amparadas nos mesmos fatos materiais.",
+        "b": "Não há bis in idem entre peculato-desvio e corrupção passiva quando a denúncia individualiza cada delito, nem entre fraude à licitação e corrupção passiva; na reiteração de lavagem de dinheiro, aplica-se a causa de aumento do art. 1º, § 4º, da Lei 9.613/98 (e não a continuidade delitiva do art. 71 do CP), e a perda do cargo de Governador é cabível como efeito da condenação, à falta de ressalva legal equivalente à de Deputados e Senadores.",
+        "e": "A organização criminosa não pode ser reconhecida quando os mesmos agentes já respondem por outros crimes praticados em concurso, sob pena de dupla punição pela mesma conduta associativa.",
+        "a": "A perda do cargo de Governador de Estado, como efeito da condenação criminal, depende de autorização prévia da Assembleia Legislativa, à semelhança do que ocorre com Deputados Federais e Senadores.",
+        "c": "As transferências sucessivas de valores desviados configuram um único crime de peculato-desvio, e não crimes autônomos em continuidade delitiva, por se tratar de um só ato de vontade inicial."
+      },
+      "correct": "b",
+      "explanation": "O STJ afastou o bis in idem entre os delitos, por individualização na denúncia; fixou que, na reiteração de lavagem de dinheiro, aplica-se a causa de aumento específica da Lei nº 9.613/98 (princípio da especialidade), e não a continuidade delitiva genérica; reconheceu organização criminosa pela atuação estável e estruturada, distinta do mero concurso de pessoas; e admitiu a perda do cargo de Governador como efeito da condenação (art. 92, I, 'a', CP), já que, diferentemente de parlamentares (art. 55, VI, § 2º, CF/88), não há ressalva constitucional para o Chefe do Executivo estadual.\n\nSTJ. Corte Especial. APn 1.076-DF, Rel. Min. Nancy Andrighi, julgado em 6/5/2026 (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. Corte Especial. APn 1.076-DF, Rel. Min. Nancy Andrighi, julgado em 6/5/2026 (Info 894)."
+      },
+      "subject": "Concurso de crimes na condenação de Governador (fraude à licitação, peculato, corrupção, lavagem e organização criminosa)",
+      "difficulty": "dificil",
+      "miniLesson": "Um Governador de Estado foi condenado pelo STJ por dispensa indevida de licitação, peculato-desvio, corrupção passiva majorada, lavagem de dinheiro e organização criminosa, praticados em conjunto no mesmo esquema de desvio de recursos públicos. Sobre as teses fixadas nesse julgamento, é correto afirmar que: O STJ afastou o bis in idem entre os delitos, por individualização na denúncia; fixou que, na reiteração de lavagem de dinheiro, aplica-se a causa de aumento específica da Lei nº 9.613/98 (princípio da especialidade), e não a continuidade delitiva genérica; reconheceu organização criminosa pela atuação estável e estruturada, distinta do mero concurso de pessoas; e admitiu a perda do cargo de Governador como efeito da condenação (art. 92, I, 'a', CP), já que, diferentemente de parlamentares (art. 55, VI, § 2º, CF/88), não há ressalva constitucional para o Chefe do Executivo estadual."
+    },
+    {
+      "id": "pcprjur-obj-057",
+      "topic": "Fração de livramento condicional na associação para o tráfico (Tema 1.355)",
+      "question": "Condenado por associação para o tráfico de drogas (art. 35 da Lei nº 11.343/2006), crime que não é hediondo nem equiparado, um reeducando pleiteou que seu livramento condicional observasse a fração de 1/3 do art. 83, I, do Código Penal, e não a de 2/3 prevista na Lei de Drogas. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.355):",
+      "options": {
+        "a": "Aplica-se a fração de 1/3 do Código Penal, pois a fração de 2/3 da Lei de Drogas está reservada exclusivamente aos crimes hediondos e equiparados, categoria da qual a associação para o tráfico não faz parte.",
+        "c": "Aplica-se a fração de 2/3 prevista no art. 44, parágrafo único, da Lei nº 11.343/2006 ao crime de associação para o tráfico (art. 35), por força do princípio da especialidade, já que esse dispositivo abrange expressamente os crimes dos arts. 33, § 1º, e 34 a 37 da lei, independentemente de o delito ser ou não hediondo.",
+        "b": "A fração aplicável deve ser definida caso a caso pelo juiz da execução, conforme a gravidade concreta da conduta associativa.",
+        "e": "Não há fração específica para o livramento condicional na associação para o tráfico, devendo ser aplicada, por analogia, a fração dos crimes hediondos (2/3 para primário, 3/5 para reincidente).",
+        "d": "A fração de 2/3 somente se aplica se a associação para o tráfico tiver sido praticada com emprego de arma de fogo ou envolvimento de menor de idade."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou que a hediondez não tem relação com a fração de livramento condicional aplicável: o art. 44, parágrafo único, da Lei de Drogas prevê a fração de 2/3 para os crimes dos arts. 33, § 1º, e 34 a 37 dessa lei — intervalo que abrange o art. 35 (associação para o tráfico) —, prevalecendo essa norma especial sobre a regra geral de 1/3 do Código Penal, por força do princípio da especialidade.\n\nSTJ. 3ª Seção. REsp 2.073.971-SP e REsp 2.089.938-SP, Rel. Min. Maria Marluce Caldas, julgados em 10/6/2026 (Recurso Repetitivo – Tema 1355) (Info 892).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.073.971-SP e REsp 2.089.938-SP, Rel. Min. Maria Marluce Caldas, julgados em 10/6/2026 (Recurso Repetitivo – Tema 1355) (Info 892)."
+      },
+      "subject": "Fração de livramento condicional na associação para o tráfico (Tema 1.355)",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por associação para o tráfico de drogas (art. 35 da Lei nº 11.343/2006), crime que não é hediondo nem equiparado, um reeducando pleiteou que seu livramento condicional observasse a fração de 1/3 do art. 83, I, do Código Penal, e não a de 2/3 prevista na Lei de Drogas. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.355): O STJ fixou que a hediondez não tem relação com a fração de livramento condicional aplicável: o art. 44, parágrafo único, da Lei de Drogas prevê a fração de 2/3 para os crimes dos arts. 33, § 1º, e 34 a 37 dessa lei — intervalo que abrange o art. 35 (associação para o tráfico) —, prevalecendo essa norma especial sobre a regra geral de 1/3 do Código Penal, por força do princípio da especialidade."
+    },
+    {
+      "id": "pcprjur-obj-058",
+      "topic": "Compartilhamento de provas de ação cível extinta sem resolução de mérito",
+      "question": "Em ação cível de produção antecipada de provas, foi deferida busca e apreensão de equipamentos eletrônicos, e o juízo criminal autorizou o compartilhamento do material para fins de inquérito policial. Antes de efetivado o compartilhamento, a ação cível foi extinta sem resolução de mérito por inadequação da via eleita, sem qualquer declaração de ilicitude das provas. Segundo o STJ, o compartilhamento dessas provas com o processo penal:",
+      "options": {
+        "a": "Não pode ocorrer, pois a extinção do processo cível sem resolução de mérito inutiliza automaticamente todo o acervo probatório nele produzido, independentemente do motivo da extinção.",
+        "b": "Pode ocorrer, pois a extinção por inadequação da via eleita reflete apenas um juízo de dispensabilidade em relação aos fins da ação cível, e não vício de ilicitude ou nulidade capaz de macular a prova em sua essência, não havendo efeito automático de contaminação que impeça sua utilização em outro contexto.",
+        "e": "Só pode ocorrer se a ação cível for novamente ajuizada, corrigido o vício que motivou sua extinção, e nela sobrevier sentença de mérito favorável ao requerente.",
+        "d": "Não pode ocorrer, pois o compartilhamento de provas entre a esfera cível e a penal depende de autorização legislativa específica, inexistente no ordenamento brasileiro.",
+        "c": "Pode ocorrer, mas apenas mediante nova autorização judicial do juízo cível, sendo insuficiente a autorização já dada pelo juízo criminal antes da extinção do processo."
+      },
+      "correct": "b",
+      "explanation": "O STJ decidiu que a extinção da ação cível de produção antecipada de provas por inadequação da via eleita não implica, por si só, inutilização ou invalidade das provas nela produzidas, quando ausente declaração de ilicitude — tratando-se apenas de juízo de dispensabilidade quanto aos fins cíveis, sem efeito automático de contaminação que impeça o compartilhamento legítimo para fins penais.\n\nSTJ. 6ª Turma. AgRg no RMS 77.635-SP, Rel. Min. Antonio Saldanha Palheiro, Rel. p/ acórdão Min. Sebastião Reis Júnior, julgado em 12/5/2026 (Info 893).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 6ª Turma. AgRg no RMS 77.635-SP, Rel. Min. Antonio Saldanha Palheiro, Rel. p/ acórdão Min. Sebastião Reis Júnior, julgado em 12/5/2026 (Info 893)."
+      },
+      "subject": "Compartilhamento de provas de ação cível extinta sem resolução de mérito",
+      "difficulty": "dificil",
+      "miniLesson": "Em ação cível de produção antecipada de provas, foi deferida busca e apreensão de equipamentos eletrônicos, e o juízo criminal autorizou o compartilhamento do material para fins de inquérito policial. Antes de efetivado o compartilhamento, a ação cível foi extinta sem resolução de mérito por inadequação da via eleita, sem qualquer declaração de ilicitude das provas. Segundo o STJ, o compartilhamento dessas provas com o processo penal: O STJ decidiu que a extinção da ação cível de produção antecipada de provas por inadequação da via eleita não implica, por si só, inutilização ou invalidade das provas nela produzidas, quando ausente declaração de ilicitude — tratando-se apenas de juízo de dispensabilidade quanto aos fins cíveis, sem efeito automático de contaminação que impeça o compartilhamento legítimo para fins penais."
+    },
+    {
+      "id": "pcprjur-obj-059",
+      "topic": "Limites do habeas corpus para trancamento de ação penal (art. 413 do CPP)",
+      "question": "Em ação penal por homicídio qualificado decorrente de rompimento de barragem, o Tribunal Regional Federal, ao julgar habeas corpus, trancou a ação penal contra o ex-presidente da empresa por falta de justa causa, após analisar e-mails, laudos, organogramas e relatórios internos, entendendo ainda que o arquivamento em relação a um diretor intermediário romperia a cadeia causal de responsabilidade. Segundo o STJ:",
+      "options": {
+        "a": "A decisão foi correta, pois o habeas corpus admite ampla análise do conjunto probatório sempre que necessário para verificar a existência de justa causa para a ação penal.",
+        "d": "A decisão violou o art. 413 do CPP: o trancamento da ação penal por habeas corpus é medida excepcional, cabível apenas sem incursão vertical no material probatório; ao examinar detidamente e-mails e documentos, o TRF usurpou a competência do juiz natural (juízo de pronúncia) e, ademais, a opção do MP de não denunciar o diretor intermediário não condiciona a responsabilidade penal do denunciado.",
+        "e": "A decisão foi correta, pois a denúncia é inepta sempre que atribui responsabilidade penal com base na posição hierárquica ocupada pelo agente na empresa.",
+        "c": "A decisão foi correta, pois o arquivamento em relação a corréu rompe, por definição legal, a cadeia causal de imputação em relação aos demais denunciados pelos mesmos fatos.",
+        "b": "A decisão violou o art. 413 do CPP, mas apenas porque o habeas corpus não é via adequada para discutir crimes ambientais, sendo cabível somente para crimes dolosos contra a vida."
+      },
+      "correct": "d",
+      "explanation": "O STJ restabeleceu a ação penal: o trancamento por habeas corpus é medida excepcional, cabível apenas quando constatada, sem incursão vertical nas provas, inépcia formal grave, atipicidade, extinção de punibilidade ou total ausência de indícios — não quando é necessário examinar detidamente e-mails, laudos e documentos, tarefa reservada ao juízo de pronúncia (art. 413 do CPP). A denúncia, ao individualizar condutas e vincular o réu à condição de garante, não era inepta, e a opção do MP quanto a outro corréu não condiciona a responsabilidade do denunciado.\n\nSTJ. 6ª Turma. REsp 2.213.678-MG, Rel. Min. Sebastião Reis Júnior, julgado em 7/4/2026 (Info 893).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.213.678-MG, Rel. Min. Sebastião Reis Júnior, julgado em 7/4/2026 (Info 893)."
+      },
+      "subject": "Limites do habeas corpus para trancamento de ação penal (art. 413 do CPP)",
+      "difficulty": "dificil",
+      "miniLesson": "Em ação penal por homicídio qualificado decorrente de rompimento de barragem, o Tribunal Regional Federal, ao julgar habeas corpus, trancou a ação penal contra o ex-presidente da empresa por falta de justa causa, após analisar e-mails, laudos, organogramas e relatórios internos, entendendo ainda que o arquivamento em relação a um diretor intermediário romperia a cadeia causal de responsabilidade. Segundo o STJ: O STJ restabeleceu a ação penal: o trancamento por habeas corpus é medida excepcional, cabível apenas quando constatada, sem incursão vertical nas provas, inépcia formal grave, atipicidade, extinção de punibilidade ou total ausência de indícios — não quando é necessário examinar detidamente e-mails, laudos e documentos, tarefa reservada ao juízo de pronúncia (art. 413 do CPP). A denúncia, ao individualizar condutas e vincular o réu à condição de garante, não era inepta, e a opção do MP quanto a outro corréu não condiciona a responsabilidade do denunciado."
+    },
+    {
+      "id": "pcprjur-obj-060",
+      "topic": "Competência da Justiça Estadual apesar da origem estrangeira de insumos",
+      "question": "Um grupo fabricava e vendia anabolizantes sem registro na Anvisa, usando insumos importados do Paraguai por um dos integrantes; outro integrante, responsável apenas pela comercialização no Brasil, foi denunciado na Justiça Estadual por organização criminosa e pelo crime do art. 273 do CP, sustentando a defesa que a competência seria da Justiça Federal, dada a transnacionalidade reconhecida no processo do corréu já condenado na Justiça Federal. Segundo o STJ:",
+      "options": {
+        "d": "A competência é da Justiça Federal, pois a transnacionalidade reconhecida em relação a um dos integrantes da organização se estende automaticamente a todos os demais corréus, por força da Súmula 122 do STJ.",
+        "a": "A competência é da Justiça Estadual: a mera procedência estrangeira dos insumos não atrai, por si só, a competência federal, sendo imprescindível a demonstração de que o próprio agente participou da introdução dos produtos no território nacional, o que não ficou demonstrado quanto ao responsável apenas pela comercialização.",
+        "e": "A competência é da Justiça Federal, pois havendo continência entre as ações (art. 77, I, do CPP), a competência de um dos corréus necessariamente atrai a dos demais, independentemente da conduta individual de cada um.",
+        "c": "A questão deveria ter sido resolvida por habeas corpus, via adequada para a discussão de competência jurisdicional sempre que envolvido crime transnacional.",
+        "b": "A competência é da Justiça Federal, pois o crime do art. 273 do CP é sempre de competência federal quando praticado por organização criminosa."
+      },
+      "correct": "a",
+      "explanation": "O STJ manteve a competência da Justiça Estadual: a mera procedência estrangeira dos insumos não atrai, por si só, a competência federal — é necessário demonstrar que o próprio agente participou da introdução dos produtos no país, o que não se verificava quanto ao integrante que cuidava apenas da parte comercial no Brasil. A Corte também observou que o habeas corpus não é via adequada para discutir competência quando a questão se confunde com o mérito e exige valoração de provas.\n\nSTJ. 6ª Turma. RHC 234.894-SP, Rel. Min. Sebastião Reis Júnior, julgado em 9/6/2026 (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 6ª Turma. RHC 234.894-SP, Rel. Min. Sebastião Reis Júnior, julgado em 9/6/2026 (Info 894)."
+      },
+      "subject": "Competência da Justiça Estadual apesar da origem estrangeira de insumos",
+      "difficulty": "dificil",
+      "miniLesson": "Um grupo fabricava e vendia anabolizantes sem registro na Anvisa, usando insumos importados do Paraguai por um dos integrantes; outro integrante, responsável apenas pela comercialização no Brasil, foi denunciado na Justiça Estadual por organização criminosa e pelo crime do art. 273 do CP, sustentando a defesa que a competência seria da Justiça Federal, dada a transnacionalidade reconhecida no processo do corréu já condenado na Justiça Federal. Segundo o STJ: O STJ manteve a competência da Justiça Estadual: a mera procedência estrangeira dos insumos não atrai, por si só, a competência federal — é necessário demonstrar que o próprio agente participou da introdução dos produtos no país, o que não se verificava quanto ao integrante que cuidava apenas da parte comercial no Brasil. A Corte também observou que o habeas corpus não é via adequada para discutir competência quando a questão se confunde com o mérito e exige valoração de provas."
+    },
+    {
+      "id": "pcprjur-obj-061",
+      "topic": "Percentuais distintos de progressão de regime na mesma execução (Tema 1.354)",
+      "question": "Um condenado por dois crimes distintos, ambos praticados antes da Lei nº 13.964/2019 (Pacote Anticrime), teve suas penas reunidas em uma só execução. O juízo aplicou a lei nova integralmente a ambas as condenações, mas a defesa sustentou que cada uma deveria observar a norma mais favorável vigente à época dos respectivos fatos. Segundo a tese fixada pelo STJ (Tema 1.354):",
+      "options": {
+        "a": "É vedado aplicar percentuais distintos de progressão de regime a condenações reunidas em uma mesma execução, sob pena de indevida combinação de leis (lex tertia).",
+        "c": "É possível aplicar percentuais distintos de progressão de regime para cada condenação isoladamente, em uma mesma execução, reconhecendo-se a retroatividade da Lei 13.964/2019 e a ultratividade da redação anterior do art. 112 da LEP, conforme seja mais favorável a cada caso, sem que isso configure lex tertia, pois cada condenação recebe, em sua integralidade, uma única lei.",
+        "e": "Deve ser aplicada sempre a lei mais recente a toda a execução unificada, ainda que mais gravosa para os fatos praticados antes de sua vigência, em nome da unicidade da execução penal.",
+        "d": "Deve ser aplicada sempre a lei vigente à época do crime mais antigo entre os reunidos na execução, independentemente de qual seja mais favorável ao condenado.",
+        "b": "A escolha da lei aplicável a cada condenação cabe exclusivamente ao Ministério Público, no requerimento de execução, não podendo o juiz decidir de ofício."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou que é possível aplicar, para fins de progressão de regime, percentuais distintos a cada condenação isoladamente dentro de uma mesma execução unificada, observando a lei mais favorável a cada uma (retroatividade da lei nova ou ultratividade da lei antiga, conforme o caso). Não há lex tertia, pois cada condenação recebe, em sua integralidade, uma única lei — aplicar uniformemente a lei nova a fatos anteriores violaria a irretroatividade da lei penal mais gravosa (art. 5º, XL, CF/88).\n\nSTJ. 3ª Seção. REsp 2.037.377-SC e REsp 2.037.447-SC, Rel. Min. Maria Marluce Caldas, julgado em 18/6/2026 (Recurso Repetitivo – Tema 1354) (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.037.377-SC e REsp 2.037.447-SC, Rel. Min. Maria Marluce Caldas, julgado em 18/6/2026 (Recurso Repetitivo – Tema 1354) (Info 894)."
+      },
+      "subject": "Percentuais distintos de progressão de regime na mesma execução (Tema 1.354)",
+      "difficulty": "dificil",
+      "miniLesson": "Um condenado por dois crimes distintos, ambos praticados antes da Lei nº 13.964/2019 (Pacote Anticrime), teve suas penas reunidas em uma só execução. O juízo aplicou a lei nova integralmente a ambas as condenações, mas a defesa sustentou que cada uma deveria observar a norma mais favorável vigente à época dos respectivos fatos. Segundo a tese fixada pelo STJ (Tema 1.354): O STJ fixou que é possível aplicar, para fins de progressão de regime, percentuais distintos a cada condenação isoladamente dentro de uma mesma execução unificada, observando a lei mais favorável a cada uma (retroatividade da lei nova ou ultratividade da lei antiga, conforme o caso). Não há lex tertia, pois cada condenação recebe, em sua integralidade, uma única lei — aplicar uniformemente a lei nova a fatos anteriores violaria a irretroatividade da lei penal mais gravosa (art. 5º, XL, CF/88)."
+    },
+    {
+      "id": "pcprjur-obj-062",
+      "topic": "Remição de pena por aprovação no ENEM/ENCCEJA (Tema 1.357)",
+      "question": "Um sentenciado que já havia concluído o ensino médio antes de iniciar o cumprimento da pena estudou por conta própria no presídio e foi aprovado no ENEM, pleiteando a remição da pena por essa aprovação. Em outro caso, uma sentenciada obteve remição por aprovação no ENEM e, no ano seguinte, foi aprovada novamente no mesmo exame, requerendo nova remição. Segundo as teses fixadas pelo STJ (Tema 1.357):",
+      "options": {
+        "c": "A remição pela aprovação no ENEM ou ENCCEJA somente é cabível se o sentenciado não possuía, antes do cumprimento da pena, certificação de conclusão do respectivo nível de ensino.",
+        "d": "É cabível a remição pela aprovação no ENEM ou no ENCCEJA ainda que o sentenciado já tivesse concluído o ensino médio antes da pena, por representar esforço educacional autônomo e fato gerador distinto da mera certificação anterior; contudo, não é cabível nova remição pela repetição do mesmo exame já utilizado para remição anteriormente concedida na mesma execução, por configurar bis in idem.",
+        "e": "É sempre cabível nova remição a cada nova aprovação no mesmo exame, independentemente de remições anteriores, pois cada aprovação representa novo esforço de estudo.",
+        "a": "A remição pela aprovação em exames como o ENEM depende de autorização prévia e específica do juízo da execução antes da realização da prova, sob pena de perda do direito à remição.",
+        "b": "A aprovação no ENCCEJA nunca gera direito à remição, por se tratar de exame de certificação, e não de exame classificatório como o ENEM."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou que é cabível a remição pela aprovação no ENEM ou no ENCCEJA mesmo quando o sentenciado já possuía certificação do nível de ensino avaliado, pois a aprovação demanda estudo autônomo durante a execução e constitui fato gerador distinto da certificação anterior. Contudo, a repetição do mesmo exame, no mesmo nível e áreas de conhecimento já utilizados para remição concedida na mesma execução, não gera direito a nova remição, por configurar bis in idem.\n\nSTJ. 3ª Seção. REsp 2.072.985-DF e outros, Rel. Min. Carlos Cini Marchionatti, Rel. p/ acórdão Min. Reynaldo Soares da Fonseca, julgados em 18/6/2026 (Recurso Repetitivo – Tema 1357) (Info 894).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.072.985-DF e outros, Rel. Min. Carlos Cini Marchionatti, Rel. p/ acórdão Min. Reynaldo Soares da Fonseca, julgados em 18/6/2026 (Recurso Repetitivo – Tema 1357) (Info 894)."
+      },
+      "subject": "Remição de pena por aprovação no ENEM/ENCCEJA (Tema 1.357)",
+      "difficulty": "dificil",
+      "miniLesson": "Um sentenciado que já havia concluído o ensino médio antes de iniciar o cumprimento da pena estudou por conta própria no presídio e foi aprovado no ENEM, pleiteando a remição da pena por essa aprovação. Em outro caso, uma sentenciada obteve remição por aprovação no ENEM e, no ano seguinte, foi aprovada novamente no mesmo exame, requerendo nova remição. Segundo as teses fixadas pelo STJ (Tema 1.357): O STJ fixou que é cabível a remição pela aprovação no ENEM ou no ENCCEJA mesmo quando o sentenciado já possuía certificação do nível de ensino avaliado, pois a aprovação demanda estudo autônomo durante a execução e constitui fato gerador distinto da certificação anterior. Contudo, a repetição do mesmo exame, no mesmo nível e áreas de conhecimento já utilizados para remição concedida na mesma execução, não gera direito a nova remição, por configurar bis in idem."
+    },
+    {
+      "id": "pcprjur-obj-063",
+      "topic": "Nulidade de provas por violação aos direitos da vítima em crimes sexuais (caso Mariana Ferrer)",
+      "question": "Durante audiência de instrução em processo por estupro de vulnerável, a vítima foi hostilizada pelo advogado de defesa, que exibiu fotos suas e fez comentários humilhantes, sem que o juiz e o promotor presentes coibissem adequadamente a conduta. O réu foi absolvido em primeira e segunda instância. Levado o caso ao STF, a Corte decidiu que:",
+      "options": {
+        "b": "A conduta do advogado de defesa é eticamente reprovável, mas não gera qualquer nulidade processual, cabendo apenas eventual representação disciplinar perante a OAB.",
+        "e": "São nulas as provas obtidas na persecução penal de crimes sexuais mediante violação aos direitos fundamentais da vítima (dignidade, honra, intimidade, integridade psicológica), por ação ou omissão dos atores processuais, estendendo-se a invalidade aos atos e provas diretamente derivados, ressalvada a sentença absolutória amparada em provas bastantes e independentes do depoimento da vítima.",
+        "d": "A nulidade das provas, nessas hipóteses, somente pode ser decretada mediante provocação exclusiva da vítima, não podendo o Ministério Público arguir a matéria nem o juiz decretá-la de ofício.",
+        "a": "A absolvição deve ser sempre anulada quando a vítima alegar hostilização na audiência, independentemente de as provas que amparam a sentença serem ou não bastantes e independentes de seu depoimento.",
+        "c": "A gravação das audiências instrutórias em crimes sexuais passou a ser obrigatória em todos os casos, independentemente da concordância da vítima."
+      },
+      "correct": "e",
+      "explanation": "O STF fixou que são nulas as provas obtidas na persecução penal de crimes sexuais com violação aos direitos fundamentais da vítima, por ação ou omissão dos atores processuais, estendendo-se a invalidade aos atos e provas dela diretamente derivados (art. 5º, LVI, CF/88); a nulidade pode ser decretada de ofício ou arguida pelo MP ou pela vítima; mas a sentença absolutória amparada em provas bastantes e independentes do depoimento da vítima não é anulada. A gravação das audiências, por sua vez, foi condicionada à concordância da vítima, e não tornada obrigatória de forma irrestrita.\n\nSTF. Plenário. ARE 1.541.125/SC, Rel. Min. Alexandre de Moraes, julgado em 18/06/2026 (Info 1223).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Julho/2026",
+        "citation": "STF. Plenário. ARE 1.541.125/SC, Rel. Min. Alexandre de Moraes, julgado em 18/06/2026 (Info 1223)."
+      },
+      "subject": "Nulidade de provas por violação aos direitos da vítima em crimes sexuais (caso Mariana Ferrer)",
+      "difficulty": "dificil",
+      "miniLesson": "Durante audiência de instrução em processo por estupro de vulnerável, a vítima foi hostilizada pelo advogado de defesa, que exibiu fotos suas e fez comentários humilhantes, sem que o juiz e o promotor presentes coibissem adequadamente a conduta. O réu foi absolvido em primeira e segunda instância. Levado o caso ao STF, a Corte decidiu que: O STF fixou que são nulas as provas obtidas na persecução penal de crimes sexuais com violação aos direitos fundamentais da vítima, por ação ou omissão dos atores processuais, estendendo-se a invalidade aos atos e provas dela diretamente derivados (art. 5º, LVI, CF/88); a nulidade pode ser decretada de ofício ou arguida pelo MP ou pela vítima; mas a sentença absolutória amparada em provas bastantes e independentes do depoimento da vítima não é anulada. A gravação das audiências, por sua vez, foi condicionada à concordância da vítima, e não tornada obrigatória de forma irrestrita."
     }
   ],
   "discursive": [],
