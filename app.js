@@ -1176,7 +1176,7 @@ function renderObjective() {
 
   const optsEl = document.getElementById("objOptions");
   optsEl.innerHTML = "";
-  Object.entries(q.options).forEach(([key, text]) => {
+  Object.entries(q.options).sort((a, b) => a[0].localeCompare(b[0])).forEach(([key, text]) => {
     const item = document.createElement("div");
     item.className = "option-item";
     if (key === objSelectedKey) item.classList.add("selected");
@@ -2083,7 +2083,7 @@ function renderRetryObjective(err, q, body) {
   let selectedKey = null;
   let confirmed = false;
 
-  Object.entries(q.options).forEach(([key, text]) => {
+  Object.entries(q.options).sort((a, b) => a[0].localeCompare(b[0])).forEach(([key, text]) => {
     const item = document.createElement("div");
     item.className = "option-item";
     item.innerHTML = `<span class="option-letter">${key.toUpperCase()})</span><span>${text}</span>`;
