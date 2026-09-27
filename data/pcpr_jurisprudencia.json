@@ -1,0 +1,581 @@
+{
+  "objective": [
+    {
+      "id": "pcprjur-obj-001",
+      "topic": "Cargos em comissão no Ministério Público estadual",
+      "question": "O Ministério Público de determinado Estado editou lei criando cargos em comissão de assessor jurídico e assistente de promotoria, vinculados a promotores e procuradores de justiça por relação de confiança, em número correspondente a um percentual do total de cargos efetivos de todo o ente federativo. Levada a questão ao STF em sede de controle concentrado, é correto afirmar que a Corte decidiu que essa lei estadual é:",
+      "options": {
+        "e": "Inconstitucional, pois o art. 37, V, da CF/88 destina os cargos em comissão exclusivamente a atribuições de direção e chefia, jamais de assessoramento a membros do Ministério Público.",
+        "a": "Constitucional, desde que as atribuições correspondam a funções de assessoramento e o número de cargos comissionados guarde proporcionalidade com o total de cargos efetivos do ente da Federação, e não apenas do órgão isoladamente considerado.",
+        "c": "Inconstitucional, porque a proporcionalidade entre cargos comissionados e efetivos deve necessariamente ser aferida órgão por órgão, e não em relação ao total de servidores do ente federado.",
+        "d": "Constitucional, mas apenas se os ocupantes dos cargos em comissão também ocuparem cargo efetivo no Ministério Público, sendo vedada a nomeação de pessoas estranhas aos seus quadros.",
+        "b": "Inconstitucional, pois compete privativamente à União, por lei complementar federal, disciplinar a criação de cargos em comissão nos Ministérios Públicos estaduais."
+      },
+      "correct": "a",
+      "explanation": "O STF fixou que é constitucional a criação de cargos em comissão no MP estadual cujas atribuições revelem conteúdo típico de assessoramento e estejam inseridas na relação de confiança com membros da instituição, não violando o art. 37, V, da CF/88 (que autoriza cargos em comissão para direção, chefia E assessoramento). A proporcionalidade entre cargos comissionados e efetivos deve ser aferida em relação ao total de servidores do ente da federação, e não de cada órgão isoladamente, conforme o Tema 1.010 da Repercussão Geral (RE 1.041.210). As demais alternativas invertem ou fabricam condições estranhas ao julgado.\n\nSTF. Plenário. ADI 5.777/SC, Rel. Min. Nunes Marques, red. do acórdão Min. Flávio Dino, julgado em 06/03/2026 (Info 1207).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Março/2026",
+        "citation": "STF. Plenário. ADI 5.777/SC, Rel. Min. Nunes Marques, red. do acórdão Min. Flávio Dino, julgado em 06/03/2026 (Info 1207)."
+      },
+      "subject": "Cargos em comissão no Ministério Público estadual",
+      "difficulty": "dificil",
+      "miniLesson": "O Ministério Público de determinado Estado editou lei criando cargos em comissão de assessor jurídico e assistente de promotoria, vinculados a promotores e procuradores de justiça por relação de confiança, em número correspondente a um percentual do total de cargos efetivos de todo o ente federativo. Levada a questão ao STF em sede de controle concentrado, é correto afirmar que a Corte decidiu que essa lei estadual é: O STF fixou que é constitucional a criação de cargos em comissão no MP estadual cujas atribuições revelem conteúdo típico de assessoramento e estejam inseridas na relação de confiança com membros da instituição, não violando o art. 37, V, da CF/88 (que autoriza cargos em comissão para direção, chefia E assessoramento). A proporcionalidade entre cargos comissionados e efetivos deve ser aferida em relação ao total de servidores do ente da federação, e não de cada órgão isoladamente, conforme o Tema 1.010 da Repercussão Geral (RE 1.041.210). As demais alternativas invertem ou fabricam condições estranhas ao julgado."
+    },
+    {
+      "id": "pcprjur-obj-002",
+      "topic": "Competência e ressarcimento em medicamentos oncológicos do SUS (Tema 1.234)",
+      "question": "Um paciente oncológico ajuizou, em 2026, ação contra o Poder Público pedindo o fornecimento de medicamento incorporado ao SUS e classificado, segundo a Portaria GM/MS nº 8.477/2025 (AF-ONCO), no Grupo 1A do Componente Especializado da Assistência Farmacêutica, de aquisição centralizada pelo Ministério da Saúde. Considerando a atualização do Tema 1.234 pelo STF em 2026, a ação deve ser processada e julgada:",
+      "options": {
+        "c": "Pela Justiça Federal, por se tratar de medicamento oncológico de aquisição centralizada pelo Ministério da Saúde, hipótese enquadrada no item 6.2, I, do Tema 1.234 na redação atual.",
+        "b": "Pela Justiça Estadual, pois compete exclusivamente aos Estados o fornecimento de medicamentos oncológicos, cabendo à União apenas ressarcir 80% dos valores gastos.",
+        "a": "Pela Justiça Federal, mas somente se o custo anual do tratamento for igual ou superior a 210 salários mínimos, critério aplicável a todo medicamento oncológico, incorporado ou não.",
+        "e": "Pela Justiça Estadual, pois as novas regras de competência do item 6.2 têm eficácia retroativa e se aplicam também às ações ajuizadas antes de 22/10/2025.",
+        "d": "Pela Justiça Federal, independentemente do modo de aquisição do medicamento, sempre que o tratamento tiver natureza oncológica."
+      },
+      "correct": "c",
+      "explanation": "Na atualização do Tema 1.234 (item 6.2), o STF fixou que a competência para demandas sobre medicamentos oncológicos incorporados ao SUS é da Justiça Federal quando a aquisição for centralizada pelo Ministério da Saúde (Grupo 1A do CEAF), e da Justiça Estadual quando de negociação nacional ou aquisição descentralizada (Grupo 1B). O critério dos 210 salários mínimos (opção c) aplica-se apenas aos oncológicos NÃO incorporados. A modulação das novas regras de competência é ex nunc, valendo só para ações ajuizadas a partir de 22/10/2025 (afastando a opção d), e a competência não decorre simplesmente da natureza oncológica do tratamento, mas do modo de aquisição do medicamento.\n\nSTF. Plenário. RE 1.366.243 Ref/SC, Rel. Min. Gilmar Mendes, julgado em 19/02/2026 (Repercussão Geral – Tema 1.234) (Info 1206).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Março/2026",
+        "citation": "STF. Plenário. RE 1.366.243 Ref/SC, Rel. Min. Gilmar Mendes, julgado em 19/02/2026 (Repercussão Geral – Tema 1.234) (Info 1206)."
+      },
+      "subject": "Competência e ressarcimento em medicamentos oncológicos do SUS (Tema 1.234)",
+      "difficulty": "dificil",
+      "miniLesson": "Um paciente oncológico ajuizou, em 2026, ação contra o Poder Público pedindo o fornecimento de medicamento incorporado ao SUS e classificado, segundo a Portaria GM/MS nº 8.477/2025 (AF-ONCO), no Grupo 1A do Componente Especializado da Assistência Farmacêutica, de aquisição centralizada pelo Ministério da Saúde. Considerando a atualização do Tema 1.234 pelo STF em 2026, a ação deve ser processada e julgada: Na atualização do Tema 1.234 (item 6.2), o STF fixou que a competência para demandas sobre medicamentos oncológicos incorporados ao SUS é da Justiça Federal quando a aquisição for centralizada pelo Ministério da Saúde (Grupo 1A do CEAF), e da Justiça Estadual quando de negociação nacional ou aquisição descentralizada (Grupo 1B). O critério dos 210 salários mínimos (opção c) aplica-se apenas aos oncológicos NÃO incorporados. A modulação das novas regras de competência é ex nunc, valendo só para ações ajuizadas a partir de 22/10/2025 (afastando a opção d), e a competência não decorre simplesmente da natureza oncológica do tratamento, mas do modo de aquisição do medicamento."
+    },
+    {
+      "id": "pcprjur-obj-003",
+      "topic": "Constitucionalidade da vaquejada",
+      "question": "Sobre o entendimento do STF a respeito da Lei nº 13.364/2016 (que reconhece a vaquejada como patrimônio cultural imaterial) e da Lei nº 10.220/2001 (que equipara peões a atletas profissionais), é correto afirmar que o STF decidiu que essas leis são:",
+      "options": {
+        "a": "Inconstitucionais, pois qualquer prática cultural que envolva sujeição de animais a lesões ou sofrimento viola o art. 225, § 1º, VII, da CF/88, independentemente de regulamentação legal.",
+        "e": "Constitucionais incondicionalmente, por se tratar de manifestação cultural reconhecida como patrimônio imaterial, prevalecendo sempre sobre considerações de bem-estar animal.",
+        "b": "Constitucionais, desde que observados, no mínimo, os critérios de bem-estar animal estabelecidos na Lei nº 13.364/2016, sem prejuízo de outros cuidados necessários à garantia do bem-estar dos animais no caso concreto.",
+        "d": "Inconstitucionais, porque a Lei nº 10.220/2001, ao equiparar peões a atletas profissionais, invade a competência privativa da União para legislar sobre direito do trabalho.",
+        "c": "Ainda pendentes de julgamento de mérito pelo STF, que se limitou a suspender liminarmente a eficácia das leis questionadas."
+      },
+      "correct": "b",
+      "explanation": "O STF julgou o mérito da ADI 5.772/DF e declarou constitucionais os dispositivos das Leis nº 13.364/2016 e nº 10.220/2001, em conformidade com o art. 225, § 7º, da CF/88, condicionando essa constitucionalidade à observância, no mínimo, dos critérios de bem-estar animal do art. 3º-B, § 2º, da Lei nº 13.364/2016, sem prejuízo de outros cuidados exigíveis no caso concreto, sob pena de responsabilização administrativa e penal dos envolvidos.\n\nSTF. Plenário. ADI 5.772/DF, Rel. Min. Dias Toffoli, julgado em 05/03/2026 (Info 1207).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Março/2026",
+        "citation": "STF. Plenário. ADI 5.772/DF, Rel. Min. Dias Toffoli, julgado em 05/03/2026 (Info 1207)."
+      },
+      "subject": "Constitucionalidade da vaquejada",
+      "difficulty": "dificil",
+      "miniLesson": "Sobre o entendimento do STF a respeito da Lei nº 13.364/2016 (que reconhece a vaquejada como patrimônio cultural imaterial) e da Lei nº 10.220/2001 (que equipara peões a atletas profissionais), é correto afirmar que o STF decidiu que essas leis são: O STF julgou o mérito da ADI 5.772/DF e declarou constitucionais os dispositivos das Leis nº 13.364/2016 e nº 10.220/2001, em conformidade com o art. 225, § 7º, da CF/88, condicionando essa constitucionalidade à observância, no mínimo, dos critérios de bem-estar animal do art. 3º-B, § 2º, da Lei nº 13.364/2016, sem prejuízo de outros cuidados exigíveis no caso concreto, sob pena de responsabilização administrativa e penal dos envolvidos."
+    },
+    {
+      "id": "pcprjur-obj-004",
+      "topic": "Competência municipal e linguagem neutra nas escolas",
+      "question": "Um Município editou lei proibindo o uso de linguagem neutra no âmbito das escolas municipais. Levada a questão ao STF, a Corte decidiu que essa lei municipal é:",
+      "options": {
+        "d": "Constitucional, pois compete aos Municípios legislar sobre assuntos de interesse local, categoria que abrange as diretrizes pedagógicas aplicáveis às escolas municipais.",
+        "a": "Inconstitucional, por usurpar a competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, da CF/88), não cabendo à legislação municipal dispor sobre conteúdos curriculares ou perspectivas pedagógicas.",
+        "e": "Constitucional, pois a proteção integral da criança (art. 227 da CF/88) autoriza qualquer ente federativo a legislar sobre conteúdos curriculares sempre que invocada a prevenção à hipersexualização infantil.",
+        "c": "Inconstitucional, mas somente em razão de vício formal, por ter sido editada por decreto do prefeito, e não por lei aprovada pela Câmara Municipal.",
+        "b": "Constitucional, pois a liberdade de cátedra garante ao professor autonomia irrestrita para adotar ou recusar, no ambiente escolar, qualquer diretriz sobre linguagem de gênero, sem interferência de qualquer ente federativo."
+      },
+      "correct": "a",
+      "explanation": "O STF declarou inconstitucional lei municipal sobre uso de linguagem neutra em âmbito escolar, por usurpação da competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, CF/88), não cabendo à legislação municipal dispor sobre conteúdos curriculares, materiais didáticos ou perspectivas pedagógicas. A liberdade de cátedra, embora ampla, não é absoluta, mas isso não transfere ao Município competência para legislar sobre o tema — a proteção contra a hipersexualização infantil é tratada no mesmo julgado como limite à própria liberdade de cátedra, não como fundamento de competência legislativa municipal sobre currículo.\n\nSTF. Plenário. ADPF 1.159/SC, Rel. Min. Flávio Dino, julgado em 27/02/2026 (Info 1206).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Março/2026",
+        "citation": "STF. Plenário. ADPF 1.159/SC, Rel. Min. Flávio Dino, julgado em 27/02/2026 (Info 1206)."
+      },
+      "subject": "Competência municipal e linguagem neutra nas escolas",
+      "difficulty": "dificil",
+      "miniLesson": "Um Município editou lei proibindo o uso de linguagem neutra no âmbito das escolas municipais. Levada a questão ao STF, a Corte decidiu que essa lei municipal é: O STF declarou inconstitucional lei municipal sobre uso de linguagem neutra em âmbito escolar, por usurpação da competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, CF/88), não cabendo à legislação municipal dispor sobre conteúdos curriculares, materiais didáticos ou perspectivas pedagógicas. A liberdade de cátedra, embora ampla, não é absoluta, mas isso não transfere ao Município competência para legislar sobre o tema — a proteção contra a hipersexualização infantil é tratada no mesmo julgado como limite à própria liberdade de cátedra, não como fundamento de competência legislativa municipal sobre currículo."
+    },
+    {
+      "id": "pcprjur-obj-005",
+      "topic": "Prescrição quinquenal do abono de permanência especial",
+      "question": "Um servidor público com deficiência preencheu, em determinado ano, os requisitos para a aposentadoria especial, optando por permanecer em atividade e fazer jus ao abono de permanência especial. Anos depois, formulou o primeiro requerimento administrativo para a concessão do benefício, que foi indeferido por insuficiência de provas quanto à origem da deficiência; somente em requerimento posterior, instruído com laudos mais completos, obteve o deferimento. Segundo o entendimento do STJ, o marco inicial da prescrição quinquenal dos efeitos financeiros do abono de permanência especial é:",
+      "options": {
+        "c": "Sempre a data do primeiro requerimento administrativo, ainda que a prova então apresentada fosse insuficiente para comprovar o direito, pois o que importa é a manifestação de vontade do servidor.",
+        "b": "A data do requerimento administrativo em que o servidor efetivamente comprove o direito vindicado; se a comprovação só se consolidou no segundo pedido, o marco é a data desse segundo requerimento.",
+        "a": "Sempre a data do último requerimento administrativo deferido, independentemente de quando a prova do direito tenha sido efetivamente produzida.",
+        "d": "A data da concessão da aposentadoria especial, e não a de qualquer requerimento administrativo posterior relativo ao abono de permanência.",
+        "e": "Inaplicável, por se tratar de direito imprescritível do servidor com deficiência."
+      },
+      "correct": "b",
+      "explanation": "O STJ fixou que os efeitos financeiros do abono de permanência especial se submetem à prescrição quinquenal contada do requerimento administrativo em que se comprove o direito vindicado. Se a decisão do primeiro requerimento foi equivocada porque a prova já era suficiente, a prescrição retroage a esse primeiro pedido; mas se a comprovação só se consolidou no segundo requerimento (por insuficiência probatória no primeiro), o marco inicial é a data desse segundo pedido — exatamente o cenário do enunciado.\n\nSTJ. 1ª Turma. RMS 65.384-DF, Rel. Min. Gurgel de Faria, julgado em 3/2/2026 (Info 878).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Março/2026",
+        "citation": "STJ. 1ª Turma. RMS 65.384-DF, Rel. Min. Gurgel de Faria, julgado em 3/2/2026 (Info 878)."
+      },
+      "subject": "Prescrição quinquenal do abono de permanência especial",
+      "difficulty": "dificil",
+      "miniLesson": "Um servidor público com deficiência preencheu, em determinado ano, os requisitos para a aposentadoria especial, optando por permanecer em atividade e fazer jus ao abono de permanência especial. Anos depois, formulou o primeiro requerimento administrativo para a concessão do benefício, que foi indeferido por insuficiência de provas quanto à origem da deficiência; somente em requerimento posterior, instruído com laudos mais completos, obteve o deferimento. Segundo o entendimento do STJ, o marco inicial da prescrição quinquenal dos efeitos financeiros do abono de permanência especial é: O STJ fixou que os efeitos financeiros do abono de permanência especial se submetem à prescrição quinquenal contada do requerimento administrativo em que se comprove o direito vindicado. Se a decisão do primeiro requerimento foi equivocada porque a prova já era suficiente, a prescrição retroage a esse primeiro pedido; mas se a comprovação só se consolidou no segundo requerimento (por insuficiência probatória no primeiro), o marco inicial é a data desse segundo pedido — exatamente o cenário do enunciado."
+    },
+    {
+      "id": "pcprjur-obj-006",
+      "topic": "Responsabilidade dos herdeiros após a Lei 14.230/2021 (improbidade)",
+      "question": "Réu condenado por ato de improbidade administrativa, entre outras sanções, ao pagamento de multa civil, faleceu antes do trânsito em julgado, sendo seus herdeiros mantidos no polo passivo como sucessores. Durante a tramitação do recurso, entrou em vigor a Lei nº 14.230/2021. À luz da nova redação do art. 8º da Lei nº 8.429/1992 e do entendimento do STJ, é correto afirmar que os herdeiros:",
+      "options": {
+        "a": "Respondem pela multa civil e pelo ressarcimento ao erário, até o limite da herança, mesmo após a Lei 14.230/2021.",
+        "e": "Não respondem pela multa civil após a Lei 14.230/2021, mas continuam responsáveis pelo ressarcimento do dano ao erário ou pelo enriquecimento ilícito, até o limite da herança.",
+        "b": "Têm extinta toda e qualquer responsabilidade após a morte do réu ocorrida antes do trânsito em julgado, inclusive quanto ao ressarcimento do dano ao erário.",
+        "d": "Continuam respondendo pela multa civil fixada antes da vigência da Lei 14.230/2021, por se tratar de sanção já incorporada ao patrimônio jurídico do falecido.",
+        "c": "Respondem pela multa civil apenas se comprovado que se beneficiaram pessoalmente do ato de improbidade praticado pelo falecido."
+      },
+      "correct": "e",
+      "explanation": "A redação do art. 8º da LIA conferida pela Lei nº 14.230/2021 restringe a responsabilidade dos sucessores ao ressarcimento do dano ao erário ou ao enriquecimento ilícito, até o limite da herança, não mais abrangendo a multa civil. Por isso o STJ afastou a condenação dos herdeiros ao pagamento dessa multa, aplicando a nova lei ao processo em curso (não havendo, quanto a esse ponto, discussão sobre irretroatividade, diferente do que ocorre com prazos prescricionais).\n\nSTJ. 1ª Turma. AREsp 1.440.445-SP, Rel. Min. Sérgio Kukina, julgado em 4/11/2025 (Info 879).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Março/2026",
+        "citation": "STJ. 1ª Turma. AREsp 1.440.445-SP, Rel. Min. Sérgio Kukina, julgado em 4/11/2025 (Info 879)."
+      },
+      "subject": "Responsabilidade dos herdeiros após a Lei 14.230/2021 (improbidade)",
+      "difficulty": "dificil",
+      "miniLesson": "Réu condenado por ato de improbidade administrativa, entre outras sanções, ao pagamento de multa civil, faleceu antes do trânsito em julgado, sendo seus herdeiros mantidos no polo passivo como sucessores. Durante a tramitação do recurso, entrou em vigor a Lei nº 14.230/2021. À luz da nova redação do art. 8º da Lei nº 8.429/1992 e do entendimento do STJ, é correto afirmar que os herdeiros: A redação do art. 8º da LIA conferida pela Lei nº 14.230/2021 restringe a responsabilidade dos sucessores ao ressarcimento do dano ao erário ou ao enriquecimento ilícito, até o limite da herança, não mais abrangendo a multa civil. Por isso o STJ afastou a condenação dos herdeiros ao pagamento dessa multa, aplicando a nova lei ao processo em curso (não havendo, quanto a esse ponto, discussão sobre irretroatividade, diferente do que ocorre com prazos prescricionais)."
+    },
+    {
+      "id": "pcprjur-obj-007",
+      "topic": "Prescrição em improbidade quando há concurso entre particular e agentes públicos",
+      "question": "Em ação de improbidade administrativa, um particular atuou em concurso com dois agentes públicos: um ocupante de cargo efetivo (sujeito a prazo prescricional mais longo, ligado ao seu regime disciplinar) e outro ocupante de cargo em comissão (sujeito ao prazo de 5 anos do regime anterior à Lei 14.230/2021). O fato ocorreu antes da vigência dessa lei. Segundo o entendimento do STJ, o prazo prescricional aplicável ao particular é:",
+      "options": {
+        "e": "O prazo prescricional mais curto entre os dos agentes públicos com quem atuou em concurso, em observância ao princípio do in dubio pro reo.",
+        "a": "O prazo prescricional do agente público ocupante de cargo efetivo (o mais longo), ainda que o particular também tenha atuado em concurso com agente ocupante de cargo em comissão.",
+        "c": "Sempre o prazo de 5 anos do art. 23, I, da LIA em sua redação anterior à Lei 14.230/2021, independentemente do regime prescricional dos agentes públicos com quem atuou.",
+        "b": "O regime prescricional do agente público apenas quando o particular figurar como induzido, jamais quando for coautor direto do esquema de corrupção.",
+        "d": "O regime unificado de 8 anos trazido pela Lei 14.230/2021, aplicado retroativamente por ser mais benéfico a todos os envolvidos."
+      },
+      "correct": "a",
+      "explanation": "Havendo concurso entre particular e agentes públicos ocupantes de cargos de natureza jurídica distinta, prevalece, para o particular, o prazo prescricional mais longo, relativo ao agente público ocupante de cargo efetivo (art. 23, II, da LIA, redação anterior à Lei 14.230/2021) — e não o prazo mais curto do agente comissionado. A Lei 14.230/2021 não se aplica ao caso, pois o STF, no Tema 1.199, fixou a irretroatividade do novo regime prescricional.\n\nSTJ. 1ª Turma. REsp 2.058.311-RN, Rel. Min. Paulo Sérgio Domingues, julgado em 3/3/2026 (Info 880).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Março/2026",
+        "citation": "STJ. 1ª Turma. REsp 2.058.311-RN, Rel. Min. Paulo Sérgio Domingues, julgado em 3/3/2026 (Info 880)."
+      },
+      "subject": "Prescrição em improbidade quando há concurso entre particular e agentes públicos",
+      "difficulty": "dificil",
+      "miniLesson": "Em ação de improbidade administrativa, um particular atuou em concurso com dois agentes públicos: um ocupante de cargo efetivo (sujeito a prazo prescricional mais longo, ligado ao seu regime disciplinar) e outro ocupante de cargo em comissão (sujeito ao prazo de 5 anos do regime anterior à Lei 14.230/2021). O fato ocorreu antes da vigência dessa lei. Segundo o entendimento do STJ, o prazo prescricional aplicável ao particular é: Havendo concurso entre particular e agentes públicos ocupantes de cargos de natureza jurídica distinta, prevalece, para o particular, o prazo prescricional mais longo, relativo ao agente público ocupante de cargo efetivo (art. 23, II, da LIA, redação anterior à Lei 14.230/2021) — e não o prazo mais curto do agente comissionado. A Lei 14.230/2021 não se aplica ao caso, pois o STF, no Tema 1.199, fixou a irretroatividade do novo regime prescricional."
+    },
+    {
+      "id": "pcprjur-obj-008",
+      "topic": "Ação rescisória e Súmula 343/STF (Tema 548/STJ)",
+      "question": "Decisão judicial transitada em julgado antes de 11/09/2013 reconheceu a possibilidade de compensação do reajuste de 28,86% sobre a RAV dos Auditores Fiscais da Receita Federal com o reposicionamento da carreira — entendimento que, à época, era objeto de divergência jurisprudencial. Somente em 2013 o STJ, no Tema 548, pacificou a tese de que o reajuste deve incidir integralmente, vedando a compensação. Diante disso, é correto afirmar, segundo o STJ, que:",
+      "options": {
+        "c": "Cabe ação rescisória para adequar a decisão ao Tema 548/STJ, pois a pacificação posterior da jurisprudência afasta, por si só, o óbice da Súmula 343/STF.",
+        "b": "Não cabe ação rescisória fundada em ofensa a literal disposição de lei para desconstituir decisões anteriores ao Tema 548/STJ que reconheceram a compensação, pois incide o óbice da Súmula 343/STF diante da divergência jurisprudencial então existente.",
+        "d": "Cabe ação rescisória, desde que ajuizada no prazo de 2 anos contados da publicação do acórdão paradigma do Tema 548/STJ, independentemente da data do trânsito em julgado da decisão rescindenda.",
+        "a": "A Súmula 343/STF aplica-se apenas a controvérsias de direito processual, não alcançando a interpretação de lei federal em matéria remuneratória.",
+        "e": "Não cabe ação rescisória, mas exclusivamente porque o prazo decadencial já havia se esgotado antes da pacificação do Tema 548/STJ em 2013, sendo irrelevante a Súmula 343/STF."
+      },
+      "correct": "b",
+      "explanation": "O STJ fixou que se aplica o óbice da Súmula 343/STF às ações rescisórias fundadas em ofensa a literal disposição de lei que visem desconstituir decisões anteriores ao julgamento do Tema 548/STJ (11/09/2013), quando, à época da decisão rescindenda, havia divergência jurisprudencial sobre a matéria — como ocorria com a compensação do reajuste de 28,86% sobre a RAV. A pacificação posterior da jurisprudência, por si só, não afasta esse óbice.\n\nSTJ. 1ª Seção. EREsp 1.431.163-AL e EREsp 1.910.729-AL, Rel. Min. Regina Helena Costa, julgados em 11/3/2026 (Recurso Repetitivo – Tema 1299) (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Março/2026",
+        "citation": "STJ. 1ª Seção. EREsp 1.431.163-AL e EREsp 1.910.729-AL, Rel. Min. Regina Helena Costa, julgados em 11/3/2026 (Recurso Repetitivo – Tema 1299) (Info 881)."
+      },
+      "subject": "Ação rescisória e Súmula 343/STF (Tema 548/STJ)",
+      "difficulty": "dificil",
+      "miniLesson": "Decisão judicial transitada em julgado antes de 11/09/2013 reconheceu a possibilidade de compensação do reajuste de 28,86% sobre a RAV dos Auditores Fiscais da Receita Federal com o reposicionamento da carreira — entendimento que, à época, era objeto de divergência jurisprudencial. Somente em 2013 o STJ, no Tema 548, pacificou a tese de que o reajuste deve incidir integralmente, vedando a compensação. Diante disso, é correto afirmar, segundo o STJ, que: O STJ fixou que se aplica o óbice da Súmula 343/STF às ações rescisórias fundadas em ofensa a literal disposição de lei que visem desconstituir decisões anteriores ao julgamento do Tema 548/STJ (11/09/2013), quando, à época da decisão rescindenda, havia divergência jurisprudencial sobre a matéria — como ocorria com a compensação do reajuste de 28,86% sobre a RAV. A pacificação posterior da jurisprudência, por si só, não afasta esse óbice."
+    },
+    {
+      "id": "pcprjur-obj-009",
+      "topic": "Cumulação de benefícios de militares do Quadro de Taifeiros (Tema 1.297)",
+      "question": "Sobre a tese fixada pelo STJ, em embargos de declaração com efeitos infringentes, a respeito da aplicação cumulativa da Lei nº 12.158/2009 e do art. 34 da MP nº 2.215-10/2001 aos militares oriundos do Quadro de Taifeiros da Aeronáutica (Tema 1.297), é correto afirmar que:",
+      "options": {
+        "d": "A cumulação passou a ser incompatível, devendo prevalecer apenas o benefício mais vantajoso ao militar, a critério da Administração.",
+        "b": "A cumulação continua sendo admitida, mas seus efeitos remuneratórios ficam limitados ao teto correspondente à graduação de Suboficial, admitida a revisão administrativa dos proventos, observado o prazo decadencial de 5 anos do art. 54 da Lei nº 9.784/1999.",
+        "c": "A cumulação é admitida sem qualquer limitação de teto remuneratório, podendo o militar alcançar inclusive o patamar de Segundo-Tenente.",
+        "a": "A revisão administrativa dos proventos para adequação ao teto de Suboficial pode ser feita a qualquer tempo, não se sujeitando a prazo decadencial.",
+        "e": "Os valores pagos a maior antes da publicação do acórdão que fixou a nova tese devem ser integralmente restituídos à União, ainda que recebidos de boa-fé pelo militar."
+      },
+      "correct": "b",
+      "explanation": "Na revisão do Tema 1.297, o STJ manteve a compatibilidade da cumulação, mas limitou seus efeitos remuneratórios ao teto de Suboficial, e admitiu a revisão administrativa dos proventos para adequação a esse limite, desde que observado o prazo decadencial de 5 anos do art. 54 da Lei nº 9.784/1999, contado da chegada do ato ao TCU — vedada, porém, a restituição de valores já recebidos de boa-fé até a publicação do acórdão.\n\nSTJ. 1ª Seção. EDcl nos EDcl no REsp 2.124.412-RJ e outros, Rel. Min. Teodoro Silva Santos, julgados em 11/3/2026 (Recurso Repetitivo – Tema 1297) (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Março/2026",
+        "citation": "STJ. 1ª Seção. EDcl nos EDcl no REsp 2.124.412-RJ e outros, Rel. Min. Teodoro Silva Santos, julgados em 11/3/2026 (Recurso Repetitivo – Tema 1297) (Info 881)."
+      },
+      "subject": "Cumulação de benefícios de militares do Quadro de Taifeiros (Tema 1.297)",
+      "difficulty": "dificil",
+      "miniLesson": "Sobre a tese fixada pelo STJ, em embargos de declaração com efeitos infringentes, a respeito da aplicação cumulativa da Lei nº 12.158/2009 e do art. 34 da MP nº 2.215-10/2001 aos militares oriundos do Quadro de Taifeiros da Aeronáutica (Tema 1.297), é correto afirmar que: Na revisão do Tema 1.297, o STJ manteve a compatibilidade da cumulação, mas limitou seus efeitos remuneratórios ao teto de Suboficial, e admitiu a revisão administrativa dos proventos para adequação a esse limite, desde que observado o prazo decadencial de 5 anos do art. 54 da Lei nº 9.784/1999, contado da chegada do ato ao TCU — vedada, porém, a restituição de valores já recebidos de boa-fé até a publicação do acórdão."
+    },
+    {
+      "id": "pcprjur-obj-010",
+      "topic": "Estelionato previdenciário e casamento formalmente válido",
+      "question": "Viúva de servidor público federal aposentado requereu e obteve pensão por morte como cônjuge sobrevivente, com base em certidão de casamento formalmente válida e sem nulidade civil demonstrada. Denunciada por estelionato previdenciário (art. 171, § 3º, do CP), sob a alegação de que o casamento teria sido simulado apenas para viabilizar o benefício, o STJ entendeu que a conduta é atípica porque:",
+      "options": {
+        "a": "O casamento formalmente válido, sem nulidade civil demonstrada, e o preenchimento dos requisitos legais da pensão por morte afastam a existência de vantagem indevida, pois quem recebe o que tem direito não obtém vantagem indevida.",
+        "e": "O crime de estelionato previdenciário exige a demonstração de dolo específico de enriquecer à custa da autarquia previdenciária, o que não se presume em uniões formalizadas.",
+        "c": "A pensão por morte é benefício de natureza assistencial, e não previdenciária, razão pela qual não se subsome ao tipo do art. 171, § 3º, do CP.",
+        "b": "O crime de estelionato previdenciário, por ser crime formal, prescinde da demonstração de vantagem indevida, bastando a indução da autarquia a erro quanto ao estado civil do beneficiário — o que não ocorreu no caso.",
+        "d": "A anulabilidade do casamento por vício de vontade, ainda que não decretada judicialmente, descaracteriza automaticamente os requisitos legais da pensão por morte."
+      },
+      "correct": "a",
+      "explanation": "O STJ afirmou que a pensão por morte exige apenas dois requisitos: falecimento do cônjuge segurado e existência de casamento válido. Como ambos estavam presentes — o casamento era formalmente válido e sem nulidade civil demonstrada —, a viúva tinha direito à pensão, e quem recebe aquilo a que tem direito não obtém vantagem indevida; sem vantagem indevida, não há estelionato, independentemente da intenção subjetiva alegada por terceiros quanto aos motivos do casamento.\n\nSTJ. 5ª Turma. AgRg no REsp 2.230.017-PB, Rel. Min. Joel Ilan Paciornik, julgado em 9/12/2025 (Info 878).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.230.017-PB, Rel. Min. Joel Ilan Paciornik, julgado em 9/12/2025 (Info 878)."
+      },
+      "subject": "Estelionato previdenciário e casamento formalmente válido",
+      "difficulty": "dificil",
+      "miniLesson": "Viúva de servidor público federal aposentado requereu e obteve pensão por morte como cônjuge sobrevivente, com base em certidão de casamento formalmente válida e sem nulidade civil demonstrada. Denunciada por estelionato previdenciário (art. 171, § 3º, do CP), sob a alegação de que o casamento teria sido simulado apenas para viabilizar o benefício, o STJ entendeu que a conduta é atípica porque: O STJ afirmou que a pensão por morte exige apenas dois requisitos: falecimento do cônjuge segurado e existência de casamento válido. Como ambos estavam presentes — o casamento era formalmente válido e sem nulidade civil demonstrada —, a viúva tinha direito à pensão, e quem recebe aquilo a que tem direito não obtém vantagem indevida; sem vantagem indevida, não há estelionato, independentemente da intenção subjetiva alegada por terceiros quanto aos motivos do casamento."
+    },
+    {
+      "id": "pcprjur-obj-011",
+      "topic": "Fundamentação da escolha entre penas alternativas no preceito secundário",
+      "question": "O preceito secundário de determinado tipo penal comina, alternativamente, pena de detenção ou multa. Ao condenar o réu, o magistrado reconheceu que todas as circunstâncias judiciais do art. 59 do CP eram favoráveis e fixou a pena no mínimo legal, mas nada disse sobre o motivo de ter optado pela detenção em vez da multa. Segundo o entendimento do STJ, essa sentença é:",
+      "options": {
+        "a": "Válida, pois a escolha entre penas alternativas previstas no preceito secundário é discricionariedade do juiz, dispensada fundamentação específica quando as circunstâncias judiciais são favoráveis ao réu.",
+        "e": "Inválida, pois a opção pela pena privativa de liberdade, quando o preceito secundário prevê alternativamente a pena de multa, deve ser fundamentada, considerando as circunstâncias judiciais do caso concreto.",
+        "c": "Válida, pois compete exclusivamente ao Ministério Público, na denúncia, indicar qual das penas alternativas deve ser aplicada, vinculando o juiz a essa escolha.",
+        "b": "Inválida, mas apenas porque o juiz estava obrigado, nesse caso, a optar necessariamente pela pena de multa, por ser sempre a mais benéfica ao réu.",
+        "d": "Válida, pois a ausência de fundamentação sobre a escolha entre as penas alternativas é mera irregularidade, incapaz de gerar qualquer nulidade."
+      },
+      "correct": "e",
+      "explanation": "O STJ decidiu que, havendo previsão alternativa de pena de multa no preceito secundário do tipo, a escolha do juiz pela sanção privativa de liberdade deve ser fundamentada à luz das circunstâncias judiciais do caso concreto — não bastando fixar a pena no mínimo legal sem justificar por que não se optou pela sanção mais branda.\n\nSTJ. 5ª Turma. AgRg no AREsp 2.808.209-SC, Rel. Min. Messod Azulay Neto, julgado em 4/11/2025 (Info 880).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. AgRg no AREsp 2.808.209-SC, Rel. Min. Messod Azulay Neto, julgado em 4/11/2025 (Info 880)."
+      },
+      "subject": "Fundamentação da escolha entre penas alternativas no preceito secundário",
+      "difficulty": "dificil",
+      "miniLesson": "O preceito secundário de determinado tipo penal comina, alternativamente, pena de detenção ou multa. Ao condenar o réu, o magistrado reconheceu que todas as circunstâncias judiciais do art. 59 do CP eram favoráveis e fixou a pena no mínimo legal, mas nada disse sobre o motivo de ter optado pela detenção em vez da multa. Segundo o entendimento do STJ, essa sentença é: O STJ decidiu que, havendo previsão alternativa de pena de multa no preceito secundário do tipo, a escolha do juiz pela sanção privativa de liberdade deve ser fundamentada à luz das circunstâncias judiciais do caso concreto — não bastando fixar a pena no mínimo legal sem justificar por que não se optou pela sanção mais branda."
+    },
+    {
+      "id": "pcprjur-obj-012",
+      "topic": "Legitimidade subsidiária da Fazenda Pública para executar a pena de multa",
+      "question": "Após o trânsito em julgado de sentença condenatória que impôs pena privativa de liberdade e pena de multa, o Ministério Público, intimado para promover a execução da multa, permaneceu inerte por mais de 90 dias. Diante disso, segundo o entendimento do STJ sobre os efeitos da Lei nº 13.964/2019 (Pacote Anticrime) sobre o art. 51 do CP, é correto afirmar que:",
+      "options": {
+        "d": "A legitimidade para executar a multa passou a ser exclusiva do Ministério Público, não subsistindo a legitimidade subsidiária da Fazenda Pública reconhecida na ADI 3.150/DF.",
+        "c": "Persiste a legitimidade subsidiária da Fazenda Pública para executar a multa, que poderá fazê-lo na Vara de Execuções Fiscais, pelo rito da Lei nº 6.830/1980, diante da inércia do Ministério Público por 90 dias.",
+        "e": "A Lei nº 13.964/2019 suprimiu qualquer possibilidade de execução da multa pela Fazenda Pública, transferindo essa competência definitivamente ao juízo cível comum.",
+        "a": "A legitimidade da Fazenda Pública para executar a multa é concorrente e originária com a do Ministério Público, podendo ser exercida a qualquer tempo, independentemente de inércia deste.",
+        "b": "Compete exclusivamente à Fazenda Pública estadual, e nunca à Fazenda Nacional, executar a pena de multa decorrente de sentença penal condenatória."
+      },
+      "correct": "c",
+      "explanation": "O STJ reafirmou que, mesmo após a alteração do art. 51 do CP pela Lei nº 13.964/2019, persiste a legitimidade subsidiária da Fazenda Pública (federal ou estadual) para executar a pena de multa na Vara de Execuções Fiscais, pelo rito da Lei nº 6.830/1980, caso o Ministério Público, intimado, não promova a execução no prazo de 90 dias — a reforma alterou apenas a competência do juízo, sem suprimir a legitimidade subsidiária reconhecida na ADI 3.150/DF.\n\nSTJ. 6ª Turma. AgRg no RMS 77.232-RS, Rel. Min. Rogerio Schietti Cruz, julgado em 25/11/2025 (Info 879).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. AgRg no RMS 77.232-RS, Rel. Min. Rogerio Schietti Cruz, julgado em 25/11/2025 (Info 879)."
+      },
+      "subject": "Legitimidade subsidiária da Fazenda Pública para executar a pena de multa",
+      "difficulty": "dificil",
+      "miniLesson": "Após o trânsito em julgado de sentença condenatória que impôs pena privativa de liberdade e pena de multa, o Ministério Público, intimado para promover a execução da multa, permaneceu inerte por mais de 90 dias. Diante disso, segundo o entendimento do STJ sobre os efeitos da Lei nº 13.964/2019 (Pacote Anticrime) sobre o art. 51 do CP, é correto afirmar que: O STJ reafirmou que, mesmo após a alteração do art. 51 do CP pela Lei nº 13.964/2019, persiste a legitimidade subsidiária da Fazenda Pública (federal ou estadual) para executar a pena de multa na Vara de Execuções Fiscais, pelo rito da Lei nº 6.830/1980, caso o Ministério Público, intimado, não promova a execução no prazo de 90 dias — a reforma alterou apenas a competência do juízo, sem suprimir a legitimidade subsidiária reconhecida na ADI 3.150/DF."
+    },
+    {
+      "id": "pcprjur-obj-013",
+      "topic": "Usurpação de matéria-prima da União (art. 2º da Lei 8.176/91)",
+      "question": "Um proprietário rural, sem autorização da Agência Nacional de Mineração ou licença ambiental, extraiu grande volume de saibro (recurso mineral pertencente à União) para nivelar seu terreno, tendo o material sido simplesmente descartado em local próximo, sem qualquer aproveitamento. Denunciado pelo crime de usurpação de matéria-prima da União (art. 2º, caput, da Lei nº 8.176/1991), o STJ manteve a rejeição da denúncia por falta de justa causa. Assinale a alternativa que reflete corretamente as teses fixadas pelo STJ:",
+      "options": {
+        "a": "O crime exige a comprovação de lucro ou de exercício de atividade econômica com o material extraído, sob pena de atipicidade da conduta.",
+        "e": "Configura-se o crime pelo simples ato de extração sem autorização, ainda que o material tenha sido descartado sem qualquer aproveitamento.",
+        "d": "A conduta de 'explorar matéria-prima' deve ser compreendida como sinônimo de aproveitar a matéria-prima, sendo prescindível o lucro; a denúncia que não descreve o proveito obtido é inepta, e o simples descarte do material, sem aproveitamento, afasta a justa causa.",
+        "c": "A denúncia pelo crime dispensa a descrição do proveito obtido, bastando a indicação genérica da quantidade de material extraído sem autorização.",
+        "b": "Trata-se de crime de mera conduta que se consuma com a simples ausência de autorização da Agência Nacional de Mineração, independentemente de qualquer ato de aproveitamento."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou que 'explorar matéria-prima' equivale a aproveitá-la, sendo dispensável o lucro ou o exercício de atividade econômica; a denúncia deve descrever o proveito obtido, sob pena de inépcia; e, quando a matéria-prima é simplesmente descartada, sem qualquer aproveitamento, não há justa causa para a ação penal — exatamente a hipótese do enunciado.\n\nSTJ. 5ª Turma. REsp 2.118.641-RS, Rel. Min. Joel Ilan Paciornik, julgado em 9/12/2025 (Info 879).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. REsp 2.118.641-RS, Rel. Min. Joel Ilan Paciornik, julgado em 9/12/2025 (Info 879)."
+      },
+      "subject": "Usurpação de matéria-prima da União (art. 2º da Lei 8.176/91)",
+      "difficulty": "dificil",
+      "miniLesson": "Um proprietário rural, sem autorização da Agência Nacional de Mineração ou licença ambiental, extraiu grande volume de saibro (recurso mineral pertencente à União) para nivelar seu terreno, tendo o material sido simplesmente descartado em local próximo, sem qualquer aproveitamento. Denunciado pelo crime de usurpação de matéria-prima da União (art. 2º, caput, da Lei nº 8.176/1991), o STJ manteve a rejeição da denúncia por falta de justa causa. Assinale a alternativa que reflete corretamente as teses fixadas pelo STJ: O STJ fixou que 'explorar matéria-prima' equivale a aproveitá-la, sendo dispensável o lucro ou o exercício de atividade econômica; a denúncia deve descrever o proveito obtido, sob pena de inépcia; e, quando a matéria-prima é simplesmente descartada, sem qualquer aproveitamento, não há justa causa para a ação penal — exatamente a hipótese do enunciado."
+    },
+    {
+      "id": "pcprjur-obj-014",
+      "topic": "Flexibilização do interstício de 30 dias na continuidade delitiva",
+      "question": "Três acusados foram denunciados por 47 condutas de contrabando praticadas com o mesmo modus operandi, distribuídas em dois períodos distintos de um mesmo ano, havendo entre eles intervalo superior a 30 dias. A defesa pleiteou o reconhecimento da continuidade delitiva (art. 71 do CP), o que foi acolhido pelo STJ. Assinale a alternativa que reflete corretamente o entendimento do STJ sobre o interstício temporal na continuidade delitiva:",
+      "options": {
+        "e": "O interstício superior a 30 dias entre as condutas afasta, de forma absoluta e sem exceções, o reconhecimento da continuidade delitiva, por se tratar de requisito objetivo inafastável do art. 71 do CP.",
+        "b": "Admite-se, de forma excepcional, a flexibilização do interstício temporal máximo de 30 dias entre as condutas, quando as peculiaridades do caso concreto evidenciarem ritmo contínuo e unidade de desígnios.",
+        "c": "A continuidade delitiva pressupõe necessariamente identidade de vítimas determinadas, não podendo ser reconhecida quando as condutas atingem sujeitos passivos difusos, como no contrabando.",
+        "a": "O crime continuado exige que todas as condutas sejam praticadas no mesmo dia, admitido o interstício de até 30 dias apenas entre a primeira e a última conduta do conjunto.",
+        "d": "A flexibilização do interstício de 30 dias é vedada pela jurisprudência do STJ, por constituir analogia in malam partem contrária ao interesse estatal na persecução penal."
+      },
+      "correct": "b",
+      "explanation": "Embora a regra geral do STJ seja não reconhecer continuidade delitiva quando o intervalo entre os delitos supera 30 dias, a própria Corte admite, excepcionalmente, a flexibilização desse critério quando as peculiaridades do caso concreto — como as 47 condutas com modus operandi semelhante do enunciado — evidenciarem ritmo contínuo e unidade de desígnios.\n\nSTJ. 6ª Turma. REsp 2.194.002-MS, Rel. Min. Sebastião Reis Júnior, julgado em 25/2/2026 (Info 880).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.194.002-MS, Rel. Min. Sebastião Reis Júnior, julgado em 25/2/2026 (Info 880)."
+      },
+      "subject": "Flexibilização do interstício de 30 dias na continuidade delitiva",
+      "difficulty": "dificil",
+      "miniLesson": "Três acusados foram denunciados por 47 condutas de contrabando praticadas com o mesmo modus operandi, distribuídas em dois períodos distintos de um mesmo ano, havendo entre eles intervalo superior a 30 dias. A defesa pleiteou o reconhecimento da continuidade delitiva (art. 71 do CP), o que foi acolhido pelo STJ. Assinale a alternativa que reflete corretamente o entendimento do STJ sobre o interstício temporal na continuidade delitiva: Embora a regra geral do STJ seja não reconhecer continuidade delitiva quando o intervalo entre os delitos supera 30 dias, a própria Corte admite, excepcionalmente, a flexibilização desse critério quando as peculiaridades do caso concreto — como as 47 condutas com modus operandi semelhante do enunciado — evidenciarem ritmo contínuo e unidade de desígnios."
+    },
+    {
+      "id": "pcprjur-obj-015",
+      "topic": "Juízo competente para execução da pena de multa (unicidade da execução penal)",
+      "question": "Condenado pela Justiça Federal a pena privativa de liberdade cumulada com pena de multa, o réu passou a cumprir a pena corporal em presídio estadual, tendo sido transferida a execução dessa pena ao Juízo Estadual de Execuções Penais. O Juízo Federal, contudo, manteve para si a execução da pena de multa. Segundo o STJ, esse proceder está:",
+      "options": {
+        "d": "Correto, pois a execução da pena de multa imposta pela Justiça Federal deve permanecer sempre no Juízo Federal, em razão do princípio da especialidade.",
+        "b": "Incorreto, pois a execução da multa deve acompanhar o Juízo competente para a execução da pena privativa de liberdade, em razão do princípio da unicidade da execução penal — no caso, o Juízo Estadual.",
+        "a": "Correto, pois os valores arrecadados com a multa imposta pela Justiça Federal são destinados ao orçamento do Tribunal Regional Federal, o que justifica a manutenção da competência federal.",
+        "e": "Incorreto, mas apenas porque a pena de multa deveria ter sido extinta pela impossibilidade de fiscalização conjunta pelos dois juízos.",
+        "c": "Correto, pois a definição do juízo competente para executar a multa depende exclusivamente da natureza do crime, sendo irrelevante o local de cumprimento da pena privativa de liberdade."
+      },
+      "correct": "b",
+      "explanation": "O STJ decidiu que a pena de multa possui natureza de sanção penal (STF, ADI 3.150), o que atrai o princípio da unicidade da execução penal: todas as sanções impostas ao condenado devem ser executadas perante um único Juízo. Por isso, se a pena privativa de liberdade é executada no Juízo Estadual, a multa deve acompanhá-la, até porque os valores arrecadados destinam-se ao FUNPEN, não havendo interesse específico da União na manutenção da competência federal.\n\nSTJ. 3ª Seção. AgRg no EREsp 1.887.271-PR, Rel. Min. Maria Marluce Caldas, julgado em 11/3/2026 (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 3ª Seção. AgRg no EREsp 1.887.271-PR, Rel. Min. Maria Marluce Caldas, julgado em 11/3/2026 (Info 881)."
+      },
+      "subject": "Juízo competente para execução da pena de multa (unicidade da execução penal)",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado pela Justiça Federal a pena privativa de liberdade cumulada com pena de multa, o réu passou a cumprir a pena corporal em presídio estadual, tendo sido transferida a execução dessa pena ao Juízo Estadual de Execuções Penais. O Juízo Federal, contudo, manteve para si a execução da pena de multa. Segundo o STJ, esse proceder está: O STJ decidiu que a pena de multa possui natureza de sanção penal (STF, ADI 3.150), o que atrai o princípio da unicidade da execução penal: todas as sanções impostas ao condenado devem ser executadas perante um único Juízo. Por isso, se a pena privativa de liberdade é executada no Juízo Estadual, a multa deve acompanhá-la, até porque os valores arrecadados destinam-se ao FUNPEN, não havendo interesse específico da União na manutenção da competência federal."
+    },
+    {
+      "id": "pcprjur-obj-016",
+      "topic": "Prova da materialidade em crimes de sonegação fiscal",
+      "question": "Empresários foram denunciados por sonegação fiscal mediante fraude (art. 1º, I, II e IV, da Lei nº 8.137/1990), sob a alegação de que teriam utilizado notas fiscais frias para gerar créditos de ICMS, tendo o Fisco lançado o tributo com base na insuficiência da documentação apresentada pela empresa em processo administrativo. Absolvendo os réus, o STJ fixou que:",
+      "options": {
+        "d": "A insuficiência de comprovação das operações pelo contribuinte no processo administrativo fiscal constitui, por si só, prova suficiente da materialidade delitiva.",
+        "e": "A condenação penal por sonegação fiscal exige a comprovação de fatos positivos que demonstrem a conduta típica; a simples omissão do contribuinte em comprovar operações na esfera fiscal é penalmente neutra, na ausência de outras provas da materialidade.",
+        "b": "O lançamento tributário definitivo constitui prova absoluta da materialidade delitiva, vinculando o juiz criminal à conclusão da autoridade fiscal.",
+        "a": "Em crimes tributários, cabe à defesa o ônus de comprovar a regularidade das operações questionadas pelo Fisco, sob pena de se presumir a materialidade delitiva.",
+        "c": "A ausência de comprovação das operações no processo administrativo fiscal gera presunção relativa de fraude, afastável pela defesa mediante simples alegação de boa-fé."
+      },
+      "correct": "e",
+      "explanation": "O STJ afirmou que o ônus da prova na ação penal é da acusação, que não pode se valer da insuficiência de comprovação na esfera fiscal como prova definitiva da materialidade delitiva — a omissão do contribuinte no processo administrativo é penalmente neutra sem outras provas, sendo incompatível com o art. 386, II, do CPP inverter esse ônus em desfavor da defesa.\n\nSTJ. 5ª Turma. AREsp 3.111.920-SC, Rel. Min. Ribeiro Dantas, julgado em 3/3/2026 (Info 880).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. AREsp 3.111.920-SC, Rel. Min. Ribeiro Dantas, julgado em 3/3/2026 (Info 880)."
+      },
+      "subject": "Prova da materialidade em crimes de sonegação fiscal",
+      "difficulty": "dificil",
+      "miniLesson": "Empresários foram denunciados por sonegação fiscal mediante fraude (art. 1º, I, II e IV, da Lei nº 8.137/1990), sob a alegação de que teriam utilizado notas fiscais frias para gerar créditos de ICMS, tendo o Fisco lançado o tributo com base na insuficiência da documentação apresentada pela empresa em processo administrativo. Absolvendo os réus, o STJ fixou que: O STJ afirmou que o ônus da prova na ação penal é da acusação, que não pode se valer da insuficiência de comprovação na esfera fiscal como prova definitiva da materialidade delitiva — a omissão do contribuinte no processo administrativo é penalmente neutra sem outras provas, sendo incompatível com o art. 386, II, do CPP inverter esse ônus em desfavor da defesa."
+    },
+    {
+      "id": "pcprjur-obj-017",
+      "topic": "Prescrição da pena de multa após a Lei 13.964/2019 (Tema 1.405)",
+      "question": "Após o Pacote Anticrime (Lei nº 13.964/2019), que deu ao art. 51 do CP a redação segundo a qual a multa penal não paga é considerada dívida de valor aplicando-se as normas da legislação relativa à dívida ativa da Fazenda Pública, discutiu-se qual seria o prazo prescricional da pena de multa. O STJ, em recurso repetitivo, fixou que:",
+      "options": {
+        "b": "O prazo prescricional da multa passou a ser o quinquenal do art. 174 do CTN, que também disciplina as causas suspensivas e interruptivas, afastando por completo o Código Penal.",
+        "d": "A multa, mesmo tratada como dívida de valor, mantém sua natureza penal; o prazo prescricional continua regido pelo art. 114, I e II, do CP, aplicando-se apenas as causas suspensivas da Lei de Execução Fiscal e as interruptivas do art. 174 do CTN.",
+        "a": "Não há mais prazo prescricional para a pena de multa após a Lei 13.964/2019, por se tratar de dívida de valor imprescritível.",
+        "e": "O prazo prescricional da pena de multa é sempre de 2 anos, nos termos do art. 30 do Código Penal.",
+        "c": "A pena de multa prescreve segundo as mesmas causas interruptivas e suspensivas integralmente aplicáveis à dívida ativa tributária, afastando por completo a incidência do Código Penal."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou, no Tema 1.405, que a alteração do art. 51 do CP não afastou o caráter penal da multa: o prazo prescricional continua sendo o do art. 114, I e II, do CP, mas incidem as causas suspensivas da Lei nº 6.830/1980 (LEF) e as interruptivas do art. 174 do CTN, por expressa remissão do próprio art. 51 do CP — um regime híbrido, e não a substituição integral pelo regime tributário.\n\nSTJ. 3ª Seção. REsp 2.225.431-PR, Rel. Min. Joel Ilan Paciornik, julgado em 11/3/2026 (Recurso Repetitivo – Tema 1405) (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.225.431-PR, Rel. Min. Joel Ilan Paciornik, julgado em 11/3/2026 (Recurso Repetitivo – Tema 1405) (Info 881)."
+      },
+      "subject": "Prescrição da pena de multa após a Lei 13.964/2019 (Tema 1.405)",
+      "difficulty": "dificil",
+      "miniLesson": "Após o Pacote Anticrime (Lei nº 13.964/2019), que deu ao art. 51 do CP a redação segundo a qual a multa penal não paga é considerada dívida de valor aplicando-se as normas da legislação relativa à dívida ativa da Fazenda Pública, discutiu-se qual seria o prazo prescricional da pena de multa. O STJ, em recurso repetitivo, fixou que: O STJ fixou, no Tema 1.405, que a alteração do art. 51 do CP não afastou o caráter penal da multa: o prazo prescricional continua sendo o do art. 114, I e II, do CP, mas incidem as causas suspensivas da Lei nº 6.830/1980 (LEF) e as interruptivas do art. 174 do CTN, por expressa remissão do próprio art. 51 do CP — um regime híbrido, e não a substituição integral pelo regime tributário."
+    },
+    {
+      "id": "pcprjur-obj-018",
+      "topic": "Prescrição da pretensão punitiva e interesse recursal do réu",
+      "question": "Réu condenado em primeiro grau por corrupção passiva teve reconhecida, ainda na sentença, a prescrição da pretensão punitiva com base na pena concretamente aplicada, sendo declarada extinta a punibilidade. Mesmo assim, a defesa apelou pedindo a absolvição, o que foi concedido pelo Tribunal. Levado o caso ao STJ, este restabeleceu a sentença de primeiro grau, sob o fundamento de que:",
+      "options": {
+        "c": "A extinção da punibilidade pela prescrição da pretensão punitiva não afasta o interesse do réu em recorrer buscando a absolvição, por lhe trazer maior proveito moral e social.",
+        "a": "A extinção da punibilidade pela prescrição da pretensão punitiva apaga todos os efeitos da condenação, principais e secundários, equiparando a situação do réu, na prática, à do absolvido, e afastando seu interesse recursal em apelar buscando absolvição.",
+        "d": "O interesse recursal do réu deve ser aferido sob critério exclusivamente moral, sendo irrelevante o proveito jurídico-processual da reforma pretendida.",
+        "b": "A prescrição da pretensão punitiva reconhecida em primeiro grau impede qualquer recurso da defesa, ainda que sobre questões de mérito estranhas à prescrição.",
+        "e": "A extinção da punibilidade pela prescrição apaga apenas os efeitos principais da condenação, subsistindo os efeitos secundários, como a reincidência, para todos os fins legais."
+      },
+      "correct": "a",
+      "explanation": "O STJ fixou que a extinção da punibilidade pela prescrição da pretensão punitiva é a forma mais ampla de desconstituição do título condenatório, apagando efeitos principais e secundários; a situação do réu equipara-se, na prática, à do absolvido, não havendo utilidade em substituir a extinção da punibilidade por uma absolvição — o interesse recursal deve ser aferido pelo proveito jurídico-processual, e não por um viés moral ou pessoal (art. 577, parágrafo único, do CPP).\n\nSTJ. 5ª Turma. AgRg no REsp 2.118.145-RJ, Rel. Min. Maria Marluce Caldas, julgado em 25/2/2026 (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.118.145-RJ, Rel. Min. Maria Marluce Caldas, julgado em 25/2/2026 (Info 881)."
+      },
+      "subject": "Prescrição da pretensão punitiva e interesse recursal do réu",
+      "difficulty": "dificil",
+      "miniLesson": "Réu condenado em primeiro grau por corrupção passiva teve reconhecida, ainda na sentença, a prescrição da pretensão punitiva com base na pena concretamente aplicada, sendo declarada extinta a punibilidade. Mesmo assim, a defesa apelou pedindo a absolvição, o que foi concedido pelo Tribunal. Levado o caso ao STJ, este restabeleceu a sentença de primeiro grau, sob o fundamento de que: O STJ fixou que a extinção da punibilidade pela prescrição da pretensão punitiva é a forma mais ampla de desconstituição do título condenatório, apagando efeitos principais e secundários; a situação do réu equipara-se, na prática, à do absolvido, não havendo utilidade em substituir a extinção da punibilidade por uma absolvição — o interesse recursal deve ser aferido pelo proveito jurídico-processual, e não por um viés moral ou pessoal (art. 577, parágrafo único, do CPP)."
+    },
+    {
+      "id": "pcprjur-obj-019",
+      "topic": "Sequestro de bens em investigação de organização criminosa",
+      "question": "Em investigação de organização criminosa, o juiz decretou o sequestro e a indisponibilidade de bens de uma das investigadas, embora a denúncia tenha sido recebida apenas quanto ao crime de organização criminosa. A defesa pediu o levantamento do bloqueio, sob o argumento de que se trata de crime formal, que se consuma independentemente de resultado naturalístico, não havendo produto ou proveito do crime a justificar a medida. O STJ:",
+      "options": {
+        "b": "Acolheu o argumento da defesa, pois o crime de organização criminosa, por ser formal, impede a decretação de sequestro de bens dos investigados.",
+        "d": "Rejeitou o argumento, pois a decretação do sequestro exige apenas indícios veementes da proveniência ilícita dos bens, medida que independe da capitulação jurídica das imputações trazidas na denúncia.",
+        "e": "Acolheu parcialmente o argumento, permitindo o sequestro apenas de bens adquiridos após a formação da organização criminosa.",
+        "a": "Rejeitou o argumento, mas apenas porque já havia condenação transitada em julgado por crime antecedente do qual se originava o patrimônio.",
+        "c": "Acolheu o argumento, condicionando a manutenção do sequestro à comprovação, em ação civil autônoma, da origem ilícita dos bens."
+      },
+      "correct": "d",
+      "explanation": "O STJ afastou o argumento da defesa: para a decretação do sequestro, basta a existência de indícios veementes da proveniência ilícita dos bens, medida que independe de o delito imputado na denúncia ser, ou não, materialmente consumado com resultado naturalístico — a natureza formal do crime de organização criminosa não afasta a possibilidade da constrição patrimonial.\n\nSTJ. 5ª Turma. AgRg no REsp 2.219.963-RJ, Rel. Min. Reynaldo Soares da Fonseca, julgado em 3/3/2026 (Info 880).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.219.963-RJ, Rel. Min. Reynaldo Soares da Fonseca, julgado em 3/3/2026 (Info 880)."
+      },
+      "subject": "Sequestro de bens em investigação de organização criminosa",
+      "difficulty": "dificil",
+      "miniLesson": "Em investigação de organização criminosa, o juiz decretou o sequestro e a indisponibilidade de bens de uma das investigadas, embora a denúncia tenha sido recebida apenas quanto ao crime de organização criminosa. A defesa pediu o levantamento do bloqueio, sob o argumento de que se trata de crime formal, que se consuma independentemente de resultado naturalístico, não havendo produto ou proveito do crime a justificar a medida. O STJ: O STJ afastou o argumento da defesa: para a decretação do sequestro, basta a existência de indícios veementes da proveniência ilícita dos bens, medida que independe de o delito imputado na denúncia ser, ou não, materialmente consumado com resultado naturalístico — a natureza formal do crime de organização criminosa não afasta a possibilidade da constrição patrimonial."
+    },
+    {
+      "id": "pcprjur-obj-020",
+      "topic": "Cadeia de custódia da prova digital e prisão preventiva",
+      "question": "Em investigação de homicídio, um policial extraiu manualmente, sem uso de ferramentas forenses nem geração de hash, conversas e arquivos de celulares apreendidos, reunindo o material em relatório que fundamentou a prisão preventiva do investigado. A defesa alegou quebra da cadeia de custódia por ausência de registro técnico que garantisse a integridade e rastreabilidade da prova digital. O STJ concedeu a ordem de habeas corpus para determinar que:",
+      "options": {
+        "e": "A prova digital fosse imediatamente desentranhada dos autos, por nulidade absoluta e insanável decorrente da ausência de hash criptográfico.",
+        "a": "Fosse realizada perícia oficial nos dispositivos eletrônicos, diante da dúvida razoável sobre a integridade e autenticidade da prova, e que a prisão preventiva fosse substituída por medidas cautelares diversas até a conclusão dessa perícia, por se tratar da principal prova de autoria.",
+        "b": "A cadeia de custódia fosse presumida válida, por ter havido autorização judicial prévia para a extração dos dados, dispensando qualquer perícia técnica posterior.",
+        "d": "A prisão preventiva fosse mantida, cabendo à defesa arcar com os custos de eventual perícia que viesse a requerer.",
+        "c": "A discussão sobre a cadeia de custódia fosse remetida exclusivamente à fase de instrução, sendo inadequada a via do habeas corpus."
+      },
+      "correct": "a",
+      "explanation": "O STJ fixou que, havendo dúvida razoável sobre a integridade e autenticidade da prova digital, é necessária a realização de perícia oficial para assegurar sua confiabilidade e o contraditório; e que, sendo essa prova o principal elemento de autoria, a proporcionalidade recomenda a substituição da prisão preventiva por medidas cautelares diversas até a conclusão da diligência técnica — sem que isso implique nulidade automática ou desentranhamento imediato da prova.\n\nSTJ. 6ª Turma. AgRg no HC 1.014.212-ES, Rel. Min. Carlos Pires Brandão, julgado em 10/2/2026 (Info 878).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. AgRg no HC 1.014.212-ES, Rel. Min. Carlos Pires Brandão, julgado em 10/2/2026 (Info 878)."
+      },
+      "subject": "Cadeia de custódia da prova digital e prisão preventiva",
+      "difficulty": "dificil",
+      "miniLesson": "Em investigação de homicídio, um policial extraiu manualmente, sem uso de ferramentas forenses nem geração de hash, conversas e arquivos de celulares apreendidos, reunindo o material em relatório que fundamentou a prisão preventiva do investigado. A defesa alegou quebra da cadeia de custódia por ausência de registro técnico que garantisse a integridade e rastreabilidade da prova digital. O STJ concedeu a ordem de habeas corpus para determinar que: O STJ fixou que, havendo dúvida razoável sobre a integridade e autenticidade da prova digital, é necessária a realização de perícia oficial para assegurar sua confiabilidade e o contraditório; e que, sendo essa prova o principal elemento de autoria, a proporcionalidade recomenda a substituição da prisão preventiva por medidas cautelares diversas até a conclusão da diligência técnica — sem que isso implique nulidade automática ou desentranhamento imediato da prova."
+    },
+    {
+      "id": "pcprjur-obj-021",
+      "topic": "Prisão domiciliar humanitária à mãe de criança de até 12 anos",
+      "question": "Condenada em regime fechado e mãe de uma criança de 7 anos, sob os cuidados da avó paterna (que pretendia requerer a guarda provisória, sem relato de dificuldade de adaptação da menor), pleiteou prisão domiciliar humanitária sob o fundamento de que a presença materna seria imprescindível aos cuidados da filha. Segundo a corrente atualmente prevalecente no STJ sobre o tema, essa prisão domiciliar:",
+      "options": {
+        "e": "É legalmente presumida, dispensando qualquer comprovação da imprescindibilidade dos cuidados maternos, por força da proteção integral da criança (art. 227 da CF/88).",
+        "c": "Exige a comprovação inequívoca da imprescindibilidade da presença materna, não bastando a alegação genérica de vínculo materno-filial ou a simples existência de filho menor de 12 anos.",
+        "d": "É incompatível com o cumprimento de pena em regime fechado, somente podendo ser concedida a rés que aguardam julgamento em liberdade provisória.",
+        "b": "Deve ser concedida automaticamente sempre que a criança estiver sob os cuidados de parentes que não os pais, por presunção de vulnerabilidade.",
+        "a": "Somente pode ser negada se comprovado que a genitora representa risco à integridade física da própria filha."
+      },
+      "correct": "c",
+      "explanation": "Superando entendimento anterior que presumia a imprescindibilidade dos cuidados maternos, a corrente hoje prevalecente no STJ exige comprovação inequívoca dessa imprescindibilidade, não bastando o mero vínculo familiar; a proteção integral da criança (art. 227 da CF/88) não opera automaticamente, sendo necessária a demonstração concreta de vulnerabilidade da criança diante do encarceramento materno — o que não se verificava no caso, em que a criança estava bem adaptada aos cuidados da avó.\n\nSTJ. 6ª Turma. AgRg no HC 1.035.233-PR, Rel. Min. Carlos Pires Brandão, julgado em 25/11/2025 (Info 878).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. AgRg no HC 1.035.233-PR, Rel. Min. Carlos Pires Brandão, julgado em 25/11/2025 (Info 878)."
+      },
+      "subject": "Prisão domiciliar humanitária à mãe de criança de até 12 anos",
+      "difficulty": "dificil",
+      "miniLesson": "Condenada em regime fechado e mãe de uma criança de 7 anos, sob os cuidados da avó paterna (que pretendia requerer a guarda provisória, sem relato de dificuldade de adaptação da menor), pleiteou prisão domiciliar humanitária sob o fundamento de que a presença materna seria imprescindível aos cuidados da filha. Segundo a corrente atualmente prevalecente no STJ sobre o tema, essa prisão domiciliar: Superando entendimento anterior que presumia a imprescindibilidade dos cuidados maternos, a corrente hoje prevalecente no STJ exige comprovação inequívoca dessa imprescindibilidade, não bastando o mero vínculo familiar; a proteção integral da criança (art. 227 da CF/88) não opera automaticamente, sendo necessária a demonstração concreta de vulnerabilidade da criança diante do encarceramento materno — o que não se verificava no caso, em que a criança estava bem adaptada aos cuidados da avó."
+    },
+    {
+      "id": "pcprjur-obj-022",
+      "topic": "Recusa do ANPP por habitualidade delitiva sem trânsito em julgado",
+      "question": "Denunciado por estelionato mediante cheque sem fundos, o investigado requereu Acordo de Não Persecução Penal (art. 28-A do CPP). O Ministério Público recusou-se a propor o acordo, sob o fundamento de que o investigado já havia sido condenado, em outro processo ainda sem trânsito em julgado, por dezenas de estelionatos praticados nas mesmas circunstâncias, o que evidenciaria habitualidade criminosa. Levado o caso ao STJ, a Corte entendeu que essa recusa é:",
+      "options": {
+        "c": "Inválida, pois o ANPP é direito subjetivo do investigado sempre que preenchidos os requisitos objetivos do art. 28-A do CPP.",
+        "a": "Inválida, pois a habitualidade delitiva que autoriza a recusa do ANPP exige condenação transitada em julgado, sob pena de violação à presunção de inocência.",
+        "e": "Válida, pois o ANPP é instrumento de política criminal voltado ao agente eventual, e o art. 28-A, § 2º, II, do CPP veda o acordo tanto ao reincidente quanto a quem apresenta conduta habitual, reiterada ou profissional — hipótese que não exige condenação transitada em julgado.",
+        "b": "Válida, mas apenas porque a condenação anterior, ainda sem trânsito em julgado, já produz os efeitos da reincidência para fins de recusa do ANPP.",
+        "d": "Inválida, pois o art. 28-A, § 2º, II, do CPP veda o ANPP apenas ao reincidente, não havendo previsão legal para recusa com base em habitualidade delitiva."
+      },
+      "correct": "e",
+      "explanation": "O STJ manteve a recusa: o ANPP não é direito subjetivo do investigado, mas instrumento de política criminal para o agente eventual; o art. 28-A, § 2º, II, do CPP veda o acordo tanto para o reincidente quanto para quem apresenta conduta criminal habitual, reiterada ou profissional — hipóteses distintas —, e a habitualidade delitiva pode ser evidenciada por inquéritos e ações penais em curso, não exigindo condenação transitada em julgado (o que seria necessário apenas para caracterizar reincidência técnica, hipótese diversa).\n\nSTJ. 6ª Turma. AgRg no RHC 215.549-GO, Rel. Min. Otávio de Almeida Toledo (Des. convocado), Rel. p/ acórdão Min. Rogerio Schietti Cruz, julgado em 10/2/2026 (Info 879).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. AgRg no RHC 215.549-GO, Rel. Min. Otávio de Almeida Toledo (Des. convocado), Rel. p/ acórdão Min. Rogerio Schietti Cruz, julgado em 10/2/2026 (Info 879)."
+      },
+      "subject": "Recusa do ANPP por habitualidade delitiva sem trânsito em julgado",
+      "difficulty": "dificil",
+      "miniLesson": "Denunciado por estelionato mediante cheque sem fundos, o investigado requereu Acordo de Não Persecução Penal (art. 28-A do CPP). O Ministério Público recusou-se a propor o acordo, sob o fundamento de que o investigado já havia sido condenado, em outro processo ainda sem trânsito em julgado, por dezenas de estelionatos praticados nas mesmas circunstâncias, o que evidenciaria habitualidade criminosa. Levado o caso ao STJ, a Corte entendeu que essa recusa é: O STJ manteve a recusa: o ANPP não é direito subjetivo do investigado, mas instrumento de política criminal para o agente eventual; o art. 28-A, § 2º, II, do CPP veda o acordo tanto para o reincidente quanto para quem apresenta conduta criminal habitual, reiterada ou profissional — hipóteses distintas —, e a habitualidade delitiva pode ser evidenciada por inquéritos e ações penais em curso, não exigindo condenação transitada em julgado (o que seria necessário apenas para caracterizar reincidência técnica, hipótese diversa)."
+    },
+    {
+      "id": "pcprjur-obj-023",
+      "topic": "Limite de testemunhas (art. 401 do CPP) em crime tributário continuado",
+      "question": "Réu foi denunciado pela supressão continuada de ICMS, praticada mediante omissão mensal de valores nas declarações fiscais ao longo de vários meses, capitulada como crime continuado (art. 1º da Lei nº 8.137/1990 c/c art. 71 do CP). A defesa pretendia arrolar 8 testemunhas para cada mês de omissão, argumentando que os fatos seriam individualizáveis em crimes autônomos. O STJ manteve a limitação do rol a 8 testemunhas no total, sob o fundamento de que:",
+      "options": {
+        "c": "O limite de 8 testemunhas do art. 401 do CPP não se aplica aos crimes contra a ordem tributária, que admitem rol ilimitado por legislação especial.",
+        "d": "A renovação mensal do fato gerador do ICMS é a peculiaridade que justamente viabiliza o tratamento do delito como crime continuado, e não concurso material; havendo unidade fática, o limite de 8 testemunhas incide sobre o conjunto da conduta, e não sobre cada mês de sonegação.",
+        "e": "A renovação mensal do fato gerador transforma a conduta em concurso material de crimes autônomos, autorizando 8 testemunhas para cada um deles.",
+        "a": "O rol de testemunhas deve observar o limite de 8 por acusado, e não por fato, ainda que praticados por vários corréus em conjunto.",
+        "b": "O limite de testemunhas em crimes tributários é sempre definido pelo juiz, caso a caso, conforme a complexidade da causa, não havendo parâmetro legal objetivo."
+      },
+      "correct": "d",
+      "explanation": "O STJ entendeu que, por haver unidade fática (e não apenas normativa) no crime continuado de sonegação, o limite de 8 testemunhas do art. 401 do CPP deve incidir sobre o conjunto da conduta, e não ser multiplicado por cada mês de supressão do tributo — multiplicar as testemunhas por período implicaria sobrecarga injustificada à instrução, violando a razoável duração do processo.\n\nSTJ. 6ª Turma. AgRg no HC 968.932-SC, Rel. Min. Rogerio Schietti Cruz, julgado em 3/9/2025 (Info 879).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. AgRg no HC 968.932-SC, Rel. Min. Rogerio Schietti Cruz, julgado em 3/9/2025 (Info 879)."
+      },
+      "subject": "Limite de testemunhas (art. 401 do CPP) em crime tributário continuado",
+      "difficulty": "dificil",
+      "miniLesson": "Réu foi denunciado pela supressão continuada de ICMS, praticada mediante omissão mensal de valores nas declarações fiscais ao longo de vários meses, capitulada como crime continuado (art. 1º da Lei nº 8.137/1990 c/c art. 71 do CP). A defesa pretendia arrolar 8 testemunhas para cada mês de omissão, argumentando que os fatos seriam individualizáveis em crimes autônomos. O STJ manteve a limitação do rol a 8 testemunhas no total, sob o fundamento de que: O STJ entendeu que, por haver unidade fática (e não apenas normativa) no crime continuado de sonegação, o limite de 8 testemunhas do art. 401 do CPP deve incidir sobre o conjunto da conduta, e não ser multiplicado por cada mês de supressão do tributo — multiplicar as testemunhas por período implicaria sobrecarga injustificada à instrução, violando a razoável duração do processo."
+    },
+    {
+      "id": "pcprjur-obj-024",
+      "topic": "Competência para crimes ambientais envolvendo espécies ameaçadas",
+      "question": "Réu destruiu vegetação nativa de Mata Atlântica em sua propriedade rural, incluindo araucárias (espécie oficialmente reconhecida como ameaçada de extinção por portaria do IBAMA), sendo denunciado por crime ambiental (Lei nº 9.605/1998). Instaurado conflito de competência entre a Justiça Estadual e a Justiça Federal, o STJ decidiu que a competência é:",
+      "options": {
+        "d": "Sempre da Justiça Federal, em razão do interesse da União na proteção de espécies ameaçadas de extinção, independentemente de transnacionalidade ou ofensa a bem federal.",
+        "e": "Da Justiça Estadual, salvo se demonstrada a transnacionalidade da conduta ou ofensa direta a bem, serviço ou interesse da União, não bastando, para atrair a competência federal, o simples fato de a espécie constar de lista oficial de espécies ameaçadas.",
+        "b": "Da Justiça Federal sempre que a espécie atingida estiver listada por portaria do IBAMA, por se tratar de ato normativo federal cuja ofensa atrai automaticamente a competência da União.",
+        "a": "Definida conforme o bioma atingido: da Justiça Federal na Mata Atlântica e da Justiça Estadual nos demais biomas brasileiros.",
+        "c": "Da Justiça Federal, pois o Tema 648 de Repercussão Geral do STF fixou que todo crime ambiental contra espécie ameaçada interessa, por natureza, à União."
+      },
+      "correct": "e",
+      "explanation": "Com base no Tema 648 de Repercussão Geral do STF (RE 835.558/SP), o STJ reafirmou que a competência da Justiça Federal para crimes ambientais depende da presença de interesse direto e específico da União ou de transnacionalidade da conduta; o simples fato de a espécie vegetal atingida constar de lista oficial de espécies ameaçadas de extinção não é suficiente, por si só, para atrair a competência federal.\n\nSTJ. 3ª Seção. CC 215.970-PR, Rel. Min. Og Fernandes, julgado em 4/12/2025 (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 3ª Seção. CC 215.970-PR, Rel. Min. Og Fernandes, julgado em 4/12/2025 (Info 881)."
+      },
+      "subject": "Competência para crimes ambientais envolvendo espécies ameaçadas",
+      "difficulty": "dificil",
+      "miniLesson": "Réu destruiu vegetação nativa de Mata Atlântica em sua propriedade rural, incluindo araucárias (espécie oficialmente reconhecida como ameaçada de extinção por portaria do IBAMA), sendo denunciado por crime ambiental (Lei nº 9.605/1998). Instaurado conflito de competência entre a Justiça Estadual e a Justiça Federal, o STJ decidiu que a competência é: Com base no Tema 648 de Repercussão Geral do STF (RE 835.558/SP), o STJ reafirmou que a competência da Justiça Federal para crimes ambientais depende da presença de interesse direto e específico da União ou de transnacionalidade da conduta; o simples fato de a espécie vegetal atingida constar de lista oficial de espécies ameaçadas de extinção não é suficiente, por si só, para atrair a competência federal."
+    },
+    {
+      "id": "pcprjur-obj-025",
+      "topic": "Assistente técnico do investigado no inquérito policial",
+      "question": "Em inquérito policial instaurado para apurar possíveis maus-tratos causadores de morte, a filha da vítima e suspeita dos fatos pediu que um assistente técnico de sua confiança acompanhasse a perícia do IML e apresentasse quesitos antes do exame. O pedido foi negado sob o argumento de que o inquérito tem natureza inquisitorial e de que o art. 159, § 4º, do CPP só admite a atuação do assistente técnico após a conclusão da perícia oficial. O STJ deu provimento ao recurso da defesa, por entender que:",
+      "options": {
+        "b": "O inquérito policial, por sua natureza inquisitorial, jamais admite a atuação de assistente técnico indicado pelo investigado, sendo essa prerrogativa exclusiva da fase judicial.",
+        "e": "É direito do investigado, salvo demonstração concreta de risco de embaraço às investigações, ter assistente técnico habilitado nos autos do inquérito, com a prerrogativa de elaborar quesitos ao perito oficial antes da realização do exame.",
+        "c": "O art. 159, § 4º, do CPP autoriza a atuação do assistente técnico apenas após a conclusão da perícia oficial, interpretação que o STJ reafirmou como a única compatível com a fase investigatória.",
+        "a": "A habilitação de assistente técnico no inquérito depende sempre de autorização do Ministério Público, sendo insuficiente a decisão judicial sobre a matéria.",
+        "d": "A recusa de habilitação do assistente técnico, ainda que fundamentada em risco concreto às investigações, configura sempre cerceamento de defesa."
+      },
+      "correct": "e",
+      "explanation": "O STJ entendeu que, salvo demonstração concreta de risco de embaraço às investigações, é direito do investigado ter assistente técnico habilitado ainda no inquérito policial, com a prerrogativa de apresentar quesitos ao perito oficial antes da realização do exame — a negativa sem fundamentação concreta configura cerceamento de defesa, pois compromete o contraditório diferido que resultaria de uma manifestação só depois de pronto o laudo.\n\nSTJ. 6ª Turma. RHC 200.979-SP, Rel. Min. Rogerio Schietti Cruz, julgado em 9/12/2025 (Info 881).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Março/2026",
+        "citation": "STJ. 6ª Turma. RHC 200.979-SP, Rel. Min. Rogerio Schietti Cruz, julgado em 9/12/2025 (Info 881)."
+      },
+      "subject": "Assistente técnico do investigado no inquérito policial",
+      "difficulty": "dificil",
+      "miniLesson": "Em inquérito policial instaurado para apurar possíveis maus-tratos causadores de morte, a filha da vítima e suspeita dos fatos pediu que um assistente técnico de sua confiança acompanhasse a perícia do IML e apresentasse quesitos antes do exame. O pedido foi negado sob o argumento de que o inquérito tem natureza inquisitorial e de que o art. 159, § 4º, do CPP só admite a atuação do assistente técnico após a conclusão da perícia oficial. O STJ deu provimento ao recurso da defesa, por entender que: O STJ entendeu que, salvo demonstração concreta de risco de embaraço às investigações, é direito do investigado ter assistente técnico habilitado ainda no inquérito policial, com a prerrogativa de apresentar quesitos ao perito oficial antes da realização do exame — a negativa sem fundamentação concreta configura cerceamento de defesa, pois compromete o contraditório diferido que resultaria de uma manifestação só depois de pronto o laudo."
+    }
+  ],
+  "discursive": [],
+  "oral": []
+}
