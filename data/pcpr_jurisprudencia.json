@@ -574,6 +574,443 @@
       "subject": "Assistente técnico do investigado no inquérito policial",
       "difficulty": "dificil",
       "miniLesson": "Em inquérito policial instaurado para apurar possíveis maus-tratos causadores de morte, a filha da vítima e suspeita dos fatos pediu que um assistente técnico de sua confiança acompanhasse a perícia do IML e apresentasse quesitos antes do exame. O pedido foi negado sob o argumento de que o inquérito tem natureza inquisitorial e de que o art. 159, § 4º, do CPP só admite a atuação do assistente técnico após a conclusão da perícia oficial. O STJ deu provimento ao recurso da defesa, por entender que: O STJ entendeu que, salvo demonstração concreta de risco de embaraço às investigações, é direito do investigado ter assistente técnico habilitado ainda no inquérito policial, com a prerrogativa de apresentar quesitos ao perito oficial antes da realização do exame — a negativa sem fundamentação concreta configura cerceamento de defesa, pois compromete o contraditório diferido que resultaria de uma manifestação só depois de pronto o laudo."
+    },
+    {
+      "id": "pcprjur-obj-026",
+      "topic": "Selo de certificação de empresas de marketing multinível",
+      "question": "O Distrito Federal editou lei instituindo um selo oficial ('Selo Multinível Legal') destinado a certificar empresas de venda direta e marketing multinível que comprovassem não integrar esquema de pirâmide financeira, autorizando o uso publicitário da chancela. O STF, ao examinar a constitucionalidade dessa lei distrital, decidiu que ela é:",
+      "options": {
+        "b": "Constitucional, pois compete aos Estados e ao Distrito Federal fiscalizar, no âmbito de seu território, práticas comerciais potencialmente lesivas ao consumidor local.",
+        "c": "Formalmente inconstitucional, por invadir a competência privativa da União para legislar sobre direito comercial e para fiscalizar operações de natureza financeira, tratando-se de mercado de caráter nacional que exige disciplina uniforme.",
+        "e": "Constitucional, desde que o selo tenha validade restrita ao território do Distrito Federal, sem qualquer efeito publicitário em outros entes federativos.",
+        "a": "Inconstitucional, mas apenas por vício de iniciativa, já que a matéria deveria ter sido proposta por projeto de lei de iniciativa do próprio Distrito Federal, e não da Câmara Legislativa.",
+        "d": "Constitucional, por se inserir na competência concorrente dos Estados e do Distrito Federal para legislar sobre proteção ao consumidor."
+      },
+      "correct": "c",
+      "explanation": "O STF declarou formalmente inconstitucional a lei distrital, por invadir a competência privativa da União para legislar sobre direito comercial/empresarial (art. 22, I, CF/88) e para fiscalizar operações financeiras (art. 21, VIII, CF/88). O mercado de venda direta e marketing multinível tem caráter nacional e global, exigindo disciplina uniforme; a criação de selo com efeitos reputacionais e uso publicitário interestadual agrava a invasão de competência.\n\nSTF. Plenário. ADI 6.042/DF, Rel. Min. Luiz Fux, julgado em 20/05/2026 (Info 1218).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 6.042/DF, Rel. Min. Luiz Fux, julgado em 20/05/2026 (Info 1218)."
+      },
+      "subject": "Selo de certificação de empresas de marketing multinível",
+      "difficulty": "dificil",
+      "miniLesson": "O Distrito Federal editou lei instituindo um selo oficial ('Selo Multinível Legal') destinado a certificar empresas de venda direta e marketing multinível que comprovassem não integrar esquema de pirâmide financeira, autorizando o uso publicitário da chancela. O STF, ao examinar a constitucionalidade dessa lei distrital, decidiu que ela é: O STF declarou formalmente inconstitucional a lei distrital, por invadir a competência privativa da União para legislar sobre direito comercial/empresarial (art. 22, I, CF/88) e para fiscalizar operações financeiras (art. 21, VIII, CF/88). O mercado de venda direta e marketing multinível tem caráter nacional e global, exigindo disciplina uniforme; a criação de selo com efeitos reputacionais e uso publicitário interestadual agrava a invasão de competência."
+    },
+    {
+      "id": "pcprjur-obj-027",
+      "topic": "Indenização legal por interrupção no fornecimento de energia elétrica",
+      "question": "Lei estadual instituiu indenização automática, escalonada e creditada diretamente na fatura, em favor do consumidor sempre que houvesse interrupção no fornecimento de energia elétrica, qualquer que fosse a causa, inclusive desastres naturais. Segundo o STF, essa lei estadual é:",
+      "options": {
+        "c": "Constitucional, pois se insere na competência concorrente dos Estados para legislar sobre proteção e defesa do consumidor (art. 24, V e VIII, CF/88).",
+        "d": "Inconstitucional, por invadir a competência da União para explorar e regular os serviços de energia elétrica e fixar política tarifária, além de comprometer o equilíbrio econômico-financeiro dos contratos de concessão.",
+        "b": "Constitucional, mas apenas quanto às interrupções causadas por falha da concessionária, sendo inconstitucional apenas a parte que abrange desastres naturais.",
+        "a": "Inconstitucional, mas exclusivamente porque a indenização deveria depender de requerimento do consumidor, e não ser creditada automaticamente.",
+        "e": "Constitucional, pois a defesa do consumidor, direito fundamental, prevalece sobre o equilíbrio econômico-financeiro de contratos administrativos."
+      },
+      "correct": "d",
+      "explanation": "O STF declarou inconstitucional a lei estadual por invadir a competência da União para explorar os serviços de energia elétrica e fixar política tarifária (arts. 21, XII, 'b', 22, IV e 175, CF/88), e por comprometer o equilíbrio econômico-financeiro dos contratos de concessão (art. 37, XXI, CF/88) ao criar ônus financeiro novo e extraordinário não previsto na regulação federal. A competência concorrente sobre consumo não autoriza o Estado a interferir na relação contratual com o poder concedente federal.\n\nSTF. Plenário. ADI 7.866/RS, Rel. Min. Alexandre de Moraes, julgado em 25/05/2026 (Info 1218).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 7.866/RS, Rel. Min. Alexandre de Moraes, julgado em 25/05/2026 (Info 1218)."
+      },
+      "subject": "Indenização legal por interrupção no fornecimento de energia elétrica",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual instituiu indenização automática, escalonada e creditada diretamente na fatura, em favor do consumidor sempre que houvesse interrupção no fornecimento de energia elétrica, qualquer que fosse a causa, inclusive desastres naturais. Segundo o STF, essa lei estadual é: O STF declarou inconstitucional a lei estadual por invadir a competência da União para explorar os serviços de energia elétrica e fixar política tarifária (arts. 21, XII, 'b', 22, IV e 175, CF/88), e por comprometer o equilíbrio econômico-financeiro dos contratos de concessão (art. 37, XXI, CF/88) ao criar ônus financeiro novo e extraordinário não previsto na regulação federal. A competência concorrente sobre consumo não autoriza o Estado a interferir na relação contratual com o poder concedente federal."
+    },
+    {
+      "id": "pcprjur-obj-028",
+      "topic": "Legitimidade universal da OAB para ADI estadual",
+      "question": "A Constituição de determinado Estado inclui o Conselho Seccional da OAB entre os legitimados a propor ADI perante o Tribunal de Justiça, mas o Tribunal local interpretou que essa legitimidade alcançaria apenas leis ou atos normativos estaduais, vedada a impugnação de normas municipais. Segundo o STF:",
+      "options": {
+        "c": "A interpretação do Tribunal de Justiça está correta, pois a Constituição estadual pode livremente restringir o objeto da ADI proposta pela OAB, já que não era obrigada a incluí-la entre os legitimados.",
+        "b": "Uma vez que a Constituição estadual optou por incluir o Conselho Seccional da OAB entre os legitimados, essa legitimidade tem caráter universal, sendo inconstitucional a norma que restringe seu exercício apenas a leis estaduais, vedando a impugnação de normas municipais.",
+        "d": "A legitimidade da OAB para propor ADI perante o Tribunal de Justiça somente pode ser exercida em conjunto com o Ministério Público estadual, como litisconsórcio necessário.",
+        "e": "A Constituição estadual não pode, em hipótese alguma, incluir a OAB entre os legitimados a propor ADI perante o Tribunal de Justiça, por se tratar de matéria reservada à Constituição Federal.",
+        "a": "A restrição é constitucional, pois normas municipais somente podem ser impugnadas, no controle concentrado estadual, pelo próprio Município ou por seu Prefeito."
+      },
+      "correct": "b",
+      "explanation": "O STF entendeu que, embora a Constituição estadual não fosse obrigada a incluir a OAB entre os legitimados à ADI estadual, uma vez feita essa opção, a legitimidade tem caráter universal, alcançando leis estaduais e municipais — é inconstitucional a norma (ou interpretação) que restrinja esse exercício, por violar a natureza institucional da OAB e a amplitude de sua legitimação no controle concentrado.\n\nSTF. Plenário. ADI 7.821/CE, Rel. Min. Gilmar Mendes, julgado em 10/06/2026 (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 7.821/CE, Rel. Min. Gilmar Mendes, julgado em 10/06/2026 (Info 1220)."
+      },
+      "subject": "Legitimidade universal da OAB para ADI estadual",
+      "difficulty": "dificil",
+      "miniLesson": "A Constituição de determinado Estado inclui o Conselho Seccional da OAB entre os legitimados a propor ADI perante o Tribunal de Justiça, mas o Tribunal local interpretou que essa legitimidade alcançaria apenas leis ou atos normativos estaduais, vedada a impugnação de normas municipais. Segundo o STF: O STF entendeu que, embora a Constituição estadual não fosse obrigada a incluir a OAB entre os legitimados à ADI estadual, uma vez feita essa opção, a legitimidade tem caráter universal, alcançando leis estaduais e municipais — é inconstitucional a norma (ou interpretação) que restrinja esse exercício, por violar a natureza institucional da OAB e a amplitude de sua legitimação no controle concentrado."
+    },
+    {
+      "id": "pcprjur-obj-029",
+      "topic": "Aposentadoria compulsória de magistrado como sanção após a EC 103/2019",
+      "question": "Um magistrado foi punido, em processo administrativo disciplinar, com a pena de aposentadoria compulsória, punição mantida pelo CNJ em sede de revisão disciplinar. Levado o caso ao STF, a Corte decidiu que, após a EC 103/2019:",
+      "options": {
+        "c": "A aposentadoria compulsória como sanção disciplinar a magistrados continua válida, pois a EC 103/2019 tratou apenas do regime geral de previdência, sem afetar o regime próprio da magistratura.",
+        "a": "A aposentadoria compulsória punitiva não foi recepcionada pela Constituição, pois o art. 40 da CF/88, com a redação da EC 103/2019, define de forma exaustiva as modalidades de aposentadoria do regime próprio, nenhuma delas punitiva; a sanção cabível passou a ser a perda do cargo, mediante ação de competência originária do STF ajuizada pela AGU.",
+        "e": "A aposentadoria compulsória punitiva foi substituída pela disponibilidade remunerada, sanção que pode ser aplicada diretamente pelo CNJ, sem necessidade de ação judicial.",
+        "d": "A perda do cargo do magistrado, após a EC 103/2019, pode ser decretada diretamente pelo CNJ, sem necessidade de sentença judicial transitada em julgado, em razão da urgência das infrações graves.",
+        "b": "A ação de perda do cargo de magistrado, após a falta grave reconhecida pelo CNJ, deve ser ajuizada pelo Ministério Público Federal perante o Tribunal de Justiça do Estado de origem do magistrado."
+      },
+      "correct": "a",
+      "explanation": "O STF entendeu que a aposentadoria compulsória como sanção não foi recepcionada após a EC 103/2019, que definiu exaustivamente as modalidades de aposentadoria do regime próprio (nenhuma punitiva). Extinta essa penalidade, a consequência das infrações graves passa a ser a perda do cargo, mediante ação de competência originária do STF (art. 102, I, 'r', CF/88), a ser ajuizada pela AGU quando o CNJ considerar cabível a punição mais gravosa — respeitada a vitaliciedade, que exige sentença judicial, e não decisão administrativa.\n\nSTF. 1ª Turma. AO 2.870 AgR-AgR e AgR-segundo/DF, Rel. Min. Flávio Dino, julgado em 26/05/2026 (Info 1219).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. 1ª Turma. AO 2.870 AgR-AgR e AgR-segundo/DF, Rel. Min. Flávio Dino, julgado em 26/05/2026 (Info 1219)."
+      },
+      "subject": "Aposentadoria compulsória de magistrado como sanção após a EC 103/2019",
+      "difficulty": "dificil",
+      "miniLesson": "Um magistrado foi punido, em processo administrativo disciplinar, com a pena de aposentadoria compulsória, punição mantida pelo CNJ em sede de revisão disciplinar. Levado o caso ao STF, a Corte decidiu que, após a EC 103/2019: O STF entendeu que a aposentadoria compulsória como sanção não foi recepcionada após a EC 103/2019, que definiu exaustivamente as modalidades de aposentadoria do regime próprio (nenhuma punitiva). Extinta essa penalidade, a consequência das infrações graves passa a ser a perda do cargo, mediante ação de competência originária do STF (art. 102, I, 'r', CF/88), a ser ajuizada pela AGU quando o CNJ considerar cabível a punição mais gravosa — respeitada a vitaliciedade, que exige sentença judicial, e não decisão administrativa."
+    },
+    {
+      "id": "pcprjur-obj-030",
+      "topic": "Competência para licenciamento ambiental de antenas de telefonia (ERBs)",
+      "question": "Lei estadual exigiu licenciamento ambiental estadual como condição para a instalação e operação de Estações Rádio-Base (ERBs) — antenas de telefonia celular —, sob o argumento de proteção ao meio ambiente em razão da radiação eletromagnética não ionizante emitida. Segundo o STF, essa exigência é:",
+      "options": {
+        "e": "Constitucional, pois a proteção ao meio ambiente é matéria de competência concorrente, autorizando os Estados a condicionar qualquer atividade potencialmente poluidora a licenciamento próprio.",
+        "d": "Inconstitucional, por violar a competência privativa da União para legislar sobre telecomunicações e a competência exclusiva da União para explorar esses serviços, tratando-se de setor já exaustivamente regulado por leis federais.",
+        "c": "Constitucional, desde que o Estado demonstre risco concreto e específico à saúde da população local, superando a presunção de segurança dos limites fixados pela regulação federal.",
+        "b": "Inconstitucional, mas apenas em relação às antenas instaladas em áreas urbanas, sendo válida a exigência para instalações em áreas rurais ou de proteção ambiental especial.",
+        "a": "Constitucional, pois o licenciamento ambiental estadual não interfere na exploração do serviço de telecomunicações propriamente dito, apenas nas condições de instalação física da estrutura."
+      },
+      "correct": "d",
+      "explanation": "O STF reafirmou que é inconstitucional norma estadual que exige licenciamento ambiental para ERBs, por violar a competência privativa da União para legislar sobre telecomunicações (art. 22, IV, CF/88) e sua competência exclusiva para explorar esses serviços (art. 21, XI, CF/88) — setor já exaustivamente regulado pelas Leis nº 9.472/97, 11.934/2009 e 13.116/2015. A competência ambiental concorrente dos Estados não autoriza condicionamentos sobre atividade cuja disciplina federal já é exaustiva.\n\nSTF. Plenário. ADI 7.888/GO, Rel. Min. Cristiano Zanin, julgado em 01/06/2026 (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 7.888/GO, Rel. Min. Cristiano Zanin, julgado em 01/06/2026 (Info 1220)."
+      },
+      "subject": "Competência para licenciamento ambiental de antenas de telefonia (ERBs)",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual exigiu licenciamento ambiental estadual como condição para a instalação e operação de Estações Rádio-Base (ERBs) — antenas de telefonia celular —, sob o argumento de proteção ao meio ambiente em razão da radiação eletromagnética não ionizante emitida. Segundo o STF, essa exigência é: O STF reafirmou que é inconstitucional norma estadual que exige licenciamento ambiental para ERBs, por violar a competência privativa da União para legislar sobre telecomunicações (art. 22, IV, CF/88) e sua competência exclusiva para explorar esses serviços (art. 21, XI, CF/88) — setor já exaustivamente regulado pelas Leis nº 9.472/97, 11.934/2009 e 13.116/2015. A competência ambiental concorrente dos Estados não autoriza condicionamentos sobre atividade cuja disciplina federal já é exaustiva."
+    },
+    {
+      "id": "pcprjur-obj-031",
+      "topic": "Aquisição compulsória de créditos de carbono por seguradoras",
+      "question": "Lei federal obrigou seguradoras, entidades de previdência privada aberta, sociedades de capitalização e resseguradores a investir, imediatamente e sem período de adaptação, ao menos 0,5% de suas reservas técnicas e provisões na compra de créditos de carbono. Segundo o STF, esse dispositivo é:",
+      "options": {
+        "c": "Constitucional, pois compete à União, de forma discricionária, escolher os agentes econômicos que arcarão com os custos da transição para uma economia de baixo carbono.",
+        "e": "Inconstitucional, por violar a isonomia e o princípio do poluidor-pagador (já que as entidades obrigadas não são as principais emissoras de gases de efeito estufa), a livre iniciativa, a proporcionalidade e a segurança jurídica, diante da exigência imediata sem regras de transição.",
+        "a": "Constitucional, pois a política ambiental pode legitimamente onerar qualquer setor econômico com reservas financeiras robustas, independentemente de sua contribuição para o problema ambiental.",
+        "d": "Inconstitucional, mas apenas por vício formal, já que a matéria deveria ter sido disciplinada por lei complementar, e não por lei ordinária.",
+        "b": "Constitucional, desde que os créditos de carbono adquiridos sejam contabilizados como parte das reservas técnicas exigidas pela regulação do setor de seguros."
+      },
+      "correct": "e",
+      "explanation": "O STF declarou inconstitucional a exigência por violar: (i) a isonomia e o princípio do poluidor-pagador, pois as entidades obrigadas foram escolhidas por terem reservas financeiras líquidas, e não por serem grandes emissoras; (ii) a livre iniciativa e a livre concorrência, ao suprimir a liberdade de avaliação de segurança e liquidez dos investimentos; (iii) a proporcionalidade, por faltar conexão entre o fim (redução de emissões) e o meio (compra por não emissores); e (iv) a segurança jurídica, pela exigência imediata sem regras de transição.\n\nSTF. Plenário. ADI 7.795/DF, Rel. Min. Flávio Dino, julgado em 01/06/2026 (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 7.795/DF, Rel. Min. Flávio Dino, julgado em 01/06/2026 (Info 1220)."
+      },
+      "subject": "Aquisição compulsória de créditos de carbono por seguradoras",
+      "difficulty": "dificil",
+      "miniLesson": "Lei federal obrigou seguradoras, entidades de previdência privada aberta, sociedades de capitalização e resseguradores a investir, imediatamente e sem período de adaptação, ao menos 0,5% de suas reservas técnicas e provisões na compra de créditos de carbono. Segundo o STF, esse dispositivo é: O STF declarou inconstitucional a exigência por violar: (i) a isonomia e o princípio do poluidor-pagador, pois as entidades obrigadas foram escolhidas por terem reservas financeiras líquidas, e não por serem grandes emissoras; (ii) a livre iniciativa e a livre concorrência, ao suprimir a liberdade de avaliação de segurança e liquidez dos investimentos; (iii) a proporcionalidade, por faltar conexão entre o fim (redução de emissões) e o meio (compra por não emissores); e (iv) a segurança jurídica, pela exigência imediata sem regras de transição."
+    },
+    {
+      "id": "pcprjur-obj-032",
+      "topic": "Autorização legislativa para concessão de uso de bem público",
+      "question": "A Constituição de determinado Estado exigia prévia autorização da Assembleia Legislativa tanto para a alienação quanto para a concessão de uso de bens imóveis estaduais, sem distinguir valor ou natureza do bem. Segundo o STF, essa exigência, quanto à concessão de uso, é:",
+      "options": {
+        "d": "Constitucional, pois qualquer ato de disposição de bem público, inclusive a concessão de uso, deve se submeter ao controle prévio do Poder Legislativo, em respeito ao princípio da indisponibilidade do patrimônio público.",
+        "a": "Inconstitucional, pois a concessão de uso, ao contrário da alienação, não retira o bem do patrimônio público e constitui típico ato de gestão administrativa inserido na reserva de administração do Poder Executivo, sendo a exigência de autorização legislativa prévia restrita, pela Constituição Federal, à alienação.",
+        "c": "Constitucional, mas apenas para concessões de uso com prazo superior a 10 anos, hipótese em que a irreversibilidade prática se aproxima da alienação.",
+        "e": "Inconstitucional, mas apenas porque a competência para autorizar atos de gestão patrimonial é exclusiva do Tribunal de Contas, e não da Assembleia Legislativa.",
+        "b": "Constitucional, pois a reserva de administração é conceito doutrinário sem amparo constitucional expresso, não podendo ser invocada para afastar o controle legislativo sobre o patrimônio público."
+      },
+      "correct": "a",
+      "explanation": "O STF entendeu que a concessão de uso é ato de gestão administrativa (o bem permanece no patrimônio público), inserido na reserva de administração do Executivo; a Constituição Federal só exige autorização legislativa para a alienação, situação potencialmente irreversível (art. 49, XVII, CF/88; art. 76, I, da Lei nº 14.133/2021). Exigir autorização prévia também para a concessão de uso viola a separação dos Poderes.\n\nSTF. Plenário. ADI 6.891/AP, Rel. Min. Nunes Marques, red. p/ o acórdão Min. Alexandre de Moraes, julgado em 01/06/2026 (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 6.891/AP, Rel. Min. Nunes Marques, red. p/ o acórdão Min. Alexandre de Moraes, julgado em 01/06/2026 (Info 1220)."
+      },
+      "subject": "Autorização legislativa para concessão de uso de bem público",
+      "difficulty": "dificil",
+      "miniLesson": "A Constituição de determinado Estado exigia prévia autorização da Assembleia Legislativa tanto para a alienação quanto para a concessão de uso de bens imóveis estaduais, sem distinguir valor ou natureza do bem. Segundo o STF, essa exigência, quanto à concessão de uso, é: O STF entendeu que a concessão de uso é ato de gestão administrativa (o bem permanece no patrimônio público), inserido na reserva de administração do Executivo; a Constituição Federal só exige autorização legislativa para a alienação, situação potencialmente irreversível (art. 49, XVII, CF/88; art. 76, I, da Lei nº 14.133/2021). Exigir autorização prévia também para a concessão de uso viola a separação dos Poderes."
+    },
+    {
+      "id": "pcprjur-obj-033",
+      "topic": "Microrregião única de saneamento básico e governança não paritária",
+      "question": "Lei complementar estadual extinguiu as microrregiões de saneamento básico até então existentes e instituiu uma única microrregião, reunindo o Estado e todos os seus Municípios em uma autarquia interfederativa cujo colegiado atribui 40% dos votos ao Estado e 60% aos Municípios, distribuídos conforme a população. Segundo o STF, essa lei é:",
+      "options": {
+        "e": "Inconstitucional, pois viola a autonomia municipal ao impor, de forma compulsória, a integração de todos os Municípios a uma única estrutura regional de saneamento.",
+        "b": "Constitucional, pois a Constituição autoriza os Estados a instituir, por lei complementar, microrregiões para a gestão de funções públicas de interesse comum como o saneamento básico, admitida governança não paritária, desde que nenhum ente concentre isoladamente o poder decisório.",
+        "d": "Inconstitucional, pois a Constituição exige que toda microrregião interfederativa adote sistema paritário de votos entre o Estado e o conjunto dos Municípios.",
+        "a": "Constitucional, mas apenas se cada Município mantiver o direito de se retirar unilateralmente da microrregião a qualquer tempo, sem necessidade de nova lei complementar.",
+        "c": "Inconstitucional, pois o saneamento básico é matéria de interesse exclusivamente local, não podendo ser objeto de gestão regionalizada compulsória."
+      },
+      "correct": "b",
+      "explanation": "O STF julgou constitucional a lei, com base no art. 25, § 3º, da CF/88, que autoriza os Estados a instituírem microrregiões para funções públicas de interesse comum, como o saneamento básico (que tipicamente ultrapassa os limites de um único Município). A criação compulsória não afronta a autonomia municipal quando voltada à gestão integrada, sendo admitida governança não paritária, desde que assegurada participação efetiva dos Municípios e que nenhum ente concentre sozinho o poder decisório.\n\nSTF. Plenário. ADI 7.705/SE, Rel. Min. Cristiano Zanin, julgado em 01/06/2026 (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. ADI 7.705/SE, Rel. Min. Cristiano Zanin, julgado em 01/06/2026 (Info 1220)."
+      },
+      "subject": "Microrregião única de saneamento básico e governança não paritária",
+      "difficulty": "dificil",
+      "miniLesson": "Lei complementar estadual extinguiu as microrregiões de saneamento básico até então existentes e instituiu uma única microrregião, reunindo o Estado e todos os seus Municípios em uma autarquia interfederativa cujo colegiado atribui 40% dos votos ao Estado e 60% aos Municípios, distribuídos conforme a população. Segundo o STF, essa lei é: O STF julgou constitucional a lei, com base no art. 25, § 3º, da CF/88, que autoriza os Estados a instituírem microrregiões para funções públicas de interesse comum, como o saneamento básico (que tipicamente ultrapassa os limites de um único Município). A criação compulsória não afronta a autonomia municipal quando voltada à gestão integrada, sendo admitida governança não paritária, desde que assegurada participação efetiva dos Municípios e que nenhum ente concentre sozinho o poder decisório."
+    },
+    {
+      "id": "pcprjur-obj-034",
+      "topic": "Exasperação da pena-base no homicídio quando a vítima deixa filhos menores",
+      "question": "Ao fixar a pena-base de um condenado por homicídio, o juiz valorou negativamente, a título de consequências do crime, o fato de a vítima ter deixado filhos menores órfãos. A defesa alegou bis in idem, por se tratar de efeito inerente à morte, elementar do próprio tipo penal. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1394):",
+      "options": {
+        "b": "É inválida a exasperação, pois a morte da vítima já é o resultado inerente ao tipo de homicídio, e qualquer de seus desdobramentos jamais pode ser valorado na dosimetria, sob pena de bis in idem.",
+        "d": "É válida a exasperação da pena-base em razão das consequências do delito, na hipótese de a vítima de homicídio haver deixado filho(s) menor(es) de idade, pois a orfandade não é efeito inerente ao tipo — nem toda vítima de homicídio deixa filhos menores.",
+        "c": "A exasperação somente é válida se comprovado, por laudo pericial, o efetivo abalo psicológico sofrido por cada filho menor da vítima.",
+        "a": "A existência de filhos menores só pode ser considerada na fixação da pena se o réu tinha conhecimento prévio dessa circunstância antes de praticar o crime.",
+        "e": "A valoração das consequências do crime está reservada exclusivamente aos crimes dolosos contra a vida praticados com motivo torpe, não se aplicando ao homicídio simples."
+      },
+      "correct": "d",
+      "explanation": "O STJ fixou, no Tema 1394, que é válida a exasperação da pena-base em razão das consequências do delito quando a vítima de homicídio deixa filhos menores, pois a morte (resultado típico) não pode ser valorada negativamente, mas a orfandade — que nem toda vítima deixa — é circunstância que transcende o tipo e repercute material e emocionalmente sobre pessoas em formação, autorizando a valoração desfavorável.\n\nSTJ. 3ª Seção. REsp 2.195.921-AL, Rel. Min. Reynaldo Soares da Fonseca, julgado em 7/5/2026 (Recurso Repetitivo – Tema 1394) (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.195.921-AL, Rel. Min. Reynaldo Soares da Fonseca, julgado em 7/5/2026 (Recurso Repetitivo – Tema 1394) (Info 890)."
+      },
+      "subject": "Exasperação da pena-base no homicídio quando a vítima deixa filhos menores",
+      "difficulty": "dificil",
+      "miniLesson": "Ao fixar a pena-base de um condenado por homicídio, o juiz valorou negativamente, a título de consequências do crime, o fato de a vítima ter deixado filhos menores órfãos. A defesa alegou bis in idem, por se tratar de efeito inerente à morte, elementar do próprio tipo penal. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1394): O STJ fixou, no Tema 1394, que é válida a exasperação da pena-base em razão das consequências do delito quando a vítima de homicídio deixa filhos menores, pois a morte (resultado típico) não pode ser valorada negativamente, mas a orfandade — que nem toda vítima deixa — é circunstância que transcende o tipo e repercute material e emocionalmente sobre pessoas em formação, autorizando a valoração desfavorável."
+    },
+    {
+      "id": "pcprjur-obj-035",
+      "topic": "Dissenso superveniente e configuração do estupro",
+      "question": "Um casal iniciou consensualmente uma relação sexual; no curso do ato, a mulher manifestou que não queria mais continuar e tentou se desvencilhar, mas o homem, ciente da recusa, prosseguiu mediante força física, causando lesão física relevante. Segundo o STJ, essa conduta:",
+      "options": {
+        "c": "É atípica, pois o consentimento inicial para a prática do ato sexual abrange todo o seu desenvolvimento, sendo irrelevante a manifestação de recusa posterior ao início da relação.",
+        "e": "Configura estupro, pois o consentimento inicial não autoriza a continuidade forçada do ato após o dissenso superveniente da vítima, sendo a elementar 'violência' do art. 213 do CP configurada pela continuidade mediante força física após a discordância manifestada.",
+        "d": "Configura erro de tipo, já que o agente iniciou o ato de forma consentida e poderia legitimamente supor a persistência do consentimento durante toda a relação.",
+        "b": "Configura apenas o crime de lesão corporal, já que o início consensual da relação sexual afasta, por definição legal, a tipificação do crime de estupro.",
+        "a": "É atípica, salvo se a vítima demonstrar resistência física ativa e contínua até o fim do ato, não bastando a manifestação verbal de recusa."
+      },
+      "correct": "e",
+      "explanation": "O STJ fixou que o consentimento inicial não autoriza o parceiro a obrigar a continuidade do ato; havendo dissenso superveniente e prosseguimento mediante força física, configura-se a elementar 'violência' do art. 213 do CP, ainda que a relação tenha começado consentida. Não há erro de tipo quando o agente foi informado do dissenso e, mesmo assim, prosseguiu — e a passividade posterior da vítima, após perceber que resistir não impedirá o ato, não significa consentimento.\n\nSTJ. 5ª Turma. AgRg no AREsp 3.089.315-SP, Rel. Min. Reynaldo Soares da Fonseca, julgado em 19/5/2026 (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 5ª Turma. AgRg no AREsp 3.089.315-SP, Rel. Min. Reynaldo Soares da Fonseca, julgado em 19/5/2026 (Info 890)."
+      },
+      "subject": "Dissenso superveniente e configuração do estupro",
+      "difficulty": "dificil",
+      "miniLesson": "Um casal iniciou consensualmente uma relação sexual; no curso do ato, a mulher manifestou que não queria mais continuar e tentou se desvencilhar, mas o homem, ciente da recusa, prosseguiu mediante força física, causando lesão física relevante. Segundo o STJ, essa conduta: O STJ fixou que o consentimento inicial não autoriza o parceiro a obrigar a continuidade do ato; havendo dissenso superveniente e prosseguimento mediante força física, configura-se a elementar 'violência' do art. 213 do CP, ainda que a relação tenha começado consentida. Não há erro de tipo quando o agente foi informado do dissenso e, mesmo assim, prosseguiu — e a passividade posterior da vítima, após perceber que resistir não impedirá o ato, não significa consentimento."
+    },
+    {
+      "id": "pcprjur-obj-036",
+      "topic": "Mandado de injunção e cultivo doméstico de Cannabis medicinal",
+      "question": "Paciente com quadro clínico grave, sem sucesso em tratamentos convencionais e com prescrição de Cannabis rica em THC, impetrou mandado de injunção contra a Anvisa e o Ministério da Saúde pedindo autorização judicial para importar sementes, cultivar a planta e produzir seu próprio medicamento, sob o argumento de omissão normativa sobre cultivo doméstico individual. Segundo o STJ:",
+      "options": {
+        "b": "O mandado de injunção deve ser concedido sempre que o tratamento convencional se revelar ineficaz, por força do direito fundamental à saúde e da dignidade da pessoa humana.",
+        "e": "O mandado de injunção não pode ser usado para criar, por decisão judicial, um regime de cultivo doméstico de Cannabis para uso terapêutico individual, pois o direito à saúde não confere ao indivíduo direito fundamental de cultivar planta proscrita, sob pena de ofensa à separação de poderes.",
+        "c": "O pedido deveria ter sido formulado como ação civil pública pela Defensoria Pública, e não como mandado de injunção, individual por natureza.",
+        "d": "O mandado de injunção é incabível na hipótese, não por afronta à separação de poderes, mas porque não há qualquer disciplina normativa, ainda que parcial, sobre produtos à base de Cannabis no ordenamento brasileiro.",
+        "a": "O STJ concedeu parcialmente a ordem, autorizando a importação de sementes, mas não o cultivo da planta em território nacional."
+      },
+      "correct": "e",
+      "explanation": "O STJ rejeitou o pedido: o mandado de injunção pressupõe omissão normativa que inviabilize direito constitucional, mas o ordenamento já contempla disciplina parcial sobre Cannabis medicinal (produtos industrializados, importação excepcional, autorizações a pessoas jurídicas), não havendo omissão absoluta. Autorizar judicialmente o cultivo doméstico individual criaria regime excepcional à margem da fiscalização estatal, o que ofenderia a separação de poderes.\n\nSTJ. Corte Especial. MI 379-DF, Rel. Min. Og Fernandes, julgado em 6/5/2026 (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. Corte Especial. MI 379-DF, Rel. Min. Og Fernandes, julgado em 6/5/2026 (Info 890)."
+      },
+      "subject": "Mandado de injunção e cultivo doméstico de Cannabis medicinal",
+      "difficulty": "dificil",
+      "miniLesson": "Paciente com quadro clínico grave, sem sucesso em tratamentos convencionais e com prescrição de Cannabis rica em THC, impetrou mandado de injunção contra a Anvisa e o Ministério da Saúde pedindo autorização judicial para importar sementes, cultivar a planta e produzir seu próprio medicamento, sob o argumento de omissão normativa sobre cultivo doméstico individual. Segundo o STJ: O STJ rejeitou o pedido: o mandado de injunção pressupõe omissão normativa que inviabilize direito constitucional, mas o ordenamento já contempla disciplina parcial sobre Cannabis medicinal (produtos industrializados, importação excepcional, autorizações a pessoas jurídicas), não havendo omissão absoluta. Autorizar judicialmente o cultivo doméstico individual criaria regime excepcional à margem da fiscalização estatal, o que ofenderia a separação de poderes."
+    },
+    {
+      "id": "pcprjur-obj-037",
+      "topic": "Posse de arma de fogo com registro vencido pertencente a terceiro falecido",
+      "question": "Após o falecimento do pai, proprietário regular de um revólver cujo registro havia vencido anos antes sem recadastramento, o filho, que passou a residir no imóvel onde a arma permaneceu guardada (ainda sem partilha do espólio), teve a arma apreendida em seu poder. Segundo o STJ:",
+      "options": {
+        "a": "A conduta é atípica, pois a jurisprudência do STJ reconhece a atipicidade material da posse de arma com registro vencido em qualquer hipótese, bastando que o artefato tenha sido, em algum momento, regularmente registrado.",
+        "d": "A conduta configura crime, pois a atipicidade da posse de arma com registro vencido aplica-se apenas ao próprio proprietário que deixa de recadastrar o artefato — situação que permite ao Poder Público rastreá-la —, e não se estende ao terceiro que a possui sem regularização da sucessão, ainda que na condição de herdeiro.",
+        "b": "A conduta é atípica, pois a condição de herdeiro legitima automaticamente a posse da arma até a partilha do espólio, independentemente da regularidade do registro.",
+        "c": "A conduta configura crime apenas se comprovado que o filho tinha conhecimento do vencimento do registro à época do falecimento do pai, exigindo-se dolo específico quanto a esse fato.",
+        "e": "A conduta é atípica, equiparando-se à hipótese do próprio titular que deixa de recadastrar a arma, pois o dever de recadastramento se transmite automaticamente aos herdeiros com a abertura da sucessão."
+      },
+      "correct": "d",
+      "explanation": "O STJ distinguiu as hipóteses: a atipicidade material da posse de arma com registro vencido só se aplica quando o próprio titular, que a registrou regularmente, deixa de renovar a documentação (o Poder Público continua sabendo da existência da arma). Essa lógica não se estende a terceiro que possui arma alheia sem regularização sucessória — a condição de herdeiro não legitima a posse sem essa regularização.\n\nSTJ. 6ª Turma. REsp 2.201.660-RS, Rel. Min. Sebastião Reis Júnior, julgado em 19/5/2026 (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.201.660-RS, Rel. Min. Sebastião Reis Júnior, julgado em 19/5/2026 (Info 890)."
+      },
+      "subject": "Posse de arma de fogo com registro vencido pertencente a terceiro falecido",
+      "difficulty": "dificil",
+      "miniLesson": "Após o falecimento do pai, proprietário regular de um revólver cujo registro havia vencido anos antes sem recadastramento, o filho, que passou a residir no imóvel onde a arma permaneceu guardada (ainda sem partilha do espólio), teve a arma apreendida em seu poder. Segundo o STJ: O STJ distinguiu as hipóteses: a atipicidade material da posse de arma com registro vencido só se aplica quando o próprio titular, que a registrou regularmente, deixa de renovar a documentação (o Poder Público continua sabendo da existência da arma). Essa lógica não se estende a terceiro que possui arma alheia sem regularização sucessória — a condição de herdeiro não legitima a posse sem essa regularização."
+    },
+    {
+      "id": "pcprjur-obj-038",
+      "topic": "Grupo reflexivo como condição do sursis em violência doméstica",
+      "question": "Condenado por lesão corporal em contexto de violência doméstica (art. 129, § 13, do CP) e beneficiado com sursis, o réu foi obrigado, como condição especial, a frequentar cursos e palestras sobre violência contra a mulher (grupo reflexivo). A defesa alegou que a imposição, genérica e sem prazo específico, deveria ser afastada. Segundo o STJ:",
+      "options": {
+        "a": "A condição deve ser decotada, pois toda condição especial do sursis exige, sob pena de nulidade, fundamentação exaustiva e fixação de prazo específico já na sentença condenatória.",
+        "c": "A participação em grupo reflexivo pode ser imposta como condição do sursis (arts. 79 do CP e 152, parágrafo único, da LEP); em casos de violência doméstica, o 'poderá' dos dispositivos protetivos deve ser lido como poder-dever do magistrado, e a ausência de fundamentação exaustiva ou de prazo específico na sentença não impede a imposição, podendo ser detalhada na execução.",
+        "e": "A imposição de grupo reflexivo como condição do sursis é incompatível com a natureza do benefício, que pressupõe apenas condições de caráter patrimonial ou restritivo de direitos, e não pedagógico.",
+        "b": "A condição somente pode ser imposta mediante concordância expressa do réu, sob pena de violar o princípio da voluntariedade do sursis.",
+        "d": "O grupo reflexivo só pode ser imposto quando o crime de violência doméstica for de natureza sexual, não se aplicando aos crimes de lesão corporal."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou que a participação em grupo reflexivo é condição especial válida do sursis, e que, em violência doméstica, o verbo 'poderá' das normas protetivas deve ser lido como poder-dever do magistrado, à luz da Lei Maria da Penha, para prevenir a reincidência. A ausência de fundamentação exaustiva e de prazo específico na sentença não impede a imposição, podendo a medida ser detalhada na audiência admonitória e na execução.\n\nSTJ. 5ª Turma. REsp 2.259.899-RJ, Rel. Min. Maria Marluce Caldas, julgado em 12/5/2026 (Info 891).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 5ª Turma. REsp 2.259.899-RJ, Rel. Min. Maria Marluce Caldas, julgado em 12/5/2026 (Info 891)."
+      },
+      "subject": "Grupo reflexivo como condição do sursis em violência doméstica",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por lesão corporal em contexto de violência doméstica (art. 129, § 13, do CP) e beneficiado com sursis, o réu foi obrigado, como condição especial, a frequentar cursos e palestras sobre violência contra a mulher (grupo reflexivo). A defesa alegou que a imposição, genérica e sem prazo específico, deveria ser afastada. Segundo o STJ: O STJ fixou que a participação em grupo reflexivo é condição especial válida do sursis, e que, em violência doméstica, o verbo 'poderá' das normas protetivas deve ser lido como poder-dever do magistrado, à luz da Lei Maria da Penha, para prevenir a reincidência. A ausência de fundamentação exaustiva e de prazo específico na sentença não impede a imposição, podendo a medida ser detalhada na audiência admonitória e na execução."
+    },
+    {
+      "id": "pcprjur-obj-039",
+      "topic": "Natureza da prestação paga à mulher afastada do trabalho por violência doméstica (Tema 1.370)",
+      "question": "O STF fixou que o juízo criminal pode determinar o afastamento remunerado da mulher vítima de violência doméstica do local de trabalho (art. 9º, § 2º, II, da Lei Maria da Penha). Em embargos de declaração sobre o Tema 1.370, a Corte esclareceu que:",
+      "options": {
+        "d": "Incide contribuição previdenciária sobre a prestação paga pelo INSS à mulher segurada afastada do trabalho, dada a natureza remuneratória do benefício.",
+        "b": "Não incide contribuição previdenciária sobre a prestação paga pelo INSS em decorrência do afastamento, por sua natureza análoga à do auxílio por incapacidade temporária; e, caso a vítima não seja segurada da previdência social, a verba assistencial é de responsabilidade dos Estados, do Distrito Federal ou dos Municípios, e não do INSS.",
+        "c": "A prestação, seja a mulher segurada ou não da previdência social, é sempre paga integralmente pelo empregador, cabendo ao INSS apenas ressarci-lo posteriormente.",
+        "a": "Não incide contribuição previdenciária sobre a prestação, mas a verba assistencial devida à mulher não segurada também deve ser custeada pelo INSS, por força do princípio da solidariedade.",
+        "e": "A responsabilidade pelo pagamento, em qualquer hipótese, é da União, cabendo aos Estados e Municípios apenas identificar as beneficiárias em situação de vulnerabilidade."
+      },
+      "correct": "b",
+      "explanation": "Em embargos de declaração ao Tema 1.370, o STF esclareceu que não incide contribuição previdenciária sobre a prestação paga pelo INSS à mulher segurada afastada do trabalho por violência doméstica (natureza análoga ao auxílio por incapacidade temporária) e que, se a vítima não for segurada da previdência social, a verba assistencial compete aos Estados, ao Distrito Federal ou aos Municípios (art. 22 da LOAS), e não ao INSS.\n\nSTF. Plenário. RE 1.520.468 ED/PR, Rel. Min. Flávio Dino, julgado em 01/06/2026 (Repercussão Geral – Tema 1.370) (Info 1220).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Junho/2026",
+        "citation": "STF. Plenário. RE 1.520.468 ED/PR, Rel. Min. Flávio Dino, julgado em 01/06/2026 (Repercussão Geral – Tema 1.370) (Info 1220)."
+      },
+      "subject": "Natureza da prestação paga à mulher afastada do trabalho por violência doméstica (Tema 1.370)",
+      "difficulty": "dificil",
+      "miniLesson": "O STF fixou que o juízo criminal pode determinar o afastamento remunerado da mulher vítima de violência doméstica do local de trabalho (art. 9º, § 2º, II, da Lei Maria da Penha). Em embargos de declaração sobre o Tema 1.370, a Corte esclareceu que: Em embargos de declaração ao Tema 1.370, o STF esclareceu que não incide contribuição previdenciária sobre a prestação paga pelo INSS à mulher segurada afastada do trabalho por violência doméstica (natureza análoga ao auxílio por incapacidade temporária) e que, se a vítima não for segurada da previdência social, a verba assistencial compete aos Estados, ao Distrito Federal ou aos Municípios (art. 22 da LOAS), e não ao INSS."
+    },
+    {
+      "id": "pcprjur-obj-040",
+      "topic": "Impossibilidade de converter pena restritiva de direitos em prisão quando já há pena privativa em curso",
+      "question": "Um condenado já cumpria pena privativa de liberdade em regime semiaberto quando sobreveio nova condenação, nesse segundo processo substituída por penas restritivas de direitos. O juízo da execução converteu essas penas alternativas em privativa de liberdade e as unificou com a pena já em curso, por entender inviável o cumprimento simultâneo. Segundo o STJ:",
+      "options": {
+        "d": "A conversão e a unificação foram corretas, pois os arts. 44, § 5º, do CP e 181, § 1º, 'e', da LEP autorizam a conversão sempre que houver incompatibilidade de cumprimento simultâneo entre pena privativa e pena restritiva, independentemente da ordem cronológica das condenações.",
+        "a": "A conversão e a unificação foram incorretas: esses dispositivos pressupõem que a pena restritiva seja a anterior e a prisão, a superveniente — situação inversa à do caso —, de modo que a solução correta é suspender a execução da pena restritiva de direitos até que se torne possível cumpri-la, sem converter nem unificar as penas.",
+        "c": "A conversão foi correta, mas a unificação foi indevida, devendo as penas privativas de liberdade resultantes serem cumpridas em regimes distintos e sucessivos.",
+        "b": "Nem a conversão nem a suspensão são cabíveis: a pena restritiva de direitos superveniente deve ser simplesmente extinta, por impossibilidade jurídica de cumprimento.",
+        "e": "A solução correta seria a extinção da pena privativa de liberdade em curso, para viabilizar o imediato cumprimento da pena restritiva de direitos mais recente."
+      },
+      "correct": "a",
+      "explanation": "O STJ entendeu que os dispositivos que autorizam a conversão da pena restritiva em privativa de liberdade pressupõem que a pena alternativa seja a anterior e a prisão, a superveniente — não amparando a situação inversa. Como a substituição foi concedida por sentença transitada em julgado, converter a pena alternativa em prisão depois agravaria a situação do condenado além do decidido, ofendendo a coisa julgada; a solução correta é suspender a execução da pena restritiva até que se torne possível compatibilizá-la com a pena privativa em curso.\n\nSTJ. 5ª Turma. AgRg no HC 1.080.161-RS, Rel. Min. Ribeiro Dantas, julgado em 13/5/2026 (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 5ª Turma. AgRg no HC 1.080.161-RS, Rel. Min. Ribeiro Dantas, julgado em 13/5/2026 (Info 890)."
+      },
+      "subject": "Impossibilidade de converter pena restritiva de direitos em prisão quando já há pena privativa em curso",
+      "difficulty": "dificil",
+      "miniLesson": "Um condenado já cumpria pena privativa de liberdade em regime semiaberto quando sobreveio nova condenação, nesse segundo processo substituída por penas restritivas de direitos. O juízo da execução converteu essas penas alternativas em privativa de liberdade e as unificou com a pena já em curso, por entender inviável o cumprimento simultâneo. Segundo o STJ: O STJ entendeu que os dispositivos que autorizam a conversão da pena restritiva em privativa de liberdade pressupõem que a pena alternativa seja a anterior e a prisão, a superveniente — não amparando a situação inversa. Como a substituição foi concedida por sentença transitada em julgado, converter a pena alternativa em prisão depois agravaria a situação do condenado além do decidido, ofendendo a coisa julgada; a solução correta é suspender a execução da pena restritiva até que se torne possível compatibilizá-la com a pena privativa em curso."
+    },
+    {
+      "id": "pcprjur-obj-041",
+      "topic": "Termo inicial da execução de pena por delito praticado no livramento condicional (Tema 1.367)",
+      "question": "Durante o período de prova de seu livramento condicional (que não foi suspenso nem revogado), um reeducando praticou novo crime, permanecendo preso cautelarmente e sendo condenado a nova pena privativa de liberdade. Encerrado o período de prova, a pena anterior foi declarada extinta (art. 90 do CP). Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.367), o termo inicial da execução da nova pena é:",
+      "options": {
+        "d": "A data da prisão cautelar pelo novo crime, computando-se esse mesmo período tanto para exaurir a pena anterior quanto como início da nova pena, por força da detração penal.",
+        "b": "O dia subsequente ao fim do período de prova do livramento condicional, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas, já que o período de prova é tempo de cumprimento da pena anterior.",
+        "e": "A data do trânsito em julgado da nova condenação, independentemente de quando se encerrou o período de prova do livramento condicional anterior.",
+        "a": "A data em que o novo crime foi praticado, retroagindo os efeitos da nova execução a esse momento.",
+        "c": "Inexiste termo inicial específico, devendo as duas penas ser cumpridas simultaneamente desde a prisão cautelar, sem prejuízo de detração."
+      },
+      "correct": "b",
+      "explanation": "O STJ fixou que o livramento condicional é o último estágio da execução — o período de prova é tempo de cumprimento da pena anterior, não período neutro. Encerrado o período de prova sem suspensão/revogação, a pena antiga é declarada extinta como integralmente cumprida, sem saldo para detração futura; por isso, o termo inicial da nova pena é o dia subsequente ao fim do período de prova, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas.\n\nSTJ. 3ª Seção. REsp 2.205.262-RJ e outros, Rel. Min. Sebastião Reis Júnior, julgados em 7/5/2026 (Recurso Repetitivo – Tema 1367) (Info 890).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 3ª Seção. REsp 2.205.262-RJ e outros, Rel. Min. Sebastião Reis Júnior, julgados em 7/5/2026 (Recurso Repetitivo – Tema 1367) (Info 890)."
+      },
+      "subject": "Termo inicial da execução de pena por delito praticado no livramento condicional (Tema 1.367)",
+      "difficulty": "dificil",
+      "miniLesson": "Durante o período de prova de seu livramento condicional (que não foi suspenso nem revogado), um reeducando praticou novo crime, permanecendo preso cautelarmente e sendo condenado a nova pena privativa de liberdade. Encerrado o período de prova, a pena anterior foi declarada extinta (art. 90 do CP). Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.367), o termo inicial da execução da nova pena é: O STJ fixou que o livramento condicional é o último estágio da execução — o período de prova é tempo de cumprimento da pena anterior, não período neutro. Encerrado o período de prova sem suspensão/revogação, a pena antiga é declarada extinta como integralmente cumprida, sem saldo para detração futura; por isso, o termo inicial da nova pena é o dia subsequente ao fim do período de prova, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas."
+    },
+    {
+      "id": "pcprjur-obj-042",
+      "topic": "Ilicitude da prisão em flagrante e contaminação dos atos investigativos derivados",
+      "question": "Policiais prenderam em flagrante dois suspeitos de estelionato sem que estivesse presente qualquer das hipóteses do art. 302 do CPP (sem perseguição ou outra situação de flagrância), apreendendo seus celulares. Os suspeitos consentiram com o acesso aos aparelhos e forneceram as senhas, sendo em seguida interrogados. Segundo o STJ:",
+      "options": {
+        "b": "A ilicitude da prisão em flagrante não contamina os atos investigativos subsequentes quando há consentimento do investigado, por se tratar de renúncia válida à proteção contra a autoincriminação.",
+        "d": "A ilicitude da prisão em flagrante contamina os atos investigativos que dela derivam, como os interrogatórios e os dados extraídos dos celulares, pela teoria dos frutos da árvore envenenada; o consentimento do investigado ou eventual autorização judicial posterior não afasta a nulidade quando evidenciado o nexo causal com o ato ilícito originário e inexistente fonte independente.",
+        "a": "A ilicitude da prisão em flagrante somente contamina os atos investigativos praticados no mesmo dia da prisão, preservando-se os praticados em dias subsequentes.",
+        "e": "A prisão foi lícita, pois a notícia-crime prestada pela vítima já caracteriza situação de flagrância que dispensa a observância estrita do art. 302 do CPP.",
+        "c": "A nulidade da prisão em flagrante gera apenas o relaxamento da custódia, sem qualquer repercussão sobre a validade das provas colhidas na investigação."
+      },
+      "correct": "d",
+      "explanation": "O STJ reconheceu a ilicitude da prisão, por ausência das hipóteses do art. 302 do CPP, e aplicou a teoria dos frutos da árvore envenenada: essa ilicitude contamina os atos investigativos subsequentes (interrogatórios, dados dos celulares), não sendo o consentimento do investigado ou a autorização judicial posterior suficientes para afastar a nulidade quando evidenciado o nexo causal com o ato originariamente ilícito e ausente fonte independente.\n\nSTJ. 5ª Turma. AgRg no HC 1.041.047-GO, Rel. Min. Maria Marluce Caldas, julgado em 22/4/2026 (Info 891).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 5ª Turma. AgRg no HC 1.041.047-GO, Rel. Min. Maria Marluce Caldas, julgado em 22/4/2026 (Info 891)."
+      },
+      "subject": "Ilicitude da prisão em flagrante e contaminação dos atos investigativos derivados",
+      "difficulty": "dificil",
+      "miniLesson": "Policiais prenderam em flagrante dois suspeitos de estelionato sem que estivesse presente qualquer das hipóteses do art. 302 do CPP (sem perseguição ou outra situação de flagrância), apreendendo seus celulares. Os suspeitos consentiram com o acesso aos aparelhos e forneceram as senhas, sendo em seguida interrogados. Segundo o STJ: O STJ reconheceu a ilicitude da prisão, por ausência das hipóteses do art. 302 do CPP, e aplicou a teoria dos frutos da árvore envenenada: essa ilicitude contamina os atos investigativos subsequentes (interrogatórios, dados dos celulares), não sendo o consentimento do investigado ou a autorização judicial posterior suficientes para afastar a nulidade quando evidenciado o nexo causal com o ato originariamente ilícito e ausente fonte independente."
+    },
+    {
+      "id": "pcprjur-obj-043",
+      "topic": "Cadeia de custódia da prova digital e recebimento da denúncia",
+      "question": "Antes do recebimento de denúncia contra um Governador de Estado por fraude à licitação e peculato-desvio, a defesa arguiu quebra da cadeia de custódia de provas digitais, pois computadores e celulares foram manuseados por policiais no momento da apreensão sem perícia oficial prévia. O STJ rejeitou as preliminares e recebeu a denúncia, sob o entendimento de que:",
+      "options": {
+        "d": "A inobservância da cadeia de custódia (arts. 158-A a 158-F do CPP) gera nulidade processual automática, independentemente de demonstração concreta de adulteração ou prejuízo.",
+        "c": "A observância da cadeia de custódia não se relaciona a nulidades processuais, mas à eficácia da prova, a ser apreciada no caso concreto; a quebra exige demonstração concreta de adulteração ou prejuízo, sendo prematuro, no momento do recebimento da denúncia, emitir juízo conclusivo sobre a idoneidade dos vestígios digitais.",
+        "a": "A cadeia de custódia somente é exigível para provas físicas tradicionais (armas, drogas), não se aplicando a evidências digitais, que se regem por disciplina própria e menos rigorosa.",
+        "e": "O agente policial jamais pode realizar verificação ou coleta preliminar de dados em celular apreendido, sendo indispensável, sob pena de nulidade absoluta, a atuação prévia de perito oficial.",
+        "b": "A denúncia deveria ter sido rejeitada, pois o standard probatório para o recebimento da denúncia é idêntico ao exigido para a condenação, não sendo admissível prova cuja cadeia de custódia é questionada."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou que a cadeia de custódia (arts. 158-A a 158-F do CPP) não se relaciona a nulidades processuais, mas à eficácia da prova, apreciável no caso concreto; seu descumprimento não gera nulidade automática, exigindo-se demonstração concreta de adulteração ou prejuízo. Como o standard para receber a denúncia é menor que o exigido para condenar, é prematuro, nessa fase, emitir juízo conclusivo sobre a idoneidade dos vestígios digitais. Além disso, o agente policial pode realizar coleta preliminar de dados durante a busca e apreensão, sem necessidade imediata de perito oficial.\n\nSTJ. Corte Especial. Inq 1.674-DF, Rel. Min. Nancy Andrighi, julgado em 6/5/2026 (Info 891).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. Corte Especial. Inq 1.674-DF, Rel. Min. Nancy Andrighi, julgado em 6/5/2026 (Info 891)."
+      },
+      "subject": "Cadeia de custódia da prova digital e recebimento da denúncia",
+      "difficulty": "dificil",
+      "miniLesson": "Antes do recebimento de denúncia contra um Governador de Estado por fraude à licitação e peculato-desvio, a defesa arguiu quebra da cadeia de custódia de provas digitais, pois computadores e celulares foram manuseados por policiais no momento da apreensão sem perícia oficial prévia. O STJ rejeitou as preliminares e recebeu a denúncia, sob o entendimento de que: O STJ fixou que a cadeia de custódia (arts. 158-A a 158-F do CPP) não se relaciona a nulidades processuais, mas à eficácia da prova, apreciável no caso concreto; seu descumprimento não gera nulidade automática, exigindo-se demonstração concreta de adulteração ou prejuízo. Como o standard para receber a denúncia é menor que o exigido para condenar, é prematuro, nessa fase, emitir juízo conclusivo sobre a idoneidade dos vestígios digitais. Além disso, o agente policial pode realizar coleta preliminar de dados durante a busca e apreensão, sem necessidade imediata de perito oficial."
+    },
+    {
+      "id": "pcprjur-obj-044",
+      "topic": "Competência para apurar a falta de advogado à sessão do júri após a Lei 14.752/2023",
+      "question": "Advogados que não compareceram à sessão do Tribunal do Júri, causando seu adiamento, foram multados pelo juiz da causa por ato atentatório à dignidade da justiça, com base no art. 3º do CPP combinado com o art. 77 do CPC. Segundo o STJ, após a Lei nº 14.752/2023:",
+      "options": {
+        "c": "A multa foi corretamente aplicada, pois o art. 77 do CPC se aplica subsidiariamente ao processo penal, alcançando qualquer sujeito processual, inclusive advogados, que pratique ato atentatório à dignidade da justiça.",
+        "d": "A multa é indevida: a Lei nº 14.752/2023 suprimiu a multa por abandono de causa do art. 265 do CPP, e o próprio art. 77, § 6º, do CPC exclui os advogados da sanção pecuniária por ato atentatório à dignidade da justiça, cabendo à OAB, com exclusividade, apurar a conduta.",
+        "b": "A multa é devida, mas em valor reduzido, cabendo ao juiz arbitrá-la com base na capacidade financeira do advogado, e não nos parâmetros do art. 77 do CPC.",
+        "e": "A competência para apurar a falta é do próprio juiz da causa, mas a sanção cabível não é multa, e sim a comunicação do fato ao Tribunal de Justiça para fins de responsabilização funcional.",
+        "a": "A Lei nº 14.752/2023 não alterou a competência do juiz criminal para aplicar multa a advogados, tendo apenas reduzido o valor máximo da sanção pecuniária cabível."
+      },
+      "correct": "d",
+      "explanation": "O STJ cassou a multa: a Lei nº 14.752/2023 alterou o art. 265 do CPP e suprimiu a multa por abandono de causa, retirando do juiz criminal a competência para sancionar pecuniariamente advogados, que devem ter sua conduta comunicada à OAB para apuração ética e disciplinar. Além disso, o art. 77, § 6º, do CPC expressamente exclui os advogados das sanções por ato atentatório à dignidade da justiça, reservando sua responsabilização ao Estatuto da Advocacia.\n\nSTJ. 6ª Turma. RMS 75.248-RS, Rel. Min. Sebastião Reis Júnior, julgado em 5/5/2026 (Info 891).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Junho/2026",
+        "citation": "STJ. 6ª Turma. RMS 75.248-RS, Rel. Min. Sebastião Reis Júnior, julgado em 5/5/2026 (Info 891)."
+      },
+      "subject": "Competência para apurar a falta de advogado à sessão do júri após a Lei 14.752/2023",
+      "difficulty": "dificil",
+      "miniLesson": "Advogados que não compareceram à sessão do Tribunal do Júri, causando seu adiamento, foram multados pelo juiz da causa por ato atentatório à dignidade da justiça, com base no art. 3º do CPP combinado com o art. 77 do CPC. Segundo o STJ, após a Lei nº 14.752/2023: O STJ cassou a multa: a Lei nº 14.752/2023 alterou o art. 265 do CPP e suprimiu a multa por abandono de causa, retirando do juiz criminal a competência para sancionar pecuniariamente advogados, que devem ter sua conduta comunicada à OAB para apuração ética e disciplinar. Além disso, o art. 77, § 6º, do CPC expressamente exclui os advogados das sanções por ato atentatório à dignidade da justiça, reservando sua responsabilização ao Estatuto da Advocacia."
     }
   ],
   "discursive": [],
