@@ -1448,6 +1448,972 @@
       "subject": "Nulidade de provas por violação aos direitos da vítima em crimes sexuais (caso Mariana Ferrer)",
       "difficulty": "dificil",
       "miniLesson": "Durante audiência de instrução em processo por estupro de vulnerável, a vítima foi hostilizada pelo advogado de defesa, que exibiu fotos suas e fez comentários humilhantes, sem que o juiz e o promotor presentes coibissem adequadamente a conduta. O réu foi absolvido em primeira e segunda instância. Levado o caso ao STF, a Corte decidiu que: O STF fixou que são nulas as provas obtidas na persecução penal de crimes sexuais com violação aos direitos fundamentais da vítima, por ação ou omissão dos atores processuais, estendendo-se a invalidade aos atos e provas dela diretamente derivados (art. 5º, LVI, CF/88); a nulidade pode ser decretada de ofício ou arguida pelo MP ou pela vítima; mas a sentença absolutória amparada em provas bastantes e independentes do depoimento da vítima não é anulada. A gravação das audiências, por sua vez, foi condicionada à concordância da vítima, e não tornada obrigatória de forma irrestrita."
+    },
+    {
+      "id": "pcprjur-obj-064",
+      "topic": "Recepção da Lei Ferrari (concessão comercial de veículos)",
+      "question": "A Lei nº 6.729/1979 (Lei Ferrari), editada sob a Constituição anterior, impõe contrato de concessão obrigatório, cláusula de exclusividade de marca, delimitação territorial e cotas de fornecimento na relação entre montadoras e concessionárias de veículos, restringindo a venda direta do fabricante ao consumidor. Impugnada por violação à livre iniciativa e à livre concorrência, o STF decidiu que essa lei é:",
+      "options": {
+        "e": "Incompatível com a ordem constitucional de 1988, por impor restrições incompatíveis com a livre iniciativa em qualquer hipótese de regulação setorial.",
+        "a": "Compatível com a ordem econômica de 1988, que admite regulação setorial de segmentos com especificidades (como a estrutura originalmente oligopolista do setor automotivo) ao lado da livre iniciativa, permanecendo o CADE competente para reprimir eventuais abusos do poder econômico.",
+        "b": "Compatível com a Constituição, mas apenas enquanto não sobrevier lei ordinária posterior tratando da mesma matéria, hipótese em que a Lei Ferrari seria automaticamente revogada.",
+        "c": "Incompatível com a Constituição, pois normas pré-constitucionais que regulam a atividade econômica não podem ser recepcionadas pela ordem de 1988, ainda que compatíveis materialmente.",
+        "d": "Compatível com a Constituição somente na parte relativa às cotas de fornecimento, sendo inconstitucional a cláusula de exclusividade de marca."
+      },
+      "correct": "a",
+      "explanation": "O STF entendeu que a Lei Ferrari é compatível com a ordem econômica de 1988, que admite regulação setorial ao lado da livre iniciativa, tratando-se de segmento com especificidade histórica (estrutura oligopolista) que justifica normas para equilibrar relações contratuais assimétricas; eventual aprimoramento é matéria de política legislativa, e o CADE permanece competente para reprimir abusos do poder econômico no setor.\n\nSTF. Plenário. ADPF 1.106/DF, Rel. Min. Edson Fachin, julgado em 23/04/2026 (Info 1214).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADPF 1.106/DF, Rel. Min. Edson Fachin, julgado em 23/04/2026 (Info 1214)."
+      },
+      "subject": "Recepção da Lei Ferrari (concessão comercial de veículos)",
+      "difficulty": "dificil",
+      "miniLesson": "A Lei nº 6.729/1979 (Lei Ferrari), editada sob a Constituição anterior, impõe contrato de concessão obrigatório, cláusula de exclusividade de marca, delimitação territorial e cotas de fornecimento na relação entre montadoras e concessionárias de veículos, restringindo a venda direta do fabricante ao consumidor. Impugnada por violação à livre iniciativa e à livre concorrência, o STF decidiu que essa lei é: O STF entendeu que a Lei Ferrari é compatível com a ordem econômica de 1988, que admite regulação setorial ao lado da livre iniciativa, tratando-se de segmento com especificidade histórica (estrutura oligopolista) que justifica normas para equilibrar relações contratuais assimétricas; eventual aprimoramento é matéria de política legislativa, e o CADE permanece competente para reprimir abusos do poder econômico no setor."
+    },
+    {
+      "id": "pcprjur-obj-065",
+      "topic": "Vedação estadual a cotas étnico-raciais no ensino superior",
+      "question": "Lei estadual, aprovada em menos de dois meses e sem audiência pública ou oitiva das instituições afetadas, vedou a adoção de cotas étnico-raciais (mas não outras ações afirmativas) em instituições de ensino superior públicas ou que recebam verbas públicas. Segundo o STF, essa lei é:",
+      "options": {
+        "c": "Constitucional, pois compete aos Estados, no exercício de sua autonomia, decidir livremente sobre a manutenção ou não de políticas de ação afirmativa em suas instituições de ensino.",
+        "a": "Inconstitucional, por violar a igualdade material (as ações afirmativas étnico-raciais a concretizam, e não a violam), a autonomia universitária e compromissos internacionais com status de emenda constitucional, além de a interrupção de política já consolidada exigir prévia avaliação técnica de seus efeitos, ausente no caso.",
+        "d": "Constitucional, desde que mantidas as cotas para Pessoas com Deficiência e as de critério econômico, sendo as cotas étnico-raciais as únicas que a Constituição efetivamente veda.",
+        "e": "Inconstitucional, mas apenas por vício formal de processo legislativo, em razão da ausência de audiência pública, sendo o conteúdo da vedação, em si, compatível com a Constituição.",
+        "b": "Constitucional, pois a Convenção Interamericana contra o Racismo não possui força normativa no direito interno brasileiro, não podendo ser invocada como parâmetro de controle de constitucionalidade."
+      },
+      "correct": "a",
+      "explanation": "O STF julgou a lei inconstitucional: as ações afirmativas étnico-raciais concretizam a igualdade material, e não a violam; a Convenção Interamericana contra o Racismo foi internalizada com status de emenda constitucional (art. 5º, § 3º, CF/88) e funciona como parâmetro de controle; e a interrupção de política pública de ação afirmativa já consolidada exige prévia avaliação de seus efeitos e das consequências de sua descontinuidade, o que não ocorreu.\n\nSTF. Plenário. ADI 7.925/SC e outras, Rel. Min. Gilmar Mendes, julgados em 22/04/2026 (Info 1213).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.925/SC e outras, Rel. Min. Gilmar Mendes, julgados em 22/04/2026 (Info 1213)."
+      },
+      "subject": "Vedação estadual a cotas étnico-raciais no ensino superior",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual, aprovada em menos de dois meses e sem audiência pública ou oitiva das instituições afetadas, vedou a adoção de cotas étnico-raciais (mas não outras ações afirmativas) em instituições de ensino superior públicas ou que recebam verbas públicas. Segundo o STF, essa lei é: O STF julgou a lei inconstitucional: as ações afirmativas étnico-raciais concretizam a igualdade material, e não a violam; a Convenção Interamericana contra o Racismo foi internalizada com status de emenda constitucional (art. 5º, § 3º, CF/88) e funciona como parâmetro de controle; e a interrupção de política pública de ação afirmativa já consolidada exige prévia avaliação de seus efeitos e das consequências de sua descontinuidade, o que não ocorreu."
+    },
+    {
+      "id": "pcprjur-obj-066",
+      "topic": "Restrições à aquisição de imóvel rural por empresa brasileira de capital estrangeiro",
+      "question": "O § 1º do art. 1º da Lei nº 5.709/1971 estende às empresas brasileiras cuja maioria do capital pertença a estrangeiro residente no exterior as mesmas restrições impostas à aquisição de imóvel rural por empresa estrangeira. Impugnado o dispositivo sob o argumento de que a EC nº 6/1995 (que revogou o art. 171 da CF/88) teria eliminado a base constitucional para distinguir empresas por origem de capital, o STF decidiu que esse dispositivo:",
+      "options": {
+        "c": "Não foi recepcionado, pois, sem o art. 171 da CF/88, não subsiste fundamento constitucional para tratamento diferenciado de empresas em razão da origem do capital.",
+        "a": "Foi recepcionado, pois os arts. 172 e 190 da CF/88, não atingidos pela EC nº 6/1995, permanecem como fundamento autônomo e suficiente para a distinção, e o termo 'estrangeira' do art. 190 deve alcançar também a empresa brasileira controlada por capital externo, sob pena de burla ao texto constitucional.",
+        "d": "Foi recepcionado, mas apenas em relação a imóveis rurais destinados à exploração agrícola, não se aplicando a imóveis com outras destinações.",
+        "b": "Não foi recepcionado, pois a proteção à soberania e à segurança nacional, embora relevante, não pode fundamentar restrição a investimentos estrangeiros na ordem econômica de 1988.",
+        "e": "Foi recepcionado apenas para pessoas jurídicas, não se aplicando a pessoas físicas estrangeiras residentes no Brasil, categoria não mais prevista após a EC nº 6/1995."
+      },
+      "correct": "a",
+      "explanation": "O STF entendeu que, embora a EC nº 6/1995 tenha revogado o art. 171 da CF/88, os arts. 172 e 190 permanecem vigentes e bastam como fundamento constitucional para a distinção. O termo 'estrangeira' do art. 190 deve ser lido de modo a alcançar a empresa brasileira controlada por capital externo, para evitar que a mera constituição formal de pessoa jurídica nacional sirva para burlar as restrições, que protegem soberania, segurança nacional e meio ambiente.\n\nSTF. Plenário. ADPF 342/DF e ACO 2.463/DF, Rel. Min. Marco Aurélio, red. p/ o acórdão Min. Gilmar Mendes, julgado em 23/04/2026 (Info 1214).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADPF 342/DF e ACO 2.463/DF, Rel. Min. Marco Aurélio, red. p/ o acórdão Min. Gilmar Mendes, julgado em 23/04/2026 (Info 1214)."
+      },
+      "subject": "Restrições à aquisição de imóvel rural por empresa brasileira de capital estrangeiro",
+      "difficulty": "dificil",
+      "miniLesson": "O § 1º do art. 1º da Lei nº 5.709/1971 estende às empresas brasileiras cuja maioria do capital pertença a estrangeiro residente no exterior as mesmas restrições impostas à aquisição de imóvel rural por empresa estrangeira. Impugnado o dispositivo sob o argumento de que a EC nº 6/1995 (que revogou o art. 171 da CF/88) teria eliminado a base constitucional para distinguir empresas por origem de capital, o STF decidiu que esse dispositivo: O STF entendeu que, embora a EC nº 6/1995 tenha revogado o art. 171 da CF/88, os arts. 172 e 190 permanecem vigentes e bastam como fundamento constitucional para a distinção. O termo 'estrangeira' do art. 190 deve ser lido de modo a alcançar a empresa brasileira controlada por capital externo, para evitar que a mera constituição formal de pessoa jurídica nacional sirva para burlar as restrições, que protegem soberania, segurança nacional e meio ambiente."
+    },
+    {
+      "id": "pcprjur-obj-067",
+      "topic": "Condenação do Ministério Público em sucumbência (Tema 1.382)",
+      "question": "Derrotado em embargos à execução opostos por um ex-agente público, o Ministério Público foi condenado pelo Tribunal de origem, com base nas regras gerais do CPC sobre sucumbência, ao pagamento de custas, despesas processuais e honorários advocatícios. Segundo a tese fixada pelo STF em repercussão geral (Tema 1.382):",
+      "options": {
+        "a": "A condenação foi correta, pois o Ministério Público, quando atua como parte em juízo, submete-se ao mesmo regime de sucumbência aplicável aos demais litigantes, sem qualquer prerrogativa.",
+        "d": "O Ministério Público não pode ser condenado ao pagamento de custas processuais e honorários de sucumbência quando derrotado em ações judiciais, sob pena de violar sua independência e autonomia; deve, porém, custear, com dotações orçamentárias próprias, os gastos com perícias por ele requeridas.",
+        "c": "O Ministério Público não pode ser condenado a nenhum encargo financeiro decorrente de sua atuação processual, incluindo os custos de perícias que requerer.",
+        "b": "A vedação à condenação em sucumbência aplica-se apenas quando o Ministério Público atua como fiscal da lei (custos legis), e não quando figura como parte, como ocorreu na execução do caso.",
+        "e": "A condenação em honorários é vedada, mas a condenação em custas e despesas processuais é válida, por não comprometerem a autonomia institucional do Ministério Público."
+      },
+      "correct": "d",
+      "explanation": "O STF fixou que o Ministério Público, instituição permanente essencial à função jurisdicional, não pode ser condenado a despesas processuais e honorários de sucumbência, sob pena de ferir sua independência e autonomia; contudo, os encargos com perícias por ele requeridas devem ser custeados pelo próprio órgão, com suas dotações orçamentárias (art. 127, § 3º, CF/88), observado o regime do art. 91 do CPC.\n\nSTF. Plenário. ARE 1.524.619/SP e ACO 1.560 AgR-terceiro/MS, Rel. Min. Alexandre de Moraes, julgados em 29/04/2026 (Repercussão Geral – Tema 1382) (Info 1215).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ARE 1.524.619/SP e ACO 1.560 AgR-terceiro/MS, Rel. Min. Alexandre de Moraes, julgados em 29/04/2026 (Repercussão Geral – Tema 1382) (Info 1215)."
+      },
+      "subject": "Condenação do Ministério Público em sucumbência (Tema 1.382)",
+      "difficulty": "dificil",
+      "miniLesson": "Derrotado em embargos à execução opostos por um ex-agente público, o Ministério Público foi condenado pelo Tribunal de origem, com base nas regras gerais do CPC sobre sucumbência, ao pagamento de custas, despesas processuais e honorários advocatícios. Segundo a tese fixada pelo STF em repercussão geral (Tema 1.382): O STF fixou que o Ministério Público, instituição permanente essencial à função jurisdicional, não pode ser condenado a despesas processuais e honorários de sucumbência, sob pena de ferir sua independência e autonomia; contudo, os encargos com perícias por ele requeridas devem ser custeados pelo próprio órgão, com suas dotações orçamentárias (art. 127, § 3º, CF/88), observado o regime do art. 91 do CPC."
+    },
+    {
+      "id": "pcprjur-obj-068",
+      "topic": "Obrigatoriedade de inscrição de advogados públicos na OAB (Tema 936)",
+      "question": "Um Advogado da União sustentou que a aprovação em concurso público e a posse no cargo, cujas atribuições constitucionais consistem em representar a União em juízo, já lhe conferiam capacidade postulatória, tornando desnecessária e indevida a exigência de inscrição na OAB e o pagamento de anuidade. Segundo a tese fixada pelo STF (Tema 936):",
+      "options": {
+        "e": "A inscrição na OAB é dispensável para advogados públicos, pois a investidura no cargo público já lhes confere capacidade postulatória por força das atribuições constitucionais dos arts. 131 e 132 da CF/88.",
+        "a": "A inscrição na OAB é indispensável aos advogados públicos, pois a Constituição não estabelece distinção ontológica entre a advocacia pública e a privada, tratando-as como carreira única essencial à administração da Justiça (art. 133, CF/88); no exercício do cargo, contudo, esses profissionais submetem-se exclusivamente ao poder disciplinar do órgão correicional da carreira.",
+        "c": "A inscrição é indispensável, mas os advogados públicos submetem-se, cumulativamente, ao poder disciplinar da OAB e ao do órgão correicional de sua carreira, podendo ser processados por ambos pelos mesmos fatos.",
+        "b": "A inscrição é facultativa, cabendo a cada ente federativo decidir, em lei própria, se exigirá ou não a inscrição de seus advogados públicos na OAB.",
+        "d": "A inscrição é indispensável apenas para os advogados públicos federais, não se estendendo às procuradorias estaduais e municipais."
+      },
+      "correct": "a",
+      "explanation": "O STF fixou que a inscrição na OAB é indispensável aos advogados públicos, por não haver distinção ontológica entre advocacia pública e privada (art. 133, CF/88), mas assegurou que, no exercício da função pública, esses profissionais se submetem exclusivamente ao poder disciplinar do órgão correicional de sua carreira, e não ao da OAB.\n\nSTF. Plenário. RE 609.517/RO, Rel. Min. Cristiano Zanin, red. p/ o acórdão Min. Edson Fachin, julgado em 30/04/2026 (Repercussão Geral – Tema 936) (Info 1215).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. RE 609.517/RO, Rel. Min. Cristiano Zanin, red. p/ o acórdão Min. Edson Fachin, julgado em 30/04/2026 (Repercussão Geral – Tema 936) (Info 1215)."
+      },
+      "subject": "Obrigatoriedade de inscrição de advogados públicos na OAB (Tema 936)",
+      "difficulty": "dificil",
+      "miniLesson": "Um Advogado da União sustentou que a aprovação em concurso público e a posse no cargo, cujas atribuições constitucionais consistem em representar a União em juízo, já lhe conferiam capacidade postulatória, tornando desnecessária e indevida a exigência de inscrição na OAB e o pagamento de anuidade. Segundo a tese fixada pelo STF (Tema 936): O STF fixou que a inscrição na OAB é indispensável aos advogados públicos, por não haver distinção ontológica entre advocacia pública e privada (art. 133, CF/88), mas assegurou que, no exercício da função pública, esses profissionais se submetem exclusivamente ao poder disciplinar do órgão correicional de sua carreira, e não ao da OAB."
+    },
+    {
+      "id": "pcprjur-obj-069",
+      "topic": "Critérios estaduais de inatividade de militares e simetria com as Forças Armadas",
+      "question": "Lei estadual fixou, para os militares estaduais, idade-limite de transferência à reserva e à reforma compatível com o piso das Forças Armadas, além de hipóteses adicionais e específicas de passagem à inatividade conforme o posto e o quadro do militar. Impugnada sob o argumento de invadir a competência da União para normas gerais sobre inatividade militar, o STF decidiu que essa lei estadual é:",
+      "options": {
+        "c": "Inconstitucional, pois qualquer disciplina sobre inatividade de militares estaduais é matéria de competência exclusiva da União, vedada a regulação suplementar pelos Estados.",
+        "e": "Constitucional, desde que respeite, como piso, a idade-limite das Forças Armadas para o posto correspondente (modelo de simetria relativa que não exige reprodução literal da lei federal), podendo disciplinar livremente os demais aspectos da inativação de acordo com as especificidades da carreira estadual.",
+        "b": "Inconstitucional, pois a simetria com as Forças Armadas exige reprodução literal e integral de todos os critérios federais de inatividade, sem margem de conformação para o legislador estadual.",
+        "d": "Constitucional apenas quanto à idade de transferência à reserva, sendo inconstitucional a fixação de idade para a reforma, matéria de competência exclusiva da União.",
+        "a": "Constitucional, mas apenas para o quadro de oficiais destinados a funções de comando, sendo inconstitucional a disciplina relativa aos demais quadros da corporação."
+      },
+      "correct": "e",
+      "explanation": "O STF entendeu que compete à União editar normas gerais sobre inatividades e pensões das polícias militares (art. 22, XXI, CF/88), cabendo aos Estados legislar sobre especificidades da carreira (art. 142, § 3º, X, CF/88). O modelo é de simetria relativa: a lei estadual deve respeitar, como piso, a idade-limite federal para o posto correspondente, mas pode disciplinar livremente os demais aspectos, sem necessidade de reproduzir literalmente a lei federal.\n\nSTF. Plenário. ADI 7.777/AL, Rel. Min. Alexandre de Moraes, julgado em 29/04/2026 (Info 1215).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.777/AL, Rel. Min. Alexandre de Moraes, julgado em 29/04/2026 (Info 1215)."
+      },
+      "subject": "Critérios estaduais de inatividade de militares e simetria com as Forças Armadas",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual fixou, para os militares estaduais, idade-limite de transferência à reserva e à reforma compatível com o piso das Forças Armadas, além de hipóteses adicionais e específicas de passagem à inatividade conforme o posto e o quadro do militar. Impugnada sob o argumento de invadir a competência da União para normas gerais sobre inatividade militar, o STF decidiu que essa lei estadual é: O STF entendeu que compete à União editar normas gerais sobre inatividades e pensões das polícias militares (art. 22, XXI, CF/88), cabendo aos Estados legislar sobre especificidades da carreira (art. 142, § 3º, X, CF/88). O modelo é de simetria relativa: a lei estadual deve respeitar, como piso, a idade-limite federal para o posto correspondente, mas pode disciplinar livremente os demais aspectos, sem necessidade de reproduzir literalmente a lei federal."
+    },
+    {
+      "id": "pcprjur-obj-070",
+      "topic": "Competência para legislar sobre portaria virtual em condomínios",
+      "question": "Lei distrital proibiu a instalação de portaria virtual em condomínios com mais de 45 unidades e, para os demais, exigiu contratação obrigatória de seguro específico contra sinistros. Segundo o STF, essa lei é:",
+      "options": {
+        "d": "Constitucional, pois compete aos Estados e ao Distrito Federal, no exercício de sua competência concorrente sobre direito do consumidor, disciplinar aspectos de segurança em condomínios residenciais.",
+        "e": "Inconstitucional, por usurpar a competência privativa da União para legislar sobre direito civil e política de seguros, além de violar materialmente a livre iniciativa, a livre concorrência e a propriedade privada.",
+        "a": "Constitucional, mas apenas na parte que exige contratação de seguro, sendo inconstitucional apenas a proibição de portaria virtual em condomínios maiores.",
+        "c": "Inconstitucional apenas quanto à exigência de seguro, sendo constitucional a proibição de portaria virtual em condomínios com mais de 45 unidades, por razão de segurança pública local.",
+        "b": "Constitucional, pois trata de matéria de interesse predominantemente local (segurança de condomínios), inserida na competência dos Municípios e, por extensão, do Distrito Federal."
+      },
+      "correct": "e",
+      "explanation": "O STF declarou a lei distrital formalmente inconstitucional por usurpar a competência privativa da União para legislar sobre direito civil e política de seguros, e materialmente inconstitucional por violar a livre iniciativa, a livre concorrência e a propriedade privada.\n\nSTF. Plenário. ADI 7.836/DF, Rel. Min. Nunes Marques, julgado em 12/05/2026 (Info 1216).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.836/DF, Rel. Min. Nunes Marques, julgado em 12/05/2026 (Info 1216)."
+      },
+      "subject": "Competência para legislar sobre portaria virtual em condomínios",
+      "difficulty": "dificil",
+      "miniLesson": "Lei distrital proibiu a instalação de portaria virtual em condomínios com mais de 45 unidades e, para os demais, exigiu contratação obrigatória de seguro específico contra sinistros. Segundo o STF, essa lei é: O STF declarou a lei distrital formalmente inconstitucional por usurpar a competência privativa da União para legislar sobre direito civil e política de seguros, e materialmente inconstitucional por violar a livre iniciativa, a livre concorrência e a propriedade privada."
+    },
+    {
+      "id": "pcprjur-obj-071",
+      "topic": "Omissão estadual na implementação do subsídio para delegados de polícia",
+      "question": "Mais de 25 anos após a EC nº 19/1998, um Estado ainda não havia editado lei implementando o regime de subsídio em parcela única para seus delegados de polícia, previsto no art. 144, § 9º, c/c o art. 39, § 4º, da CF/88, mantendo-os remunerados por vencimento básico acrescido de diversas parcelas. Diante de ADO ajuizada no STF, a Corte:",
+      "options": {
+        "c": "Julgou improcedente o pedido, por entender que a definição do momento de implementação do subsídio é matéria de discricionariedade política do Estado, insuscetível de controle judicial.",
+        "d": "Reconheceu a omissão inconstitucional, por configurar mora legislativa inequívoca que viola a transparência, a racionalidade administrativa e a uniformidade remuneratória, fixando prazo de 24 meses para sua superação.",
+        "b": "Reconheceu a omissão, mas se limitou a comunicar o fato à Assembleia Legislativa, sem fixação de prazo, por respeito à separação de poderes.",
+        "a": "Julgou improcedente o pedido, por entender que o regime de vencimento básico acrescido de parcelas já atende, em substância, ao comando do art. 39, § 4º, da CF/88.",
+        "e": "Reconheceu a omissão e determinou a imediata aplicação do subsídio por decisão judicial, dispensando qualquer processo legislativo estadual."
+      },
+      "correct": "d",
+      "explanation": "O STF reconheceu a omissão inconstitucional do Estado, por mora legislativa de mais de 25 anos na implementação do regime de subsídio em parcela única para os delegados de polícia (arts. 39, § 4º, e 144, § 9º, CF/88), fixando o prazo de 24 meses para a superação da mora — sem, contudo, implementar diretamente o subsídio por via judicial, respeitando o processo legislativo.\n\nSTF. Plenário. ADO 13/MG, Rel. Min. Marco Aurélio, red. p/ o acórdão Min. Cristiano Zanin, julgado em 30/04/2026 (Info 1215).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADO 13/MG, Rel. Min. Marco Aurélio, red. p/ o acórdão Min. Cristiano Zanin, julgado em 30/04/2026 (Info 1215)."
+      },
+      "subject": "Omissão estadual na implementação do subsídio para delegados de polícia",
+      "difficulty": "dificil",
+      "miniLesson": "Mais de 25 anos após a EC nº 19/1998, um Estado ainda não havia editado lei implementando o regime de subsídio em parcela única para seus delegados de polícia, previsto no art. 144, § 9º, c/c o art. 39, § 4º, da CF/88, mantendo-os remunerados por vencimento básico acrescido de diversas parcelas. Diante de ADO ajuizada no STF, a Corte: O STF reconheceu a omissão inconstitucional do Estado, por mora legislativa de mais de 25 anos na implementação do regime de subsídio em parcela única para os delegados de polícia (arts. 39, § 4º, e 144, § 9º, CF/88), fixando o prazo de 24 meses para a superação da mora — sem, contudo, implementar diretamente o subsídio por via judicial, respeitando o processo legislativo."
+    },
+    {
+      "id": "pcprjur-obj-072",
+      "topic": "Veto parental a atividades pedagógicas sobre gênero",
+      "question": "Lei estadual assegurou a pais e responsáveis o direito de vedar a participação de filhos em 'atividades pedagógicas de gênero' nas escolas, impondo às instituições o dever de informar previamente os pais e de cumprir sua vontade manifestada por escrito, sob pena de responsabilização civil e penal. Segundo o STF, essa lei é:",
+      "options": {
+        "d": "Constitucional, pois a educação dos filhos é dever primordial dos pais (art. 229, CF/88), que podem legitimamente vetar conteúdos pedagógicos com os quais não concordem, em qualquer nível de ensino.",
+        "a": "Inconstitucional, por invadir a competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, CF/88): a pretexto de regular matéria de interesse local, o Estado interferiu no currículo disciplinado pela LDB, criando norma conflitante com a norma nacional, o que ultrapassa os limites da competência suplementar dos Estados em matéria de educação.",
+        "e": "Constitucional, desde que a informação prévia aos pais seja fornecida com antecedência mínima de 30 dias, hipótese em que se consideraria atendido o devido processo pedagógico.",
+        "c": "Inconstitucional, mas apenas quanto à previsão de responsabilização penal das escolas, sendo válida a responsabilização meramente civil.",
+        "b": "Constitucional, por se inserir na competência concorrente dos Estados para legislar sobre educação, já que a matéria de gênero não está disciplinada de forma exaustiva pela legislação federal."
+      },
+      "correct": "a",
+      "explanation": "O STF julgou a lei formalmente inconstitucional, por invasão da competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, CF/88): na competência concorrente sobre educação, os Estados exercem competência suplementar apenas para atender peculiaridades locais, não podendo criar norma específica em descompasso com a norma nacional (LDB) — o que ocorreu ao assegurar veto parental e impor deveres às escolas em contrariedade ao currículo nacional.\n\nSTF. Plenário. ADI 7.847/ES, Rel. Min. Cármen Lúcia, julgado em 12/05/2026 (Info 1216).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.847/ES, Rel. Min. Cármen Lúcia, julgado em 12/05/2026 (Info 1216)."
+      },
+      "subject": "Veto parental a atividades pedagógicas sobre gênero",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual assegurou a pais e responsáveis o direito de vedar a participação de filhos em 'atividades pedagógicas de gênero' nas escolas, impondo às instituições o dever de informar previamente os pais e de cumprir sua vontade manifestada por escrito, sob pena de responsabilização civil e penal. Segundo o STF, essa lei é: O STF julgou a lei formalmente inconstitucional, por invasão da competência privativa da União para legislar sobre diretrizes e bases da educação nacional (art. 22, XXIV, CF/88): na competência concorrente sobre educação, os Estados exercem competência suplementar apenas para atender peculiaridades locais, não podendo criar norma específica em descompasso com a norma nacional (LDB) — o que ocorreu ao assegurar veto parental e impor deveres às escolas em contrariedade ao currículo nacional."
+    },
+    {
+      "id": "pcprjur-obj-073",
+      "topic": "Lei estadual sobre identificação alternativa em planos de saúde",
+      "question": "Lei estadual determinou que, quando o plano de saúde exigir aplicativo ou token para identificação do beneficiário, este poderá apresentar a carteira física como alternativa válida em caso de falha tecnológica, obrigando os planos a informar os usuários sobre essa possibilidade, sob pena de multa aplicada por órgão estadual de defesa do consumidor. Segundo o STF, essa lei é:",
+      "options": {
+        "b": "Inconstitucional, pois qualquer norma sobre identificação de beneficiários de planos de saúde interfere no conteúdo essencial do contrato, matéria de competência privativa da União sobre direito civil e política de seguros.",
+        "e": "Constitucional, pois não disciplina o conteúdo essencial dos contratos de assistência à saúde nem altera o equilíbrio econômico-financeiro das avenças, apenas assegurando, em situações excepcionais de falha tecnológica, a continuidade do acesso do beneficiário aos serviços — matéria de proteção do consumidor e da saúde, de competência concorrente dos Estados.",
+        "d": "Inconstitucional, pois a defesa do consumidor em relação a planos de saúde é matéria de competência exclusiva da Agência Nacional de Saúde Suplementar, vedada qualquer disciplina estadual complementar.",
+        "a": "Constitucional, mas apenas se a lei também alterar o valor das mensalidades para compensar o custo adicional imposto às operadoras pela manutenção do sistema físico alternativo.",
+        "c": "Inconstitucional, por criar obrigação de fiscalização a órgão estadual de defesa do consumidor em matéria que compete exclusivamente aos órgãos federais de regulação de saúde suplementar."
+      },
+      "correct": "e",
+      "explanation": "O STF considerou a lei constitucional: por não alterar o conteúdo essencial dos contratos de plano de saúde nem seu equilíbrio econômico-financeiro, mas apenas assegurar, em situação excepcional de falha tecnológica, a continuidade do acesso aos serviços, a norma se insere na competência concorrente dos Estados para proteção do consumidor e da saúde (art. 24, V e XII, CF/88), sem invadir a competência privativa da União sobre direito civil e seguros.\n\nSTF. Plenário. ADI 7.696/PB, Rel. Min. Nunes Marques, julgado em 05/05/2026 (Info 1216).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.696/PB, Rel. Min. Nunes Marques, julgado em 05/05/2026 (Info 1216)."
+      },
+      "subject": "Lei estadual sobre identificação alternativa em planos de saúde",
+      "difficulty": "dificil",
+      "miniLesson": "Lei estadual determinou que, quando o plano de saúde exigir aplicativo ou token para identificação do beneficiário, este poderá apresentar a carteira física como alternativa válida em caso de falha tecnológica, obrigando os planos a informar os usuários sobre essa possibilidade, sob pena de multa aplicada por órgão estadual de defesa do consumidor. Segundo o STF, essa lei é: O STF considerou a lei constitucional: por não alterar o conteúdo essencial dos contratos de plano de saúde nem seu equilíbrio econômico-financeiro, mas apenas assegurar, em situação excepcional de falha tecnológica, a continuidade do acesso aos serviços, a norma se insere na competência concorrente dos Estados para proteção do consumidor e da saúde (art. 24, V e XII, CF/88), sem invadir a competência privativa da União sobre direito civil e seguros."
+    },
+    {
+      "id": "pcprjur-obj-074",
+      "topic": "Vedação da exigência de 'aptidão plena' para PCD em concursos públicos",
+      "question": "Normas estaduais afastavam, para carreiras classificadas como de 'aptidão plena' (incluindo cargos militares), a reserva de vagas e a inscrição em igualdade de condições para pessoas com deficiência, permitindo a exclusão em exame de aptidão física em razão da própria deficiência. Segundo o STF, essas normas são:",
+      "options": {
+        "c": "Constitucionais, pois cabe a cada Estado, no exercício de sua competência suplementar sobre proteção à pessoa com deficiência, definir quais carreiras exigem aptidão plena e, portanto, ficam fora da reserva de vagas.",
+        "e": "Inconstitucionais, pois a norma geral federal (que veda expressamente a exigência de aptidão plena e exige apenas compatibilidade da deficiência com as tarefas do cargo) funciona como piso de proteção que os Estados podem ampliar, mas não reduzir, configurando a exigência de aptidão plena discriminação indireta que transfere ao indivíduo um ônus que é do Estado.",
+        "d": "Constitucionais, pois compete privativamente aos Estados disciplinar os requisitos de ingresso nas corporações militares estaduais, sem vinculação à legislação federal sobre pessoas com deficiência.",
+        "b": "Inconstitucionais, mas apenas quanto aos concursos militares, sendo válida a exigência de aptidão plena para os demais cargos públicos estaduais.",
+        "a": "Constitucionais, desde que a exigência de aptidão plena esteja prevista em lei estadual formal, e não apenas em decreto regulamentador, como ocorria em parte da normativa questionada."
+      },
+      "correct": "e",
+      "explanation": "O STF julgou inconstitucionais as normas estaduais: em temas de direitos fundamentais de grupos vulneráveis, a norma geral federal (que veda a exigência de aptidão plena, nos termos do art. 34, § 3º, da Lei nº 13.146/2015) funciona como piso de proteção, ampliável mas não redutível pelos Estados. A exigência de aptidão plena configura discriminação indireta, transferindo ao indivíduo um ônus (adaptação razoável, tecnologia assistiva) que é do Estado.\n\nSTF. Plenário. ADI 7.401/PI, Rel. Min. Nunes Marques, julgado em 18/05/2026 (Info 1217).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADI 7.401/PI, Rel. Min. Nunes Marques, julgado em 18/05/2026 (Info 1217)."
+      },
+      "subject": "Vedação da exigência de 'aptidão plena' para PCD em concursos públicos",
+      "difficulty": "dificil",
+      "miniLesson": "Normas estaduais afastavam, para carreiras classificadas como de 'aptidão plena' (incluindo cargos militares), a reserva de vagas e a inscrição em igualdade de condições para pessoas com deficiência, permitindo a exclusão em exame de aptidão física em razão da própria deficiência. Segundo o STF, essas normas são: O STF julgou inconstitucionais as normas estaduais: em temas de direitos fundamentais de grupos vulneráveis, a norma geral federal (que veda a exigência de aptidão plena, nos termos do art. 34, § 3º, da Lei nº 13.146/2015) funciona como piso de proteção, ampliável mas não redutível pelos Estados. A exigência de aptidão plena configura discriminação indireta, transferindo ao indivíduo um ônus (adaptação razoável, tecnologia assistiva) que é do Estado."
+    },
+    {
+      "id": "pcprjur-obj-075",
+      "topic": "Constitucionalidade da Lei da Igualdade Salarial",
+      "question": "A Lei nº 14.611/2023 obriga empresas com 100 ou mais empregados a publicar relatórios semestrais de transparência salarial com dados anonimizados, e, identificada disparidade injustificada entre homens e mulheres, a elaborar plano de ação com metas, prazos e participação sindical. Segundo o STF, essa lei é:",
+      "options": {
+        "c": "Inconstitucional, por representar ingerência indevida do Estado na livre iniciativa, impondo às empresas privadas obrigações de compliance incompatíveis com a autonomia da vontade contratual.",
+        "b": "Constitucional, por dar concretude à igualdade material e à vedação de distinção de renda por motivo de sexo (arts. 5º, I, e 7º, XXX, CF/88), sendo a publicidade de dados anonimizados e o plano de ação instrumentos compatíveis com a livre iniciativa, a LGPD e a Convenção 100 da OIT.",
+        "e": "Constitucional, mas apenas a obrigação de publicar relatórios, sendo inconstitucional a exigência de elaboração de plano de ação com metas e prazos, por configurar ingerência excessiva na gestão empresarial.",
+        "d": "Inconstitucional, pois a divulgação de dados de remuneração, ainda que anonimizados, viola necessariamente a LGPD e o sigilo empresarial.",
+        "a": "Constitucional apenas para empresas públicas e sociedades de economia mista, não podendo ser imposta a pessoas jurídicas de direito privado."
+      },
+      "correct": "b",
+      "explanation": "O STF julgou a lei constitucional: ela concretiza os objetivos fundamentais da República e a vedação de distinção de renda por sexo, sendo a divulgação de relatórios (com dados anonimizados, em observância à LGPD) e o plano de ação instrumentos de compliance compatíveis com a livre iniciativa e com a Convenção 100 da OIT, sem configurar ingerência estatal indevida na atividade empresarial.\n\nSTF. Plenário. ADC 92/DF, ADI 7.612/DF e ADI 7.631/DF, Rel. Min. Alexandre de Moraes, julgado em 14/05/2026 (Info 1217).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Constitucional",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ADC 92/DF, ADI 7.612/DF e ADI 7.631/DF, Rel. Min. Alexandre de Moraes, julgado em 14/05/2026 (Info 1217)."
+      },
+      "subject": "Constitucionalidade da Lei da Igualdade Salarial",
+      "difficulty": "dificil",
+      "miniLesson": "A Lei nº 14.611/2023 obriga empresas com 100 ou mais empregados a publicar relatórios semestrais de transparência salarial com dados anonimizados, e, identificada disparidade injustificada entre homens e mulheres, a elaborar plano de ação com metas, prazos e participação sindical. Segundo o STF, essa lei é: O STF julgou a lei constitucional: ela concretiza os objetivos fundamentais da República e a vedação de distinção de renda por sexo, sendo a divulgação de relatórios (com dados anonimizados, em observância à LGPD) e o plano de ação instrumentos de compliance compatíveis com a livre iniciativa e com a Convenção 100 da OIT, sem configurar ingerência estatal indevida na atividade empresarial."
+    },
+    {
+      "id": "pcprjur-obj-076",
+      "topic": "Responsabilidade pessoal do gestor por atraso no pagamento de precatórios",
+      "question": "Diante de grave crise financeira municipal, um prefeito priorizou o pagamento de salários, serviços essenciais e fornecedores, postergando o pagamento de precatórios, o que gerou juros moratórios ao Município. Em ação popular, buscou-se sua responsabilização pessoal pelo ressarcimento desses juros. Segundo o STJ:",
+      "options": {
+        "a": "A responsabilização é automática, pois o não pagamento de precatórios na ordem cronológica é sempre ilegal, dispensando-se a comprovação de dolo ou culpa grave do gestor.",
+        "e": "A responsabilização pessoal do gestor exige a demonstração de má-fé, dolo ou culpa grave, não bastando a mera ilegalidade decorrente de escolha política; a alocação de recursos para outras prioridades locais, dentro de projeto estratégico de equalização das contas em cenário de crise, afasta essa responsabilização.",
+        "c": "A responsabilização é sempre afastada quando o Município se encontra em crise financeira, independentemente de haver ou não plano estratégico de saneamento das contas.",
+        "d": "A responsabilização somente pode recair sobre o antecessor no cargo, que teria originado a crise financeira, e não sobre o gestor que administrou a situação herdada.",
+        "b": "A responsabilização depende exclusivamente de decisão prévia do Tribunal de Contas reconhecendo a irregularidade das contas do exercício em que ocorreu o atraso."
+      },
+      "correct": "e",
+      "explanation": "O STJ afastou a responsabilização pessoal do prefeito: ela exige má-fé, dolo ou culpa grave, não bastando a ilegalidade decorrente de escolhas políticas. A alocação de recursos para outras prioridades, em cenário de restrição fiscal e dentro de projeto estratégico de equalização das contas municipais, não caracteriza esse elemento subjetivo qualificado.\n\nSTJ. 1ª Turma. AgInt nos EDcl no AgInt no AREsp 1.206.636-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 7/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. AgInt nos EDcl no AgInt no AREsp 1.206.636-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 7/4/2026 (Info 885)."
+      },
+      "subject": "Responsabilidade pessoal do gestor por atraso no pagamento de precatórios",
+      "difficulty": "dificil",
+      "miniLesson": "Diante de grave crise financeira municipal, um prefeito priorizou o pagamento de salários, serviços essenciais e fornecedores, postergando o pagamento de precatórios, o que gerou juros moratórios ao Município. Em ação popular, buscou-se sua responsabilização pessoal pelo ressarcimento desses juros. Segundo o STJ: O STJ afastou a responsabilização pessoal do prefeito: ela exige má-fé, dolo ou culpa grave, não bastando a ilegalidade decorrente de escolhas políticas. A alocação de recursos para outras prioridades, em cenário de restrição fiscal e dentro de projeto estratégico de equalização das contas municipais, não caracteriza esse elemento subjetivo qualificado."
+    },
+    {
+      "id": "pcprjur-obj-077",
+      "topic": "Remoção de servidor por motivo de saúde (art. 36, parágrafo único, III, 'b', da Lei 8.112/1990)",
+      "question": "Laudo de junta médica oficial concluiu que a presença da família era essencial à recuperação de um servidor com graves problemas de saúde, recomendando sua remoção para a cidade onde residia o cônjuge, também servidor. A Administração indeferiu o pedido por entender que havia tratamento disponível na localidade de origem. Segundo o STJ:",
+      "options": {
+        "d": "A remoção por motivo de saúde é ato discricionário da Administração, que pode indeferi-la sempre que houver tratamento médico disponível na localidade de lotação, independentemente da conclusão da junta médica.",
+        "e": "A remoção prevista no art. 36, parágrafo único, III, 'b', da Lei 8.112/1990 constitui direito subjetivo do servidor, sendo ato vinculado quando comprovado o motivo de saúde por laudo de junta médica oficial; a existência de tratamento na localidade de lotação não afasta a remoção quando o laudo aponta a convivência familiar como fator determinante para a recuperação, não podendo o Judiciário substituir esse juízo técnico sem base pericial idônea.",
+        "c": "A remoção depende de comprovação de que não existe, em nenhuma hipótese, tratamento médico disponível na localidade de lotação do servidor.",
+        "a": "O Poder Judiciário pode livremente substituir a conclusão da junta médica oficial por seu próprio juízo sobre a necessidade da remoção, em nome do princípio da inafastabilidade da jurisdição.",
+        "b": "A remoção por motivo de saúde somente pode ser deferida se o cônjuge do servidor também for servidor público federal, requisito que restringe a aplicação do dispositivo."
+      },
+      "correct": "e",
+      "explanation": "O STJ fixou que a remoção por motivo de saúde (art. 36, parágrafo único, III, 'b', da Lei 8.112/1990) é direito subjetivo do servidor e ato vinculado quando comprovado por laudo de junta médica oficial; a existência de tratamento na localidade de lotação não afasta a remoção quando o laudo aponta a convivência familiar como determinante, e o Judiciário não pode substituir esse juízo técnico sem base pericial idônea.\n\nSTJ. 2ª Turma. REsp 2.151.392-DF, Rel. Min. Marco Aurélio Bellizze, julgado em 14/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 2ª Turma. REsp 2.151.392-DF, Rel. Min. Marco Aurélio Bellizze, julgado em 14/4/2026 (Info 885)."
+      },
+      "subject": "Remoção de servidor por motivo de saúde (art. 36, parágrafo único, III, 'b', da Lei 8.112/1990)",
+      "difficulty": "dificil",
+      "miniLesson": "Laudo de junta médica oficial concluiu que a presença da família era essencial à recuperação de um servidor com graves problemas de saúde, recomendando sua remoção para a cidade onde residia o cônjuge, também servidor. A Administração indeferiu o pedido por entender que havia tratamento disponível na localidade de origem. Segundo o STJ: O STJ fixou que a remoção por motivo de saúde (art. 36, parágrafo único, III, 'b', da Lei 8.112/1990) é direito subjetivo do servidor e ato vinculado quando comprovado por laudo de junta médica oficial; a existência de tratamento na localidade de lotação não afasta a remoção quando o laudo aponta a convivência familiar como determinante, e o Judiciário não pode substituir esse juízo técnico sem base pericial idônea."
+    },
+    {
+      "id": "pcprjur-obj-078",
+      "topic": "Critério de indenização de bens reversíveis em contrato de concessão anterior à Lei 12.783/2013",
+      "question": "Contrato de concessão de usina hidrelétrica, firmado antes da Lei nº 12.783/2013, previa expressamente o Valor Original Contábil (VOC) como critério de indenização dos bens reversíveis não amortizados ao término da concessão. Segundo o STJ, o Valor Novo de Reposição (VNR), instituído pelo art. 8º, § 2º, dessa lei posterior:",
+      "options": {
+        "d": "Aplica-se imediatamente a todos os contratos de concessão, ainda em vigor ou já extintos, por se tratar de norma de ordem pública sobre indenização de bens públicos revertidos.",
+        "e": "Não se aplica a contrato de concessão em vigor que já previa expressamente critério distinto (VOC), devendo prevalecer o critério contratualmente pactuado; o VNR só se aplica quando o contrato anterior não previr metodologia distinta.",
+        "b": "Aplica-se retroativamente, substituindo o VOC em todos os contratos anteriores, por representar critério mais vantajoso ao concessionário.",
+        "c": "Aplica-se apenas aos contratos de concessão celebrados após a vigência da Lei nº 12.783/2013, sendo irrelevante a existência ou não de critério expresso em contratos anteriores.",
+        "a": "Deve ser combinado com o VOC, calculando-se a indenização pela média aritmética entre os dois critérios, para preservar o equilíbrio contratual."
+      },
+      "correct": "e",
+      "explanation": "O STJ decidiu que o VNR do art. 8º, § 2º, da Lei nº 12.783/2013 pode ser empregado mesmo em concessões anteriores à sua vigência, mas apenas quando não houver previsão contratual expressa de metodologia distinta; havendo critério expressamente pactuado (como o VOC), sua substituição unilateral pelo VNR violaria garantias contratuais, devendo prevalecer o critério originalmente ajustado.\n\nSTJ. 1ª Turma. REsp 1.969.446-DF, Rel. Min. Gurgel de Faria, julgado em 7/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. REsp 1.969.446-DF, Rel. Min. Gurgel de Faria, julgado em 7/4/2026 (Info 885)."
+      },
+      "subject": "Critério de indenização de bens reversíveis em contrato de concessão anterior à Lei 12.783/2013",
+      "difficulty": "dificil",
+      "miniLesson": "Contrato de concessão de usina hidrelétrica, firmado antes da Lei nº 12.783/2013, previa expressamente o Valor Original Contábil (VOC) como critério de indenização dos bens reversíveis não amortizados ao término da concessão. Segundo o STJ, o Valor Novo de Reposição (VNR), instituído pelo art. 8º, § 2º, dessa lei posterior: O STJ decidiu que o VNR do art. 8º, § 2º, da Lei nº 12.783/2013 pode ser empregado mesmo em concessões anteriores à sua vigência, mas apenas quando não houver previsão contratual expressa de metodologia distinta; havendo critério expressamente pactuado (como o VOC), sua substituição unilateral pelo VNR violaria garantias contratuais, devendo prevalecer o critério originalmente ajustado."
+    },
+    {
+      "id": "pcprjur-obj-079",
+      "topic": "Piso salarial do magistério para professores temporários (Tema 1.308)",
+      "question": "Uma professora contratada temporariamente para suprir necessidade emergencial, exercendo as mesmas funções e carga horária de professores efetivos, recebia remuneração inferior ao piso nacional do magistério (Lei nº 11.738/2008). Segundo a tese fixada pelo STF (Tema 1.308):",
+      "options": {
+        "a": "O piso nacional do magistério aplica-se exclusivamente a professores efetivos, ocupantes de cargo de provimento definitivo, não se estendendo aos contratados temporariamente.",
+        "d": "O valor do piso nacional do magistério aplica-se a todos os profissionais do magistério público da educação básica, independentemente da natureza jurídica do vínculo com a Administração Pública.",
+        "c": "O piso nacional aplica-se aos professores temporários apenas se o contrato tiver duração superior a um ano letivo completo.",
+        "b": "A extensão do piso a professores temporários depende de lei estadual ou municipal específica que a preveja expressamente, não decorrendo diretamente da Lei nº 11.738/2008.",
+        "e": "O piso nacional aplica-se a professores temporários, mas em valor proporcionalmente reduzido, dada a natureza precária do vínculo."
+      },
+      "correct": "d",
+      "explanation": "O STF fixou, no Tema 1.308, que o valor do piso nacional do magistério (Lei nº 11.738/2008) se aplica a todos os profissionais do magistério público da educação básica, independentemente da natureza jurídica do vínculo com a Administração (efetivo, comissionado ou temporário), em linha com o Tema 551 de Repercussão Geral e a ADI 6.196.\n\nSTF. Plenário. ARE 1.487.739/PE, Rel. Min. Alexandre de Moraes, julgado em 16/04/2026 (Repercussão Geral – Tema 1308) (Info 1213).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. ARE 1.487.739/PE, Rel. Min. Alexandre de Moraes, julgado em 16/04/2026 (Repercussão Geral – Tema 1308) (Info 1213)."
+      },
+      "subject": "Piso salarial do magistério para professores temporários (Tema 1.308)",
+      "difficulty": "dificil",
+      "miniLesson": "Uma professora contratada temporariamente para suprir necessidade emergencial, exercendo as mesmas funções e carga horária de professores efetivos, recebia remuneração inferior ao piso nacional do magistério (Lei nº 11.738/2008). Segundo a tese fixada pelo STF (Tema 1.308): O STF fixou, no Tema 1.308, que o valor do piso nacional do magistério (Lei nº 11.738/2008) se aplica a todos os profissionais do magistério público da educação básica, independentemente da natureza jurídica do vínculo com a Administração (efetivo, comissionado ou temporário), em linha com o Tema 551 de Repercussão Geral e a ADI 6.196."
+    },
+    {
+      "id": "pcprjur-obj-080",
+      "topic": "Modulação de efeitos da ADI 7.490 e reabertura de fases de concurso público",
+      "question": "O STF, na ADI 7.490/GO, deu interpretação conforme a dispositivos que reservavam 10% das vagas de concursos militares a mulheres (entendendo o percentual como piso, e não teto), modulando os efeitos para preservar as nomeações realizadas até 14/12/2023. Uma candidata, eliminada antes dessa data por cláusula de barreira diferenciada por sexo, pediu judicialmente a correção de sua redação e o prosseguimento em concurso já encerrado. Segundo o STF, em reclamação sobre a modulação:",
+      "options": {
+        "d": "A modulação autoriza a reabertura de fases já encerradas do concurso e o prosseguimento de candidatas eliminadas pela cláusula de barreira discriminatória, desde que não implique desfazimento de nomeações já realizadas.",
+        "a": "A modulação não autoriza a reabertura de fases finalizadas de concursos públicos nem o avanço de candidatas que não obtiveram nota mínima em todas as etapas do certame, preservando os atos pretéritos praticados até a data da cautelar.",
+        "b": "A modulação é inaplicável a candidatas, alcançando exclusivamente os órgãos públicos que já haviam nomeado aprovados com base nos dispositivos impugnados.",
+        "e": "A modulação deve ser interpretada em favor das candidatas discriminadas, permitindo sempre a reabertura de fases, sob pena de perpetuar a discriminação de gênero reconhecida pelo próprio STF.",
+        "c": "A questão não poderia ser resolvida por reclamação constitucional, sendo cabível apenas ação rescisória contra a decisão que julgou procedente o pedido da candidata."
+      },
+      "correct": "a",
+      "explanation": "O STF, em reclamação, esclareceu que a modulação de efeitos da ADI 7.490 preserva apenas as nomeações realizadas até 14/12/2023, não autorizando a reabertura de fases de concurso já encerradas nem o avanço de candidatas que não alcançaram a nota mínima nas etapas do certame — mesmo que a cláusula de barreira que as eliminou tenha sido, posteriormente, declarada incompatível com a leitura conforme a Constituição.\n\nSTF. Plenário. Rcl 77.893 AgR/GO e Rcl 78.401 AgR/GO, Rel. Min. Nunes Marques, red. p/ o acórdão Min. Luiz Fux, julgado em 23/04/2026 (Info 1214).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STF. Plenário. Rcl 77.893 AgR/GO e Rcl 78.401 AgR/GO, Rel. Min. Nunes Marques, red. p/ o acórdão Min. Luiz Fux, julgado em 23/04/2026 (Info 1214)."
+      },
+      "subject": "Modulação de efeitos da ADI 7.490 e reabertura de fases de concurso público",
+      "difficulty": "dificil",
+      "miniLesson": "O STF, na ADI 7.490/GO, deu interpretação conforme a dispositivos que reservavam 10% das vagas de concursos militares a mulheres (entendendo o percentual como piso, e não teto), modulando os efeitos para preservar as nomeações realizadas até 14/12/2023. Uma candidata, eliminada antes dessa data por cláusula de barreira diferenciada por sexo, pediu judicialmente a correção de sua redação e o prosseguimento em concurso já encerrado. Segundo o STF, em reclamação sobre a modulação: O STF, em reclamação, esclareceu que a modulação de efeitos da ADI 7.490 preserva apenas as nomeações realizadas até 14/12/2023, não autorizando a reabertura de fases de concurso já encerradas nem o avanço de candidatas que não alcançaram a nota mínima nas etapas do certame — mesmo que a cláusula de barreira que as eliminou tenha sido, posteriormente, declarada incompatível com a leitura conforme a Constituição."
+    },
+    {
+      "id": "pcprjur-obj-081",
+      "topic": "Nota global na prova oral de concurso para a magistratura",
+      "question": "Em concurso para juiz federal, cada examinador atribuiu, na prova oral, apenas uma nota global de 0 a 10, sem decompor a pontuação pelos critérios regulamentares, e a candidata reprovada alegou violação ao dever de motivação, por ausência de espelho de correção e padrão de respostas, tal como se exige nas provas escritas. Segundo o STJ:",
+      "options": {
+        "a": "A ausência de espelho de correção viola o dever de motivação em qualquer etapa do concurso, escrita ou oral, por igualdade de tratamento entre as fases.",
+        "d": "A prova oral comporta tratamento diferenciado das provas escritas: dada a diversidade dos questionamentos por sorteio individual, a incompatibilidade com a publicidade da sessão e a natureza dinâmica da avaliação em tempo real, a atribuição de nota global pelos examinadores, sem espelho de correção, não viola o dever de motivação; ainda assim, é cabível recurso administrativo para questionar a legalidade do exame diante de arbitrariedades concretas.",
+        "b": "A prova oral deve necessariamente seguir o mesmo padrão de correção das provas escritas, sob pena de nulidade de toda a etapa oral do certame.",
+        "e": "A irretratabilidade da nota da fase oral, prevista na Resolução CNJ nº 75/2009, impede qualquer forma de impugnação administrativa ou judicial dessa nota.",
+        "c": "A ausência de decomposição da nota é sempre nula, mas apenas quando a média final do candidato for inferior ao mínimo de aprovação, e não quando for superior."
+      },
+      "correct": "d",
+      "explanation": "O STJ distinguiu a prova oral das provas escritas: a diversidade de questionamentos (sorteio individual), a incompatibilidade de um espelho fixo com a publicidade da sessão, e a natureza dinâmica da avaliação justificam a ausência de gabarito na fase oral, sem violar o dever de motivação. A irretratabilidade da nota não impede, porém, recurso administrativo para questionar a legalidade do exame diante de arbitrariedades concretas.\n\nSTJ. 1ª Turma. RMS 76.174-SP, Rel. Min. Regina Helena Costa, julgado em 5/5/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. RMS 76.174-SP, Rel. Min. Regina Helena Costa, julgado em 5/5/2026 (Info 888)."
+      },
+      "subject": "Nota global na prova oral de concurso para a magistratura",
+      "difficulty": "dificil",
+      "miniLesson": "Em concurso para juiz federal, cada examinador atribuiu, na prova oral, apenas uma nota global de 0 a 10, sem decompor a pontuação pelos critérios regulamentares, e a candidata reprovada alegou violação ao dever de motivação, por ausência de espelho de correção e padrão de respostas, tal como se exige nas provas escritas. Segundo o STJ: O STJ distinguiu a prova oral das provas escritas: a diversidade de questionamentos (sorteio individual), a incompatibilidade de um espelho fixo com a publicidade da sessão, e a natureza dinâmica da avaliação justificam a ausência de gabarito na fase oral, sem violar o dever de motivação. A irretratabilidade da nota não impede, porém, recurso administrativo para questionar a legalidade do exame diante de arbitrariedades concretas."
+    },
+    {
+      "id": "pcprjur-obj-082",
+      "topic": "Sucessão da União à RFFSA e regime de precatórios",
+      "question": "Em execução de sentença condenatória contra a extinta RFFSA (sociedade de economia mista regida pelo direito privado), decorrente de contrato celebrado antes da extinção da empresa, a União, que a sucedeu por força de lei, sustentou que a execução deveria seguir o regime de precatórios e os juros reduzidos da Fazenda Pública. Segundo o STJ:",
+      "options": {
+        "d": "A sucessão da União transforma automaticamente a relação processual de privada em pública, aplicando-se o regime de precatórios e os juros da Fazenda Pública a partir da sucessão.",
+        "b": "A sucessão da União atinge apenas a titularidade subjetiva da relação processual, sem desconstituir a relação de fundo nem transmudar sua natureza de privada para pública; por isso, permanecem inaplicáveis os juros diferenciados da Lei nº 9.494/97 e o regime de precatórios, seguindo a execução o regime comum de direito privado.",
+        "c": "A sucessão exige a novação do contrato original, convertendo-o em contrato administrativo, com aplicação integral do regime de direito público a partir de então.",
+        "e": "O regime de precatórios se aplica apenas às obrigações contraídas pela RFFSA após 2007, quando a Lei nº 11.483/2007 já estava em vigor, permanecendo o regime privado para obrigações anteriores.",
+        "a": "A execução deve ser extinta e reiniciada perante a Justiça Federal sob novo rito, com renúncia aos valores já reconhecidos na fase de conhecimento perante a Justiça Estadual."
+      },
+      "correct": "b",
+      "explanation": "O STJ entendeu que a sucessão da União à RFFSA atinge apenas a titularidade subjetiva da relação processual (quem responde pela obrigação), sem alterar sua natureza jurídica: o que era regido pelo direito privado continua sendo, não se aplicando os juros diferenciados da Lei nº 9.494/97 nem o regime de precatórios, seguindo a execução o regime comum.\n\nSTJ. 1ª Turma. AgInt no REsp 2.162.500-RJ, Rel. Min. Benedito Gonçalves, julgado em 13/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. AgInt no REsp 2.162.500-RJ, Rel. Min. Benedito Gonçalves, julgado em 13/4/2026 (Info 887)."
+      },
+      "subject": "Sucessão da União à RFFSA e regime de precatórios",
+      "difficulty": "dificil",
+      "miniLesson": "Em execução de sentença condenatória contra a extinta RFFSA (sociedade de economia mista regida pelo direito privado), decorrente de contrato celebrado antes da extinção da empresa, a União, que a sucedeu por força de lei, sustentou que a execução deveria seguir o regime de precatórios e os juros reduzidos da Fazenda Pública. Segundo o STJ: O STJ entendeu que a sucessão da União à RFFSA atinge apenas a titularidade subjetiva da relação processual (quem responde pela obrigação), sem alterar sua natureza jurídica: o que era regido pelo direito privado continua sendo, não se aplicando os juros diferenciados da Lei nº 9.494/97 nem o regime de precatórios, seguindo a execução o regime comum."
+    },
+    {
+      "id": "pcprjur-obj-083",
+      "topic": "Termo inicial do adicional de insalubridade e data do laudo pericial",
+      "question": "Servidora que exerce, desde a admissão, atividade habitualmente exposta a agentes biológicos obteve, em ação judicial com perícia produzida anos depois, o reconhecimento do direito ao adicional de insalubridade em grau máximo. O ente público sustentou que o termo inicial deveria ser a data do laudo pericial judicial, e não a do início do exercício da atividade insalubre. Segundo o STJ:",
+      "options": {
+        "c": "O termo inicial é sempre a data do laudo pericial, pois o direito ao adicional somente se constitui a partir da comprovação técnica da condição insalubre, seja ela produzida na via administrativa ou judicial.",
+        "e": "O direito ao adicional de insalubridade nasce da lei, e não do laudo pericial, que apenas declara uma condição preexistente; assim, o termo inicial é a data em que o servidor passou a exercer a atividade insalubre, respeitada a prescrição quinquenal, ainda que o laudo tenha sido produzido posteriormente em processo judicial.",
+        "d": "O termo inicial é a data do ajuizamento da ação, por ser esse o momento em que a Administração toma ciência formal da pretensão do servidor.",
+        "a": "O termo inicial somente pode retroagir à data do início da atividade insalubre se o próprio órgão público, e não o Judiciário, tiver produzido o laudo pericial que reconheceu a condição.",
+        "b": "Inexiste direito a diferenças retroativas de adicional de insalubridade, sendo o adicional devido apenas a partir do trânsito em julgado da decisão judicial que o reconhece."
+      },
+      "correct": "e",
+      "explanation": "O STJ fixou que o direito ao adicional de insalubridade nasce da lei (do efetivo exercício da atividade insalubre), e não do laudo pericial, que é meramente declaratório de uma condição preexistente; por isso, o termo inicial retroage à data em que a atividade insalubre começou a ser exercida, respeitada a prescrição quinquenal, independentemente de o laudo comprobatório ter sido produzido posteriormente em juízo.\n\nSTJ. 1ª Turma. REsp 2.182.926-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 5/5/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. REsp 2.182.926-SP, Rel. Min. Paulo Sérgio Domingues, julgado em 5/5/2026 (Info 888)."
+      },
+      "subject": "Termo inicial do adicional de insalubridade e data do laudo pericial",
+      "difficulty": "dificil",
+      "miniLesson": "Servidora que exerce, desde a admissão, atividade habitualmente exposta a agentes biológicos obteve, em ação judicial com perícia produzida anos depois, o reconhecimento do direito ao adicional de insalubridade em grau máximo. O ente público sustentou que o termo inicial deveria ser a data do laudo pericial judicial, e não a do início do exercício da atividade insalubre. Segundo o STJ: O STJ fixou que o direito ao adicional de insalubridade nasce da lei (do efetivo exercício da atividade insalubre), e não do laudo pericial, que é meramente declaratório de uma condição preexistente; por isso, o termo inicial retroage à data em que a atividade insalubre começou a ser exercida, respeitada a prescrição quinquenal, independentemente de o laudo comprobatório ter sido produzido posteriormente em juízo."
+    },
+    {
+      "id": "pcprjur-obj-084",
+      "topic": "Enriquecimento ilícito por acréscimo patrimonial a descoberto",
+      "question": "Perícia constatou depósitos mensais de valores altos em contas de um Procurador-Geral de Justiça, sem identificação de origem, período em que o CNMP já havia aplicado a pena de demissão a bem do serviço público. A justificativa apresentada foi a de que os valores vinham de reserva pessoal mantida em espécie. Segundo o STJ, para a configuração do ato de improbidade por enriquecimento ilícito (art. 9º, VII, da LIA):",
+      "options": {
+        "c": "É necessária a prova direta de que o agente recebeu vantagem específica em razão de ato determinado praticado no exercício do cargo, não bastando a incompatibilidade patrimonial genérica.",
+        "d": "Comprovada pelo Ministério Público a evolução patrimonial incompatível com os rendimentos lícitos do agente, forma-se presunção relativa de irregularidade, com inversão do ônus da prova, cabendo a ele demonstrar a origem lícita dos valores; a manutenção de quantias fora do sistema bancário e sem registro fiscal não constitui justificativa idônea de licitude.",
+        "a": "A conclusão do CNMP em processo administrativo disciplinar vincula definitivamente o juízo cível, sendo vedado ao Poder Judiciário, fora do STF, sequer processar a ação de improbidade decorrente dos mesmos fatos.",
+        "b": "A Lei nº 14.230/2021 alterou substancialmente o conteúdo normativo do art. 9º, VII, da LIA, exigindo, após sua vigência, prova de dolo específico de causar prejuízo ao erário, elemento incompatível com o enriquecimento ilícito.",
+        "e": "Basta a existência de qualquer valor não identificado em conta bancária de agente público para configurar automaticamente o enriquecimento ilícito, independentemente de sua compatibilidade com os rendimentos lícitos do cargo."
+      },
+      "correct": "d",
+      "explanation": "O STJ condenou o réu: comprovada a evolução patrimonial incompatível com os rendimentos lícitos, forma-se presunção relativa de irregularidade que inverte o ônus da prova, cabendo ao agente demonstrar a origem lícita — o que não ocorre com a alegação genérica de reserva em espécie mantida fora do sistema bancário e sem registro fiscal, estratégia clássica de mascaramento de origem.\n\nSTJ. 1ª Turma. REsp 2.256.539-MS, Rel. Min. Regina Helena Costa, julgado em 5/5/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Turma. REsp 2.256.539-MS, Rel. Min. Regina Helena Costa, julgado em 5/5/2026 (Info 888)."
+      },
+      "subject": "Enriquecimento ilícito por acréscimo patrimonial a descoberto",
+      "difficulty": "dificil",
+      "miniLesson": "Perícia constatou depósitos mensais de valores altos em contas de um Procurador-Geral de Justiça, sem identificação de origem, período em que o CNMP já havia aplicado a pena de demissão a bem do serviço público. A justificativa apresentada foi a de que os valores vinham de reserva pessoal mantida em espécie. Segundo o STJ, para a configuração do ato de improbidade por enriquecimento ilícito (art. 9º, VII, da LIA): O STJ condenou o réu: comprovada a evolução patrimonial incompatível com os rendimentos lícitos, forma-se presunção relativa de irregularidade que inverte o ônus da prova, cabendo ao agente demonstrar a origem lícita — o que não ocorre com a alegação genérica de reserva em espécie mantida fora do sistema bancário e sem registro fiscal, estratégia clássica de mascaramento de origem."
+    },
+    {
+      "id": "pcprjur-obj-085",
+      "topic": "Dispensa de liquidação prévia na execução individual de sentença coletiva (Tema 1.169)",
+      "question": "Após decisão coletiva reconhecer aos servidores aposentados e pensionistas o direito de receber determinada gratificação em paridade com os da ativa, um servidor iniciou o cumprimento individual de sentença com base em memória de cálculo elaborada a partir de fichas financeiras fornecidas pelo próprio órgão público. O Tribunal extinguiu a execução por falta de prévia liquidação. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.169):",
+      "options": {
+        "e": "A liquidação prévia da sentença coletiva é sempre obrigatória antes da execução individual, por força dos arts. 97 e 98 do CDC, aplicáveis subsidiariamente às ações coletivas envolvendo servidores públicos.",
+        "b": "Na execução individual de título formado em processo coletivo em favor de servidores públicos, é dispensável a prévia liquidação quando demonstrado documentalmente o enquadramento do exequente na situação genérica da sentença e o crédito puder ser apurado por simples cálculo aritmético, cabendo ao juízo da execução, assegurado o contraditório, analisar concretamente essa necessidade.",
+        "d": "A liquidação é sempre dispensável em execuções envolvendo servidores públicos, independentemente da complexidade do cálculo do crédito individual.",
+        "c": "A dispensa de liquidação prévia depende de prévia concordância do ente público executado quanto aos valores apresentados na memória de cálculo do exequente.",
+        "a": "A liquidação é obrigatória sempre que o título executivo tenha sido formado em mandado de segurança coletivo, mas dispensável quando formado em ação civil pública."
+      },
+      "correct": "b",
+      "explanation": "O STJ fixou, no Tema 1.169, que a execução individual de título coletivo em favor de servidores públicos pode prescindir de prévia liquidação quando demonstrado documentalmente que o exequente se encontra na situação genérica da sentença e o crédito pode ser apurado por simples cálculo aritmético (art. 509, § 2º, CPC), cabendo ao juízo da execução, em contraditório, avaliar concretamente essa necessidade.\n\nSTJ. 1ª Seção. REsp 1.978.629-RJ e outros, Rel. Min. Benedito Gonçalves, julgado em 7/5/2026 (Recurso Repetitivo – Tema 1169) (Info 889).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Administrativo",
+        "page": "Maio/2026",
+        "citation": "STJ. 1ª Seção. REsp 1.978.629-RJ e outros, Rel. Min. Benedito Gonçalves, julgado em 7/5/2026 (Recurso Repetitivo – Tema 1169) (Info 889)."
+      },
+      "subject": "Dispensa de liquidação prévia na execução individual de sentença coletiva (Tema 1.169)",
+      "difficulty": "dificil",
+      "miniLesson": "Após decisão coletiva reconhecer aos servidores aposentados e pensionistas o direito de receber determinada gratificação em paridade com os da ativa, um servidor iniciou o cumprimento individual de sentença com base em memória de cálculo elaborada a partir de fichas financeiras fornecidas pelo próprio órgão público. O Tribunal extinguiu a execução por falta de prévia liquidação. Segundo a tese fixada pelo STJ em recurso repetitivo (Tema 1.169): O STJ fixou, no Tema 1.169, que a execução individual de título coletivo em favor de servidores públicos pode prescindir de prévia liquidação quando demonstrado documentalmente que o exequente se encontra na situação genérica da sentença e o crédito pode ser apurado por simples cálculo aritmético (art. 509, § 2º, CPC), cabendo ao juízo da execução, em contraditório, avaliar concretamente essa necessidade."
+    },
+    {
+      "id": "pcprjur-obj-086",
+      "topic": "Prescindibilidade de identificação nominal de integrantes na milícia privada (art. 288-A do CP)",
+      "question": "Para a configuração do crime de constituição de milícia privada (art. 288-A do CP), que exige vínculo estável e permanente entre os integrantes do grupo, o STJ decidiu que:",
+      "options": {
+        "b": "É indispensável a identificação nominal de todos os integrantes da organização, sob pena de atipicidade da conduta por ausência de prova do vínculo associativo.",
+        "a": "O vínculo estável e permanente pode ser deduzido da narrativa fática, sendo dispensável a identificação nominal de todos os integrantes e o emprego literal das expressões 'estabilidade' e 'permanência' pelas instâncias ordinárias.",
+        "c": "A milícia privada somente se configura quando todos os seus integrantes são identificados e processados no mesmo feito, em litisconsórcio passivo necessário.",
+        "e": "A ausência de identificação nominal dos integrantes impede a persecução penal, ainda que existam outros meios de prova do caráter estável e permanente do grupo.",
+        "d": "O crime exige, além da identificação nominal, a comprovação de hierarquia formal documentada entre os integrantes do grupo, tal como em organizações militares."
+      },
+      "correct": "a",
+      "explanation": "O STJ fixou que a caracterização do art. 288-A do CP exige vínculo estável e permanente, que pode ser deduzido da narrativa fática, sendo dispensável a identificação nominal de todos os integrantes e o emprego literal das palavras 'estabilidade' e 'permanência' pelas instâncias ordinárias.\n\nSTJ. 6ª Turma. AgRg no HC 922.420-RJ, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. AgRg no HC 922.420-RJ, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 885)."
+      },
+      "subject": "Prescindibilidade de identificação nominal de integrantes na milícia privada (art. 288-A do CP)",
+      "difficulty": "dificil",
+      "miniLesson": "Para a configuração do crime de constituição de milícia privada (art. 288-A do CP), que exige vínculo estável e permanente entre os integrantes do grupo, o STJ decidiu que: O STJ fixou que a caracterização do art. 288-A do CP exige vínculo estável e permanente, que pode ser deduzido da narrativa fática, sendo dispensável a identificação nominal de todos os integrantes e o emprego literal das palavras 'estabilidade' e 'permanência' pelas instâncias ordinárias."
+    },
+    {
+      "id": "pcprjur-obj-087",
+      "topic": "Alteração de ofício da modalidade de pena restritiva de direitos em apelação exclusiva da defesa",
+      "question": "Condenado por embriaguez ao volante e beneficiado com substituição da pena privativa de liberdade por prestação pecuniária, o réu apelou pedindo absolvição. O Tribunal negou provimento ao recurso, mas, de ofício, substituiu a prestação pecuniária pela prestação de serviços à comunidade, com fundamento em norma específica do CTB que determina essa modalidade para os crimes de trânsito. Segundo o STJ, essa alteração:",
+      "options": {
+        "b": "Configura reformatio in pejus, pois qualquer modificação da pena em apelação exclusiva da defesa, ainda que sem aumento do quantum, agrava a situação do réu.",
+        "e": "Não configura reformatio in pejus: as penas restritivas de direitos substitutivas são escolhidas pelo juiz, e não pelo condenado; nos crimes de trânsito, a lei especial determina de forma imperativa a modalidade de prestação de serviços à comunidade, não havendo agravamento quando mantido o quantum da sanção substitutiva.",
+        "d": "É nula, pois o Tribunal não pode, de ofício, alterar qualquer aspecto da sentença condenatória quando o único recorrente é a defesa, ainda que para adequá-la à legislação especial.",
+        "c": "Somente seria válida se o Ministério Público também tivesse recorrido pedindo especificamente essa alteração da modalidade de pena substitutiva.",
+        "a": "Configura reformatio in pejus indireta, pois a prestação de serviços à comunidade é, por definição, mais gravosa que a prestação pecuniária em qualquer hipótese."
+      },
+      "correct": "e",
+      "explanation": "O STJ entendeu que não houve reformatio in pejus: a escolha da modalidade de pena restritiva de direitos cabe ao juiz, e a norma especial dos crimes de trânsito (art. 312-A do CTB) determina de forma imperativa a prestação de serviços à comunidade, sem margem de discricionariedade; como o quantum da sanção substitutiva não foi alterado, não houve agravamento da situação do réu.\n\nSTJ. 5ª Turma. AgRg no REsp 2.204.178-MG, Rel. Min. Messod Azulay Neto, julgado em 14/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.204.178-MG, Rel. Min. Messod Azulay Neto, julgado em 14/4/2026 (Info 885)."
+      },
+      "subject": "Alteração de ofício da modalidade de pena restritiva de direitos em apelação exclusiva da defesa",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por embriaguez ao volante e beneficiado com substituição da pena privativa de liberdade por prestação pecuniária, o réu apelou pedindo absolvição. O Tribunal negou provimento ao recurso, mas, de ofício, substituiu a prestação pecuniária pela prestação de serviços à comunidade, com fundamento em norma específica do CTB que determina essa modalidade para os crimes de trânsito. Segundo o STJ, essa alteração: O STJ entendeu que não houve reformatio in pejus: a escolha da modalidade de pena restritiva de direitos cabe ao juiz, e a norma especial dos crimes de trânsito (art. 312-A do CTB) determina de forma imperativa a prestação de serviços à comunidade, sem margem de discricionariedade; como o quantum da sanção substitutiva não foi alterado, não houve agravamento da situação do réu."
+    },
+    {
+      "id": "pcprjur-obj-088",
+      "topic": "Culpabilidade exasperada no roubo contra motorista de aplicativo em serviço",
+      "question": "Um motorista de aplicativo, estacionado em via pública à espera de corrida, foi assaltado por agente que sabia tratar-se de trabalhador exercendo sua atividade profissional naquele momento. Na dosimetria, o juiz valorou negativamente a culpabilidade, por entender que o agente se aproveitou da vulnerabilidade típica dessa categoria profissional. Segundo o STJ, essa valoração:",
+      "options": {
+        "a": "É indevida, pois a condição de trabalhador da vítima não pode, em qualquer hipótese, ser considerada na primeira fase da dosimetria do crime de roubo.",
+        "b": "É válida: o conhecimento, pelo agente, de que a vítima exercia atividade laboral lícita como motorista de aplicativo, aproveitando-se da vulnerabilidade típica dessa condição (necessidade de estacionar em via pública, manter o veículo acessível), evidencia maior reprovabilidade da conduta, justificando a exasperação da pena-base pela culpabilidade.",
+        "c": "É válida, mas apenas como agravante genérica na segunda fase da dosimetria, e não como circunstância judicial da primeira fase.",
+        "d": "É indevida, pois a vulnerabilidade de motoristas de aplicativo já é considerada, de forma abstrata, pelo próprio tipo penal do roubo, configurando bis in idem sua valoração na dosimetria.",
+        "e": "Somente seria válida se o agente tivesse, comprovadamente, escolhido a vítima previamente em razão de sua profissão, e não de forma oportunista no momento do crime."
+      },
+      "correct": "b",
+      "explanation": "O STJ considerou válida a exasperação: o conhecimento da condição da vítima como trabalhador em atividade e o aproveitamento dessa vulnerabilidade específica (necessidade de permanecer acessível em via pública) evidenciam maior reprovabilidade da conduta, justificando a valoração negativa da culpabilidade na primeira fase da dosimetria.\n\nSTJ. 6ª Turma. REsp 2.245.209-AL, Rel. Min. Sebastião Reis Júnior, julgado em 18/3/2026 (Info 886).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.245.209-AL, Rel. Min. Sebastião Reis Júnior, julgado em 18/3/2026 (Info 886)."
+      },
+      "subject": "Culpabilidade exasperada no roubo contra motorista de aplicativo em serviço",
+      "difficulty": "dificil",
+      "miniLesson": "Um motorista de aplicativo, estacionado em via pública à espera de corrida, foi assaltado por agente que sabia tratar-se de trabalhador exercendo sua atividade profissional naquele momento. Na dosimetria, o juiz valorou negativamente a culpabilidade, por entender que o agente se aproveitou da vulnerabilidade típica dessa categoria profissional. Segundo o STJ, essa valoração: O STJ considerou válida a exasperação: o conhecimento da condição da vítima como trabalhador em atividade e o aproveitamento dessa vulnerabilidade específica (necessidade de permanecer acessível em via pública) evidenciam maior reprovabilidade da conduta, justificando a valoração negativa da culpabilidade na primeira fase da dosimetria."
+    },
+    {
+      "id": "pcprjur-obj-089",
+      "topic": "Consumação do furto e teoria da apprehensio/amotio",
+      "question": "Um agente, após recolher bens de um escritório e guardá-los em mochila e nos bolsos, foi surpreendido e detido por vigilante ainda dentro do imóvel, sem ter conseguido sair do estabelecimento com os objetos. Segundo a teoria adotada pelo STJ e pelo STF para a consumação do furto:",
+      "options": {
+        "a": "O furto está consumado desde o momento em que o agente apreende (apprehensio) o bem e o guarda consigo, independentemente de deixar o local, pois já haveria inversão da posse.",
+        "b": "O furto é apenas tentado: a consumação exige não apenas a apreensão (apprehensio), mas também o deslocamento do bem (amotio) para fora da esfera de vigilância da vítima, ainda que por breve tempo, cessando a clandestinidade — o que não ocorreu, pois os bens sequer saíram do estabelecimento.",
+        "d": "O furto está consumado, pois basta a prática da conduta de subtrair, sendo o resultado naturalístico (perda da posse pela vítima) irrelevante para a consumação do delito.",
+        "e": "A consumação depende exclusivamente de o agente alcançar a posse mansa e pacífica do bem, com decurso de tempo juridicamente relevante, não bastando a cessação momentânea da clandestinidade.",
+        "c": "A consumação ocorre no momento em que o agente decide subtrair o bem, sendo os atos materiais de apreensão e deslocamento irrelevantes para a classificação como crime consumado ou tentado."
+      },
+      "correct": "b",
+      "explanation": "O STJ e o STF adotam a teoria da apprehensio/amotio: a consumação do furto exige a apreensão do bem e seu deslocamento (ainda que breve) para fora do alcance e disposição da vítima, cessando a clandestinidade, sem necessidade de posse mansa e pacífica. Como os bens não saíram do estabelecimento, não houve inversão da posse, configurando-se apenas tentativa.\n\nSTJ. 5ª Turma. AgRg no AgRg no AREsp 3.063.890-MS, Rel. Min. Reynaldo Soares da Fonseca, julgado em 3/3/2026 (Info 886).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no AgRg no AREsp 3.063.890-MS, Rel. Min. Reynaldo Soares da Fonseca, julgado em 3/3/2026 (Info 886)."
+      },
+      "subject": "Consumação do furto e teoria da apprehensio/amotio",
+      "difficulty": "dificil",
+      "miniLesson": "Um agente, após recolher bens de um escritório e guardá-los em mochila e nos bolsos, foi surpreendido e detido por vigilante ainda dentro do imóvel, sem ter conseguido sair do estabelecimento com os objetos. Segundo a teoria adotada pelo STJ e pelo STF para a consumação do furto: O STJ e o STF adotam a teoria da apprehensio/amotio: a consumação do furto exige a apreensão do bem e seu deslocamento (ainda que breve) para fora do alcance e disposição da vítima, cessando a clandestinidade, sem necessidade de posse mansa e pacífica. Como os bens não saíram do estabelecimento, não houve inversão da posse, configurando-se apenas tentativa."
+    },
+    {
+      "id": "pcprjur-obj-090",
+      "topic": "Prova insuficiente para condenação por tráfico de drogas e desclassificação",
+      "question": "Após fuga e ingresso em domicílio, foram apreendidos com o agente 156g de cocaína e uma balança de precisão; ele negou a traficância em juízo, alegando ser usuário, e possuía condenação anterior por tráfico. Segundo o STJ, para a condenação por tráfico de drogas (art. 33 da Lei nº 11.343/2006):",
+      "options": {
+        "e": "A apreensão de quantidade expressiva de droga já basta, por si só, para presumir a mercancia, independentemente de outros elementos de prova.",
+        "c": "É exigível prova robusta de atos concretos de mercancia, não bastando a apreensão da droga, a apreensão de balança de precisão (item disseminado para uso doméstico) ou a existência de antecedentes por tráfico; ausentes tais elementos, é cabível a desclassificação para porte para consumo pessoal (art. 28 da mesma lei).",
+        "a": "A reincidência específica em tráfico, por si só, autoriza a condenação, dispensando qualquer outra prova de mercancia no processo em curso.",
+        "d": "A ausência de gravação por câmera corporal (body cam) durante a diligência policial gera, por si só, nulidade da prisão e absolvição automática do acusado.",
+        "b": "A entrada dos policiais no domicílio do acusado, mesmo amparada em fundadas razões de flagrante, é sempre ilícita quando não há mandado judicial prévio."
+      },
+      "correct": "c",
+      "explanation": "O STJ desclassificou a conduta para porte de drogas para consumo próprio: a condenação por tráfico exige prova robusta de atos concretos de mercancia; a apreensão isolada da droga e da balança de precisão (item disseminado para uso doméstico), somada a antecedentes por tráfico, não é suficiente, devendo tais elementos ser corroborados por indícios concretos de comércio, como monitoramento prévio ou flagrante de venda.\n\nSTJ. 6ª Turma. AgRg no HC 1.048.545-SP, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 886).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. AgRg no HC 1.048.545-SP, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 886)."
+      },
+      "subject": "Prova insuficiente para condenação por tráfico de drogas e desclassificação",
+      "difficulty": "dificil",
+      "miniLesson": "Após fuga e ingresso em domicílio, foram apreendidos com o agente 156g de cocaína e uma balança de precisão; ele negou a traficância em juízo, alegando ser usuário, e possuía condenação anterior por tráfico. Segundo o STJ, para a condenação por tráfico de drogas (art. 33 da Lei nº 11.343/2006): O STJ desclassificou a conduta para porte de drogas para consumo próprio: a condenação por tráfico exige prova robusta de atos concretos de mercancia; a apreensão isolada da droga e da balança de precisão (item disseminado para uso doméstico), somada a antecedentes por tráfico, não é suficiente, devendo tais elementos ser corroborados por indícios concretos de comércio, como monitoramento prévio ou flagrante de venda."
+    },
+    {
+      "id": "pcprjur-obj-091",
+      "topic": "Ilicitude de prova obtida por violação ao sigilo médico em caso de autoaborto",
+      "question": "Após atendimento hospitalar, uma paciente relatou a uma médica ter provocado aborto e informou onde estava o feto; a médica comunicou o fato à polícia sem consentimento da paciente, e, a partir dessa comunicação, o feto foi localizado e periciado. Denunciada por autoaborto, a defesa alegou ilicitude da prova. Segundo o STJ:",
+      "options": {
+        "e": "A comunicação da médica é lícita, pois configura exercício regular de dever de ofício de comunicar às autoridades a prática de crime de que teve conhecimento no exercício da profissão.",
+        "a": "A comunicação da médica, feita sem consentimento da paciente e fora de hipótese legal de exceção, viola o sigilo profissional e é prova ilícita; as provas dela diretamente derivadas (localização e perícia do feto) são contaminadas pela teoria dos frutos da árvore envenenada, não se aplicando a exceção da fonte independente, pois a descoberta não decorreu de investigação autônoma.",
+        "c": "A prova é lícita, pois a fonte independente se aplica sempre que o objeto do crime (o feto) permanecesse na residência da paciente e pudesse, em tese, ser encontrado por outros meios investigativos futuros.",
+        "d": "A ilicitude da comunicação médica não contamina as provas dela derivadas, pois o sigilo profissional protege apenas a relação médico-paciente, e não terceiros como a autoridade policial.",
+        "b": "A comunicação é ilícita, mas isso não impede a ação penal, pois a confissão da paciente à médica, por si só, constitui prova autônoma e independente suficiente para a condenação."
+      },
+      "correct": "a",
+      "explanation": "O STJ reconheceu a ilicitude da comunicação médica, feita sem consentimento e fora de hipótese legal de exceção, em violação ao dever de sigilo (art. 207 do CPP, Código de Ética Médica); as provas subsequentes (localização e perícia do feto) são derivadas dessa comunicação ilícita, aplicando-se a teoria dos frutos da árvore envenenada — a tese da fonte independente não se aplica, pois sem a comunicação as autoridades sequer saberiam da existência do aborto a investigar.\n\nSTJ. 6ª Turma. HC 1.000.918-SP, Rel. Min. Otávio de Almeida Toledo (Des. convocado), julgado em 15/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. HC 1.000.918-SP, Rel. Min. Otávio de Almeida Toledo (Des. convocado), julgado em 15/4/2026 (Info 887)."
+      },
+      "subject": "Ilicitude de prova obtida por violação ao sigilo médico em caso de autoaborto",
+      "difficulty": "dificil",
+      "miniLesson": "Após atendimento hospitalar, uma paciente relatou a uma médica ter provocado aborto e informou onde estava o feto; a médica comunicou o fato à polícia sem consentimento da paciente, e, a partir dessa comunicação, o feto foi localizado e periciado. Denunciada por autoaborto, a defesa alegou ilicitude da prova. Segundo o STJ: O STJ reconheceu a ilicitude da comunicação médica, feita sem consentimento e fora de hipótese legal de exceção, em violação ao dever de sigilo (art. 207 do CPP, Código de Ética Médica); as provas subsequentes (localização e perícia do feto) são derivadas dessa comunicação ilícita, aplicando-se a teoria dos frutos da árvore envenenada — a tese da fonte independente não se aplica, pois sem a comunicação as autoridades sequer saberiam da existência do aborto a investigar."
+    },
+    {
+      "id": "pcprjur-obj-092",
+      "topic": "Dispensa de exame de corpo de delito na violência psicológica contra a mulher",
+      "question": "Condenado por violência psicológica contra a mulher (art. 147-B do CP) com base nas declarações da vítima, no depoimento de testemunha e em mensagens de áudio ameaçadoras, sem laudo psicológico pericial, o réu alegou que, por se tratar de crime material, a condenação exigiria prova técnica do dano. Segundo o STJ:",
+      "options": {
+        "c": "A condenação é nula, pois o art. 147-B do CP exige, como qualquer crime material, exame pericial específico do dano emocional causado à vítima.",
+        "a": "O exame de corpo de delito pode ser dispensado quando há outras provas idôneas que demonstrem a materialidade delitiva, inclusive no crime de violência psicológica contra a mulher; a palavra da vítima, corroborada por testemunha e mensagens, constitui corpo de delito indireto suficiente para a condenação.",
+        "e": "A dispensa do exame pericial só é possível se a vítima e o agressor não tiverem mais qualquer convivência, o que não se aplica a casos em que há filhos em comum.",
+        "b": "A condenação depende sempre de laudo psiquiátrico produzido por perito oficial, sendo insuficiente qualquer outro meio de prova, ainda que idôneo, para demonstrar o dano emocional.",
+        "d": "O crime de violência psicológica contra a mulher não admite condenação baseada em mensagens de áudio, por se tratar de prova sujeita a manipulação técnica."
+      },
+      "correct": "a",
+      "explanation": "O STJ manteve a condenação: nos casos de violência doméstica, o exame de corpo de delito pode ser dispensado quando há outras provas idôneas da materialidade, o que se aplica também ao crime de violência psicológica (art. 147-B do CP); a palavra da vítima, corroborada por testemunha e mensagens de áudio, constitui corpo de delito indireto suficiente.\n\nSTJ. 5ª Turma. AREsp 3.057.385-DF, Rel. Min. Joel Ilan Paciornik, julgado em 3/2/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AREsp 3.057.385-DF, Rel. Min. Joel Ilan Paciornik, julgado em 3/2/2026 (Info 887)."
+      },
+      "subject": "Dispensa de exame de corpo de delito na violência psicológica contra a mulher",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por violência psicológica contra a mulher (art. 147-B do CP) com base nas declarações da vítima, no depoimento de testemunha e em mensagens de áudio ameaçadoras, sem laudo psicológico pericial, o réu alegou que, por se tratar de crime material, a condenação exigiria prova técnica do dano. Segundo o STJ: O STJ manteve a condenação: nos casos de violência doméstica, o exame de corpo de delito pode ser dispensado quando há outras provas idôneas da materialidade, o que se aplica também ao crime de violência psicológica (art. 147-B do CP); a palavra da vítima, corroborada por testemunha e mensagens de áudio, constitui corpo de delito indireto suficiente."
+    },
+    {
+      "id": "pcprjur-obj-093",
+      "topic": "Qualificadora do rompimento de obstáculo sem laudo pericial e início de execução do furto",
+      "question": "Policiais surpreenderam dois indivíduos tentando entrar em uma loja cujo cadeado e porta já apresentavam sinais visíveis de arrombamento, sem que tivessem ingressado no interior do estabelecimento ou tocado em mercadorias, e sem realização de perícia no local. Segundo o STJ:",
+      "options": {
+        "a": "A ausência de laudo pericial impede, em qualquer hipótese, o reconhecimento da qualificadora do rompimento de obstáculo, que exige prova técnica exclusiva.",
+        "d": "A qualificadora do rompimento de obstáculo pode ser reconhecida, excepcionalmente, por outros meios de prova inequívocos quando ausente perícia; e o arrombamento do cadeado e da porta, mesmo sem ingresso no interior do estabelecimento, já configura ato executório (e não meramente preparatório) do crime de furto, na forma tentada.",
+        "e": "O arrombamento de cadeado e porta, sem ingresso no interior do estabelecimento, configura apenas ato preparatório, atípico para fins penais.",
+        "b": "A qualificadora somente pode ser reconhecida se os agentes forem surpreendidos com os bens já em seu poder, dentro ou fora do estabelecimento.",
+        "c": "A ausência de perícia impede a condenação por furto qualificado, mas autoriza a condenação por dano ao patrimônio alheio, delito autônomo e menos grave."
+      },
+      "correct": "d",
+      "explanation": "O STJ manteve a condenação por furto qualificado tentado: excepcionalmente, a materialidade das qualificadoras dos incisos I e II do § 4º do art. 155 do CP pode ser demonstrada por outros meios inequívocos (testemunhas, fotografias, materiais apreendidos) quando ausente perícia; e o arrombamento de cadeado e porta em plena madrugada, com ferramentas próprias, já configura ato executório do furto, e não mero ato preparatório.\n\nSTJ. 5ª Turma. AgRg no REsp 2.255.737-MG, Rel. Min. Reynaldo Soares da Fonseca, julgado em 7/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.255.737-MG, Rel. Min. Reynaldo Soares da Fonseca, julgado em 7/4/2026 (Info 887)."
+      },
+      "subject": "Qualificadora do rompimento de obstáculo sem laudo pericial e início de execução do furto",
+      "difficulty": "dificil",
+      "miniLesson": "Policiais surpreenderam dois indivíduos tentando entrar em uma loja cujo cadeado e porta já apresentavam sinais visíveis de arrombamento, sem que tivessem ingressado no interior do estabelecimento ou tocado em mercadorias, e sem realização de perícia no local. Segundo o STJ: O STJ manteve a condenação por furto qualificado tentado: excepcionalmente, a materialidade das qualificadoras dos incisos I e II do § 4º do art. 155 do CP pode ser demonstrada por outros meios inequívocos (testemunhas, fotografias, materiais apreendidos) quando ausente perícia; e o arrombamento de cadeado e porta em plena madrugada, com ferramentas próprias, já configura ato executório do furto, e não mero ato preparatório."
+    },
+    {
+      "id": "pcprjur-obj-094",
+      "topic": "Especialidade entre venda irregular de medicamentos e tráfico de drogas",
+      "question": "Um indivíduo vendia, por meio de 'farmácias virtuais' pela internet, medicamentos com princípios ativos listados na Portaria SVS/MS nº 344/98 (que também complementa o tipo do tráfico de drogas), sem receita médica válida. Denunciado por tráfico de drogas e associação para o tráfico, o STJ entendeu que a conduta configura:",
+      "options": {
+        "c": "Tráfico de drogas (art. 33 da Lei nº 11.343/2006), pois os medicamentos vendidos continham substâncias listadas na portaria complementar da lei de drogas, prevalecendo essa tipificação sobre qualquer outra.",
+        "a": "O crime do art. 273, § 1º-B, do CP, por força do princípio da especialidade: a conduta global de montar uma 'farmácia clandestina' virtual para vender produtos sujeitos a controle sanitário sem observância das formalidades legais está integralmente abarcada por essa norma, mais específica que o tipo de tráfico de drogas.",
+        "e": "Concurso formal entre tráfico de drogas e o crime do art. 273 do CP, devendo ser aplicadas cumulativamente as penas de ambos os delitos.",
+        "b": "Estelionato, por se tratar de venda de produtos mediante ocultação de informações relevantes aos consumidores sobre a ausência de prescrição médica válida.",
+        "d": "Conduta atípica, pois a venda de medicamentos pela internet não está expressamente tipificada em nenhum dispositivo penal específico do ordenamento brasileiro."
+      },
+      "correct": "a",
+      "explanation": "O STJ aplicou o princípio da especialidade: embora alguns medicamentos contivessem substâncias listadas na portaria complementar do tráfico, a conduta global — montar uma farmácia virtual clandestina para vender produtos sob controle sanitário sem as formalidades legais — está integralmente descrita, em sua estrutura e significado valorativo, pelo art. 273, § 1º-B, do CP, que prevalece sobre o tipo de tráfico de drogas.\n\nSTJ. 6ª Turma. AgRg no AgRg no REsp 1.835.395-RS, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. AgRg no AgRg no REsp 1.835.395-RS, Rel. Min. Antonio Saldanha Palheiro, julgado em 14/4/2026 (Info 887)."
+      },
+      "subject": "Especialidade entre venda irregular de medicamentos e tráfico de drogas",
+      "difficulty": "dificil",
+      "miniLesson": "Um indivíduo vendia, por meio de 'farmácias virtuais' pela internet, medicamentos com princípios ativos listados na Portaria SVS/MS nº 344/98 (que também complementa o tipo do tráfico de drogas), sem receita médica válida. Denunciado por tráfico de drogas e associação para o tráfico, o STJ entendeu que a conduta configura: O STJ aplicou o princípio da especialidade: embora alguns medicamentos contivessem substâncias listadas na portaria complementar do tráfico, a conduta global — montar uma farmácia virtual clandestina para vender produtos sob controle sanitário sem as formalidades legais — está integralmente descrita, em sua estrutura e significado valorativo, pelo art. 273, § 1º-B, do CP, que prevalece sobre o tipo de tráfico de drogas."
+    },
+    {
+      "id": "pcprjur-obj-095",
+      "topic": "Inaplicabilidade do princípio da insignificância à corrupção passiva majorada (Súmula 599/STJ)",
+      "question": "Uma servidora cobrou, por duas vezes, R$ 20,00 de eleitores para inserir dados falsos e quitar irregularmente débitos deles perante a Justiça Eleitoral, sendo denunciada por corrupção passiva majorada (art. 317, § 1º, do CP) em continuidade delitiva. A defesa pediu a aplicação do princípio da insignificância, dado o valor reduzido da vantagem. Segundo o STJ:",
+      "options": {
+        "c": "O princípio da insignificância deve ser aplicado, pois o valor irrisório da vantagem (R$ 20,00) torna a conduta materialmente atípica, independentemente da natureza do crime.",
+        "a": "O princípio da insignificância não se aplica aos crimes contra a Administração Pública (Súmula 599/STJ), pois a tutela penal recai também sobre a moral administrativa, a fé pública e a probidade, bens jurídicos lesados independentemente do valor econômico; a presença da causa de aumento do art. 317, § 1º, do CP (ato de ofício indevido) reforça a incompatibilidade com a bagatela.",
+        "e": "O princípio da insignificância aplica-se aos crimes contra a Administração Pública quando praticados por servidor requisitado, e não efetivo do órgão, como no caso.",
+        "b": "A insignificância deveria ser reconhecida apenas quanto à segunda cobrança, por se tratar de reiteração de conduta de valor ainda mais reduzido.",
+        "d": "A aplicação da insignificância depende exclusivamente da anuência do órgão lesado (no caso, a Justiça Eleitoral) quanto à irrelevância do dano causado."
+      },
+      "correct": "a",
+      "explanation": "O STJ negou a insignificância, aplicando a Súmula 599/STJ: nos crimes contra a Administração Pública, tutela-se também a moral administrativa, a fé pública e a probidade, bens lesados independentemente do valor econômico da vantagem; a presença da causa de aumento do art. 317, § 1º, do CP (o agente efetivamente praticou ato indevido no exercício da função) reforça essa incompatibilidade.\n\nSTJ. 6ª Turma. REsp 2.258.036-DF, Rel. Min. Sebastião Reis Júnior, julgado em 22/4/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.258.036-DF, Rel. Min. Sebastião Reis Júnior, julgado em 22/4/2026 (Info 888)."
+      },
+      "subject": "Inaplicabilidade do princípio da insignificância à corrupção passiva majorada (Súmula 599/STJ)",
+      "difficulty": "dificil",
+      "miniLesson": "Uma servidora cobrou, por duas vezes, R$ 20,00 de eleitores para inserir dados falsos e quitar irregularmente débitos deles perante a Justiça Eleitoral, sendo denunciada por corrupção passiva majorada (art. 317, § 1º, do CP) em continuidade delitiva. A defesa pediu a aplicação do princípio da insignificância, dado o valor reduzido da vantagem. Segundo o STJ: O STJ negou a insignificância, aplicando a Súmula 599/STJ: nos crimes contra a Administração Pública, tutela-se também a moral administrativa, a fé pública e a probidade, bens lesados independentemente do valor econômico da vantagem; a presença da causa de aumento do art. 317, § 1º, do CP (o agente efetivamente praticou ato indevido no exercício da função) reforça essa incompatibilidade."
+    },
+    {
+      "id": "pcprjur-obj-096",
+      "topic": "Valoração da orfandade de filhos menores na dosimetria do homicídio premeditado",
+      "question": "Em homicídio premeditado, em que a vítima foi arrastada de casa até local de execução e deixou filhos menores órfãos, o juiz valorou negativamente, na pena-base, a culpabilidade (premeditação), as circunstâncias do crime (modus operandi violento) e as consequências do crime (orfandade). Segundo o STJ:",
+      "options": {
+        "e": "Apenas a premeditação pode ser validamente considerada, pois as demais circunstâncias já integram o tipo penal de homicídio e não podem ser novamente valoradas, sob pena de bis in idem.",
+        "b": "As três valorações são válidas: a premeditação concretamente demonstrada autoriza a negativação da culpabilidade; o modus operandi mais violento legitima a negativação das circunstâncias; e a orfandade de filhos menores extrapola o resultado típico do homicídio, autorizando a negativação das consequências do crime — sendo a revisão dessa dosimetria pelas Cortes Superiores excepcional, cabível apenas diante de manifesta ilegalidade.",
+        "a": "Nenhuma das três circunstâncias pode ser considerada na primeira fase, pois todas dizem respeito a elementos que já influenciam a própria capitulação do crime como homicídio qualificado.",
+        "d": "Apenas a orfandade pode ser considerada, por ser a única circunstância que efetivamente extrapola o resultado típico, sendo as demais inerentes a qualquer homicídio doloso.",
+        "c": "A valoração é válida, mas o STJ deve, em qualquer recurso, reexaminar amplamente a dosimetria fixada pelas instâncias ordinárias, sem qualquer limitação de cognição."
+      },
+      "correct": "b",
+      "explanation": "O STJ confirmou a dosimetria: a premeditação concretamente demonstrada autoriza a negativação da culpabilidade; o modus operandi mais grave (vítima arrastada até o local da execução) legitima a negativação das circunstâncias; e a orfandade de filhos menores extrapola o resultado típico, autorizando a negativação das consequências — ressalvando que a revisão dessa dosimetria pelas Cortes Superiores é excepcional, cabível apenas diante de manifesta ilegalidade.\n\nSTJ. 5ª Turma. AgRg no REsp 2.250.641-AL, Rel. Min. Ribeiro Dantas, julgado em 29/4/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.250.641-AL, Rel. Min. Ribeiro Dantas, julgado em 29/4/2026 (Info 888)."
+      },
+      "subject": "Valoração da orfandade de filhos menores na dosimetria do homicídio premeditado",
+      "difficulty": "dificil",
+      "miniLesson": "Em homicídio premeditado, em que a vítima foi arrastada de casa até local de execução e deixou filhos menores órfãos, o juiz valorou negativamente, na pena-base, a culpabilidade (premeditação), as circunstâncias do crime (modus operandi violento) e as consequências do crime (orfandade). Segundo o STJ: O STJ confirmou a dosimetria: a premeditação concretamente demonstrada autoriza a negativação da culpabilidade; o modus operandi mais grave (vítima arrastada até o local da execução) legitima a negativação das circunstâncias; e a orfandade de filhos menores extrapola o resultado típico, autorizando a negativação das consequências — ressalvando que a revisão dessa dosimetria pelas Cortes Superiores é excepcional, cabível apenas diante de manifesta ilegalidade."
+    },
+    {
+      "id": "pcprjur-obj-097",
+      "topic": "Demora injustificada de inquérito e rejeição da denúncia por falta de justa causa",
+      "question": "Um inquérito policial de baixa complexidade, instaurado para apurar apropriação indébita de um celular já devolvido à vítima poucos dias depois, tramitou por quase seis anos antes do oferecimento da denúncia. Segundo o STJ:",
+      "options": {
+        "d": "A demora na fase investigativa é sempre superada pelo simples oferecimento e recebimento da denúncia, não podendo ser invocada após esse momento processual.",
+        "c": "A justa causa para a ação penal exige, além de indícios de autoria e materialidade, o respeito à razoável duração do processo durante toda a persecução; a demora injustificada e prolongada na conclusão de inquérito de baixa complexidade compromete a legitimidade da persecução penal e pode afastar a justa causa para o recebimento da denúncia.",
+        "a": "A demora do inquérito policial é circunstância irrelevante para a análise da justa causa, que se limita à existência de indícios de autoria e materialidade do crime.",
+        "e": "A rejeição da denúncia por demora do inquérito somente é cabível quando o próprio investigado tiver representado formalmente, durante a investigação, pedindo a sua conclusão.",
+        "b": "A demora do inquérito, ainda que excessiva, jamais pode fundamentar a rejeição da denúncia, cabendo apenas a responsabilização funcional da autoridade policial."
+      },
+      "correct": "c",
+      "explanation": "O STJ confirmou a rejeição da denúncia: a justa causa exige, além de indícios de autoria e materialidade, respeito à razoável duração do processo durante toda a persecução penal; a demora injustificada e prolongada de inquérito de baixa complexidade compromete a legitimidade da persecução, não sendo automaticamente superada pelo mero oferecimento e recebimento posterior da denúncia.\n\nSTJ. 5ª Turma. AgRg no AREsp 3.164.204-MG, Rel. Min. Ribeiro Dantas, julgado em 14/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no AREsp 3.164.204-MG, Rel. Min. Ribeiro Dantas, julgado em 14/4/2026 (Info 885)."
+      },
+      "subject": "Demora injustificada de inquérito e rejeição da denúncia por falta de justa causa",
+      "difficulty": "dificil",
+      "miniLesson": "Um inquérito policial de baixa complexidade, instaurado para apurar apropriação indébita de um celular já devolvido à vítima poucos dias depois, tramitou por quase seis anos antes do oferecimento da denúncia. Segundo o STJ: O STJ confirmou a rejeição da denúncia: a justa causa exige, além de indícios de autoria e materialidade, respeito à razoável duração do processo durante toda a persecução penal; a demora injustificada e prolongada de inquérito de baixa complexidade compromete a legitimidade da persecução, não sendo automaticamente superada pelo mero oferecimento e recebimento posterior da denúncia."
+    },
+    {
+      "id": "pcprjur-obj-098",
+      "topic": "Prisão domiciliar de mãe presa fora do Estado de residência da filha",
+      "question": "Presa em flagrante em outro Estado, longe da residência de suas filhas menores, ao desembarcar de ônibus interestadual, uma mulher teve negado o pedido de prisão domiciliar sob o argumento de que não estaria comprovado que apenas ela poderia cuidar das crianças. Segundo o STJ:",
+      "options": {
+        "d": "A prisão domiciliar deve ser negada sempre que a genitora não estiver, no momento da prisão, no Estado de residência dos filhos, por evidenciar afastamento voluntário do lar.",
+        "a": "A ausência física momentânea da genitora, decorrente de deslocamento interestadual, não equivale a abandono nem afasta o vínculo materno, não obstando a prisão domiciliar quando preenchidos os requisitos do art. 318-A do CPP.",
+        "c": "A prisão domiciliar somente pode ser concedida se a prisão em flagrante tiver ocorrido no mesmo Estado de residência dos filhos da presa.",
+        "b": "A gravidade abstrata do delito de tráfico de drogas, por si só, sempre afasta a possibilidade de prisão domiciliar humanitária, independentemente das circunstâncias familiares da presa.",
+        "e": "A prisão domiciliar depende de prévia comprovação de que nenhum outro familiar, ainda que apto, possa temporariamente cuidar das crianças durante a viagem da mãe."
+      },
+      "correct": "a",
+      "explanation": "O STJ concedeu a prisão domiciliar: a circunstância de a genitora não estar, no momento da prisão em flagrante, no Estado de residência das filhas não afasta o cabimento da medida quando preenchidos os requisitos do art. 318-A do CPP, não podendo a ausência física momentânea decorrente de deslocamento interestadual ser equiparada a abandono ou à inexistência de imprescindibilidade dos cuidados maternos.\n\nSTJ. 6ª Turma. HC 1.070.513-PR, Rel. Min. Antonio Saldanha Palheiro, Rel. p/ acórdão Min. Og Fernandes, julgado em 14/4/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. HC 1.070.513-PR, Rel. Min. Antonio Saldanha Palheiro, Rel. p/ acórdão Min. Og Fernandes, julgado em 14/4/2026 (Info 885)."
+      },
+      "subject": "Prisão domiciliar de mãe presa fora do Estado de residência da filha",
+      "difficulty": "dificil",
+      "miniLesson": "Presa em flagrante em outro Estado, longe da residência de suas filhas menores, ao desembarcar de ônibus interestadual, uma mulher teve negado o pedido de prisão domiciliar sob o argumento de que não estaria comprovado que apenas ela poderia cuidar das crianças. Segundo o STJ: O STJ concedeu a prisão domiciliar: a circunstância de a genitora não estar, no momento da prisão em flagrante, no Estado de residência das filhas não afasta o cabimento da medida quando preenchidos os requisitos do art. 318-A do CPP, não podendo a ausência física momentânea decorrente de deslocamento interestadual ser equiparada a abandono ou à inexistência de imprescindibilidade dos cuidados maternos."
+    },
+    {
+      "id": "pcprjur-obj-099",
+      "topic": "Posse de maconha para uso próprio no presídio como falta disciplinar grave",
+      "question": "Um preso foi flagrado com porções de maconha durante revista em estabelecimento prisional. A defesa alegou que, por não ser mais crime a posse de droga para consumo pessoal (Tema 506 do STF), a conduta não poderia ser enquadrada como falta disciplinar grave (art. 52 da LEP, que pressupõe fato definido como crime doloso). Segundo o STJ:",
+      "options": {
+        "d": "A posse de maconha para uso próprio no presídio é conduta atípica também para fins disciplinares, em decorrência direta da descriminalização fixada pelo STF no Tema 506.",
+        "a": "A posse de entorpecente, ainda que para consumo pessoal, no interior de estabelecimento prisional configura falta disciplinar grave (arts. 50, VI, e 39, II e V, da LEP); o Tema 506 do STF, relativo à descriminalização penal, não afasta a ilicitude extrapenal da conduta nem a aplicação de sanção administrativa na execução penal.",
+        "b": "A conduta somente pode ser sancionada disciplinarmente se a quantidade apreendida ultrapassar o limite fixado para uso pessoal fora do ambiente prisional.",
+        "e": "A falta disciplinar grave exige, necessariamente, previsão legal expressa nos arts. 50 e 52 da LEP mencionando especificamente a posse de maconha, inexistente no ordenamento.",
+        "c": "A descriminalização do Tema 506 impede qualquer consequência jurídica, penal ou disciplinar, decorrente da posse de maconha para uso próprio, inclusive no ambiente prisional."
+      },
+      "correct": "a",
+      "explanation": "O STJ manteve a falta disciplinar grave: a posse de entorpecente para uso próprio dentro do presídio configura falta grave (arts. 50, VI, e 39, II e V, da LEP), pois o Tema 506 do STF trata apenas da descriminalização penal do porte para consumo pessoal, não afastando a ilicitude extrapenal da conduta no âmbito da execução penal, ainda que não haja menção expressa à maconha nos arts. 50 e 52 da LEP.\n\nSTJ. 5ª Turma. AgRg no REsp 2.234.146-MG, Rel. Min. Maria Marluce Caldas, julgado em 25/3/2026 (Info 885).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.234.146-MG, Rel. Min. Maria Marluce Caldas, julgado em 25/3/2026 (Info 885)."
+      },
+      "subject": "Posse de maconha para uso próprio no presídio como falta disciplinar grave",
+      "difficulty": "dificil",
+      "miniLesson": "Um preso foi flagrado com porções de maconha durante revista em estabelecimento prisional. A defesa alegou que, por não ser mais crime a posse de droga para consumo pessoal (Tema 506 do STF), a conduta não poderia ser enquadrada como falta disciplinar grave (art. 52 da LEP, que pressupõe fato definido como crime doloso). Segundo o STJ: O STJ manteve a falta disciplinar grave: a posse de entorpecente para uso próprio dentro do presídio configura falta grave (arts. 50, VI, e 39, II e V, da LEP), pois o Tema 506 do STF trata apenas da descriminalização penal do porte para consumo pessoal, não afastando a ilicitude extrapenal da conduta no âmbito da execução penal, ainda que não haja menção expressa à maconha nos arts. 50 e 52 da LEP."
+    },
+    {
+      "id": "pcprjur-obj-100",
+      "topic": "Competência do STJ para julgar cargos vitalícios do art. 105, I, mesmo sem relação com a função",
+      "question": "Um Subprocurador-Geral do Trabalho, cargo vitalício listado no art. 105, I, 'a', da CF/88, foi acusado de ofensas e ameaças a um porteiro em desentendimento sem qualquer relação com suas funções institucionais. Invocando a tese fixada na AP 937 QO/RJ, a defesa sustentou a remessa do feito ao juízo de primeiro grau. Segundo o STJ:",
+      "options": {
+        "a": "O feito deve ser remetido ao primeiro grau, pois a tese da AP 937 QO/RJ do STF (foro apenas para crimes relacionados à função) se aplica igualmente aos cargos vitalícios listados no art. 105, I, da CF/88.",
+        "d": "O STJ é competente para processar e julgar os ocupantes de cargos vitalícios do art. 105, I, da CF/88 mesmo por crimes sem relação com o exercício da função, em nome da preservação da independência e imparcialidade que orientam a atividade jurisdicional, distinguindo-se do regime aplicável aos ocupantes de cargos político-eletivos.",
+        "e": "A competência do STJ, mesmo para cargos vitalícios, somente subsiste para crimes cometidos no exercício das funções, devendo os demais ser processados na Justiça Comum de primeiro grau.",
+        "b": "A competência para o caso é do Tribunal Regional do Trabalho, por se tratar de membro do Ministério Público do Trabalho, e não do STJ.",
+        "c": "O foro por prerrogativa de função para cargos vitalícios depende de autorização prévia do Conselho Nacional do Ministério Público para cada caso concreto."
+      },
+      "correct": "d",
+      "explanation": "O STJ manteve sua competência: diferentemente da tese da AP 937 QO/RJ (aplicável a agentes políticos), para os cargos vitalícios do art. 105, I, CF/88, o STJ mantém o foro mesmo em crimes sem relação com a função, em nome da preservação da independência e imparcialidade que orientam a atividade jurisdicional, cujo processamento por juízo de primeiro grau poderia comprometer.\n\nSTJ. Corte Especial. QO no Inq 1.937-DF, Rel. Min. Maria Thereza de Assis Moura, Rel. p/ acórdão Min. Antonio Carlos Ferreira, julgado em 15/4/2026 (Info 886).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. Corte Especial. QO no Inq 1.937-DF, Rel. Min. Maria Thereza de Assis Moura, Rel. p/ acórdão Min. Antonio Carlos Ferreira, julgado em 15/4/2026 (Info 886)."
+      },
+      "subject": "Competência do STJ para julgar cargos vitalícios do art. 105, I, mesmo sem relação com a função",
+      "difficulty": "dificil",
+      "miniLesson": "Um Subprocurador-Geral do Trabalho, cargo vitalício listado no art. 105, I, 'a', da CF/88, foi acusado de ofensas e ameaças a um porteiro em desentendimento sem qualquer relação com suas funções institucionais. Invocando a tese fixada na AP 937 QO/RJ, a defesa sustentou a remessa do feito ao juízo de primeiro grau. Segundo o STJ: O STJ manteve sua competência: diferentemente da tese da AP 937 QO/RJ (aplicável a agentes políticos), para os cargos vitalícios do art. 105, I, CF/88, o STJ mantém o foro mesmo em crimes sem relação com a função, em nome da preservação da independência e imparcialidade que orientam a atividade jurisdicional, cujo processamento por juízo de primeiro grau poderia comprometer."
+    },
+    {
+      "id": "pcprjur-obj-101",
+      "topic": "Termo inicial do prazo decadencial para queixa-crime",
+      "question": "Após receber mensagens ofensivas de números variados, um homem teve acesso, em novembro, a documentos de investigação que indicavam a autoria dos fatos, mas somente ofereceu queixa-crime por difamação e injúria mais de seis meses depois, sustentando que a ciência inequívoca da autoria só ocorreria posteriormente. Segundo o STJ, o prazo decadencial de 6 meses do art. 103 do CP:",
+      "options": {
+        "c": "Somente começa a fluir quando o ofendido obtém prova plena e inequívoca da autoria, apta a sustentar, por si só, uma condenação criminal.",
+        "b": "Começa a fluir no dia em que o ofendido toma conhecimento suficiente para identificar o autor do fato e lhe imputar responsabilidade, não se exigindo ciência inequívoca, definitiva ou cabal da autoria; aguardar mais provas antes de oferecer a queixa é opção do ofendido, que corre por sua conta e risco quanto ao prazo.",
+        "a": "Fica suspenso enquanto tramitar inquérito policial destinado a apurar os mesmos fatos, ainda que instaurado por outra vítima.",
+        "d": "Somente começa a fluir a partir da conclusão definitiva do inquérito policial, com relatório final da autoridade policial indicando expressamente a autoria.",
+        "e": "É de natureza prescricional, e não decadencial, podendo ser interrompido por qualquer diligência investigativa realizada pela vítima."
+      },
+      "correct": "b",
+      "explanation": "O STJ manteve o reconhecimento da decadência: o art. 103 do CP fala em 'dia em que veio a saber quem é o autor do crime', não exigindo ciência inequívoca, definitiva ou cabal — basta conhecimento suficiente para identificar o autor e imputar-lhe responsabilidade. Se o ofendido prefere aguardar mais provas, faz por sua conta e risco, pois o prazo decadencial não se suspende por isso.\n\nSTJ. 6ª Turma. AgRg no AREsp 3.080.643-SE, Rel. Min. Rogerio Schietti Cruz, julgado em 14/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. AgRg no AREsp 3.080.643-SE, Rel. Min. Rogerio Schietti Cruz, julgado em 14/4/2026 (Info 887)."
+      },
+      "subject": "Termo inicial do prazo decadencial para queixa-crime",
+      "difficulty": "dificil",
+      "miniLesson": "Após receber mensagens ofensivas de números variados, um homem teve acesso, em novembro, a documentos de investigação que indicavam a autoria dos fatos, mas somente ofereceu queixa-crime por difamação e injúria mais de seis meses depois, sustentando que a ciência inequívoca da autoria só ocorreria posteriormente. Segundo o STJ, o prazo decadencial de 6 meses do art. 103 do CP: O STJ manteve o reconhecimento da decadência: o art. 103 do CP fala em 'dia em que veio a saber quem é o autor do crime', não exigindo ciência inequívoca, definitiva ou cabal — basta conhecimento suficiente para identificar o autor e imputar-lhe responsabilidade. Se o ofendido prefere aguardar mais provas, faz por sua conta e risco, pois o prazo decadencial não se suspende por isso."
+    },
+    {
+      "id": "pcprjur-obj-102",
+      "topic": "Limites do Tribunal de Justiça na pronúncia quanto ao elemento subjetivo",
+      "question": "Em ação penal por homicídio doloso (dolo eventual), o Tribunal de Justiça, examinando minuciosamente imagens de câmeras e depoimentos, concluiu pela ausência de dolo e de culpa do réu, desclassificando a conduta e afastando a competência do Tribunal do Júri, apesar de o juiz ter pronunciado o acusado. Segundo o STJ:",
+      "options": {
+        "b": "A decisão do Tribunal foi correta, pois compete às instâncias ordinárias, antes de submeter o caso ao júri, avaliar exaustivamente as provas para verificar a existência do dolo ou da culpa.",
+        "a": "É vedado ao Tribunal de Justiça, na fase da pronúncia (judicium accusationis), afastar, a partir de análise aprofundada e exauriente das provas, a possibilidade de dolo ou culpa e desclassificar crime doloso contra a vida, sob pena de usurpar a competência constitucional do Tribunal do Júri sobre o elemento subjetivo da conduta; comprovados materialidade e indícios de autoria, impõe-se a pronúncia, reservando-se a dúvida sobre dolo ou culpa ao Conselho de Sentença.",
+        "c": "A desclassificação pelo Tribunal de Justiça, embora excepcional, é sempre válida quando amparada em prova documental e testemunhal já produzida nos autos, ainda que exija reexame aprofundado.",
+        "d": "A competência do Tribunal do Júri sobre o elemento subjetivo só pode ser afastada por decisão do próprio STJ ou do STF, jamais pelo Tribunal de Justiça, ainda que em grau de recurso ordinário.",
+        "e": "A revaloração dos fatos incontroversos pelo STJ, no caso, configurou reexame de prova vedado pela Súmula 7/STJ, o que tornaria a decisão do Tribunal de Justiça insuscetível de reforma."
+      },
+      "correct": "a",
+      "explanation": "O STJ restabeleceu a pronúncia: é vedado ao Tribunal de Justiça, na fase de pronúncia, aprofundar-se na análise das provas para afastar dolo ou culpa e desclassificar crime doloso contra a vida, sob pena de usurpar a competência do Tribunal do Júri; comprovados materialidade e indícios de autoria, a dúvida sobre o elemento subjetivo deve ser reservada ao Conselho de Sentença. A revaloração jurídica de fatos incontroversos para reconhecer essa usurpação não configura reexame de prova vedado pela Súmula 7/STJ.\n\nSTJ. 5ª Turma. AgRg no REsp 2.244.677-PR, Rel. Min. Joel Ilan Paciornik, julgado em 15/4/2026 (Info 887).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no REsp 2.244.677-PR, Rel. Min. Joel Ilan Paciornik, julgado em 15/4/2026 (Info 887)."
+      },
+      "subject": "Limites do Tribunal de Justiça na pronúncia quanto ao elemento subjetivo",
+      "difficulty": "dificil",
+      "miniLesson": "Em ação penal por homicídio doloso (dolo eventual), o Tribunal de Justiça, examinando minuciosamente imagens de câmeras e depoimentos, concluiu pela ausência de dolo e de culpa do réu, desclassificando a conduta e afastando a competência do Tribunal do Júri, apesar de o juiz ter pronunciado o acusado. Segundo o STJ: O STJ restabeleceu a pronúncia: é vedado ao Tribunal de Justiça, na fase de pronúncia, aprofundar-se na análise das provas para afastar dolo ou culpa e desclassificar crime doloso contra a vida, sob pena de usurpar a competência do Tribunal do Júri; comprovados materialidade e indícios de autoria, a dúvida sobre o elemento subjetivo deve ser reservada ao Conselho de Sentença. A revaloração jurídica de fatos incontroversos para reconhecer essa usurpação não configura reexame de prova vedado pela Súmula 7/STJ."
+    },
+    {
+      "id": "pcprjur-obj-103",
+      "topic": "Incompetência do Corregedor-Geral para instaurar inquérito judicial contra magistrado",
+      "question": "Diante de notícia de possíveis crimes cometidos por um juiz, o Corregedor-Geral de Justiça, em vez de encaminhar as informações à polícia ou ao Ministério Público, instaurou ele próprio um 'inquérito judicial' para apurar os fatos, com base em norma regimental, delegando sua condução a um juiz auxiliar e obtendo medidas cautelares contra o magistrado investigado. Segundo o STJ:",
+      "options": {
+        "a": "A instauração foi válida, pois compete à Corregedoria-Geral de Justiça, no exercício do poder disciplinar sobre magistrados, apurar diretamente também os ilícitos penais a eles atribuídos.",
+        "e": "A instauração de inquérito judicial por autoridade administrativa, como o Corregedor-Geral, para apuração de ilícitos criminais viola o princípio acusatório e o devido processo legal, sendo nula desde a origem, pois a persecução penal é exclusiva do Ministério Público e da autoridade policial, vedada a iniciativa do juiz na fase de investigação (art. 3º-A do CPP).",
+        "c": "A instauração é válida enquanto a norma regimental que a autorizava estiver em vigor, ainda que venha a ser posteriormente revogada.",
+        "d": "A nulidade só atingiria os atos praticados após a distribuição do inquérito ao Órgão Especial, permanecendo válidos os atos anteriores praticados pelo Corregedor.",
+        "b": "A instauração é válida, pois medidas cautelares como busca e apreensão e quebra de sigilo, quando referendadas pelo Órgão Especial, sanam qualquer vício de origem do procedimento investigativo."
+      },
+      "correct": "e",
+      "explanation": "O STJ reconheceu a nulidade desde a origem: a instauração de inquérito judicial por autoridade administrativa (o Corregedor-Geral) para apurar ilícitos criminais viola o princípio acusatório e o devido processo legal, pois a persecução penal compete exclusivamente ao Ministério Público e à autoridade policial, sendo vedada a iniciativa do juiz na investigação (art. 3º-A do CPP) — a posterior revogação da norma regimental que previa essa competência reforça a ilegalidade.\n\nSTJ. 5ª Turma. AgRg no HC 943.946-GO, Rel. Min. Messod Azulay Neto, julgado em 5/5/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 5ª Turma. AgRg no HC 943.946-GO, Rel. Min. Messod Azulay Neto, julgado em 5/5/2026 (Info 888)."
+      },
+      "subject": "Incompetência do Corregedor-Geral para instaurar inquérito judicial contra magistrado",
+      "difficulty": "dificil",
+      "miniLesson": "Diante de notícia de possíveis crimes cometidos por um juiz, o Corregedor-Geral de Justiça, em vez de encaminhar as informações à polícia ou ao Ministério Público, instaurou ele próprio um 'inquérito judicial' para apurar os fatos, com base em norma regimental, delegando sua condução a um juiz auxiliar e obtendo medidas cautelares contra o magistrado investigado. Segundo o STJ: O STJ reconheceu a nulidade desde a origem: a instauração de inquérito judicial por autoridade administrativa (o Corregedor-Geral) para apurar ilícitos criminais viola o princípio acusatório e o devido processo legal, pois a persecução penal compete exclusivamente ao Ministério Público e à autoridade policial, sendo vedada a iniciativa do juiz na investigação (art. 3º-A do CPP) — a posterior revogação da norma regimental que previa essa competência reforça a ilegalidade."
+    },
+    {
+      "id": "pcprjur-obj-104",
+      "topic": "Foro por prerrogativa de função após mudança jurisprudencial de 2025 (HC 232.627/DF)",
+      "question": "Um ex-Governador respondia, em primeira instância, por crime praticado no exercício do cargo e em razão das funções, com instrução já concluída e autos conclusos para sentença, quando sobreveio nova orientação do STF (março de 2025) afirmando que a prerrogativa de foro subsiste mesmo após o afastamento do titular. O juiz, então, declinou da competência ao STJ em vez de sentenciar. Segundo as teses fixadas pelo STJ:",
+      "options": {
+        "e": "A remessa foi incorreta, pois a prerrogativa de foro, uma vez afastada pela regra vigente à época do recebimento da denúncia (AP 937 QO/RJ), não pode ser restabelecida por mudança jurisprudencial superveniente, sob pena de violar o juiz natural.",
+        "c": "A prerrogativa de foro no STJ subsiste mesmo após o afastamento do titular do cargo listado no art. 105, I, 'a', da CF/88, para crimes praticados no exercício e em razão das funções, devendo o processo ser remetido ao STJ ainda que iniciado após a saída do cargo e ainda que já encerrada a instrução ou prolatada sentença no juízo antes competente.",
+        "b": "A remessa somente seria correta se a instrução ainda não tivesse sido concluída, pois, encerrada essa fase, a competência se firma definitivamente no juízo de primeiro grau, por preclusão.",
+        "a": "A prerrogativa de foro é aplicável apenas aos processos iniciados antes do afastamento do titular do cargo, não alcançando ações penais ajuizadas posteriormente, ainda que pelos mesmos fatos.",
+        "d": "A mudança de entendimento do STF não se aplica retroativamente a processos já em curso, valendo apenas para fatos praticados após março de 2025."
+      },
+      "correct": "c",
+      "explanation": "O STJ fixou que a prerrogativa de foro subsiste mesmo após o afastamento do titular de cargo do art. 105, I, 'a', CF/88, para crimes praticados no exercício e em razão das funções, devendo o processo ser remetido ao STJ ainda que iniciado depois da saída do cargo e ainda que já encerrada a instrução ou proferida sentença no juízo então competente — o magistrado agiu corretamente ao declinar da competência.\n\nSTJ. Corte Especial. QO na APn 1140-DF, Rel. Min. Luis Felipe Salomão, julgado em 6/5/2026 (Info 888).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. Corte Especial. QO na APn 1140-DF, Rel. Min. Luis Felipe Salomão, julgado em 6/5/2026 (Info 888)."
+      },
+      "subject": "Foro por prerrogativa de função após mudança jurisprudencial de 2025 (HC 232.627/DF)",
+      "difficulty": "dificil",
+      "miniLesson": "Um ex-Governador respondia, em primeira instância, por crime praticado no exercício do cargo e em razão das funções, com instrução já concluída e autos conclusos para sentença, quando sobreveio nova orientação do STF (março de 2025) afirmando que a prerrogativa de foro subsiste mesmo após o afastamento do titular. O juiz, então, declinou da competência ao STJ em vez de sentenciar. Segundo as teses fixadas pelo STJ: O STJ fixou que a prerrogativa de foro subsiste mesmo após o afastamento do titular de cargo do art. 105, I, 'a', CF/88, para crimes praticados no exercício e em razão das funções, devendo o processo ser remetido ao STJ ainda que iniciado depois da saída do cargo e ainda que já encerrada a instrução ou proferida sentença no juízo então competente — o magistrado agiu corretamente ao declinar da competência."
+    },
+    {
+      "id": "pcprjur-obj-105",
+      "topic": "Retratação tardia da vítima em delito sexual e revisão criminal",
+      "question": "Condenado por estupro de vulnerável contra duas enteadas, com condenação transitada em julgado com base em depoimentos firmes e coerentes das vítimas, o réu obteve, 11 anos depois, êxito em revisão criminal perante o Tribunal de Justiça, após as vítimas, já maiores, apresentarem depoimentos oscilantes de retratação em ação de justificação criminal. Segundo o STJ, que restabeleceu a condenação:",
+      "options": {
+        "c": "A retratação da vítima, por si só, sempre autoriza a absolvição em revisão criminal, independentemente das demais provas que ampararam a condenação original.",
+        "d": "A revisão criminal exige prova nova produzida judicialmente, sob contraditório, que demonstre de forma clara e segura a inocência ou a inexistência do fato; nos delitos sexuais, a retratação da vítima não conduz, por si só, à absolvição, sobretudo quando dissociada do conjunto probatório da condenação e marcada por contradições, lacunas de memória e motivações extraprocessuais, devendo-se observar especial cautela em razão da proteção integral à criança e ao adolescente.",
+        "b": "A ação de justificação criminal é via processual adequada e suficiente, por si só, para desconstituir condenação transitada em julgado por crime sexual contra vulnerável, independentemente de posterior revisão criminal.",
+        "a": "A retratação da vítima, quando acompanhada de manifestação de perdão ao condenado, vincula obrigatoriamente o Poder Judiciário à extinção da pena, por ausência de interesse da vítima na manutenção da condenação.",
+        "e": "A revisão criminal deveria ter sido negada por ausência de fundamento legal, pois o ordenamento brasileiro não admite, em qualquer hipótese, a rediscussão de condenação transitada em julgado."
+      },
+      "correct": "d",
+      "explanation": "O STJ restabeleceu a condenação: a revisão criminal (art. 621, III, CPP) exige prova nova, produzida sob contraditório, que demonstre com clareza e segurança a inocência ou inexistência do fato; a retratação tardia da vítima, especialmente quando contraditória, com lacunas de memória e motivações extraprocessuais (como o perdão manifestado), não basta para essa desconstituição, exigindo-se cautela redobrada nos crimes sexuais contra vulnerável, em razão da proteção integral que lhes é devida.\n\nSTJ. 6ª Turma. REsp 2.252.657-PB, Rel. Min. Og Fernandes, julgado em 15/4/2026 (Info 889).",
+      "source": {
+        "folder": "PCPR/Jurisprudência",
+        "document": "Direito Processual Penal",
+        "page": "Maio/2026",
+        "citation": "STJ. 6ª Turma. REsp 2.252.657-PB, Rel. Min. Og Fernandes, julgado em 15/4/2026 (Info 889)."
+      },
+      "subject": "Retratação tardia da vítima em delito sexual e revisão criminal",
+      "difficulty": "dificil",
+      "miniLesson": "Condenado por estupro de vulnerável contra duas enteadas, com condenação transitada em julgado com base em depoimentos firmes e coerentes das vítimas, o réu obteve, 11 anos depois, êxito em revisão criminal perante o Tribunal de Justiça, após as vítimas, já maiores, apresentarem depoimentos oscilantes de retratação em ação de justificação criminal. Segundo o STJ, que restabeleceu a condenação: O STJ restabeleceu a condenação: a revisão criminal (art. 621, III, CPP) exige prova nova, produzida sob contraditório, que demonstre com clareza e segurança a inocência ou inexistência do fato; a retratação tardia da vítima, especialmente quando contraditória, com lacunas de memória e motivações extraprocessuais (como o perdão manifestado), não basta para essa desconstituição, exigindo-se cautela redobrada nos crimes sexuais contra vulnerável, em razão da proteção integral que lhes é devida."
     }
   ],
   "discursive": [],
